@@ -1,0 +1,59 @@
+{
+  "alerts": [
+    {
+      "ts": "2026-05-25T23:03:54.239259+00:00",
+      "kind": "shadow",
+      "payload": {
+        "fp": "c244e0982eb92cb9",
+        "score": 60,
+        "category": "ufc_anticipation",
+        "title": "UFC construction at White House underway, rendering released - KWQC"
+      }
+    },
+    {
+      "ts": "2026-05-25T23:05:06.483617+00:00",
+      "kind": "event_anticipation",
+      "payload": {
+        "key": "event::champions_league_final_2026::small",
+        "event_id": "champions_league_final_2026",
+        "window": "small"
+      }
+    },
+    {
+      "ts": "2026-05-25T23:05:06.852361+00:00",
+      "kind": "event_anticipation",
+      "payload": {
+        "key": "event::trump_dormant_watch::small",
+        "event_id": "trump_dormant_watch",
+        "window": "small"
+      }
+    },
+    {
+      "ts": "2026-05-25T23:05:07.269758+00:00",
+      "kind": "event_anticipation",
+      "payload": {
+        "key": "event::nba_finals_2026::medium",
+        "event_id": "nba_finals_2026",
+        "window": "medium"
+      }
+    },
+    {
+      "ts": "2026-05-25T23:05:07.641448+00:00",
+      "kind": "event_anticipation",
+      "payload": {
+        "key": "event::world_cup_2026_kickoff::major",
+        "event_id": "world_cup_2026_kickoff",
+        "window": "major"
+      }
+    },
+    {
+      "ts": "2026-05-25T23:05:07.985602+00:00",
+      "kind": "event_anticipation",
+      "payload": {
+        "key": "event::ufc_white_house_topuria_gaethje::major",
+        "event_id": "ufc_white_house_topuria_gaethje",
+        "window": "major"
+      }
+    }
+  ]
+}
