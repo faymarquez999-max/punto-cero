@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Narrative Alpha Hunter — Dashboard</title>
+<style>
+  :root {
+    --bg: #0b0d10; --card: #15191e; --text: #e8eaed; --muted: #8a93a0;
+    --accent: #ff6b35; --good: #4caf50; --warn: #ffb300; --bad: #ef5350;
+    --border: #232830; --whale: #7c4dff;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text);
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5; }
+  header { padding: 24px; border-bottom: 1px solid var(--border); }
+  h1 { margin: 0; font-size: 22px; }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 800px) { .grid { grid-template-columns: 1fr; } }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px; margin-bottom: 16px; }
+  .card h2 { margin: 0 0 12px; font-size: 16px; color: var(--accent); }
+  .stat { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .stat:last-child { border: 0; }
+  .label { color: var(--muted); font-size: 13px; }
+  .val { font-weight: 600; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 8px; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 500; }
+  .score { display: inline-block; padding: 2px 8px; border-radius: 4px; font-weight: 600;
+    background: rgba(76, 175, 80, .12); color: var(--good); }
+  .score.warn { background: rgba(255, 179, 0, .12); color: var(--warn); }
+  .score.bad { background: rgba(239, 83, 80, .12); color: var(--bad); }
+  .rr { display: inline-block; padding: 2px 8px; border-radius: 4px; font-weight: 600;
+    background: rgba(124, 77, 255, .12); color: var(--whale); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .cat { font-size: 11px; padding: 2px 6px; background: rgba(255, 107, 53, .12);
+    color: var(--accent); border-radius: 3px; }
+  .ls { font-size: 11px; padding: 2px 6px; border-radius: 3px; }
+  .ls.DORMANT_PUMPER { background: rgba(124, 77, 255, .2); color: var(--whale); }
+  .ls.RECOVERING { background: rgba(76, 175, 80, .2); color: var(--good); }
+  .ls.FRESH_LAUNCH { background: rgba(255, 179, 0, .2); color: var(--warn); }
+  .ls.ACTIVE { background: rgba(76, 175, 80, .1); color: var(--good); }
+  .ls.DEAD { background: rgba(239, 83, 80, .2); color: var(--bad); }
+  .empty { color: var(--muted); font-style: italic; padding: 12px 0; }
+  .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 32px 0; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+  .tab { padding: 6px 12px; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 6px; cursor: pointer; font-size: 12px; color: var(--muted); }
+  .tab.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .alert-row { display: flex; flex-direction: column; padding: 10px 0; border-bottom: 1px solid var(--border); gap: 4px; }
+  .alert-row .meta { display: flex; gap: 8px; align-items: center; font-size: 11px; color: var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎯 Narrative Alpha Hunter</h1>
+  <div class="sub" id="last-update">Cargando…</div>
+</header>
+<main>
+  <div class="grid">
+    <div class="card">
+      <h2>📊 Status</h2>
+      <div id="status-block">Cargando…</div>
+    </div>
+    <div class="card">
+      <h2>📅 Eventos próximos (anticipación)</h2>
+      <div id="events-block">Cargando…</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🚨 Alertas (todas, últimas 80)</h2>
+    <div class="tabs" id="alert-tabs">
+      <span class="tab active" data-kind="all">Todas</span>
+      <span class="tab" data-kind="narrative">🔥 Narrativas</span>
+      <span class="tab" data-kind="event_linked">🎯 Event-Linked</span>
+      <span class="tab" data-kind="new_launch_for_event">💎 New Launch</span>
+      <span class="tab" data-kind="confluence">🐋 Confluence</span>
+      <span class="tab" data-kind="wakeup">💤 Wake-up</span>
+      <span class="tab" data-kind="ticker_velocity">⚡ Velocity</span>
+      <span class="tab" data-kind="shadow">🌑 Shadow</span>
+    </div>
+    <div id="alerts-list"></div>
+    <div class="empty" id="alerts-empty" style="display:none">Sin alertas todavía.</div>
+  </div>
+
+  <div class="card">
+    <h2>💎 Event-Linked Coin Watchlist (lifecycle + R/R)</h2>
+    <table id="event-coins-table">
+      <thead><tr><th>Ticker</th><th>Evento</th><th>Estado</th><th>MC</th><th>Drawdown</th><th>Upside</th><th>R/R</th><th>Días al evento</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <div class="empty" id="event-coins-empty" style="display:none">Aún no hay event coins tracked. Edita config/events.yaml → known_coins.</div>
+  </div>
+
+  <div class="footer">
+    Datos leídos de <code>data/*.json</code> · actualizado cada ciclo.
+  </div>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+async function fetchJson(p) {
+  try { const r = await fetch(p + "?t=" + Date.now()); if (!r.ok) return null;
+        return await r.json(); }
+  catch (e) { return null; }
+}
+function scoreClass(s) { return s >= 83 ? "score" : (s >= 60 ? "score warn" : "score bad"); }
+function fmtTime(iso) { try { return new Date(iso).toLocaleString(); } catch { return iso; } }
+function fmtMC(mc) { return "$" + (mc || 0).toLocaleString(); }
+
+let allAlerts = [];
+let currentFilter = "all";
+
+function renderAlerts() {
+  const list = $("alerts-list");
+  list.innerHTML = "";
+  const filtered = currentFilter === "all"
+    ? allAlerts
+    : allAlerts.filter(a => a.kind === currentFilter);
+  if (!filtered.length) { $("alerts-empty").style.display = ""; return; }
+  $("alerts-empty").style.display = "none";
+  filtered.slice(0, 80).forEach(a => {
+    const p = a.payload || {};
+    const div = document.createElement("div");
+    div.className = "alert-row";
+    let title = p.title || p.ticker || p.event_id || p.mint || "?";
+    let extra = "";
+    if (a.kind === "narrative") {
+      extra = `<span class="${scoreClass(p.score)}">${p.score}</span> <span class="cat">${p.category||""}</span>`;
+    } else if (a.kind === "event_linked") {
+      extra = `<span class="rr">R/R ${p.rr || "?"}</span> <span class="cat">${p.event_id||""}</span>`;
+    } else if (a.kind === "shadow") {
+      extra = `<span class="${scoreClass(p.score)}">${p.score}</span> shadow`;
+    } else if (a.kind === "ticker_velocity") {
+      title = `$${p.ticker} x${p.spike_ratio}`;
+    } else if (a.kind === "confluence") {
+      title = `${p.buyer_count} wallets en ${(p.mint||"").slice(0,16)}...`;
+    } else if (a.kind === "wakeup") {
+      title = `${(p.wallet||"").slice(0,16)}... → ${(p.mint||"").slice(0,16)}...`;
+    } else if (a.kind === "new_launch_for_event") {
+      title = `$${p.ticker} para ${p.event}`;
+    }
+    div.innerHTML = `
+      <div class="meta">
+        <span>${fmtTime(a.ts)}</span>
+        <span class="cat">${a.kind}</span>
+        ${extra}
+      </div>
+      <div>${title}</div>
+    `;
+    list.appendChild(div);
+  });
+}
+
+document.addEventListener("click", (e) => {
+  if (e.target.classList.contains("tab")) {
+    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    e.target.classList.add("active");
+    currentFilter = e.target.dataset.kind;
+    renderAlerts();
+  }
+});
+
+(async () => {
+  const [alerts, eventCoins, health] = await Promise.all([
+    fetchJson("../data/alerts_log.json"),
+    fetchJson("../data/event_coins.json"),
+    fetchJson("../data/health.json"),
+  ]);
+
+  // Status
+  if (health) {
+    $("status-block").innerHTML =
+      `<div class="stat"><span class="label">Último ciclo</span><span class="val">${fmtTime(health.last_run_at)}</span></div>`
+    + `<div class="stat"><span class="label">Señales</span><span class="val">${health.last_signal_count ?? "?"}</span></div>`
+    + `<div class="stat"><span class="label">Zero-streak</span><span class="val">${health.zero_streak ?? 0}</span></div>`;
+    $("last-update").textContent = "Última actualización: " + fmtTime(health.last_run_at);
+  } else { $("status-block").innerHTML = `<div class="empty">No hay datos de health todavía.</div>`; }
+
+  // Alerts
+  if (alerts && alerts.alerts) {
+    allAlerts = alerts.alerts.slice(-200).reverse();
+    renderAlerts();
+
+    // Events block: solo alertas de event_anticipation
+    const evAlerts = allAlerts.filter(a => a.kind === "event_anticipation").slice(0, 10);
+    if (evAlerts.length) {
+      $("events-block").innerHTML = evAlerts.map(e => {
+        const p = e.payload || {};
+        return `<div class="stat"><span class="label">${fmtTime(e.ts)}</span><span class="val">${p.event_id} · ${p.window}</span></div>`;
+      }).join("");
+    } else {
+      $("events-block").innerHTML = `<div class="empty">Sin alertas de eventos recientes.</div>`;
+    }
+  } else {
+    $("alerts-empty").style.display = "";
+    $("events-block").innerHTML = `<div class="empty">Sin datos todavía.</div>`;
+  }
+
+  // Event coins watchlist
+  if (eventCoins && eventCoins.events) {
+    const tbody = $("event-coins-table").querySelector("tbody");
+    const rows = [];
+    for (const [evId, ev] of Object.entries(eventCoins.events)) {
+      const evName = ev.name || evId;
+      for (const [mint, c] of Object.entries(ev.coins || {})) {
+        const rr = c.rr || {};
+        rows.push({
+          ticker: c.ticker,
+          event: evName,
+          state: c.lifecycle_state,
+          mc: c.market_cap_usd,
+          drawdown: rr.drawdown_pct,
+          upside: rr.upside_to_50pct_ath_x,
+          rrScore: rr.rr_score,
+          days: c.days_to_event,
+          url: c.url,
+        });
+      }
+    }
+    rows.sort((a,b) => (b.rrScore||0) - (a.rrScore||0));
+    if (!rows.length) { $("event-coins-empty").style.display = ""; }
+    rows.slice(0, 40).forEach(r => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td><a href="${r.url||"#"}" target="_blank"><b>$${r.ticker||"?"}</b></a></td>`
+        + `<td style="font-size:11px">${r.event||""}</td>`
+        + `<td><span class="ls ${r.state||""}">${r.state||""}</span></td>`
+        + `<td>${fmtMC(r.mc)}</td>`
+        + `<td>${r.drawdown!=null ? r.drawdown.toFixed(0)+"%" : "-"}</td>`
+        + `<td>${r.upside!=null ? r.upside+"x" : "-"}</td>`
+        + `<td><span class="rr">${r.rrScore||0}</span></td>`
+        + `<td>${r.days!=null ? r.days+"d" : "-"}</td>`;
+      tbody.appendChild(tr);
+    });
+  } else {
+    $("event-coins-empty").style.display = "";
+  }
+})();
+</script>
+</body>
+</html>

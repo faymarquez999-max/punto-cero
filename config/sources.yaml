@@ -1,0 +1,147 @@
+# Fuentes a monitorizar — multi-idioma, multi-plataforma
+
+reddit:
+  enabled: true
+  subreddits:
+    - CryptoCurrency
+    - CryptoMoonShots
+    - solana
+    - SatoshiStreetBets
+    - memecoinmoonshots
+    - solanamemes
+    - all
+    - PublicFreakout
+    - nextfuckinglevel
+    - Damnthatsinteresting
+    - interestingasfuck
+    - news
+    - worldnews
+    - UFC
+    - GTA6
+    - UFOs
+    - soccer
+    - nba
+    - spain
+    - es
+    - argentina
+    - uruguay
+    - mexico
+  hot_limit: 30
+  min_score: 100
+  also_fetch_rising: true
+
+google_news:
+  enabled: true
+  feeds:
+    - "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    - "https://news.google.com/rss?hl=es-ES&gl=ES&ceid=ES:es"
+    - "https://news.google.com/rss/search?q=viral+OR+breaking&hl=en"
+    - "https://news.google.com/rss/search?q=ufc+OR+topuria+OR+mcgregor+OR+gaethje&hl=en"
+    - "https://news.google.com/rss/search?q=memecoin+OR+solana+OR+pump.fun&hl=en"
+    - "https://news.google.com/rss/search?q=gta+vi+OR+rockstar+OR+leonida&hl=en"
+    - "https://news.google.com/rss/search?q=ufo+OR+aliens+OR+pentagon&hl=en"
+    - "https://news.google.com/rss/search?q=trump+OR+maga&hl=en"
+    - "https://news.google.com/rss/search?q=world+cup+2026&hl=en"
+    - "https://news.google.com/rss/search?q=ai+agent+OR+ai+token+OR+fartcoin&hl=en"
+    - "https://news.google.com/rss/search?q=topuria+OR+ilia+topuria&hl=es-ES&gl=ES"
+    - "https://news.google.com/rss/search?q=memecoin+OR+criptomoneda&hl=es-ES&gl=ES"
+    - "https://news.google.com/rss/search?q=viral+OR+ultima+hora&hl=es-ES&gl=ES"
+    - "https://news.google.com/rss/search?q=gta+6+OR+gta+vi&hl=es-ES&gl=ES"
+
+google_trends:
+  enabled: true
+  geo_targets: ["US", "ES", "GB", "AR", "MX"]
+  trending_check_interval_min: 30
+
+telegram_channels:
+  enabled: false
+  channels:
+    - "@solearlytrending"
+    - "@dexscreener"
+
+bluesky:
+  enabled: true
+  search_queries:
+    - "pump.fun"
+    - "memecoin"
+    - "solana meme"
+    - "topuria"
+    - "gta vi"
+    - "viral"
+    - "$WIF OR $BONK OR $PEPE"
+    - "ai agent token"
+    - "trump coin"
+
+nitter:
+  enabled: true
+  instances:
+    - "https://xcancel.com"
+    - "https://nitter.privacydev.net"
+    - "https://nitter.poast.org"
+    - "https://nitter.tiekoetter.com"
+  search_queries:
+    - "memecoin"
+    - "pump.fun"
+    - "$PEPE OR $WIF OR $BONK OR $TRUMP"
+    - "topuria"
+    - "gta vi"
+
+# === FUENTE NUEVA: 4chan /biz/ ===
+fourchan_biz:
+  enabled: true
+  catalog_url: "https://a.4cdn.org/biz/catalog.json"
+  thread_url_template: "https://a.4cdn.org/biz/thread/{id}.json"
+  # Mínimo de menciones de ticker en hilos para considerar señal
+  min_ticker_mentions: 3
+  max_threads_to_scan: 60
+  # Tickers ignorados (demasiado genéricos)
+  ignored_tickers: ["USDC", "USDT", "ETH", "BTC", "SOL", "USD", "EUR", "GBP"]
+
+# === FUENTE NUEVA: Solana Tracker ===
+solana_tracker:
+  enabled: true
+  # Free tier registrarse en solanatracker.io (opcional pero recomendado)
+  api_key_env: "SOLANATRACKER_API_KEY"
+  trending_timeframe: "1h"     # 5m, 1h, 6h, 24h
+  trending_limit: 30
+
+# === FUENTE NUEVA: GMGN web scraper ===
+gmgn:
+  enabled: true
+  trending_url: "https://gmgn.ai/sol/trending"
+  # No requiere API key — scrape público
+  max_tokens: 20
+
+crypto_sources:
+  pump_fun:
+    enabled: true
+    new_tokens_limit: 100
+    min_mc_usd: 1000
+    max_mc_usd: 200000
+    require_socials: true
+    require_description: true
+    min_description_chars: 20
+
+  dexscreener:
+    enabled: true
+    chains: ["solana"]
+    trending_limit: 30
+    min_mc_usd: 5000
+    max_mc_usd: 500000
+
+  birdeye:
+    enabled: false
+
+  rugcheck:
+    enabled: true
+    min_safety_score: 50
+
+# === SMART MONEY (Helius RPC) ===
+smart_money_rpc:
+  enabled: true
+  # Free RPC: https://api.mainnet-beta.solana.com (público, rate limited)
+  # Mejor: Helius free API key https://helius.dev — pegar en env HELIUS_API_KEY
+  rpc_url_env: "HELIUS_RPC_URL"      # opcional, fallback a public si vacío
+  fallback_public_rpc: "https://api.mainnet-beta.solana.com"
+  # Cuántas transacciones recientes mirar por wallet por ciclo
+  recent_tx_limit: 10

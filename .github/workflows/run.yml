@@ -1,0 +1,54 @@
+name: Narrative Alpha Hunter — Main Cycle
+
+on:
+  schedule:
+    # Cada 15 minutos — balance entre frescura y consumo de Actions minutes
+    # Repo PRIVADO: 1440 min/mes free → 96 runs/día × 30d × ~0.4 min ≈ 1150 min ✓
+    # Repo PÚBLICO: minutos ilimitados, puedes bajar a "*/5 * * * *"
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nah-run
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run hunter
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          BIRDEYE_API_KEY: ${{ secrets.BIRDEYE_API_KEY }}
+          SOLANATRACKER_API_KEY: ${{ secrets.SOLANATRACKER_API_KEY }}
+          HELIUS_RPC_URL: ${{ secrets.HELIUS_RPC_URL }}
+        run: python -m src.main
+
+      - name: Commit memory
+        if: always()
+        run: |
+          git config user.name "narrative-hunter-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ || true
+          git diff --cached --quiet || git commit -m "memory: $(date -u +%FT%TZ)"
+          git push || true

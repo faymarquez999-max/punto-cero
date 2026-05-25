@@ -1,0 +1,231 @@
+# Calendario de eventos con narrativa proximity tiers
+# narrative_tier: critical | high | medium | low
+# known_coins: tickers que YA existen vinculados al evento (event-linked watchlist)
+# coin_themes: keywords para buscar coins nuevos en Pump.fun / Dexscreener
+# El sistema mantiene watchlist permanente por evento y trackea lifecycle de cada coin
+
+events:
+
+  # === UFC CASA BLANCA — TOPURIA vs GAETHJE ===
+  - id: ufc_white_house_topuria_gaethje
+    name: "UFC en la Casa Blanca — Topuria vs Gaethje"
+    date: 2026-06-14
+    confidence: confirmed
+    narrative_tier: critical
+    category: ufc_victory
+    narrative: "Primer UFC en la Casa Blanca de la historia. Topuria (español) defiende título 155 vs Gaethje. Dana White + Trump. Narrativa MÁXIMA — patriotismo USA + orgullo España."
+    keywords: ["topuria", "ilia topuria", "el matador", "ufc white house", "casa blanca ufc", "topuria gaethje", "gaethje topuria", "ufc washington", "dana white trump"]
+    coin_themes: ["TOPURIA", "MATADOR", "ILIA", "WHITEHOUSE", "GAETHJE", "TRUMPUFC", "DANAWHITE", "UFCDC"]
+    known_coins: ["UFC", "WHITEHOUSE", "MATADOR", "UFCWH"]  # actualizable manualmente
+    historical_pattern: "Topuria genera pumps masivos cada pelea (vs Holloway, Oliveira). Casa Blanca + Trump multiplica por 5 — narrativa cruzada España/USA/política."
+    expected_pump_window_hours: 168  # 7 días pre + post evento
+    priority: critical
+
+  # === GAMING ===
+  - id: gta_vi_launch
+    name: "GTA VI lanzamiento"
+    date: 2026-11-19
+    confidence: confirmed
+    narrative_tier: critical
+    category: gaming_anticipation
+    narrative: "Lanzamiento gaming más anticipado del siglo. Vice City, Lucia y Jason protagonistas, Miami estética. Romperá Internet día 1."
+    keywords: ["gta vi", "gta 6", "rockstar", "vice city", "lucia gta", "jason gta", "leonida"]
+    coin_themes: ["GTAVI", "GTA6", "VICE", "LUCIA", "JASON", "LEONIDA", "ROCKSTAR", "VICECITY"]
+    known_coins: ["GTA", "VICE", "LUCIA", "JASON"]
+    historical_pattern: "Trailer 1 (dic 2023) y Trailer 2 (may 2025) generaron pumps masivos. Lanzamiento real será 10-20x."
+    expected_pump_window_hours: 720  # 30 días pre + post
+
+  - id: gta_vi_trailer_3_window
+    name: "GTA VI Trailer 3 ventana esperada"
+    date: 2026-09-15
+    confidence: speculative
+    narrative_tier: high
+    category: gaming_anticipation
+    narrative: "Trailer final típicamente 6-10 semanas antes del lanzamiento."
+    keywords: ["gta vi trailer", "gta 6 trailer 3", "rockstar trailer"]
+    coin_themes: ["GTAVI", "LUCIA", "VICE", "TRAILER"]
+    known_coins: ["GTA", "VICE", "LUCIA"]
+    expected_pump_window_hours: 48
+
+  # === MUNDIAL 2026 ===
+  - id: world_cup_2026_kickoff
+    name: "Mundial 2026 inicio (USA/México/Canadá)"
+    date: 2026-06-11
+    confidence: confirmed
+    narrative_tier: critical
+    category: sports_national
+    narrative: "Inicio del Mundial. Coins por país, partidos clave, sorpresas. España candidata fuerte. Argentina defendiendo título."
+    keywords: ["world cup 2026", "mundial 2026", "fifa world cup", "españa mundial", "argentina mundial"]
+    coin_themes: ["ESPAÑA", "ARGENTINA", "FRANCE", "BRAZIL", "MEXICO", "FIFA", "WORLDCUP", "MUNDIAL"]
+    known_coins: ["FIFA", "ESPAÑA", "ARGENTINA"]
+    historical_pattern: "Mundial 2022 vio MESSI, ARG, AFA pumpear. Cada selección que avanza genera coins."
+    expected_pump_window_hours: 1008  # 42 días (duración Mundial)
+
+  - id: world_cup_2026_final
+    name: "Mundial 2026 final"
+    date: 2026-07-19
+    confidence: confirmed
+    narrative_tier: critical
+    category: sports_national
+    narrative: "Final del Mundial. La selección ganadora generará pump masivo de coins nacionales."
+    keywords: ["world cup final", "mundial final 2026", "world champion"]
+    coin_themes: ["CAMPEON", "CHAMPION", "WORLDCUP", "FINAL"]
+    known_coins: ["FIFA", "WORLDCUP"]
+    expected_pump_window_hours: 96
+
+  # === UFC ===
+  - id: ufc_paris_2026
+    name: "UFC Paris (esperado otoño 2026)"
+    date: 2026-09-12
+    confidence: speculative
+    narrative_tier: medium
+    category: ufc_victory
+    narrative: "Evento UFC en Europa."
+    keywords: ["ufc paris", "ufc france"]
+    coin_themes: ["UFCPARIS", "UFCFRANCE"]
+    known_coins: ["UFC"]
+    expected_pump_window_hours: 72
+
+  - id: mcgregor_return
+    name: "Conor McGregor regreso UFC (sin fecha confirmada)"
+    date: 2026-12-01
+    confidence: speculative
+    narrative_tier: high
+    category: ufc_return
+    narrative: "McGregor genera narrativas masivas cada vez que pelea, anuncia o tweetea. Watch permanente."
+    keywords: ["mcgregor", "conor mcgregor", "notorious", "the notorious"]
+    coin_themes: ["CONOR", "NOTORIOUS", "MCGREGOR"]
+    known_coins: ["CONOR", "MCGREGOR"]
+    expected_pump_window_hours: 168
+
+  # === SPORTS ===
+  - id: champions_league_final_2026
+    name: "Champions League Final 2026"
+    date: 2026-05-30
+    confidence: confirmed
+    narrative_tier: high
+    category: sports_national
+    narrative: "Final UCL — narrativa de clubes históricos."
+    keywords: ["champions league final", "ucl final 2026", "final champions"]
+    coin_themes: ["UCL", "REAL", "BARCA", "CITY", "PSG"]
+    known_coins: ["UCL"]
+    expected_pump_window_hours: 72
+
+  - id: nba_finals_2026
+    name: "NBA Finals 2026"
+    date: 2026-06-04
+    confidence: confirmed
+    narrative_tier: medium
+    category: sports_national
+    narrative: "Finales NBA — narrativa de jugadores estrella, equipos icónicos."
+    keywords: ["nba finals", "nba championship", "nba finals 2026"]
+    coin_themes: ["NBA", "LEBRON", "CURRY"]
+    known_coins: ["NBA"]
+    expected_pump_window_hours: 240
+
+  - id: super_bowl_lxi
+    name: "Super Bowl LXI"
+    date: 2027-02-07
+    confidence: confirmed
+    narrative_tier: high
+    category: sports_national
+    narrative: "Super Bowl genera narrativas (Taylor Swift, halftime, etc.). Memes virales garantizados."
+    keywords: ["super bowl", "superbowl lxi", "halftime show"]
+    coin_themes: ["SUPERBOWL", "NFL", "TAYLOR"]
+    known_coins: ["NFL", "TAYLOR"]
+    expected_pump_window_hours: 168
+
+  # === POLÍTICA / POLITIFI ===
+  - id: us_midterms_2026
+    name: "Elecciones midterm USA 2026"
+    date: 2026-11-03
+    confidence: confirmed
+    narrative_tier: critical
+    category: political_shock
+    narrative: "Midterms — narrativas Trump/MAGA/Dems explosivas. PolitiFi meta 2026."
+    keywords: ["midterms 2026", "us elections 2026", "house senate", "trump 2026"]
+    coin_themes: ["MAGA", "TRUMP", "DEMS", "MIDTERMS", "GOP"]
+    known_coins: ["TRUMP", "MELANIA", "MAGA"]
+    expected_pump_window_hours: 1440  # 60 días
+
+  - id: trump_dormant_watch
+    name: "Trump dormant catalysts (galas, executive orders, summits)"
+    date: 2026-06-01    # placeholder — siempre activo
+    confidence: speculative
+    narrative_tier: critical
+    category: political_shock
+    narrative: "TRUMP coin tiene history de dormant whale pumps (April gala +60%). Cualquier evento Trump = potencial pump."
+    keywords: ["trump", "white house", "maga", "executive order"]
+    coin_themes: ["TRUMP", "MAGA", "TRUMP2"]
+    known_coins: ["TRUMP", "MELANIA", "MAGA"]
+    historical_pattern: "April 25 gala: dormant 5-month wallet bought 2.2M TRUMP → +60% in hours"
+    expected_pump_window_hours: 720
+    always_active: true
+
+  # === CRYPTO MACRO ===
+  - id: post_halving_altseason_window
+    name: "Ventana post-halving altcoin season"
+    date: 2026-10-15
+    confidence: speculative
+    narrative_tier: high
+    category: meme_classic_revival
+    narrative: "Pico típico de ciclo cripto 18-24 meses post-halving (abril 2024). Temporada altcoin/memecoin esperada Q4 2026."
+    keywords: ["altseason", "memecoin season", "altcoin season"]
+    coin_themes: []
+    known_coins: []
+    expected_pump_window_hours: 2160  # 90 días
+
+  # === FECHAS RECURRENTES ===
+  - id: moo_deng_birthday
+    name: "Moo Deng cumpleaños (hipopótamo viral Thailand)"
+    date: 2026-07-10
+    confidence: speculative
+    narrative_tier: medium
+    category: emotional_injustice
+    narrative: "Moo Deng — hipopótamo viral Thailand. Su cumple genera pumps en MOODENG coin recurrentes."
+    keywords: ["moo deng", "moodeng", "hippo thailand"]
+    coin_themes: ["MOODENG", "HIPPO"]
+    known_coins: ["MOODENG"]
+    historical_pattern: "Cada vez que Moo Deng aparece en news/social, MOODENG coin pumpea. Cumpleaños = recurring catalyst."
+    expected_pump_window_hours: 96
+
+  - id: halloween_2026
+    name: "Halloween 2026"
+    date: 2026-10-31
+    confidence: confirmed
+    narrative_tier: medium
+    category: viral_moment
+    narrative: "Halloween — ventana garantizada de coins spooky/ghost/zombie/witch."
+    keywords: ["halloween", "spooky", "ghost", "zombie", "witch"]
+    coin_themes: ["SPOOKY", "GHOST", "PUMPKIN", "WITCH", "ZOMBIE"]
+    known_coins: []
+    expected_pump_window_hours: 240
+
+  - id: black_friday_2026
+    name: "Black Friday 2026"
+    date: 2026-11-27
+    confidence: confirmed
+    narrative_tier: low
+    category: viral_moment
+    narrative: "Black Friday — narrativas consumismo, ofertas, anti-corp."
+    keywords: ["black friday", "cyber monday"]
+    coin_themes: ["BLACKFRIDAY"]
+    known_coins: []
+    expected_pump_window_hours: 72
+
+  - id: christmas_2026
+    name: "Navidad 2026"
+    date: 2026-12-25
+    confidence: confirmed
+    narrative_tier: medium
+    category: viral_moment
+    narrative: "Coins Santa/elf/gift/christmas. Patrón recurrente cada diciembre."
+    keywords: ["christmas", "santa", "navidad", "noel"]
+    coin_themes: ["SANTA", "XMAS", "ELF", "RUDOLPH"]
+    known_coins: []
+    expected_pump_window_hours: 168
+
+# NOTAS:
+# - `known_coins` se actualiza manualmente cuando detectas coins event-linked
+# - El Event Coin Watcher escanea estas listas en cada ciclo y trackea lifecycle
+# - `always_active: true` significa que se considera siempre (no solo por fecha)

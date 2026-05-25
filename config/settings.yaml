@@ -1,0 +1,130 @@
+# Configuración global de comportamiento
+
+scoring:
+  min_alert_score: 83
+  shadow_log_score: 60
+  llm_model_primary: "llama-3.3-70b-versatile"
+  llm_model_fallback: "llama-3.1-8b-instant"
+  llm_provider: "groq"
+  llm_temperature: 0.3
+
+momentum_boost:
+  enabled: true
+  multi_source_threshold: 3
+  multi_source_bonus: 8
+  velocity_window_hours: 2
+  velocity_x2_bonus: 5
+
+anticipation_windows:
+  major_event_days: 30
+  medium_event_days: 14
+  small_event_days: 7
+  imminent_event_days: 3
+  critical_event_multiplier: 2
+
+deduplication:
+  narrative_cooldown_hours: 24
+  coin_cooldown_hours: 12
+  event_coin_alert_cooldown_hours: 48
+  whale_confluence_cooldown_hours: 6
+  use_semantic_fingerprint: true
+
+crypto_hunter:
+  enabled: true
+  fuzzy_match_threshold: 0.65
+  max_coins_per_alert: 5
+  min_liquidity_usd: 500
+  min_holders: 10
+  min_token_age_minutes: 5
+  max_token_age_hours: 168
+
+# === MOTOR 1: Event Coin Watcher ===
+event_coin_watcher:
+  enabled: true
+  scan_every_n_cycles: 1            # cada ciclo
+  lifecycle_states:
+    fresh_max_age_hours: 24         # FRESH si <24h
+    dead_min_drawdown_pct: 95       # DEAD si drawdown ≥95% Y sin volumen
+  rr_thresholds:
+    high_rr_min_drawdown_pct: 70    # DORMANT_PUMPER con buen R/R
+    days_to_event_max: 30
+  alert_min_rr_score: 6             # solo alertar si R/R ≥6 sobre 10
+
+# === MOTOR 2: Smart Money Tracker ===
+smart_money:
+  enabled: true
+  poll_every_n_cycles: 1
+  confluence_min_wallets: 2          # ≥2 wallets en la misma coin = CONFLUENCE
+  confluence_window_minutes: 120
+  dormant_threshold_days: 7          # wallet sin actividad ≥7d = dormant
+  max_wallets_to_poll: 100           # limitar para no saturar RPC
+
+# === MOTOR 3: Ticker Velocity ===
+ticker_velocity:
+  enabled: true
+  window_hours: 1
+  spike_multiplier: 5                # x5 vs baseline = alerta
+  min_baseline_mentions: 3
+  baseline_window_hours: 24
+
+# === MOTOR 4: Pump.fun continuous monitor (NEW LAUNCH FOR TRACKED EVENT) ===
+pump_monitor:
+  enabled: true
+  fetch_limit_per_cycle: 50
+  active_watch_duration_hours: 48    # tras una narrative STRONG, scan agresivo
+
+filters:
+  enabled_categories:
+    - emotional_injustice
+    - absurd_humor
+    - ufc_victory
+    - ufc_return
+    - gaming_anticipation
+    - sports_national
+    - political_shock
+    - mystery_conspiracy
+    - pandemic_fear
+    - celebrity_endorsement
+    - meme_classic_revival
+    - viral_moment
+    - ai_agent           # nuevo 2026
+    - nft_linked         # nuevo 2026
+  languages: ["en", "es"]
+
+rate_limits:
+  groq_requests_per_minute: 20
+  reddit_pause_seconds: 1.5
+  bluesky_pause_seconds: 1
+  dexscreener_pause_seconds: 0.3
+  fourchan_pause_seconds: 1.0
+  solanatracker_pause_seconds: 0.5
+
+health_check:
+  enabled: true
+  zero_signals_runs_before_alert: 3
+
+daily_digest:
+  enabled: true
+  hour_utc: 7
+  include_top_n_narratives: 5
+  include_top_n_events: 3
+  include_event_coin_watchlist: true     # añade snapshot de coins watched
+
+paths:
+  data_dir: "data"
+  narratives_file: "data/narratives.json"
+  coins_file: "data/coins_tracked.json"
+  alerts_log: "data/alerts_log.json"
+  sent_keys_file: "data/sent_keys.json"
+  signals_history_file: "data/signals_history.json"
+  health_state_file: "data/health.json"
+  # NUEVOS
+  event_coins_file: "data/event_coins.json"            # watchlist + lifecycle
+  smart_money_state_file: "data/smart_money.json"      # último estado wallets
+  ticker_velocity_file: "data/ticker_velocity.json"    # historial mentions
+  active_watch_file: "data/active_watch.json"          # modo aggressive watch
+
+telegram:
+  parse_mode: "HTML"
+  disable_web_preview: true
+  enable_status_command: true

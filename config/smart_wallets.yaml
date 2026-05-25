@@ -1,0 +1,40 @@
+# Seed list de smart money wallets Solana
+# Estas wallets están en listados públicos (Nansen, GMGN, SolanaTracker) como traders/whales rentables
+# El bot las pollea cada ciclo y avisa cuando:
+#   - ≥2 compran la misma coin en <2h (CONFLUENCE)
+#   - una wallet "dormant" (sin actividad >7d) compra algo (WAKE-UP)
+#   - una wallet entra a una coin event-linked (HIGH-SIGNAL BUY)
+#
+# IMPORTANTE: Esta lista es PUNTO DE PARTIDA. Actualízala periódicamente con wallets
+# que ves rentables en Solscan/GMGN/Nansen. Borra las que dejan de ser rentables.
+#
+# Formato: address + label opcional + tags
+
+# NOTA: No incluyo direcciones concretas en este seed para no quemar wallets ajenas
+# sin verificar al momento del despliegue. Añade tú las que veas en GMGN trending
+# traders, Nansen smart money page, o SolanaTracker leaderboard.
+#
+# Cómo curar tu lista (15 min):
+# 1. Ve a https://gmgn.ai/sol/trade/wallet/<address> para ver P&L
+# 2. Filtra por: PnL 30d > $100k, win rate > 60%, no demasiados rugs en historia
+# 3. Copia address + nota qué tipo es (sniper / swing / KOL)
+# 4. Añade aquí
+
+smart_wallets:
+  # === EJEMPLOS DE FORMATO ===
+  # - address: "EXAMPLE_WALLET_ADDRESS_HERE_44chars"
+  #   label: "consistently profitable swing trader"
+  #   tags: ["solana", "memecoin", "swing"]
+  #   first_seen: 2026-05-25
+  #   notes: "Buys early at <50k MC, holds 24-72h, +60% win rate per GMGN"
+
+  # Lista vacía hasta curación manual — el motor smart_money detecta esto y sigue funcionando
+  # con los watchers de Pump.fun + Dexscreener + Solana Tracker hasta que pueblan
+  []
+
+# WALLETS CONOCIDAS PÚBLICAMENTE (referencias para curación manual):
+# - Trump official treasury (no añadir aquí — es la coin oficial)
+# - GMGN top traders page: https://gmgn.ai/?chain=sol → ranking traders 7d
+# - Nansen Solana Smart Money: https://app.nansen.ai/smart-money?chain=solana
+# - SolanaTracker leaderboard: https://www.solanatracker.io/leaderboard
+# - Lookonchain Twitter: @lookonchain (Twitter público con calls reales)
