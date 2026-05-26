@@ -1,0 +1,81 @@
+{
+  "alerts": [
+    {
+      "ts": "2026-05-26T15:59:33.349508+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "84458bd3c6c5",
+        "score": 80,
+        "category": "finanzas y tecnología",
+        "title": "Micron Stock Hits $1 Trillion. Trump and Wall Street Unite Behind the Chip Titan. - Barron's",
+        "candidate_tickers": [
+          "MICRON",
+          "TRUMPCHIPS",
+          "WALLSTREETBOOM",
+          "CHIPTECH",
+          "BILLIONDOLLARCLUB"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T15:59:49.314495+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "52b3420c9ad6",
+        "score": 78,
+        "category": "Deportes",
+        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
+        "candidate_tickers": [
+          "KYLEBUSCH",
+          "NEUMONIA",
+          "SEPSIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T16:00:28.702676+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "652ef9f626ce",
+        "score": 84,
+        "category": "Noticias de tecnología y celebridades",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONTRUTH",
+          "MUSKTURE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T16:00:56.864462+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a59d0a8384ca",
+        "score": 85,
+        "category": "Opinión pública y política",
+        "title": "Chicago is basically just a warzone",
+        "candidate_tickers": [
+          "CHICAGO",
+          "WARZONE",
+          "ELONMUSK",
+          "CHICAGOWARZONE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T16:02:22.530388+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "salud",
+        "title": "Endometriosis 💛",
+        "candidate_tickers": [
+          "Endo",
+          "ElonEndo",
+          "EndoMusk"
+        ]
+      }
+    }
+  ]
+}
