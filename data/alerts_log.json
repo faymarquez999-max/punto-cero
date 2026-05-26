@@ -269,6 +269,63 @@
           "Reuters"
         ]
       }
+    },
+    {
+      "ts": "2026-05-26T23:45:37.823742+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cf650075d43f",
+        "score": 89,
+        "category": "Política y celebridad",
+        "title": "Grok",
+        "candidate_tickers": [
+          "GROK",
+          "MUSK",
+          "PERSECUCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T23:45:59.333732+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Incidente de fuga de químicos en California",
+        "title": "'Shocking' rise in school suspensions for racist and homophobic abuse",
+        "candidate_tickers": [
+          "QuímicosEnFuga",
+          "FugaDeQuímicos",
+          "CaliforniaEnPelícula"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T23:46:39.234132+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "691cb6c0c985",
+        "score": 79,
+        "category": "Deportes",
+        "title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---' - CBS Sports",
+        "candidate_tickers": [
+          "POCHETTINO",
+          "USMNT",
+          "WORLDCUP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-26T23:49:47.304783+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "motivacional",
+        "title": "Inspiring!",
+        "candidate_tickers": [
+          "INSPIRE",
+          "MUSKINSPIRE"
+        ]
+      }
     }
   ]
 }

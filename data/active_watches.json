@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0a7a330ee5f4",
@@ -297,7 +297,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ede97cf12f96",
@@ -345,7 +345,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "060448a93839",
@@ -390,7 +390,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "efa8e796642c",
@@ -435,7 +435,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4dd9c21b4aae",
@@ -480,8 +480,99 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "cf650075d43f",
+      "fingerprint": "cf650075d43f",
+      "narrative_summary": "Elon Musk afirma que los hombres blancos son perseguidos, pero Grok, un supuesto amigo, lo desmiente.",
+      "why_memeable": "La frase 'Grok' es fácil de recordar y se puede capturar en una imagen",
+      "category": "Política y celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GROK",
+        "MUSK",
+        "PERSECUCIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "grok",
+        "persecución",
+        "hombres blancos"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-05-26T23:45:37.365854+00:00",
+      "expires_at": "2026-05-28T23:45:37.365854+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "691cb6c0c985",
+      "fingerprint": "691cb6c0c985",
+      "narrative_summary": "USMNT's World Cup roster announcements cause controversy and backlash, with coach Mauricio Pochettino facing criticism for his decisions.",
+      "why_memeable": "La narrativa tiene un núcleo memeable en la controversia y el backlash hacia el entrenador Pochettino.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "POCHETTINO",
+        "USMNT",
+        "WORLDCUP"
+      ],
+      "key_terms_for_dex_search": [
+        "POCHETTINO",
+        "USMNT",
+        "WORLDCUP",
+        "CONTROVERSY",
+        "BACKLASH"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 7,
+        "velocity": 3
+      },
+      "started_at": "2026-05-26T23:46:38.720182+00:00",
+      "expires_at": "2026-05-28T23:46:38.720182+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---' - CBS Sports",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-26T20:56:04.796532+00:00"
+  "last_updated": "2026-05-26T23:46:38.720182+00:00"
 }
