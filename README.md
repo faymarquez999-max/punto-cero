@@ -1,69 +1,103 @@
-# Narrative Alpha Hunter 1
+# Punto Cero — Radar Cultural V3
 
-Sistema autónomo que detecta narrativas virales con potencial memecoin **antes** que el mercado y avisa por Telegram. Corre en GitHub Actions gratis, sin servidor.
+Sistema autónomo que detecta narrativas frescas del mundo con potencial memético
+y trackea coins existentes con catalizadores futuros. **Sin calendario hardcoded.**
 
-## Lo que hace
+## Filosofía
 
-1. **Monitoriza cada 15 min** — Reddit (hot + rising, 20 subreddits ES/EN), Google News (12 feeds bilingües), Trends, Bluesky, Nitter, Pump.fun, Dexscreener.
-2. **Clusteriza** señales similares en narrativas candidatas (normalización de acentos, tickers $XYZ).
-3. **Boost momentum pre-LLM** — cross-source (≥3 familias distintas) y velocity (x2 menciones en 2h).
-4. **Puntúa con IA** — Groq Llama 3.3 70B compara contra 18 casos históricos pre-filtrados (PNUT, TRUMP, WIF, LIBRA, PEPE, Topuria, etc.).
-5. **Si score ≥ 83** → busca coins en Pump.fun (filtros de calidad: socials, edad, descripción) y Dexscreener. RugCheck obligatorio para Solana.
-6. **Alerta Telegram HTML** con score, narrativa, fuentes, coins, ventana temporal, similitud histórica, momentum reasons.
-7. **Anticipación de eventos** — calendario con UFC Casa Blanca 14 jun, GTA VI 19 nov, Mundial, NBA Finals, McGregor.
-8. **Daily digest** cada mañana a las 9:00 Madrid.
-9. **Health-check** si las APIs caen, **shadow log** de scores 60-82 para calibrar, comandos bot `/status` `/events` `/help`.
-10. **Dashboard HTML** estático opcional vía GitHub Pages.
+El bot lee el mundo entero, identifica cuándo algo tiene los ingredientes para
+convertirse en memecoin, y avisa **antes de que exista coin**. Cuando aparezca
+una coin matching, te avisa al instante.
 
-## Tipos de alertas
+## Cómo razona
 
-- 🔥 **NARRATIVA DETECTADA** (score ≥ 83) — con cross-source + similar_to_case + coins + tickers
-- 🚨/⏰/📅/🗓️ **EVENTO PRÓXIMO** (imminent/small/medium/major según ventana)
-- 🌅 **DAILY DIGEST** (resumen 24h + eventos próximos)
-- 🚨 **HEALTH ALERT** (si 3 ciclos consecutivos con 0 signals)
+El LLM (Groq Llama 3.3 70B) evalúa cada narrativa con principios memetéticos
+abstractos: emocionalidad, memeabilidad, factor visual, resonancia cultural,
+polarización, absurdidad, simplicidad, velocidad de propagación.
+
+NO compara con casos pasados concretos. Razona sobre INGREDIENTES.
+
+## Los 2 modos operativos
+
+### 🆕 Modo 1 — Narrativa emergente
+1. Detecta noticia/rumor/momento viral fresco
+2. LLM evalúa potencial memético (score 0-100)
+3. Si score ≥ 70 → crea **Active Watch** 72-168h
+4. Genera tickers candidatos predictivos
+5. Vigila DexScreener cada ciclo por matches
+6. Cuando aparece coin validada → 💎 alerta inmediata
+
+### 🎯 Modo 2 — Coin existente + catalizador
+1. Cada N ciclos escanea DexScreener (low/mid cap 10-500k MC)
+2. LLM evalúa: *"¿hay catalizador futuro para esta coin?"*
+3. Si R/R ≥ 6.5 y catalizador <60d → 🎯 alerta event-linked
+
+## Filtros duros (Mode 1)
+
+- ✅ **DexScreener listada** (no Pump.fun crudo)
+- ✅ MC 10k–500k (preferente <80k)
+- ✅ Liquidez ≥ $5k
+- ✅ Volumen 24h ≥ $5k
+- ✅ Holders ≥ 50
+- ✅ Edad ≥ 10 min
+- ✅ RugCheck score ≥ 50
+
+## Fuentes monitorizadas
+
+- **Reddit** — r/all, r/news, r/PublicFreakout, r/UFOs, r/politics, r/conspiracy, +20 subs
+- **Google News** — 14 feeds bilingües, queries específicos
+- **Breaking news RSS** — Reuters, AP, BBC, Al Jazeera, Bloomberg, Politico, TMZ
+- **Wikipedia Recent Changes** — spike detection de páginas high-value
+- **Polymarket** — cambios de probabilidad >10% (alpha pre-mainstream)
+- **X/Twitter (Nitter)** — timelines de Elon, Trump, periodistas + búsquedas
+- **Bluesky** — búsquedas
+- **4chan /biz/** — ticker mentions
+- **Google Trends** — picos US/ES/UK
+- **Pump.fun / DexScreener / Solana Tracker / GMGN** — para coin discovery
+
+## Tipos de alerta
+
+- 🚨 **NARRATIVA POTENCIAL** — algo memetable detectado, sin coin aún
+- 💎 **COIN MATCHED** — coin recién listada matching un watch activo
+- 🎯 **EVENT-LINKED OPPORTUNITY** — coin existente low-cap + catalizador futuro
+- ⚡ **ESCALATION** — narrativa watched está creciendo
 
 ## Setup
 
-→ Lee [SETUP_PARA_TI.md](SETUP_PARA_TI.md). 25-40 min, una sola vez, sin programar.
+→ Lee [SETUP_PARA_TI.md](SETUP_PARA_TI.md).
 
-→ Lee [AUDIT_REPORT.md](AUDIT_REPORT.md) para entender las decisiones de diseño.
-
-## Estructura
+## Arquitectura
 
 ```
 src/
-  main.py                 # orquestador principal
-  daily_digest.py         # script del digest matinal
-  bot_commands.py         # /status, /events, /help via getUpdates polling
-  health.py               # tracking de ciclos en blanco
-  collectors/             # 7 fuentes con retry, UA rotation, multi-endpoint fallback
+  main.py                          # orquestador V3
+  daily_digest.py                  # digest 9am Madrid
+  bot_commands.py                  # /status, /watches, /help
+  health.py                        # health check
+  collectors/                      # 11 fuentes
+    reddit · google_news · breaking_news · wikipedia · polymarket
+    nitter · bluesky · fourchan_biz · google_trends
+    pump_fun · dexscreener · solana_tracker · gmgn
   intelligence/
-    clustering.py         # acentos, tickers, cross-family detection
-    momentum.py           # cross-source + velocity boosts pre-LLM
-    scorer.py             # Groq con casos pre-filtrados
-    event_matcher.py      # match con calendario
+    clustering.py                  # signal grouping
+    momentum.py                    # cross-source boost
+    narrative_potential.py         # NEW scorer (principios memetéticos)
+    active_watch.py                # NEW sistema de watches persistentes
   crypto/
-    hunter.py             # term filtering, edad, socials bonus
-    rugcheck.py           # safety score Solana
+    dex_matcher.py                 # NEW DexScreener-only matcher (filtros duros)
+    event_radar.py                 # NEW LLM infiere catalizadores futuros
+    rugcheck.py                    # safety score
   alerts/
-    telegram.py           # chunking inteligente HTML, retry 429
-    formatter.py          # HTML con todas las señales
-  memory/store.py         # persistencia JSON atómica (.tmp + replace)
+    formatter.py                   # 4 alert types nuevos
+    telegram.py
+  memory/store.py
 config/
-  events.yaml             # 14 eventos verificados (UFC, GTA, Mundial, etc.)
-  historical_cases.yaml   # 18 casos históricos con multipliers
-  sources.yaml            # 20+ subreddits ES/EN, 12 feeds news
-  settings.yaml           # umbrales, momentum, ventanas, dedup
-data/                     # auto-commit por workflow
-  narratives.json
-  coins_tracked.json
-  alerts_log.json
-  sent_keys.json
-  signals_history.json
-  health.json
-  telegram_offset.json
-dashboard/index.html      # dashboard estático (GitHub Pages)
+  events.yaml                      # VACÍO (sin calendario hardcoded)
+  memetic_principles.yaml          # principios memetéticos para LLM
+  sources.yaml                     # fuentes
+  settings.yaml                    # umbrales, módulos
+dashboard/index.html               # dashboard con tabs
 .github/workflows/
-  run.yml                 # cron */15 (ajustable a */5 si público)
-  daily_digest.yml        # cron 07:00 UTC
+  run.yml                          # main cycle (cron PAUSADO durante rebuild)
+  daily_digest.yml                 # daily 7:00 UTC (cron PAUSADO)
 ```

@@ -1,77 +1,127 @@
-# Fuentes a monitorizar — multi-idioma, multi-plataforma
+# Fuentes V3 — radar cultural amplio
+# El bot lee el mundo en MUCHAS direcciones, no solo crypto.
 
 reddit:
   enabled: true
   subreddits:
-    - CryptoCurrency
-    - CryptoMoonShots
-    - solana
-    - SatoshiStreetBets
-    - memecoinmoonshots
-    - solanamemes
+    # Generalistas de virales / breaking news
     - all
+    - news
+    - worldnews
     - PublicFreakout
     - nextfuckinglevel
     - Damnthatsinteresting
     - interestingasfuck
-    - news
-    - worldnews
-    - UFC
-    - GTA6
+    - Wellthatsucks
+    - oddlyterrifying
+    - mildlyinfuriating
+    - BlackPeopleTwitter
+    - WhitePeopleTwitter
+    - facepalm
+    - Wtf
+    - HolUp
+    # Conspiranoia / misterio / UFOs
     - UFOs
-    - soccer
-    - nba
+    - conspiracy
+    # Política / drama
+    - politics
+    - inthenews
+    # Tech / leaks
+    - technology
+    - gadgets
+    - apple
+    - leaks
+    # Cultura internet
+    - OutOfTheLoop
+    - todayilearned
+    - AskReddit
+    # Spanish
     - spain
     - es
     - argentina
-    - uruguay
     - mexico
+    # Crypto (solo para detectar coins, no como fuente principal de narrativa)
+    - CryptoCurrency
+    - solana
   hot_limit: 30
-  min_score: 100
+  min_score: 80
   also_fetch_rising: true
 
 google_news:
   enabled: true
   feeds:
+    # General
     - "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
     - "https://news.google.com/rss?hl=es-ES&gl=ES&ceid=ES:es"
-    - "https://news.google.com/rss/search?q=viral+OR+breaking&hl=en"
-    - "https://news.google.com/rss/search?q=ufc+OR+topuria+OR+mcgregor+OR+gaethje&hl=en"
-    - "https://news.google.com/rss/search?q=memecoin+OR+solana+OR+pump.fun&hl=en"
-    - "https://news.google.com/rss/search?q=gta+vi+OR+rockstar+OR+leonida&hl=en"
-    - "https://news.google.com/rss/search?q=ufo+OR+aliens+OR+pentagon&hl=en"
-    - "https://news.google.com/rss/search?q=trump+OR+maga&hl=en"
-    - "https://news.google.com/rss/search?q=world+cup+2026&hl=en"
-    - "https://news.google.com/rss/search?q=ai+agent+OR+ai+token+OR+fartcoin&hl=en"
-    - "https://news.google.com/rss/search?q=topuria+OR+ilia+topuria&hl=es-ES&gl=ES"
-    - "https://news.google.com/rss/search?q=memecoin+OR+criptomoneda&hl=es-ES&gl=ES"
-    - "https://news.google.com/rss/search?q=viral+OR+ultima+hora&hl=es-ES&gl=ES"
-    - "https://news.google.com/rss/search?q=gta+6+OR+gta+vi&hl=es-ES&gl=ES"
+    # Topic búsquedas — breaking / viral / shock
+    - "https://news.google.com/rss/search?q=breaking+OR+viral+OR+shocking&hl=en"
+    - "https://news.google.com/rss/search?q=leak+OR+rumor+OR+exclusive&hl=en"
+    - "https://news.google.com/rss/search?q=trump+statement+OR+elon+musk+tweet&hl=en"
+    - "https://news.google.com/rss/search?q=celebrity+death+OR+celebrity+illness+OR+scandal&hl=en"
+    - "https://news.google.com/rss/search?q=animal+viral+OR+animal+rescued+OR+animal+killed&hl=en"
+    - "https://news.google.com/rss/search?q=bizarre+OR+absurd+OR+weird+news&hl=en"
+    - "https://news.google.com/rss/search?q=conspiracy+OR+ufo+OR+disclosure&hl=en"
+    - "https://news.google.com/rss/search?q=pandemic+OR+outbreak+OR+virus+spreading&hl=en"
+    - "https://news.google.com/rss/search?q=memecoin+OR+pump.fun+trending&hl=en"
+    - "https://news.google.com/rss/search?q=ultima+hora+OR+escandalo+OR+viral&hl=es-ES&gl=ES"
+    - "https://news.google.com/rss/search?q=insolito+OR+impactante+OR+sorprendente&hl=es-ES&gl=ES"
 
-google_trends:
+# NUEVO: Reuters/AP/BBC y otros breaking feeds especializados
+breaking_news_feeds:
   enabled: true
-  geo_targets: ["US", "ES", "GB", "AR", "MX"]
-  trending_check_interval_min: 30
+  feeds:
+    # Reuters (mundial breaking)
+    - url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en"
+      name: "reuters"
+    # AP News
+    - url: "https://news.google.com/rss/search?q=site:apnews.com&hl=en"
+      name: "ap"
+    # BBC
+    - url: "http://feeds.bbci.co.uk/news/rss.xml"
+      name: "bbc"
+    # Al Jazeera
+    - url: "https://www.aljazeera.com/xml/rss/all.xml"
+      name: "aljazeera"
+    # Bloomberg (top)
+    - url: "https://news.google.com/rss/search?q=site:bloomberg.com&hl=en"
+      name: "bloomberg"
+    # Politico
+    - url: "https://news.google.com/rss/search?q=site:politico.com&hl=en"
+      name: "politico"
+    # TMZ (celebrity)
+    - url: "https://www.tmz.com/rss.xml"
+      name: "tmz"
+    # The Hollywood Reporter
+    - url: "https://www.hollywoodreporter.com/feed/"
+      name: "hollywoodreporter"
 
-telegram_channels:
-  enabled: false
-  channels:
-    - "@solearlytrending"
-    - "@dexscreener"
-
-bluesky:
+# NUEVO: Wikipedia Recent Changes — señal pre-mainstream cuando algo importante pasa
+wikipedia:
   enabled: true
-  search_queries:
-    - "pump.fun"
-    - "memecoin"
-    - "solana meme"
-    - "topuria"
-    - "gta vi"
-    - "viral"
-    - "$WIF OR $BONK OR $PEPE"
-    - "ai agent token"
-    - "trump coin"
+  # Cuando una página de alto perfil recibe muchas ediciones de golpe, algo está pasando
+  # Lista de páginas "high-value" a vigilar
+  watched_pages:
+    - "Donald_Trump"
+    - "Elon_Musk"
+    - "Joe_Biden"
+    - "Kamala_Harris"
+    - "Vladimir_Putin"
+    - "Xi_Jinping"
+    - "Benjamin_Netanyahu"
+    - "Volodymyr_Zelenskyy"
+    - "Kanye_West"
+    - "Taylor_Swift"
+    - "Joe_Rogan"
+    - "Drake_(musician)"
+    - "MrBeast"
+    - "2026"
+    - "Deaths_in_2026"
+    - "List_of_2026_albums"
+    - "Grand_Theft_Auto_VI"
+  edit_spike_threshold: 5      # >=5 ediciones en 30 min = señal
+  check_recent_changes_global: true   # también globalmente
 
+# X / Twitter via Nitter (best effort, frágil)
 nitter:
   enabled: true
   instances:
@@ -79,69 +129,83 @@ nitter:
     - "https://nitter.privacydev.net"
     - "https://nitter.poast.org"
     - "https://nitter.tiekoetter.com"
+  # Cuentas concretas a vigilar (timeline scraping)
+  accounts_to_watch:
+    - "elonmusk"
+    - "realDonaldTrump"
+    - "PopBase"
+    - "PopCrave"
+    - "WatcherGuru"
+    - "WhaleWire"
+    - "DeItaone"
+    - "ZeroHedge"
+    - "FirstSquawk"
+    - "Disclosetv"
+    - "BNONews"
+    - "Reuters"
+  # Búsquedas dinámicas
   search_queries:
+    - "breaking news"
+    - "just in"
+    - "leaked"
+    - "viral"
+    - "shocked"
     - "memecoin"
     - "pump.fun"
-    - "$PEPE OR $WIF OR $BONK OR $TRUMP"
-    - "topuria"
-    - "gta vi"
 
-# === FUENTE NUEVA: 4chan /biz/ ===
+bluesky:
+  enabled: true
+  search_queries:
+    - "breaking news"
+    - "just in"
+    - "viral"
+    - "leaked"
+    - "memecoin"
+    - "$WIF OR $PEPE OR $BONK"
+
 fourchan_biz:
   enabled: true
   catalog_url: "https://a.4cdn.org/biz/catalog.json"
   thread_url_template: "https://a.4cdn.org/biz/thread/{id}.json"
-  # Mínimo de menciones de ticker en hilos para considerar señal
   min_ticker_mentions: 3
-  max_threads_to_scan: 60
-  # Tickers ignorados (demasiado genéricos)
-  ignored_tickers: ["USDC", "USDT", "ETH", "BTC", "SOL", "USD", "EUR", "GBP"]
+  max_threads_to_scan: 80
+  ignored_tickers: ["USDC", "USDT", "ETH", "BTC", "SOL", "USD", "EUR", "GBP",
+                    "PEPE", "BONK", "WIF", "TRUMP", "MELANIA", "FARTCOIN", "GOAT"]
 
-# === FUENTE NUEVA: Solana Tracker ===
-solana_tracker:
+# Polymarket — mercados de predicción (cambios de probabilidad = señal alpha)
+polymarket:
   enabled: true
-  # Free tier registrarse en solanatracker.io (opcional pero recomendado)
-  api_key_env: "SOLANATRACKER_API_KEY"
-  trending_timeframe: "1h"     # 5m, 1h, 6h, 24h
-  trending_limit: 30
+  # API gratis: https://gamma-api.polymarket.com/
+  api_base: "https://gamma-api.polymarket.com"
+  # Vigilamos eventos con cambio >10% en 24h
+  min_probability_change_pct: 10
+  max_markets_per_cycle: 50
 
-# === FUENTE NUEVA: GMGN web scraper ===
-gmgn:
+# Google Trends (mantenido, si pytrends falla devuelve vacío)
+google_trends:
   enabled: true
-  trending_url: "https://gmgn.ai/sol/trending"
-  # No requiere API key — scrape público
-  max_tokens: 20
+  geo_targets: ["US", "ES", "GB", "WORLDWIDE"]
 
+# Telegram channels (placeholder — requiere setup)
+telegram_channels:
+  enabled: false
+  channels: []
+
+# Crypto sources — SOLO para detección de existencia de coins
 crypto_sources:
   pump_fun:
     enabled: true
     new_tokens_limit: 100
-    min_mc_usd: 1000
-    max_mc_usd: 200000
-    require_socials: true
-    require_description: true
-    min_description_chars: 20
-
+    only_as_existence_proof: true   # no alertar directo de pump.fun
   dexscreener:
     enabled: true
     chains: ["solana"]
+  solana_tracker:
+    enabled: true
+    api_key_env: "SOLANATRACKER_API_KEY"
+    trending_timeframe: "1h"
     trending_limit: 30
-    min_mc_usd: 5000
     max_mc_usd: 500000
-
-  birdeye:
-    enabled: false
-
   rugcheck:
     enabled: true
     min_safety_score: 50
-
-# === SMART MONEY (Helius RPC) ===
-smart_money_rpc:
-  enabled: true
-  # Free RPC: https://api.mainnet-beta.solana.com (público, rate limited)
-  # Mejor: Helius free API key https://helius.dev — pegar en env HELIUS_API_KEY
-  rpc_url_env: "HELIUS_RPC_URL"      # opcional, fallback a public si vacío
-  fallback_public_rpc: "https://api.mainnet-beta.solana.com"
-  # Cuántas transacciones recientes mirar por wallet por ciclo
-  recent_tx_limit: 10

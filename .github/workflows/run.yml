@@ -1,11 +1,9 @@
-name: Narrative Alpha Hunter — Main Cycle
+name: Punto Cero — Main Cycle
 
 on:
-  schedule:
-    # Cada 15 minutos — balance entre frescura y consumo de Actions minutes
-    # Repo PRIVADO: 1440 min/mes free → 96 runs/día × 30d × ~0.4 min ≈ 1150 min ✓
-    # Repo PÚBLICO: minutos ilimitados, puedes bajar a "*/5 * * * *"
-    - cron: "*/15 * * * *"
+  # Cron PAUSADO durante rebuild V3. Se reactiva manualmente cuando el bot esté reescrito.
+  # schedule:
+  #   - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +16,7 @@ concurrency:
 jobs:
   hunt:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
 
@@ -47,7 +45,7 @@ jobs:
       - name: Commit memory
         if: always()
         run: |
-          git config user.name "narrative-hunter-bot"
+          git config user.name "punto-cero-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/ || true
           git diff --cached --quiet || git commit -m "memory: $(date -u +%FT%TZ)"

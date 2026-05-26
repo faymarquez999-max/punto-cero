@@ -1,4 +1,10 @@
-"""Formateadores Telegram HTML — 6 tipos de alerta + originales."""
+"""Alert formatters V3 — 4 tipos nuevos enfocados a narrativas.
+
+1. 🚨 POTENTIAL NARRATIVE — narrativa detectada, posiblemente coin en 24h
+2. 💎 COIN MATCHED ACTIVE WATCH — apareció coin matching un watch
+3. 🎯 EVENT-LINKED OPPORTUNITY — coin existente con catalizador futuro inferido
+4. ⚡ ESCALATION — narrativa watched está creciendo
+"""
 from typing import Dict, List
 
 
@@ -9,22 +15,29 @@ def _esc(s) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-# === Original: NARRATIVE ALERT ===
-def format_narrative_alert(narrative: Dict, cluster: Dict, coins: List[Dict]) -> str:
+# ====== 1. POTENTIAL NARRATIVE ======
+def format_potential_narrative(narrative: Dict, cluster: Dict, watch: Dict) -> str:
     score = narrative.get("score", 0)
     base = narrative.get("score_base", score)
     bonus = narrative.get("score_bonus", 0)
-    cat = narrative.get("category", "unknown")
+    category = narrative.get("category", "?")
     summary = narrative.get("narrative_summary", "")
-    why = narrative.get("why_viral", "")
-    similar = narrative.get("similar_to_case", "none")
-    emotions = ", ".join(narrative.get("emotional_drivers", []) or [])
-    tickers = ", ".join(narrative.get("suggested_tickers", []) or [])
-    risks = "\n".join(f"• {_esc(r)}" for r in (narrative.get("risk_flags") or []))
-    window = narrative.get("time_window_hours")
-    confidence = narrative.get("confidence", "")
-    matched_event = narrative.get("matched_event")
-    bonus_reasons = narrative.get("bonus_reasons", []) or []
+    why = narrative.get("why_memeable", "")
+    archetype = narrative.get("matched_archetype", "")
+    tickers = ", ".join((narrative.get("candidate_tickers") or [])[:8])
+    time_window = narrative.get("time_window_hours", "?")
+    coin_prob = narrative.get("coin_emergence_probability_24h", "?")
+    confidence = narrative.get("confidence", "?")
+    duration = watch.get("duration_hours", 72)
+
+    dims = narrative.get("memetic_dimensions", {})
+    dim_str = " · ".join([
+        f"emo {dims.get('emotional',0)}",
+        f"meme {dims.get('memeable',0)}",
+        f"visual {dims.get('visual',0)}",
+        f"abs {dims.get('absurdity',0)}",
+        f"vel {dims.get('velocity',0)}",
+    ])
 
     n_fams = cluster.get("n_distinct_families", 0)
     fams = ", ".join(cluster.get("source_families", []) or [])
@@ -34,239 +47,152 @@ def format_narrative_alert(narrative: Dict, cluster: Dict, coins: List[Dict]) ->
     for s in src_sample:
         url = _esc(getattr(s, "url", "") or "")
         src = _esc(getattr(s, "source", "") or "")
-        title = _esc((getattr(s, "title", "") or "")[:120])
+        title = _esc((getattr(s, "title", "") or "")[:140])
         src_lines.append(f"• <a href=\"{url}\">{src}</a>: {title}")
 
-    coin_lines = []
-    for c in coins:
-        mc = c.get("market_cap_usd") or 0
-        ticker = _esc(c.get("ticker", "?"))
-        name = _esc((c.get("name") or "")[:40])
-        url = _esc(c.get("url", ""))
-        match = c.get("match_score", 0)
-        src = _esc(c.get("source", ""))
-        warn = " ⚠️" if c.get("safety_warning") else ""
-        safety = c.get("safety_score")
-        safety_str = f" · safety {safety}" if safety is not None else ""
-        coin_lines.append(
-            f"• <b>${ticker}</b> ({name}) — MC ${mc:,.0f} · match {match}%{safety_str}{warn}\n"
-            f"  <code>{src}</code> · <a href=\"{url}\">abrir</a>"
-        )
+    bonus_reasons = narrative.get("bonus_reasons", []) or []
 
-    msg_parts = [
-        f"🔥 <b>NARRATIVA DETECTADA</b> · Score <b>{score}</b>/100 ({base}+{bonus})",
-        f"📂 {_esc(cat)} · confidence: {_esc(confidence)}",
+    msg = [
+        f"🚨 <b>NARRATIVA POTENCIAL</b> · Score <b>{score}</b>/100",
+        f"📂 {_esc(category)} · arquetipo: <code>{_esc(archetype)}</code>",
         "",
-        f"<b>{_esc(cluster.get('top_title',''))}</b>",
+        f"<b>{_esc(cluster.get('top_title', summary[:80]))}</b>",
         "",
-        f"💡 <b>Narrativa:</b> {_esc(summary)}",
-        f"⚡ <b>Por qué viral:</b> {_esc(why)}",
-        f"🔁 <b>Similar a caso:</b> <code>{_esc(similar)}</code>",
-        f"💓 <b>Emociones:</b> {_esc(emotions)}",
-        f"🎯 <b>Tickers sugeridos:</b> {_esc(tickers)}",
+        f"💡 <b>Resumen:</b> {_esc(summary)}",
+        f"⚡ <b>Por qué memeable:</b> {_esc(why)}",
+        "",
+        f"🎯 <b>Tickers candidatos:</b> {_esc(tickers)}",
+        f"⏱️ <b>Ventana estimada:</b> {time_window}h · prob coin 24h: {_esc(coin_prob)}",
+        f"🔭 <b>Watch activo:</b> {duration}h · confianza: {_esc(confidence)}",
+        "",
+        f"📊 Dimensiones: {dim_str}",
+        f"📡 Cross-source: {n_fams} familias ({_esc(fams)})",
     ]
-    if window is not None:
-        msg_parts.append(f"⏱️ <b>Ventana estimada:</b> {window}h")
-    if matched_event:
-        msg_parts.append(f"📅 <b>Evento relacionado:</b> {_esc(matched_event)}")
-    msg_parts.append(f"📡 <b>Cross-source:</b> {n_fams} familias ({_esc(fams)})")
     if bonus_reasons:
-        msg_parts.append(f"🚀 <b>Boost momentum:</b> {'; '.join(_esc(r) for r in bonus_reasons)}")
-    msg_parts.append("")
-
-    if coin_lines:
-        msg_parts.append("💎 <b>Coins encontradas:</b>")
-        msg_parts.extend(coin_lines)
-        msg_parts.append("")
-    else:
-        msg_parts.append("💎 <i>Sin coins relacionadas todavía — narrativa virgen.</i>")
-        msg_parts.append("")
-
+        msg.append(f"🚀 Boost: {'; '.join(_esc(r) for r in bonus_reasons)}")
+    msg.append("")
     if src_lines:
-        msg_parts.append("📡 <b>Fuentes:</b>")
-        msg_parts.extend(src_lines)
-        msg_parts.append("")
-
-    if risks:
-        msg_parts.append(f"⚠️ <b>Riesgos:</b>\n{risks}")
-        msg_parts.append("")
-
-    msg_parts.append(f"🤖 <b>{_esc(narrative.get('recommendation','WATCH'))}</b>")
-    return "\n".join(msg_parts)
+        msg.append("📰 <b>Fuentes:</b>")
+        msg.extend(src_lines)
+        msg.append("")
+    msg.append("<i>El bot vigila DexScreener por si alguien lanza una coin matching. Te aviso al instante.</i>")
+    return "\n".join(msg)
 
 
-# === Original: EVENT ANTICIPATION ===
-def format_event_anticipation(event: Dict) -> str:
-    days = event.get("days_to_event", 0)
-    window = event.get("window_type", "")
-    emoji = {"imminent": "🚨", "small": "⏰", "medium": "📅", "major": "🗓️"}.get(window, "📅")
-    msg_parts = [
-        f"{emoji} <b>EVENTO PRÓXIMO</b> · en <b>{days} días</b>",
-        f"<b>{_esc(event.get('name',''))}</b>",
-        "",
-        f"📂 {_esc(event.get('category',''))}",
-        f"💡 <b>Narrativa esperada:</b> {_esc(event.get('narrative',''))}",
-        f"🎯 <b>Themes coin:</b> {', '.join(event.get('coin_themes',[]) or [])}",
-    ]
-    pat = event.get("historical_pattern")
-    if pat:
-        msg_parts.append(f"📈 <b>Patrón histórico:</b> {_esc(pat)}")
-    priority = event.get("priority")
-    if priority == "critical":
-        msg_parts.append(f"🔥 <b>PRIORIDAD CRÍTICA</b>")
-    return "\n".join(msg_parts)
-
-
-# === NEW: EVENT-LINKED OPPORTUNITY ===
-def format_event_linked_opportunity(coin: Dict) -> str:
-    """Coin existente bien posicionada para evento futuro (DORMANT_PUMPER pattern)."""
-    rr = coin.get("rr") or {}
-    state = coin.get("lifecycle_state", "")
-    days = coin.get("days_to_event")
-    days_str = f"{days}d" if days is not None else "?"
-
-    state_emoji = {
-        "DORMANT_PUMPER": "💤",
-        "RECOVERING": "📈",
-        "FRESH_LAUNCH": "🆕",
-        "ACTIVE": "🟢",
-        "DEAD": "💀",
-    }.get(state, "❓")
-
-    msg_parts = [
-        f"🎯 <b>EVENT-LINKED OPPORTUNITY</b>",
-        f"<b>${_esc(coin.get('ticker',''))}</b> ({_esc(coin.get('name',''))})",
-        "",
-        f"📅 Evento: <b>{_esc(coin.get('event_name',''))}</b> en <b>{days_str}</b>",
-        f"{state_emoji} Lifecycle: <code>{_esc(state)}</code>",
-        f"📊 MC actual: ${rr.get('current_mc',0):,} · ATH: ${rr.get('peak_mc',0):,}",
-        f"📉 Drawdown: <b>{rr.get('drawdown_pct',0):.1f}%</b> desde ATH",
-        f"🚀 Upside al 50% ATH: <b>{rr.get('upside_to_50pct_ath_x',0)}x</b>",
-        f"⭐ R/R score: <b>{rr.get('rr_score',0)}/10</b>",
-        "",
-    ]
-    reasons = rr.get("rr_reasons") or []
-    if reasons:
-        msg_parts.append("<b>Razones R/R:</b>")
-        for r in reasons:
-            msg_parts.append(f"• {_esc(r)}")
-        msg_parts.append("")
+# ====== 2. COIN MATCHED ACTIVE WATCH ======
+def format_coin_matched(coin: Dict, watch: Dict) -> str:
+    ticker = _esc(coin.get("ticker", "?"))
+    name = _esc((coin.get("name") or "")[:60])
+    mc = coin.get("market_cap_usd", 0) or 0
+    liq = coin.get("liquidity_usd", 0) or 0
+    vol = coin.get("volume_h24", 0) or coin.get("volume_24h", 0) or 0
+    pc_1h = coin.get("price_change_1h", 0)
+    pc_24h = coin.get("price_change_24h", 0)
+    match_score = coin.get("match_score", 0)
+    match_reason = _esc(coin.get("match_reason", ""))
+    safety = coin.get("safety_score")
+    warn = " ⚠️" if coin.get("safety_warning") else ""
     url = _esc(coin.get("url", ""))
-    if url:
-        msg_parts.append(f"🔗 <a href=\"{url}\">abrir en explorer</a>")
-    return "\n".join(msg_parts)
+    mint = coin.get("mint", "")
 
+    safety_line = ""
+    if safety is not None:
+        safety_line = f"🛡️ Safety: <b>{safety}</b>/100{warn}"
 
-# === NEW: SMART MONEY CONFLUENCE ===
-def format_confluence(confluence: Dict) -> str:
-    mint = confluence.get("mint", "")
-    buyers = confluence.get("buyers", [])
-    n = confluence.get("buyer_count", len(buyers))
-    msg_parts = [
-        f"🐋 <b>SMART MONEY CONFLUENCE</b>",
-        f"<b>{n}</b> wallets etiquetadas como smart money compraron la misma coin en las últimas horas.",
+    msg = [
+        f"💎 <b>COIN MATCHED — WATCH ACTIVO</b>",
+        f"<b>${ticker}</b> ({name})",
         "",
-        f"🪙 Mint: <code>{_esc(mint[:20])}...</code>",
-        "",
-        "<b>Wallets:</b>",
+        f"🪙 MC: <b>${mc:,.0f}</b>",
+        f"💧 Liquidez: ${liq:,.0f} · Vol 24h: ${vol:,.0f}",
+        f"📊 1h: {pc_1h:+.1f}% · 24h: {pc_24h:+.1f}%",
     ]
-    for b in buyers[:6]:
-        addr = b.get("wallet", "")[:8]
-        label = b.get("label", "")
-        msg_parts.append(f"• <code>{_esc(addr)}...</code> {_esc(label)}")
-    msg_parts.append("")
-    msg_parts.append(f"🔗 <a href=\"https://dexscreener.com/solana/{_esc(mint)}\">DexScreener</a> · "
-                     f"<a href=\"https://gmgn.ai/sol/token/{_esc(mint)}\">GMGN</a>")
-    return "\n".join(msg_parts)
+    if safety_line:
+        msg.append(safety_line)
+    msg.extend([
+        "",
+        f"🎯 Match: <b>{match_score}%</b> — {match_reason}",
+        f"📡 Narrativa vinculada: {_esc(watch.get('narrative_summary', '')[:140])}",
+        f"💡 Por qué memeable: {_esc(watch.get('why_memeable', '')[:140])}",
+        "",
+        f"🔗 <a href=\"https://dexscreener.com/solana/{_esc(mint)}\">DexScreener</a> · "
+        f"<a href=\"https://gmgn.ai/sol/token/{_esc(mint)}\">GMGN</a> · "
+        f"<a href=\"{url}\">abrir</a>",
+    ])
+    return "\n".join(msg)
 
 
-# === NEW: DORMANT WHALE WAKE-UP ===
-def format_wake_up(wake: Dict) -> str:
-    msg_parts = [
-        f"💤 <b>DORMANT WHALE WAKE-UP</b>",
-        f"Wallet smart money inactiva (>7 días) acaba de despertar y comprar.",
+# ====== 3. EVENT-LINKED OPPORTUNITY ======
+def format_event_linked(coin: Dict, evaluation: Dict) -> str:
+    ticker = _esc(coin.get("ticker", "?"))
+    name = _esc((coin.get("name") or "")[:60])
+    mc = coin.get("market_cap_usd", 0) or 0
+    liq = coin.get("liquidity_usd", 0) or 0
+    pc_24h = coin.get("price_change_24h", 0)
+
+    catalyst = _esc(evaluation.get("catalyst_description", ""))
+    cat_date = _esc(evaluation.get("catalyst_estimated_date", ""))
+    days = evaluation.get("days_to_catalyst")
+    rr = evaluation.get("rr_score", 0)
+    rr_reason = _esc(evaluation.get("rr_reasoning", ""))
+    meme_potential = evaluation.get("memetic_potential_when_catalyst_hits", 0)
+    theme = _esc(evaluation.get("theme", ""))
+    url = _esc(coin.get("url", ""))
+    mint = coin.get("mint", "")
+
+    days_str = f"{days}d" if days is not None else cat_date
+
+    msg = [
+        f"🎯 <b>EVENT-LINKED OPPORTUNITY</b>",
+        f"<b>${ticker}</b> ({name})",
         "",
-        f"🐋 Wallet: <code>{_esc(wake.get('wallet',''))[:20]}...</code>",
-        f"🏷️ Label: {_esc(wake.get('label',''))}",
-        f"🪙 Mint: <code>{_esc((wake.get('mint','') or '')[:20])}...</code>",
+        f"📊 MC: <b>${mc:,.0f}</b> · Liq ${liq:,.0f} · 24h {pc_24h:+.1f}%",
+        f"🎬 Tema: <i>{theme}</i>",
         "",
-        f"🔗 <a href=\"https://gmgn.ai/sol/address/{_esc(wake.get('wallet',''))}\">ver wallet</a> · "
-        f"<a href=\"https://dexscreener.com/solana/{_esc(wake.get('mint',''))}\">coin</a>",
+        f"⚡ <b>Catalizador:</b> {catalyst}",
+        f"📅 Estimado: {days_str}",
+        f"⭐ R/R: <b>{rr}/10</b>",
+        f"🧠 Potencial memético al hit: <b>{meme_potential}/10</b>",
+        "",
+        f"📝 Razonamiento: {rr_reason}",
+        "",
+        f"🔗 <a href=\"https://dexscreener.com/solana/{_esc(mint)}\">DexScreener</a> · "
+        f"<a href=\"https://gmgn.ai/sol/token/{_esc(mint)}\">GMGN</a> · "
+        f"<a href=\"{url}\">abrir</a>",
     ]
-    return "\n".join(msg_parts)
+    return "\n".join(msg)
 
 
-# === NEW: TICKER VELOCITY SPIKE ===
-def format_velocity_spike(spike: Dict) -> str:
-    ticker = spike.get("ticker", "")
-    recent = spike.get("recent_mentions", 0)
-    baseline = spike.get("baseline_per_window", 0)
-    ratio = spike.get("spike_ratio", 0)
-    msg_parts = [
-        f"⚡ <b>TICKER VELOCITY SPIKE</b>",
-        f"<b>${_esc(ticker)}</b> — mentions x<b>{ratio}</b> en la última hora",
+# ====== 4. ESCALATION ======
+def format_escalation(watch: Dict, growth_data: Dict) -> str:
+    msg = [
+        f"⚡ <b>NARRATIVA ESCALANDO</b>",
+        f"Una narrativa que estaba en watch está creciendo en menciones.",
         "",
-        f"📊 Recent: {recent} mentions",
-        f"📊 Baseline: {baseline} mentions/h promedio (24h)",
+        f"📝 {_esc(watch.get('narrative_summary', '')[:200])}",
+        f"📂 {_esc(watch.get('category', ''))}",
         "",
-        f"<i>Social signal MUY temprano. Investiga.</i>",
-        f"🔗 <a href=\"https://dexscreener.com/?q={_esc(ticker)}\">DexScreener</a> · "
-        f"<a href=\"https://gmgn.ai/?q={_esc(ticker)}&chain=sol\">GMGN</a>",
+        f"📈 Crecimiento: {_esc(str(growth_data.get('description', '')))}",
+        f"📡 Fuentes nuevas: {growth_data.get('new_sources', 0)}",
+        "",
+        f"🎯 Tickers candidatos: {_esc(', '.join((watch.get('candidate_tickers') or [])[:6]))}",
+        f"<i>Watch sigue activo. Vigilando DexScreener.</i>",
     ]
-    return "\n".join(msg_parts)
+    return "\n".join(msg)
 
 
-# === NEW: NEW LAUNCH FOR TRACKED EVENT ===
-def format_new_launch_for_event(coin: Dict, event_name: str, matched_keywords: List[str]) -> str:
-    msg_parts = [
-        f"💎 <b>NEW LAUNCH PARA EVENTO TRACKED</b>",
-        f"Acaba de lanzarse una coin que matchea el evento <b>{_esc(event_name)}</b>.",
+# ====== HEALTH ALERT ======
+def format_health_alert(state: Dict) -> str:
+    sources = state.get("sources_status", {}) or {}
+    lines = [
+        "🚨 <b>HEALTH ALERT</b>",
+        f"{state.get('zero_streak', 0)} ciclos consecutivos sin señales.",
         "",
-        f"🪙 <b>${_esc(coin.get('ticker',''))}</b> ({_esc(coin.get('name',''))[:40]})",
-        f"📊 MC: ${coin.get('market_cap_usd', 0):,.0f}",
-        f"⏰ Edad: muy reciente",
-        f"🔑 Matches: {', '.join(_esc(k) for k in matched_keywords[:5])}",
-        "",
+        "<b>Estado fuentes:</b>",
     ]
-    desc = coin.get("description", "")[:200]
-    if desc:
-        msg_parts.append(f"📝 {_esc(desc)}")
-        msg_parts.append("")
-    socials = []
-    if coin.get("twitter"): socials.append(f"<a href=\"{_esc(coin['twitter'])}\">Twitter</a>")
-    if coin.get("telegram"): socials.append(f"<a href=\"{_esc(coin['telegram'])}\">Telegram</a>")
-    if coin.get("website"): socials.append(f"<a href=\"{_esc(coin['website'])}\">Web</a>")
-    if socials:
-        msg_parts.append("🌐 " + " · ".join(socials))
-    msg_parts.append(f"🔗 <a href=\"{_esc(coin.get('url',''))}\">pump.fun</a>")
-    return "\n".join(msg_parts)
-
-
-# === NEW: AI AGENT NARRATIVE EMERGING ===
-def format_ai_agent_emerging(coin: Dict, evidence: List[str]) -> str:
-    msg_parts = [
-        f"🧠 <b>AI AGENT NARRATIVE EMERGING</b>",
-        f"Detectada coin con perfil AI agent (meta 2026).",
-        "",
-        f"🪙 <b>${_esc(coin.get('ticker',''))}</b> ({_esc(coin.get('name',''))[:40]})",
-        f"📊 MC: ${coin.get('market_cap_usd', 0):,.0f}",
-    ]
-    if evidence:
-        msg_parts.append("")
-        msg_parts.append("<b>Evidencia AI agent:</b>")
-        for e in evidence[:5]:
-            msg_parts.append(f"• {_esc(e)}")
-    msg_parts.append("")
-    msg_parts.append(f"🔗 <a href=\"{_esc(coin.get('url',''))}\">abrir</a>")
-    return "\n".join(msg_parts)
-
-
-def format_coin_watch(coin: Dict, reason: str) -> str:
-    mc = coin.get("market_cap_usd") or 0
-    return (
-        f"👀 <b>COIN EN WATCH</b>\n"
-        f"<b>${_esc(coin.get('ticker',''))}</b> ({_esc(coin.get('name',''))})\n"
-        f"MC: ${mc:,.0f} · {_esc(coin.get('chain',''))} · {_esc(coin.get('source',''))}\n"
-        f"📍 Razón: {_esc(reason)}\n"
-        f"🔗 <a href=\"{_esc(coin.get('url',''))}\">abrir</a>"
-    )
+    for k, v in sources.items():
+        emoji = "✅" if v > 0 else "❌"
+        lines.append(f"{emoji} {k}: {v}")
+    lines.append("")
+    lines.append("<i>Posibles causas: APIs caídas, rate-limit, endpoints rotos.</i>")
+    return "\n".join(lines)

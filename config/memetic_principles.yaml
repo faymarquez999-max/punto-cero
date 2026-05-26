@@ -1,0 +1,101 @@
+# Principios memetéticos — material de razonamiento para la IA
+#
+# Sustituye a historical_cases.yaml en el rebuild V3.
+# YA NO se compara la narrativa nueva con casos pasados concretos. El LLM razona
+# con PRINCIPIOS abstractos de viralidad. Esto evita que se ancle a "tipo PNUT"
+# y se cierre a categorías estrechas.
+
+# Dimensiones que generan potencial memético (cada una 0-10)
+dimensions:
+  emotional:
+    description: "Carga emocional fuerte que provoca al lector (shock, rabia, ternura, schadenfreude, miedo, fascinación, humor absurdo, drama)"
+    weight: 0.18
+
+  memeable:
+    description: "El núcleo se puede capturar en una frase corta, una imagen, una palabra. Repetible y compartible sin contexto."
+    weight: 0.16
+
+  visual:
+    description: "Hay una imagen, screenshot, foto o frame de vídeo asociado que es instantáneamente icónico"
+    weight: 0.12
+
+  cultural_resonance:
+    description: "Toca arquetipos culturales — David vs Goliath, injusticia, redención, traición, absurdo, monstruo, héroe, conspiración, decadencia"
+    weight: 0.14
+
+  polarizing:
+    description: "Divide a la gente en bandos. Genera engagement por conflicto."
+    weight: 0.08
+
+  absurdity:
+    description: "Es bizarro, inesperado, '¿en serio ha pasado esto?'. La normalidad rota."
+    weight: 0.10
+
+  simplicity:
+    description: "El meme/ticker emergente puede ser una sola palabra o frase muy corta. No hay que explicar nada."
+    weight: 0.12
+
+  velocity:
+    description: "Tiene patas para extenderse en horas, no días. Va a salir en redes hoy mismo."
+    weight: 0.10
+
+# Arquetipos memetéticos (NO son ejemplos a copiar — son patrones que la IA puede reconocer)
+archetypes:
+  - injustice_with_villain_and_victim
+  - bizarre_accident_or_coincidence
+  - viral_phrase_or_quote
+  - unexpected_celebrity_drama
+  - leak_or_secret_revealed
+  - public_figure_in_unusual_state (death/illness/scandal/exile)
+  - animal_at_the_center_of_story
+  - government_acknowledges_taboo
+  - tech_or_product_surprise_or_failure
+  - generational_or_nostalgic_trigger
+  - online_drama_between_two_figures
+  - mass_psychological_moment (panic/celebration/rage)
+  - underdog_victory_or_redemption
+  - conspiracy_being_confirmed
+  - shocking_image_or_video
+  - cultural_clash_or_provocation
+  - prophet_of_doom_warning
+  - bizarre_local_news_with_global_potential
+
+# Señales que BAJAN el potencial memético
+red_flags:
+  - too_technical_or_dry
+  - already_overexploited (the meme/category is dead)
+  - too_niche (only one community cares)
+  - no_emotional_charge
+  - no_clear_image_or_phrase
+  - requires_long_explanation
+  - politically_too_divisive (only one camp engages)
+  - too_local_or_unknown_actors
+
+# Categorías abiertas — el LLM puede usar estas o inventar las que necesite
+suggested_categories:
+  - political_shock
+  - celebrity_event
+  - viral_phrase
+  - animal_story
+  - bizarre_news
+  - tech_leak_or_release
+  - conspiracy_realized
+  - cultural_moment
+  - drama_internet
+  - economic_shock
+  - geopolitical_event
+  - leaked_information
+  - public_health_event
+  - science_breakthrough
+  - religious_or_spiritual_moment
+
+# Reglas que el LLM aplica
+rules:
+  - "Animal involucrado + injusticia + foto = potencial multiplicado"
+  - "Figura mundial polarizante + evento dramático = ventana corta pero alta"
+  - "Frase memeable de 2-3 palabras = potencial puro, evaluar viralidad"
+  - "Si el ticker candidato es genérico (TRUMP, CAT, DOG) = penaliza, ya está explotado"
+  - "Si la narrativa requiere >2 frases para explicarla = penaliza memeabilidad"
+  - "Localización exótica o random aumenta viralidad si la imagen es icónica"
+  - "Eventos planeados y conocidos (UFC, NBA, lanzamientos sports) = SCORE BAJO salvo que haya twist inesperado"
+  - "Frases o momentos de Trump/Elon/figuras top tienen multiplicador pero solo si son ABSURDAS o impactantes, no rutinarias"

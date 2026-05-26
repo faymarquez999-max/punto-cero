@@ -1,49 +1,49 @@
-"""Entry point — ciclo completo con TODOS los motores integrados.
+"""Entry point V3 — Punto Cero.
 
-FOCO: narrativas FRESCAS + coins early stage (MC <100k) + dormant event coins.
-NO surfacing coins consolidadas.
+Filosofía: radar cultural inteligente. Detecta narrativas frescas con potencial memético
+y trackea coins existentes con catalizadores futuros. Sin calendario hardcoded.
 
 Pipeline por ciclo:
-1. Bot commands (/status, /events, /help)
-2. RECOLECCIÓN — Reddit + Google News + Trends + Bluesky + Nitter + 4chan /biz/
-                  + Solana Tracker (early only) + GMGN (early only)
+1. Bot commands (/status, /help)
+2. RECOLECCIÓN amplia (Reddit, breaking news, Wikipedia, Polymarket, X via Nitter,
+                       Bluesky, 4chan, Google News/Trends)
 3. CLUSTERING — agrupa señales en narrativas candidatas
-4. MOMENTUM PRE-LLM — cross-source bonus + velocity bonus
-5. TICKER VELOCITY — detecta spikes x5 mentions ticker en 1h
-6. SCORING LLM — top clusters con casos históricos pre-filtrados
-7. Si STRONG → hunt coins early + add a active_watch 48h
-8. EVENT COIN WATCHER — coins event-linked con R/R alto
-9. PUMP.FUN MONITOR — nuevas coins matching eventos / active watch
-10. SMART MONEY — confluence + dormant wake-up
-11. ANTICIPACIÓN EVENTOS — calendar
-12. HEALTH-CHECK
-13. Persistencia + dedup
+4. MOMENTUM PRE-LLM — cross-source bonus
+5. NARRATIVE POTENTIAL SCORER (LLM) — evalúa con principios memetéticos
+6. Si score >= umbral → crea ACTIVE WATCH (con tickers candidatos + key_terms)
+7. PROCESS ACTIVE WATCHES — cada watch activo busca coin matching en DexScreener
+   (filtros duros: MC 10-500k, liq 5k+, vol 5k+, holders 50+, age 10min+)
+8. EVENT-LINKED RADAR (cada 4 ciclos) — escanea low-cap Solana y pregunta al LLM
+   si hay catalizador futuro conocido
+9. ANTICIPACIÓN EVENTOS (legacy, deshabilitado por default)
+10. HEALTH CHECK
 """
 import os
 import sys
 import yaml
 import json
-import hashlib
 import traceback
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 
-from src.collectors import reddit, google_news, google_trends, bluesky, nitter
-from src.collectors import fourchan_biz, solana_tracker, gmgn
-from src.intelligence.clustering import cluster_signals
-from src.intelligence.event_matcher import load_events, upcoming_events, match_cluster_to_event
-from src.intelligence.scorer import load_historical_cases, score_cluster
-from src.intelligence.momentum import (
-    load_history, save_history, compute_momentum_boost,
-    update_history,
+from src.collectors import (
+    reddit, google_news, google_trends, bluesky, nitter,
+    fourchan_biz, solana_tracker, gmgn,
+    wikipedia, breaking_news, polymarket,
 )
-from src.intelligence import ticker_velocity, smart_money
-from src.crypto.hunter import hunt
-from src.crypto import event_watcher, pump_monitor
+from src.intelligence.clustering import cluster_signals
+from src.intelligence.momentum import (
+    load_history, save_history, compute_momentum_boost, update_history,
+)
+from src.intelligence.narrative_potential import (
+    score_narrative, load_principles,
+)
+from src.intelligence import active_watch
+from src.crypto import dex_matcher, event_radar
 from src.alerts import telegram, formatter
 from src.memory import store
 from src import health, bot_commands
@@ -54,7 +54,26 @@ def _load_yaml(path: Path) -> dict:
         return yaml.safe_load(f) or {}
 
 
-def collect_all(sources_cfg: dict) -> tuple[list, dict]:
+def _load_json(path: str) -> dict:
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f) or {}
+    except Exception:
+        return {}
+
+
+def _save_json(path: str, data: dict) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2, default=str)
+    os.replace(tmp, path)
+
+
+def collect_all(sources_cfg: dict, polymarket_state_path: str) -> tuple[list, dict]:
+    """Recolecta de TODAS las fuentes habilitadas."""
     signals: list = []
     status: dict = {}
 
@@ -74,7 +93,7 @@ def collect_all(sources_cfg: dict) -> tuple[list, dict]:
         signals += _run("reddit", lambda: reddit.collect(
             rc.get("subreddits", []),
             hot_limit=rc.get("hot_limit", 30),
-            min_score=rc.get("min_score", 100),
+            min_score=rc.get("min_score", 80),
             also_rising=rc.get("also_fetch_rising", True),
         ))
 
@@ -83,20 +102,43 @@ def collect_all(sources_cfg: dict) -> tuple[list, dict]:
             sources_cfg["google_news"].get("feeds", [])
         ))
 
-    if sources_cfg.get("google_trends", {}).get("enabled"):
-        signals += _run("google_trends", lambda: google_trends.collect(
-            sources_cfg["google_trends"].get("geo_targets", ["US"])
+    if sources_cfg.get("breaking_news_feeds", {}).get("enabled"):
+        signals += _run("breaking_news", lambda: breaking_news.collect(
+            sources_cfg["breaking_news_feeds"].get("feeds", [])
+        ))
+
+    if sources_cfg.get("wikipedia", {}).get("enabled"):
+        wc = sources_cfg["wikipedia"]
+        signals += _run("wikipedia", lambda: wikipedia.collect(
+            wc.get("watched_pages", []),
+            edit_spike_threshold=wc.get("edit_spike_threshold", 5),
+            check_global=wc.get("check_recent_changes_global", True),
+        ))
+
+    if sources_cfg.get("polymarket", {}).get("enabled"):
+        pm_cfg = sources_cfg["polymarket"]
+        def _pm():
+            prev_state = _load_json(polymarket_state_path)
+            sigs, new_state = polymarket.collect(
+                min_change_pct=pm_cfg.get("min_probability_change_pct", 10),
+                max_markets=pm_cfg.get("max_markets_per_cycle", 50),
+                state=prev_state,
+            )
+            _save_json(polymarket_state_path, new_state)
+            return sigs
+        signals += _run("polymarket", _pm)
+
+    if sources_cfg.get("nitter", {}).get("enabled"):
+        nc = sources_cfg["nitter"]
+        signals += _run("nitter", lambda: nitter.collect(
+            instances=nc.get("instances", []),
+            queries=nc.get("search_queries", []),
+            accounts=nc.get("accounts_to_watch", []),
         ))
 
     if sources_cfg.get("bluesky", {}).get("enabled"):
         signals += _run("bluesky", lambda: bluesky.collect(
             sources_cfg["bluesky"].get("search_queries", [])
-        ))
-
-    if sources_cfg.get("nitter", {}).get("enabled"):
-        nc = sources_cfg["nitter"]
-        signals += _run("nitter", lambda: nitter.collect(
-            nc.get("instances", []), nc.get("search_queries", [])
         ))
 
     if sources_cfg.get("fourchan_biz", {}).get("enabled"):
@@ -108,50 +150,12 @@ def collect_all(sources_cfg: dict) -> tuple[list, dict]:
             ignored_tickers=fc.get("ignored_tickers", []),
         ))
 
-    if sources_cfg.get("solana_tracker", {}).get("enabled"):
-        st = sources_cfg["solana_tracker"]
-        signals += _run("solana_tracker", lambda: solana_tracker.collect_as_signals(
-            timeframe=st.get("trending_timeframe", "1h"),
-            limit=st.get("trending_limit", 30),
-            max_mc_usd=500000,
-        ))
-
-    if sources_cfg.get("gmgn", {}).get("enabled"):
-        gm = sources_cfg["gmgn"]
-        signals += _run("gmgn", lambda: gmgn.collect_as_signals(
-            limit=gm.get("max_tokens", 20),
-            max_mc_usd=500000,
+    if sources_cfg.get("google_trends", {}).get("enabled"):
+        signals += _run("google_trends", lambda: google_trends.collect(
+            sources_cfg["google_trends"].get("geo_targets", ["US"])
         ))
 
     return signals, status
-
-
-def _stable_fingerprint(cluster: dict, narrative: dict | None = None) -> str:
-    parts = []
-    if narrative:
-        parts.append(narrative.get("category", ""))
-        parts.append(narrative.get("matched_event", "") or "")
-    parts.extend(sorted(cluster.get("key_terms", []))[:4])
-    s = "::".join(p for p in parts if p)
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
-
-
-def _load_json(path: str) -> dict:
-    if not os.path.exists(path):
-        return {}
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f) or {}
-    except Exception:
-        return {}
-
-
-def _save_json(path: str, data: dict) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    os.replace(tmp, path)
 
 
 def main():
@@ -159,36 +163,34 @@ def main():
 
     sources_cfg = _load_yaml(BASE_DIR / "config" / "sources.yaml")
     settings = _load_yaml(BASE_DIR / "config" / "settings.yaml")
-    events = load_events(str(BASE_DIR / "config" / "events.yaml"))
-    historical = load_historical_cases(str(BASE_DIR / "config" / "historical_cases.yaml"))
+    principles = load_principles(str(BASE_DIR / "config" / "memetic_principles.yaml"))
 
     paths = settings.get("paths", {})
-    narratives_path = str(BASE_DIR / paths.get("narratives_file", "data/narratives.json"))
-    coins_path = str(BASE_DIR / paths.get("coins_file", "data/coins_tracked.json"))
     alerts_path = str(BASE_DIR / paths.get("alerts_log", "data/alerts_log.json"))
     sent_keys_path = str(BASE_DIR / paths.get("sent_keys_file", "data/sent_keys.json"))
     history_path = str(BASE_DIR / paths.get("signals_history_file", "data/signals_history.json"))
     health_path = str(BASE_DIR / paths.get("health_state_file", "data/health.json"))
-    event_coins_path = str(BASE_DIR / paths.get("event_coins_file", "data/event_coins.json"))
-    smart_money_path = str(BASE_DIR / paths.get("smart_money_state_file", "data/smart_money.json"))
-    ticker_velocity_path = str(BASE_DIR / paths.get("ticker_velocity_file", "data/ticker_velocity.json"))
-    active_watch_path = str(BASE_DIR / paths.get("active_watch_file", "data/active_watch.json"))
-    pump_monitor_seen_path = str(BASE_DIR / "data/pump_monitor_seen.json")
-    smart_wallets_path = str(BASE_DIR / "config" / "smart_wallets.yaml")
+    active_watches_path = str(BASE_DIR / paths.get("active_watches_file", "data/active_watches.json"))
+    matched_coins_path = str(BASE_DIR / paths.get("matched_coins_file", "data/matched_coins.json"))
+    event_radar_path = str(BASE_DIR / paths.get("event_radar_state_file", "data/event_radar.json"))
+    narrative_log_path = str(BASE_DIR / paths.get("narrative_log_file", "data/narratives.json"))
+    polymarket_state_path = str(BASE_DIR / "data" / "polymarket_state.json")
 
     scoring = settings.get("scoring", {})
     momentum_cfg = settings.get("momentum_boost", {})
+    aw_cfg = settings.get("active_watch", {})
+    dex_cfg = settings.get("dex_matcher", {})
     dedup = settings.get("deduplication", {})
-    hunter_cfg = settings.get("crypto_hunter", {})
-    windows = settings.get("anticipation_windows", {})
     health_cfg = settings.get("health_check", {})
 
-    min_alert_score = scoring.get("min_alert_score", 83)
-    shadow_log_score = scoring.get("shadow_log_score", 60)
-    cooldown_hours = dedup.get("narrative_cooldown_hours", 24)
+    min_alert_score = scoring.get("min_alert_score", 70)
+    shadow_log_score = scoring.get("shadow_log_score", 50)
+    narrative_cooldown_h = dedup.get("narrative_cooldown_hours", 24)
 
     # === BOT COMMANDS ===
     try:
+        # Load events placeholder (vacío en V3 pero el bot_commands lo necesita)
+        events = []
         n_cmds = bot_commands.process_pending(BASE_DIR, settings, events)
         if n_cmds:
             print(f"[bot] respondidos {n_cmds} comandos")
@@ -197,271 +199,226 @@ def main():
 
     # === FASE 1: RECOLECCIÓN ===
     print("\n=== FASE 1: RECOLECCIÓN ===")
-    signals, sources_status = collect_all(sources_cfg)
+    signals, sources_status = collect_all(sources_cfg, polymarket_state_path)
     total_signals = len(signals)
     print(f"Total signals: {total_signals}")
 
+    # Health check
     if health_cfg.get("enabled", True):
         state = health.record_cycle(health_path, total_signals, sources_status)
-        if health.should_alert(state, threshold=health_cfg.get("zero_signals_runs_before_alert", 3)):
-            telegram.send(health.build_health_message(state))
+        if health.should_alert(state, threshold=health_cfg.get("zero_signals_runs_before_alert", 4)):
+            telegram.send(formatter.format_health_alert(state))
 
-    # === FASE 2: TICKER VELOCITY ===
-    print("\n=== FASE 2: TICKER VELOCITY ===")
-    try:
-        spikes = ticker_velocity.run(signals, ticker_velocity_path, settings)
-        print(f"Velocity spikes: {len(spikes)}")
-        sent_keys = _load_json(sent_keys_path)
-        for sp in spikes[:5]:
-            key = f"velocity::{sp['ticker']}::{int(sp['spike_ratio'])}"
-            if key in sent_keys:
-                continue
-            msg = formatter.format_velocity_spike(sp)
-            if telegram.send(msg):
-                sent_keys[key] = sp
-                store.log_alert(alerts_path, "ticker_velocity", sp)
-        _save_json(sent_keys_path, sent_keys)
-    except Exception as e:
-        print(f"[velocity] error: {e}")
-
-    # === FASE 3: CLUSTERING ===
+    # === FASE 2: CLUSTERING + MOMENTUM ===
     if signals:
-        print("\n=== FASE 3: CLUSTERING ===")
         clusters = cluster_signals(signals)
-        print(f"Clusters: {len(clusters)}")
+        print(f"\n=== FASE 2: CLUSTERING ===\nClusters: {len(clusters)}")
     else:
         clusters = []
 
-    # === FASE 4: MOMENTUM PRE-LLM ===
-    print("\n=== FASE 4: MOMENTUM ===")
     history = load_history(history_path)
-    boosted_clusters = []
+    boosted = []
     for c in clusters:
         if momentum_cfg.get("enabled", True):
             m = compute_momentum_boost(
                 c, history,
-                multi_source_threshold=momentum_cfg.get("multi_source_threshold", 3),
-                multi_source_bonus=momentum_cfg.get("multi_source_bonus", 8),
+                multi_source_threshold=momentum_cfg.get("multi_source_threshold", 2),
+                multi_source_bonus=momentum_cfg.get("multi_source_bonus", 6),
                 velocity_window_hours=momentum_cfg.get("velocity_window_hours", 2),
-                velocity_x2_bonus=momentum_cfg.get("velocity_x2_bonus", 5),
+                velocity_x2_bonus=momentum_cfg.get("velocity_x2_bonus", 4),
             )
         else:
             m = {"total_bonus": 0, "reasons": []}
         c["_momentum"] = m
-        boosted_clusters.append(c)
+        boosted.append(c)
 
-    boosted_clusters.sort(
+    boosted.sort(
         key=lambda x: (x["_momentum"]["total_bonus"], x.get("n_distinct_families", 0),
                        x.get("engagement_total", 0)),
         reverse=True,
     )
-    top_clusters = boosted_clusters[:12]
-    if top_clusters:
-        print(f"Top {len(top_clusters)} a LLM:")
-        for i, c in enumerate(top_clusters[:5]):
-            m = c["_momentum"]
-            print(f"  [{i+1}] +bonus={m['total_bonus']} fams={c.get('n_distinct_families',0)} | {c['top_title'][:60]}")
+    top_clusters = boosted[:12]
 
-    # === FASE 5: SCORING LLM + alertas + active_watch ===
-    print("\n=== FASE 5: SCORING ===")
+    # === FASE 3: NARRATIVE POTENTIAL SCORING + ACTIVE WATCH CREATION ===
+    print(f"\n=== FASE 3: SCORING NARRATIVAS (top {len(top_clusters)}) ===")
+    watches_state = active_watch.load_state(active_watches_path)
+    # Expira viejos
+    n_expired = active_watch.expire_old(watches_state)
+    if n_expired:
+        print(f"Watches expirados: {n_expired}")
+
     sent_count = 0
     shadow_count = 0
+    new_watches_created = 0
+
     for cluster in top_clusters:
-        narrative = score_cluster(
-            cluster, historical,
+        narrative = score_narrative(
+            cluster, principles,
             model=scoring.get("llm_model_primary"),
             fallback_model=scoring.get("llm_model_fallback"),
-            temperature=scoring.get("llm_temperature", 0.3),
-            pre_bonuses=cluster["_momentum"],
+            temperature=scoring.get("llm_temperature", 0.4),
+            pre_bonuses=cluster.get("_momentum", {}),
         )
         if narrative.get("error"):
             print(f"  ERROR: {narrative['error']}")
             continue
+
         score = int(narrative.get("score", 0))
         rec = narrative.get("recommendation", "IGNORE")
         cat = narrative.get("category", "")
-        title_short = cluster["top_title"][:60]
+        title_short = cluster.get("top_title", "")[:65]
         print(f"  score={score} | {rec} | {cat} | {title_short}")
 
-        matched_event = match_cluster_to_event(cluster, events)
-        if matched_event:
-            narrative["matched_event"] = matched_event.get("name")
-        fp = _stable_fingerprint(cluster, narrative)
-
-        if store.was_recently_alerted(narratives_path, fp, cooldown_hours):
+        # Categoría bloqueada?
+        blocked = settings.get("filters", {}).get("blocked_categories", []) or []
+        if cat in blocked:
+            print(f"    [skip blocked category]")
             continue
 
+        # Shadow log
         if score < min_alert_score:
             if score >= shadow_log_score:
                 store.log_alert(alerts_path, "shadow", {
-                    "fp": fp, "score": score, "category": cat,
-                    "title": cluster["top_title"][:160],
+                    "score": score, "category": cat,
+                    "title": cluster.get("top_title", "")[:200],
+                    "candidate_tickers": narrative.get("candidate_tickers", []),
                 })
                 shadow_count += 1
             continue
         if rec == "IGNORE":
             continue
 
-        # Hunt coins early-stage
-        try:
-            coins = hunt(
-                narrative, cluster,
-                fuzzy_threshold=hunter_cfg.get("fuzzy_match_threshold", 0.65),
-                max_coins=hunter_cfg.get("max_coins_per_alert", 5),
-                min_liquidity=hunter_cfg.get("min_liquidity_usd", 500),
-                min_age_minutes=hunter_cfg.get("min_token_age_minutes", 5),
-                max_age_hours=hunter_cfg.get("max_token_age_hours", 168),
-                use_rugcheck=sources_cfg.get("crypto_sources", {}).get("rugcheck", {}).get("enabled", True),
-                min_safety_score=sources_cfg.get("crypto_sources", {}).get("rugcheck", {}).get("min_safety_score", 50),
-            ) if hunter_cfg.get("enabled", True) else []
-        except Exception as e:
-            print(f"    hunter error: {e}")
-            coins = []
+        # Dedup
+        fp = active_watch.watch_fingerprint(narrative)
+        if active_watch.has_recent_watch(watches_state, fp, cooldown_hours=narrative_cooldown_h):
+            print(f"    [skip cooldown — watch reciente con misma firma]")
+            continue
 
-        msg = formatter.format_narrative_alert(narrative, cluster, coins)
+        # Crear watch
+        cluster_meta = {
+            "top_title": cluster.get("top_title"),
+            "source_families": cluster.get("source_families", []),
+        }
+        watch = active_watch.create_watch(
+            watches_state, narrative, cluster_meta,
+            default_duration_hours=aw_cfg.get("default_duration_hours", 72),
+            strong_duration_hours=aw_cfg.get("strong_duration_hours", 168),
+        )
+        new_watches_created += 1
+
+        # Alerta POTENTIAL NARRATIVE
+        msg = formatter.format_potential_narrative(narrative, cluster, watch)
         ok = telegram.send(msg)
         if ok:
             sent_count += 1
-
-        # ACTIVE WATCH 48h con keywords del cluster + tickers sugeridos
-        try:
-            active_terms = (cluster.get("key_terms") or [])[:6] + \
-                           (narrative.get("suggested_tickers") or [])
-            pump_monitor.add_active_watch(active_watch_path, active_terms, hours=48)
-        except Exception:
-            pass
-
-        cluster_meta = {
-            "top_title": cluster.get("top_title"),
-            "key_terms": cluster.get("key_terms"),
-            "sources": cluster.get("sources"),
-            "source_families": cluster.get("source_families"),
-            "engagement_total": cluster.get("engagement_total"),
-            "signal_count": cluster.get("signal_count"),
-            "n_distinct_families": cluster.get("n_distinct_families"),
-        }
-        store.remember_narrative(narratives_path, fp, narrative, cluster_meta)
-        store.increment_alert_count(narratives_path, fp)
-        store.remember_coins(coins_path, coins, fp)
-        store.log_alert(alerts_path, "narrative", {
-            "fp": fp, "score": score, "title": cluster["top_title"][:200],
-            "coins_n": len(coins), "category": cat,
+        store.log_alert(alerts_path, "potential_narrative", {
+            "watch_id": watch["id"],
+            "score": score,
+            "category": cat,
+            "title": cluster.get("top_title", "")[:200],
+            "candidate_tickers": watch.get("candidate_tickers", []),
         })
 
-    print(f"Alertas STRONG: {sent_count}, Shadow: {shadow_count}")
+    print(f"\nNarrativas detectadas: {new_watches_created}, alertas STRONG enviadas: {sent_count}, shadow: {shadow_count}")
+    active_watch.save_state(active_watches_path, watches_state)
 
-    # === FASE 6: EVENT COIN WATCHER (dormant pumpers) ===
-    print("\n=== FASE 6: EVENT COIN WATCHER ===")
-    try:
-        ev_state, candidates = event_watcher.run(events, event_coins_path, settings)
-        print(f"Event-linked candidates con R/R alto: {len(candidates)}")
-        sent_keys = _load_json(sent_keys_path)
-        ev_cooldown = dedup.get("event_coin_alert_cooldown_hours", 48)
-        # cooldown handled via sent_keys ts
-        ev_sent = 0
-        for c in candidates[:5]:
-            key = f"event_linked::{c.get('event_id')}::{c.get('mint')}"
-            if key in sent_keys:
+    # === FASE 4: PROCESS ACTIVE WATCHES (DEX MATCHER) ===
+    print("\n=== FASE 4: ACTIVE WATCHES → DEX MATCHER ===")
+    active_list = active_watch.get_active(watches_state)
+    print(f"Watches activos a procesar: {len(active_list)}")
+
+    matched_coins = _load_json(matched_coins_path)
+    matched_coins.setdefault("matched", [])
+    coin_alerts_sent = 0
+
+    for watch in active_list[: int(aw_cfg.get("max_active_watches", 50))]:
+        active_watch.increment_scan_attempts(watches_state, watch["id"])
+        try:
+            coin = dex_matcher.find_matching_coin(
+                watch, dex_cfg,
+                use_rugcheck=sources_cfg.get("crypto_sources", {}).get("rugcheck", {}).get("enabled", True),
+                min_safety_score=sources_cfg.get("crypto_sources", {}).get("rugcheck", {}).get("min_safety_score", 50),
+                fuzzy_threshold=dex_cfg.get("fuzzy_match_threshold", 0.70),
+            )
+        except Exception as e:
+            print(f"  [matcher error] {e}")
+            coin = None
+
+        if coin:
+            mint = coin.get("mint", "")
+            print(f"  ✓ MATCH: {watch['id']} → ${coin.get('ticker')} ({mint[:10]}...)")
+            # Dedup match
+            already_sent = any(m.get("watch_id") == watch["id"] and m.get("mint") == mint
+                               for m in matched_coins["matched"])
+            if already_sent:
                 continue
-            msg = formatter.format_event_linked_opportunity(c)
-            if telegram.send(msg):
-                sent_keys[key] = {"ts": store.now_utc_iso(), "score": c.get("rr", {}).get("rr_score")}
-                ev_sent += 1
-                store.log_alert(alerts_path, "event_linked", {
-                    "event_id": c.get("event_id"),
-                    "ticker": c.get("ticker"),
-                    "rr": c.get("rr", {}).get("rr_score"),
-                })
-        _save_json(sent_keys_path, sent_keys)
-        print(f"Event-linked enviados: {ev_sent}")
-    except Exception as e:
-        print(f"[event_watcher] error: {e}")
-
-    # === FASE 7: PUMP.FUN MONITOR ===
-    print("\n=== FASE 7: PUMP.FUN MONITOR ===")
-    try:
-        matches = pump_monitor.scan(events, settings, pump_monitor_seen_path, active_watch_path)
-        print(f"Pump.fun matches: {len(matches)}")
-        pm_sent = 0
-        for m in matches[:5]:
-            coin = m["coin"]
-            event_name = m["matched_event_names"][0] if m["matched_event_names"] else "active_watch"
-            msg = formatter.format_new_launch_for_event(coin, event_name, m["matched_terms"])
-            if telegram.send(msg):
-                pm_sent += 1
-                store.log_alert(alerts_path, "new_launch_for_event", {
+            msg = formatter.format_coin_matched(coin, watch)
+            ok = telegram.send(msg)
+            if ok:
+                coin_alerts_sent += 1
+                active_watch.mark_watch_matched(watches_state, watch["id"], coin)
+                matched_coins["matched"].append({
+                    "watch_id": watch["id"],
+                    "mint": mint,
                     "ticker": coin.get("ticker"),
-                    "mint": coin.get("mint"),
-                    "event": event_name,
+                    "matched_at": datetime.now(timezone.utc).isoformat(),
                 })
-        print(f"Pump.fun alerts: {pm_sent}")
-    except Exception as e:
-        print(f"[pump_monitor] error: {e}")
+                store.log_alert(alerts_path, "coin_matched", {
+                    "watch_id": watch["id"],
+                    "ticker": coin.get("ticker"),
+                    "mint": mint,
+                    "mc": coin.get("market_cap_usd"),
+                })
+    print(f"Coin matches: {coin_alerts_sent}")
 
-    # === FASE 8: SMART MONEY ===
-    print("\n=== FASE 8: SMART MONEY ===")
-    try:
-        sm_result = smart_money.run(smart_wallets_path, smart_money_path, settings, sources_cfg)
-        polled = sm_result.get("polled", 0)
-        print(f"Wallets polled: {polled}, confluence: {len(sm_result.get('confluence', []))}, wake_ups: {len(sm_result.get('wake_ups', []))}")
-        sent_keys = _load_json(sent_keys_path)
-        sm_sent = 0
-        for conf in sm_result.get("confluence", [])[:3]:
-            key = f"confluence::{conf['mint']}::{conf['buyer_count']}"
-            if key in sent_keys:
-                continue
-            msg = formatter.format_confluence(conf)
-            if telegram.send(msg):
-                sm_sent += 1
-                sent_keys[key] = True
-                store.log_alert(alerts_path, "confluence", conf)
-        for wake in sm_result.get("wake_ups", [])[:3]:
-            key = f"wakeup::{wake['wallet'][:16]}::{wake.get('mint','')[:16]}"
-            if key in sent_keys:
-                continue
-            msg = formatter.format_wake_up(wake)
-            if telegram.send(msg):
-                sm_sent += 1
-                sent_keys[key] = True
-                store.log_alert(alerts_path, "wakeup", wake)
-        _save_json(sent_keys_path, sent_keys)
-        print(f"Smart money alerts: {sm_sent}")
-    except Exception as e:
-        print(f"[smart_money] error: {e}")
+    _save_json(matched_coins_path, matched_coins)
+    active_watch.save_state(active_watches_path, watches_state)
 
-    # === FASE 9: ANTICIPACIÓN EVENTOS ===
-    _check_upcoming_events(events, windows, sent_keys_path, alerts_path)
+    # === FASE 5: EVENT-LINKED RADAR (cada N ciclos) ===
+    er_cfg = settings.get("event_radar", {})
+    if er_cfg.get("enabled", True):
+        # Decide si toca correrlo (cada N ciclos)
+        radar_state = _load_json(event_radar_path)
+        cycles_since = int(radar_state.get("_cycles_since_last_radar", 999))
+        scan_every = int(er_cfg.get("scan_every_n_cycles", 4))
+        if cycles_since >= scan_every:
+            print("\n=== FASE 5: EVENT-LINKED RADAR ===")
+            try:
+                candidates = event_radar.run(settings, event_radar_path)
+                print(f"Event-linked candidates: {len(candidates)}")
+                er_sent = 0
+                sent_keys = _load_json(sent_keys_path)
+                for c in candidates[:3]:
+                    coin = c["coin"]
+                    ev = c["evaluation"]
+                    key = f"event_linked::{coin.get('mint', '')}"
+                    if key in sent_keys:
+                        continue
+                    msg = formatter.format_event_linked(coin, ev)
+                    if telegram.send(msg):
+                        er_sent += 1
+                        sent_keys[key] = {"ts": datetime.now(timezone.utc).isoformat()}
+                        store.log_alert(alerts_path, "event_linked", {
+                            "ticker": coin.get("ticker"),
+                            "mint": coin.get("mint"),
+                            "catalyst": ev.get("catalyst_description", "")[:200],
+                            "rr": ev.get("rr_score"),
+                        })
+                _save_json(sent_keys_path, sent_keys)
+                print(f"Event-linked alerts: {er_sent}")
+            except Exception as e:
+                print(f"[event_radar] error: {e}")
+            # Reset cycles
+            radar_state["_cycles_since_last_radar"] = 0
+            _save_json(event_radar_path, radar_state)
+        else:
+            radar_state["_cycles_since_last_radar"] = cycles_since + 1
+            _save_json(event_radar_path, radar_state)
 
-    # === FASE 10: ACTUALIZAR HISTORIAL ===
+    # === FASE 6: ACTUALIZAR HISTORIAL ===
     history = update_history(history, clusters)
     save_history(history_path, history)
     print("\n✓ Ciclo completo")
-
-
-def _check_upcoming_events(events, windows, sent_keys_path, alerts_path):
-    print("\n=== FASE 9: ANTICIPACIÓN EVENTOS ===")
-    upcoming = upcoming_events(
-        events, today=date.today(),
-        major_days=windows.get("major_event_days", 30),
-        medium_days=windows.get("medium_event_days", 14),
-        small_days=windows.get("small_event_days", 7),
-        imminent_days=windows.get("imminent_event_days", 3),
-    )
-    sent_keys = _load_json(sent_keys_path)
-    sent_event = 0
-    for e in upcoming:
-        key = f"event::{e['id']}::{e['window_type']}"
-        if key in sent_keys:
-            continue
-        msg = formatter.format_event_anticipation(e)
-        if telegram.send(msg):
-            sent_event += 1
-            sent_keys[key] = e.get("days_to_event", 0)
-            store.log_alert(alerts_path, "event_anticipation", {
-                "key": key, "event_id": e["id"], "window": e["window_type"],
-            })
-    _save_json(sent_keys_path, sent_keys)
-    print(f"Alertas evento: {sent_event}")
 
 
 if __name__ == "__main__":
