@@ -62,6 +62,9 @@ def _normalize_pairs(pairs: List[dict]) -> List[dict]:
         if not p:
             continue
         base = p.get("baseToken") or {}
+        price_change = p.get("priceChange") or {}
+        volume = p.get("volume") or {}
+        txns = p.get("txns") or {}
         out.append({
             "ticker": safe_text(base.get("symbol", ""), 32),
             "name": safe_text(base.get("name", ""), 100),
@@ -71,7 +74,17 @@ def _normalize_pairs(pairs: List[dict]) -> List[dict]:
             "market_cap_usd": float(p.get("marketCap") or p.get("fdv") or 0),
             "liquidity_usd": float((p.get("liquidity") or {}).get("usd") or 0),
             "price_usd": float(p.get("priceUsd") or 0),
-            "volume_h24": float((p.get("volume") or {}).get("h24") or 0),
+            "volume_h24": float(volume.get("h24") or 0),
+            "volume_h1": float(volume.get("h1") or 0),
+            "volume_m5": float(volume.get("m5") or 0),
+            "price_change_5m": float(price_change.get("m5") or 0),
+            "price_change_1h": float(price_change.get("h1") or 0),
+            "price_change_24h": float(price_change.get("h24") or 0),
+            "txns_h1_buys": int((txns.get("h1") or {}).get("buys") or 0),
+            "txns_h1_sells": int((txns.get("h1") or {}).get("sells") or 0),
+            # created_ts: pairCreatedAt está en ms — normalizamos
+            "created_ts": p.get("pairCreatedAt"),
+            "pair_created_at": p.get("pairCreatedAt"),
             "url": p.get("url", ""),
             "source": "dexscreener",
         })

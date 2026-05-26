@@ -377,7 +377,6 @@ def main():
     # === FASE 5: EVENT-LINKED RADAR (cada N ciclos) ===
     er_cfg = settings.get("event_radar", {})
     if er_cfg.get("enabled", True):
-        # Decide si toca correrlo (cada N ciclos)
         radar_state = _load_json(event_radar_path)
         cycles_since = int(radar_state.get("_cycles_since_last_radar", 999))
         scan_every = int(er_cfg.get("scan_every_n_cycles", 4))
@@ -408,9 +407,11 @@ def main():
                 print(f"Event-linked alerts: {er_sent}")
             except Exception as e:
                 print(f"[event_radar] error: {e}")
-            # Reset cycles
-            radar_state["_cycles_since_last_radar"] = 0
-            _save_json(event_radar_path, radar_state)
+            # IMPORTANTE: recargar state después de event_radar.run() para no
+            # sobrescribir las evaluaciones que ese motor acaba de escribir.
+            radar_state_after = _load_json(event_radar_path)
+            radar_state_after["_cycles_since_last_radar"] = 0
+            _save_json(event_radar_path, radar_state_after)
         else:
             radar_state["_cycles_since_last_radar"] = cycles_since + 1
             _save_json(event_radar_path, radar_state)
