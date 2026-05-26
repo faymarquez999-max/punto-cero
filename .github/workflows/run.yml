@@ -1,9 +1,9 @@
 name: Punto Cero — Main Cycle
 
 on:
-  # Cron PAUSADO durante rebuild V3. Se reactiva manualmente cuando el bot esté reescrito.
-  # schedule:
-  #   - cron: "*/15 * * * *"
+  schedule:
+    # Cada 15 min — V3 radar cultural news-first
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
