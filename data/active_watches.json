@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "652ef9f626ce",
@@ -128,13 +128,40 @@
       "started_at": "2026-05-26T16:00:28.361778+00:00",
       "expires_at": "2026-05-28T16:00:28.361778+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MEME",
+        "name": "memestock",
+        "mint": "bkJaJVZbry13acp171VApiM7oh29uUFueuurSTrmeme",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 33754.0,
+        "liquidity_usd": 13685.88,
+        "price_usd": 3.375e-05,
+        "volume_h24": 269208.23,
+        "volume_h1": 40516.97,
+        "volume_m5": 2343.04,
+        "price_change_5m": 2.58,
+        "price_change_1h": -59.41,
+        "price_change_24h": -5.6,
+        "txns_h1_buys": 481,
+        "txns_h1_sells": 248,
+        "created_ts": 1779811304000,
+        "pair_created_at": 1779811304000,
+        "url": "https://dexscreener.com/solana/8emgstkkz2tizuxzdv1cqnntb1s2cz87h8aqyyzh9vb7",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MEME in MEMESTOCK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-05-26T18:41:13.184508+00:00"
     },
     {
       "id": "a59d0a8384ca",
@@ -179,8 +206,53 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "ffa015ae500f",
+      "fingerprint": "ffa015ae500f",
+      "narrative_summary": "Muerte de Catherine O'Hara, actriz de Saturday Night Live, después de una breve enfermedad",
+      "why_memeable": "La muerte de una figura pública conocida y respetada, especialmente después de una breve enfermedad, es un tema que puede generar interés y emoción.",
+      "category": "Muerte y celebridad",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "CATHERINEOHARA",
+        "SNL",
+        "MUERTECELEB"
+      ],
+      "key_terms_for_dex_search": [
+        "Catherine O'Hara",
+        "SNL",
+        "Muerte",
+        "Celebridad"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-05-26T18:37:25.950540+00:00",
+      "expires_at": "2026-05-29T18:37:25.950540+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-26T16:00:56.550166+00:00"
+  "last_updated": "2026-05-26T18:41:13.184528+00:00"
 }
