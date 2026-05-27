@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0a7a330ee5f4",
@@ -382,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "060448a93839",
@@ -427,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "efa8e796642c",
@@ -472,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4dd9c21b4aae",
@@ -517,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cf650075d43f",
@@ -802,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ff62c6c842bc",
@@ -848,7 +848,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "913ae868a3ca",
@@ -893,7 +893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4063fb33ecc5",
@@ -1178,7 +1178,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "43bc79faf7ec",
@@ -1227,7 +1227,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ee6529a7da5b",
@@ -1369,7 +1369,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f191fe4c1ebb",
@@ -1411,7 +1411,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ed7ee505c30d",
@@ -1453,8 +1453,147 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "b1e33287f917",
+      "fingerprint": "b1e33287f917",
+      "narrative_summary": "Implosión de un tanque químico en un molino de papel en Washington, dejando 9 personas desaparecidas.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un impacto emocional.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IMPLOSION",
+        "TANQUEQUIMICO",
+        "MOLINO",
+        "DESAPARECIDOS"
+      ],
+      "key_terms_for_dex_search": [
+        "implosión",
+        "tanque químico",
+        "molino de papel",
+        "desaparecidos"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 0,
+        "simplicity": 9,
+        "velocity": 5
+      },
+      "started_at": "2026-05-27T17:39:34.373156+00:00",
+      "expires_at": "2026-05-29T17:39:34.373156+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hope fades for nine missing after paper mill tank implosion in Washington state - The Guardian",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "d781aee33fb5",
+      "fingerprint": "d781aee33fb5",
+      "narrative_summary": "El escritor de Los Simpsons afirma que 'es el día del juicio' en una extraña campaña presidencial.",
+      "why_memeable": "La narrativa es memeable porque combina elementos de la cultura popular (Los Simpsons) con una noticia política sorprendente.",
+      "category": "política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "BOLSONARO",
+        "SIMPSONS",
+        "JUDGEMENTDAY"
+      ],
+      "key_terms_for_dex_search": [
+        "Bolsonaro",
+        "Simpsons",
+        "JudgementDay",
+        "política",
+        "noticias",
+        "extraño"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T17:40:08.358524+00:00",
+      "expires_at": "2026-05-29T17:40:08.358524+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "64ee3e27701c",
+      "fingerprint": "64ee3e27701c",
+      "narrative_summary": "Fallecimiento de Kyle Busch después de una enfermedad grave que se convirtió en sepsis, según su familia.",
+      "why_memeable": "El núcleo de la narrativa es la muerte repentina de un famoso deportista, lo que puede ser capturado en una frase corta y compartirse fácilmente.",
+      "category": "Deportes/Entretenimiento",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "KYLEBUSCH",
+        "SEPSIS",
+        "MUERTEREPENTINA"
+      ],
+      "key_terms_for_dex_search": [
+        "KyleBusch",
+        "Sepsis",
+        "MuerteRepentina",
+        "Deportes",
+        "Entretenimiento"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 7
+      },
+      "started_at": "2026-05-27T17:40:48.021134+00:00",
+      "expires_at": "2026-05-30T17:40:48.021134+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-27T14:19:57.680412+00:00"
+  "last_updated": "2026-05-27T17:40:48.021134+00:00"
 }
