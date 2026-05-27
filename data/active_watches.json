@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "0a7a330ee5f4",
@@ -382,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "060448a93839",
@@ -427,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "efa8e796642c",
@@ -472,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4dd9c21b4aae",
@@ -517,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "cf650075d43f",
@@ -802,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ff62c6c842bc",
@@ -848,7 +848,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "913ae868a3ca",
@@ -893,7 +893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4063fb33ecc5",
@@ -1178,8 +1178,283 @@
         "google_news",
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "43bc79faf7ec",
+      "fingerprint": "43bc79faf7ec",
+      "narrative_summary": "Elon Musk y Donald Trump intercambian insultos y acusaciones en una pelea pública que alcanza nuevos niveles",
+      "why_memeable": "La pelea entre dos figuras públicas prominentes con una gran base de seguidores y una historia de conflictos previos",
+      "category": "Política y celebridades",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TRUMPVSILON",
+        "ELONVSTRUMP",
+        "MUSKFEUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "pelea pública",
+        "insultos",
+        "acuerdos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T14:16:39.329395+00:00",
+      "expires_at": "2026-05-30T14:16:39.329395+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "ee6529a7da5b",
+      "fingerprint": "ee6529a7da5b",
+      "narrative_summary": "Un anuncio de trabajo para pastores se vuelve viral en China, revelando tensiones en el mercado laboral.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'Job ad for shepherds goes viral in China'.",
+      "category": "labour market",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SHEPHERDCOIN",
+        "CHINALABOUR",
+        "JOBADVIRAL"
+      ],
+      "key_terms_for_dex_search": [
+        "shepherd",
+        "china",
+        "labour",
+        "market",
+        "viral"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 2,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T14:17:17.613568+00:00",
+      "expires_at": "2026-05-30T14:17:17.613568+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MXNA",
+        "name": "Machina",
+        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 21118.0,
+        "liquidity_usd": 96084.51,
+        "price_usd": 0.007038,
+        "volume_h24": 8456.6,
+        "volume_h1": 7.59,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.03,
+        "price_change_24h": 1.8,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1770619053000,
+        "pair_created_at": 1770619053000,
+        "url": "https://dexscreener.com/solana/asea5hahzwnbwcytdlgpdr9zkq5h8htav5nusqpvxr1d",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CHINA in MACHINA",
+        "safety_score": 75175,
+        "safety_risks": [
+          {
+            "name": "Mint Authority still enabled",
+            "level": "danger",
+            "description": "More tokens can be minted by the owner"
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Job ad for shepherds goes viral in China, exposing labour market strains - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-27T14:19:57.680392+00:00"
+    },
+    {
+      "id": "6120b869f68d",
+      "fingerprint": "6120b869f68d",
+      "narrative_summary": "Un calor extremadamente temprano rompe récords y provoca muertes en Europa.",
+      "why_memeable": "La narrativa tiene un enfoque claro y conciso, con un título y un resumen que capturan la esencia del evento.",
+      "category": "clima, muerte, Europa",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUROPE_HEATWAVE",
+        "CALOR_EXTREMO",
+        "MUERTES_EN_EUROPA"
+      ],
+      "key_terms_for_dex_search": [
+        "calor extremo",
+        "muertes en Europa",
+        "récords"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T14:17:48.373276+00:00",
+      "expires_at": "2026-05-30T14:17:48.373276+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "f191fe4c1ebb",
+      "fingerprint": "f191fe4c1ebb",
+      "narrative_summary": "Elon Musk publica 'Wow' en Twitter y genera gran interés",
+      "why_memeable": "La simplicidad y la sorpresa de la frase 'Wow' la convierten en memeable",
+      "category": "Celebridad/ Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWMUSK",
+        "MUSKWOW"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-05-27T14:18:16.623059+00:00",
+      "expires_at": "2026-05-28T14:18:16.623059+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "ed7ee505c30d",
+      "fingerprint": "ed7ee505c30d",
+      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok' en Twitter, generando una gran cantidad de interacción.",
+      "why_memeable": "La simplicidad y la brevedad del meme 'Grok' lo hacen fácilmente compartible y repetible.",
+      "category": "meme de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROKING"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "ELON MUSK",
+        "MEME"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T14:19:42.224256+00:00",
+      "expires_at": "2026-05-29T14:19:42.224256+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-27T10:42:52.166318+00:00"
+  "last_updated": "2026-05-27T14:19:57.680412+00:00"
 }
