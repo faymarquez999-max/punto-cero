@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0a7a330ee5f4",
@@ -297,7 +297,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ede97cf12f96",
@@ -345,7 +345,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "060448a93839",
@@ -390,7 +390,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "efa8e796642c",
@@ -435,7 +435,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4dd9c21b4aae",
@@ -480,7 +480,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cf650075d43f",
@@ -525,7 +525,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "691cb6c0c985",
@@ -564,9 +564,212 @@
       "started_at": "2026-05-26T23:46:38.720182+00:00",
       "expires_at": "2026-05-28T23:46:38.720182+00:00",
       "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "WorldCup",
+        "name": "FIFA WorldCupCoin",
+        "mint": "GDVXZwc6rPMowwb142WqEsev1LzMgMTqSJG7FszZdMMv",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 136080.0,
+        "liquidity_usd": 214000.04,
+        "price_usd": 0.000136,
+        "volume_h24": 16819652.15,
+        "volume_h1": 2717530.86,
+        "volume_m5": 158798.87,
+        "price_change_5m": 2.39,
+        "price_change_1h": 9.52,
+        "price_change_24h": 162.0,
+        "txns_h1_buys": 3702,
+        "txns_h1_sells": 1563,
+        "created_ts": 1779837385000,
+        "pair_created_at": 1779837385000,
+        "url": "https://dexscreener.com/solana/bon4cztrnrb3hilgucp3eouypvkdz1ylmqfzjrxt8plh",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: WORLDCUP==WORLDCUP",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---' - CBS Sports",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 2,
+      "matched_at": "2026-05-27T02:01:45.890282+00:00"
+    },
+    {
+      "id": "9b115e1cb2f7",
+      "fingerprint": "9b115e1cb2f7",
+      "narrative_summary": "Elon Musk afirma que los hombres blancos son perseguidos, pero incluso Grok lo considera una tontería.",
+      "why_memeable": "La frase de Elon Musk es corta y fácil de compartir, y la reacción de Grok la hace aún más viral.",
+      "category": "política y controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GROK",
+        "MUSK",
+        "PERSECUTADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "grok",
+        "persecución",
+        "controversia"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T01:57:34.123632+00:00",
+      "expires_at": "2026-05-29T01:57:34.123632+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 423152.0,
+        "liquidity_usd": 114475.63,
+        "price_usd": 0.0004232,
+        "volume_h24": 33025.43,
+        "volume_h1": 112.02,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.67,
+        "price_change_24h": -0.75,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 7,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON in ELON COIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-27T02:01:48.299363+00:00"
+    },
+    {
+      "id": "5f5f398008b0",
+      "fingerprint": "5f5f398008b0",
+      "narrative_summary": "Un calor extremadamente temprano rompe récords y causa muertes en Europa",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'calor extremo' y 'muertes' que es fácilmente compartible y recordable",
+      "category": "clima",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUROPE_HEATWAVE",
+        "CALOR_EXTREMO",
+        "MUERTES_EN_EUROPA"
+      ],
+      "key_terms_for_dex_search": [
+        "clima",
+        "calor",
+        "muertes",
+        "europa",
+        "reforma",
+        "temprano"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 3,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T01:59:55.021835+00:00",
+      "expires_at": "2026-05-29T01:59:55.021835+00:00",
+      "duration_hours": 48,
       "status": "active",
       "matched_coin": null,
-      "cluster_top_title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---' - CBS Sports",
+      "cluster_top_title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "ff62c6c842bc",
+      "fingerprint": "ff62c6c842bc",
+      "narrative_summary": "Explosión química en una fábrica de papel en Longview, Washington, causa múltiples heridos y muertes.",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La imagen de la explosión es icónica y se puede visualizar fácilmente.",
+      "category": "Accidente industrial",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LONGVIEWEXPLOSION",
+        "PAPERMILLTRAGEDY",
+        "QUÍMICAIMPLOSION"
+      ],
+      "key_terms_for_dex_search": [
+        "Longview",
+        "explosión",
+        "fábrica de papel",
+        "muertes",
+        "heridos"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T02:00:21.619292+00:00",
+      "expires_at": "2026-05-30T02:00:21.619292+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Multiple injuries, 1 dead, 9 missing after chemical implosion at Longview paper mill - KOMO",
       "cluster_sources": [
         "breaking_news",
         "google_news"
@@ -574,5 +777,5 @@
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-26T23:46:38.720182+00:00"
+  "last_updated": "2026-05-27T02:01:48.299383+00:00"
 }
