@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0a7a330ee5f4",
@@ -382,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "060448a93839",
@@ -427,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "efa8e796642c",
@@ -472,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4dd9c21b4aae",
@@ -517,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "cf650075d43f",
@@ -802,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ff62c6c842bc",
@@ -848,7 +848,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "913ae868a3ca",
@@ -893,7 +893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4063fb33ecc5",
@@ -1178,7 +1178,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "43bc79faf7ec",
@@ -1406,7 +1406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f191fe4c1ebb",
@@ -1448,7 +1448,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ed7ee505c30d",
@@ -1490,7 +1490,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b1e33287f917",
@@ -1536,7 +1536,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d781aee33fb5",
@@ -1583,7 +1583,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "64ee3e27701c",
@@ -1629,7 +1629,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "00da859f166c",
@@ -1678,7 +1678,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e661d6aa8dcc",
@@ -1724,7 +1724,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "480b83fd16f6",
@@ -1771,7 +1771,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d2d153207689",
@@ -1818,7 +1818,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1ffe9ca4413e",
@@ -1889,7 +1889,146 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-05-27T19:58:15.917394+00:00"
+    },
+    {
+      "id": "692f07e8be17",
+      "fingerprint": "692f07e8be17",
+      "narrative_summary": "Un búfalo llamado 'Donald Trump' en Bangladesh es salvado de la matanza de Eid debido a su fama viral.",
+      "why_memeable": "La combinación de un animal con un nombre famoso y una situación absurda hace que sea fácilmente compartible y recordable.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPBUFFALO",
+        "FAMAVIRALSALVA",
+        "EIDSACRIFICE"
+      ],
+      "key_terms_for_dex_search": [
+        "bangladesh",
+        "buffalo",
+        "donald",
+        "eid",
+        "fame",
+        "viral",
+        "sacrifice"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T22:05:56.456169+00:00",
+      "expires_at": "2026-05-29T22:05:56.456169+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a13fdc0a6e95",
+      "fingerprint": "a13fdc0a6e95",
+      "narrative_summary": "Kyle Busch, piloto de NASCAR, falleció debido a una enfermedad severa que progresa en sepsis, según su familia.",
+      "why_memeable": "La muerte de un famoso piloto de NASCAR, junto con la narrativa de su enfermedad y la reacción de su familia, es un tema fácilmente compartible y recordable.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KYLEBUSCH",
+        "NASCAR",
+        "SEPSIS",
+        "MUERTE"
+      ],
+      "key_terms_for_dex_search": [
+        "Kyle Busch",
+        "NASCAR",
+        "Sepsis",
+        "Muerte"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T22:06:16.040852+00:00",
+      "expires_at": "2026-05-29T22:06:16.040852+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "c166cdc61ef9",
+      "fingerprint": "c166cdc61ef9",
+      "narrative_summary": "El escritor de Los Simpson afirma que 'es el día del juicio' en una extraña campaña presidencial.",
+      "why_memeable": "La campaña presidencial de Flavio Bolsonaro es extraña y genera interés.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BOLSONARO",
+        "SIMPSONS",
+        "JUICIO"
+      ],
+      "key_terms_for_dex_search": [
+        "Bolsonaro",
+        "Simpsons",
+        "Juicio",
+        "Presidencia"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T22:06:48.576062+00:00",
+      "expires_at": "2026-05-29T22:06:48.576062+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-27T19:58:15.917414+00:00"
+  "last_updated": "2026-05-27T22:06:48.576062+00:00"
 }
