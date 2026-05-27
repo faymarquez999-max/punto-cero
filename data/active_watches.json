@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0a7a330ee5f4",
@@ -382,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "060448a93839",
@@ -427,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "efa8e796642c",
@@ -472,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4dd9c21b4aae",
@@ -517,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cf650075d43f",
@@ -802,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ff62c6c842bc",
@@ -848,7 +848,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "913ae868a3ca",
@@ -893,7 +893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4063fb33ecc5",
@@ -1132,7 +1132,54 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-05-27T06:34:54.494545+00:00"
+    },
+    {
+      "id": "be1eabd71638",
+      "fingerprint": "be1eabd71638",
+      "narrative_summary": "Elon Musk hace un comentario sobre cómo los hombres blancos son perseguidos, lo que genera una gran cantidad de engagement y reacciones en las redes sociales.",
+      "why_memeable": "La simplicidad y la polémica del comentario de Elon Musk, junto con su gran presencia en las redes sociales, hacen que esta narrativa sea muy memeable.",
+      "category": "Celebridad y Política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "GROK",
+        "MUSKED",
+        "WHITEBULL",
+        "PERSECUTE"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Grok",
+        "Persecución",
+        "Hombres blancos",
+        "Polémica"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-27T10:42:52.166318+00:00",
+      "expires_at": "2026-05-30T10:42:52.166318+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-27T06:34:54.494564+00:00"
+  "last_updated": "2026-05-27T10:42:52.166318+00:00"
 }
