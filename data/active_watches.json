@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0a7a330ee5f4",
@@ -290,14 +290,51 @@
       "started_at": "2026-05-26T20:53:03.687021+00:00",
       "expires_at": "2026-05-28T20:53:03.687021+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 58643.0,
+        "liquidity_usd": 92975.4,
+        "price_usd": 5.864e-05,
+        "volume_h24": 767698.3,
+        "volume_h1": 767698.3,
+        "volume_m5": 173894.11,
+        "price_change_5m": 4.3,
+        "price_change_1h": 66.91,
+        "price_change_24h": 66.91,
+        "txns_h1_buys": 2195,
+        "txns_h1_sells": 941,
+        "created_ts": 1779862484000,
+        "pair_created_at": 1779862484000,
+        "url": "https://dexscreener.com/solana/jdrohavv4uqbttj9ebjhpxjp2r91thw5atfp2mjwhc8l",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MUSK in MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Grok",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-05-27T06:34:32.592733+00:00"
     },
     {
       "id": "ede97cf12f96",
@@ -345,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "060448a93839",
@@ -390,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "efa8e796642c",
@@ -435,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4dd9c21b4aae",
@@ -480,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cf650075d43f",
@@ -518,14 +555,51 @@
       "started_at": "2026-05-26T23:45:37.365854+00:00",
       "expires_at": "2026-05-28T23:45:37.365854+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 58643.0,
+        "liquidity_usd": 92975.4,
+        "price_usd": 5.864e-05,
+        "volume_h24": 767698.3,
+        "volume_h1": 767698.3,
+        "volume_m5": 173894.11,
+        "price_change_5m": 4.3,
+        "price_change_1h": 66.91,
+        "price_change_24h": 66.91,
+        "txns_h1_buys": 2195,
+        "txns_h1_sells": 941,
+        "created_ts": 1779862484000,
+        "pair_created_at": 1779862484000,
+        "url": "https://dexscreener.com/solana/jdrohavv4uqbttj9ebjhpxjp2r91thw5atfp2mjwhc8l",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Grok",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-05-27T06:34:42.662127+00:00"
     },
     {
       "id": "691cb6c0c985",
@@ -728,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ff62c6c842bc",
@@ -774,8 +848,291 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "913ae868a3ca",
+      "fingerprint": "913ae868a3ca",
+      "narrative_summary": "Un calor extremadamente temprano rompe récords y causa muertes en Europa.",
+      "why_memeable": "La narrativa tiene un claro núcleo (calor extremadamente temprano) y está relacionada con un evento importante (muertes en Europa).",
+      "category": "clima",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUROPACALOR",
+        "CALOREXTREMO",
+        "MUERTESPORCALOR"
+      ],
+      "key_terms_for_dex_search": [
+        "calor",
+        "europa",
+        "muertes",
+        "clima"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T06:31:56.496375+00:00",
+      "expires_at": "2026-05-30T06:31:56.496375+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "4063fb33ecc5",
+      "fingerprint": "4063fb33ecc5",
+      "narrative_summary": "La NASA selecciona a Blue Origin y otras empresas para misiones lunares",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés (la selección de Blue Origin) y un contexto de actualidad (misiones lunares)",
+      "category": "ciencia y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BLUE",
+        "NASA",
+        "LUNA",
+        "BEZOS"
+      ],
+      "key_terms_for_dex_search": [
+        "NASA",
+        "Blue Origin",
+        "Luna",
+        "misiones lunares"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T06:32:31.644403+00:00",
+      "expires_at": "2026-05-30T06:32:31.644403+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "blue",
+        "name": "Microeledone galapagensis",
+        "mint": "4Job2y9aJM6NyuVAgc2wZURWrDG2YbBJKrZk79e7pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14941.0,
+        "liquidity_usd": 9445.64,
+        "price_usd": 1.494e-05,
+        "volume_h24": 87396.46,
+        "volume_h1": 2256.74,
+        "volume_m5": 20.07,
+        "price_change_5m": -4.09,
+        "price_change_1h": -9.37,
+        "price_change_24h": 1.43,
+        "txns_h1_buys": 32,
+        "txns_h1_sells": 23,
+        "created_ts": 1779729848000,
+        "pair_created_at": 1779729848000,
+        "url": "https://dexscreener.com/solana/2kyk5zctqxmmfkdsyumxedhwyhms9exganpfeojw2ffe",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: BLUE==BLUE",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "NASA picks Blue Origin, other space firms for moon missions - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-27T06:34:50.416928+00:00"
+    },
+    {
+      "id": "5daa9cd31e84",
+      "fingerprint": "5daa9cd31e84",
+      "narrative_summary": "Elon Musk comparte un momento inspirador en Twitter.",
+      "why_memeable": "Frase breve y positiva compartida por una figura pública influyente.",
+      "category": "motivación",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "INSPIRE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "inspirador",
+        "elonmusk",
+        "twitter"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T06:34:00.980189+00:00",
+      "expires_at": "2026-05-29T06:34:00.980189+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 58643.0,
+        "liquidity_usd": 92975.4,
+        "price_usd": 5.864e-05,
+        "volume_h24": 767698.3,
+        "volume_h1": 767698.3,
+        "volume_m5": 173894.11,
+        "price_change_5m": 4.3,
+        "price_change_1h": 66.91,
+        "price_change_24h": 66.91,
+        "txns_h1_buys": 2195,
+        "txns_h1_sells": 941,
+        "created_ts": 1779862484000,
+        "pair_created_at": 1779862484000,
+        "url": "https://dexscreener.com/solana/jdrohavv4uqbttj9ebjhpxjp2r91thw5atfp2mjwhc8l",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "Inspiring!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-27T06:34:52.507829+00:00"
+    },
+    {
+      "id": "be9756b812c5",
+      "fingerprint": "be9756b812c5",
+      "narrative_summary": "Elon Musk comparte un 'Wow' viral en Twitter",
+      "why_memeable": "La frase 'Wow' es corta y fácil de compartir, y proviene de una figura pública influyente",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWELON",
+        "ELONWOW"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "WOW",
+        "TECNOLOGIA",
+        "MUSK"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-05-27T06:34:21.691842+00:00",
+      "expires_at": "2026-05-29T06:34:21.691842+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 58643.0,
+        "liquidity_usd": 92975.4,
+        "price_usd": 5.864e-05,
+        "volume_h24": 767698.3,
+        "volume_h1": 767698.3,
+        "volume_m5": 173894.11,
+        "price_change_5m": 4.3,
+        "price_change_1h": 66.91,
+        "price_change_24h": 66.91,
+        "txns_h1_buys": 2195,
+        "txns_h1_sells": 941,
+        "created_ts": 1779862484000,
+        "pair_created_at": 1779862484000,
+        "url": "https://dexscreener.com/solana/jdrohavv4uqbttj9ebjhpxjp2r91thw5atfp2mjwhc8l",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MUSK in MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-27T06:34:54.494545+00:00"
     }
   ],
-  "last_updated": "2026-05-27T02:01:48.299383+00:00"
+  "last_updated": "2026-05-27T06:34:54.494564+00:00"
 }

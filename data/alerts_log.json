@@ -405,6 +405,130 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 423152.0
       }
+    },
+    {
+      "ts": "2026-05-27T06:31:57.101092+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "913ae868a3ca",
+        "score": 88,
+        "category": "clima",
+        "title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
+        "candidate_tickers": [
+          "EUROPACALOR",
+          "CALOREXTREMO",
+          "MUERTESPORCALOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-27T06:32:32.153950+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4063fb33ecc5",
+        "score": 90,
+        "category": "ciencia y tecnología",
+        "title": "NASA picks Blue Origin, other space firms for moon missions - Reuters",
+        "candidate_tickers": [
+          "BLUE",
+          "NASA",
+          "LUNA",
+          "BEZOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-27T06:33:18.101388+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump's redistricting push suffers setbacks in Alabama, South Carolina - Reuters",
+        "candidate_tickers": [
+          "TrumpRedistricting",
+          "AlabamaVsTrump",
+          "TrumpVsCarolina"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:01.517016+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5daa9cd31e84",
+        "score": 82,
+        "category": "motivación",
+        "title": "Inspiring!",
+        "candidate_tickers": [
+          "INSPIRE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:22.209116+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "be9756b812c5",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOWELON",
+          "ELONWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:32.593139+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0a7a330ee5f4",
+        "ticker": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "mc": 58643.0
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:42.662563+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cf650075d43f",
+        "ticker": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "mc": 58643.0
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:50.417338+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4063fb33ecc5",
+        "ticker": "blue",
+        "mint": "4Job2y9aJM6NyuVAgc2wZURWrDG2YbBJKrZk79e7pump",
+        "mc": 14941.0
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:52.508239+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5daa9cd31e84",
+        "ticker": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "mc": 58643.0
+      }
+    },
+    {
+      "ts": "2026-05-27T06:34:54.494961+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "be9756b812c5",
+        "ticker": "MUSK",
+        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
+        "mc": 58643.0
+      }
     }
   ]
 }
