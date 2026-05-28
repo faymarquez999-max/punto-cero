@@ -46,7 +46,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "52b3420c9ad6",
@@ -91,7 +91,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "652ef9f626ce",
@@ -206,7 +206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "ffa015ae500f",
@@ -251,7 +251,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "0a7a330ee5f4",
@@ -382,7 +382,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "060448a93839",
@@ -427,7 +427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "efa8e796642c",
@@ -472,7 +472,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "4dd9c21b4aae",
@@ -517,7 +517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "cf650075d43f",
@@ -802,7 +802,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "ff62c6c842bc",
@@ -848,7 +848,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "913ae868a3ca",
@@ -893,7 +893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "4063fb33ecc5",
@@ -1178,7 +1178,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "43bc79faf7ec",
@@ -1406,7 +1406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f191fe4c1ebb",
@@ -1448,7 +1448,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ed7ee505c30d",
@@ -1490,7 +1490,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b1e33287f917",
@@ -1536,7 +1536,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d781aee33fb5",
@@ -1583,7 +1583,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "64ee3e27701c",
@@ -1629,7 +1629,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "00da859f166c",
@@ -1670,15 +1670,67 @@
       "started_at": "2026-05-27T19:53:44.999889+00:00",
       "expires_at": "2026-05-29T19:53:44.999889+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FCKISRL$",
+        "name": "Fuck Israel.®",
+        "mint": "3u4Vf3wLyAKRmnQjZk1TPqefR6vP7K6XUJhZsJ9b5sUf",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 153156.0,
+        "liquidity_usd": 21589.59,
+        "price_usd": 0.0001531,
+        "volume_h24": 670116.25,
+        "volume_h1": 670116.25,
+        "volume_m5": 31730.72,
+        "price_change_5m": 26.79,
+        "price_change_1h": 2111.0,
+        "price_change_24h": 2111.0,
+        "txns_h1_buys": 4339,
+        "txns_h1_sells": 2668,
+        "created_ts": 1779975694000,
+        "pair_created_at": 1779975694000,
+        "url": "https://dexscreener.com/solana/3jhiqwwjh8fdidufzg5cv4t9kwy5ff29vyyinkmsqa6k",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ISRAEL in FUCK ISRAEL.®",
+        "safety_score": 30356,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "HAMAS CONFIRMS DEATH OF SENIOR COMMANDER IN GAZA MOHAMMAD ODEH - STATEMENT",
       "cluster_sources": [
         "breaking_news",
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-05-28T14:18:03.691998+00:00"
     },
     {
       "id": "e661d6aa8dcc",
@@ -1724,7 +1776,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "480b83fd16f6",
@@ -1771,7 +1823,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d2d153207689",
@@ -1818,7 +1870,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1ffe9ca4413e",
@@ -2014,7 +2066,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c166cdc61ef9",
@@ -2059,7 +2111,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b4b03c880296",
@@ -2107,7 +2159,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b00d93e9d456",
@@ -2153,7 +2205,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6c6858ce6caf",
@@ -2198,7 +2250,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ef2c62d9824f",
@@ -2243,7 +2295,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2728f4c4ebe6",
@@ -2452,7 +2504,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5d843ac5eb3c",
@@ -2575,7 +2627,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5b9a3a812fcb",
@@ -2625,7 +2677,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "43fc606fd231",
@@ -2704,7 +2756,246 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-05-28T10:22:09.235590+00:00"
+    },
+    {
+      "id": "894264ff7af3",
+      "fingerprint": "894264ff7af3",
+      "narrative_summary": "La rivalidad entre Trump y Musk se intensifica con amenazas de Doge y deportación",
+      "why_memeable": "La combinación de figuras públicas prominentes, una criptomoneda y una disputa personal crea un escenario altamente memeable",
+      "category": "Política y tecnología",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "TRUMPVSMSK",
+        "DOGEFUED",
+        "MUSKTRUMP",
+        "POLITICDOGE",
+        "TRUMPDOGE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Doge",
+        "feud",
+        "deportation"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-28T14:13:07.804691+00:00",
+      "expires_at": "2026-05-31T14:13:07.804691+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "DOGE",
+        "name": "DOGE",
+        "mint": "4Syf8qQ54TV88dc1hT2iohSTx64cZv5E8UPMuDBBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 291260.0,
+        "liquidity_usd": 43596.49,
+        "price_usd": 0.0002912,
+        "volume_h24": 1086287.6,
+        "volume_h1": 96176.12,
+        "volume_m5": 6054.41,
+        "price_change_5m": -5.99,
+        "price_change_1h": -35.66,
+        "price_change_24h": 894.0,
+        "txns_h1_buys": 890,
+        "txns_h1_sells": 532,
+        "created_ts": 1779942850000,
+        "pair_created_at": 1779942850000,
+        "url": "https://dexscreener.com/solana/2jmfmqo443luhljqza13sku1bfwycuazuvtvhcq9x1zw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DOGE in DOGE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Ferrari CEO Says First EV Is Racking Up Orders Despite Criticism - Bloomberg",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-28T14:18:20.167650+00:00"
+    },
+    {
+      "id": "48906e69564e",
+      "fingerprint": "48906e69564e",
+      "narrative_summary": "La EU multa a Temu €200m por vender productos ilegales en su plataforma",
+      "why_memeable": "La multa de €200m y la venta de productos ilegales son factores que contribuyen a la memeabilidad",
+      "category": "Noticias de negocios y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TEMU",
+        "EUMULTA",
+        "PRODUCTOSILEGALES"
+      ],
+      "key_terms_for_dex_search": [
+        "Temu",
+        "EUmulta",
+        "productosilegales",
+        "negocios",
+        "tecnología"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-28T14:13:44.813200+00:00",
+      "expires_at": "2026-05-30T14:13:44.813200+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EU fines Temu €200m for allowing sale of illegal products",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2ae6c42c11ff",
+      "fingerprint": "2ae6c42c11ff",
+      "narrative_summary": "Tres tanques reportadamente atacados por drones en el Mar Negro, según una agencia de navegación.",
+      "why_memeable": "La narrativa tiene un núcleo claro (tanques atacados por drones) y es fácil de compartir.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TANKERSATACADOS",
+        "DRONESENELMARNEGRO",
+        "ATAQUEALMARNEGRO"
+      ],
+      "key_terms_for_dex_search": [
+        "tanques",
+        "drones",
+        "MarNegro",
+        "ataque",
+        "noticias internacionales"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-28T14:14:12.069465+00:00",
+      "expires_at": "2026-05-30T14:14:12.069465+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Three tankers reportedly attacked by drones in Black Sea, shipping agency says - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "fb4b40bace98",
+      "fingerprint": "fb4b40bace98",
+      "narrative_summary": "Paxton gana las elecciones y provoca pánico financiero en el GOP",
+      "why_memeable": "La frase 'Paxton win sparks GOP money panic' es fácil de recordar y compartir",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PAXTON",
+        "GOP",
+        "PANICO"
+      ],
+      "key_terms_for_dex_search": [
+        "paxton",
+        "gop",
+        "panico",
+        "elecciones"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-28T14:16:40.198247+00:00",
+      "expires_at": "2026-05-30T14:16:40.198247+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PAX",
+        "name": "Paxton Pengu",
+        "mint": "JE8zmsKRivXggZsJxXHBdCkako85YawNtU5hqS4upump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 360438.0,
+        "liquidity_usd": 52644.83,
+        "price_usd": 0.0003604,
+        "volume_h24": 8040.63,
+        "volume_h1": 666.37,
+        "volume_m5": 528.15,
+        "price_change_5m": 0.48,
+        "price_change_1h": -2.16,
+        "price_change_24h": 19.32,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 3,
+        "created_ts": 1767871504000,
+        "pair_created_at": 1767871504000,
+        "url": "https://dexscreener.com/solana/4utojfkpr6czfy5tp5wntbkq9cj6kdprphkyerd1hrbu",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: PAXTON in PAXTON PENGU",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Paxton win sparks GOP money panic - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-28T14:18:24.587207+00:00"
     }
   ],
-  "last_updated": "2026-05-28T10:22:09.235609+00:00"
+  "last_updated": "2026-05-28T14:18:24.587224+00:00"
 }
