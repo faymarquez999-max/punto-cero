@@ -890,6 +890,97 @@
           "EMILYBLUNT"
         ]
       }
+    },
+    {
+      "ts": "2026-05-28T01:30:09.028330+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Política",
+        "title": "We analysed thousands of Trump's posts - here's what we found",
+        "candidate_tickers": [
+          "TRUMPvsMUSK",
+          "TRUMPSOCIALMEDIA",
+          "ELONvsTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-28T01:31:21.936468+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ef2c62d9824f",
+        "score": 88,
+        "category": "Muerte y enfermedades misteriosas",
+        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
+        "candidate_tickers": [
+          "#CELEBRIDADMUERTE",
+          "#ENFERMEDADMISTERIOSA",
+          "#MUERTEINESPERADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-28T01:31:56.432478+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2728f4c4ebe6",
+        "score": 89,
+        "category": "animal_injustice",
+        "title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
+        "candidate_tickers": [
+          "TRUMPBUFFALO",
+          "FAMAVIRALSACA",
+          "BÚFALOTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-28T01:32:30.694283+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b060cb474d24",
+        "score": 78,
+        "category": "política",
+        "title": "Brazil's Flávio Bolsonaro leans into Trump connection as scandal shakes his presidential bid - AP News",
+        "candidate_tickers": [
+          "BOLSONARO",
+          "TRUMP",
+          "FLÁVIO",
+          "SCANDAL",
+          "BRAZIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-28T01:33:56.380982+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "692f07e8be17",
+        "ticker": "DONALD",
+        "mint": "4GHUJWpu5q6NGTNGbLiKFdVPnYh3hbVYHDTc6HK9pump",
+        "mc": 22823.0
+      }
+    },
+    {
+      "ts": "2026-05-28T01:34:01.612224+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2728f4c4ebe6",
+        "ticker": "DONALD",
+        "mint": "4GHUJWpu5q6NGTNGbLiKFdVPnYh3hbVYHDTc6HK9pump",
+        "mc": 22823.0
+      }
+    },
+    {
+      "ts": "2026-05-28T01:34:03.395169+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b060cb474d24",
+        "ticker": "BRAZIL",
+        "mint": "88gKZC3rmTH9CuMVmUXyxAg3ijY7wD8n2AK9WGPBpump",
+        "mc": 74429.0
+      }
     }
   ]
 }
