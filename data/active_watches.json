@@ -290,7 +290,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "0a7a330ee5f4",
@@ -513,7 +513,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "4dd9c21b4aae",
@@ -837,14 +837,15 @@
       "started_at": "2026-05-27T01:59:55.021835+00:00",
       "expires_at": "2026-05-29T01:59:55.021835+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-05-29T04:19:11.839343+00:00"
     },
     {
       "id": "ff62c6c842bc",
@@ -890,7 +891,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "913ae868a3ca",
@@ -935,7 +936,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "4063fb33ecc5",
@@ -1220,7 +1221,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "43bc79faf7ec",
@@ -1448,7 +1449,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "f191fe4c1ebb",
@@ -1533,7 +1534,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "b1e33287f917",
@@ -1579,7 +1580,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "d781aee33fb5",
@@ -1626,7 +1627,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "64ee3e27701c",
@@ -1672,7 +1673,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "00da859f166c",
@@ -1987,7 +1988,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "1ffe9ca4413e",
@@ -2183,7 +2184,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c166cdc61ef9",
@@ -2228,7 +2229,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b4b03c880296",
@@ -2359,7 +2360,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6c6858ce6caf",
@@ -2404,7 +2405,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ef2c62d9824f",
@@ -2449,7 +2450,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "2728f4c4ebe6",
@@ -2818,7 +2819,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5b9a3a812fcb",
@@ -2868,7 +2869,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "43fc606fd231",
@@ -3067,7 +3068,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2ae6c42c11ff",
@@ -3113,7 +3114,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fb4b40bace98",
@@ -3402,7 +3403,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c255d85b7071",
@@ -3445,7 +3446,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a12eafcc1524",
@@ -3492,7 +3493,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ec5f5be15bf0",
@@ -3536,7 +3537,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "575d0b7a7b55",
@@ -3580,8 +3581,54 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "1cebba6ad65e",
+      "fingerprint": "1cebba6ad65e",
+      "narrative_summary": "Un Cybercab se conduce solo saliendo de la fábrica GigaTexas",
+      "why_memeable": "La combinación de tecnología avanzada y la idea de un vehículo conduciéndose solo es inherentemente absurda y fascinante",
+      "category": "Tecnología y Transporte",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "CYBR",
+        "GIGA",
+        "AUTOPILOT",
+        "TESLA"
+      ],
+      "key_terms_for_dex_search": [
+        "Cybercab",
+        "GigaTexas",
+        "Autopilot",
+        "Tesla",
+        "Elon Musk"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-29T04:19:15.811792+00:00",
+      "expires_at": "2026-06-01T04:19:15.811792+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Cybercab driving itself out of the GigaTexas factory",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-28T23:58:18.192587+00:00"
+  "last_updated": "2026-05-29T04:19:15.811792+00:00"
 }
