@@ -1605,6 +1605,85 @@
           "supervivencia"
         ]
       }
+    },
+    {
+      "ts": "2026-05-29T08:29:32.810932+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Noticias de crímenes y violencia",
+        "title": "Two charged after bystander fatally shot outside bar",
+        "candidate_tickers": [
+          "85yearold",
+          "barattack",
+          "justiceforvictim"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T08:30:52.568115+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Celebridad",
+        "title": "Does JD Vance Have to Choose Between Pope Leo and Peter Thiel? - Politico",
+        "candidate_tickers": [
+          "TrumpVsMusk",
+          "JDVanceDilema",
+          "BromanceTrumpMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T08:31:19.919281+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dd86b369e645",
+        "score": 70,
+        "category": "Deportes",
+        "title": "Wembanyama and Spurs force game seven against Thunder in NBA playoffs",
+        "candidate_tickers": [
+          "WEMBANYAMA",
+          "SPURS",
+          "THUNDER",
+          "GAME7"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T08:32:32.951556+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "63feafd4b35d",
+        "score": 88,
+        "category": "salud",
+        "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+        "candidate_tickers": [
+          "EBOLA",
+          "DRC",
+          "EBOLAOUTBREAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T08:34:02.723167+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd86b369e645",
+        "ticker": "NBA",
+        "mint": "39yEFw7AMfuYzyvTJTyzKEgHuM5THuak3w27sPv5pump",
+        "mc": 22209.0
+      }
+    },
+    {
+      "ts": "2026-05-29T08:34:04.201771+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "63feafd4b35d",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 428148.0
+      }
     }
   ]
 }
