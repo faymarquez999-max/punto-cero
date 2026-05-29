@@ -1909,6 +1909,82 @@
         "mint": "9aphDebCUjShYexQeo7FKKsU2H23V6ZaZn37peMpump",
         "mc": 88172.0
       }
+    },
+    {
+      "ts": "2026-05-29T21:06:03.784055+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias internacionales",
+        "title": "Russian Oreshnik missile fired in January was nine years old, Ukrainian experts say - Reuters",
+        "candidate_tickers": [
+          "Rusia9",
+          "Misil9",
+          "UcraniaRusia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T21:06:40.109435+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6870b8ea05ad",
+        "score": 90,
+        "category": "política",
+        "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund - Reuters",
+        "candidate_tickers": [
+          "TRUMP",
+          "KENNEDY",
+          "FONDO",
+          "REMOCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T21:07:23.359825+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Ex-US Attorney General Pam Bondi testifies in Epstein files probe",
+        "candidate_tickers": [
+          "Bondi",
+          "Epstein",
+          "Blanche"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T21:09:26.516597+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e1be9c97f122",
+        "score": 79,
+        "category": "política internacional",
+        "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+        "candidate_tickers": [
+          "NETANYAHU",
+          "LITANI",
+          "ISRAEL",
+          "LÍBANO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T21:10:09.474209+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b86dcb5da137",
+        "score": 80,
+        "category": "política",
+        "title": "Louisiana Republicans pass gerrymandered map that eliminates majority-Black district - Politico",
+        "candidate_tickers": [
+          "GERRYMANDER",
+          "LUISIANA",
+          "DISTRITONEGRO",
+          "INJUSTICIA"
+        ]
+      }
     }
   ]
 }
