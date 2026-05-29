@@ -1806,6 +1806,109 @@
           "TRAFFIC_ACCIDENT"
         ]
       }
+    },
+    {
+      "ts": "2026-05-29T18:44:02.912042+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dbc6d69dcacb",
+        "score": 78,
+        "category": "Ciencia y tecnología",
+        "title": "Video: la impactante explosión de un cohete de Blue Origin en la plataforma de lanzamiento durante prueba - Perfil",
+        "candidate_tickers": [
+          "BLUEORIGINEXPLODES",
+          "COHETEAZAR",
+          "JEFFBEZOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T18:44:35.652840+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund - Reuters",
+        "candidate_tickers": [
+          "$1776",
+          "TRUMP",
+          "FONDO_DE_DESARMAMENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T18:45:54.493726+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "clima",
+        "title": "Record-breaking heat and dry spring leave parts of England without water - Reuters",
+        "candidate_tickers": [
+          "InglaterraSequia",
+          "PrimaveraSeca",
+          "ClimaDesastre"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T18:46:21.305062+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5c4cf1c46460",
+        "score": 82,
+        "category": "Celebridad en redes sociales",
+        "title": "Pretty much 😂 grok.com/share/bGVnYWN5_30c6…",
+        "candidate_tickers": [
+          "PRETTY",
+          "MUSKED",
+          "GROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T18:47:19.185350+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d5a833d70031",
+        "score": 83,
+        "category": "Política y Violencia de Género",
+        "title": "Please invite your local MP to our Rape Gang Inquiry parliamentary debate on Monday in Westminster Hall at 16.30.",
+        "candidate_tickers": [
+          "RAPEGANG",
+          "WESTMINSTER",
+          "MPDEBATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T18:48:23.784739+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "819a01d30d1e",
+        "ticker": "TRUMP",
+        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
+        "mc": 153517.0
+      }
+    },
+    {
+      "ts": "2026-05-29T18:48:28.083617+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b428aa8a72f",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 352811.0
+      }
+    },
+    {
+      "ts": "2026-05-29T18:48:36.232288+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d5a833d70031",
+        "ticker": "RAPEMAN",
+        "mint": "9aphDebCUjShYexQeo7FKKsU2H23V6ZaZn37peMpump",
+        "mc": 88172.0
+      }
     }
   ]
 }
