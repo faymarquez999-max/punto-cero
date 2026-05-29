@@ -1747,6 +1747,65 @@
           "GROK"
         ]
       }
+    },
+    {
+      "ts": "2026-05-29T16:03:37.933638+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Noticias",
+        "title": "Woman wins free Wendy's burgers for a year after bizarre costume contest victory - Fox News",
+        "candidate_tickers": [
+          "WendysWinner",
+          "DisfracesDeWendys",
+          "JuezaDeDisfraces"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T16:04:21.881772+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "03f4ffe0ef8d",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "Blue Origin’s New Glenn Rocket Explodes on Launchpad - Bloomberg.com",
+        "candidate_tickers": [
+          "BLUEORIGIN",
+          "NEWGLENN",
+          "COHETEEXPLOTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T16:05:13.892743+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b581252f15fa",
+        "score": 89,
+        "category": "Noticias de animalitos",
+        "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+        "candidate_tickers": [
+          "MUSHROOMMURDER",
+          "CANINEKILLERS",
+          "ANIMALRESCUETRAGEDY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-29T16:06:35.621365+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6c37c52e8e99",
+        "score": 74,
+        "category": "accidente de tráfico",
+        "title": "Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News",
+        "candidate_tickers": [
+          "VIRGINIA_CRASH",
+          "BUS_COLLISION",
+          "TRAFFIC_ACCIDENT"
+        ]
+      }
     }
   ]
 }
