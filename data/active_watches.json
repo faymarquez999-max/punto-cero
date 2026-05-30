@@ -5079,7 +5079,136 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "201d986bd220",
+      "fingerprint": "201d986bd220",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención y debate.",
+      "why_memeable": "La simplicidad y claridad de la publicación de Elon Musk, junto con su gran influencia en la red social, hacen que sea fácilmente compartible y recordable.",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "true"
+      ],
+      "score": 72,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-05-30T12:20:48.606640+00:00",
+      "expires_at": "2026-06-01T12:20:48.606640+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4be0356d06c3",
+      "fingerprint": "4be0356d06c3",
+      "narrative_summary": "Elon Musk compartió un tweet que dice 'Frank is right' y ha generado mucha atención.",
+      "why_memeable": "La frase 'Frank is right' es breve y fácil de compartir, lo que la hace muy memeable.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "FRANKISRIGHT",
+        "MUSKFRA"
+      ],
+      "key_terms_for_dex_search": [
+        "frank",
+        "elonmusk",
+        "xcancel"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 0,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-05-30T12:21:09.147999+00:00",
+      "expires_at": "2026-06-01T12:21:09.147999+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Frank is right",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e6256a66c4cc",
+      "fingerprint": "e6256a66c4cc",
+      "narrative_summary": "Un estudio revela que el 90% de la discurso de odio se dirige a hombres y blancos.",
+      "why_memeable": "La frase '90% de la discurso de odio se dirige a hombres y blancos' es muy fácil de recordar y compartir.",
+      "category": "Política y discurso de odio",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "90%OD",
+        "DIOSDEODIA",
+        "HATESPEECH"
+      ],
+      "key_terms_for_dex_search": [
+        "hate speech",
+        "men",
+        "whites",
+        "discurso de odio"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T12:21:51.675906+00:00",
+      "expires_at": "2026-06-01T12:21:51.675906+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "90% of hate speech targets Men and Whites",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-05-30T11:14:46.427226+00:00"
+  "last_updated": "2026-05-30T12:21:51.675906+00:00"
 }
