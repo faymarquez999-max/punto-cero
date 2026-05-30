@@ -514,7 +514,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "4dd9c21b4aae",
@@ -1224,7 +1224,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "43bc79faf7ec",
@@ -1452,7 +1452,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "f191fe4c1ebb",
@@ -1679,7 +1679,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "00da859f166c",
@@ -2461,7 +2461,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "2728f4c4ebe6",
@@ -2881,7 +2881,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "43fc606fd231",
@@ -3080,7 +3080,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "2ae6c42c11ff",
@@ -3126,7 +3126,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "fb4b40bace98",
@@ -3415,7 +3415,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "c255d85b7071",
@@ -3458,7 +3458,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a12eafcc1524",
@@ -3505,7 +3505,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ec5f5be15bf0",
@@ -3549,7 +3549,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "575d0b7a7b55",
@@ -3593,7 +3593,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1cebba6ad65e",
@@ -3639,7 +3639,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dd86b369e645",
@@ -3924,7 +3924,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2b428aa8a72f",
@@ -4039,7 +4039,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "dbc6d69dcacb",
@@ -4084,7 +4084,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5c4cf1c46460",
@@ -4127,7 +4127,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d5a833d70031",
@@ -4360,7 +4360,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6e1e0c628a86",
@@ -4406,7 +4406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8878a15e848c",
@@ -4525,7 +4525,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b13d7d3c0f22",
@@ -4656,7 +4656,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2b61e88b0840",
@@ -4701,7 +4701,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6870160ca2c8",
@@ -4818,8 +4818,78 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
+    },
+    {
+      "id": "06892fd44725",
+      "fingerprint": "06892fd44725",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran controversia y debate",
+      "why_memeable": "La frase 'True' es corta y fácil de recordar, y su contexto es inesperado y provocativo",
+      "category": "Tecnología, Política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "ELON",
+        "TRUE",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "True",
+        "Twitter"
+      ],
+      "score": 86,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-05-30T09:34:27.718468+00:00",
+      "expires_at": "2026-06-01T09:34:27.718468+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 437178.0,
+        "liquidity_usd": 115341.23,
+        "price_usd": 0.0004372,
+        "volume_h24": 11516.8,
+        "volume_h1": 13.84,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.14,
+        "price_change_24h": -4.83,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-30T09:38:38.918803+00:00"
     }
   ],
-  "last_updated": "2026-05-30T07:28:47.455676+00:00"
+  "last_updated": "2026-05-30T09:38:38.918825+00:00"
 }
