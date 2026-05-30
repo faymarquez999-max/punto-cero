@@ -2398,6 +2398,70 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 437178.0
       }
+    },
+    {
+      "ts": "2026-05-30T11:10:04.371583+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2d80d95a823e",
+        "score": 74,
+        "category": "Twitter",
+        "title": "Frank is right",
+        "candidate_tickers": [
+          "FRANKISRIGHT",
+          "ELONMUSKMEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T11:10:44.390043+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0000fc25ee75",
+        "score": 72,
+        "category": "Salud y política",
+        "title": "Ebola travel bans stir up Covid-era conflict over outbreak response - Politico",
+        "candidate_tickers": [
+          "EBOLABAN",
+          "COVIDVSEBOLA",
+          "TRAVELBAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T11:13:55.419655+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "224c071822ab",
+        "score": 74,
+        "category": "política y celebridad",
+        "title": "La visita del papa León XIV coincide con Bad Bunny y pone a prueba el mayor dispositivo de seguridad en años: \"España será foco de atención internacional\" - Cadena SER",
+        "candidate_tickers": [
+          "PAPABADBUNNY",
+          "BADPAPA",
+          "PAPAENESPAÑA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T11:14:45.007568+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2d80d95a823e",
+        "ticker": "Franklin",
+        "mint": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
+        "mc": 86660.0
+      }
+    },
+    {
+      "ts": "2026-05-30T11:14:46.428038+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0000fc25ee75",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 391831.0
+      }
     }
   ]
 }

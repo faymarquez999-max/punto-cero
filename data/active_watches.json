@@ -514,7 +514,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 22
     },
     {
       "id": "4dd9c21b4aae",
@@ -1217,14 +1217,15 @@
       "started_at": "2026-05-27T10:42:52.166318+00:00",
       "expires_at": "2026-05-30T10:42:52.166318+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-05-30T11:09:33.398964+00:00"
     },
     {
       "id": "43bc79faf7ec",
@@ -1452,7 +1453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "f191fe4c1ebb",
@@ -1679,7 +1680,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "00da859f166c",
@@ -2461,7 +2462,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "2728f4c4ebe6",
@@ -2881,7 +2882,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "43fc606fd231",
@@ -3080,7 +3081,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "2ae6c42c11ff",
@@ -3126,7 +3127,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "fb4b40bace98",
@@ -3415,7 +3416,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c255d85b7071",
@@ -3458,7 +3459,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a12eafcc1524",
@@ -3505,7 +3506,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ec5f5be15bf0",
@@ -3549,7 +3550,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "575d0b7a7b55",
@@ -3593,7 +3594,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1cebba6ad65e",
@@ -3639,7 +3640,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dd86b369e645",
@@ -3924,7 +3925,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2b428aa8a72f",
@@ -4039,7 +4040,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dbc6d69dcacb",
@@ -4084,7 +4085,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5c4cf1c46460",
@@ -4127,7 +4128,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d5a833d70031",
@@ -4360,7 +4361,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6e1e0c628a86",
@@ -4406,7 +4407,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8878a15e848c",
@@ -4525,7 +4526,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b13d7d3c0f22",
@@ -4656,7 +4657,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2b61e88b0840",
@@ -4701,7 +4702,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6870160ca2c8",
@@ -4818,7 +4819,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "06892fd44725",
@@ -4889,7 +4890,196 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-05-30T09:38:38.918803+00:00"
+    },
+    {
+      "id": "2d80d95a823e",
+      "fingerprint": "2d80d95a823e",
+      "narrative_summary": "Elon Musk retuitea 'Frank is right' con gran cantidad de engagement",
+      "why_memeable": "Frase breve y directa de Elon Musk con gran cantidad de engagement",
+      "category": "Twitter",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "FRANKISRIGHT",
+        "ELONMUSKMEME"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "frank",
+        "xcancel"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T11:10:04.020912+00:00",
+      "expires_at": "2026-06-01T11:10:04.020912+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Franklin",
+        "name": "Franklin The Turtle",
+        "mint": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 86660.0,
+        "liquidity_usd": 50040.64,
+        "price_usd": 8.872e-05,
+        "volume_h24": 6302.23,
+        "volume_h1": 146.41,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.03,
+        "price_change_24h": -13.24,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 2,
+        "created_ts": 1764588851000,
+        "pair_created_at": 1764588851000,
+        "url": "https://dexscreener.com/solana/8wxzwpljk6qjmyyc1vhuennxrvw2nfgvqjgenv4mv8sy",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FRANK in FRANKLIN THE TURTLE",
+        "safety_score": 2411,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Frank is right",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-30T11:14:45.006745+00:00"
+    },
+    {
+      "id": "0000fc25ee75",
+      "fingerprint": "0000fc25ee75",
+      "narrative_summary": "Ebola travel bans revive Covid-era conflict over outbreak response",
+      "why_memeable": "La narrativa tiene un núcleo claro y un título impactante, lo que la hace fácilmente compartible y recordable",
+      "category": "Salud y política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLABAN",
+        "COVIDVSEBOLA",
+        "TRAVELBAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Ebola",
+        "Covid",
+        "travel bans",
+        "conflict"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T11:10:43.976956+00:00",
+      "expires_at": "2026-06-02T11:10:43.976956+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Ebola",
+        "name": "EbolaVirus",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 391831.0,
+        "liquidity_usd": 63022.18,
+        "price_usd": 0.000392,
+        "volume_h24": 105092.96,
+        "volume_h1": 2176.44,
+        "volume_m5": 193.44,
+        "price_change_5m": 1.51,
+        "price_change_1h": 4.3,
+        "price_change_24h": -6.05,
+        "txns_h1_buys": 36,
+        "txns_h1_sells": 18,
+        "created_ts": 1778831535000,
+        "pair_created_at": 1778831535000,
+        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: EBOLA in EBOLAVIRUS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Ebola travel bans stir up Covid-era conflict over outbreak response - Politico",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-05-30T11:14:46.427209+00:00"
+    },
+    {
+      "id": "224c071822ab",
+      "fingerprint": "224c071822ab",
+      "narrative_summary": "El papa León XIV visita España coincidiendo con Bad Bunny y pone a prueba el dispositivo de seguridad más grande en años.",
+      "why_memeable": "La combinación del papa y Bad Bunny es inesperada y puede generar interés. La seguridad es un tema comúnmente discutido.",
+      "category": "política y celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "PAPABADBUNNY",
+        "BADPAPA",
+        "PAPAENESPAÑA"
+      ],
+      "key_terms_for_dex_search": [
+        "papa",
+        "Bad Bunny",
+        "España",
+        "seguridad"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-30T11:13:54.708499+00:00",
+      "expires_at": "2026-06-01T11:13:54.708499+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "La visita del papa León XIV coincide con Bad Bunny y pone a prueba el mayor dispositivo de seguridad en años: \"España será foco de atención internacional\" - Cadena SER",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-05-30T09:38:38.918825+00:00"
+  "last_updated": "2026-05-30T11:14:46.427226+00:00"
 }
