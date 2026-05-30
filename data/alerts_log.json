@@ -2534,6 +2534,94 @@
           "HATESPEECH"
         ]
       }
+    },
+    {
+      "ts": "2026-05-30T14:20:52.885823+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a168939cc084",
+        "score": 88,
+        "category": "rescate en peligro",
+        "title": "Rescuers pull four from flooded cave in Laos, two still missing - Reuters",
+        "candidate_tickers": [
+          "LAORESCUE",
+          "CUEVAINUNDADA",
+          "RESCATEENPELIGRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T14:21:31.255097+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "salud",
+        "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+        "candidate_tickers": [
+          "EBOLA",
+          "BUNIA",
+          "OMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T14:22:07.339285+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a84b115be26",
+        "score": 79,
+        "category": "Abuso animal",
+        "title": "Girl, 15, dies after swimming at beach",
+        "candidate_tickers": [
+          "ABUSOANIMAL",
+          "PERROMUERTO",
+          "JOVENACUSADO",
+          "ABUSOANIMAL18",
+          "PERROABUSADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T14:22:38.807033+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "tech",
+        "title": "Anthropic Cuts Unauthorized Platform List by Half After Pushback - Bloomberg.com",
+        "candidate_tickers": [
+          "ANTHROPIC",
+          "CUTS",
+          "PLATFORM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T14:23:12.060402+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias de tecnología",
+        "title": "SpaceX wins $4.16 billion US Space Force contract for threat-detection satellites - Reuters",
+        "candidate_tickers": [
+          "SPACEXCONTRACT",
+          "SPACEFORCE",
+          "THREATDETECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-30T14:23:39.970590+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e4a620cd065c",
+        "score": 84,
+        "category": "Tecnología y Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSKTRUE"
+        ]
+      }
     }
   ]
 }
