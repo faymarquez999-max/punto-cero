@@ -507,14 +507,15 @@
       "started_at": "2026-05-26T20:54:57.073643+00:00",
       "expires_at": "2026-05-30T20:54:57.073643+00:00",
       "duration_hours": 96,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 23
+      "scan_attempts": 23,
+      "expired_at": "2026-05-30T23:37:11.472752+00:00"
     },
     {
       "id": "4dd9c21b4aae",
@@ -3414,13 +3415,14 @@
       "started_at": "2026-05-28T22:26:21.635176+00:00",
       "expires_at": "2026-05-30T22:26:21.635176+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Cybercab driving itself out of the GigaTexas factory",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-05-30T23:37:11.472767+00:00"
     },
     {
       "id": "c255d85b7071",
@@ -3457,13 +3459,14 @@
       "started_at": "2026-05-28T22:26:50.940210+00:00",
       "expires_at": "2026-05-30T22:26:50.940210+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-05-30T23:37:11.472770+00:00"
     },
     {
       "id": "a12eafcc1524",
@@ -5928,7 +5931,235 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9ad78e2df068",
+      "fingerprint": "9ad78e2df068",
+      "narrative_summary": "Trump causa controversia con declaraciones y eventos, generando reacciones fuertes en la comunidad.",
+      "why_memeable": "La figura de Trump es muy polarizante y cualquier declaración o acción suya puede generar un fuerte impacto emocional y ser fácilmente memeable.",
+      "category": "Política y Controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPED",
+        "MAGA22",
+        "FAIRPLAY",
+        "TRUTHBOMB",
+        "POLARIZE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Política",
+        "Controversia",
+        "MAGA",
+        "Polarización"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T23:37:12.615562+00:00",
+      "expires_at": "2026-06-02T23:37:12.615562+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "726d1b532786",
+      "fingerprint": "726d1b532786",
+      "narrative_summary": "Explosión de cohete Blue Origin afecta programa de exploración lunar de NASA, que ahora depende de SpaceX.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: la explosión de un cohete afecta a la NASA.",
+      "category": "ciencia y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LUNARCRISIS",
+        "SPACEXSAVESNASA",
+        "BLUEORIGINBOOM"
+      ],
+      "key_terms_for_dex_search": [
+        "NASA",
+        "Blue Origin",
+        "cohete",
+        "explosión",
+        "lunar",
+        "exploración"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-30T23:40:20.379107+00:00",
+      "expires_at": "2026-06-02T23:40:20.379107+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "After Blue Origin rocket explosion, NASA's entire moon exploration program depends on SpaceX for now - Fortune",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5f6f3862e25f",
+      "fingerprint": "5f6f3862e25f",
+      "narrative_summary": "Elon Musk pide la liberación de los videos de las cámaras corporales",
+      "why_memeable": "La frase 'Release the body camera videos' es corta y fácil de recordar, y la participación de Elon Musk agrega un elemento de interés y controversia",
+      "category": "Política y tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "BODYCAM",
+        "MUSKLEAK",
+        "RELEASEIT"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "body camera",
+        "release",
+        "videos"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-30T23:41:57.629204+00:00",
+      "expires_at": "2026-06-01T23:41:57.629204+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Release the body camera videos",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "14b1dabd527d",
+      "fingerprint": "14b1dabd527d",
+      "narrative_summary": "Un estudio revela que el 90% de los mensajes de odio en línea se dirigen a hombres y blancos.",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta.",
+      "category": "discriminación en línea",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "90VS",
+        "ODIOVS",
+        "HATEVS"
+      ],
+      "key_terms_for_dex_search": [
+        "hate speech",
+        "men",
+        "whites",
+        "discriminación en línea"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T23:42:10.994685+00:00",
+      "expires_at": "2026-06-01T23:42:10.994685+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "90% of hate speech targets Men and Whites",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9837c18fb69c",
+      "fingerprint": "9837c18fb69c",
+      "narrative_summary": "Elon Musk propone multiplicar el PIB humano por 1000 y la población humana.",
+      "why_memeable": "La propuesta de Elon Musk es absurda y fácil de capturar en una frase.",
+      "category": "Economía y tecnología",
+      "matched_archetype": "prophet_of_doom_warning",
+      "candidate_tickers": [
+        "LETSX1000",
+        "GDPX1000"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "PIB",
+        "población",
+        "x1000"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T23:42:24.465263+00:00",
+      "expires_at": "2026-06-01T23:42:24.465263+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "LETS x1000 the GDP",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-05-30T18:49:23.112624+00:00"
+  "last_updated": "2026-05-30T23:42:24.465263+00:00"
 }
