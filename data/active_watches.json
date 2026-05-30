@@ -1674,14 +1674,15 @@
       "started_at": "2026-05-27T17:40:48.021134+00:00",
       "expires_at": "2026-05-30T17:40:48.021134+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-05-30T18:44:08.746984+00:00"
     },
     {
       "id": "00da859f166c",
@@ -5794,7 +5795,140 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "06d63d2a9fb0",
+      "fingerprint": "06d63d2a9fb0",
+      "narrative_summary": "Liverpool despidió al entrenador Arne Slot después de que la defensa del título se convirtió en una búsqueda europea",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto, lo que la hace fácilmente compartible y recordable",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LIVERPOOLSCAZA",
+        "SLOTFUERA",
+        "ARNESLOT"
+      ],
+      "key_terms_for_dex_search": [
+        "Liverpool",
+        "Arne Slot",
+        "despedido",
+        "fútbol",
+        "deportes"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T18:44:55.238481+00:00",
+      "expires_at": "2026-06-02T18:44:55.238481+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Liverpool sack Slot after title defence turns into European scramble - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "dfafbcab787e",
+      "fingerprint": "dfafbcab787e",
+      "narrative_summary": "Una chica de 15 años muere después de nadar en una playa y se descubre un caso de abuso animal.",
+      "why_memeable": "La combinación de la muerte de una joven y el abuso animal es una historia impactante y fácil de compartir.",
+      "category": "Abuso animal y muerte de una joven",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ABUSOANIMAL",
+        "MUERTEJOVEN",
+        "PLAYATRÁGICA"
+      ],
+      "key_terms_for_dex_search": [
+        "abuso animal",
+        "muerte joven",
+        "playa trágica"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-05-30T18:45:42.848874+00:00",
+      "expires_at": "2026-06-02T18:45:42.848874+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Girl, 15, dies after swimming at beach",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3a3631660522",
+      "fingerprint": "3a3631660522",
+      "narrative_summary": "Elon Musk confirma la verdad de una afirmación",
+      "why_memeable": "La frase 'True' es fácil de capturar y compartir, y la confirmación de Elon Musk la hace viral",
+      "category": "tech",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK",
+        "TRUEELON"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "xcancel"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 3,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-30T18:49:23.112624+00:00",
+      "expires_at": "2026-06-01T18:49:23.112624+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-05-30T17:24:03.242379+00:00"
+  "last_updated": "2026-05-30T18:49:23.112624+00:00"
 }
