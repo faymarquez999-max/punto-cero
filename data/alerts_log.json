@@ -4480,6 +4480,50 @@
           "HUMANX1000"
         ]
       }
+    },
+    {
+      "ts": "2026-05-31T21:38:33.231984+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2f712de19d05",
+        "score": 80,
+        "category": "Noticias de conflicto y violencia",
+        "title": "Blast in Myanmar village reportedly kills 55 and injures dozens more - Reuters",
+        "candidate_tickers": [
+          "MYANMARBLAST",
+          "EXPLOSIVOATAQUE",
+          "MUERTEENMYANMAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-31T21:40:08.645741+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "92e836972251",
+        "score": 91,
+        "category": "Deportes",
+        "title": "¿Por qué el Paris St. Germain celebró su Champions League con máscaras de esquí? - Nevasport.com",
+        "candidate_tickers": [
+          "PSG_ESQUI",
+          "MÁSCARAS_DE_ESQUI",
+          "VIOLENCIA_EN_DEPORTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-05-31T21:40:46.890640+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política internacional",
+        "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
+        "candidate_tickers": [
+          "IndoPac",
+          "ChinaRise",
+          "USDoubts"
+        ]
+      }
     }
   ]
 }
