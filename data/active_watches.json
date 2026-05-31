@@ -2877,7 +2877,7 @@
       "started_at": "2026-05-28T10:19:05.854334+00:00",
       "expires_at": "2026-05-31T10:19:05.854334+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies.",
       "cluster_sources": [
@@ -2886,7 +2886,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-05-31T14:56:00.307051+00:00"
     },
     {
       "id": "43fc606fd231",
@@ -3928,14 +3929,15 @@
       "started_at": "2026-05-29T11:53:18.702629+00:00",
       "expires_at": "2026-05-31T11:53:18.702629+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russian Drone Hits Romanian Apartment Building, Officials Say - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-05-31T14:56:00.307069+00:00"
     },
     {
       "id": "2b428aa8a72f",
@@ -7479,7 +7481,227 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "2ac50322cef4",
+      "fingerprint": "2ac50322cef4",
+      "narrative_summary": "Blue states proponen impuesto del 100% a pagos de Trump",
+      "why_memeable": "La frase es corta y se puede capturar en una imagen o un gráfico",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "$1776",
+        "TRUMP",
+        "BLUE STATES"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "impuesto",
+        "pagos",
+        "blue states"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-05-31T14:58:00.910275+00:00",
+      "expires_at": "2026-06-02T14:58:00.910275+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Blue states pitch 100 percent tax on Trump’s ‘anti-weaponization’ payouts - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f3bdf96bcb9d",
+      "fingerprint": "f3bdf96bcb9d",
+      "narrative_summary": "Blue Origin rocket explota en el lanzamiento en un test de encendido de motor",
+      "why_memeable": "La narrativa tiene un momento de impacto fuerte, un accidente, y un contexto de tecnología espacial",
+      "category": "Tecnología espacial",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "BLUEORIGIN",
+        "ROCKETEXPLOSION",
+        "NEWGLENN"
+      ],
+      "key_terms_for_dex_search": [
+        "Blue Origin",
+        "Rocket Explosion",
+        "New Glenn",
+        "Tecnología espacial"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-05-31T14:58:34.459572+00:00",
+      "expires_at": "2026-06-03T14:58:34.459572+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Blue Origin rocket explodes on the launch pad during an engine-firing test - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e758011f8d80",
+      "fingerprint": "e758011f8d80",
+      "narrative_summary": "Elon Musk exige la liberación de un video, acusando a alguien de ser 'bastardo'",
+      "why_memeable": "La frase 'Release the footage, you evil bastards!' es muy fácil de recordar y compartir",
+      "category": "Política/Controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RELEASETHETRUTH",
+        "ELONVS",
+        "FOOTAGEFURY"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "footage",
+        "release",
+        "evil",
+        "bastards"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-05-31T14:59:22.581528+00:00",
+      "expires_at": "2026-06-02T14:59:22.581528+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Release the footage, you evil bastards!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "904946ea5703",
+      "fingerprint": "904946ea5703",
+      "narrative_summary": "Elon Musk propone aumentar la población humana y el PIB en 1000 veces",
+      "why_memeable": "La frase 'LETS x1000 the GDP' es fácil de recordar y compartir",
+      "category": "economía",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "X1000",
+        "LETSX1000"
+      ],
+      "key_terms_for_dex_search": [
+        "X1000",
+        "LETSx1000",
+        "GDP",
+        "población humana"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-05-31T15:00:05.937468+00:00",
+      "expires_at": "2026-06-02T15:00:05.937468+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "LETS x1000 the GDP",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a2d57254daa7",
+      "fingerprint": "a2d57254daa7",
+      "narrative_summary": "Elon Musk anuncia que los humanos son los arquitectos del futuro.",
+      "why_memeable": "La frase es corta y memorable, con un tono de orgullo y ambición.",
+      "category": "Tecnología y Futuro",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TOMORROW",
+        "ARCHITECTS"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "tomorrow",
+        "architects"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-05-31T15:00:19.477470+00:00",
+      "expires_at": "2026-06-02T15:00:19.477470+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "We are the ARCHITECTS of TOMORROW!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-05-31T09:42:41.073253+00:00"
+  "last_updated": "2026-05-31T15:00:19.477470+00:00"
 }
