@@ -4739,6 +4739,74 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 410899.0
       }
+    },
+    {
+      "ts": "2026-06-01T20:47:35.342577+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política internacional",
+        "title": "True:",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "ISRAEL",
+          "LÍBANO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T20:48:36.957196+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "abe033be922d",
+        "score": 80,
+        "category": "Deportes",
+        "title": "IT BEGINS",
+        "candidate_tickers": [
+          "IT_BEGINS",
+          "PONZI_NBA",
+          "NBA_COLLAPSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T20:49:09.558584+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "946455bf8adc",
+        "score": 80,
+        "category": "tech",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T20:49:52.486220+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "tech",
+        "title": "Endlich konnte ich FSD in Deutschland testen. Wir sind fast eine Stunde durch Dörfer, über Landstraßen und Autobahnen gefahren. Alles lief perfekt. @PSchnieder ,  wann retten wir Leben in Deutschland?",
+        "candidate_tickers": [
+          "FSD",
+          "PSchnieder",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T20:51:44.602061+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "abe033be922d",
+        "ticker": "NBA",
+        "mint": "39yEFw7AMfuYzyvTJTyzKEgHuM5THuak3w27sPv5pump",
+        "mc": 12020.0
+      }
     }
   ]
 }
