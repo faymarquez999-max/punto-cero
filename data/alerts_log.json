@@ -4672,6 +4672,73 @@
           "UK_FRANCE_OIL"
         ]
       }
+    },
+    {
+      "ts": "2026-06-01T16:27:44.863577+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "A new trove of Mandelson files brings more bad news for Keir Starmer - AP News",
+        "candidate_tickers": [
+          "Mandelson",
+          "KeirStarmer",
+          "malas noticias"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T16:27:58.275916+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y celebridades",
+        "title": "Bullseye",
+        "candidate_tickers": [
+          "Bullseye",
+          "ElonBullseye"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T16:28:50.904049+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "09e74c162f1c",
+        "score": 83,
+        "category": "Tecnología/Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T16:30:10.778375+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Tecnología",
+        "title": "Endlich konnte ich FSD in Deutschland testen. Wir sind fast eine Stunde durch Dörfer, über Landstraßen und Autobahnen gefahren. Alles lief perfekt. @PSchnieder ,  wann retten wir Leben in Deutschland?",
+        "candidate_tickers": [
+          "FSD",
+          "Deutschland",
+          "ElonMusk",
+          "PSchnieder"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-01T16:31:31.674741+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09e74c162f1c",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 410899.0
+      }
     }
   ]
 }
