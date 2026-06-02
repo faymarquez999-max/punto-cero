@@ -6313,13 +6313,14 @@
       "started_at": "2026-05-30T23:41:57.629204+00:00",
       "expires_at": "2026-06-01T23:41:57.629204+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Release the body camera videos",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-02T00:22:03.519245+00:00"
     },
     {
       "id": "14b1dabd527d",
@@ -9075,7 +9076,143 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "04cc52f6f3a3",
+      "fingerprint": "04cc52f6f3a3",
+      "narrative_summary": "Trump y Musk tienen una disputa pública sobre ciertos temas",
+      "why_memeable": "La disputa entre Trump y Musk es un tema de interés público y se puede capturar en una frase corta",
+      "category": "Política y celebridades",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "TRUMPVSMUSK",
+        "MUSKVSTRUMP",
+        "TRUMPVSELON"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "disputa",
+        "política",
+        "celebridades"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-02T00:22:43.644454+00:00",
+      "expires_at": "2026-06-04T00:22:43.644454+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "I want the world to hear what we heard.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ba23d4807f45",
+      "fingerprint": "ba23d4807f45",
+      "narrative_summary": "Alphabet anuncia un aumento de capital de $80 mil millones para expandir su infraestructura de inteligencia artificial y computación.",
+      "why_memeable": "La narrativa tiene un título claro y una cantidad significativa de engagement, lo que sugiere que es fácil de compartir y recordar.",
+      "category": "Tecnología y negocios",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ALPHABET",
+        "AI",
+        "INFRATECH",
+        "COMPUTE"
+      ],
+      "key_terms_for_dex_search": [
+        "ALPHABET",
+        "AI",
+        "INFRATECH",
+        "COMPUTE",
+        "EQUITY CAPITAL RAISE"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 7,
+        "visual": 2,
+        "cultural_resonance": 5,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-02T00:23:16.812441+00:00",
+      "expires_at": "2026-06-05T00:23:16.812441+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "ALPHABET ANNOUNCES PROPOSED $80 BILLION EQUITY CAPITAL RAISE TO EXPAND AI INFRASTRUCTURE AND COMPUTE",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4159f543db8f",
+      "fingerprint": "4159f543db8f",
+      "narrative_summary": "Elon Musk tuitea 'Bullseye' en referencia a un evento misterioso",
+      "why_memeable": "La frase 'Bullseye' es fácil de capturar y compartir, y su contexto es inmediatamente comprensible",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "BULLSEYE"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Bullseye",
+        "misterio"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-02T00:24:28.568603+00:00",
+      "expires_at": "2026-06-04T00:24:28.568603+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Bullseye",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-01T20:51:44.600535+00:00"
+  "last_updated": "2026-06-02T00:24:28.568603+00:00"
 }
