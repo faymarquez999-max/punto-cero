@@ -5521,7 +5521,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "81e61c15b18c",
@@ -5924,7 +5924,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3b5cd8818c0b",
@@ -6039,7 +6039,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "dfafbcab787e",
@@ -6083,7 +6083,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3a3631660522",
@@ -6653,7 +6653,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "4869abf12f97",
@@ -6699,7 +6699,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "50585f4e1f50",
@@ -7004,7 +7004,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "58ea6f33a955",
@@ -7234,7 +7234,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "c5708c4679e7",
@@ -7436,14 +7436,15 @@
       "started_at": "2026-05-31T09:38:42.408906+00:00",
       "expires_at": "2026-06-02T09:38:42.408906+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-02T09:45:18.726960+00:00"
     },
     {
       "id": "155576af90df",
@@ -7650,14 +7651,15 @@
       "started_at": "2026-05-31T09:41:03.322487+00:00",
       "expires_at": "2026-06-02T09:41:03.322487+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "ICE detainees are dying by suicide at an ‘alarming’ rate, an AP investigation finds - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-02T09:45:18.726975+00:00"
     },
     {
       "id": "2ac50322cef4",
@@ -7876,7 +7878,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "904946ea5703",
@@ -8003,7 +8005,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6846cce602d3",
@@ -8049,7 +8051,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "858e52000ff3",
@@ -8190,7 +8192,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ab2f28a66381",
@@ -8406,7 +8408,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c81b09838b8d",
@@ -8453,7 +8455,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d9140db7492f",
@@ -8653,7 +8655,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1f467f51b3d2",
@@ -8874,7 +8876,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5416c56f226c",
@@ -9093,7 +9095,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b3912e09490a",
@@ -9140,7 +9142,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "09e74c162f1c",
@@ -9331,7 +9333,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "04cc52f6f3a3",
@@ -9379,7 +9381,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ba23d4807f45",
@@ -9494,7 +9496,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a92da6e1b158",
@@ -9542,7 +9544,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "dc06d260d845",
@@ -9587,7 +9589,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e533f32a7f4d",
