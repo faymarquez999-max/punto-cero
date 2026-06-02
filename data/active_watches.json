@@ -4371,14 +4371,15 @@
       "started_at": "2026-05-30T04:14:29.476281+00:00",
       "expires_at": "2026-06-02T04:14:29.476281+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "João Fonseca derrota a Djokovic en Roland Garros, pone fin a sueño de 25 Grand Slams - Yahoo",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-02T05:15:20.705841+00:00"
     },
     {
       "id": "6e1e0c628a86",
@@ -4417,14 +4418,15 @@
       "started_at": "2026-05-30T04:14:35.372755+00:00",
       "expires_at": "2026-06-02T04:14:35.372755+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Blue Origin Rocket Blows Up. AST SpaceMobile and Rocket Lab Stocks Fall. - Barron's",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-02T05:15:20.705858+00:00"
     },
     {
       "id": "8878a15e848c",
@@ -4668,14 +4670,61 @@
       "started_at": "2026-05-30T07:24:35.377447+00:00",
       "expires_at": "2026-06-02T07:24:35.377447+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BORG",
+        "name": "Blue Origin",
+        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 37735.0,
+        "liquidity_usd": 14629.56,
+        "price_usd": 3.773e-05,
+        "volume_h24": 11201.96,
+        "volume_h1": 80.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.03,
+        "price_change_24h": 13.0,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 2,
+        "created_ts": 1780350589000,
+        "pair_created_at": 1780350589000,
+        "url": "https://dexscreener.com/solana/9kpxy6pqsuczvbdnny56ivxrf1kqjydvurwxv8jqfgkk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: BLUE ORIGIN in BLUE ORIGIN",
+        "safety_score": 6952,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Copycat token",
+            "level": "warn",
+            "description": "This token is using a verified tokens symbol"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12,
+      "matched_at": "2026-06-02T05:19:21.187326+00:00"
     },
     {
       "id": "2b61e88b0840",
@@ -5472,7 +5521,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "81e61c15b18c",
@@ -5875,7 +5924,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "3b5cd8818c0b",
@@ -5990,7 +6039,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "dfafbcab787e",
@@ -6034,7 +6083,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "3a3631660522",
@@ -6604,7 +6653,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4869abf12f97",
@@ -6650,7 +6699,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "50585f4e1f50",
@@ -6686,13 +6735,14 @@
       "started_at": "2026-05-31T01:59:04.931377+00:00",
       "expires_at": "2026-06-02T01:59:04.931377+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Frank is right",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-02T05:15:20.705867+00:00"
     },
     {
       "id": "e9f01ebec011",
@@ -6730,13 +6780,14 @@
       "started_at": "2026-05-31T02:00:09.048698+00:00",
       "expires_at": "2026-06-02T02:00:09.048698+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "LETS x1000 the GDP",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-02T05:15:20.705870+00:00"
     },
     {
       "id": "709dc7fd3f89",
@@ -6953,7 +7004,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "58ea6f33a955",
@@ -7183,7 +7234,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c5708c4679e7",
@@ -7392,7 +7443,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "155576af90df",
@@ -7606,7 +7657,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "2ac50322cef4",
@@ -7726,14 +7777,61 @@
       "started_at": "2026-05-31T14:58:34.459572+00:00",
       "expires_at": "2026-06-03T14:58:34.459572+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BORG",
+        "name": "Blue Origin",
+        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 37735.0,
+        "liquidity_usd": 14629.56,
+        "price_usd": 3.773e-05,
+        "volume_h24": 11201.96,
+        "volume_h1": 80.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.03,
+        "price_change_24h": 13.0,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 2,
+        "created_ts": 1780350589000,
+        "pair_created_at": 1780350589000,
+        "url": "https://dexscreener.com/solana/9kpxy6pqsuczvbdnny56ivxrf1kqjydvurwxv8jqfgkk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: BLUE ORIGIN in BLUE ORIGIN",
+        "safety_score": 6952,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Copycat token",
+            "level": "warn",
+            "description": "This token is using a verified tokens symbol"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Blue Origin rocket explodes on the launch pad during an engine-firing test - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-02T05:19:32.323706+00:00"
     },
     {
       "id": "e758011f8d80",
@@ -7778,7 +7876,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "904946ea5703",
@@ -7815,13 +7913,55 @@
       "started_at": "2026-05-31T15:00:05.937468+00:00",
       "expires_at": "2026-06-02T15:00:05.937468+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "GDP",
+        "name": "GDP",
+        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 119823.0,
+        "liquidity_usd": 26067.92,
+        "price_usd": 0.0001198,
+        "volume_h24": 11936.0,
+        "volume_h1": 6225.63,
+        "volume_m5": 23.66,
+        "price_change_5m": 0.48,
+        "price_change_1h": 75.52,
+        "price_change_24h": 257.0,
+        "txns_h1_buys": 102,
+        "txns_h1_sells": 94,
+        "created_ts": 1780373221000,
+        "pair_created_at": 1780373221000,
+        "url": "https://dexscreener.com/solana/bt9l9vqh1envfwrlx323hszmf8dvpgy7wchiewzm3uee",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: GDP in GDP",
+        "safety_score": 4020,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "LETS x1000 the GDP",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-02T05:19:34.491327+00:00"
     },
     {
       "id": "a2d57254daa7",
@@ -7863,7 +8003,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6846cce602d3",
@@ -7909,7 +8049,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "858e52000ff3",
@@ -8050,7 +8190,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ab2f28a66381",
@@ -8087,13 +8227,55 @@
       "started_at": "2026-05-31T16:22:46.586531+00:00",
       "expires_at": "2026-06-02T16:22:46.586531+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "GDP",
+        "name": "GDP",
+        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 119823.0,
+        "liquidity_usd": 26067.92,
+        "price_usd": 0.0001198,
+        "volume_h24": 11936.0,
+        "volume_h1": 6225.63,
+        "volume_m5": 23.66,
+        "price_change_5m": 0.48,
+        "price_change_1h": 75.52,
+        "price_change_24h": 257.0,
+        "txns_h1_buys": 102,
+        "txns_h1_sells": 94,
+        "created_ts": 1780373221000,
+        "pair_created_at": 1780373221000,
+        "url": "https://dexscreener.com/solana/bt9l9vqh1envfwrlx323hszmf8dvpgy7wchiewzm3uee",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: GDP in GDP",
+        "safety_score": 4020,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "LETS x1000 the GDP",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-02T05:19:38.938935+00:00"
     },
     {
       "id": "27798882aa89",
@@ -8224,7 +8406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c81b09838b8d",
@@ -8271,7 +8453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d9140db7492f",
@@ -8471,7 +8653,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "1f467f51b3d2",
@@ -8511,15 +8693,47 @@
       "started_at": "2026-05-31T20:19:37.253964+00:00",
       "expires_at": "2026-06-03T20:19:37.253964+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ISOR",
+        "name": "Iran Strategic Oil Resource",
+        "mint": "3twLAdLHgkuxBE6WnAeJgeUfdZ5MDz44pW2rSYPApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 397538.0,
+        "liquidity_usd": 48946.63,
+        "price_usd": 0.0003975,
+        "volume_h24": 299378.16,
+        "volume_h1": 9619.43,
+        "volume_m5": 211.21,
+        "price_change_5m": 0.0,
+        "price_change_1h": -27.38,
+        "price_change_24h": -47.52,
+        "txns_h1_buys": 122,
+        "txns_h1_sells": 165,
+        "created_ts": 1779580320000,
+        "pair_created_at": 1779580320000,
+        "url": "https://dexscreener.com/solana/9njbc2irjcxhclhfuvkagjcmnnfngjbxqjp7kw4y4nn9",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: IRAN in IRAN STRATEGIC OIL RESOURCE",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "IRAN'S FOREIGN MINISTER TO STATE MEDIA: TALKS AND MESSAGE EXCHANGES WITH THE U.S. ARE ONGOING",
       "cluster_sources": [
         "breaking_news",
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-02T05:19:42.809119+00:00"
     },
     {
       "id": "ba67d4c9feb4",
@@ -8660,7 +8874,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5416c56f226c",
@@ -8698,13 +8912,55 @@
       "started_at": "2026-05-31T20:24:13.103691+00:00",
       "expires_at": "2026-06-02T20:24:13.103691+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "GDP",
+        "name": "GDP",
+        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 119823.0,
+        "liquidity_usd": 26067.92,
+        "price_usd": 0.0001198,
+        "volume_h24": 11936.0,
+        "volume_h1": 6225.63,
+        "volume_m5": 23.66,
+        "price_change_5m": 0.48,
+        "price_change_1h": 75.52,
+        "price_change_24h": 257.0,
+        "txns_h1_buys": 102,
+        "txns_h1_sells": 94,
+        "created_ts": 1780373221000,
+        "pair_created_at": 1780373221000,
+        "url": "https://dexscreener.com/solana/bt9l9vqh1envfwrlx323hszmf8dvpgy7wchiewzm3uee",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: GDP in GDP",
+        "safety_score": 4020,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "LETS x1000 the GDP",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-02T05:19:45.125886+00:00"
     },
     {
       "id": "d22105c2bb40",
@@ -8837,7 +9093,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b3912e09490a",
@@ -8884,7 +9140,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "09e74c162f1c",
@@ -9075,7 +9331,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "04cc52f6f3a3",
@@ -9123,7 +9379,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ba23d4807f45",
@@ -9163,14 +9419,41 @@
       "started_at": "2026-06-02T00:23:16.812441+00:00",
       "expires_at": "2026-06-05T00:23:16.812441+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "COMPUTE",
+        "name": "Compute Coin",
+        "mint": "AfV8U7ZSbdg4ZM5xZ2P9vbrfX3NmEBSDYNNuBriQpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 37624.0,
+        "liquidity_usd": 18656.7,
+        "price_usd": 4.918e-05,
+        "volume_h24": 50340.76,
+        "volume_h1": 245.5,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -3.7,
+        "price_change_24h": -34.22,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 1,
+        "created_ts": 1778612281000,
+        "pair_created_at": 1778612281000,
+        "url": "https://dexscreener.com/solana/ddlisrxatmu34u3u573yywm8w8dbjazgbatzpt9uc7fl",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: COMPUTE==COMPUTE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ALPHABET ANNOUNCES PROPOSED $80 BILLION EQUITY CAPITAL RAISE TO EXPAND AI INFRASTRUCTURE AND COMPUTE",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-02T05:19:52.672352+00:00"
     },
     {
       "id": "4159f543db8f",
@@ -9211,8 +9494,181 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "a92da6e1b158",
+      "fingerprint": "a92da6e1b158",
+      "narrative_summary": "Un video viral muestra a un oficial de policía golpeando a una mujer, lo que ha generado un gran escándalo y debate en las redes sociales.",
+      "why_memeable": "La combinación de un video impactante, la participación de un oficial de policía y la reacción en las redes sociales hacen que esta narrativa tenga un gran potencial para convertirse en un meme.",
+      "category": "Noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "POLICEBRUTALITY",
+        "VIRALVIDEO",
+        "JUSTICIA",
+        "POLICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "policía",
+        "video viral",
+        "justicia",
+        "abuso de poder"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-02T05:15:23.433075+00:00",
+      "expires_at": "2026-06-05T05:15:23.433075+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A Google image search of “white mother” returns images of white women with only black children.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "dc06d260d845",
+      "fingerprint": "dc06d260d845",
+      "narrative_summary": "Andrew Left, un conocido cortacircuitos, ha sido declarado culpable de fraude de valores.",
+      "why_memeable": "La narrativa cuenta con un personaje público (Andrew Left) involucrado en un escándalo (fraude de valores), lo que la hace fácilmente compartible y recordable.",
+      "category": "negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LEFT",
+        "FRAUD",
+        "CORTACIRCUITOS"
+      ],
+      "key_terms_for_dex_search": [
+        "andrew",
+        "left",
+        "fraud",
+        "cortacircuitos"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-02T05:16:43.740544+00:00",
+      "expires_at": "2026-06-04T05:16:43.740544+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Andrew Left Found Guilty in Case That Spooked Short Sellers - Yahoo Finance",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "e533f32a7f4d",
+      "fingerprint": "e533f32a7f4d",
+      "narrative_summary": "Florida lanza una demanda contra OpenAI y Sam Altman por supuestamente ayudar a asesinos en masa con ChatGPT",
+      "why_memeable": "La narrativa tiene un elemento de escándalo y acusaciones de negligencia, lo que la hace fácilmente compartible y recordable",
+      "category": "Tecnología y Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CHATGPT",
+        "OPENAI",
+        "SAMALTMAN",
+        "MASASHOOTERS"
+      ],
+      "key_terms_for_dex_search": [
+        "ChatGPT",
+        "OpenAI",
+        "Sam Altman",
+        "masa shooters",
+        "demanda",
+        "negligencia"
+      ],
+      "score": 92,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-02T05:19:17.857026+00:00",
+      "expires_at": "2026-06-05T05:19:17.857026+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "OPAI",
+        "name": "OpenAI",
+        "mint": "3bGdt75UBdXcCenjdig26ZFQTSzWsKrvG8mFEbSJpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 71830.0,
+        "liquidity_usd": 21672.73,
+        "price_usd": 7.186e-05,
+        "volume_h24": 15266.18,
+        "volume_h1": 58.81,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.17,
+        "price_change_24h": -26.1,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 0,
+        "created_ts": 1761780576000,
+        "pair_created_at": 1761780576000,
+        "url": "https://dexscreener.com/solana/7tcktrjmjgnsq4cqd3bhkjsfjoyisxv2ayyvstuz8pnn",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: OPENAI in OPENAI",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-02T05:19:58.539230+00:00"
     }
   ],
-  "last_updated": "2026-06-02T00:24:28.568603+00:00"
+  "last_updated": "2026-06-02T05:19:58.539251+00:00"
 }
