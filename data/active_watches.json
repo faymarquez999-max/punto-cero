@@ -7002,7 +7002,7 @@
       "started_at": "2026-05-31T06:29:38.611355+00:00",
       "expires_at": "2026-06-03T06:29:38.611355+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "how do i deal with being sidelined during this bull cycle? its truly demoralizing me",
       "cluster_sources": [
@@ -7010,7 +7010,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-03T07:17:53.119107+00:00"
     },
     {
       "id": "58ea6f33a955",
@@ -7233,14 +7234,15 @@
       "started_at": "2026-05-31T06:32:00.834572+00:00",
       "expires_at": "2026-06-03T06:32:00.834572+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Emotional scenes as more survivors pulled from flooded Laos cave",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-03T07:17:53.119120+00:00"
     },
     {
       "id": "c5708c4679e7",
@@ -8466,7 +8468,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "d9140db7492f",
@@ -9101,14 +9103,15 @@
       "started_at": "2026-06-01T05:01:35.379950+00:00",
       "expires_at": "2026-06-03T05:01:35.379950+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel seizes castle in Lebanon as it expands ground offensive",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-03T07:17:53.119127+00:00"
     },
     {
       "id": "b3912e09490a",
@@ -9155,7 +9158,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "09e74c162f1c",
@@ -9346,7 +9349,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "04cc52f6f3a3",
@@ -9394,7 +9397,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ba23d4807f45",
@@ -9509,7 +9512,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a92da6e1b158",
@@ -9557,7 +9560,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dc06d260d845",
@@ -9928,7 +9931,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "906f4a2ffa58",
@@ -10047,7 +10050,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7c294c5a08cb",
@@ -10085,14 +10088,66 @@
       "started_at": "2026-06-03T02:16:09.517639+00:00",
       "expires_at": "2026-06-05T02:16:09.517639+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "The Iranian Revolution",
+        "mint": "8rx2yx6gFLWJMvqiMoaxVgS7Li4NXKM2yPLbrRKGrDDT",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 192079.0,
+        "liquidity_usd": 28278.03,
+        "price_usd": 0.000192,
+        "volume_h24": 1428767.39,
+        "volume_h1": 139252.18,
+        "volume_m5": 10278.73,
+        "price_change_5m": -1.01,
+        "price_change_1h": -1.38,
+        "price_change_24h": 2804.0,
+        "txns_h1_buys": 992,
+        "txns_h1_sells": 989,
+        "created_ts": 1780435260000,
+        "pair_created_at": 1780435260000,
+        "url": "https://dexscreener.com/solana/heta8yprjdjgrhzusdaccm4uuv8k7lv7aeytmnq4ke9q",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 30665,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-03T07:21:38.499812+00:00"
     },
     {
       "id": "6d3132cea17b",
@@ -10139,7 +10194,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "75ae8b4f4dce",
@@ -10188,8 +10243,125 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "209cf0d4b612",
+      "fingerprint": "209cf0d4b612",
+      "narrative_summary": "Un usuario de 4chan expresa su sorpresa y angustia por el desempeño de sus bitcoins, mientras que se discute el partido de los Knicks en las finales de la NBA 2026.",
+      "why_memeable": "La combinación de la emoción intensa del usuario de 4chan y la discusión sobre un evento deportivo importante crea un escenario único y divertido.",
+      "category": "Deportes y finanzas",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "BITCOINHA",
+        "KNICKSBROKEN",
+        "WHATISGOINGON"
+      ],
+      "key_terms_for_dex_search": [
+        "bitcoins",
+        "knicks",
+        "nba finals",
+        "drama"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-03T07:18:41.791666+00:00",
+      "expires_at": "2026-06-06T07:18:41.791666+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FINALS",
+        "name": "NBA Finals Coin",
+        "mint": "27TYCzK2YYEYcAvpRGAcjofrK2gLgXwgeUpJS95npump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 36208.0,
+        "liquidity_usd": 14853.38,
+        "price_usd": 3.633e-05,
+        "volume_h24": 24271.77,
+        "volume_h1": 1870.76,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 11.51,
+        "price_change_24h": 78.19,
+        "txns_h1_buys": 13,
+        "txns_h1_sells": 22,
+        "created_ts": 1780202636000,
+        "pair_created_at": 1780202636000,
+        "url": "https://dexscreener.com/solana/bdeumdjtvjmy8uwtyirmxz8h49pmbciqyobpcmdjxxfk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NBA FINALS in NBA FINALS COIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "WHAT",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-03T07:21:43.316002+00:00"
+    },
+    {
+      "id": "ca0efc7bfcd1",
+      "fingerprint": "ca0efc7bfcd1",
+      "narrative_summary": "Lista de los mejores monedas de meme para invertir en 2026 según varias fuentes de noticias.",
+      "why_memeable": "La narrativa es memeable porque se centra en una lista de monedas de meme, lo que es fácil de compartir y repetir.",
+      "category": "monedas de meme",
+      "matched_archetype": "generational_or_nostalgic_trigger",
+      "candidate_tickers": [
+        "MEME2026",
+        "MEMEINVEST",
+        "MEMEBUY"
+      ],
+      "key_terms_for_dex_search": [
+        "MEME2026",
+        "MEMEINVEST",
+        "MEMEBUY",
+        "2026"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-03T07:19:18.613271+00:00",
+      "expires_at": "2026-06-06T07:19:18.613271+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "June 2026 - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-03T02:18:10.143385+00:00"
+  "last_updated": "2026-06-03T07:21:43.316019+00:00"
 }

@@ -5567,6 +5567,96 @@
           "GREENLIGHT"
         ]
       }
+    },
+    {
+      "ts": "2026-06-03T07:18:42.357618+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "209cf0d4b612",
+        "score": 80,
+        "category": "Deportes y finanzas",
+        "title": "WHAT",
+        "candidate_tickers": [
+          "BITCOINHA",
+          "KNICKSBROKEN",
+          "WHATISGOINGON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-03T07:19:19.150210+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ca0efc7bfcd1",
+        "score": 88,
+        "category": "monedas de meme",
+        "title": "June 2026 - Politico",
+        "candidate_tickers": [
+          "MEME2026",
+          "MEMEINVEST",
+          "MEMEBUY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-03T07:19:47.089006+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Tecnología y celebridades",
+        "title": "Yes, they did",
+        "candidate_tickers": [
+          "YES",
+          "THEY DID"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-03T07:20:37.352950+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Tecnología",
+        "title": "Exactly right",
+        "candidate_tickers": [
+          "XRIGHTR",
+          "RIGHTON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-03T07:21:26.706803+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "noticias locales",
+        "title": "Bizarre planning fail leaves 50-metre fence cutting through council garden: 'Makes no sense' - Yahoo News New Zealand",
+        "candidate_tickers": [
+          "FenceFail",
+          "GardenGate",
+          "CouncilCut"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-03T07:21:38.501231+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7c294c5a08cb",
+        "ticker": "IRAN",
+        "mint": "8rx2yx6gFLWJMvqiMoaxVgS7Li4NXKM2yPLbrRKGrDDT",
+        "mc": 192079.0
+      }
+    },
+    {
+      "ts": "2026-06-03T07:21:43.317251+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "209cf0d4b612",
+        "ticker": "FINALS",
+        "mint": "27TYCzK2YYEYcAvpRGAcjofrK2gLgXwgeUpJS95npump",
+        "mc": 36208.0
+      }
     }
   ]
 }
