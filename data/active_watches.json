@@ -8461,14 +8461,15 @@
       "started_at": "2026-05-31T18:57:40.616365+00:00",
       "expires_at": "2026-06-03T18:57:40.616365+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes on Russia - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-03T22:57:12.279348+00:00"
     },
     {
       "id": "d9140db7492f",
@@ -9151,14 +9152,51 @@
       "started_at": "2026-06-01T05:02:30.297175+00:00",
       "expires_at": "2026-06-04T05:02:30.297175+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "DICKBUTT",
+        "name": "NASA MARS DRAWING",
+        "mint": "2fnMFnr62CmsKC6vusGronbJR8gMrCMptXdQMEu9aK4G",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 37804.0,
+        "liquidity_usd": 61084.99,
+        "price_usd": 3.78e-05,
+        "volume_h24": 1431564.16,
+        "volume_h1": 1431564.16,
+        "volume_m5": 410189.66,
+        "price_change_5m": 6.14,
+        "price_change_1h": 62.42,
+        "price_change_24h": 62.42,
+        "txns_h1_buys": 1506,
+        "txns_h1_sells": 958,
+        "created_ts": 1780526608000,
+        "pair_created_at": 1780526608000,
+        "url": "https://dexscreener.com/solana/3xmjm5cy4ex3jpn9r2blntipbhun74d69r4jjlkbmm4p",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NASA in NASA MARS DRAWING",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Second batch of Mandelson files to be published on Monday",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10,
+      "matched_at": "2026-06-03T23:02:10.940534+00:00"
     },
     {
       "id": "09e74c162f1c",
@@ -9343,13 +9381,14 @@
       "started_at": "2026-06-01T20:49:09.168144+00:00",
       "expires_at": "2026-06-03T20:49:09.168144+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-03T22:57:12.279362+00:00"
     },
     {
       "id": "04cc52f6f3a3",
@@ -9397,7 +9436,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ba23d4807f45",
@@ -9512,7 +9551,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a92da6e1b158",
@@ -9560,7 +9599,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dc06d260d845",
@@ -9931,7 +9970,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "906f4a2ffa58",
@@ -10050,7 +10089,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "7c294c5a08cb",
@@ -10194,7 +10233,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "75ae8b4f4dce",
@@ -10243,7 +10282,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "209cf0d4b612",
@@ -10360,7 +10399,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c2001ee55b79",
@@ -10405,7 +10444,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "005cfe66a906",
@@ -10453,8 +10492,253 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "739bba8cd043",
+      "fingerprint": "739bba8cd043",
+      "narrative_summary": "Actualidad política: Trump anuncia medidas contra Irán y se critica por la violencia en una protesta en el Reino Unido.",
+      "why_memeable": "La narrativa cuenta con un líder político controvertido (Trump) y una protesta violenta en el Reino Unido, lo que genera polarización y emociones fuertes.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_IRAN",
+        "VIOLENCIA_EN_EL_REINO_UNIDO",
+        "POLITICA_INTERNACIONAL"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "IRAN",
+        "VIOLENCIA",
+        "POLITICA_INTERNACIONAL"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-03T22:57:25.593613+00:00",
+      "expires_at": "2026-06-05T22:57:25.593613+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "4j79iERfEm69NwSbobXRh2cEg4Ft5K8wSBrsFdw6UPJw",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 114406.0,
+        "liquidity_usd": 112492.48,
+        "price_usd": 0.0001144,
+        "volume_h24": 9580558.97,
+        "volume_h1": 2280134.84,
+        "volume_m5": 156592.18,
+        "price_change_5m": 5.41,
+        "price_change_1h": 37.6,
+        "price_change_24h": 610.0,
+        "txns_h1_buys": 4430,
+        "txns_h1_sells": 4389,
+        "created_ts": 1780512131000,
+        "pair_created_at": 1780512131000,
+        "url": "https://dexscreener.com/solana/6tffhihsvynmmixphzfimpw9mfgqn53u5m2htzyusjc7",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: IRAN in IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "When the country needed a serious principled political party on the “right”, I launched @_AdvanceUK .",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-03T23:02:24.230709+00:00"
+    },
+    {
+      "id": "764bdc8eef34",
+      "fingerprint": "764bdc8eef34",
+      "narrative_summary": "Ucrania ataca a St. Petersburgo con drones mientras se celebra el evento económico 'Davos ruso'",
+      "why_memeable": "La combinación de la agresión ucraniana y la celebración del evento económico es un escenario inesperado y emocionante.",
+      "category": "Política y conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUS_DAVOS",
+        "UKR_DROPS",
+        "ST_PETERSBURG"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "St. Petersburgo",
+        "drones",
+        "Davos",
+        "Putin"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-03T22:59:24.822165+00:00",
+      "expires_at": "2026-06-05T22:59:24.822165+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city - The Guardian",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "06210d2b24c9",
+      "fingerprint": "06210d2b24c9",
+      "narrative_summary": "Elon Musk publica un tweet simplemente con la palabra 'True' y recibe una gran cantidad de atención en Twitter.",
+      "why_memeable": "La simplicidad de la publicación y la respuesta de Elon Musk son memesables.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "true",
+        "tweet",
+        "twitter"
+      ],
+      "score": 72,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-06-03T23:00:42.248299+00:00",
+      "expires_at": "2026-06-05T23:00:42.248299+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 379793.0,
+        "liquidity_usd": 100820.29,
+        "price_usd": 0.0003798,
+        "volume_h24": 13099.03,
+        "volume_h1": 787.94,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.43,
+        "price_change_24h": -1.46,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 6,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-03T23:02:27.017944+00:00"
+    },
+    {
+      "id": "9074f02cdae6",
+      "fingerprint": "9074f02cdae6",
+      "narrative_summary": "Elon Musk propone un juicio contra el wokismo, comparándolo con el juicio de Nuremberg.",
+      "why_memeable": "La frase es breve y fácil de recordar, con un claro mensaje de crítica al wokismo.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WOK",
+        "NUREMBERG",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "wokisme",
+        "Nuremberg",
+        "ElonMusk",
+        "juicio"
+      ],
+      "score": 86,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-03T23:02:08.229663+00:00",
+      "expires_at": "2026-06-05T23:02:08.229663+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Il faudra, un jour, faire le Nuremberg du wokisme.",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-03T17:33:16.441283+00:00"
+  "last_updated": "2026-06-03T23:02:27.017960+00:00"
 }
