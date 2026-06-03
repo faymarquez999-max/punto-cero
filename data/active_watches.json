@@ -6650,14 +6650,15 @@
       "started_at": "2026-05-31T01:56:37.614049+00:00",
       "expires_at": "2026-06-03T01:56:37.614049+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-03T02:12:59.375740+00:00"
     },
     {
       "id": "4869abf12f97",
@@ -6696,14 +6697,15 @@
       "started_at": "2026-05-31T01:58:20.333092+00:00",
       "expires_at": "2026-06-03T01:58:20.333092+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Four more men freed from flooded Laos cave in hazardous rescue mission - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-03T02:12:59.375755+00:00"
     },
     {
       "id": "50585f4e1f50",
@@ -9998,7 +10000,196 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-02T17:58:11.377791+00:00"
+    },
+    {
+      "id": "f9e4c51cf79e",
+      "fingerprint": "f9e4c51cf79e",
+      "narrative_summary": "El Tribunal Supremo de EE. UU. permite a Alabama utilizar un mapa congresional que beneficia a los republicanos para las elecciones de medio término de 2026.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano (el Tribunal Supremo) y un victimario (el voto de los afroamericanos en Alabama).",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ALABAMA",
+        "TRUMP",
+        "REPUBLICANOS",
+        "VOTO",
+        "SUPREMACIA"
+      ],
+      "key_terms_for_dex_search": [
+        "ALABAMA",
+        "TRIBUNAL SUPREMO",
+        "REPUBLICANOS",
+        "VOTO",
+        "SUPREMACIA"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-03T02:13:31.184270+00:00",
+      "expires_at": "2026-06-05T02:13:31.184270+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. SUPREME COURT ALLOWS ALABAMA TO USE A CONGRESSIONAL MAP FAVORING REPUBLICANS FOR THE 2026 MIDTERM ELECTIONS.",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "7c294c5a08cb",
+      "fingerprint": "7c294c5a08cb",
+      "narrative_summary": "El IRGC de Irán ataca la sede de la Quinta Flota de EE.UU. y una base aérea, según informes de medios locales.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre Irán y EE.UU., lo que la hace fácilmente compartible y recordable.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRGC",
+        "FIFTHFLEET",
+        "IRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "IRGC",
+        "FIFTHFLEET",
+        "IRAN",
+        "EE.UU."
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-06-03T02:16:09.517639+00:00",
+      "expires_at": "2026-06-05T02:16:09.517639+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6d3132cea17b",
+      "fingerprint": "6d3132cea17b",
+      "narrative_summary": "Rusia lanza ataque masivo en Ucrania, matando a al menos 22 personas, incluyendo niños.",
+      "why_memeable": "El ataque masivo y la muerte de niños crean un impacto emocional fuerte y un memeable.",
+      "category": "Noticias internacionales / Conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAATACA",
+        "UCRANIAENPELIGRO",
+        "ATAQUEMASIVO"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "ataque",
+        "masivo",
+        "muerte",
+        "niños"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-03T02:17:37.777863+00:00",
+      "expires_at": "2026-06-05T02:17:37.777863+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia launches massive overnight attack on Ukraine",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "75ae8b4f4dce",
+      "fingerprint": "75ae8b4f4dce",
+      "narrative_summary": "Paramount busca luz verde de la UE para su deal de $110 mil millones con Warner Bros.",
+      "why_memeable": "La narrativa es memeable debido a la controversia y el monto del deal, que genera interés y debate.",
+      "category": "negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PARAMOUNT",
+        "WARNERBROS",
+        "DEAL",
+        "UE",
+        "GREENLIGHT"
+      ],
+      "key_terms_for_dex_search": [
+        "Paramount",
+        "WarnerBros",
+        "Deal",
+        "UE",
+        "GreenLight",
+        "Controversia"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-03T02:18:10.143385+00:00",
+      "expires_at": "2026-06-05T02:18:10.143385+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Paramount Seeks EU Green Light for $110 Billion Warner Deal - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-02T17:58:11.377810+00:00"
+  "last_updated": "2026-06-03T02:18:10.143385+00:00"
 }
