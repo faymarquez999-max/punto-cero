@@ -6311,6 +6311,60 @@
           "DATEREPUBLICAN"
         ]
       }
+    },
+    {
+      "ts": "2026-06-04T17:00:26.542549+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Muerte de una autora de cómics",
+        "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi, author of ‘Persepolis,’ dies at 56 - AP News",
+        "candidate_tickers": [
+          "Persepolis",
+          "MarjaneSatrapi",
+          "Cómics"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T17:01:10.355302+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "368c7e976a55",
+        "score": 76,
+        "category": "política",
+        "title": "Ex-national security adviser John Bolton will plead guilty in classified information case: AP source - AP News",
+        "candidate_tickers": [
+          "BOLTONGUILTY",
+          "TRUMPSCANDAL",
+          "CLASSIFIEDINFO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T17:01:55.491128+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32645234d7a4",
+        "score": 83,
+        "category": "Celebridad/Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T17:03:33.375209+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "32645234d7a4",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 353565.0
+      }
     }
   ]
 }

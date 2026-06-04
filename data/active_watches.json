@@ -9601,7 +9601,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "dc06d260d845",
@@ -9972,7 +9972,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "906f4a2ffa58",
@@ -10091,7 +10091,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7c294c5a08cb",
@@ -10235,7 +10235,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "75ae8b4f4dce",
@@ -10284,7 +10284,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "209cf0d4b612",
@@ -10478,7 +10478,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "005cfe66a906",
@@ -10526,7 +10526,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "739bba8cd043",
@@ -10656,7 +10656,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "06210d2b24c9",
@@ -10917,7 +10917,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ea7f5860c014",
@@ -11047,7 +11047,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "42c2e2177e4f",
@@ -11404,7 +11404,123 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-04T10:49:03.437676+00:00"
+    },
+    {
+      "id": "368c7e976a55",
+      "fingerprint": "368c7e976a55",
+      "narrative_summary": "John Bolton, ex-consejero de seguridad nacional de Trump, acepta un acuerdo de culpabilidad por manejo inapropiado de información clasificada.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, con un personaje conocido y un escándalo que genera interés.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BOLTONGUILTY",
+        "TRUMPSCANDAL",
+        "CLASSIFIEDINFO"
+      ],
+      "key_terms_for_dex_search": [
+        "Bolton",
+        "Trump",
+        "clasificado",
+        "información",
+        "acusado"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-04T17:01:09.892203+00:00",
+      "expires_at": "2026-06-06T17:01:09.892203+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ex-national security adviser John Bolton will plead guilty in classified information case: AP source - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "32645234d7a4",
+      "fingerprint": "32645234d7a4",
+      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando una gran cantidad de interacción",
+      "why_memeable": "La simplicidad y la polarización de la respuesta de Elon Musk hacen que sea fácilmente compartible y recordable",
+      "category": "Celebridad/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "yes"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-04T17:01:55.059916+00:00",
+      "expires_at": "2026-06-05T17:01:55.059916+00:00",
+      "duration_hours": 24,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 353565.0,
+        "liquidity_usd": 95370.87,
+        "price_usd": 0.0003536,
+        "volume_h24": 22534.98,
+        "volume_h1": 571.06,
+        "volume_m5": 3.9,
+        "price_change_5m": -1.44,
+        "price_change_1h": 0.0,
+        "price_change_24h": -5.57,
+        "txns_h1_buys": 5,
+        "txns_h1_sells": 5,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-04T17:03:33.373598+00:00"
     }
   ],
-  "last_updated": "2026-06-04T10:49:03.437693+00:00"
+  "last_updated": "2026-06-04T17:03:33.373615+00:00"
 }
