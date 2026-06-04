@@ -5912,6 +5912,75 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 379793.0
       }
+    },
+    {
+      "ts": "2026-06-04T01:49:14.760036+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Good Starship highlights video",
+        "candidate_tickers": [
+          "Starship",
+          "GoodShip",
+          "Ship",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T01:49:36.379023+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9060be5dad49",
+        "score": 80,
+        "category": "Tecnología y celebridades",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T01:51:00.589352+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Tecnología y celebridades",
+        "title": "Grok Imagine on Vercel",
+        "candidate_tickers": [
+          "GROK",
+          "VERCEL",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T01:51:38.558332+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd98a9ba7843",
+        "score": 82,
+        "category": "Muerte por sobredosis",
+        "title": "Fact: he died of 11ng/ml Fentanyl.",
+        "candidate_tickers": [
+          "FENTANYL",
+          "11NGML",
+          "DEAD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T01:52:16.537114+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9060be5dad49",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 353965.0
+      }
     }
   ]
 }
