@@ -6094,6 +6094,117 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 344101.0
       }
+    },
+    {
+      "ts": "2026-06-04T10:44:09.382404+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "928bba0e28d0",
+        "score": 80,
+        "category": "Finanzas y tecnología",
+        "title": "SpaceX",
+        "candidate_tickers": [
+          "SPACEX",
+          "MUSK",
+          "STARLINK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T10:46:52.644416+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a17d0836e0b",
+        "score": 82,
+        "category": "Tecnología y celebridades",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T10:47:14.625369+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "abed663d4edf",
+        "score": 82,
+        "category": "política y controversia",
+        "title": "Southern Poverty Law Center is a criminal organization",
+        "candidate_tickers": [
+          "SPCL",
+          "SPLC",
+          "ELONVSPLC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T10:48:03.876983+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Celebridad/Política",
+        "title": "x.com/i/article/206200131550…",
+        "candidate_tickers": [
+          "XCOM",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T10:48:25.859680+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología y noticias de negocios",
+        "title": "Grok Imagine 1.5 at rank 1",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-04T10:48:58.292667+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d8874747f5f7",
+        "ticker": "ELONMUSK",
+        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
+        "mc": 75336.0
+      }
+    },
+    {
+      "ts": "2026-06-04T10:49:00.923470+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "928bba0e28d0",
+        "ticker": "SPCX",
+        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
+        "mc": 81770.0
+      }
+    },
+    {
+      "ts": "2026-06-04T10:49:02.010290+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2a17d0836e0b",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 341593.0
+      }
+    },
+    {
+      "ts": "2026-06-04T10:49:03.439154+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "abed663d4edf",
+        "ticker": "DATA",
+        "mint": "BPsrLQMEtrdJq6xmNnuBQLsNUbms7q3BFZHq3TG3pump",
+        "mc": 70729.0
+      }
     }
   ]
 }
