@@ -6935,6 +6935,49 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 350675.0
       }
+    },
+    {
+      "ts": "2026-06-05T15:34:54.049128+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Música",
+        "title": "Phoebe Bridgers announces ‘The Lost Tour’ with special guests Alex G & Isaac Wood:",
+        "candidate_tickers": [
+          "PhoebeLost",
+          "NoPhonesTour"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-05T15:35:41.142617+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "26db2509910c",
+        "score": 78,
+        "category": "Noticias de ciencia y tecnología",
+        "title": "NASA orders astronauts to take shelter after new leak aboard the International Space Station - WTOP",
+        "candidate_tickers": [
+          "ISSLEAK",
+          "NASAALERT",
+          "ASTRONAUTSINDANGER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-05T15:36:49.891720+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3d442bc48f85",
+        "score": 88,
+        "category": "Guerra en Ucrania",
+        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+        "candidate_tickers": [
+          "UKRATK",
+          "PUTINSTRK",
+          "DRONEXP"
+        ]
+      }
     }
   ]
 }
