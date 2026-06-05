@@ -10483,7 +10483,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "005cfe66a906",
@@ -10531,7 +10531,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "739bba8cd043",
@@ -10661,7 +10661,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "06210d2b24c9",
@@ -10922,7 +10922,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ea7f5860c014",
@@ -11052,7 +11052,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "42c2e2177e4f",
@@ -11454,7 +11454,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "32645234d7a4",
@@ -11643,7 +11643,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "76ee34e5e34a",
@@ -11688,7 +11688,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "473a80eca071",
@@ -11734,7 +11734,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cf714b416dc2",
@@ -11865,7 +11865,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "051b91a7176d",
@@ -11915,7 +11915,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "638dc0a53df0",
@@ -11961,7 +11961,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "475ddcfcdf5e",
@@ -12006,7 +12006,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "022f4c0abe46",
@@ -12042,13 +12042,40 @@
       "started_at": "2026-06-05T08:57:46.421603+00:00",
       "expires_at": "2026-06-12T08:57:46.421603+00:00",
       "duration_hours": 168,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 350675.0,
+        "liquidity_usd": 92672.85,
+        "price_usd": 0.0003507,
+        "volume_h24": 16646.47,
+        "volume_h1": 394.07,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.95,
+        "price_change_24h": -0.15,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yup",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T12:22:34.758713+00:00"
     },
     {
       "id": "bb510d34f785",
@@ -12086,14 +12113,154 @@
       "started_at": "2026-06-05T08:58:30.200334+00:00",
       "expires_at": "2026-06-07T08:58:30.200334+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 350675.0,
+        "liquidity_usd": 92672.85,
+        "price_usd": 0.0003507,
+        "volume_h24": 16646.47,
+        "volume_h1": 394.07,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.95,
+        "price_change_24h": -0.15,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yes, SPLC is a criminal organization",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T12:22:35.809247+00:00"
+    },
+    {
+      "id": "c52eabaedbe4",
+      "fingerprint": "c52eabaedbe4",
+      "narrative_summary": "Un usuario de 4chan se burla de Bitcoin y KuCoin, utilizando el término 'baggies' de manera absurda.",
+      "why_memeable": "La narrativa es memeable debido a la presencia de un usuario que se burla de Bitcoin y KuCoin de manera absurda, utilizando el término 'baggies'.",
+      "category": "Crypto",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "KUCOIN",
+        "BITCOIN",
+        "BWBHAHAHAHAHAHAHA"
+      ],
+      "key_terms_for_dex_search": [
+        "KuCoin",
+        "Bitcoin",
+        "BWBHAHAHAHAHAHAHA",
+        "baggies"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-05T12:20:18.419070+00:00",
+      "expires_at": "2026-06-07T12:20:18.419070+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Bitcoin",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "166244aa8ae9",
+      "fingerprint": "166244aa8ae9",
+      "narrative_summary": "Elon Musk publica un 'Yup' con gran cantidad de engagement en Nitter.",
+      "why_memeable": "La simplicidad de la frase 'Yup' y su asociación con Elon Musk, una figura polarizante y viral.",
+      "category": "celebridad viral",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YUP",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "YUP"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-05T12:21:32.635512+00:00",
+      "expires_at": "2026-06-07T12:21:32.635512+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 350675.0,
+        "liquidity_usd": 92672.85,
+        "price_usd": 0.0003507,
+        "volume_h24": 16646.47,
+        "volume_h1": 394.07,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.95,
+        "price_change_24h": -0.15,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yup",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T12:22:37.128120+00:00"
     }
   ],
-  "last_updated": "2026-06-05T08:58:30.200334+00:00"
+  "last_updated": "2026-06-05T12:22:37.128162+00:00"
 }
