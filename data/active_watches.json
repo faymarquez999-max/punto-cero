@@ -9592,7 +9592,7 @@
       "started_at": "2026-06-02T05:15:23.433075+00:00",
       "expires_at": "2026-06-05T05:15:23.433075+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "A Google image search of “white mother” returns images of white women with only black children.",
       "cluster_sources": [
@@ -9601,7 +9601,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-05T08:53:12.437774+00:00"
     },
     {
       "id": "dc06d260d845",
@@ -11865,7 +11866,234 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "051b91a7176d",
+      "fingerprint": "051b91a7176d",
+      "narrative_summary": "Donald Trump y Elon Musk están involucrados en una disputa, mientras que Trump también está relacionado con noticias sobre ayuda a Ucrania y una inversión en 'carbón limpio'",
+      "why_memeable": "La combinación de figuras políticas y empresariales prominentes con temas controvertidos y la posibilidad de memes sobre 'carbón limpio' y disputas entre celebridades",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMPVSELON",
+        "COALGATE",
+        "UKRAINEAID",
+        "TRUMPPROBLEMS",
+        "MUSKTRUMPFEUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Elon Musk",
+        "Ucrania",
+        "carbón limpio",
+        "disputa"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-05T08:53:13.932051+00:00",
+      "expires_at": "2026-06-08T08:53:13.932051+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Vote them out",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "638dc0a53df0",
+      "fingerprint": "638dc0a53df0",
+      "narrative_summary": "Protestas en Albania contra un resort de lujo vinculado a Jared Kushner",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta, con un claro conflicto entre los protestantes y el gobierno",
+      "category": "política, protestas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ALBANIANOSALE",
+        "KUSHNERRESORT",
+        "PROTESTASALBANIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Albania",
+        "protestas",
+        "Kushner",
+        "resort",
+        "lujo"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-05T08:55:05.089007+00:00",
+      "expires_at": "2026-06-07T08:55:05.089007+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "'Albania is not for sale', protesters say over Kushner-linked luxury resort near a protected wetland - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "475ddcfcdf5e",
+      "fingerprint": "475ddcfcdf5e",
+      "narrative_summary": "El ministro de Trabajo de Corea del Sur pide a las empresas de tecnología que compartan sus beneficios excesivos con proveedores y empleados.",
+      "why_memeable": "La narrativa es memeable debido a la sencillez de la petición del ministro y la relevancia de la cuestión para la industria tecnológica.",
+      "category": "Tecnología y economía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KOREATECH",
+        "MINISTRODETRABAJO",
+        "EXCESODEBENEFICIOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Corea del Sur",
+        "ministro de Trabajo",
+        "empresas de tecnología",
+        "beneficios excesivos"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-05T08:56:22.835774+00:00",
+      "expires_at": "2026-06-08T08:56:22.835774+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "022f4c0abe46",
+      "fingerprint": "022f4c0abe46",
+      "narrative_summary": "Elon Musk publica 'Yup' en Twitter, generando gran atención",
+      "why_memeable": "La frase 'Yup' es corta y fácil de compartir, y su origen en una figura pública como Elon Musk la hace aún más interesante",
+      "category": "celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YUP",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "YUP",
+        "ELON",
+        "CELEBRIDAD"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-05T08:57:46.421603+00:00",
+      "expires_at": "2026-06-12T08:57:46.421603+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yup",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bb510d34f785",
+      "fingerprint": "bb510d34f785",
+      "narrative_summary": "Elon Musk acusa a SPLC de ser una organización criminal",
+      "why_memeable": "Frase corta y directa de Elon Musk, con connotaciones negativas hacia SPLC",
+      "category": "politica",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SPLC",
+        "ELON",
+        "CRIMINAL"
+      ],
+      "key_terms_for_dex_search": [
+        "SPLC",
+        "ELON",
+        "CRIMINAL",
+        "ORGANIZACIÓN"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 2,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-05T08:58:30.200334+00:00",
+      "expires_at": "2026-06-07T08:58:30.200334+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes, SPLC is a criminal organization",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-05T05:05:23.459603+00:00"
+  "last_updated": "2026-06-05T08:58:30.200334+00:00"
 }
