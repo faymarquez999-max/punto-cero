@@ -10663,7 +10663,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "06210d2b24c9",
@@ -10924,7 +10924,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ea7f5860c014",
@@ -11054,7 +11054,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "42c2e2177e4f",
@@ -11456,7 +11456,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "32645234d7a4",
@@ -11645,7 +11645,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "76ee34e5e34a",
@@ -11690,7 +11690,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "473a80eca071",
@@ -11736,7 +11736,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cf714b416dc2",
@@ -11867,7 +11867,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "051b91a7176d",
@@ -11917,7 +11917,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "638dc0a53df0",
@@ -11963,7 +11963,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "475ddcfcdf5e",
@@ -12008,7 +12008,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "022f4c0abe46",
@@ -12356,8 +12356,78 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
+    },
+    {
+      "id": "b4d649fe1b5d",
+      "fingerprint": "b4d649fe1b5d",
+      "narrative_summary": "Elon Musk confirma algo con un simple 'sí' en Twitter, generando gran interés y debate.",
+      "why_memeable": "La respuesta breve y directa de Elon Musk es fácil de capturar y compartir, generando un meme potencial.",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSKYES"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "yes",
+        "twitter"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-05T19:29:01.494134+00:00",
+      "expires_at": "2026-06-12T19:29:01.494134+00:00",
+      "duration_hours": 168,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 313147.0,
+        "liquidity_usd": 84636.39,
+        "price_usd": 0.0003132,
+        "volume_h24": 18648.26,
+        "volume_h1": 415.34,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -4.3,
+        "price_change_24h": -10.26,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 2,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T19:31:30.067519+00:00"
     }
   ],
-  "last_updated": "2026-06-05T17:40:23.038000+00:00"
+  "last_updated": "2026-06-05T19:31:30.067535+00:00"
 }

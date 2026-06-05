@@ -7003,6 +7003,31 @@
         "mint": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
         "mc": 128984.0
       }
+    },
+    {
+      "ts": "2026-06-05T19:29:02.005181+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b4d649fe1b5d",
+        "score": 83,
+        "category": "Celebridad",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSKYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-05T19:31:30.069647+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b4d649fe1b5d",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 313147.0
+      }
     }
   ]
 }
