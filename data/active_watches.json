@@ -10656,14 +10656,15 @@
       "started_at": "2026-06-03T22:59:24.822165+00:00",
       "expires_at": "2026-06-05T22:59:24.822165+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-05T23:53:52.517425+00:00"
     },
     {
       "id": "06210d2b24c9",
@@ -10924,7 +10925,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "ea7f5860c014",
@@ -11054,7 +11055,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "42c2e2177e4f",
@@ -11456,7 +11457,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "32645234d7a4",
@@ -11645,7 +11646,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "76ee34e5e34a",
@@ -11690,7 +11691,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "473a80eca071",
@@ -11736,7 +11737,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "cf714b416dc2",
@@ -11867,7 +11868,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "051b91a7176d",
@@ -11917,7 +11918,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "638dc0a53df0",
@@ -11963,7 +11964,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "475ddcfcdf5e",
@@ -12008,7 +12009,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "022f4c0abe46",
@@ -12356,7 +12357,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b4d649fe1b5d",
@@ -12464,14 +12465,46 @@
       "started_at": "2026-06-05T21:13:17.811801+00:00",
       "expires_at": "2026-06-07T21:13:17.811801+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IAM",
+        "name": "I am become billionaire",
+        "mint": "qyzQwsyTYhAEGvonp5mcDaRSFuesDH4pfyRymLfpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26924.0,
+        "liquidity_usd": 13577.99,
+        "price_usd": 2.692e-05,
+        "volume_h24": 11642.7,
+        "volume_h1": 346.68,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.28,
+        "price_change_24h": -30.54,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 7,
+        "created_ts": 1775603377000,
+        "pair_created_at": 1775603377000,
+        "url": "https://dexscreener.com/solana/dvmezvvpqakcygkm8ztv9z39gtqqlemagpsa8ghefqbk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: BILLION in I AM BECOME BILLIONAIRE",
+        "safety_score": 2070,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          }
+        ]
+      },
       "cluster_top_title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T23:58:46.449230+00:00"
     },
     {
       "id": "be20b0c5bb26",
@@ -12510,14 +12543,46 @@
       "started_at": "2026-06-05T21:14:48.019778+00:00",
       "expires_at": "2026-06-07T21:14:48.019778+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "XAnimals",
+        "name": "Animals In Crisis",
+        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 20380.0,
+        "liquidity_usd": 11051.31,
+        "price_usd": 2.038e-05,
+        "volume_h24": 5804.16,
+        "volume_h1": 26.65,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -2.25,
+        "price_change_24h": 3.51,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 2,
+        "created_ts": 1778026313000,
+        "pair_created_at": 1778026313000,
+        "url": "https://dexscreener.com/solana/3ffvlyerpnrav7gax4qnyd3bu9txrnzodd1jhbscxxi6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANIMAL in ANIMALS IN CRISIS",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Three Knox Co. Sheriff’s Office employees file for retirement while facing charges in theft conspiracy case - WVLT",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-05T23:58:48.334595+00:00"
     },
     {
       "id": "a3700b9d5ace",
@@ -12563,7 +12628,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7774078c5fbe",
@@ -12606,8 +12671,8 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-05T21:17:26.309886+00:00"
+  "last_updated": "2026-06-05T23:58:48.334615+00:00"
 }
