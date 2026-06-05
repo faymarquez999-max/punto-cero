@@ -9966,13 +9966,14 @@
       "started_at": "2026-06-02T17:56:08.485905+00:00",
       "expires_at": "2026-06-04T17:56:08.485905+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "It’s over",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-05T00:17:59.007415+00:00"
     },
     {
       "id": "906f4a2ffa58",
@@ -11520,7 +11521,99 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-04T17:03:33.373598+00:00"
+    },
+    {
+      "id": "13413ca04e59",
+      "fingerprint": "13413ca04e59",
+      "narrative_summary": "Democrats forzan una votación sobre el fondo de $1.8 mil millones de Trump en un \"vote-a-rama\"",
+      "why_memeable": "El título de la noticia es claro y conciso, y el tema de la votación es polémico y atractivo para los medios",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_VOTE",
+        "VOTEARAMA",
+        "DEMOCRATS_VERSUS_TRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "VOTE",
+        "DEMOCRATS",
+        "SETTLEMENT_FUND",
+        "VOTEARAMA"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-06-05T00:18:47.097267+00:00",
+      "expires_at": "2026-06-07T00:18:47.097267+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bc9038f9f21c",
+      "fingerprint": "bc9038f9f21c",
+      "narrative_summary": "Un video de cámara corporal exclusivo levanta preguntas después de que la acusación de OVI de Elwood Jones es desestimada.",
+      "why_memeable": "La narrativa tiene un título atractivo y un video exclusivo que genera interés.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ELWOODJONES",
+        "OVI",
+        "VIDEOEXCLUSIVO"
+      ],
+      "key_terms_for_dex_search": [
+        "ElwoodJones",
+        "OVI",
+        "VideoExclusivo",
+        "Cámara Corporal"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-05T00:22:21.195306+00:00",
+      "expires_at": "2026-06-07T00:22:21.195306+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive body camera video raises questions after Elwood Jones’ OVI charge is dismissed - WLWT",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-04T17:03:33.373615+00:00"
+  "last_updated": "2026-06-05T00:22:21.195306+00:00"
 }
