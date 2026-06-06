@@ -1,207 +1,6 @@
 {
   "watches": [
     {
-      "id": "84458bd3c6c5",
-      "fingerprint": "84458bd3c6c5",
-      "narrative_summary": "Micron Technology alcanza un valor de $1 billón, Trump y Wall Street apoyan al gigante de los chips.",
-      "why_memeable": "La combinación de un valor récord en el mercado de valores con la participación de figuras políticas y financieras prominentes como Trump y Wall Street.",
-      "category": "finanzas y tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "MICRON",
-        "TRUMPCHIPS",
-        "WALLSTREETBOOM",
-        "CHIPTECH",
-        "BILLIONDOLLARCLUB"
-      ],
-      "key_terms_for_dex_search": [
-        "Micron",
-        "Trump",
-        "Wall Street",
-        "chip tecnología",
-        "billón de dólares"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 7
-      },
-      "started_at": "2026-05-26T15:59:32.913314+00:00",
-      "expires_at": "2026-05-29T15:59:32.913314+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 101745.0,
-        "liquidity_usd": 24809.04,
-        "price_usd": 0.0001017,
-        "volume_h24": 190715.27,
-        "volume_h1": 13454.44,
-        "volume_m5": 1421.72,
-        "price_change_5m": 14.42,
-        "price_change_1h": 4.17,
-        "price_change_24h": 1230.0,
-        "txns_h1_buys": 116,
-        "txns_h1_sells": 82,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Micron Stock Hits $1 Trillion. Trump and Wall Street Unite Behind the Chip Titan. - Barron's",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 16,
-      "matched_at": "2026-05-28T22:29:45.104768+00:00"
-    },
-    {
-      "id": "52b3420c9ad6",
-      "fingerprint": "52b3420c9ad6",
-      "narrative_summary": "Muere Kyle Busch después de luchar contra neumonía y sepsis, según su familia",
-      "why_memeable": "La muerte de un famoso deportista después de una enfermedad breve y misteriosa es un tema interesante y fácil de compartir",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KYLEBUSCH",
-        "NEUMONIA",
-        "SEPSIS"
-      ],
-      "key_terms_for_dex_search": [
-        "Kyle Busch",
-        "neumonía",
-        "sepsis",
-        "muerte"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 4,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-05-26T15:59:48.975393+00:00",
-      "expires_at": "2026-05-28T15:59:48.975393+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-05-28T17:48:18.385537+00:00"
-    },
-    {
-      "id": "652ef9f626ce",
-      "fingerprint": "652ef9f626ce",
-      "narrative_summary": "Elon Musk confirma que algo es cierto, pero no dice qué.",
-      "why_memeable": "La simplicidad y claridad de la afirmación 'True' lo hace perfecto para ser un meme.",
-      "category": "Noticias de tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONTRUTH",
-        "MUSKTURE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "meme"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-26T16:00:28.361778+00:00",
-      "expires_at": "2026-05-28T16:00:28.361778+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MEME",
-        "name": "memestock",
-        "mint": "bkJaJVZbry13acp171VApiM7oh29uUFueuurSTrmeme",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 33754.0,
-        "liquidity_usd": 13685.88,
-        "price_usd": 3.375e-05,
-        "volume_h24": 269208.23,
-        "volume_h1": 40516.97,
-        "volume_m5": 2343.04,
-        "price_change_5m": 2.58,
-        "price_change_1h": -59.41,
-        "price_change_24h": -5.6,
-        "txns_h1_buys": 481,
-        "txns_h1_sells": 248,
-        "created_ts": 1779811304000,
-        "pair_created_at": 1779811304000,
-        "url": "https://dexscreener.com/solana/8emgstkkz2tizuxzdv1cqnntb1s2cz87h8aqyyzh9vb7",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MEME in MEMESTOCK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-05-26T18:41:13.184508+00:00"
-    },
-    {
       "id": "a59d0a8384ca",
       "fingerprint": "a59d0a8384ca",
       "narrative_summary": "Elon Musk compara Chicago con una zona de guerra",
@@ -10919,13 +10718,14 @@
       "started_at": "2026-06-04T01:51:37.966724+00:00",
       "expires_at": "2026-06-06T01:51:37.966724+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Fact: he died of 11ng/ml Fentanyl.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-06T04:07:56.527524+00:00"
     },
     {
       "id": "ea7f5860c014",
@@ -11055,7 +10855,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "42c2e2177e4f",
@@ -11457,7 +11257,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "32645234d7a4",
@@ -11646,7 +11446,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "76ee34e5e34a",
@@ -11691,7 +11491,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "473a80eca071",
@@ -11737,7 +11537,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cf714b416dc2",
@@ -11868,7 +11668,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "051b91a7176d",
@@ -11918,7 +11718,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "638dc0a53df0",
@@ -11964,7 +11764,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "475ddcfcdf5e",
@@ -12009,7 +11809,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "022f4c0abe46",
@@ -12357,7 +12157,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b4d649fe1b5d",
@@ -12628,7 +12428,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7774078c5fbe",
@@ -12671,8 +12471,300 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "f54105f27aff",
+      "fingerprint": "f54105f27aff",
+      "narrative_summary": "Trump y Musk en medio de una disputa con acusaciones sobre archivos de Epstein",
+      "why_memeable": "La disputa entre figuras públicas conocidas y las acusaciones sensacionales ofrecen un alto potencial de viralidad",
+      "category": "Política y celebridades",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "TRUMPMUSK",
+        "EPSTEINGATE",
+        "TRUMPFEUD",
+        "MUSKTRUMP",
+        "TWITTERWARS"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Epstein",
+        "Twitter",
+        "Disputa"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T04:07:59.179182+00:00",
+      "expires_at": "2026-06-09T04:07:59.179182+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "*TRUMP: WOULDN'T MIND IF WARSH CUT INTEREST RATE",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "50ca5a9409e2",
+      "fingerprint": "50ca5a9409e2",
+      "narrative_summary": "Estados Unidos y Irán intercambian ataques en el Golfo en la última prueba del cese al fuego",
+      "why_memeable": "La narrativa tiene un claro núcleo memeable (ceasefire, ataques, Golfo) y un contexto culturalmente resonante (conflicto entre Estados Unidos e Irán)",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "GOLFO",
+        "CESEFUEGO",
+        "ATAQUES"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "GOLFO",
+        "CESEFUEGO",
+        "ATAQUES"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T04:08:22.073572+00:00",
+      "expires_at": "2026-06-08T04:08:22.073572+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "Pbgr3A3fp4mRsQjVr5KQRNkYMSkYG3Uih6yfg1okv7W",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 184056.0,
+        "liquidity_usd": 103342.05,
+        "price_usd": 0.000184,
+        "volume_h24": 2368294.45,
+        "volume_h1": 1476820.6,
+        "volume_m5": 110328.29,
+        "price_change_5m": 5.34,
+        "price_change_1h": 100.0,
+        "price_change_24h": 1156.0,
+        "txns_h1_buys": 5345,
+        "txns_h1_sells": 5242,
+        "created_ts": 1780713488000,
+        "pair_created_at": 1780713488000,
+        "url": "https://dexscreener.com/solana/4qwtgztmbj17pczqtzda1mflcudvtksh2pt9urwuwmsz",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "US and Iran exchange strikes in Gulf in latest test of ceasefire - BBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T04:12:32.728114+00:00"
+    },
+    {
+      "id": "cfca49fa36f5",
+      "fingerprint": "cfca49fa36f5",
+      "narrative_summary": "Elon Musk se pregunta si ha habido alguna vez un momento en el que no haya habido una crisis o un problema",
+      "why_memeable": "La frase 'Can’t think of a single time this happened' es muy fácil de recordar y compartir",
+      "category": "Tecnología y Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "CANT",
+        "THINK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "crisis",
+        "problema"
+      ],
+      "score": 85,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 3,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-06T04:11:32.176730+00:00",
+      "expires_at": "2026-06-08T04:11:32.176730+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "XAnimals",
+        "name": "Animals In Crisis",
+        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 20001.0,
+        "liquidity_usd": 11035.58,
+        "price_usd": 2e-05,
+        "volume_h24": 5873.05,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -0.3,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1778026313000,
+        "pair_created_at": 1778026313000,
+        "url": "https://dexscreener.com/solana/3ffvlyerpnrav7gax4qnyd3bu9txrnzodd1jhbscxxi6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CRISIS in ANIMALS IN CRISIS",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "🤔",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T04:12:35.152983+00:00"
+    },
+    {
+      "id": "15d87d98b937",
+      "fingerprint": "15d87d98b937",
+      "narrative_summary": "Elon Musk conecta escuelas en Bolivia con Starlink",
+      "why_memeable": "Frase corta y memorable, con figura pública notable (Elon Musk) y tema tecnológico innovador (Starlink)",
+      "category": "Tecnología/Innovación",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "STARLINK",
+        "BOLIVIACONNECTS"
+      ],
+      "key_terms_for_dex_search": [
+        "Starlink",
+        "Bolivia",
+        "Elon Musk",
+        "educación"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-06T04:11:52.927513+00:00",
+      "expires_at": "2026-06-09T04:11:52.927513+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Starlink",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "61d4793e7e57",
+      "fingerprint": "61d4793e7e57",
+      "narrative_summary": "Elon Musk responde con un simple 'sí' a una pregunta en Twitter, generando un gran interés y debate.",
+      "why_memeable": "La respuesta simple y directa de Elon Musk es fácil de capturar y compartir, lo que la hace muy memeable.",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YESMUSK",
+        "ELONYES"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "yes",
+        "twitter"
+      ],
+      "score": 86,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-06T04:12:14.509389+00:00",
+      "expires_at": "2026-06-07T04:12:14.509389+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-05T23:58:48.334615+00:00"
+  "last_updated": "2026-06-06T04:12:35.153001+00:00"
 }
