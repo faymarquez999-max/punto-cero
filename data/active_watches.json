@@ -1,322 +1,6 @@
 {
   "watches": [
     {
-      "id": "00da859f166c",
-      "fingerprint": "00da859f166c",
-      "narrative_summary": "Hamas confirma la muerte de su líder militar en Gaza, Mohammed Odeh, después de un ataque israelí.",
-      "why_memeable": "La narrativa es fácil de entender y tiene un claro conflicto entre Hamas e Israel.",
-      "category": "conflicto bélico",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HAMAS",
-        "MOHAMMED ODEH",
-        "GAZA",
-        "ISRAEL"
-      ],
-      "key_terms_for_dex_search": [
-        "Hamas",
-        "Mohammed Odeh",
-        "Gaza",
-        "Israel",
-        "ataque",
-        "conflicto bélico"
-      ],
-      "score": 78,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-27T19:53:44.999889+00:00",
-      "expires_at": "2026-05-29T19:53:44.999889+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FCKISRL$",
-        "name": "Fuck Israel.®",
-        "mint": "3u4Vf3wLyAKRmnQjZk1TPqefR6vP7K6XUJhZsJ9b5sUf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 153156.0,
-        "liquidity_usd": 21589.59,
-        "price_usd": 0.0001531,
-        "volume_h24": 670116.25,
-        "volume_h1": 670116.25,
-        "volume_m5": 31730.72,
-        "price_change_5m": 26.79,
-        "price_change_1h": 2111.0,
-        "price_change_24h": 2111.0,
-        "txns_h1_buys": 4339,
-        "txns_h1_sells": 2668,
-        "created_ts": 1779975694000,
-        "pair_created_at": 1779975694000,
-        "url": "https://dexscreener.com/solana/3jhiqwwjh8fdidufzg5cv4t9kwy5ff29vyyinkmsqa6k",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISRAEL in FUCK ISRAEL.®",
-        "safety_score": 30356,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "HAMAS CONFIRMS DEATH OF SENIOR COMMANDER IN GAZA MOHAMMAD ODEH - STATEMENT",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-05-28T14:18:03.691998+00:00"
-    },
-    {
-      "id": "e661d6aa8dcc",
-      "fingerprint": "e661d6aa8dcc",
-      "narrative_summary": "Trump y Elon Musk se pelean en Twitter sobre el Abraham Accords",
-      "why_memeable": "La pelea entre Trump y Elon Musk es un tema de interés público y tiene un gran potencial para ser viralizado debido a la personalidad de ambos y la naturaleza de su disputa.",
-      "category": "política",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVSMUSK",
-        "ABRAHAMACCORDS",
-        "TRUMPVSELON"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Elon Musk",
-        "Abraham Accords",
-        "Twitter",
-        "política"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 7
-      },
-      "started_at": "2026-05-27T19:55:31.948670+00:00",
-      "expires_at": "2026-05-29T19:55:31.948670+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 101745.0,
-        "liquidity_usd": 24809.04,
-        "price_usd": 0.0001017,
-        "volume_h24": 190715.27,
-        "volume_h1": 13454.44,
-        "volume_m5": 1421.72,
-        "price_change_5m": 14.42,
-        "price_change_1h": 4.17,
-        "price_change_24h": 1230.0,
-        "txns_h1_buys": 116,
-        "txns_h1_sells": 82,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Join the Abraham Accords? US allies scoff at Trump’s demand. - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "matched_at": "2026-05-28T22:29:56.146284+00:00"
-    },
-    {
-      "id": "480b83fd16f6",
-      "fingerprint": "480b83fd16f6",
-      "narrative_summary": "Un búfalo llamado Donald Trump ha sido perdonado de ser sacrificado en Bangladesh debido a su fama viral.",
-      "why_memeable": "La combinación de un animal llamado Donald Trump y la idea de que su fama puede salvarlo de ser sacrificado es una fórmula para crear un meme memorable.",
-      "category": "Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPBUFFALO",
-        "FAMASALVA",
-        "BÚFALOTRUMP"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "búfalo",
-        "fama",
-        "viral",
-        "Bangladesh",
-        "sacrificio"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-27T19:56:09.439770+00:00",
-      "expires_at": "2026-05-29T19:56:09.439770+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 101745.0,
-        "liquidity_usd": 24809.04,
-        "price_usd": 0.0001017,
-        "volume_h24": 190715.27,
-        "volume_h1": 13454.44,
-        "volume_m5": 1421.72,
-        "price_change_5m": 14.42,
-        "price_change_1h": 4.17,
-        "price_change_24h": 1230.0,
-        "txns_h1_buys": 116,
-        "txns_h1_sells": 82,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "matched_at": "2026-05-28T22:29:57.603119+00:00"
-    },
-    {
-      "id": "d2d153207689",
-      "fingerprint": "d2d153207689",
-      "narrative_summary": "El escritor de Los Simpson afirma que 'es el día del juicio final' en una extraña campaña presidencial.",
-      "why_memeable": "La narrativa tiene un título extraño y una afirmación inesperada que puede ser capturada en una frase.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SIMPSONSWRITER",
-        "JUDGEMENTDAY",
-        "BOLSONARO"
-      ],
-      "key_terms_for_dex_search": [
-        "Simpsons",
-        "Los Simpson",
-        "Bolsonaro",
-        "presidencial",
-        "campaña",
-        "judicio final"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-27T19:57:14.724305+00:00",
-      "expires_at": "2026-05-29T19:57:14.724305+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-05-30T04:14:26.565010+00:00"
-    },
-    {
       "id": "1ffe9ca4413e",
       "fingerprint": "1ffe9ca4413e",
       "narrative_summary": "Elon Musk publica un 'Wow' con mucha interacción en Twitter.",
@@ -9964,7 +9648,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "76ee34e5e34a",
@@ -10009,7 +9693,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "473a80eca071",
@@ -10055,7 +9739,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "cf714b416dc2",
@@ -10186,7 +9870,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "051b91a7176d",
@@ -10236,7 +9920,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "638dc0a53df0",
@@ -10282,7 +9966,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "475ddcfcdf5e",
@@ -10327,7 +10011,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "022f4c0abe46",
@@ -10675,7 +10359,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b4d649fe1b5d",
@@ -10946,7 +10630,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7774078c5fbe",
@@ -11086,7 +10770,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "50ca5a9409e2",
@@ -11380,7 +11064,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "259ea91591be",
@@ -11659,7 +11343,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "80d71c305f5f",
@@ -11701,7 +11385,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ef40f061e30a",
@@ -11749,7 +11433,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "340ff5460d79",
@@ -11796,7 +11480,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0c3022e4f20d",
@@ -11842,7 +11526,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "89cb93f3c937",
@@ -11887,7 +11571,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8aab77968683",
@@ -12006,7 +11690,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6b4b9aeb9678",
@@ -12049,7 +11733,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "18d4eed86613",
@@ -12177,7 +11861,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5ceb3346e6bc",
@@ -12215,14 +11899,46 @@
       "started_at": "2026-06-06T12:49:14.804197+00:00",
       "expires_at": "2026-06-08T12:49:14.804197+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CBL",
+        "name": "Caballo",
+        "mint": "HENbwYB9roXganed9MFXm9kQ9YnhMb1cTHxeg44gpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14582.0,
+        "liquidity_usd": 8025.79,
+        "price_usd": 1.458e-05,
+        "volume_h24": 64673.21,
+        "volume_h1": 18218.85,
+        "volume_m5": 289.39,
+        "price_change_5m": -5.75,
+        "price_change_1h": 26.58,
+        "price_change_24h": 22.11,
+        "txns_h1_buys": 227,
+        "txns_h1_sells": 194,
+        "created_ts": 1780628066000,
+        "pair_created_at": 1780628066000,
+        "url": "https://dexscreener.com/solana/j5j1wjqftsq4wlqsocvdudt6nccn2xgmyhxrs4cyex2",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CABALLO in CABALLO",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Horse killed, Vermont driver uninjured after vehicle collides with escaped animal Friday night - Yahoo News Canada",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-06-06T21:45:59.291935+00:00"
     },
     {
       "id": "c86afd52ae09",
@@ -12268,7 +11984,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c2edbbc09e3b",
@@ -12390,7 +12106,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "683998e4aed5",
@@ -12432,7 +12148,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2ba6cc457ca6",
@@ -12483,7 +12199,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "168ae4542bfc",
@@ -12530,7 +12246,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "483e1fc0c48c",
@@ -12578,7 +12294,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7e0fc7c859fc",
@@ -12622,7 +12338,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e99c5317e756",
@@ -12661,14 +12377,66 @@
       "started_at": "2026-06-06T20:21:46.350865+00:00",
       "expires_at": "2026-06-09T20:21:46.350865+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "The Iranian Revolution",
+        "mint": "BBUgRLDWCCHfw57jUSXHSdNDxo46k8CGQo2yHitGTTXR",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 42229.0,
+        "liquidity_usd": 10531.71,
+        "price_usd": 4.222e-05,
+        "volume_h24": 82778.93,
+        "volume_h1": 82778.93,
+        "volume_m5": 8938.73,
+        "price_change_5m": 6.42,
+        "price_change_1h": 1093.0,
+        "price_change_24h": 1093.0,
+        "txns_h1_buys": 715,
+        "txns_h1_sells": 704,
+        "created_ts": 1780779547000,
+        "pair_created_at": 1780779547000,
+        "url": "https://dexscreener.com/solana/cmthwrcehqfxdxvexcrqirnevoxv7kam4xesugsmzzw9",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 29485,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T21:46:07.109230+00:00"
     },
     {
       "id": "d3c99739db5d",
@@ -12707,15 +12475,230 @@
       "started_at": "2026-06-06T20:23:37.735388+00:00",
       "expires_at": "2026-06-09T20:23:37.735388+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Cockroach",
+        "name": "Multicycle Cockroach🪳",
+        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14513.0,
+        "liquidity_usd": 12149.59,
+        "price_usd": 1.451e-05,
+        "volume_h24": 8234.56,
+        "volume_h1": 491.45,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 9.4,
+        "price_change_24h": -23.66,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 0,
+        "created_ts": 1780410740000,
+        "pair_created_at": 1780410740000,
+        "url": "https://dexscreener.com/solana/7lddaadyj9ocbitckzeo2hzwvdvrtstcaywsa68dggqh",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: COCKROACH in MULTICYCLE COCKROACH🪳",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T21:46:09.116812+00:00"
+    },
+    {
+      "id": "83019ce863f9",
+      "fingerprint": "83019ce863f9",
+      "narrative_summary": "Un miembro de una banda de agresión sexual infantil en Rochdale recibe solo 4 años de prisión por arrojar una concha de tráfico, en comparación con 3-5 años para una ofensa similar.",
+      "why_memeable": "La narrativa tiene un alto contenido emocional, es fácil de entender y tiene un impacto cultural significativo.",
+      "category": "justicia y penalización",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ROCHDALERAPE",
+        "INJUSTICIAROCHDALE",
+        "CONCHADETRAFFICO"
+      ],
+      "key_terms_for_dex_search": [
+        "Rochdale",
+        "agresión sexual infantil",
+        "concha de tráfico",
+        "injusticia"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T21:41:07.382456+00:00",
+      "expires_at": "2026-06-09T21:41:07.382456+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "3-5 years for a throwing a traffic cone is wild when Hamid Safi, a Rochdale child rape gang member, only received 4 years.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "bcc42c513f36",
+      "fingerprint": "bcc42c513f36",
+      "narrative_summary": "El Pentágono eleva el nivel de amenaza de espionaje de Israel a 'crítico'",
+      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre potencias y un elemento de sorpresa. La frase 'Pentágono eleva el nivel de amenaza de espionaje de Israel a 'crítico'' es fácil de recordar y compartir.",
+      "category": "Política/Conflictos internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAELSPY",
+        "PENTAGONALERT",
+        "ESPIONAJEISRAEL"
+      ],
+      "key_terms_for_dex_search": [
+        "Pentágono",
+        "Israel",
+        "espionaje",
+        "amenaza",
+        "conflicto"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T21:41:33.928566+00:00",
+      "expires_at": "2026-06-08T21:41:33.928566+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "93410bc2091c",
+      "fingerprint": "93410bc2091c",
+      "narrative_summary": "La joven rusa Mirra Andreeva gana el French Open superando sus 'demones internos'.",
+      "why_memeable": "La narrativa tiene un núcleo fácil de capturar en una frase ('demones internos') y un título memorable.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MIRRAWINS",
+        "DEMONESINTERNOS",
+        "FRENCHOPEN"
+      ],
+      "key_terms_for_dex_search": [
+        "MirraAndreeva",
+        "FrenchOpen",
+        "demonesinternos"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T21:43:18.215237+00:00",
+      "expires_at": "2026-06-08T21:43:18.215237+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russian teen Mirra Andreeva says she had to overcome so many demons inside to win the French Open - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "5c5d9aa81079",
+      "fingerprint": "5c5d9aa81079",
+      "narrative_summary": "Un movimiento de protesta de Gen Z en la capital de la India, liderado por el lema 'Soy un cucaracha', demanda la renuncia del ministro de educación.",
+      "why_memeable": "El lema 'Soy un cucaracha' es fácil de recordar y se puede capturar en una imagen o una frase.",
+      "category": "protesta social",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CUCARACHA",
+        "GENZINDIA",
+        "PROTESTASOCIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "protesta",
+        "genz",
+        "educación",
+        "ministro",
+        "renuncia"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 5
+      },
+      "started_at": "2026-06-06T21:43:51.814576+00:00",
+      "expires_at": "2026-06-09T21:43:51.814576+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-06T20:23:37.735388+00:00"
+  "last_updated": "2026-06-06T21:46:09.116832+00:00"
 }
