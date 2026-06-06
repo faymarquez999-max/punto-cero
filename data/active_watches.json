@@ -1,148 +1,6 @@
 {
   "watches": [
     {
-      "id": "b1e33287f917",
-      "fingerprint": "b1e33287f917",
-      "narrative_summary": "Implosión de un tanque químico en un molino de papel en Washington, dejando 9 personas desaparecidas.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un impacto emocional.",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IMPLOSION",
-        "TANQUEQUIMICO",
-        "MOLINO",
-        "DESAPARECIDOS"
-      ],
-      "key_terms_for_dex_search": [
-        "implosión",
-        "tanque químico",
-        "molino de papel",
-        "desaparecidos"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 2,
-        "absurdity": 0,
-        "simplicity": 9,
-        "velocity": 5
-      },
-      "started_at": "2026-05-27T17:39:34.373156+00:00",
-      "expires_at": "2026-05-29T17:39:34.373156+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Hope fades for nine missing after paper mill tank implosion in Washington state - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-05-29T18:43:15.576957+00:00"
-    },
-    {
-      "id": "d781aee33fb5",
-      "fingerprint": "d781aee33fb5",
-      "narrative_summary": "El escritor de Los Simpsons afirma que 'es el día del juicio' en una extraña campaña presidencial.",
-      "why_memeable": "La narrativa es memeable porque combina elementos de la cultura popular (Los Simpsons) con una noticia política sorprendente.",
-      "category": "política",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "BOLSONARO",
-        "SIMPSONS",
-        "JUDGEMENTDAY"
-      ],
-      "key_terms_for_dex_search": [
-        "Bolsonaro",
-        "Simpsons",
-        "JudgementDay",
-        "política",
-        "noticias",
-        "extraño"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-27T17:40:08.358524+00:00",
-      "expires_at": "2026-05-29T17:40:08.358524+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-05-29T18:43:15.576959+00:00"
-    },
-    {
-      "id": "64ee3e27701c",
-      "fingerprint": "64ee3e27701c",
-      "narrative_summary": "Fallecimiento de Kyle Busch después de una enfermedad grave que se convirtió en sepsis, según su familia.",
-      "why_memeable": "El núcleo de la narrativa es la muerte repentina de un famoso deportista, lo que puede ser capturado en una frase corta y compartirse fácilmente.",
-      "category": "Deportes/Entretenimiento",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "KYLEBUSCH",
-        "SEPSIS",
-        "MUERTEREPENTINA"
-      ],
-      "key_terms_for_dex_search": [
-        "KyleBusch",
-        "Sepsis",
-        "MuerteRepentina",
-        "Deportes",
-        "Entretenimiento"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 7
-      },
-      "started_at": "2026-05-27T17:40:48.021134+00:00",
-      "expires_at": "2026-05-30T17:40:48.021134+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 18,
-      "expired_at": "2026-05-30T18:44:08.746984+00:00"
-    },
-    {
       "id": "00da859f166c",
       "fingerprint": "00da859f166c",
       "narrative_summary": "Hamas confirma la muerte de su líder militar en Gaza, Mohammed Odeh, después de un ataque israelí.",
@@ -12721,7 +12579,143 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "7e0fc7c859fc",
+      "fingerprint": "7e0fc7c859fc",
+      "narrative_summary": "Meta está considerando una oferta pública de acciones secundarias valorada en $115 mil millones.",
+      "why_memeable": "La narrativa tiene un título atractivo y un valor económico significativo que puede ser compartido fácilmente.",
+      "category": "Noticias financieras",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "META",
+        "$META"
+      ],
+      "key_terms_for_dex_search": [
+        "Meta",
+        "$META",
+        "oferta pública de acciones secundarias",
+        "valores económicos"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 0,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T20:19:54.321461+00:00",
+      "expires_at": "2026-06-08T20:19:54.321461+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e99c5317e756",
+      "fingerprint": "e99c5317e756",
+      "narrative_summary": "EE. UU. intercepta drones iraníes dirigidos a Baréin y Kuwait, y retalia atacando sitios de radar",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y hay una gran cantidad de fuentes que la están compartiendo.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "EEUU",
+        "DRONES"
+      ],
+      "key_terms_for_dex_search": [
+        "iran",
+        "eeuu",
+        "drones",
+        "baréin",
+        "kuwait"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T20:21:46.350865+00:00",
+      "expires_at": "2026-06-09T20:21:46.350865+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d3c99739db5d",
+      "fingerprint": "d3c99739db5d",
+      "narrative_summary": "Un movimiento de protesta viral entre la generación Z atrae a miles a la capital de la India",
+      "why_memeable": "La narrativa tiene un título atractivo y un movimiento de protesta que puede ser compartido fácilmente",
+      "category": "protestas y movimientos sociales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GENZINDIA",
+        "COCKROACHMOVEMENT",
+        "INDIAPROTEST"
+      ],
+      "key_terms_for_dex_search": [
+        "GenZ",
+        "India",
+        "protesta",
+        "movimiento",
+        "Cockroach"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T20:23:37.735388+00:00",
+      "expires_at": "2026-06-09T20:23:37.735388+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital - The New York Times",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-06T17:44:13.095336+00:00"
+  "last_updated": "2026-06-06T20:23:37.735388+00:00"
 }

@@ -7845,6 +7845,105 @@
           "EDUCACIÓN"
         ]
       }
+    },
+    {
+      "ts": "2026-06-06T20:19:54.710151+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7e0fc7c859fc",
+        "score": 89,
+        "category": "Noticias financieras",
+        "title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
+        "candidate_tickers": [
+          "META",
+          "$META"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-06T20:21:08.270695+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "noticias",
+        "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters",
+        "candidate_tickers": [
+          "Screwworm",
+          "BeefBoom",
+          "MexicoMeat",
+          "TexasTroubles"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-06T20:21:46.698388+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e99c5317e756",
+        "score": 80,
+        "category": "política internacional",
+        "title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "DRONES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-06T20:23:38.126674+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d3c99739db5d",
+        "score": 89,
+        "category": "protestas y movimientos sociales",
+        "title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital - The New York Times",
+        "candidate_tickers": [
+          "GENZINDIA",
+          "COCKROACHMOVEMENT",
+          "INDIAPROTEST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-06T20:24:41.199948+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "340ff5460d79",
+        "ticker": "ISRAEL",
+        "mint": "53yRCUQQseABS4P4jY8sX7DPnkNVTWpfGD5jhw79v1jt",
+        "mc": 103005.0
+      }
+    },
+    {
+      "ts": "2026-06-06T20:24:45.900340+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5ceb3346e6bc",
+        "ticker": "CBL",
+        "mint": "HENbwYB9roXganed9MFXm9kQ9YnhMb1cTHxeg44gpump",
+        "mc": 29693.0
+      }
+    },
+    {
+      "ts": "2026-06-06T20:24:49.179927+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2ba6cc457ca6",
+        "ticker": "SpaceX",
+        "mint": "AQZiqxCJ5sgihKX7dX7G4SxaHBJopGnaEi15uQt9Afmm",
+        "mc": 106134.0
+      }
+    },
+    {
+      "ts": "2026-06-06T20:24:53.489307+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e99c5317e756",
+        "ticker": "IRAN",
+        "mint": "BwMQLyqzB7XwvmEmYhXGhEygph356GukQhBSbaaGQSjZ",
+        "mc": 239018.0
+      }
     }
   ]
 }
