@@ -1,249 +1,6 @@
 {
   "watches": [
     {
-      "id": "1ffe9ca4413e",
-      "fingerprint": "1ffe9ca4413e",
-      "narrative_summary": "Elon Musk publica un 'Wow' con mucha interacción en Twitter.",
-      "why_memeable": "La simplicidad y la sorpresa de la publicación de Elon Musk.",
-      "category": "Celebridad/Politica",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "wow"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 2,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-27T19:57:28.558828+00:00",
-      "expires_at": "2026-05-29T19:57:28.558828+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 413444.0,
-        "liquidity_usd": 113249.78,
-        "price_usd": 0.0004135,
-        "volume_h24": 35713.09,
-        "volume_h1": 44.62,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.17,
-        "price_change_24h": 2.76,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-27T19:58:15.917394+00:00"
-    },
-    {
-      "id": "692f07e8be17",
-      "fingerprint": "692f07e8be17",
-      "narrative_summary": "Un búfalo llamado 'Donald Trump' en Bangladesh es salvado de la matanza de Eid debido a su fama viral.",
-      "why_memeable": "La combinación de un animal con un nombre famoso y una situación absurda hace que sea fácilmente compartible y recordable.",
-      "category": "Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPBUFFALO",
-        "FAMAVIRALSALVA",
-        "EIDSACRIFICE"
-      ],
-      "key_terms_for_dex_search": [
-        "bangladesh",
-        "buffalo",
-        "donald",
-        "eid",
-        "fame",
-        "viral",
-        "sacrifice"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-27T22:05:56.456169+00:00",
-      "expires_at": "2026-05-29T22:05:56.456169+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "DONALD",
-        "name": "Donald Trump The Albino Buffalo",
-        "mint": "4GHUJWpu5q6NGTNGbLiKFdVPnYh3hbVYHDTc6HK9pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 22823.0,
-        "liquidity_usd": 11626.18,
-        "price_usd": 2.282e-05,
-        "volume_h24": 184040.28,
-        "volume_h1": 1366.9,
-        "volume_m5": 12.51,
-        "price_change_5m": 0.4,
-        "price_change_1h": 10.53,
-        "price_change_24h": -34.39,
-        "txns_h1_buys": 1024,
-        "txns_h1_sells": 341,
-        "created_ts": 1779908253000,
-        "pair_created_at": 1779908253000,
-        "url": "https://dexscreener.com/solana/6be7wudfpank6rhbvnyze37pbs99ytq92fkjcvdw4za1",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: BUFFALO in DONALD TRUMP THE ALBINO BUFFAL",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-05-28T01:33:56.380431+00:00"
-    },
-    {
-      "id": "a13fdc0a6e95",
-      "fingerprint": "a13fdc0a6e95",
-      "narrative_summary": "Kyle Busch, piloto de NASCAR, falleció debido a una enfermedad severa que progresa en sepsis, según su familia.",
-      "why_memeable": "La muerte de un famoso piloto de NASCAR, junto con la narrativa de su enfermedad y la reacción de su familia, es un tema fácilmente compartible y recordable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KYLEBUSCH",
-        "NASCAR",
-        "SEPSIS",
-        "MUERTE"
-      ],
-      "key_terms_for_dex_search": [
-        "Kyle Busch",
-        "NASCAR",
-        "Sepsis",
-        "Muerte"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-27T22:06:16.040852+00:00",
-      "expires_at": "2026-05-29T22:06:16.040852+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-05-30T04:14:26.565014+00:00"
-    },
-    {
-      "id": "c166cdc61ef9",
-      "fingerprint": "c166cdc61ef9",
-      "narrative_summary": "El escritor de Los Simpson afirma que 'es el día del juicio' en una extraña campaña presidencial.",
-      "why_memeable": "La campaña presidencial de Flavio Bolsonaro es extraña y genera interés.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BOLSONARO",
-        "SIMPSONS",
-        "JUICIO"
-      ],
-      "key_terms_for_dex_search": [
-        "Bolsonaro",
-        "Simpsons",
-        "Juicio",
-        "Presidencia"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-27T22:06:48.576062+00:00",
-      "expires_at": "2026-05-29T22:06:48.576062+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-05-30T04:14:26.565017+00:00"
-    },
-    {
       "id": "b4b03c880296",
       "fingerprint": "b4b03c880296",
       "narrative_summary": "Trump y Elon Musk intercambian insultos y acusaciones en una pelea pública que alcanza nuevos niveles",
@@ -12698,7 +12455,187 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "5bbf595034fe",
+      "fingerprint": "5bbf595034fe",
+      "narrative_summary": "El secretario de Defensa de EE. UU., Hegseth, ataca a Europa por la 'invasión' de migrantes en su discurso del Día D.",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, y el lenguaje utilizado es emotivo y polarizante.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HEGSETH",
+        "DÍA D",
+        "INVASIÓN",
+        "MIGRANTES"
+      ],
+      "key_terms_for_dex_search": [
+        "Hegseth",
+        "Día D",
+        "invasión",
+        "migrantes",
+        "EE. UU.",
+        "Europa"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T22:48:44.858445+00:00",
+      "expires_at": "2026-06-08T22:48:44.858445+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "36d50157af45",
+      "fingerprint": "36d50157af45",
+      "narrative_summary": "Un movimiento de protesta de Gen Z en la capital de la India, liderado por el lema 'Soy una cucaracha', demanda la renuncia del ministro de educación.",
+      "why_memeable": "La narrativa tiene un lema memorable y una imagen icónica, lo que la hace fácil de compartir y recordar.",
+      "category": "protesta social",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CUCARACHAGENZ",
+        "PROTESTAINDIA",
+        "CUCARACHASOCIEDAD"
+      ],
+      "key_terms_for_dex_search": [
+        "cucaracha",
+        "gen z",
+        "protesta",
+        "india",
+        "educación"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T22:49:53.928533+00:00",
+      "expires_at": "2026-06-09T22:49:53.928533+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c78e7217b2c5",
+      "fingerprint": "c78e7217b2c5",
+      "narrative_summary": "Elon Musk afirma que la humanidad está desapareciendo, según un artículo en el WSJ.",
+      "why_memeable": "La afirmación de Elon Musk es un ejemplo de absurdidad y tiene un alto potencial de ser compartido.",
+      "category": "Tecnología y salud",
+      "matched_archetype": "prophet_of_doom_warning",
+      "candidate_tickers": [
+        "HUMDIS",
+        "DISAPEAR",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "humanity disappearing",
+        "wsj"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T22:50:37.116722+00:00",
+      "expires_at": "2026-06-08T22:50:37.116722+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Humanity is disappearing 😔 wsj.com/health/wellness/us-f…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "228809c5d05d",
+      "fingerprint": "228809c5d05d",
+      "narrative_summary": "Elon Musk comparte una declaración de injusticia en Twitter",
+      "why_memeable": "La frase 'Such injustice!' es corta y fácil de compartir, y tiene un alto potencial de ser reutilizada",
+      "category": "Política y sociedad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SJW",
+        "SUCHINJUSTICE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "injustice",
+        "Twitter"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T22:52:33.791277+00:00",
+      "expires_at": "2026-06-08T22:52:33.791277+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Such injustice!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-06T21:46:09.116832+00:00"
+  "last_updated": "2026-06-06T22:52:33.791277+00:00"
 }
