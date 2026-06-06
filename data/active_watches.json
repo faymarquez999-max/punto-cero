@@ -10047,7 +10047,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "32645234d7a4",
@@ -10236,7 +10236,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "76ee34e5e34a",
@@ -10281,7 +10281,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "473a80eca071",
@@ -10327,7 +10327,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "cf714b416dc2",
@@ -10458,7 +10458,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "051b91a7176d",
@@ -10508,7 +10508,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "638dc0a53df0",
@@ -10554,7 +10554,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "475ddcfcdf5e",
@@ -10599,7 +10599,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "022f4c0abe46",
@@ -10947,7 +10947,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b4d649fe1b5d",
@@ -11218,7 +11218,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7774078c5fbe",
@@ -11261,7 +11261,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f54105f27aff",
@@ -11311,7 +11311,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "50ca5a9409e2",
@@ -11605,7 +11605,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "259ea91591be",
@@ -11884,7 +11884,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "80d71c305f5f",
@@ -11926,7 +11926,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ef40f061e30a",
@@ -11974,7 +11974,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "340ff5460d79",
@@ -12021,7 +12021,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0c3022e4f20d",
@@ -12067,7 +12067,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "89cb93f3c937",
@@ -12112,7 +12112,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8aab77968683",
@@ -12231,7 +12231,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6b4b9aeb9678",
@@ -12274,7 +12274,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "18d4eed86613",
@@ -12402,7 +12402,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5ceb3346e6bc",
@@ -12447,7 +12447,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c86afd52ae09",
@@ -12493,7 +12493,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c2edbbc09e3b",
@@ -12531,14 +12531,46 @@
       "started_at": "2026-06-06T12:51:40.508994+00:00",
       "expires_at": "2026-06-09T12:51:40.508994+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Cockroach",
+        "name": "Multicycle Cockroach🪳",
+        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13385.0,
+        "liquidity_usd": 11658.34,
+        "price_usd": 1.338e-05,
+        "volume_h24": 16082.0,
+        "volume_h1": 445.26,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -7.09,
+        "price_change_24h": -52.08,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 9,
+        "created_ts": 1780410740000,
+        "pair_created_at": 1780410740000,
+        "url": "https://dexscreener.com/solana/7lddaadyj9ocbitckzeo2hzwvdvrtstcaywsa68dggqh",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: COCKROACH==COCKROACH",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T14:55:18.216592+00:00"
     },
     {
       "id": "9f5b31aab29e",
@@ -12583,7 +12615,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "683998e4aed5",
@@ -12625,8 +12657,8 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-06T12:53:36.414782+00:00"
+  "last_updated": "2026-06-06T14:55:18.216611+00:00"
 }
