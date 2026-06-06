@@ -1,276 +1,6 @@
 {
   "watches": [
     {
-      "id": "a59d0a8384ca",
-      "fingerprint": "a59d0a8384ca",
-      "narrative_summary": "Elon Musk compara Chicago con una zona de guerra",
-      "why_memeable": "Frase corta y memorable, con un tono de sorpresa y crítica",
-      "category": "Opinión pública y política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CHICAGO",
-        "WARZONE",
-        "ELONMUSK",
-        "CHICAGOWARZONE"
-      ],
-      "key_terms_for_dex_search": [
-        "Chicago",
-        "warzone",
-        "Elon Musk",
-        "opinión pública"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-26T16:00:56.550166+00:00",
-      "expires_at": "2026-05-28T16:00:56.550166+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Chicago is basically just a warzone",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-05-28T17:48:18.385549+00:00"
-    },
-    {
-      "id": "ffa015ae500f",
-      "fingerprint": "ffa015ae500f",
-      "narrative_summary": "Muerte de Catherine O'Hara, actriz de Saturday Night Live, después de una breve enfermedad",
-      "why_memeable": "La muerte de una figura pública conocida y respetada, especialmente después de una breve enfermedad, es un tema que puede generar interés y emoción.",
-      "category": "Muerte y celebridad",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "CATHERINEOHARA",
-        "SNL",
-        "MUERTECELEB"
-      ],
-      "key_terms_for_dex_search": [
-        "Catherine O'Hara",
-        "SNL",
-        "Muerte",
-        "Celebridad"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-05-26T18:37:25.950540+00:00",
-      "expires_at": "2026-05-29T18:37:25.950540+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 18,
-      "expired_at": "2026-05-29T18:43:15.576935+00:00"
-    },
-    {
-      "id": "0a7a330ee5f4",
-      "fingerprint": "0a7a330ee5f4",
-      "narrative_summary": "Donald Trump y Elon Musk se enfrascan en una disputa pública, con Trump haciendo comentarios controvertidos sobre Musk y su relación con la comunidad de criptomonedas.",
-      "why_memeable": "La disputa entre Trump y Musk es un ejemplo clásico de polarización y controversia, lo que la hace altamente memeable.",
-      "category": "política y tecnología",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVS",
-        "MUSKVSTUMP",
-        "DOGEGOES"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "MUSK",
-        "DOGECOIN",
-        "POLÍTICA",
-        "TECNOLOGÍA"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-26T20:53:03.687021+00:00",
-      "expires_at": "2026-05-28T20:53:03.687021+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "MUSK",
-        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 58643.0,
-        "liquidity_usd": 92975.4,
-        "price_usd": 5.864e-05,
-        "volume_h24": 767698.3,
-        "volume_h1": 767698.3,
-        "volume_m5": 173894.11,
-        "price_change_5m": 4.3,
-        "price_change_1h": 66.91,
-        "price_change_24h": 66.91,
-        "txns_h1_buys": 2195,
-        "txns_h1_sells": 941,
-        "created_ts": 1779862484000,
-        "pair_created_at": 1779862484000,
-        "url": "https://dexscreener.com/solana/jdrohavv4uqbttj9ebjhpxjp2r91thw5atfp2mjwhc8l",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Grok",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-05-27T06:34:32.592733+00:00"
-    },
-    {
-      "id": "ede97cf12f96",
-      "fingerprint": "ede97cf12f96",
-      "narrative_summary": "Lululemon se acerca a un acuerdo para resolver la guerra de proxies con su fundador Chip Wilson.",
-      "why_memeable": "La narrativa tiene un título memeable y un evento inusual.",
-      "category": "negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LULULEMON",
-        "CHIPWILSON",
-        "STARLINK",
-        "AMAZON",
-        "LULULEMONWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Lululemon",
-        "Chip Wilson",
-        "Starlink",
-        "Amazon",
-        "negocios"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-26T20:53:40.717380+00:00",
-      "expires_at": "2026-05-28T20:53:40.717380+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Exclusive: Lululemon nears deal to settle proxy war with founder Chip Wilson - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-05-28T22:25:27.094595+00:00"
-    },
-    {
-      "id": "060448a93839",
-      "fingerprint": "060448a93839",
-      "narrative_summary": "Un tanque químico explotó en un molino de papel en Washington, causando múltiples muertes y heridos.",
-      "why_memeable": "La narrativa es fácil de entender y tiene un impacto emocional fuerte. La imagen de un tanque químico explotando es icónica y puede ser compartida fácilmente.",
-      "category": "Accidente industrial",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TANKEXPLODE",
-        "MOLINODEPAPEL",
-        "QUIMICO"
-      ],
-      "key_terms_for_dex_search": [
-        "tanque químico",
-        "molino de papel",
-        "Washington",
-        "accidente industrial"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-26T20:54:19.028636+00:00",
-      "expires_at": "2026-05-28T20:54:19.028636+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Chemical tank rupture in Washington state causes multiple deaths and injuries - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-05-28T22:25:27.094610+00:00"
-    },
-    {
       "id": "efa8e796642c",
       "fingerprint": "efa8e796642c",
       "narrative_summary": "Muerte de varios actores famosos debido a enfermedades",
@@ -10848,14 +10578,15 @@
       "started_at": "2026-06-04T06:54:25.394391+00:00",
       "expires_at": "2026-06-06T06:54:25.394391+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Police locked in negotiations with man in Bakersfield holding hostages - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-06T07:28:23.397604+00:00"
     },
     {
       "id": "42c2e2177e4f",
@@ -11257,7 +10988,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "32645234d7a4",
@@ -11446,7 +11177,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "76ee34e5e34a",
@@ -11491,7 +11222,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "473a80eca071",
@@ -11537,7 +11268,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "cf714b416dc2",
@@ -11668,7 +11399,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "051b91a7176d",
@@ -11718,7 +11449,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "638dc0a53df0",
@@ -11764,7 +11495,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "475ddcfcdf5e",
@@ -11809,7 +11540,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "022f4c0abe46",
@@ -12157,7 +11888,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b4d649fe1b5d",
@@ -12428,7 +12159,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "7774078c5fbe",
@@ -12471,7 +12202,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f54105f27aff",
@@ -12521,7 +12252,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "50ca5a9409e2",
@@ -12715,13 +12446,65 @@
       "started_at": "2026-06-06T04:11:52.927513+00:00",
       "expires_at": "2026-06-09T04:11:52.927513+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Starlink",
+        "name": "Starlink",
+        "mint": "ms9pVdffSjYEH7azGQ2NxKY3vnAj73xpAsREv3vag3u",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 115442.0,
+        "liquidity_usd": 16321.17,
+        "price_usd": 0.0001154,
+        "volume_h24": 321162.81,
+        "volume_h1": 112544.73,
+        "volume_m5": 8395.35,
+        "price_change_5m": 1.1,
+        "price_change_1h": 31.31,
+        "price_change_24h": 2462.0,
+        "txns_h1_buys": 1060,
+        "txns_h1_sells": 1057,
+        "created_ts": 1780720364000,
+        "pair_created_at": 1780720364000,
+        "url": "https://dexscreener.com/solana/22qbhg47ptuypasgymysaqymgpngpbc8y6w7chgvcyeq",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: STARLINK==STARLINK",
+        "safety_score": 30493,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Starlink",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-06T07:32:32.627662+00:00"
     },
     {
       "id": "61d4793e7e57",
@@ -12763,8 +12546,329 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "259ea91591be",
+      "fingerprint": "259ea91591be",
+      "narrative_summary": "Fuga de aire en la Estación Espacial Internacional, la tripulación se prepara para una posible evacuación",
+      "why_memeable": "La situación de emergencia y la posible evacuación de la Estación Espacial Internacional generan una narrativa emocional y fácil de compartir",
+      "category": "noticias de espacio",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "LEAK",
+        "SPACE",
+        "EVAC",
+        "NASA",
+        "ISS"
+      ],
+      "key_terms_for_dex_search": [
+        "fuga de aire",
+        "Estación Espacial Internacional",
+        "evacuación",
+        "NASA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T07:28:32.983457+00:00",
+      "expires_at": "2026-06-09T07:28:32.983457+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SPSC",
+        "name": "Shit Piss Skin Can",
+        "mint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 324454.0,
+        "liquidity_usd": 109484.41,
+        "price_usd": 0.0003244,
+        "volume_h24": 22795.06,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 19.98,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1762362750000,
+        "pair_created_at": 1762362750000,
+        "url": "https://dexscreener.com/solana/6mhj1z5bgc1uitnewrnjfbgtqpupdh2qgdwkemgxt2c5",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ISS in SHIT PISS SKIN CAN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Lorde opened her Gov Ball set with a new song:",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T07:32:35.008019+00:00"
+    },
+    {
+      "id": "40267fdaf68a",
+      "fingerprint": "40267fdaf68a",
+      "narrative_summary": "SpaceX anuncia una venta de acciones por decenas de billones de dólares, generando interés y debate en la comunidad financiera.",
+      "why_memeable": "La narrativa es memeable debido a la sorpresa y el impacto de la venta de acciones por decenas de billones de dólares.",
+      "category": "Finanzas/Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "SPACEX",
+        "META",
+        "ANTHROPIC"
+      ],
+      "key_terms_for_dex_search": [
+        "SpaceX",
+        "META",
+        "ANTHROPIC",
+        "acciones",
+        "finanzas",
+        "tecnología"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-06T07:28:46.403992+00:00",
+      "expires_at": "2026-06-09T07:28:46.403992+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ANTH",
+        "name": "Anthropic",
+        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 23945.0,
+        "liquidity_usd": 15832.19,
+        "price_usd": 2.394e-05,
+        "volume_h24": 7233.89,
+        "volume_h1": 249.3,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 4.47,
+        "price_change_24h": 2.25,
+        "txns_h1_buys": 5,
+        "txns_h1_sells": 2,
+        "created_ts": 1780332637000,
+        "pair_created_at": 1780332637000,
+        "url": "https://dexscreener.com/solana/2dwcyggrzbrn36ujywbiwxwfdo5vyzoaaauvy1j1qwrz",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T07:32:36.383269+00:00"
+    },
+    {
+      "id": "1d4efb98dd3e",
+      "fingerprint": "1d4efb98dd3e",
+      "narrative_summary": "Canada prohíbe la entrada de ganado de Texas debido a una epidemia de gusanos parasitos que comen carne en los EE. UU.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'gusanos parasitos que comen carne'.",
+      "category": "noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SCREWWORM",
+        "TEXASCATTLE",
+        "CANADABAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Screwworm",
+        "TexasCattle",
+        "CanadaBan",
+        "gusanos parasitos",
+        "epidemia"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T07:30:32.137268+00:00",
+      "expires_at": "2026-06-08T07:30:32.137268+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Screwworm",
+        "name": "Screwworm",
+        "mint": "D9msuWXNknQmyuvbL8EKejz8Vbps3CseiQDdBDr4pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 42668.0,
+        "liquidity_usd": 13856.53,
+        "price_usd": 4.267e-05,
+        "volume_h24": 74731.49,
+        "volume_h1": 9887.37,
+        "volume_m5": 1102.96,
+        "price_change_5m": 17.83,
+        "price_change_1h": 8.06,
+        "price_change_24h": 64.79,
+        "txns_h1_buys": 119,
+        "txns_h1_sells": 79,
+        "created_ts": 1780716476000,
+        "pair_created_at": 1780716476000,
+        "url": "https://dexscreener.com/solana/f9r6cnnmdakdoamzwgvhb686zhnkwcdyyzfrqhg61evk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: SCREWWORM==SCREWWORM",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-06T07:32:37.625475+00:00"
+    },
+    {
+      "id": "ed815c717c4c",
+      "fingerprint": "ed815c717c4c",
+      "narrative_summary": "Actor James Handy muere apuñalado y su novia es acusada de asesinato por su hijo",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: 'actor James Handy muere apuñalado y su novia es acusada de asesinato por su hijo'",
+      "category": "crímenes y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JAMESHANDY",
+        "ACTORASASINATO",
+        "MUERTEENCRÍMEN"
+      ],
+      "key_terms_for_dex_search": [
+        "james handy",
+        "asesinato",
+        "crímenes",
+        "justicia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-06T07:30:56.813762+00:00",
+      "expires_at": "2026-06-08T07:30:56.813762+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "After actor James Handy’s stabbing death, his girlfriend’s son is charged with murder - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "80d71c305f5f",
+      "fingerprint": "80d71c305f5f",
+      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando mucha atención y debate.",
+      "why_memeable": "La simplicidad y la claridad de la respuesta de Elon Musk la hacen muy compartible y recordable.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YESMUSK",
+        "MUSKYES"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "yes",
+        "twitter"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-06T07:31:59.697040+00:00",
+      "expires_at": "2026-06-08T07:31:59.697040+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-06T04:12:35.153001+00:00"
+  "last_updated": "2026-06-06T07:32:37.625494+00:00"
 }
