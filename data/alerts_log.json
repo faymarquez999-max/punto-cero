@@ -8159,6 +8159,78 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 334535.0
       }
+    },
+    {
+      "ts": "2026-06-07T05:01:09.276839+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d81fa6788ac9",
+        "score": 80,
+        "category": "Noticias de violencia",
+        "title": "At this point the probability of the LINK being needed is low. Logically thinking there would be at least SOME buying pr",
+        "candidate_tickers": [
+          "OHIO",
+          "TOLEDO",
+          "SHOOTING",
+          "FESTIVAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-07T05:03:06.350140+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "17f8b63540fd",
+        "score": 70,
+        "category": "política internacional",
+        "title": "US eyes Iranian assets for Gulf allies' reconstruction, source says - Reuters",
+        "candidate_tickers": [
+          "IRANASSETS",
+          "GULFRECONSTRUCTION",
+          "USIRANDEAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-07T05:03:43.652036+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8ea87118f672",
+        "score": 78,
+        "category": "Noticias internacionales",
+        "title": "Missing US student found dead near Kyoto, Japan, mother says - Reuters",
+        "candidate_tickers": [
+          "#KYOTO",
+          "#JAPÓN",
+          "#ESTUDIANTEDESAPARECIDO",
+          "#TRAGEDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-07T05:04:42.007486+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "42f2467842b2",
+        "score": 88,
+        "category": "política, protesta social",
+        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+        "candidate_tickers": [
+          "CUCARACHAINDIA",
+          "GENZINDIA",
+          "CUCARACHAMOVIMIENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-07T05:05:31.345081+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "17f8b63540fd",
+        "ticker": "IRAN",
+        "mint": "9yFJgYqqbYAKgLLiiQLxX3P39eS4h4KgH4hvVM1worc3",
+        "mc": 195469.0
+      }
     }
   ]
 }
