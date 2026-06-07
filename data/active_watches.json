@@ -1,206 +1,6 @@
 {
   "watches": [
     {
-      "id": "43fc606fd231",
-      "fingerprint": "43fc606fd231",
-      "narrative_summary": "Elon Musk anuncia Tesla Self-Driving 14.3.3 en modo Mad Max",
-      "why_memeable": "La combinación de tecnología de conducción autónoma con una referencia a la película Mad Max es inusual y atractiva",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "MAX",
-        "TESLA",
-        "SELFDRIVE",
-        "MADMAX",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "Tesla",
-        "Mad Max",
-        "Self-Driving",
-        "Elon Musk"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-28T10:19:33.240827+00:00",
-      "expires_at": "2026-05-31T10:19:33.240827+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PAIN",
-        "name": "Max Pain",
-        "mint": "2N9BXbRtyZM4YHzj9wvteW1Nuq6B5DzDwh57dDmZpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 188975.0,
-        "liquidity_usd": 44683.51,
-        "price_usd": 0.0001889,
-        "volume_h24": 98414.95,
-        "volume_h1": 2210.03,
-        "volume_m5": 605.99,
-        "price_change_5m": 2.99,
-        "price_change_1h": 5.4,
-        "price_change_24h": 94.48,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 15,
-        "created_ts": 1778515351000,
-        "pair_created_at": 1778515351000,
-        "url": "https://dexscreener.com/solana/cf51hk5zm7jtmaqzkr9kj6ad8o1peuwmeff4z947xq55",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MAX in MAX PAIN",
-        "safety_score": 2001,
-        "safety_risks": [
-          {
-            "name": "Copycat token",
-            "level": "warn",
-            "description": "This token is using a verified tokens symbol"
-          }
-        ]
-      },
-      "cluster_top_title": "You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-28T10:22:09.235590+00:00"
-    },
-    {
-      "id": "894264ff7af3",
-      "fingerprint": "894264ff7af3",
-      "narrative_summary": "La rivalidad entre Trump y Musk se intensifica con amenazas de Doge y deportación",
-      "why_memeable": "La combinación de figuras públicas prominentes, una criptomoneda y una disputa personal crea un escenario altamente memeable",
-      "category": "Política y tecnología",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVSMSK",
-        "DOGEFUED",
-        "MUSKTRUMP",
-        "POLITICDOGE",
-        "TRUMPDOGE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Doge",
-        "feud",
-        "deportation"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-28T14:13:07.804691+00:00",
-      "expires_at": "2026-05-31T14:13:07.804691+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "DOGE",
-        "name": "DOGE",
-        "mint": "4Syf8qQ54TV88dc1hT2iohSTx64cZv5E8UPMuDBBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 291260.0,
-        "liquidity_usd": 43596.49,
-        "price_usd": 0.0002912,
-        "volume_h24": 1086287.6,
-        "volume_h1": 96176.12,
-        "volume_m5": 6054.41,
-        "price_change_5m": -5.99,
-        "price_change_1h": -35.66,
-        "price_change_24h": 894.0,
-        "txns_h1_buys": 890,
-        "txns_h1_sells": 532,
-        "created_ts": 1779942850000,
-        "pair_created_at": 1779942850000,
-        "url": "https://dexscreener.com/solana/2jmfmqo443luhljqza13sku1bfwycuazuvtvhcq9x1zw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DOGE in DOGE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Ferrari CEO Says First EV Is Racking Up Orders Despite Criticism - Bloomberg",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-28T14:18:20.167650+00:00"
-    },
-    {
-      "id": "48906e69564e",
-      "fingerprint": "48906e69564e",
-      "narrative_summary": "La EU multa a Temu €200m por vender productos ilegales en su plataforma",
-      "why_memeable": "La multa de €200m y la venta de productos ilegales son factores que contribuyen a la memeabilidad",
-      "category": "Noticias de negocios y tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TEMU",
-        "EUMULTA",
-        "PRODUCTOSILEGALES"
-      ],
-      "key_terms_for_dex_search": [
-        "Temu",
-        "EUmulta",
-        "productosilegales",
-        "negocios",
-        "tecnología"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-28T14:13:44.813200+00:00",
-      "expires_at": "2026-05-30T14:13:44.813200+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "EU fines Temu €200m for allowing sale of illegal products",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-05-30T15:51:07.867573+00:00"
-    },
-    {
       "id": "2ae6c42c11ff",
       "fingerprint": "2ae6c42c11ff",
       "narrative_summary": "Tres tanques reportadamente atacados por drones en el Mar Negro, según una agencia de navegación.",
@@ -12545,7 +12345,146 @@
         "nitter"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "dde575f6d28c",
+      "fingerprint": "dde575f6d28c",
+      "narrative_summary": "Un parásito carnívoro amenaza con subir el precio de la carne de Trump, según Politico.",
+      "why_memeable": "La combinación de un parásito carnívoro y Trump, junto con la amenaza de subir el precio de la carne, hace que la narrativa sea fácilmente recordable y compartible.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BEEFPEST",
+        "TRUMPBEEF",
+        "FLESHEATINGPEST"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "beef",
+        "parásito",
+        "carnívoro",
+        "precio",
+        "Politico"
+      ],
+      "score": 92,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-07T20:21:10.131697+00:00",
+      "expires_at": "2026-06-09T20:21:10.131697+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A flesh-eating pest threatens Trump’s beef price hopes - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9e8d0bc1ee80",
+      "fingerprint": "9e8d0bc1ee80",
+      "narrative_summary": "Warner considera a Pulte una amenaza para la seguridad nacional",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Warner y Pulte, y la seguridad nacional es un tema sensible.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PULTE",
+        "WARNER",
+        "RIESGONACIONAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Pulte",
+        "Warner",
+        "SeguridadNacional",
+        "RiesgoNacional"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-07T20:21:23.568335+00:00",
+      "expires_at": "2026-06-09T20:21:23.568335+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Warner: Pulte a ‘national security risk’ - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3af81f7614c4",
+      "fingerprint": "3af81f7614c4",
+      "narrative_summary": "Irán dispara misiles hacia Israel, violando el cese al fuego.",
+      "why_memeable": "La narrativa cuenta con un conflicto entre Irán e Israel, lo que genera emociones y polarización.",
+      "category": "conflicto internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "ISRAEL",
+        "CESEALFUEGO"
+      ],
+      "key_terms_for_dex_search": [
+        "Irán",
+        "Israel",
+        "ceasefire",
+        "misiles"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-07T20:23:17.850837+00:00",
+      "expires_at": "2026-06-10T20:23:17.850837+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘SCARY MOVIE 6’ has opened with $105.5 million at the global box office.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-07T15:57:46.142244+00:00"
+  "last_updated": "2026-06-07T20:23:17.850837+00:00"
 }
