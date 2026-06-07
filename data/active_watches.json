@@ -1,297 +1,6 @@
 {
   "watches": [
     {
-      "id": "b060cb474d24",
-      "fingerprint": "b060cb474d24",
-      "narrative_summary": "Flávio Bolsonaro, candidato presidencial brasileño, se asemeja a Trump en un escándalo que sacude su campaña.",
-      "why_memeable": "La conexión con Trump y la escandalosa campaña de Bolsonaro hacen que sea fácil de recordar y compartir.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BOLSONARO",
-        "TRUMP",
-        "FLÁVIO",
-        "SCANDAL",
-        "BRAZIL"
-      ],
-      "key_terms_for_dex_search": [
-        "Bolsonaro",
-        "Trump",
-        "Scandal",
-        "Brazil",
-        "Presidencial"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-05-28T01:32:30.301214+00:00",
-      "expires_at": "2026-05-30T01:32:30.301214+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "BRAZIL",
-        "name": "Brazil",
-        "mint": "88gKZC3rmTH9CuMVmUXyxAg3ijY7wD8n2AK9WGPBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 74429.0,
-        "liquidity_usd": 22029.05,
-        "price_usd": 7.443e-05,
-        "volume_h24": 38990.97,
-        "volume_h1": 509.79,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -2.5,
-        "price_change_24h": -33.39,
-        "txns_h1_buys": 5,
-        "txns_h1_sells": 4,
-        "created_ts": 1778587051000,
-        "pair_created_at": 1778587051000,
-        "url": "https://dexscreener.com/solana/3ldydb3k673nfpsemm8abq66d8vipilmqhffuvnheezd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: BRAZIL==BRAZIL",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Brazil's Flávio Bolsonaro leans into Trump connection as scandal shakes his presidential bid - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-28T01:34:03.394599+00:00"
-    },
-    {
-      "id": "cd18213824ed",
-      "fingerprint": "cd18213824ed",
-      "narrative_summary": "Un mensaje de Navidad de un político generó controversia y reacciones en las redes sociales.",
-      "why_memeable": "La combinación de un tema sensible como la inmigración y la identidad de género con un tono provocativo y polémico.",
-      "category": "Política y Sociedad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SCROOGE",
-        "RADLEFT",
-        "BORDER",
-        "TRUMPXMAS",
-        "POLARIZED"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Navidad",
-        "Inmigración",
-        "Identidad de género",
-        "Política"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-05-28T05:55:40.780975+00:00",
-      "expires_at": "2026-05-31T05:55:40.780975+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 101745.0,
-        "liquidity_usd": 24809.04,
-        "price_usd": 0.0001017,
-        "volume_h24": 190715.27,
-        "volume_h1": 13454.44,
-        "volume_m5": 1421.72,
-        "price_change_5m": 14.42,
-        "price_change_1h": 4.17,
-        "price_change_24h": 1230.0,
-        "txns_h1_buys": 116,
-        "txns_h1_sells": 82,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-05-28T22:30:06.654036+00:00"
-    },
-    {
-      "id": "5d843ac5eb3c",
-      "fingerprint": "5d843ac5eb3c",
-      "narrative_summary": "Un albino de búfalo llamado 'Donald Trump' ha sido salvado de ser sacrificado durante el Eid en Bangladesh y ha sido trasladado a un zoológico.",
-      "why_memeable": "La combinación de un animal raro (albino) con un nombre famoso (Donald Trump) y un evento inusual (ser salvado de ser sacrificado) hace que la historia sea fácilmente compartible y recordable.",
-      "category": "Animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPBÚFALO",
-        "ALBINOBÚFALO",
-        "BÚFALOEID"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "albino",
-        "búfalo",
-        "Eid",
-        "Bangladesh"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-28T05:56:49.885477+00:00",
-      "expires_at": "2026-05-30T05:56:49.885477+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "DONALD",
-        "name": "Donald Trump The Albino Buffalo",
-        "mint": "4GHUJWpu5q6NGTNGbLiKFdVPnYh3hbVYHDTc6HK9pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 16373.0,
-        "liquidity_usd": 9750.99,
-        "price_usd": 1.637e-05,
-        "volume_h24": 192319.6,
-        "volume_h1": 2361.74,
-        "volume_m5": 52.27,
-        "price_change_5m": 1.74,
-        "price_change_1h": 10.47,
-        "price_change_24h": -52.93,
-        "txns_h1_buys": 1014,
-        "txns_h1_sells": 352,
-        "created_ts": 1779908253000,
-        "pair_created_at": 1779908253000,
-        "url": "https://dexscreener.com/solana/6be7wudfpank6rhbvnyze37pbs99ytq92fkjcvdw4za1",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP THE ALBINO BUFFAL",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Viral 'Donald Trump' Buffalo Spared From Eid Sacrifice, Moved To Bangladesh Zoo - NDTV",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-28T05:59:20.201707+00:00"
-    },
-    {
-      "id": "33c8487de53e",
-      "fingerprint": "33c8487de53e",
-      "narrative_summary": "Asistente de Matthew Perry condenado a 41 meses de prisión por su muerte con ketamina.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un título que puede ser capturado en una frase corta.",
-      "category": "celebridad, justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERRYMONSTER",
-        "KETAMINEMONSTER",
-        "PERRYASSISTANT"
-      ],
-      "key_terms_for_dex_search": [
-        "Matthew Perry",
-        "asistente",
-        "ketamina",
-        "prisión"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-28T05:57:23.394843+00:00",
-      "expires_at": "2026-05-30T05:57:23.394843+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Matthew Perry's assistant sentenced to 41 months in prison - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-05-30T07:24:26.592007+00:00"
-    },
-    {
       "id": "5b9a3a812fcb",
       "fingerprint": "5b9a3a812fcb",
       "narrative_summary": "Tensión entre Estados Unidos e Irán, con ataques aéreos y drones en el Mar Negro",
@@ -9318,14 +9027,15 @@
       "started_at": "2026-06-05T05:04:24.465239+00:00",
       "expires_at": "2026-06-07T05:04:24.465239+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zelenskiy, in open letter, invites Putin to talks to end the war - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-07T08:30:34.401693+00:00"
     },
     {
       "id": "051b91a7176d",
@@ -12657,7 +12367,187 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "f9e31b98ce40",
+      "fingerprint": "f9e31b98ce40",
+      "narrative_summary": "La estación espacial Internacional experimenta un escape de aire que obliga a los astronautas a evacuar.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácilmente compartible, con un elemento de riesgo y drama.",
+      "category": "ciencia y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISSLEAK",
+        "AIREESPACIAL",
+        "EVACUACIÓNESPACIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "estación espacial",
+        "escape de aire",
+        "astronautas",
+        "evacuación"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-07T08:32:07.972790+00:00",
+      "expires_at": "2026-06-09T08:32:07.972790+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2c6d084067d3",
+      "fingerprint": "2c6d084067d3",
+      "narrative_summary": "Ucrania ataca San Petersburgo después de que Putin rechace las negociaciones",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, y es fácil de compartir",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UKRPUT",
+        "PUTINHIT",
+        "UKRATTACK"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "San Petersburgo",
+        "Putin",
+        "negociaciones"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-07T08:33:16.754251+00:00",
+      "expires_at": "2026-06-09T08:33:16.754251+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine hits St. Petersburg again after Putin rejects talks - DW",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0b6a9224a920",
+      "fingerprint": "0b6a9224a920",
+      "narrative_summary": "Estudiante de 20 años de Alabama se encuentra muerto en Japón, según su familia.",
+      "why_memeable": "La combinación de la edad del estudiante, el lugar del incidente y la reacción de la familia es lo que hace que esta noticia sea memeable.",
+      "category": "noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OLLIA",
+        "OLLIADEAD",
+        "OLLIAJAPAN"
+      ],
+      "key_terms_for_dex_search": [
+        "OLLIA",
+        "OLLIADEAD",
+        "OLLIAJAPAN",
+        "estudiante",
+        "Alabama",
+        "Japón"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-07T08:33:49.640042+00:00",
+      "expires_at": "2026-06-10T08:33:49.640042+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Missing 20-year-old college student from Alabama found dead in Japan, family says - komonews.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "77a91551c424",
+      "fingerprint": "77a91551c424",
+      "narrative_summary": "Elon Musk se queja de una injusticia en Twitter",
+      "why_memeable": "La frase 'Such injustice!' es corta y fácil de recordar",
+      "category": "Política y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SUCH",
+        "INJUSTICE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "injustice",
+        "Twitter"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-07T08:34:04.748264+00:00",
+      "expires_at": "2026-06-08T08:34:04.748264+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Such injustice!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-07T05:05:31.343148+00:00"
+  "last_updated": "2026-06-07T08:34:04.748264+00:00"
 }
