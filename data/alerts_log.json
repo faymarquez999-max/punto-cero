@@ -8663,6 +8663,35 @@
         "mint": "Bv3qk2ViNmXvXs8T3VESqJsypkm9NGi3YAisFRmTpump",
         "mc": 117543.0
       }
+    },
+    {
+      "ts": "2026-06-08T01:39:01.805468+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "208331bd6130",
+        "score": 88,
+        "category": "desastres naturales",
+        "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible for some coasts - AP News",
+        "candidate_tickers": [
+          "TSUNAMIPH",
+          "FILIPINASTERREMOTO",
+          "ALERTATSUNAMI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-08T01:40:33.129430+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "ciencia ficción",
+        "title": "Maybe largest in this sector of the galaxy",
+        "candidate_tickers": [
+          "GalaxyRecord",
+          "ElonGalaxy",
+          "SectorSensation"
+        ]
+      }
     }
   ]
 }
