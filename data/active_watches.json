@@ -1,359 +1,6 @@
 {
   "watches": [
     {
-      "id": "295e5805de4a",
-      "fingerprint": "295e5805de4a",
-      "narrative_summary": "Un dron ruso ataca un edificio de apartamentos en Rumania, causando daños y muertes.",
-      "why_memeable": "La narrativa tiene un componente de violencia y daño, lo que la hace más compartible y memorable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUMANIA",
-        "DRON",
-        "ATAQUE",
-        "DAÑOS",
-        "MUERTES"
-      ],
-      "key_terms_for_dex_search": [
-        "Rumania",
-        "Dron",
-        "Ataque",
-        "Daños",
-        "Muertes"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 4,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-29T11:53:18.702629+00:00",
-      "expires_at": "2026-05-31T11:53:18.702629+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russian Drone Hits Romanian Apartment Building, Officials Say - The New York Times",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-05-31T14:56:00.307069+00:00"
-    },
-    {
-      "id": "2b428aa8a72f",
-      "fingerprint": "2b428aa8a72f",
-      "narrative_summary": "Un tribunal de Kenia suspende el plan de EE. UU. para establecer un centro de cuarentena para personas expuestas al ébola.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una frase memeable '50-bed isolation unit'.",
-      "category": "salud",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EBOLA50",
-        "KENYAQUARANTINE",
-        "CUARENTENAEBOLA"
-      ],
-      "key_terms_for_dex_search": [
-        "ebola",
-        "kenia",
-        "cuarentena",
-        "EE. UU."
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-29T11:53:55.620441+00:00",
-      "expires_at": "2026-05-31T11:53:55.620441+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Ebola",
-        "name": "EbolaVirus",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 352811.0,
-        "liquidity_usd": 59697.83,
-        "price_usd": 0.000353,
-        "volume_h24": 110786.15,
-        "volume_h1": 10345.11,
-        "volume_m5": 294.62,
-        "price_change_5m": -1.2,
-        "price_change_1h": -0.75,
-        "price_change_24h": -30.37,
-        "txns_h1_buys": 78,
-        "txns_h1_sells": 74,
-        "created_ts": 1778831535000,
-        "pair_created_at": 1778831535000,
-        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: EBOLA in EBOLAVIRUS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Kenya court halts opening of US Ebola quarantine facility in the country",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-29T18:48:28.082811+00:00"
-    },
-    {
-      "id": "e252357f162f",
-      "fingerprint": "e252357f162f",
-      "narrative_summary": "Elon Musk comparte un enlace con la frase 'Pretty much ' en Twitter, generando gran engagement",
-      "why_memeable": "La frase corta y el uso de un emoji generan un contenido fácilmente compartible y memorable",
-      "category": "Celebridad/Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "PRETTY",
-        "MUSKED",
-        "GROK"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Pretty much",
-        "Grok"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-29T11:57:49.947403+00:00",
-      "expires_at": "2026-06-01T11:57:49.947403+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Pretty much 😂 grok.com/share/bGVnYWN5_30c6…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-01T16:27:25.188589+00:00"
-    },
-    {
-      "id": "dbc6d69dcacb",
-      "fingerprint": "dbc6d69dcacb",
-      "narrative_summary": "Explosión de un cohete de Blue Origin durante prueba",
-      "why_memeable": "La imagen de la explosión es icónica y se puede capturar en una frase corta.",
-      "category": "Ciencia y tecnología",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "BLUEORIGINEXPLODES",
-        "COHETEAZAR",
-        "JEFFBEZOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Blue Origin",
-        "cohete",
-        "explosión",
-        "prueba"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 9,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-29T18:44:02.425812+00:00",
-      "expires_at": "2026-06-01T18:44:02.425812+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Video: la impactante explosión de un cohete de Blue Origin en la plataforma de lanzamiento durante prueba - Perfil",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-06-01T20:47:22.082071+00:00"
-    },
-    {
-      "id": "5c4cf1c46460",
-      "fingerprint": "5c4cf1c46460",
-      "narrative_summary": "Elon Musk comparte un enlace con la frase 'Pretty much' y una carita sonriente, generando un gran engagement en las redes sociales",
-      "why_memeable": "La combinación de la frase corta y la carita sonriente de Elon Musk, junto con el enlace misterioso, crea un contenido muy compartible y susceptible de generar memes",
-      "category": "Celebridad en redes sociales",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "PRETTY",
-        "MUSKED",
-        "GROK"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Pretty much",
-        "Grok"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-29T18:46:20.763735+00:00",
-      "expires_at": "2026-06-01T18:46:20.763735+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Pretty much 😂 grok.com/share/bGVnYWN5_30c6…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-06-01T20:47:22.082085+00:00"
-    },
-    {
-      "id": "d5a833d70031",
-      "fingerprint": "d5a833d70031",
-      "narrative_summary": "Se invita a los diputados locales a una sesión parlamentaria sobre violencia de género en Westminster Hall el lunes",
-      "why_memeable": "La frase es breve y fácil de compartir, y el tema es muy polarizante",
-      "category": "Política y Violencia de Género",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RAPEGANG",
-        "WESTMINSTER",
-        "MPDEBATE"
-      ],
-      "key_terms_for_dex_search": [
-        "rape",
-        "gang",
-        "inquiry",
-        "parliamentary",
-        "debate",
-        "westminster"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-05-29T18:47:18.594908+00:00",
-      "expires_at": "2026-05-31T18:47:18.594908+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "RAPEMAN",
-        "name": "Sam Rapeman",
-        "mint": "9aphDebCUjShYexQeo7FKKsU2H23V6ZaZn37peMpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 88172.0,
-        "liquidity_usd": 22692.72,
-        "price_usd": 8.823e-05,
-        "volume_h24": 5692.79,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -3.96,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1777374377000,
-        "pair_created_at": 1777374377000,
-        "url": "https://dexscreener.com/solana/6wv5oyfygbgah21hvrg6zl5mkrpamr3bk2a2wegbuxdz",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: RAPE in SAM RAPEMAN",
-        "safety_score": 32901,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Please invite your local MP to our Rape Gang Inquiry parliamentary debate on Monday in Westminster Hall at 16.30.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-29T18:48:36.231575+00:00"
-    },
-    {
       "id": "1135ffd5baf6",
       "fingerprint": "1135ffd5baf6",
       "narrative_summary": "Trump hace un comentario polémico en Navidad, generando reacciones en las redes sociales y noticias",
@@ -10103,14 +9750,15 @@
       "started_at": "2026-06-06T12:50:33.765071+00:00",
       "expires_at": "2026-06-08T12:50:33.765071+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Palestinian baby shot dead by Israeli troops in occupied West Bank - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-08T18:11:24.992677+00:00"
     },
     {
       "id": "c2edbbc09e3b",
@@ -10225,14 +9873,15 @@
       "started_at": "2026-06-06T12:52:11.270630+00:00",
       "expires_at": "2026-06-08T12:52:11.270630+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Son of James Handy's girlfriend charged with actor's murder - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-08T18:11:24.992690+00:00"
     },
     {
       "id": "683998e4aed5",
@@ -10268,13 +9917,14 @@
       "started_at": "2026-06-06T12:53:36.414782+00:00",
       "expires_at": "2026-06-08T12:53:36.414782+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-08T18:11:24.992694+00:00"
     },
     {
       "id": "2ba6cc457ca6",
@@ -10392,14 +10042,15 @@
       "started_at": "2026-06-06T16:16:08.984874+00:00",
       "expires_at": "2026-06-08T16:16:08.984874+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-08T18:11:24.992697+00:00"
     },
     {
       "id": "483e1fc0c48c",
@@ -10440,14 +10091,15 @@
       "started_at": "2026-06-06T17:40:11.276701+00:00",
       "expires_at": "2026-06-08T17:40:11.276701+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Hegseth, at D-Day event, says Europe faces 'invasion' of dangerous ideologies - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-08T18:11:24.992699+00:00"
     },
     {
       "id": "7e0fc7c859fc",
@@ -12398,7 +12050,277 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "2f59f5188b71",
+      "fingerprint": "2f59f5188b71",
+      "narrative_summary": "Noticias sobre Donald Trump y Elon Musk generan interés en las redes sociales.",
+      "why_memeable": "La combinación de figuras públicas como Trump y Musk, junto con la naturaleza controvertida de sus declaraciones y acciones, crea un caldo de cultivo para memes y discusiones.",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMPVSMSK",
+        "MUSKTRUMP",
+        "TRUMPFEUD",
+        "ELONTRUMP",
+        "TRUMPNEWS"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Elon Musk",
+        "Celebridad",
+        "Política",
+        "Memes"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-08T18:11:26.680990+00:00",
+      "expires_at": "2026-06-11T18:11:26.680990+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Today is National Best Friends Day.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "902850ced94d",
+      "fingerprint": "902850ced94d",
+      "narrative_summary": "Famoso DJ británico dedica su actuación a Henry Nowak, mientras se le acusa de abuso de poder y comportamiento explotatorio.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una figura pública involucrada en un escándalo. La mención a Henry Nowak y la dedicatoria del DJ a su actuación son detalles que facilitan la comprensión y el compartir de la noticia.",
+      "category": "Escándalo de poder y comportamiento explotatorio",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HENRYNOWAK",
+        "TOMZANETTI",
+        "DAVIDSULLIVAN"
+      ],
+      "key_terms_for_dex_search": [
+        "HENRYNOWAK",
+        "TOMZANETTI",
+        "DAVIDSULLIVAN",
+        "ABUSO DE PODER",
+        "COMPORTAMIENTO EXPLOTATIVO"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-08T18:12:11.272118+00:00",
+      "expires_at": "2026-06-10T18:12:11.272118+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨WOW. Famous British DJ, Tom Zanetti, dedicates his performance to Henry Nowak in-front of thousands yesterday",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9235c3015da5",
+      "fingerprint": "9235c3015da5",
+      "narrative_summary": "Un terremoto de magnitud 7.8 ha causado al menos 35 muertes en las Filipinas",
+      "why_memeable": "La narrativa tiene un título claro y un número de muertes específico, lo que la hace fácil de compartir y recordar",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "#FILIPINASTERREMOTO",
+        "#TERREMOTOFILIPINAS",
+        "#DESASTRENATURAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Filipinas",
+        "terremoto",
+        "desastre natural"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-08T18:13:16.180317+00:00",
+      "expires_at": "2026-06-10T18:13:16.180317+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b59c3e61f5d9",
+      "fingerprint": "b59c3e61f5d9",
+      "narrative_summary": "Un parásito carnívoro que come la carne de ganado está extendiéndose en Texas y se han encontrado nuevos casos de gusano escarabajo a distancia",
+      "why_memeable": "La combinación de un parásito carnívoro y un gusano escarabajo a distancia es una situación absurda y aterradora que puede ser fácilmente compartida y recordada",
+      "category": "noticias de salud y ciencia",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "GUSANOSESCARABAJOS",
+        "PARÁSITOCARNÍVORO",
+        "TEXASALERTA"
+      ],
+      "key_terms_for_dex_search": [
+        "gusanos escarabajos",
+        "parásito carnívoro",
+        "Texas"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-08T18:13:55.117422+00:00",
+      "expires_at": "2026-06-11T18:13:55.117422+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A flesh-eating cattle parasite is spreading in Texas as new far-flung screwworm cases are found - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5eda9d29eeab",
+      "fingerprint": "5eda9d29eeab",
+      "narrative_summary": "Elon Musk confirma algo con un simple 'sí' en Twitter",
+      "why_memeable": "Frase breve y directa de Elon Musk, figura top, que genera polarización y tiene alto poder de viralidad",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "yes",
+        "twitter"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-06-08T18:16:30.483071+00:00",
+      "expires_at": "2026-06-10T18:16:30.483071+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "806695406e8b",
+      "fingerprint": "806695406e8b",
+      "narrative_summary": "Elon Musk critica a la legacy media por elegir narrativas engañosas",
+      "why_memeable": "La frase 'Choice of narrative is the biggest lie' es fácil de recordar y compartir",
+      "category": "política y medios",
+      "matched_archetype": "prophet_of_doom_warning",
+      "candidate_tickers": [
+        "LEGACY",
+        "NARRATIVE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "legacy media",
+        "narrativa"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 5
+      },
+      "started_at": "2026-06-08T18:16:43.945405+00:00",
+      "expires_at": "2026-06-10T18:16:43.945405+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Choice of narrative is the biggest lie of the legacy media",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-08T11:35:24.369826+00:00"
+  "last_updated": "2026-06-08T18:16:43.945405+00:00"
 }
