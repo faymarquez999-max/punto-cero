@@ -1,304 +1,6 @@
 {
   "watches": [
     {
-      "id": "8878a15e848c",
-      "fingerprint": "8878a15e848c",
-      "narrative_summary": "Vickrum Digwa, el asesino, llama a la policía en lugar de a emergencias y acusa a Henry de atacarlo, siendo él mismo un borracho que insulta racialmente.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase que puede ser capturada fácilmente, como 'Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie...'",
-      "category": "Asesinato y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DIGWA",
-        "HENRY",
-        "ZABÓJCA",
-        "RASISMO"
-      ],
-      "key_terms_for_dex_search": [
-        "Digwa",
-        "Henry",
-        "asesinato",
-        "justicia",
-        "rasismo"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T04:15:03.949638+00:00",
-      "expires_at": "2026-06-02T04:15:03.949638+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HENRY",
-        "name": "Justice For Henry Nowak",
-        "mint": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 414668.0,
-        "liquidity_usd": 72688.63,
-        "price_usd": 0.0004146,
-        "volume_h24": 376226.17,
-        "volume_h1": 13770.84,
-        "volume_m5": 215.17,
-        "price_change_5m": 0.74,
-        "price_change_1h": 16.15,
-        "price_change_24h": 96.88,
-        "txns_h1_buys": 73,
-        "txns_h1_sells": 83,
-        "created_ts": 1779264325000,
-        "pair_created_at": 1779264325000,
-        "url": "https://dexscreener.com/solana/5qkyxnzyi6hokzzsjhqqjgbsddk9zffo6vxz8c6vvj6h",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: HENRY==HENRY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie i skłamał, że to Henry go zaatakował, był pijany, obraził go rasistowsko i strącił mu turban.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T04:19:33.025631+00:00"
-    },
-    {
-      "id": "b5e9b8875d5e",
-      "fingerprint": "b5e9b8875d5e",
-      "narrative_summary": "Viral video muestra a un policía golpeando a una mujer durante un arresto en Shelby, lo que provoca protestas.",
-      "why_memeable": "La narrativa es memeable debido a la imagen icónica del policía golpeando a la mujer y la protesta que sigue.",
-      "category": "violencia policial",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SHELBY",
-        "POLICÍA",
-        "GOLPE",
-        "PROTESTA"
-      ],
-      "key_terms_for_dex_search": [
-        "Shelby",
-        "policía",
-        "golpe",
-        "protesta",
-        "violencia policial"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 9,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T04:18:52.925641+00:00",
-      "expires_at": "2026-06-01T04:18:52.925641+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Family and community demand action after viral Shelby police arrest video - WBTV",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-01T05:00:47.710877+00:00"
-    },
-    {
-      "id": "b13d7d3c0f22",
-      "fingerprint": "b13d7d3c0f22",
-      "narrative_summary": "Trump y Elon Musk intercambian insultos y acusaciones en una pelea pública que alcanza nuevas alturas",
-      "why_memeable": "La rivalidad entre Trump y Elon Musk es un tema viral y controvertido que puede generar memes y discusiones en las redes sociales",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMPMUSK",
-        "MUSKTRUMP",
-        "FEUD",
-        "TRUMPVSMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Elon Musk",
-        "feud",
-        "celebrity drama"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T07:24:27.757719+00:00",
-      "expires_at": "2026-06-02T07:24:27.757719+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 116509.0,
-        "liquidity_usd": 27607.82,
-        "price_usd": 0.0001165,
-        "volume_h24": 259891.54,
-        "volume_h1": 1329.8,
-        "volume_m5": 98.92,
-        "price_change_5m": -1.79,
-        "price_change_1h": 1.1,
-        "price_change_24h": -43.27,
-        "txns_h1_buys": 20,
-        "txns_h1_sells": 26,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T07:28:44.915205+00:00"
-    },
-    {
-      "id": "8faa8d1e1d6b",
-      "fingerprint": "8faa8d1e1d6b",
-      "narrative_summary": "Explosión de cohete Blue Origin da ventaja a Elon Musk en la carrera espacial",
-      "why_memeable": "La noticia involucra a figuras públicas prominentes como Elon Musk y Jeff Bezos, y el evento de la explosión del cohete es inesperado y dramático",
-      "category": "tecnología y espacio",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKWIN",
-        "BLUEBOMB",
-        "SPACERACE"
-      ],
-      "key_terms_for_dex_search": [
-        "Blue Origin",
-        "Elon Musk",
-        "cohete",
-        "explosión",
-        "espacio"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T07:24:35.377447+00:00",
-      "expires_at": "2026-06-02T07:24:35.377447+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "BORG",
-        "name": "Blue Origin",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 37735.0,
-        "liquidity_usd": 14629.56,
-        "price_usd": 3.773e-05,
-        "volume_h24": 11201.96,
-        "volume_h1": 80.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.03,
-        "price_change_24h": 13.0,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1780350589000,
-        "pair_created_at": 1780350589000,
-        "url": "https://dexscreener.com/solana/9kpxy6pqsuczvbdnny56ivxrf1kqjydvurwxv8jqfgkk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: BLUE ORIGIN in BLUE ORIGIN",
-        "safety_score": 6952,
-        "safety_risks": [
-          {
-            "name": "High holder correlation",
-            "level": "warn",
-            "description": "The top users hold similar supply amounts"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Copycat token",
-            "level": "warn",
-            "description": "This token is using a verified tokens symbol"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "matched_at": "2026-06-02T05:19:21.187326+00:00"
-    },
-    {
       "id": "2b61e88b0840",
       "fingerprint": "2b61e88b0840",
       "narrative_summary": "Israel expande su invasión en territorio lebanés, causando frustración en la región.",
@@ -9280,7 +8982,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "6b4b9aeb9678",
@@ -9452,7 +9154,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "5ceb3346e6bc",
@@ -10185,7 +9887,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "bcc42c513f36",
@@ -10323,7 +10025,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "5bbf595034fe",
@@ -10418,7 +10120,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "c78e7217b2c5",
@@ -10604,7 +10306,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "d81fa6788ac9",
@@ -10651,7 +10353,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "17f8b63540fd",
@@ -10780,7 +10482,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "42f2467842b2",
@@ -10827,7 +10529,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "f9e31b98ce40",
@@ -10872,7 +10574,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "2c6d084067d3",
@@ -10917,7 +10619,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "0b6a9224a920",
@@ -10964,7 +10666,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "77a91551c424",
@@ -11081,7 +10783,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "dde575f6d28c",
@@ -11128,7 +10830,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "9e8d0bc1ee80",
@@ -11173,7 +10875,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3af81f7614c4",
@@ -11302,7 +11004,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8f06b73297d8",
@@ -11344,7 +11046,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d5c8934ba4e9",
@@ -11388,7 +11090,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a5f967b1bd42",
@@ -11501,7 +11203,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "246743ae65bd",
@@ -11551,7 +11253,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "208331bd6130",
@@ -11595,7 +11297,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a053e33e430e",
@@ -11639,7 +11341,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c0e92d79c5a3",
@@ -11684,7 +11386,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d26fecd1ccec",
@@ -11808,7 +11510,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8a37e50659c2",
@@ -11855,7 +11557,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a2fada14dbe0",
@@ -11903,7 +11605,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2f59f5188b71",
@@ -11953,7 +11655,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "902850ced94d",
@@ -11999,7 +11701,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9235c3015da5",
@@ -12043,7 +11745,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b59c3e61f5d9",
@@ -12087,7 +11789,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5eda9d29eeab",
@@ -12200,7 +11902,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "750886ba4acd",
@@ -12245,7 +11947,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c02ad7a5c642",
@@ -12287,7 +11989,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e4572af5d647",
@@ -12362,7 +12064,240 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-09T04:14:53.386512+00:00"
+    },
+    {
+      "id": "a547a8a04db9",
+      "fingerprint": "a547a8a04db9",
+      "narrative_summary": "Elon Musk y Donald Trump están en las noticias por varias razones, incluyendo discusiones sobre la elección del alcalde de Los Ángeles y la conexión a Internet para los iraníes.",
+      "why_memeable": "La combinación de figuras polémicas como Musk y Trump, junto con temas de interés público como la elección y el acceso a Internet, crea un caldo de cultivo para memes y discusiones.",
+      "category": "política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "LAELEC",
+        "IRANET",
+        "TRUMPTECH",
+        "MUSKPOL"
+      ],
+      "key_terms_for_dex_search": [
+        "Musk",
+        "Trump",
+        "elección",
+        "Internet",
+        "Irán"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T08:05:13.022786+00:00",
+      "expires_at": "2026-06-12T08:05:13.022786+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MIM",
+        "name": "Magic Internet Money",
+        "mint": "89BZ5RU212yKr3iFdJHyn3ZsR37bS4s8TbmVb2yApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 330497.0,
+        "liquidity_usd": 52876.57,
+        "price_usd": 0.0003305,
+        "volume_h24": 27138.46,
+        "volume_h1": 903.97,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.89,
+        "price_change_24h": 5.24,
+        "txns_h1_buys": 6,
+        "txns_h1_sells": 5,
+        "created_ts": 1776698940000,
+        "pair_created_at": 1776698940000,
+        "url": "https://dexscreener.com/solana/9pjjp55ajxmptdznjhlkvlp4gclvqhdx9eqi2ywjrc3z",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: INTERNET in MAGIC INTERNET MONEY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "/smg/ - stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-09T08:09:13.292048+00:00"
+    },
+    {
+      "id": "19fc5dae2ea5",
+      "fingerprint": "19fc5dae2ea5",
+      "narrative_summary": "Un usuario de 4chan/biz comparte un título '6 DOLLARS' con un enlace a un artículo de PETA sobre cómo se utilizan los dólares de los contribuyentes.",
+      "why_memeable": "La frase '6 DOLLARS' es corta y fácil de recordar, y el título de PETA es un tema interesante que puede generar discusión.",
+      "category": "política y economía",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "6DOLLARS",
+        "KEK",
+        "BAGGIES"
+      ],
+      "key_terms_for_dex_search": [
+        "6 DOLLARS",
+        "KEK",
+        "BAGGIES",
+        "PETA",
+        "taxpayer"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T08:05:36.849287+00:00",
+      "expires_at": "2026-06-11T08:05:36.849287+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "KEKIUS",
+        "name": "Kekius Maximus",
+        "mint": "Cxtd4j9mVysEoE8JRiiyhPoqa59mfU6JW58jy34GPump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 184363.0,
+        "liquidity_usd": 32845.87,
+        "price_usd": 0.0001843,
+        "volume_h24": 162953.32,
+        "volume_h1": 1048.63,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.6,
+        "price_change_24h": -31.96,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 12,
+        "created_ts": 1780333399000,
+        "pair_created_at": 1780333399000,
+        "url": "https://dexscreener.com/solana/3sfxhstxpvyltg9gqpnlksd7cergrgulgki8v5xxe6rf",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: KEK in KEKIUS MAXIMUS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "6 DOLLARS",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-09T08:09:14.899085+00:00"
+    },
+    {
+      "id": "43d44c3d6049",
+      "fingerprint": "43d44c3d6049",
+      "narrative_summary": "Elon Musk critica el nivel de fraude en una plataforma, calificándolo como 'muy impactante'.",
+      "why_memeable": "La frase 'mind-blowing' es fácilmente compartible y tiene un alto potencial de ser recordada.",
+      "category": "fraude",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MINDBLOWING",
+        "FRAUD"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "fraud",
+        "mindblowing"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T08:07:22.109156+00:00",
+      "expires_at": "2026-06-11T08:07:22.109156+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The level of fraud here is mind-blowing",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6f0e5dc5fb2b",
+      "fingerprint": "6f0e5dc5fb2b",
+      "narrative_summary": "Elon Musk comparte 'Wow' en X, generando gran interés",
+      "why_memeable": "Frase corta y repetible, con gran impacto emocional",
+      "category": "Celebrities",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWX",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "XCancel",
+        "Wow"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-09T08:08:26.566171+00:00",
+      "expires_at": "2026-06-11T08:08:26.566171+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow xcancel.com/i/grok/share/52ed880e9…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-09T04:14:53.386528+00:00"
+  "last_updated": "2026-06-09T08:09:14.899102+00:00"
 }
