@@ -1,151 +1,6 @@
 {
   "watches": [
     {
-      "id": "2d80d95a823e",
-      "fingerprint": "2d80d95a823e",
-      "narrative_summary": "Elon Musk retuitea 'Frank is right' con gran cantidad de engagement",
-      "why_memeable": "Frase breve y directa de Elon Musk con gran cantidad de engagement",
-      "category": "Twitter",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "FRANKISRIGHT",
-        "ELONMUSKMEME"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "frank",
-        "xcancel"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T11:10:04.020912+00:00",
-      "expires_at": "2026-06-01T11:10:04.020912+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Franklin",
-        "name": "Franklin The Turtle",
-        "mint": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 86660.0,
-        "liquidity_usd": 50040.64,
-        "price_usd": 8.872e-05,
-        "volume_h24": 6302.23,
-        "volume_h1": 146.41,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.03,
-        "price_change_24h": -13.24,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1764588851000,
-        "pair_created_at": 1764588851000,
-        "url": "https://dexscreener.com/solana/8wxzwpljk6qjmyyc1vhuennxrvw2nfgvqjgenv4mv8sy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FRANK in FRANKLIN THE TURTLE",
-        "safety_score": 2411,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Frank is right",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T11:14:45.006745+00:00"
-    },
-    {
-      "id": "0000fc25ee75",
-      "fingerprint": "0000fc25ee75",
-      "narrative_summary": "Ebola travel bans revive Covid-era conflict over outbreak response",
-      "why_memeable": "La narrativa tiene un núcleo claro y un título impactante, lo que la hace fácilmente compartible y recordable",
-      "category": "Salud y política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EBOLABAN",
-        "COVIDVSEBOLA",
-        "TRAVELBAN"
-      ],
-      "key_terms_for_dex_search": [
-        "Ebola",
-        "Covid",
-        "travel bans",
-        "conflict"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T11:10:43.976956+00:00",
-      "expires_at": "2026-06-02T11:10:43.976956+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Ebola",
-        "name": "EbolaVirus",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 391831.0,
-        "liquidity_usd": 63022.18,
-        "price_usd": 0.000392,
-        "volume_h24": 105092.96,
-        "volume_h1": 2176.44,
-        "volume_m5": 193.44,
-        "price_change_5m": 1.51,
-        "price_change_1h": 4.3,
-        "price_change_24h": -6.05,
-        "txns_h1_buys": 36,
-        "txns_h1_sells": 18,
-        "created_ts": 1778831535000,
-        "pair_created_at": 1778831535000,
-        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: EBOLA in EBOLAVIRUS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Ebola travel bans stir up Covid-era conflict over outbreak response - Politico",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T11:14:46.427209+00:00"
-    },
-    {
       "id": "224c071822ab",
       "fingerprint": "224c071822ab",
       "narrative_summary": "El papa León XIV visita España coincidiendo con Bad Bunny y pone a prueba el dispositivo de seguridad más grande en años.",
@@ -9629,7 +9484,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "bcc42c513f36",
@@ -9767,7 +9622,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "5bbf595034fe",
@@ -9862,7 +9717,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "c78e7217b2c5",
@@ -10048,7 +9903,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "d81fa6788ac9",
@@ -10095,7 +9950,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "17f8b63540fd",
@@ -10224,7 +10079,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "42f2467842b2",
@@ -10271,7 +10126,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "f9e31b98ce40",
@@ -10410,7 +10265,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "77a91551c424",
@@ -10575,7 +10430,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9e8d0bc1ee80",
@@ -10620,7 +10475,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3af81f7614c4",
@@ -10742,14 +10597,41 @@
       "started_at": "2026-06-07T21:49:07.051106+00:00",
       "expires_at": "2026-06-09T21:49:07.051106+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Rise",
+        "name": "NASA ZGI Moon Mascot",
+        "mint": "CpFJrfYq32Wae2Bt36hEAUwzdyT29WwVLpZmYDF7pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13556.0,
+        "liquidity_usd": 11032.16,
+        "price_usd": 1.357e-05,
+        "volume_h24": 5651.28,
+        "volume_h1": 5.45,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.3,
+        "price_change_24h": 27.1,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 1,
+        "created_ts": 1774637145000,
+        "pair_created_at": 1774637145000,
+        "url": "https://dexscreener.com/solana/fgyamjki6ccuc3sdafqsbxa3y9hrqiwnalapt9zgu7ax",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NASA in NASA ZGI MOON MASCOT",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "NASA to wear Prada as luxury group pushes into space industry - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7,
+      "matched_at": "2026-06-09T19:29:25.747548+00:00"
     },
     {
       "id": "8f06b73297d8",
@@ -10791,7 +10673,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d5c8934ba4e9",
@@ -10835,7 +10717,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a5f967b1bd42",
@@ -10942,13 +10824,40 @@
       "started_at": "2026-06-07T21:52:11.818954+00:00",
       "expires_at": "2026-06-09T21:52:11.818954+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "KAMA",
+        "name": "Kamala Horris",
+        "mint": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 217796.0,
+        "liquidity_usd": 44982.16,
+        "price_usd": 0.0002188,
+        "volume_h24": 7612.28,
+        "volume_h1": 263.66,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.08,
+        "price_change_24h": -23.36,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 0,
+        "created_ts": 1711592058000,
+        "pair_created_at": 1711592058000,
+        "url": "https://dexscreener.com/solana/jc9hsjtyjltxqqryhzt642lbncfpbofzbabrhgwv4nr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MAL in KAMALA HORRIS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "A woke word you need to learn:",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7,
+      "matched_at": "2026-06-09T19:29:29.562447+00:00"
     },
     {
       "id": "246743ae65bd",
@@ -10998,7 +10907,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "208331bd6130",
@@ -11042,7 +10951,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a053e33e430e",
@@ -11086,7 +10995,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c0e92d79c5a3",
@@ -11131,7 +11040,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d26fecd1ccec",
@@ -11255,7 +11164,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8a37e50659c2",
@@ -11302,7 +11211,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a2fada14dbe0",
@@ -11350,7 +11259,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2f59f5188b71",
@@ -11400,7 +11309,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "902850ced94d",
@@ -11446,7 +11355,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9235c3015da5",
@@ -11490,7 +11399,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b59c3e61f5d9",
@@ -11534,7 +11443,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5eda9d29eeab",
@@ -11647,7 +11556,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "750886ba4acd",
@@ -11692,7 +11601,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c02ad7a5c642",
@@ -11734,7 +11643,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e4572af5d647",
@@ -11999,7 +11908,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6f0e5dc5fb2b",
@@ -12041,7 +11950,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ca13649dd6f6",
@@ -12078,8 +11987,34 @@
       "started_at": "2026-06-09T14:12:45.560466+00:00",
       "expires_at": "2026-06-11T14:12:45.560466+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HENRY",
+        "name": "Justice For Henry Nowak",
+        "mint": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 257340.0,
+        "liquidity_usd": 62284.78,
+        "price_usd": 0.0002579,
+        "volume_h24": 138419.72,
+        "volume_h1": 5315.08,
+        "volume_m5": 21.15,
+        "price_change_5m": -1.44,
+        "price_change_1h": -2.83,
+        "price_change_24h": -25.67,
+        "txns_h1_buys": 32,
+        "txns_h1_sells": 40,
+        "created_ts": 1779264325000,
+        "pair_created_at": 1779264325000,
+        "url": "https://dexscreener.com/solana/5qkyxnzyi6hokzzsjhqqjgbsddk9zffo6vxz8c6vvj6h",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NOWAK in JUSTICE FOR HENRY NOWAK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "🚨BREAKING: A petition demanding the officers who arrested Henry Nowak are prosecuted has just hit 200k signatures",
       "cluster_sources": [
         "4chan",
@@ -12087,7 +12022,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-09T19:29:42.697073+00:00"
     },
     {
       "id": "82bf957fabb7",
@@ -12133,7 +12069,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5a640f6b31bd",
@@ -12172,14 +12108,61 @@
       "started_at": "2026-06-09T14:15:52.347368+00:00",
       "expires_at": "2026-06-12T14:15:52.347368+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "UATF",
+        "name": "United American Trust Fund",
+        "mint": "HxPcU4D11Vn63sTBGr45s9mRZGu5CcbNjy3u1fVBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 104346.0,
+        "liquidity_usd": 21936.6,
+        "price_usd": 0.0001043,
+        "volume_h24": 5820.33,
+        "volume_h1": 4444.89,
+        "volume_m5": 1.02,
+        "price_change_5m": -0.04,
+        "price_change_1h": 55.08,
+        "price_change_24h": 60.36,
+        "txns_h1_buys": 43,
+        "txns_h1_sells": 30,
+        "created_ts": 1780910774000,
+        "pair_created_at": 1780910774000,
+        "url": "https://dexscreener.com/solana/hp6skbzlhcfwywvp4d4sq8qgcswvgjhiqy3v3gz1wcyt",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRUST FUND in UNITED AMERICAN TRUST FUND",
+        "safety_score": 20005,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Rob Reiner’s son Nick seeks money from trust parents left him for his defense in their killings - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-09T19:29:45.134469+00:00"
     },
     {
       "id": "81bdf40b8abb",
@@ -12218,15 +12201,144 @@
       "started_at": "2026-06-09T16:53:09.939082+00:00",
       "expires_at": "2026-06-11T16:53:09.939082+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SBF",
+        "name": "Sam Bankman-Fried",
+        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 182738.0,
+        "liquidity_usd": 44333.06,
+        "price_usd": 0.0001828,
+        "volume_h24": 8130.81,
+        "volume_h1": 73.43,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.01,
+        "price_change_24h": -17.15,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1739226639000,
+        "pair_created_at": 1739226639000,
+        "url": "https://dexscreener.com/solana/hdzuaafeujzsjn3sww6uqe8dqnrgw3tueaxffianrlny",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: SBF==SBF",
+        "safety_score": 6166,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "JUST IN: 🇺🇸 FTX Founder Sam Bankman-Fried applies for pardon from President Trump.",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-09T19:29:47.038154+00:00"
+    },
+    {
+      "id": "6d0b345696c4",
+      "fingerprint": "6d0b345696c4",
+      "narrative_summary": "Un video de un tiburón blanco en el Mediterráneo se hace viral.",
+      "why_memeable": "La narrativa tiene un elemento visual claro (video de un tiburón blanco) y un título que se puede capturar en una frase corta.",
+      "category": "Animales",
+      "matched_archetype": "shocking_image_or_video",
+      "candidate_tickers": [
+        "TIBURONMEDITERRANEO",
+        "TIBURONVIRAL",
+        "MEDVIRAL"
+      ],
+      "key_terms_for_dex_search": [
+        "tiburón",
+        "blanco",
+        "Mediterráneo",
+        "vídeo",
+        "viral"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 10,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T19:26:17.438628+00:00",
+      "expires_at": "2026-06-13T19:26:17.438628+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "New video of great white shark in Mediterranean goes viral",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "48507239018b",
+      "fingerprint": "48507239018b",
+      "narrative_summary": "Nithya Raman y Spencer Pratt se encuentran en una estrecha carrera para llegar a la segunda ronda de la elección para alcalde de Los Ángeles.",
+      "why_memeable": "La narrativa tiene un título atractivo y una competencia estrecha entre dos figuras públicas.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RAMANVSPRATT",
+        "SPENCERPRATTFAILS",
+        "NITHYARAMANMAYORAL"
+      ],
+      "key_terms_for_dex_search": [
+        "NithyaRaman",
+        "SpencerPratt",
+        "elección",
+        "Los Ángeles",
+        "alcalde"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-09T19:26:50.968342+00:00",
+      "expires_at": "2026-06-11T19:26:50.968342+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Nithya Raman and Spencer Pratt locked in tight race to make runoff for Los Angeles mayor - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-09T16:53:09.939082+00:00"
+  "last_updated": "2026-06-09T19:29:47.038172+00:00"
 }
