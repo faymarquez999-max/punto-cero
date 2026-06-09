@@ -1,196 +1,6 @@
 {
   "watches": [
     {
-      "id": "2b61e88b0840",
-      "fingerprint": "2b61e88b0840",
-      "narrative_summary": "Israel expande su invasión en territorio lebanés, causando frustración en la región.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Lebanon, lo que puede generar un meme sobre la invasión y la frustración en la región.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAELLEBANON",
-        "INVASIÓN",
-        "FRUSTRACIÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "israel",
-        "lebanon",
-        "invasión",
-        "frustración"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T07:24:48.898150+00:00",
-      "expires_at": "2026-06-01T07:24:48.898150+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Frustration in Lebanon as Israel expands invasion",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-01T16:27:25.188607+00:00"
-    },
-    {
-      "id": "6870160ca2c8",
-      "fingerprint": "6870160ca2c8",
-      "narrative_summary": "SpaceX gana un contrato de $4.16 mil millones para satélites de detección de amenazas",
-      "why_memeable": "La noticia es fácil de recordar y compartir debido a la cifra de $4.16 mil millones",
-      "category": "nuevas tecnologías y contratos",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "SPACEX",
-        "SPACEFORCE",
-        "$416B"
-      ],
-      "key_terms_for_dex_search": [
-        "SPACEX",
-        "SPACEFORCE",
-        "$416B",
-        "contrato",
-        "satélites",
-        "detección de amenazas"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T07:25:56.038638+00:00",
-      "expires_at": "2026-06-01T07:25:56.038638+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 95772.0,
-        "liquidity_usd": 27997.15,
-        "price_usd": 9.577e-05,
-        "volume_h24": 9409.7,
-        "volume_h1": 1666.96,
-        "volume_m5": 2.95,
-        "price_change_5m": -1.06,
-        "price_change_1h": -9.43,
-        "price_change_24h": 32.3,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 4,
-        "created_ts": 1775056807000,
-        "pair_created_at": 1775056807000,
-        "url": "https://dexscreener.com/solana/dip8wp7ysuyw3pcd8fkmssu6cl6apsmaen8cd8uzez1b",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceX wins $4.16 billion US Space Force contract for threat-detection satellites - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T07:28:47.455656+00:00"
-    },
-    {
-      "id": "2149964e39e4",
-      "fingerprint": "2149964e39e4",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran controversia y debate.",
-      "why_memeable": "La brevedad y la ambigüedad de la palabra 'True' hacen que sea fácil de compartir y debatir.",
-      "category": "Política y Controversia",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK",
-        "TRUTH"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON MUSK",
-        "TRUE",
-        "TRUTH"
-      ],
-      "score": 72,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-05-30T07:27:14.797859+00:00",
-      "expires_at": "2026-06-01T07:27:14.797859+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONMUSK",
-        "name": "world's first trillionaire",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 125462.0,
-        "liquidity_usd": 28981.6,
-        "price_usd": 0.0001254,
-        "volume_h24": 7264.05,
-        "volume_h1": 26.01,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.25,
-        "price_change_24h": 20.19,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1770908313000,
-        "pair_created_at": 1770908313000,
-        "url": "https://dexscreener.com/solana/dyw7txypbs6ghz44mpked7hdbqdmg76b35paf4yejfg4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELONMUSK==ELONMUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-05-31T02:00:45.617280+00:00"
-    },
-    {
       "id": "06892fd44725",
       "fingerprint": "06892fd44725",
       "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran controversia y debate",
@@ -8975,14 +8785,15 @@
       "started_at": "2026-06-06T11:16:37.640609+00:00",
       "expires_at": "2026-06-09T11:16:37.640609+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Son of James Handy's girlfriend charged with actor's murder - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 16,
+      "expired_at": "2026-06-09T14:12:32.128934+00:00"
     },
     {
       "id": "6b4b9aeb9678",
@@ -9145,7 +8956,7 @@
       "started_at": "2026-06-06T12:48:36.970091+00:00",
       "expires_at": "2026-06-09T12:48:36.970091+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at knife point.",
       "cluster_sources": [
@@ -9154,7 +8965,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-06-09T14:12:32.128949+00:00"
     },
     {
       "id": "5ceb3346e6bc",
@@ -10567,14 +10379,15 @@
       "started_at": "2026-06-07T08:32:07.972790+00:00",
       "expires_at": "2026-06-09T08:32:07.972790+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-09T14:12:32.128956+00:00"
     },
     {
       "id": "2c6d084067d3",
@@ -10612,14 +10425,15 @@
       "started_at": "2026-06-07T08:33:16.754251+00:00",
       "expires_at": "2026-06-09T08:33:16.754251+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine hits St. Petersburg again after Putin rejects talks - DW",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-09T14:12:32.128959+00:00"
     },
     {
       "id": "0b6a9224a920",
@@ -12297,7 +12111,145 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "ca13649dd6f6",
+      "fingerprint": "ca13649dd6f6",
+      "narrative_summary": "Petición en línea exige que se procesen a los oficiales que arrestaron a Henry Nowak",
+      "why_memeable": "La narrativa es memeable debido a la petición en línea y la respuesta de la comunidad",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NOWAKPETITION",
+        "JUSTICIAPARAHENRY"
+      ],
+      "key_terms_for_dex_search": [
+        "Nowak",
+        "petición",
+        "justicia",
+        "política"
+      ],
+      "score": 70,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 2,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-09T14:12:45.560466+00:00",
+      "expires_at": "2026-06-11T14:12:45.560466+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨BREAKING: A petition demanding the officers who arrested Henry Nowak are prosecuted has just hit 200k signatures",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "82bf957fabb7",
+      "fingerprint": "82bf957fabb7",
+      "narrative_summary": "El candidato a gobernador Steve Hilton revela la realidad de fraude en California: permiten que las papeletas se vuelvan a fechar manualmente para contarlas tarde.",
+      "why_memeable": "La narrativa tiene un núcleo claro de fraude electoral y la posibilidad de que se vuelvan a fechar las papeletas manualmente.",
+      "category": "fraude electoral",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CALIFORNIA_FRAUD",
+        "STEVE_HILTON",
+        "MAIL_IN_BALLOTS"
+      ],
+      "key_terms_for_dex_search": [
+        "CALIFORNIA",
+        "FRAUDE",
+        "ELECTORAL",
+        "MAIL_IN_BALLOTS",
+        "STEVE_HILTON"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T14:13:12.365985+00:00",
+      "expires_at": "2026-06-11T14:13:12.365985+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨 HOLY SMOKES. Governor candidate Steve Hilton just revealed the stunning reality of California fraud: They ALLOW mail-in ballots to BACKDATE by HAND so they can be counted late, and not invalid",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5a640f6b31bd",
+      "fingerprint": "5a640f6b31bd",
+      "narrative_summary": "Nick Reiner, hijo de Rob Reiner, busca dinero en un trust para su defensa en el juicio por el asesinato de sus padres.",
+      "why_memeable": "La narrativa es memeable debido a la combinación de un evento dramático (asesinato de padres) y una figura pública (Nick Reiner).",
+      "category": "Celebridad y crimen",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NICKREINER",
+        "REINERMURDERS",
+        "TRUSTFUNDDRAMA"
+      ],
+      "key_terms_for_dex_search": [
+        "Nick Reiner",
+        "Rob Reiner",
+        "asesinato",
+        "trust fund",
+        "crimen"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 3,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-09T14:15:52.347368+00:00",
+      "expires_at": "2026-06-12T14:15:52.347368+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Rob Reiner’s son Nick seeks money from trust parents left him for his defense in their killings - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-09T08:09:14.899102+00:00"
+  "last_updated": "2026-06-09T14:15:52.347368+00:00"
 }
