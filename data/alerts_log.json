@@ -9438,6 +9438,42 @@
           "TRUSTFUNDDRAMA"
         ]
       }
+    },
+    {
+      "ts": "2026-06-09T16:53:10.441656+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "81bdf40b8abb",
+        "score": 80,
+        "category": "política",
+        "title": "JUST IN: 🇺🇸 FTX Founder Sam Bankman-Fried applies for pardon from President Trump.",
+        "candidate_tickers": [
+          "SBF",
+          "FTX",
+          "BANKMAN-FRIED",
+          "TRUMPPARDON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-09T16:57:29.003292+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ed0efa74702f",
+        "ticker": "Rise",
+        "mint": "CpFJrfYq32Wae2Bt36hEAUwzdyT29WwVLpZmYDF7pump",
+        "mc": 14896.0
+      }
+    },
+    {
+      "ts": "2026-06-09T16:57:34.768782+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9cdc38ee780e",
+        "ticker": "KAMA",
+        "mint": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
+        "mc": 206232.0
+      }
     }
   ]
 }
