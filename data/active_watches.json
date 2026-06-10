@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "201d986bd220",
-      "fingerprint": "201d986bd220",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención y debate.",
-      "why_memeable": "La simplicidad y claridad de la publicación de Elon Musk, junto con su gran influencia en la red social, hacen que sea fácilmente compartible y recordable.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "true"
-      ],
-      "score": 72,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-05-30T12:20:48.606640+00:00",
-      "expires_at": "2026-06-01T12:20:48.606640+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELIEN",
-        "name": "ELIEN MUSK",
-        "mint": "5o61DgZrDGbCp5EBeyzLidUFXNVTtbfUGP3nY3s7pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 108121.0,
-        "liquidity_usd": 37092.04,
-        "price_usd": 0.0001083,
-        "volume_h24": 13246.73,
-        "volume_h1": 153.72,
-        "volume_m5": 63.02,
-        "price_change_5m": 0.89,
-        "price_change_1h": 0.79,
-        "price_change_24h": 1.56,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 1,
-        "created_ts": 1776969286000,
-        "pair_created_at": 1776969286000,
-        "url": "https://dexscreener.com/solana/bk7lazv9g4wdp5pf3fyfk6ufpfootjhhzhz5sr977hnf",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in ELIEN MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T15:56:03.149192+00:00"
-    },
-    {
       "id": "4be0356d06c3",
       "fingerprint": "4be0356d06c3",
       "narrative_summary": "Elon Musk compartió un tweet que dice 'Frank is right' y ha generado mucha atención.",
@@ -9901,7 +9831,7 @@
       "started_at": "2026-06-07T05:01:08.931849+00:00",
       "expires_at": "2026-06-10T05:01:08.931849+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "At this point the probability of the LINK being needed is low. Logically thinking there would be at least SOME buying pr",
       "cluster_sources": [
@@ -9909,7 +9839,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-10T06:10:31.241430+00:00"
     },
     {
       "id": "17f8b63540fd",
@@ -10031,14 +9962,15 @@
       "started_at": "2026-06-07T05:03:43.323190+00:00",
       "expires_at": "2026-06-10T05:03:43.323190+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Missing US student found dead near Kyoto, Japan, mother says - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-10T06:10:31.241444+00:00"
     },
     {
       "id": "42f2467842b2",
@@ -10078,14 +10010,15 @@
       "started_at": "2026-06-07T05:04:41.673750+00:00",
       "expires_at": "2026-06-10T05:04:41.673750+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-10T06:10:31.241448+00:00"
     },
     {
       "id": "f9e31b98ce40",
@@ -10224,7 +10157,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "77a91551c424",
@@ -10870,7 +10803,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "208331bd6130",
@@ -10907,14 +10840,15 @@
       "started_at": "2026-06-08T01:39:01.215070+00:00",
       "expires_at": "2026-06-10T01:39:01.215070+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible for some coasts - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-10T06:10:31.241452+00:00"
     },
     {
       "id": "a053e33e430e",
@@ -10958,7 +10892,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c0e92d79c5a3",
@@ -11003,7 +10937,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d26fecd1ccec",
@@ -11127,7 +11061,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8a37e50659c2",
@@ -11254,7 +11188,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2f59f5188b71",
@@ -11304,7 +11238,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "902850ced94d",
@@ -11350,7 +11284,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "9235c3015da5",
@@ -11394,7 +11328,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b59c3e61f5d9",
@@ -11438,7 +11372,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5eda9d29eeab",
@@ -11551,7 +11485,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "750886ba4acd",
@@ -11596,7 +11530,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c02ad7a5c642",
@@ -11638,7 +11572,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e4572af5d647",
@@ -11903,7 +11837,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6f0e5dc5fb2b",
@@ -11945,7 +11879,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ca13649dd6f6",
@@ -12064,7 +11998,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5a640f6b31bd",
@@ -12286,7 +12220,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "48507239018b",
@@ -12332,7 +12266,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "18b8f96a3a4f",
@@ -12408,7 +12342,73 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-10T01:40:18.831553+00:00"
+    },
+    {
+      "id": "0ac7dd1e89a5",
+      "fingerprint": "0ac7dd1e89a5",
+      "narrative_summary": "Elon Musk afirma que 'Only Restore Britain' es la única forma de salvar a Gran Bretaña.",
+      "why_memeable": "La frase es breve, fácil de recordar y tiene un tono de urgencia.",
+      "category": "política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "RESTOREBRITAIN",
+        "ONLYRESTORE"
+      ],
+      "key_terms_for_dex_search": [
+        "Restore Britain",
+        "Elon Musk",
+        "Gran Bretaña"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-10T06:11:08.576040+00:00",
+      "expires_at": "2026-06-12T06:11:08.576040+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BRITAIN",
+        "name": "Restore Britain",
+        "mint": "7tNviT7hyPL8ZBxd68rMZ12TMDyUXmeSpHQruzLepump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 99595.0,
+        "liquidity_usd": 27075.38,
+        "price_usd": 9.96e-05,
+        "volume_h24": 82040.25,
+        "volume_h1": 575.51,
+        "volume_m5": 111.12,
+        "price_change_5m": -1.74,
+        "price_change_1h": -2.94,
+        "price_change_24h": 78.68,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 12,
+        "created_ts": 1771058269000,
+        "pair_created_at": 1771058269000,
+        "url": "https://dexscreener.com/solana/gseychbyfk7nykcznzymdgncxtuuy9qdqnbfqqqvzjr6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: RESTORE BRITAIN in RESTORE BRITAIN"
+      },
+      "cluster_top_title": "Only Restore Britain can save Britain.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-10T06:14:29.618222+00:00"
     }
   ],
-  "last_updated": "2026-06-10T01:40:18.831566+00:00"
+  "last_updated": "2026-06-10T06:14:29.618239+00:00"
 }
