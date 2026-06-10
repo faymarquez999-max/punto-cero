@@ -1,298 +1,6 @@
 {
   "watches": [
     {
-      "id": "b4e1b2b89a67",
-      "fingerprint": "b4e1b2b89a67",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando confusión y debate",
-      "why_memeable": "La simplicidad y la ambigüedad de la palabra 'True' hacen que sea fácil de compartir y discutir",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "true",
-        "twitter"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-05-30T15:51:22.678029+00:00",
-      "expires_at": "2026-06-01T15:51:22.678029+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELIEN",
-        "name": "ELIEN MUSK",
-        "mint": "5o61DgZrDGbCp5EBeyzLidUFXNVTtbfUGP3nY3s7pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 108121.0,
-        "liquidity_usd": 37092.04,
-        "price_usd": 0.0001083,
-        "volume_h24": 13246.73,
-        "volume_h1": 153.72,
-        "volume_m5": 63.02,
-        "price_change_5m": 0.89,
-        "price_change_1h": 0.79,
-        "price_change_24h": 1.56,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 1,
-        "created_ts": 1776969286000,
-        "pair_created_at": 1776969286000,
-        "url": "https://dexscreener.com/solana/bk7lazv9g4wdp5pf3fyfk6ufpfootjhhzhz5sr977hnf",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in ELIEN MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-30T15:56:07.004603+00:00"
-    },
-    {
-      "id": "91220afac1ab",
-      "fingerprint": "91220afac1ab",
-      "narrative_summary": "Elon Musk comparte un contenido viral con 18 millones de interacciones sobre la frase 'Frank is right'.",
-      "why_memeable": "La frase 'Frank is right' es breve, fácil de recordar y tiene un impacto emocional. La participación de Elon Musk aumenta su relevancia y viralidad.",
-      "category": "Tecnología/Internet",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "FRANKISRIGHT",
-        "ELONMUSKFRANK"
-      ],
-      "key_terms_for_dex_search": [
-        "frank",
-        "elonmusk",
-        "xcancel",
-        "nitter"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 0,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-05-30T15:51:36.221374+00:00",
-      "expires_at": "2026-06-01T15:51:36.221374+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Frank is right",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-01T16:27:25.188617+00:00"
-    },
-    {
-      "id": "8450a2d7b466",
-      "fingerprint": "8450a2d7b466",
-      "narrative_summary": "Un monje sri lankan de alto rango es suspendido por acusaciones de abuso sexual a un niño",
-      "why_memeable": "La narrativa tiene un núcleo claro (abuso de un niño) y es fácil de compartir",
-      "category": "abuso infantil",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MONJEABUSADOR",
-        "ABUSOBUDISTA",
-        "NIÑOABUSADO"
-      ],
-      "key_terms_for_dex_search": [
-        "abuso infantil",
-        "monje sri lankan",
-        "acusaciones",
-        "suspensión"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T15:53:38.552584+00:00",
-      "expires_at": "2026-06-02T15:53:38.552584+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
-      "cluster_sources": [
-        "breaking_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-02T17:53:26.855329+00:00"
-    },
-    {
-      "id": "81e61c15b18c",
-      "fingerprint": "81e61c15b18c",
-      "narrative_summary": "Un oficial de policía en Shelby fue despedido después de golpear a una mujer repetidamente en un video viral de arresto.",
-      "why_memeable": "La narrativa es memeable porque involucra un acto de violencia policial, lo que puede generar una reacción emocional en los espectadores.",
-      "category": "violencia policial",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "POLICÍAMAL",
-        "GOLPEANDO A UNA MUJER",
-        "VÍDEOVIRAL"
-      ],
-      "key_terms_for_dex_search": [
-        "policía",
-        "violencia",
-        "vídeo",
-        "arresto",
-        "despedido"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 6,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T15:54:27.535459+00:00",
-      "expires_at": "2026-06-01T15:54:27.535459+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Shelby officer fired after punching woman repeatedly in viral arrest video, police say - WBTV",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-01T16:27:25.188619+00:00"
-    },
-    {
-      "id": "8a2ff585f203",
-      "fingerprint": "8a2ff585f203",
-      "narrative_summary": "Donald Trump y Elon Musk han reavivado su relación en una cena en Mar-a-Lago, lo que ha generado interés y debate en las redes sociales.",
-      "why_memeable": "La relación entre Trump y Musk es un tema de interés público y su reunión ha generado especulaciones y reacciones en las redes sociales.",
-      "category": "política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMPMSK",
-        "MUSKTRUMP",
-        "MARALAGO",
-        "TRUMPMUSKFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Mar-a-Lago",
-        "celebridad",
-        "política"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T17:19:18.635572+00:00",
-      "expires_at": "2026-06-02T17:19:18.635572+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 110165.0,
-        "liquidity_usd": 27153.52,
-        "price_usd": 0.0001101,
-        "volume_h24": 145523.59,
-        "volume_h1": 3179.19,
-        "volume_m5": 923.4,
-        "price_change_5m": -3.46,
-        "price_change_1h": -6.59,
-        "price_change_24h": 11.36,
-        "txns_h1_buys": 73,
-        "txns_h1_sells": 48,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter",
-        "wikipedia"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T02:00:51.189085+00:00"
-    },
-    {
       "id": "2d9c3c055922",
       "fingerprint": "2d9c3c055922",
       "narrative_summary": "Un oficial de policía es acusado de golpear a una mujer durante un arresto en Shelby, Carolina del Norte.",
@@ -10685,7 +10393,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "208331bd6130",
@@ -10820,7 +10528,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d26fecd1ccec",
@@ -10937,14 +10645,15 @@
       "started_at": "2026-06-08T11:34:06.452340+00:00",
       "expires_at": "2026-06-10T11:34:06.452340+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "John Lithgow and Lesley Manville lead Tony Award winners",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-10T17:38:26.959148+00:00"
     },
     {
       "id": "8a37e50659c2",
@@ -11071,7 +10780,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "2f59f5188b71",
@@ -11121,7 +10830,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "902850ced94d",
@@ -11167,7 +10876,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9235c3015da5",
@@ -11211,7 +10920,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b59c3e61f5d9",
@@ -11255,7 +10964,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5eda9d29eeab",
@@ -11368,7 +11077,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "750886ba4acd",
@@ -11413,7 +11122,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c02ad7a5c642",
@@ -11455,7 +11164,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e4572af5d647",
@@ -11720,7 +11429,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6f0e5dc5fb2b",
@@ -11762,7 +11471,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ca13649dd6f6",
@@ -11881,7 +11590,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5a640f6b31bd",
@@ -12103,7 +11812,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "48507239018b",
@@ -12149,7 +11858,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "18b8f96a3a4f",
@@ -12340,7 +12049,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c9edd17803b8",
@@ -12418,7 +12127,236 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-10T10:42:11.138054+00:00"
+    },
+    {
+      "id": "7b7133f19c80",
+      "fingerprint": "7b7133f19c80",
+      "narrative_summary": "Steven Spielberg lanza 'Disclosure Day', una película sobre alienígenas que recibe críticas positivas.",
+      "why_memeable": "La película de Spielberg sobre alienígenas tiene un título atractivo y un tema interesante que puede generar memes.",
+      "category": "Cine",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "DISCLOSUREDAY",
+        "SPIELBERGALIENS",
+        "ALIENBLOCKBUSTER"
+      ],
+      "key_terms_for_dex_search": [
+        "DisclosureDay",
+        "Spielberg",
+        "Aliens",
+        "Cine"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-06-10T17:38:50.598879+00:00",
+      "expires_at": "2026-06-12T17:38:50.598879+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Steven Spielberg’s ‘Disclosure Day’: What the Critics Are Saying - IMDb",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "76e7125421f8",
+      "fingerprint": "76e7125421f8",
+      "narrative_summary": "Bill Gates declara al Congreso que Epstein intentó usar sus infidelidades para presionarle",
+      "why_memeable": "La narrativa es memeable debido a la implicación de Bill Gates y Epstein en una situación controvertida.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BILLGATESEPSTEIN",
+        "GATESEPSTEINCONTROVERSY"
+      ],
+      "key_terms_for_dex_search": [
+        "BillGates",
+        "Epstein",
+        "Congreso",
+        "infidelidades"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-10T17:39:24.761022+00:00",
+      "expires_at": "2026-06-12T17:39:24.761022+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Bill Gates declara al Congreso que Epstein intentó usar sus infidelidades para presionarle - EL PAÍS",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6af9fb9adc43",
+      "fingerprint": "6af9fb9adc43",
+      "narrative_summary": "La inflación en EE.UU. supera el 4% debido a la guerra en Irán",
+      "why_memeable": "La narrativa tiene un título claro y una frase clave ('superar el 4%') que puede ser compartida y recordada",
+      "category": "economía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "INFLACIÓN",
+        "IRÁN",
+        "EE.UU.",
+        "INFLACIÓN_DE_IRÁN"
+      ],
+      "key_terms_for_dex_search": [
+        "inflación",
+        "EE.UU.",
+        "Irán",
+        "guerra",
+        "economía"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-10T17:40:43.473016+00:00",
+      "expires_at": "2026-06-13T17:40:43.473016+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US consumer inflation breaks above 4% as Iran war raises energy prices - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "3f470e4eb752",
+      "fingerprint": "3f470e4eb752",
+      "narrative_summary": "Solo 11% de europeos ven a EE. UU. como aliado, según encuesta - Reuters",
+      "why_memeable": "La narrativa tiene un título claro y conciso, y se puede capturar en una frase corta. La idea de que solo 11% de europeos ven a EE. UU. como aliado es sorprendente y genera interés.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EEUUALIADO",
+        "BLOCKADEIRAN",
+        "OPECOIL"
+      ],
+      "key_terms_for_dex_search": [
+        "EEUU",
+        "alianza",
+        "bloqueo",
+        "Irán",
+        "OPEC",
+        "petróleo"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-10T17:41:43.194493+00:00",
+      "expires_at": "2026-06-12T17:41:43.194493+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Only 11% of Europeans view US as ally, survey shows - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "97f023599efd",
+      "fingerprint": "97f023599efd",
+      "narrative_summary": "Un árbitro de fútbol somalí es rechazado a los Estados Unidos para el Mundial y es recibido como un héroe en su país",
+      "why_memeable": "La narrativa tiene un núcleo fácil de capturar (árbitro rechazado, héroe) y puede ser compartida sin contexto",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SOMALIREF",
+        "FUTBOLHERO",
+        "MUNDIALRECHAZO"
+      ],
+      "key_terms_for_dex_search": [
+        "Somalia",
+        "Mundial",
+        "árbitro",
+        "rechazado",
+        "héroe"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-10T17:42:24.022659+00:00",
+      "expires_at": "2026-06-12T17:42:24.022659+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Somali soccer referee denied entry to US for World Cup is welcomed home as a hero - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-10T10:42:11.138072+00:00"
+  "last_updated": "2026-06-10T17:42:24.022659+00:00"
 }
