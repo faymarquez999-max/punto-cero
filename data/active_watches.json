@@ -9854,14 +9854,15 @@
       "started_at": "2026-06-07T00:17:35.498051+00:00",
       "expires_at": "2026-06-10T00:17:35.498051+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "A star is born as Andreeva eases into Grand Slam winners' club - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-10T01:35:02.664058+00:00"
     },
     {
       "id": "d81fa6788ac9",
@@ -9908,7 +9909,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "17f8b63540fd",
@@ -10037,7 +10038,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "42f2467842b2",
@@ -10084,7 +10085,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "f9e31b98ce40",
@@ -10223,7 +10224,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "77a91551c424",
@@ -10869,7 +10870,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "208331bd6130",
@@ -10957,7 +10958,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c0e92d79c5a3",
@@ -11002,7 +11003,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d26fecd1ccec",
@@ -11126,7 +11127,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8a37e50659c2",
@@ -11166,14 +11167,46 @@
       "started_at": "2026-06-08T11:34:45.496703+00:00",
       "expires_at": "2026-06-10T11:34:45.496703+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "KING",
+        "name": "the vaguepost king",
+        "mint": "4u1xmmG794nNLg3qCFb8ZSek9BAcoNua1ZYcskZrpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26849.0,
+        "liquidity_usd": 12056.54,
+        "price_usd": 2.74e-05,
+        "volume_h24": 5918.38,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -3.19,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1773320501000,
+        "pair_created_at": 1773320501000,
+        "url": "https://dexscreener.com/solana/7ug4asstj14sfdbtd48zyl5r1hkzgvscwdhyxrn28fld",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: POST in THE VAGUEPOST KING",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Fuming Trump, 79, Fires Off Ominous Late-Night Election Post - The Daily Beast",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-10T01:40:07.904348+00:00"
     },
     {
       "id": "a2fada14dbe0",
@@ -11221,7 +11254,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2f59f5188b71",
@@ -11271,7 +11304,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "902850ced94d",
@@ -11317,7 +11350,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9235c3015da5",
@@ -11361,7 +11394,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b59c3e61f5d9",
@@ -11405,7 +11438,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5eda9d29eeab",
@@ -11518,7 +11551,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "750886ba4acd",
@@ -11563,7 +11596,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c02ad7a5c642",
@@ -11605,7 +11638,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e4572af5d647",
@@ -11870,7 +11903,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6f0e5dc5fb2b",
@@ -11912,7 +11945,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ca13649dd6f6",
@@ -12031,7 +12064,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5a640f6b31bd",
@@ -12253,7 +12286,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "48507239018b",
@@ -12299,7 +12332,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "18b8f96a3a4f",
@@ -12336,14 +12369,46 @@
       "started_at": "2026-06-09T23:04:08.289615+00:00",
       "expires_at": "2026-06-16T23:04:08.289615+00:00",
       "duration_hours": 168,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ENOUGH",
+        "name": "Enough is enough",
+        "mint": "b8mCYh9psBHCw5L5YZZTJgRuVcaDBd1zZD8TK1Cpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 10413.0,
+        "liquidity_usd": 8532.25,
+        "price_usd": 1.041e-05,
+        "volume_h24": 65237.17,
+        "volume_h1": 992.04,
+        "volume_m5": 68.29,
+        "price_change_5m": -2.19,
+        "price_change_1h": 19.42,
+        "price_change_24h": 244.0,
+        "txns_h1_buys": 22,
+        "txns_h1_sells": 12,
+        "created_ts": 1757512137000,
+        "pair_created_at": 1757512137000,
+        "url": "https://dexscreener.com/solana/2djjthy59bmumooqiddwrzzb8vnxnhyrcfo3tmpscyuz",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ENOUGH==ENOUGH",
+        "safety_score": 1157,
+        "safety_risks": [
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Enough.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-10T01:40:18.831553+00:00"
     }
   ],
-  "last_updated": "2026-06-09T23:04:08.289615+00:00"
+  "last_updated": "2026-06-10T01:40:18.831566+00:00"
 }

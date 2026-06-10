@@ -9727,6 +9727,26 @@
           "NORDIC4"
         ]
       }
+    },
+    {
+      "ts": "2026-06-10T01:40:07.907094+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8a37e50659c2",
+        "ticker": "KING",
+        "mint": "4u1xmmG794nNLg3qCFb8ZSek9BAcoNua1ZYcskZrpump",
+        "mc": 26849.0
+      }
+    },
+    {
+      "ts": "2026-06-10T01:40:18.833823+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "18b8f96a3a4f",
+        "ticker": "ENOUGH",
+        "mint": "b8mCYh9psBHCw5L5YZZTJgRuVcaDBd1zZD8TK1Cpump",
+        "mc": 10413.0
+      }
     }
   ]
 }
