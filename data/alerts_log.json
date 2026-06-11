@@ -10296,6 +10296,52 @@
         "mint": "6x61MPqUz19ktKsmfyejSGiU9L38uyzQL1Riv3ZXpump",
         "mc": 14330.0
       }
+    },
+    {
+      "ts": "2026-06-11T13:07:45.506835+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "crimen y justicia",
+        "title": "Police officer, 19, dies from crash injuries",
+        "candidate_tickers": [
+          "arrestado",
+          "oficina de correos",
+          "policía",
+          "violencia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T13:09:16.536218+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "92cc882ae727",
+        "score": 88,
+        "category": "política",
+        "title": "UK defence minister Healey quits, says PM Starmer's plans fail to keep country safe - Reuters",
+        "candidate_tickers": [
+          "HEALEY",
+          "STARMER",
+          "UKDEFENSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T13:10:26.000058+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e83310607020",
+        "score": 74,
+        "category": "economía y política",
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps-up energy costs - CNBC",
+        "candidate_tickers": [
+          "ECB",
+          "IRÁN",
+          "GUERRA",
+          "TASAS DE INTERÉS"
+        ]
+      }
     }
   ]
 }
