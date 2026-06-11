@@ -10205,6 +10205,97 @@
           "ERRORDEJUICIOGRAVE"
         ]
       }
+    },
+    {
+      "ts": "2026-06-11T04:55:21.724634+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "427c6e38e02a",
+        "score": 80,
+        "category": "Deportes",
+        "title": "The New York Knicks made the greatest comeback in NBA Finals history tonight after being down 29 points.",
+        "candidate_tickers": [
+          "KNICKS",
+          "NBAUPSET",
+          "REBOUNDKINGS",
+          "NYKCOMEBACK",
+          "SPURSSTUNNED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T04:55:30.530821+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "07ef6591ba06",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
+        "candidate_tickers": [
+          "AIWAR",
+          "PRICECUT",
+          "OPENAI",
+          "ANTHROPIC",
+          "TECHBRAWL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T04:55:48.149217+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "25237092e807",
+        "score": 80,
+        "category": "Finanzas y Tecnología",
+        "title": "SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg",
+        "candidate_tickers": [
+          "MUSK",
+          "SPACEX",
+          "IPOFRENZY",
+          "MUSKFANS",
+          "SPACEXTOOMOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T04:58:35.315306+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2f59f5188b71",
+        "ticker": "ELON",
+        "mint": "BqYJQ6hVYxYzGrSbUyXy52oP6aFduq1PRxUVSrFtuDgz",
+        "mc": 31769.0
+      }
+    },
+    {
+      "ts": "2026-06-11T04:58:47.992295+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "427c6e38e02a",
+        "ticker": "KNICKS",
+        "mint": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
+        "mc": 81025.0
+      }
+    },
+    {
+      "ts": "2026-06-11T04:58:49.865209+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "07ef6591ba06",
+        "ticker": "OPAI",
+        "mint": "3bGdt75UBdXcCenjdig26ZFQTSzWsKrvG8mFEbSJpump",
+        "mc": 32733.0
+      }
+    },
+    {
+      "ts": "2026-06-11T04:58:51.602742+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "25237092e807",
+        "ticker": "FU",
+        "mint": "6x61MPqUz19ktKsmfyejSGiU9L38uyzQL1Riv3ZXpump",
+        "mc": 14330.0
+      }
     }
   ]
 }

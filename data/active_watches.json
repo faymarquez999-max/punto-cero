@@ -1,147 +1,6 @@
 {
   "watches": [
     {
-      "id": "2d9c3c055922",
-      "fingerprint": "2d9c3c055922",
-      "narrative_summary": "Un oficial de policía es acusado de golpear a una mujer durante un arresto en Shelby, Carolina del Norte.",
-      "why_memeable": "La narrativa tiene un núcleo claro (oficial de policía golpeando a una mujer) y es fácil de compartir.",
-      "category": "Noticias de policía",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SHELBYCOP",
-        "POLICÍAABUSIVA",
-        "GOLPEANDOALAMUJER"
-      ],
-      "key_terms_for_dex_search": [
-        "Shelby",
-        "oficial de policía",
-        "golpeando a una mujer",
-        "arresto",
-        "política"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T17:19:32.403021+00:00",
-      "expires_at": "2026-06-01T17:19:32.403021+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Girl, 15, dies after swimming at beach",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-01T20:47:22.082091+00:00"
-    },
-    {
-      "id": "6425ae672ac3",
-      "fingerprint": "6425ae672ac3",
-      "narrative_summary": "Liverpool despidió al entrenador Arne Slot después de una defensa del título Premier League desastrosa",
-      "why_memeable": "La noticia tiene un título claro y una frase memorable",
-      "category": "fútbol",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SLOTSACKED",
-        "LIVERPOOLDESASTRE",
-        "ARNESLOT"
-      ],
-      "key_terms_for_dex_search": [
-        "Liverpool",
-        "Arne Slot",
-        "Premier League",
-        "desastrosa",
-        "fútbol"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T17:20:11.143256+00:00",
-      "expires_at": "2026-06-01T17:20:11.143256+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-01T20:47:22.082094+00:00"
-    },
-    {
-      "id": "c967399d7684",
-      "fingerprint": "c967399d7684",
-      "narrative_summary": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest",
-      "why_memeable": "La narrativa tiene un líder político opositor que es expulsado y atrae a miles de personas en una protesta en Ankara, lo que sugiere un conflicto político o social significativo.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "OZEL",
-        "ANKARA",
-        "TURQUÍA",
-        "PROTESTA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ozel",
-        "Ankara",
-        "Turquía",
-        "protesta"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 7
-      },
-      "started_at": "2026-05-30T17:21:49.892782+00:00",
-      "expires_at": "2026-06-01T17:21:49.892782+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-01T20:47:22.082096+00:00"
-    },
-    {
       "id": "d4599031aca4",
       "fingerprint": "d4599031aca4",
       "narrative_summary": "Un juez ordena que el nombre de Trump sea eliminado del Kennedy Center debido a una violación legal.",
@@ -10384,7 +10243,7 @@
       "started_at": "2026-06-07T23:15:08.678858+00:00",
       "expires_at": "2026-06-10T23:15:08.678858+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "TRUMP TO FOX NEWS ON IRAN:  WOULD SAY DEAL WILL BE SIGNED ON MONDAY,  TUESDAY OR WEDNESDAY AND NOW THIS TAKES PLACE",
       "cluster_sources": [
@@ -10393,7 +10252,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-06-11T04:55:20.018270+00:00"
     },
     {
       "id": "208331bd6130",
@@ -10528,7 +10388,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d26fecd1ccec",
@@ -10780,7 +10640,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "2f59f5188b71",
@@ -10821,8 +10681,34 @@
       "started_at": "2026-06-08T18:11:26.680990+00:00",
       "expires_at": "2026-06-11T18:11:26.680990+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Musk",
+        "mint": "BqYJQ6hVYxYzGrSbUyXy52oP6aFduq1PRxUVSrFtuDgz",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 31769.0,
+        "liquidity_usd": 22575.59,
+        "price_usd": 3.354e-05,
+        "volume_h24": 7536.04,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 24.9,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1718004365000,
+        "pair_created_at": 1718004365000,
+        "url": "https://dexscreener.com/solana/enhzbwtbvy6b6jujbmctduzgw2rybzr4mzs6r9qc7yuc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Today is National Best Friends Day.",
       "cluster_sources": [
         "4chan",
@@ -10830,7 +10716,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8,
+      "matched_at": "2026-06-11T04:58:35.312726+00:00"
     },
     {
       "id": "902850ced94d",
@@ -10869,14 +10756,15 @@
       "started_at": "2026-06-08T18:12:11.272118+00:00",
       "expires_at": "2026-06-10T18:12:11.272118+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "🚨WOW. Famous British DJ, Tom Zanetti, dedicates his performance to Henry Nowak in-front of thousands yesterday",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-11T04:55:20.018283+00:00"
     },
     {
       "id": "9235c3015da5",
@@ -10913,14 +10801,15 @@
       "started_at": "2026-06-08T18:13:16.180317+00:00",
       "expires_at": "2026-06-10T18:13:16.180317+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "At least 35 dead after major earthquake strikes southern Philippines",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-11T04:55:20.018286+00:00"
     },
     {
       "id": "b59c3e61f5d9",
@@ -10964,7 +10853,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "5eda9d29eeab",
@@ -11071,13 +10960,14 @@
       "started_at": "2026-06-08T18:16:43.945405+00:00",
       "expires_at": "2026-06-10T18:16:43.945405+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Choice of narrative is the biggest lie of the legacy media",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-11T04:55:20.018289+00:00"
     },
     {
       "id": "750886ba4acd",
@@ -11122,7 +11012,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "c02ad7a5c642",
@@ -11158,13 +11048,14 @@
       "started_at": "2026-06-09T04:14:15.295880+00:00",
       "expires_at": "2026-06-11T04:14:15.295880+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The system is rotten",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-11T04:55:20.018292+00:00"
     },
     {
       "id": "e4572af5d647",
@@ -11429,7 +11320,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6f0e5dc5fb2b",
@@ -11471,7 +11362,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ca13649dd6f6",
@@ -11590,7 +11481,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5a640f6b31bd",
@@ -11812,7 +11703,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "48507239018b",
@@ -11858,7 +11749,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "18b8f96a3a4f",
@@ -12049,7 +11940,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c9edd17803b8",
@@ -12171,7 +12062,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "76e7125421f8",
@@ -12215,7 +12106,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6af9fb9adc43",
@@ -12262,7 +12153,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3f470e4eb752",
@@ -12309,7 +12200,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "97f023599efd",
@@ -12355,8 +12246,252 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
+    },
+    {
+      "id": "427c6e38e02a",
+      "fingerprint": "427c6e38e02a",
+      "narrative_summary": "Los New York Knicks lograron la mayor remontada en la historia de las Finales de la NBA, después de estar abajo 29 puntos.",
+      "why_memeable": "La remontada histórica y el contexto de la competición deportiva generan un alto potencial de viralidad y discusión en las redes sociales.",
+      "category": "Deportes",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "KNICKS",
+        "NBAUPSET",
+        "REBOUNDKINGS",
+        "NYKCOMEBACK",
+        "SPURSSTUNNED"
+      ],
+      "key_terms_for_dex_search": [
+        "NBA",
+        "Knicks",
+        "remontada",
+        "Finales NBA",
+        "deportes"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-11T04:55:21.285227+00:00",
+      "expires_at": "2026-06-14T04:55:21.285227+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "KNICKS",
+        "name": "New York Knicks",
+        "mint": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 81025.0,
+        "liquidity_usd": 23350.14,
+        "price_usd": 8.325e-05,
+        "volume_h24": 138492.11,
+        "volume_h1": 19557.18,
+        "volume_m5": 193.09,
+        "price_change_5m": 0.38,
+        "price_change_1h": -9.45,
+        "price_change_24h": 4.49,
+        "txns_h1_buys": 198,
+        "txns_h1_sells": 141,
+        "created_ts": 1779916158000,
+        "pair_created_at": 1779916158000,
+        "url": "https://dexscreener.com/solana/cmxvcvdglyxtjdfacwk4l4ktcnwosr4nwv6l1eqycsbz",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: KNICKS==KNICKS",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "The New York Knicks made the greatest comeback in NBA Finals history tonight after being down 29 points.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter",
+        "polymarket",
+        "wikipedia"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-11T04:58:47.990143+00:00"
+    },
+    {
+      "id": "07ef6591ba06",
+      "fingerprint": "07ef6591ba06",
+      "narrative_summary": "OpenAI considera recortes de precios drásticos ante la competencia con Anthropic",
+      "why_memeable": "La noticia tiene un impacto emocional moderado y es fácil de resumir en una frase corta",
+      "category": "Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "AIWAR",
+        "PRICECUT",
+        "OPENAI",
+        "ANTHROPIC",
+        "TECHBRAWL"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "Anthropic",
+        "precio",
+        "guerra",
+        "tecnología"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-11T04:55:30.195790+00:00",
+      "expires_at": "2026-06-14T04:55:30.195790+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "OPAI",
+        "name": "OpenAI",
+        "mint": "3bGdt75UBdXcCenjdig26ZFQTSzWsKrvG8mFEbSJpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 32733.0,
+        "liquidity_usd": 13306.38,
+        "price_usd": 3.275e-05,
+        "volume_h24": 7996.24,
+        "volume_h1": 167.48,
+        "volume_m5": 12.57,
+        "price_change_5m": -1.51,
+        "price_change_1h": -1.95,
+        "price_change_24h": -15.06,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 4,
+        "created_ts": 1761780576000,
+        "pair_created_at": 1761780576000,
+        "url": "https://dexscreener.com/solana/7tcktrjmjgnsq4cqd3bhkjsfjoyisxv2ayyvstuz8pnn",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: OPENAI in OPENAI",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-11T04:58:49.860556+00:00"
+    },
+    {
+      "id": "25237092e807",
+      "fingerprint": "25237092e807",
+      "narrative_summary": "La noticia de la posible IPO de SpaceX ha generado una gran expectación y entusiasmo entre los fans de Elon Musk.",
+      "why_memeable": "La combinación de la figura carismática de Elon Musk, la emoción y expectación generada por la posible IPO de SpaceX, y la simplicidad del mensaje 'The More, the Better' hacen que esta narrativa tenga un alto potencial memético.",
+      "category": "Finanzas y Tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSK",
+        "SPACEX",
+        "IPOFRENZY",
+        "MUSKFANS",
+        "SPACEXTOOMOON"
+      ],
+      "key_terms_for_dex_search": [
+        "SpaceX",
+        "IPO",
+        "Elon Musk",
+        "Musk Fans",
+        "Frenzy"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-11T04:55:47.809331+00:00",
+      "expires_at": "2026-06-14T04:55:47.809331+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "6x61MPqUz19ktKsmfyejSGiU9L38uyzQL1Riv3ZXpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14330.0,
+        "liquidity_usd": 12653.09,
+        "price_usd": 1.582e-05,
+        "volume_h24": 88068.56,
+        "volume_h1": 922.47,
+        "volume_m5": 90.65,
+        "price_change_5m": 2.7,
+        "price_change_1h": -3.95,
+        "price_change_24h": -73.22,
+        "txns_h1_buys": 12,
+        "txns_h1_sells": 17,
+        "created_ts": 1781125995000,
+        "pair_created_at": 1781125995000,
+        "url": "https://dexscreener.com/solana/be1oggz5c6yhswjgghcvmkgbvxrdgtcekx3higwkpq8h",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-11T04:58:51.600719+00:00"
     }
   ],
-  "last_updated": "2026-06-10T17:42:24.022659+00:00"
+  "last_updated": "2026-06-11T04:58:51.600735+00:00"
 }
