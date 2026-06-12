@@ -10718,6 +10718,50 @@
           "negocio"
         ]
       }
+    },
+    {
+      "ts": "2026-06-12T18:17:35.390653+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Arte y Cultura",
+        "title": "David Hockney, iconic British artist known for his colorful landscapes and pool scenes, dies at 88 - AP News",
+        "candidate_tickers": [
+          "Hockney88",
+          "DavidHockneyMuerte",
+          "ArtistaFamosoFallece"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T18:19:41.992200+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "53e430bfea7e",
+        "score": 74,
+        "category": "fraude criptográfico",
+        "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
+        "candidate_tickers": [
+          "SBF",
+          "BANKMANFRIED",
+          "FTX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T18:20:30.137101+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ba6ce2cdc21c",
+        "score": 88,
+        "category": "política",
+        "title": "Exclusive: US military rushed to prepare ground mission to capture Iran’s uranium, but Trump paused it, sources say - CNN",
+        "candidate_tickers": [
+          "TRUMP_SUSPENDE",
+          "URANIO_DE_IRAN",
+          "MISION_DE_CAPTURA"
+        ]
+      }
     }
   ]
 }
