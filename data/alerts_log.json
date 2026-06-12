@@ -10816,6 +10816,103 @@
         "mint": "26YRpwvWhTSBSAkQbhNP6AXBNrJe8uRxibAn7ZXXpump",
         "mc": 23646.0
       }
+    },
+    {
+      "ts": "2026-06-12T22:13:01.172549+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "82bde9153005",
+        "score": 84,
+        "category": "Noticias de criptomonedas",
+        "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
+        "candidate_tickers": [
+          "SBF",
+          "FRAUDMAN",
+          "CRYPTOFAIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:13:50.421216+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a3cb807b20cc",
+        "score": 73,
+        "category": "negocios",
+        "title": "Roku is exploring strategic options, including a sale of the company, sources say - Reuters",
+        "candidate_tickers": [
+          "ROKU",
+          "SALE",
+          "ROKU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:14:26.508318+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "Freedom 250’s fair on National Mall highlights conservative groups - Politico",
+        "candidate_tickers": [
+          "Freedom250",
+          "ConservativeGroups",
+          "NationalMall"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:15:09.196944+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5fd9a81100b8",
+        "score": 80,
+        "category": "política",
+        "title": "Judge upholds order to remove Trump's name from Kennedy Center - Axios",
+        "candidate_tickers": [
+          "TRUMP",
+          "KENNEDY_CENTER",
+          "JUDGE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:15:50.961189+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología",
+        "title": "SpaceX AI Satellites",
+        "candidate_tickers": [
+          "SPACEX",
+          "AI SAT",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:16:40.798326+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y innovación",
+        "title": "Another 29 sats to orbit!",
+        "candidate_tickers": [
+          "Sat29",
+          "Orbit29",
+          "SatsToOrbit"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T22:17:54.269219+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "82bde9153005",
+        "ticker": "SBF",
+        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
+        "mc": 178295.0
+      }
     }
   ]
 }

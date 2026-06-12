@@ -1,244 +1,6 @@
 {
   "watches": [
     {
-      "id": "14b1dabd527d",
-      "fingerprint": "14b1dabd527d",
-      "narrative_summary": "Un estudio revela que el 90% de los mensajes de odio en línea se dirigen a hombres y blancos.",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta.",
-      "category": "discriminación en línea",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "90VS",
-        "ODIOVS",
-        "HATEVS"
-      ],
-      "key_terms_for_dex_search": [
-        "hate speech",
-        "men",
-        "whites",
-        "discriminación en línea"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T23:42:10.994685+00:00",
-      "expires_at": "2026-06-01T23:42:10.994685+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "42069K",
-        "name": "The Retirement Token",
-        "mint": "Be78Ld3SpYMif5YgxM4ipJx2eGSDcAaaCkHUzcV5pump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 123484.0,
-        "liquidity_usd": 41040.4,
-        "price_usd": 0.0001237,
-        "volume_h24": 5997.49,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 2.31,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1731046479000,
-        "pair_created_at": 1731046479000,
-        "url": "https://dexscreener.com/solana/ccqxuv35fs4jpkfkffpfzrsycwngazztrfhvmedttkrk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MEN in THE RETIREMENT TOKEN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "90% of hate speech targets Men and Whites",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-05-31T16:24:38.906048+00:00"
-    },
-    {
-      "id": "9837c18fb69c",
-      "fingerprint": "9837c18fb69c",
-      "narrative_summary": "Elon Musk propone multiplicar el PIB humano por 1000 y la población humana.",
-      "why_memeable": "La propuesta de Elon Musk es absurda y fácil de capturar en una frase.",
-      "category": "Economía y tecnología",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "LETSX1000",
-        "GDPX1000"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "PIB",
-        "población",
-        "x1000"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-30T23:42:24.465263+00:00",
-      "expires_at": "2026-06-01T23:42:24.465263+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "pibble",
-        "name": "pibble",
-        "mint": "Eppcp4FhG6wmaRno3omWWvKsZHbzucVLR316SdXopump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 68579.0,
-        "liquidity_usd": 35750.53,
-        "price_usd": 6.863e-05,
-        "volume_h24": 5044.19,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 17.4,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1758503388000,
-        "pair_created_at": 1758503388000,
-        "url": "https://dexscreener.com/solana/fumjacuaarcubd4dpwycmivs3sjabbb4vyw7auygwxxh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: PIB in PIBBLE",
-        "safety_score": 4769,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "LETS x1000 the GDP",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T02:01:07.986948+00:00"
-    },
-    {
-      "id": "1da7b8d13604",
-      "fingerprint": "1da7b8d13604",
-      "narrative_summary": "El expresidente de Estados Unidos, Donald Trump, ha generado controversia al anunciar su participación en la Great American State Fair después de que varios artistas musicales cancelaron su participación debido a su asociación con él.",
-      "why_memeable": "La noticia combina elementos de controversia política, celebridades y eventos culturales, lo que puede generar un gran interés y engagement en las redes sociales.",
-      "category": "Política y Entretenimiento",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMPFAIR",
-        "STATEFAIR",
-        "TRUMPNEWS",
-        "GREATAMERICAN",
-        "FAIRCONTROVERSY"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Great American State Fair",
-        "Celebridad",
-        "Política",
-        "Controversia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-05-31T01:56:00.124176+00:00",
-      "expires_at": "2026-06-03T01:56:00.124176+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 110165.0,
-        "liquidity_usd": 27153.52,
-        "price_usd": 0.0001101,
-        "volume_h24": 145523.59,
-        "volume_h1": 3179.19,
-        "volume_m5": 923.4,
-        "price_change_5m": -3.46,
-        "price_change_1h": -6.59,
-        "price_change_24h": 11.36,
-        "txns_h1_buys": 73,
-        "txns_h1_sells": 48,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T02:01:09.972190+00:00"
-    },
-    {
       "id": "e1dd71e07e82",
       "fingerprint": "e1dd71e07e82",
       "narrative_summary": "La esposa de Platner flagró mensajes sexuales con otras mujeres durante la campaña para el Senado de Maine.",
@@ -11133,7 +10895,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "48507239018b",
@@ -11371,7 +11133,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "c9edd17803b8",
@@ -11586,7 +11348,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "3f470e4eb752",
@@ -12048,7 +11810,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3b6997de4867",
@@ -12314,7 +12076,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9679a3604dc9",
@@ -12539,7 +12301,179 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-12T20:36:14.057740+00:00"
+    },
+    {
+      "id": "82bde9153005",
+      "fingerprint": "82bde9153005",
+      "narrative_summary": "Sam Bankman-Fried pierde la apelación para anular su condena por fraude en criptomonedas",
+      "why_memeable": "La noticia tiene un componente de injusticia y un personaje conocido en el mundo de las criptomonedas, lo que puede generar interés y discusión",
+      "category": "Noticias de criptomonedas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SBF",
+        "FRAUDMAN",
+        "CRYPTOFAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Bankman-Fried",
+        "criptomonedas",
+        "fraude",
+        "condena"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-12T22:13:00.791418+00:00",
+      "expires_at": "2026-06-15T22:13:00.791418+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SBF",
+        "name": "Sam Bankman-Fried",
+        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 178295.0,
+        "liquidity_usd": 44313.0,
+        "price_usd": 0.0001783,
+        "volume_h24": 16607.25,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -7.8,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1739226639000,
+        "pair_created_at": 1739226639000,
+        "url": "https://dexscreener.com/solana/hdzuaafeujzsjn3sww6uqe8dqnrgw3tueaxffianrlny",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: SBF==SBF",
+        "safety_score": 6166,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-12T22:17:54.266864+00:00"
+    },
+    {
+      "id": "a3cb807b20cc",
+      "fingerprint": "a3cb807b20cc",
+      "narrative_summary": "Roku explora opciones estratégicas, incluyendo la venta de la empresa, según fuentes.",
+      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturada en una frase corta.",
+      "category": "negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ROKU",
+        "SALE",
+        "ROKU"
+      ],
+      "key_terms_for_dex_search": [
+        "ROKU",
+        "venta",
+        "estrategias"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 7
+      },
+      "started_at": "2026-06-12T22:13:50.060245+00:00",
+      "expires_at": "2026-06-14T22:13:50.060245+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Roku is exploring strategic options, including a sale of the company, sources say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "5fd9a81100b8",
+      "fingerprint": "5fd9a81100b8",
+      "narrative_summary": "Un juez ha impuesto una orden para eliminar el nombre de Trump del Kennedy Center.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y un nombre fácil de recordar.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "KENNEDY_CENTER",
+        "JUDGE"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "KENNEDY_CENTER",
+        "JUDGE",
+        "ORDEN",
+        "ELIMINAR"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-12T22:15:08.758686+00:00",
+      "expires_at": "2026-06-14T22:15:08.758686+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Judge upholds order to remove Trump's name from Kennedy Center - Axios",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-12T20:36:14.057761+00:00"
+  "last_updated": "2026-06-12T22:17:54.266885+00:00"
 }
