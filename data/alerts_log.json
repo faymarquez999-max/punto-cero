@@ -10528,6 +10528,45 @@
           "#WASHINGTON"
         ]
       }
+    },
+    {
+      "ts": "2026-06-11T23:57:53.364436+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "50b462e31942",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters",
+        "candidate_tickers": [
+          "MUSKTRILLIONARIO",
+          "SPACEXIPO",
+          "BILLONARIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-11T23:58:17.620058+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+        "candidate_tickers": [
+          "UKDEF",
+          "DEFMIN",
+          "HEALEY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T00:02:15.422155+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "50b462e31942",
+        "ticker": "SPACEXIPO",
+        "mint": "4Nvm9o7UfQgHaDu7YfvwNFi3UuSpqEukohhS1cBPpump",
+        "mc": 73349.0
+      }
     }
   ]
 }
