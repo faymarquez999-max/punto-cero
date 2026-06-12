@@ -10762,6 +10762,60 @@
           "MISION_DE_CAPTURA"
         ]
       }
+    },
+    {
+      "ts": "2026-06-12T20:31:24.933262+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "30901d4a4794",
+        "score": 80,
+        "category": "Finanzas y Tecnología",
+        "title": "I love the incredible people of SpaceX beyond words",
+        "candidate_tickers": [
+          "MUSK",
+          "SPCX",
+          "TRILLION",
+          "SPACE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T20:33:34.990623+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Celebridad",
+        "title": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement - The New York Times",
+        "candidate_tickers": [
+          "LivelyWins",
+          "BaldoniLoses",
+          "CelebJustice"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T20:36:08.354127+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "humor absurdo",
+        "title": "Mom Goes Viral for Accidental NSFW 8th Birthday Cake - People.com",
+        "candidate_tickers": [
+          "NSFWcake",
+          "AccidentalCake",
+          "ViralMom"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-12T20:36:14.060107+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "30901d4a4794",
+        "ticker": "SPCX",
+        "mint": "26YRpwvWhTSBSAkQbhNP6AXBNrJe8uRxibAn7ZXXpump",
+        "mc": 23646.0
+      }
     }
   ]
 }

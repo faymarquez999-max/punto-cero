@@ -1,51 +1,6 @@
 {
   "watches": [
     {
-      "id": "5f6f3862e25f",
-      "fingerprint": "5f6f3862e25f",
-      "narrative_summary": "Elon Musk pide la liberación de los videos de las cámaras corporales",
-      "why_memeable": "La frase 'Release the body camera videos' es corta y fácil de recordar, y la participación de Elon Musk agrega un elemento de interés y controversia",
-      "category": "Política y tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "BODYCAM",
-        "MUSKLEAK",
-        "RELEASEIT"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "body camera",
-        "release",
-        "videos"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-30T23:41:57.629204+00:00",
-      "expires_at": "2026-06-01T23:41:57.629204+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Release the body camera videos",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-02T00:22:03.519245+00:00"
-    },
-    {
       "id": "14b1dabd527d",
       "fingerprint": "14b1dabd527d",
       "narrative_summary": "Un estudio revela que el 90% de los mensajes de odio en línea se dirigen a hombres y blancos.",
@@ -11178,7 +11133,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "48507239018b",
@@ -11416,7 +11371,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "c9edd17803b8",
@@ -11531,14 +11486,15 @@
       "started_at": "2026-06-10T17:38:50.598879+00:00",
       "expires_at": "2026-06-12T17:38:50.598879+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Steven Spielberg’s ‘Disclosure Day’: What the Critics Are Saying - IMDb",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-12T20:31:23.153567+00:00"
     },
     {
       "id": "76e7125421f8",
@@ -11575,14 +11531,15 @@
       "started_at": "2026-06-10T17:39:24.761022+00:00",
       "expires_at": "2026-06-12T17:39:24.761022+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Bill Gates declara al Congreso que Epstein intentó usar sus infidelidades para presionarle - EL PAÍS",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-12T20:31:23.153582+00:00"
     },
     {
       "id": "6af9fb9adc43",
@@ -11629,7 +11586,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3f470e4eb752",
@@ -11669,14 +11626,15 @@
       "started_at": "2026-06-10T17:41:43.194493+00:00",
       "expires_at": "2026-06-12T17:41:43.194493+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Only 11% of Europeans view US as ally, survey shows - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-12T20:31:23.153585+00:00"
     },
     {
       "id": "97f023599efd",
@@ -11715,14 +11673,15 @@
       "started_at": "2026-06-10T17:42:24.022659+00:00",
       "expires_at": "2026-06-12T17:42:24.022659+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Somali soccer referee denied entry to US for World Cup is welcomed home as a hero - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-12T20:31:23.153588+00:00"
     },
     {
       "id": "427c6e38e02a",
@@ -12089,7 +12048,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3b6997de4867",
@@ -12355,7 +12314,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9679a3604dc9",
@@ -12505,7 +12464,82 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-12T12:30:49.558453+00:00"
+    },
+    {
+      "id": "30901d4a4794",
+      "fingerprint": "30901d4a4794",
+      "narrative_summary": "Elon Musk se convierte en el primer billonario del mundo con la IPO de SpaceX",
+      "why_memeable": "La noticia tiene un alto impacto cultural y es fácil de entender y compartir",
+      "category": "Finanzas y Tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSK",
+        "SPCX",
+        "TRILLION",
+        "SPACE"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "SpaceX",
+        "IPO",
+        "Trillionaire"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-12T20:31:24.487510+00:00",
+      "expires_at": "2026-06-15T20:31:24.487510+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SPCX",
+        "name": "SpaceExplorationTechnologiesCorp",
+        "mint": "26YRpwvWhTSBSAkQbhNP6AXBNrJe8uRxibAn7ZXXpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 23646.0,
+        "liquidity_usd": 13651.86,
+        "price_usd": 2.386e-05,
+        "volume_h24": 107160.15,
+        "volume_h1": 942.92,
+        "volume_m5": 12.74,
+        "price_change_5m": -0.2,
+        "price_change_1h": -2.97,
+        "price_change_24h": -84.07,
+        "txns_h1_buys": 16,
+        "txns_h1_sells": 35,
+        "created_ts": 1779051611000,
+        "pair_created_at": 1779051611000,
+        "url": "https://dexscreener.com/solana/7jiknarb6cwr6zagmg2dbjeuwey65mvhwmpzmjeur5yt",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: SPCX==SPCX",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "I love the incredible people of SpaceX beyond words",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-12T20:36:14.057740+00:00"
     }
   ],
-  "last_updated": "2026-06-12T12:30:49.558473+00:00"
+  "last_updated": "2026-06-12T20:36:14.057761+00:00"
 }
