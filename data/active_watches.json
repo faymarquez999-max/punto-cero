@@ -1,103 +1,6 @@
 {
   "watches": [
     {
-      "id": "45a34e61a590",
-      "fingerprint": "45a34e61a590",
-      "narrative_summary": "Japan rechaza la etiqueta de 'nuevo militarismo' de China como hipócrita",
-      "why_memeable": "El titular es claro y conciso, y la noticia tiene un contenido emocional y político que puede generar interés",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JAPÓN",
-        "CHINA",
-        "MILITARISMO"
-      ],
-      "key_terms_for_dex_search": [
-        "Japón",
-        "China",
-        "Militarismo",
-        "Política internacional"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T06:30:51.578963+00:00",
-      "expires_at": "2026-06-02T06:30:51.578963+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MXNA",
-        "name": "Machina",
-        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 27380.0,
-        "liquidity_usd": 109173.04,
-        "price_usd": 0.009126,
-        "volume_h24": 10680.0,
-        "volume_h1": 28.73,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.1,
-        "price_change_24h": 20.44,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1770619053000,
-        "pair_created_at": 1770619053000,
-        "url": "https://dexscreener.com/solana/asea5hahzwnbwcytdlgpdr9zkq5h8htav5nusqpvxr1d",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHINA in MACHINA",
-        "safety_score": 80327,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Japan Rejects China’s ‘New Militarism’ Label as Hypocritical - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T09:42:35.086983+00:00"
-    },
-    {
       "id": "acb69bed1b82",
       "fingerprint": "acb69bed1b82",
       "narrative_summary": "Rescate de supervivientes en cueva inundada en Laos",
@@ -10408,7 +10311,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "48507239018b",
@@ -10855,14 +10758,15 @@
       "started_at": "2026-06-10T17:40:43.473016+00:00",
       "expires_at": "2026-06-13T17:40:43.473016+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "US consumer inflation breaks above 4% as Iran war raises energy prices - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-13T17:49:31.737530+00:00"
     },
     {
       "id": "3f470e4eb752",
@@ -11317,14 +11221,15 @@
       "started_at": "2026-06-11T17:05:38.527167+00:00",
       "expires_at": "2026-06-13T17:05:38.527167+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Why defence funding deal offered to Healey wasn't enough to keep him",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-13T17:49:31.737545+00:00"
     },
     {
       "id": "3b6997de4867",
@@ -11590,7 +11495,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "9679a3604dc9",
@@ -11940,7 +11845,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5fd9a81100b8",
@@ -11986,7 +11891,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "42cab2cbdfff",
@@ -12191,7 +12096,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "15d155c15fd6",
@@ -12238,7 +12143,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c740467cbea6",
@@ -12362,7 +12267,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8f7026149a23",
@@ -12478,8 +12383,53 @@
       "cluster_sources": [
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "ccea76816dd8",
+      "fingerprint": "ccea76816dd8",
+      "narrative_summary": "Beijing expresa su disconformidad con la decisión del Pentágono contra las principales empresas tecnológicas chinas.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre dos actores poderosos (China y el Pentágono) y un tema de interés general (tecnología y política).",
+      "category": "Política Internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CHINAVSPENTAGON",
+        "TECHWARS",
+        "BEIJINGDISSATISFIED"
+      ],
+      "key_terms_for_dex_search": [
+        "China",
+        "Pentágono",
+        "tecnología",
+        "política"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T17:51:23.652556+00:00",
+      "expires_at": "2026-06-15T17:51:23.652556+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms - CNBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-13T16:13:22.066768+00:00"
+  "last_updated": "2026-06-13T17:51:23.652556+00:00"
 }
