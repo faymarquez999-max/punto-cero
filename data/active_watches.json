@@ -1,129 +1,6 @@
 {
   "watches": [
     {
-      "id": "acb69bed1b82",
-      "fingerprint": "acb69bed1b82",
-      "narrative_summary": "Rescate de supervivientes en cueva inundada en Laos",
-      "why_memeable": "La narrativa tiene un claro arquetipo de rescate en peligro, con imágenes emocionantes y un impacto cultural",
-      "category": "rescate en peligro",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LAOSRESCUE",
-        "CUEVADELAOS",
-        "SALVADORES"
-      ],
-      "key_terms_for_dex_search": [
-        "cueva",
-        "inundada",
-        "rescate",
-        "laos",
-        "supervivientes"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T06:32:00.834572+00:00",
-      "expires_at": "2026-06-03T06:32:00.834572+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Emotional scenes as more survivors pulled from flooded Laos cave",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-03T07:17:53.119120+00:00"
-    },
-    {
-      "id": "c5708c4679e7",
-      "fingerprint": "c5708c4679e7",
-      "narrative_summary": "El expresidente de EE. UU., Donald Trump, está involucrado en varias controversias legales y políticas, incluyendo una orden judicial para revisar su acuerdo con el IRS y una disputa sobre el uso de su nombre en el Centro Kennedy.",
-      "why_memeable": "La narrativa combina elementos de controversia política, figuras públicas y lenguaje provocativo, lo que puede generar un fuerte engagement y debates en las redes sociales.",
-      "category": "Política y controversia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "KENNEDY",
-        "IRS",
-        "LAW",
-        "SCUM"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "IRS",
-        "Centro Kennedy",
-        "controversia política"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 5,
-        "simplicity": 7,
-        "velocity": 8
-      },
-      "started_at": "2026-05-31T09:37:07.393811+00:00",
-      "expires_at": "2026-06-03T09:37:07.393811+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HypurrClaw",
-        "name": "HypurrClaw",
-        "mint": "97XwkY2xLEH8Nhzfv2eqtSXut4PQb77kx9J3k1atpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 108567.0,
-        "liquidity_usd": 29216.39,
-        "price_usd": 0.0001085,
-        "volume_h24": 86873.78,
-        "volume_h1": 2229.82,
-        "volume_m5": 7.35,
-        "price_change_5m": 0.05,
-        "price_change_1h": 4.61,
-        "price_change_24h": -15.63,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 51,
-        "created_ts": 1779636898000,
-        "pair_created_at": 1779636898000,
-        "url": "https://dexscreener.com/solana/8h8zpaznhuwyy3uff5ffz31xflxzyccnz71gw9meyhec",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LAW in HYPURRCLAW",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T09:42:36.965974+00:00"
-    },
-    {
       "id": "f086d77451c5",
       "fingerprint": "f086d77451c5",
       "narrative_summary": "Trump hace declaraciones sobre el acuerdo con Irán y su relación con Elon Musk, generando interés y engagement en las redes sociales.",
@@ -10304,14 +10181,15 @@
       "started_at": "2026-06-09T19:26:17.438628+00:00",
       "expires_at": "2026-06-13T19:26:17.438628+00:00",
       "duration_hours": 96,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "New video of great white shark in Mediterranean goes viral",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 17,
+      "expired_at": "2026-06-13T21:24:26.136794+00:00"
     },
     {
       "id": "48507239018b",
@@ -11495,7 +11373,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9679a3604dc9",
@@ -11845,7 +11723,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5fd9a81100b8",
@@ -11891,7 +11769,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "42cab2cbdfff",
@@ -12096,7 +11974,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "15d155c15fd6",
@@ -12143,7 +12021,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c740467cbea6",
@@ -12267,7 +12145,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8f7026149a23",
@@ -12383,7 +12261,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ccea76816dd8",
@@ -12428,8 +12306,130 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "9ab070081afe",
+      "fingerprint": "9ab070081afe",
+      "narrative_summary": "Un rescate animal de California se acusa de matar perros para mantener pagos de refugio",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'rescate animal acusado de matar perros'.",
+      "category": "rescate animal, acusación de matar perros",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERROSACRIFICADO",
+        "RESCATEANIMALACUSADO",
+        "PERROSASESINADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "rescate animal",
+        "acusación de matar perros",
+        "perros sacrificados"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T21:25:21.540356+00:00",
+      "expires_at": "2026-06-16T21:25:21.540356+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "7130ef816372",
+      "fingerprint": "7130ef816372",
+      "narrative_summary": "Anthropic deshabilita modelos de inteligencia artificial de alto nivel después de una orden de los EE. UU. que limita el acceso extranjero",
+      "why_memeable": "La narrativa tiene un título claro y un enfoque en la tecnología y la política, lo que la hace fácilmente compartible y recordable.",
+      "category": "Tecnología y política",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "FABLE 5",
+        "MYTHOS 5",
+        "AI",
+        "EE. UU.",
+        "CHINA"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "Fable 5",
+        "Mythos 5",
+        "AI",
+        "EE. UU.",
+        "China",
+        "limitación de acceso extranjero"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T21:26:04.539527+00:00",
+      "expires_at": "2026-06-16T21:26:04.539527+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ANTH",
+        "name": "Anthropic",
+        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14198.0,
+        "liquidity_usd": 12198.64,
+        "price_usd": 1.419e-05,
+        "volume_h24": 9371.71,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -10.67,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1780332637000,
+        "pair_created_at": 1780332637000,
+        "url": "https://dexscreener.com/solana/2dwcyggrzbrn36ujywbiwxwfdo5vyzoaaauvy1j1qwrz",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-13T21:29:47.994114+00:00"
     }
   ],
-  "last_updated": "2026-06-13T17:51:23.652556+00:00"
+  "last_updated": "2026-06-13T21:29:47.994138+00:00"
 }

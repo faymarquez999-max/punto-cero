@@ -11623,6 +11623,63 @@
           "MUSICMYSTERY"
         ]
       }
+    },
+    {
+      "ts": "2026-06-13T21:25:22.052942+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9ab070081afe",
+        "score": 88,
+        "category": "rescate animal, acusación de matar perros",
+        "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
+        "candidate_tickers": [
+          "PERROSACRIFICADO",
+          "RESCATEANIMALACUSADO",
+          "PERROSASESINADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T21:26:04.981652+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7130ef816372",
+        "score": 88,
+        "category": "Tecnología y política",
+        "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg",
+        "candidate_tickers": [
+          "ANTHROPIC",
+          "FABLE 5",
+          "MYTHOS 5",
+          "AI",
+          "EE. UU.",
+          "CHINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T21:27:30.511017+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "filosofía",
+        "title": "Pessimists sound smart.",
+        "candidate_tickers": [
+          "PESIMISTAS",
+          "OPTIMISTAS",
+          "SMART"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T21:29:47.997093+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7130ef816372",
+        "ticker": "ANTH",
+        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
+        "mc": 14198.0
+      }
     }
   ]
 }
