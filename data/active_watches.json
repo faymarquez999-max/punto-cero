@@ -1,269 +1,6 @@
 {
   "watches": [
     {
-      "id": "e9f01ebec011",
-      "fingerprint": "e9f01ebec011",
-      "narrative_summary": "Elon Musk propone aumentar el PIB humano en 1000 veces y la población humana.",
-      "why_memeable": "La frase es corta, fácil de recordar y tiene un tono absurdo.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "LETSX1000",
-        "GDPX1000",
-        "ELONX1000"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "gdp",
-        "población",
-        "x1000"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T02:00:09.048698+00:00",
-      "expires_at": "2026-06-02T02:00:09.048698+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "LETS x1000 the GDP",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-02T05:15:20.705870+00:00"
-    },
-    {
-      "id": "709dc7fd3f89",
-      "fingerprint": "709dc7fd3f89",
-      "narrative_summary": "Odds de muerte de Rue en la final de 'Euphoria' aumentan a 51% en Polymarket.",
-      "why_memeable": "La frase es corta y fácil de compartir, y el aumento de las apuestas es un evento emocionante.",
-      "category": "entretenimiento",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUE",
-        "EUPHORIA",
-        "51%",
-        "POLYMARKET"
-      ],
-      "key_terms_for_dex_search": [
-        "euphoria",
-        "rue",
-        "polymarket",
-        "odds",
-        "finale"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T02:00:31.577432+00:00",
-      "expires_at": "2026-06-02T02:00:31.577432+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "POLy",
-        "name": "hub Lp POLYMARKET_COIN",
-        "mint": "4vBf4dKozaJxXSWLHAKQEFZemT8Kmi8eSdaesap31K42",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 21638.0,
-        "liquidity_usd": 18039.47,
-        "price_usd": 2.163e-05,
-        "volume_h24": 372017.21,
-        "volume_h1": 64504.85,
-        "volume_m5": 5259.27,
-        "price_change_5m": -0.16,
-        "price_change_1h": 6.8,
-        "price_change_24h": 190.0,
-        "txns_h1_buys": 1536,
-        "txns_h1_sells": 1540,
-        "created_ts": 1780163675000,
-        "pair_created_at": 1780163675000,
-        "url": "https://dexscreener.com/solana/6hblhirujvpcnbphddl5qkhmeob3afgcx3xibzpgyb4r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: POLYMARKET in HUB LP POLYMARKET_COIN",
-        "safety_score": 11501,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Odds of Rue dying in tomorrow’s ‘Euphoria’ finale are now at 51% on Polymarket.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T02:01:14.745665+00:00"
-    },
-    {
-      "id": "f61db39e7680",
-      "fingerprint": "f61db39e7680",
-      "narrative_summary": "Donald Trump y Elon Musk intercambian insultos y acusaciones en una pelea pública que alcanza nuevos niveles",
-      "why_memeable": "La pelea entre dos figuras públicas prominentes con un lenguaje fuerte y acusaciones es altamente viralizable",
-      "category": "Política y celebridades",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVSMSK",
-        "MUSKTRUMPFEUD",
-        "TRUMPMSKWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "feud",
-        "insults",
-        "public fight"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-05-31T06:29:12.680319+00:00",
-      "expires_at": "2026-06-03T06:29:12.680319+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 174481.0,
-        "liquidity_usd": 34257.74,
-        "price_usd": 0.0001744,
-        "volume_h24": 142116.18,
-        "volume_h1": 1957.5,
-        "volume_m5": 34.67,
-        "price_change_5m": -0.4,
-        "price_change_1h": -1.92,
-        "price_change_24h": 51.49,
-        "txns_h1_buys": 20,
-        "txns_h1_sells": 19,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Release the body camera videos",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T09:42:31.772053+00:00"
-    },
-    {
-      "id": "21c8d6f47817",
-      "fingerprint": "21c8d6f47817",
-      "narrative_summary": "Un oficial de policía es despedido después de un video viral que muestra cómo golpea repetidamente a una mujer durante una detención",
-      "why_memeable": "La combinación de un video viral, un oficial de policía despedido y la reacción en las redes sociales crea un escenario con alto potencial memético",
-      "category": "noticias_virales",
-      "matched_archetype": "injusticia_con_villano_y_victima",
-      "candidate_tickers": [
-        "POLICEBRUTALITY",
-        "JUSTICIA",
-        "VIRALVIDEO",
-        "SHELBYOFFICER",
-        "WOMANBEATEN"
-      ],
-      "key_terms_for_dex_search": [
-        "policía",
-        "video viral",
-        "detención",
-        "Shelby",
-        "oficial despedido"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-05-31T06:29:38.611355+00:00",
-      "expires_at": "2026-06-03T06:29:38.611355+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "how do i deal with being sidelined during this bull cycle? its truly demoralizing me",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-03T07:17:53.119107+00:00"
-    },
-    {
       "id": "58ea6f33a955",
       "fingerprint": "58ea6f33a955",
       "narrative_summary": "Accidente químico en Washington que deja 11 muertos y cuerpos recuperados",
@@ -10987,7 +10724,7 @@
       "started_at": "2026-06-10T10:37:24.187408+00:00",
       "expires_at": "2026-06-13T10:37:24.187408+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "We must stop harbouring those who wish to decapitate children.",
       "cluster_sources": [
@@ -10996,7 +10733,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-13T12:19:38.118927+00:00"
     },
     {
       "id": "c9edd17803b8",
@@ -12541,7 +12279,196 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "15d155c15fd6",
+      "fingerprint": "15d155c15fd6",
+      "narrative_summary": "Tata's iPhone partes fábrica contaminó el agua de la tierra agrícola, según el cuerpo de la India de la contaminación.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y contaminación, lo que la hace fácilmente compartible y recordable.",
+      "category": "Política y Medio Ambiente",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TATAPOLLUTES",
+        "IPHONETOXIC",
+        "INDIAWATERCONTAMINATION"
+      ],
+      "key_terms_for_dex_search": [
+        "Tata",
+        "iPhone",
+        "contaminación",
+        "India",
+        "agua",
+        "tierra agrícola"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T12:20:19.990028+00:00",
+      "expires_at": "2026-06-15T12:20:19.990028+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive: Tata's iPhone parts factory contaminated farmland water, India pollution body alleges - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c740467cbea6",
+      "fingerprint": "c740467cbea6",
+      "narrative_summary": "Estados Unidos impide a Anthropic dar acceso a sus modelos de inteligencia artificial a extranjeros, lo que deshabilita a Fable y Mythos.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y tiene un impacto emocional significativo.",
+      "category": "Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "FABLE",
+        "MYTHOS",
+        "AI",
+        "ESTADOS UNIDOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "Fable",
+        "Mythos",
+        "AI",
+        "Estados Unidos",
+        "injusticia",
+        "inteligencia artificial"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T12:20:42.594337+00:00",
+      "expires_at": "2026-06-16T12:20:42.594337+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China - Xataka",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "68c7ce637756",
+      "fingerprint": "68c7ce637756",
+      "narrative_summary": "El artista británico David Hockney murió a los 88 años, dejando un legado de arte que celebraba la diversidad sexual en un momento en que era ilegal.",
+      "why_memeable": "La narrativa es memeable porque Hockney fue un artista icónico que rompió tabúes sociales, y su legado sigue siendo relevante en la actualidad.",
+      "category": "arte y cultura",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HOCKNEY",
+        "DIVERSIDADSEXUAL",
+        "ARTEREVOLUTIONARIO",
+        "LEGADOHOCKNEY"
+      ],
+      "key_terms_for_dex_search": [
+        "DavidHockney",
+        "arte",
+        "diversidadsexual",
+        "legado",
+        "cultura"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T12:23:23.078547+00:00",
+      "expires_at": "2026-06-17T12:23:23.078547+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8f7026149a23",
+      "fingerprint": "8f7026149a23",
+      "narrative_summary": "Un juez ordena detener la censura de exhibiciones de parques por parte de la administración de Trump.",
+      "why_memeable": "La narrativa tiene un claro antagonista (Trump) y un claro héroe (el juez). La idea de censura es fácilmente comprensible y puede ser representada en una imagen.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_CENSURA",
+        "JUEZ_DE_TRUMP",
+        "PARQUE_CENSURADO"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "censura",
+        "parque",
+        "juez"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-13T12:24:11.907047+00:00",
+      "expires_at": "2026-06-15T12:24:11.907047+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US judge orders halt to Trump administration's 'censorship' of park exhibits - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-13T04:30:55.420012+00:00"
+  "last_updated": "2026-06-13T12:24:11.907047+00:00"
 }
