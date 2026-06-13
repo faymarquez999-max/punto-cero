@@ -11001,6 +11001,86 @@
           "Elon"
         ]
       }
+    },
+    {
+      "ts": "2026-06-13T04:26:30.995762+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "42cab2cbdfff",
+        "score": 80,
+        "category": "noticias de celebridades",
+        "title": "The Papers: 'Starmer braced for exodus' and 'Giant of art'",
+        "candidate_tickers": [
+          "MUSK",
+          "TESLA",
+          "BILLION",
+          "TRILLION",
+          "SEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T04:26:51.447434+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Viralidad y controversia",
+        "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
+        "candidate_tickers": [
+          "ViralidadEnCarolina",
+          "ControversiaEnLasRedes"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T04:27:27.241486+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "be450c4d3187",
+        "score": 80,
+        "category": "noticias internacionales",
+        "title": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
+        "candidate_tickers": [
+          "DRONEDOWN",
+          "IRANDRONES",
+          "USVSIRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T04:28:04.847535+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "95092283d28c",
+        "score": 80,
+        "category": "política",
+        "title": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters",
+        "candidate_tickers": [
+          "TRENDEARAGUA",
+          "TRUMPASESINA",
+          "ARAGUAGANG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-13T04:30:53.005382+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "42cab2cbdfff",
+        "ticker": "TRILLION",
+        "mint": "2sDCRhLKeUF7c1dG2cqQFuY2VZQqPVrZRSGxqy8Gpump",
+        "mc": 44575.0
+      }
+    },
+    {
+      "ts": "2026-06-13T04:30:55.422150+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "be450c4d3187",
+        "ticker": "IRAN",
+        "mint": "5bjaV9rDyYXaHzwpSKfmHTpMZdTtyHZu1adBJH8aA6xK",
+        "mc": 303126.0
+      }
     }
   ]
 }
