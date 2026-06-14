@@ -1,93 +1,6 @@
 {
   "watches": [
     {
-      "id": "f086d77451c5",
-      "fingerprint": "f086d77451c5",
-      "narrative_summary": "Trump hace declaraciones sobre el acuerdo con Irán y su relación con Elon Musk, generando interés y engagement en las redes sociales.",
-      "why_memeable": "La combinación de Trump, un personaje polarizante, con declaraciones sobre el acuerdo con Irán y su relación con Elon Musk, ofrece una mezcla de política, celebridad y tecnología que puede generar memes y discusiones.",
-      "category": "Política y celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMP",
-        "MUSK",
-        "IRAN",
-        "DEAL",
-        "TWIST"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Elon Musk",
-        "Irán",
-        "acuerdo",
-        "celebridad"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T09:37:08.927118+00:00",
-      "expires_at": "2026-06-03T09:37:08.927118+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 174481.0,
-        "liquidity_usd": 34257.74,
-        "price_usd": 0.0001744,
-        "volume_h24": 142116.18,
-        "volume_h1": 1957.5,
-        "volume_m5": 34.67,
-        "price_change_5m": -0.4,
-        "price_change_1h": -1.92,
-        "price_change_24h": 51.49,
-        "txns_h1_buys": 20,
-        "txns_h1_sells": 19,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TRUMP==TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Many people are saying.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-05-31T09:42:38.372752+00:00"
-    },
-    {
       "id": "7297850a3a6a",
       "fingerprint": "7297850a3a6a",
       "narrative_summary": "Israel captura el Castillo de Beaufort en el sur de Líbano, en un movimiento contra Hezbollah",
@@ -11373,7 +11286,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "9679a3604dc9",
@@ -11723,7 +11636,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5fd9a81100b8",
@@ -11769,7 +11682,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "42cab2cbdfff",
@@ -11974,7 +11887,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "15d155c15fd6",
@@ -12021,7 +11934,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c740467cbea6",
@@ -12145,7 +12058,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8f7026149a23",
@@ -12261,7 +12174,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ccea76816dd8",
@@ -12306,7 +12219,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9ab070081afe",
@@ -12350,7 +12263,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7130ef816372",
@@ -12429,7 +12342,52 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-13T21:29:47.994114+00:00"
+    },
+    {
+      "id": "797585361e8a",
+      "fingerprint": "797585361e8a",
+      "narrative_summary": "Un video de un hombre de 100 años bailando se volvió viral, pero su historia de origen es aún mejor",
+      "why_memeable": "La combinación de la edad avanzada del hombre y su habilidad para bailar es inesperada y conmovedora, lo que genera una carga emocional fuerte y una gran capacidad para ser compartido y recordado",
+      "category": "Viralidad y entretenimiento",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "DANCE100",
+        "VIRALGRAN",
+        "BAILEVIEJO"
+      ],
+      "key_terms_for_dex_search": [
+        "baile",
+        "viral",
+        "100 años",
+        "hombre",
+        "danza"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 2,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-14T04:53:36.403303+00:00",
+      "expires_at": "2026-06-17T04:53:36.403303+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A 100-Year-Old Man’s Dance Video Went Viral, but His Origin Story Is Even Better - VICE",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-13T21:29:47.994138+00:00"
+  "last_updated": "2026-06-14T04:53:36.403303+00:00"
 }
