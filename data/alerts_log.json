@@ -11886,6 +11886,92 @@
           "CaliforniaWildfires"
         ]
       }
+    },
+    {
+      "ts": "2026-06-14T13:18:21.731081+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c11dacf409f9",
+        "score": 90,
+        "category": "conflicto internacional",
+        "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "HEZBOLLAH",
+          "BEBUT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T13:18:58.330824+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eec7131cb5e7",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Knicks fans celebrate throughout NYC after first title in 53 years - ESPN",
+        "candidate_tickers": [
+          "KNICKS53",
+          "NBA53",
+          "NYCCELEBRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T13:19:35.767817+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ca40f63b8bef",
+        "score": 78,
+        "category": "Política",
+        "title": "UK seizes Russian shadow fleet vessel in Channel - politico.eu",
+        "candidate_tickers": [
+          "RUSSIA",
+          "UK",
+          "SHADOWFLEET"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T13:20:44.730191+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "política",
+        "title": "Trump's name poised to be removed from Kennedy Center after court denies last-minute move to keep it - AP News",
+        "candidate_tickers": [
+          "TRUMP_REMOVED",
+          "KENNEDY_CENTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T13:21:27.297684+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "SpaceX AI Satellites",
+        "candidate_tickers": [
+          "SPACEX",
+          "AI SATELLITE",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T13:22:08.829881+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridad/Política",
+        "title": "Did he stab someone ?",
+        "candidate_tickers": [
+          "DidHeStab",
+          "StabGate",
+          "ElonMuskMystery"
+        ]
+      }
     }
   ]
 }
