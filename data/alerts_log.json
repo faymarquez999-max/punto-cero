@@ -11855,6 +11855,37 @@
           "PSGHummels"
         ]
       }
+    },
+    {
+      "ts": "2026-06-14T11:20:45.896487+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7c8bb0da2609",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "British forces intercept Russian shadow fleet tanker in the Channel - Reuters",
+        "candidate_tickers": [
+          "RUSIA",
+          "TANQUE",
+          "INTERCEPTAR",
+          "CANAL",
+          "FUERZAS BRITÁNICAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T11:22:54.563739+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Incendios forestales en California",
+        "title": "Breaking: Marvin Fire reported in Placer County on June 14 - Sacramento Bee",
+        "candidate_tickers": [
+          "MarvinFire",
+          "PlacerCountyFire",
+          "CaliforniaWildfires"
+        ]
+      }
     }
   ]
 }
