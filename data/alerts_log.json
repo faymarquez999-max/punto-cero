@@ -12364,6 +12364,46 @@
         "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
         "mc": 44394.0
       }
+    },
+    {
+      "ts": "2026-06-14T21:45:55.611455+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "657ebd96a8d7",
+        "score": 89,
+        "category": "accidentes aéreos",
+        "title": "Twelve people killed in Missouri plane crash, state highway patrol says - Reuters",
+        "candidate_tickers": [
+          "MISSOURICRASH",
+          "AVIÓNCAÍDO",
+          "12MUERTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T21:46:57.301245+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a37908724cb",
+        "score": 80,
+        "category": "Celebridad en Twitter",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOW",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T21:49:31.770261+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7a37908724cb",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 335707.0
+      }
     }
   ]
 }

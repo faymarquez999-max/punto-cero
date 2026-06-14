@@ -1,179 +1,6 @@
 {
   "watches": [
     {
-      "id": "5416c56f226c",
-      "fingerprint": "5416c56f226c",
-      "narrative_summary": "Elon Musk propone multiplicar el PIB humano por 1000 y la población humana",
-      "why_memeable": "La propuesta de Elon Musk de multiplicar el PIB humano por 1000 y la población humana es fácil de capturar en una frase y tiene un gran potencial de ser compartido",
-      "category": "economía",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "LETSX1000",
-        "X1000GDP",
-        "HUMANX1000"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "gdp",
-        "población humana",
-        "multiplicar"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T20:24:13.103691+00:00",
-      "expires_at": "2026-06-02T20:24:13.103691+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "GDP",
-        "name": "GDP",
-        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 119823.0,
-        "liquidity_usd": 26067.92,
-        "price_usd": 0.0001198,
-        "volume_h24": 11936.0,
-        "volume_h1": 6225.63,
-        "volume_m5": 23.66,
-        "price_change_5m": 0.48,
-        "price_change_1h": 75.52,
-        "price_change_24h": 257.0,
-        "txns_h1_buys": 102,
-        "txns_h1_sells": 94,
-        "created_ts": 1780373221000,
-        "pair_created_at": 1780373221000,
-        "url": "https://dexscreener.com/solana/bt9l9vqh1envfwrlx323hszmf8dvpgy7wchiewzm3uee",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: GDP in GDP",
-        "safety_score": 4020,
-        "safety_risks": [
-          {
-            "name": "High holder correlation",
-            "level": "warn",
-            "description": "The top users hold similar supply amounts"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "LETS x1000 the GDP",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-02T05:19:45.125886+00:00"
-    },
-    {
-      "id": "d22105c2bb40",
-      "fingerprint": "d22105c2bb40",
-      "narrative_summary": "Noticias sobre Trump y su salud, junto con acusaciones de abducción de niños ucranianos por parte de Rusia y un posible feudo con Musk.",
-      "why_memeable": "La combinación de noticias políticas y celebridades, junto con la posibilidad de un feudo entre Trump y Musk, ofrece un alto potencial para la creación de memes.",
-      "category": "Política y celebridades",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPFEUD",
-        "MUSKTRUMP",
-        "UKRAINEGATE",
-        "TRUMPSHEALTH",
-        "MUSKTRUMPWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Ucrania",
-        "Rusia",
-        "Salud",
-        "Feudo"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 8,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-01T05:00:49.357013+00:00",
-      "expires_at": "2026-06-04T05:00:49.357013+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 106926.0,
-        "liquidity_usd": 26862.38,
-        "price_usd": 0.0001069,
-        "volume_h24": 135743.9,
-        "volume_h1": 6161.0,
-        "volume_m5": 159.4,
-        "price_change_5m": -3.35,
-        "price_change_1h": 9.46,
-        "price_change_24h": -44.7,
-        "txns_h1_buys": 51,
-        "txns_h1_sells": 133,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "/GME/ - Comfy (Magical) Friday Edition",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-01T05:05:36.019819+00:00"
-    },
-    {
       "id": "466777910205",
       "fingerprint": "466777910205",
       "narrative_summary": "Israel ha capturado una fortaleza en Líbano en medio de una ofensiva en tierra",
@@ -10150,7 +9977,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "5fd9a81100b8",
@@ -10196,7 +10023,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "42cab2cbdfff",
@@ -10401,7 +10228,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "15d155c15fd6",
@@ -10448,7 +10275,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "c740467cbea6",
@@ -10572,7 +10399,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "8f7026149a23",
@@ -10688,7 +10515,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "ccea76816dd8",
@@ -10824,7 +10651,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "7130ef816372",
@@ -10947,7 +10774,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "271633db77db",
@@ -10989,7 +10816,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "7c8bb0da2609",
@@ -11037,7 +10864,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c11dacf409f9",
@@ -11083,7 +10910,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "eec7131cb5e7",
@@ -11129,7 +10956,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ca40f63b8bef",
@@ -11174,7 +11001,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "29436a971133",
@@ -11219,7 +11046,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a5f4e44b9776",
@@ -11349,7 +11176,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "03b3a2c53e6c",
@@ -11394,7 +11221,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "cc7181866eb4",
@@ -11533,7 +11360,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "834dd83477c2",
@@ -11578,7 +11405,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ce210203314d",
@@ -11690,7 +11517,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f77748300a98",
@@ -11737,7 +11564,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3af64d2cbdc3",
@@ -11783,7 +11610,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "74d3627ab592",
@@ -11825,7 +11652,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a114eb6465ba",
@@ -11947,7 +11774,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6e632fe74874",
@@ -11994,7 +11821,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a77fe69e257c",
@@ -12037,7 +11864,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2bff7798f3b3",
@@ -12079,8 +11906,123 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "657ebd96a8d7",
+      "fingerprint": "657ebd96a8d7",
+      "narrative_summary": "Avión se estrella en Missouri, matando a 12 personas",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y una imagen icónica",
+      "category": "accidentes aéreos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MISSOURICRASH",
+        "AVIÓNCAÍDO",
+        "12MUERTOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Missouri",
+        "avión",
+        "crash",
+        "muertos"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 9,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-14T21:45:55.098941+00:00",
+      "expires_at": "2026-06-16T21:45:55.098941+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Twelve people killed in Missouri plane crash, state highway patrol says - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "7a37908724cb",
+      "fingerprint": "7a37908724cb",
+      "narrative_summary": "Elon Musk publicó 'Wow' en Twitter, generando gran interés y engagement.",
+      "why_memeable": "La brevedad y simplicidad de la publicación hacen que sea fácilmente compartible y recordable.",
+      "category": "Celebridad en Twitter",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOW",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 0,
+        "polarizing": 0,
+        "absurdity": 0,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-14T21:46:56.736993+00:00",
+      "expires_at": "2026-06-15T21:46:56.736993+00:00",
+      "duration_hours": 24,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 335707.0,
+        "liquidity_usd": 93479.57,
+        "price_usd": 0.0003357,
+        "volume_h24": 8432.53,
+        "volume_h1": 313.99,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.81,
+        "price_change_24h": 3.47,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 2,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-14T21:49:31.767239+00:00"
     }
   ],
-  "last_updated": "2026-06-14T20:14:02.064402+00:00"
+  "last_updated": "2026-06-14T21:49:31.767258+00:00"
 }
