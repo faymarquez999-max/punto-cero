@@ -1,353 +1,6 @@
 {
   "watches": [
     {
-      "id": "f050aa59251d",
-      "fingerprint": "f050aa59251d",
-      "narrative_summary": "Un juez bloquea que el nombre de Trump se ponga en un edificio y detiene su cierre.",
-      "why_memeable": "La narrativa es fácil de entender y tiene un claro conflicto entre Trump y el juez.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSJUEZ",
-        "TRUMPBLOCKING",
-        "KENNEDYCENTER"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "juez",
-        "Kennedy Center",
-        "bloqueo"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-05-31T18:59:17.242280+00:00",
-      "expires_at": "2026-06-02T18:59:17.242280+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "Donald Trump",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 106926.0,
-        "liquidity_usd": 26862.38,
-        "price_usd": 0.0001069,
-        "volume_h24": 135743.9,
-        "volume_h1": 6161.0,
-        "volume_m5": 159.4,
-        "price_change_5m": -3.35,
-        "price_change_1h": 9.46,
-        "price_change_24h": -44.7,
-        "txns_h1_buys": 51,
-        "txns_h1_sells": 133,
-        "created_ts": 1779394409000,
-        "pair_created_at": 1779394409000,
-        "url": "https://dexscreener.com/solana/dzsdear6wm59juny2sjfiz6tgsakbhdhuaweqy5yjpac",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in DONALD TRUMP",
-        "safety_score": 1641,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Judge says Kennedy Center board broke law putting Trump's name on building and blocks closure - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-01T05:05:27.200628+00:00"
-    },
-    {
-      "id": "cb14c50a506b",
-      "fingerprint": "cb14c50a506b",
-      "narrative_summary": "Elon Musk se enfurece y pide que se libere un pie de cámara.",
-      "why_memeable": "La frase es breve y directa, y el uso de 'bastards' y 'evil' lo hace muy polarizante.",
-      "category": "Tecnología y celebridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "XCANCEL",
-        "RELEASETHEFOOTAGE"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "XCancel",
-        "ReleaseTheFootage"
-      ],
-      "score": 87,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 1,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-05-31T18:59:58.531813+00:00",
-      "expires_at": "2026-06-02T18:59:58.531813+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Release the footage, you evil bastards!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-02T23:19:27.226854+00:00"
-    },
-    {
-      "id": "1f467f51b3d2",
-      "fingerprint": "1f467f51b3d2",
-      "narrative_summary": "El ministro de Relaciones Exteriores de Irán anuncia que las conversaciones y intercambios de mensajes con EE. UU. siguen en curso mientras Israel expande su ofensiva en Líbano.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto geopolítico con múltiples fuentes de información.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN_US",
-        "ISRAEL_LEBANON",
-        "CONFLICTO_GEOPOLÍTICO"
-      ],
-      "key_terms_for_dex_search": [
-        "IRAN",
-        "EE. UU.",
-        "ISRAEL",
-        "LEBANON",
-        "CONFLICTO",
-        "GEOPOLÍTICO"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T20:19:37.253964+00:00",
-      "expires_at": "2026-06-03T20:19:37.253964+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ISOR",
-        "name": "Iran Strategic Oil Resource",
-        "mint": "3twLAdLHgkuxBE6WnAeJgeUfdZ5MDz44pW2rSYPApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 397538.0,
-        "liquidity_usd": 48946.63,
-        "price_usd": 0.0003975,
-        "volume_h24": 299378.16,
-        "volume_h1": 9619.43,
-        "volume_m5": 211.21,
-        "price_change_5m": 0.0,
-        "price_change_1h": -27.38,
-        "price_change_24h": -47.52,
-        "txns_h1_buys": 122,
-        "txns_h1_sells": 165,
-        "created_ts": 1779580320000,
-        "pair_created_at": 1779580320000,
-        "url": "https://dexscreener.com/solana/9njbc2irjcxhclhfuvkagjcmnnfngjbxqjp7kw4y4nn9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IRAN in IRAN STRATEGIC OIL RESOURCE",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "IRAN'S FOREIGN MINISTER TO STATE MEDIA: TALKS AND MESSAGE EXCHANGES WITH THE U.S. ARE ONGOING",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-02T05:19:42.809119+00:00"
-    },
-    {
-      "id": "ba67d4c9feb4",
-      "fingerprint": "ba67d4c9feb4",
-      "narrative_summary": "La relación entre EE.UU. y China se vuelve más profunda mientras EE.UU. duda y China asciende.",
-      "why_memeable": "La narrativa tiene un título claro y un tema central que puede ser capturado en una frase.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "INDOPACIFIC",
-        "CHINAASCIENDE",
-        "EEUUDUDA"
-      ],
-      "key_terms_for_dex_search": [
-        "IndoPacific",
-        "China",
-        "EEUU",
-        "política internacional",
-        "relaciones internacionales"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T20:21:37.666578+00:00",
-      "expires_at": "2026-06-02T20:21:37.666578+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MXNA",
-        "name": "Machina",
-        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 25472.0,
-        "liquidity_usd": 105321.23,
-        "price_usd": 0.008489,
-        "volume_h24": 23476.81,
-        "volume_h1": 86.47,
-        "volume_m5": 86.47,
-        "price_change_5m": -0.33,
-        "price_change_1h": -0.33,
-        "price_change_24h": -2.8,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1770619053000,
-        "pair_created_at": 1770619053000,
-        "url": "https://dexscreener.com/solana/asea5hahzwnbwcytdlgpdr9zkq5h8htav5nusqpvxr1d",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHINA in MACHINA",
-        "safety_score": 80650,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-01T05:05:31.072858+00:00"
-    },
-    {
-      "id": "1a69dc1095d1",
-      "fingerprint": "1a69dc1095d1",
-      "narrative_summary": "Elon Musk exige la liberación de un video, insultando a los medios.",
-      "why_memeable": "Frase corta y directa con un tono agresivo y emotivo.",
-      "category": "Celebridad vs. Medios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "XCANCEL",
-        "RELEASETHEFOOTAGE",
-        "BASTARDS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "release the footage"
-      ],
-      "score": 87,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-05-31T20:23:07.350745+00:00",
-      "expires_at": "2026-06-02T20:23:07.350745+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Release the footage, you evil bastards!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-02T23:19:27.226857+00:00"
-    },
-    {
       "id": "5416c56f226c",
       "fingerprint": "5416c56f226c",
       "narrative_summary": "Elon Musk propone multiplicar el PIB humano por 1000 y la población humana",
@@ -10497,7 +10150,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "5fd9a81100b8",
@@ -10543,7 +10196,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "42cab2cbdfff",
@@ -10748,7 +10401,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "15d155c15fd6",
@@ -10795,7 +10448,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "c740467cbea6",
@@ -10919,7 +10572,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "8f7026149a23",
@@ -11035,7 +10688,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "ccea76816dd8",
@@ -11171,7 +10824,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "7130ef816372",
@@ -11294,7 +10947,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "271633db77db",
@@ -11336,7 +10989,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7c8bb0da2609",
@@ -11384,7 +11037,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c11dacf409f9",
@@ -11430,7 +11083,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "eec7131cb5e7",
@@ -11476,7 +11129,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ca40f63b8bef",
@@ -11521,7 +11174,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "29436a971133",
@@ -11566,7 +11219,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a5f4e44b9776",
@@ -11696,7 +11349,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "03b3a2c53e6c",
@@ -11741,7 +11394,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cc7181866eb4",
@@ -11880,7 +11533,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "834dd83477c2",
@@ -11925,7 +11578,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ce210203314d",
@@ -12037,7 +11690,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f77748300a98",
@@ -12084,7 +11737,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3af64d2cbdc3",
@@ -12130,7 +11783,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "74d3627ab592",
@@ -12172,8 +11825,262 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "a114eb6465ba",
+      "fingerprint": "a114eb6465ba",
+      "narrative_summary": "Oliver Tree, cantante de 32 años, ha fallecido en un accidente de helicóptero en Brasil.",
+      "why_memeable": "La noticia es impactante y fácil de entender, con un título claro y conciso que puede generar un gran interés y engagement en las redes sociales.",
+      "category": "Celebridad/Música",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "TREE32",
+        "OLIVER",
+        "HELICOPTERCRASH",
+        "BRAZILTRAGEDY",
+        "MUSICIANLOST"
+      ],
+      "key_terms_for_dex_search": [
+        "Oliver Tree",
+        "helicóptero",
+        "accidente",
+        "Brasil",
+        "música"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-14T20:09:47.904823+00:00",
+      "expires_at": "2026-06-17T20:09:47.904823+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Oliver",
+        "name": "RIP Oliver Tree",
+        "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 44394.0,
+        "liquidity_usd": 15484.04,
+        "price_usd": 4.44e-05,
+        "volume_h24": 638345.33,
+        "volume_h1": 71479.16,
+        "volume_m5": 2693.21,
+        "price_change_5m": 24.01,
+        "price_change_1h": -27.6,
+        "price_change_24h": 62.32,
+        "txns_h1_buys": 987,
+        "txns_h1_sells": 728,
+        "created_ts": 1781457864000,
+        "pair_created_at": 1781457864000,
+        "url": "https://dexscreener.com/solana/cqnvvyt49zyfrstugaswp2gvjkanbbh7svhtf9iccsei",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: OLIVER==OLIVER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Oliver Tree has reportedly died at the age of 32.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-14T20:14:02.064382+00:00"
+    },
+    {
+      "id": "52f348d6c1aa",
+      "fingerprint": "52f348d6c1aa",
+      "narrative_summary": "Senador Mitch McConnell hospitalizado, según su equipo",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y un personaje público importante",
+      "category": "Politica",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MCCONNELLHOSPITALIZADO",
+        "MCCONNELLENELHOSPITAL",
+        "HOSPITALIZADOMCCONNELL"
+      ],
+      "key_terms_for_dex_search": [
+        "McConnell",
+        "hospitalizado",
+        "politica",
+        "actualidad"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-06-14T20:10:01.288783+00:00",
+      "expires_at": "2026-06-16T20:10:01.288783+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sen. Mitch McConnell hospitalized, his team says - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6e632fe74874",
+      "fingerprint": "6e632fe74874",
+      "narrative_summary": "Las fuerzas británicas detienen un supuesto barco de sombra ruso en el Canal de la Mancha",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica, lo que la hace fácilmente compartible y recordable",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSSIA",
+        "UK",
+        "CHANNEL",
+        "SHADOWFLEET"
+      ],
+      "key_terms_for_dex_search": [
+        "russia",
+        "uk",
+        "english channel",
+        "shadow fleet",
+        "injustice"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 10
+      },
+      "started_at": "2026-06-14T20:10:31.865800+00:00",
+      "expires_at": "2026-06-16T20:10:31.865800+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a77fe69e257c",
+      "fingerprint": "a77fe69e257c",
+      "narrative_summary": "Elon Musk anuncia 'They will' sin contexto, provocando gran interés",
+      "why_memeable": "Frase corta y misteriosa de Elon Musk, fácil de compartir y repetir",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "THEYWILL",
+        "ELONMUSK",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "XCANCEL",
+        "TheyWill"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-06-14T20:11:35.108813+00:00",
+      "expires_at": "2026-06-16T20:11:35.108813+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "They will",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2bff7798f3b3",
+      "fingerprint": "2bff7798f3b3",
+      "narrative_summary": "Elon Musk comparte un 'wow' en Twitter, generando gran atención",
+      "why_memeable": "La brevedad y simplicidad de la frase 'Wow' lo convierten en un meme potencial",
+      "category": "Memes de Twitter",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOW",
+        "ELONWOW"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-14T20:12:24.414930+00:00",
+      "expires_at": "2026-06-16T20:12:24.414930+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-14T18:24:58.590211+00:00"
+  "last_updated": "2026-06-14T20:14:02.064402+00:00"
 }
