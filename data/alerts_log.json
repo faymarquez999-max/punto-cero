@@ -12205,6 +12205,65 @@
         "mint": "4AjvPXMn8YZG9saAVJvcWspg73oTFf2JmU4in4Xgpump",
         "mc": 110538.0
       }
+    },
+    {
+      "ts": "2026-06-14T18:23:07.915359+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f77748300a98",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "HEZBOLLAH",
+          "BEIRUT",
+          "ATTACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T18:23:34.933012+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3af64d2cbdc3",
+        "score": 88,
+        "category": "política internacional",
+        "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
+        "candidate_tickers": [
+          "RUSSIA",
+          "UK",
+          "BUQUEPETROLERO",
+          "CANALDELMANCHA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T18:24:44.666042+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Celebridad",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOW",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-14T18:24:59.157404+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "74d3627ab592",
+        "score": 70,
+        "category": "Celebridad",
+        "title": "Did he stab someone ?",
+        "candidate_tickers": [
+          "ELONSTAB",
+          "STABMUSK"
+        ]
+      }
     }
   ]
 }
