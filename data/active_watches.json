@@ -1,250 +1,6 @@
 {
   "watches": [
     {
-      "id": "f9e4c51cf79e",
-      "fingerprint": "f9e4c51cf79e",
-      "narrative_summary": "El Tribunal Supremo de EE. UU. permite a Alabama utilizar un mapa congresional que beneficia a los republicanos para las elecciones de medio término de 2026.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano (el Tribunal Supremo) y un victimario (el voto de los afroamericanos en Alabama).",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ALABAMA",
-        "TRUMP",
-        "REPUBLICANOS",
-        "VOTO",
-        "SUPREMACIA"
-      ],
-      "key_terms_for_dex_search": [
-        "ALABAMA",
-        "TRIBUNAL SUPREMO",
-        "REPUBLICANOS",
-        "VOTO",
-        "SUPREMACIA"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-03T02:13:31.184270+00:00",
-      "expires_at": "2026-06-05T02:13:31.184270+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "U.S. SUPREME COURT ALLOWS ALABAMA TO USE A CONGRESSIONAL MAP FAVORING REPUBLICANS FOR THE 2026 MIDTERM ELECTIONS.",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-05T05:01:06.936684+00:00"
-    },
-    {
-      "id": "7c294c5a08cb",
-      "fingerprint": "7c294c5a08cb",
-      "narrative_summary": "El IRGC de Irán ataca la sede de la Quinta Flota de EE.UU. y una base aérea, según informes de medios locales.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre Irán y EE.UU., lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRGC",
-        "FIFTHFLEET",
-        "IRAN"
-      ],
-      "key_terms_for_dex_search": [
-        "IRGC",
-        "FIFTHFLEET",
-        "IRAN",
-        "EE.UU."
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-03T02:16:09.517639+00:00",
-      "expires_at": "2026-06-05T02:16:09.517639+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "The Iranian Revolution",
-        "mint": "8rx2yx6gFLWJMvqiMoaxVgS7Li4NXKM2yPLbrRKGrDDT",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 192079.0,
-        "liquidity_usd": 28278.03,
-        "price_usd": 0.000192,
-        "volume_h24": 1428767.39,
-        "volume_h1": 139252.18,
-        "volume_m5": 10278.73,
-        "price_change_5m": -1.01,
-        "price_change_1h": -1.38,
-        "price_change_24h": 2804.0,
-        "txns_h1_buys": 992,
-        "txns_h1_sells": 989,
-        "created_ts": 1780435260000,
-        "pair_created_at": 1780435260000,
-        "url": "https://dexscreener.com/solana/heta8yprjdjgrhzusdaccm4uuv8k7lv7aeytmnq4ke9q",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 30665,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-03T07:21:38.499812+00:00"
-    },
-    {
-      "id": "6d3132cea17b",
-      "fingerprint": "6d3132cea17b",
-      "narrative_summary": "Rusia lanza ataque masivo en Ucrania, matando a al menos 22 personas, incluyendo niños.",
-      "why_memeable": "El ataque masivo y la muerte de niños crean un impacto emocional fuerte y un memeable.",
-      "category": "Noticias internacionales / Conflicto",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAATACA",
-        "UCRANIAENPELIGRO",
-        "ATAQUEMASIVO"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "ataque",
-        "masivo",
-        "muerte",
-        "niños"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-03T02:17:37.777863+00:00",
-      "expires_at": "2026-06-05T02:17:37.777863+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russia launches massive overnight attack on Ukraine",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-05T05:01:06.936697+00:00"
-    },
-    {
-      "id": "75ae8b4f4dce",
-      "fingerprint": "75ae8b4f4dce",
-      "narrative_summary": "Paramount busca luz verde de la UE para su deal de $110 mil millones con Warner Bros.",
-      "why_memeable": "La narrativa es memeable debido a la controversia y el monto del deal, que genera interés y debate.",
-      "category": "negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PARAMOUNT",
-        "WARNERBROS",
-        "DEAL",
-        "UE",
-        "GREENLIGHT"
-      ],
-      "key_terms_for_dex_search": [
-        "Paramount",
-        "WarnerBros",
-        "Deal",
-        "UE",
-        "GreenLight",
-        "Controversia"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-03T02:18:10.143385+00:00",
-      "expires_at": "2026-06-05T02:18:10.143385+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Paramount Seeks EU Green Light for $110 Billion Warner Deal - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-05T05:01:06.936700+00:00"
-    },
-    {
       "id": "209cf0d4b612",
       "fingerprint": "209cf0d4b612",
       "narrative_summary": "Un usuario de 4chan expresa su sorpresa y angustia por el desempeño de sus bitcoins, mientras que se discute el partido de los Knicks en las finales de la NBA 2026.",
@@ -9423,7 +9179,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "8f7026149a23",
@@ -9676,7 +9432,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "7130ef816372",
@@ -9799,7 +9555,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "271633db77db",
@@ -9841,7 +9597,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "7c8bb0da2609",
@@ -9889,7 +9645,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "c11dacf409f9",
@@ -9928,14 +9684,51 @@
       "started_at": "2026-06-14T13:18:21.120641+00:00",
       "expires_at": "2026-06-17T13:18:21.120641+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CIA",
+        "name": "CENTRAL ISRAELI AGENCY",
+        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 282370.0,
+        "liquidity_usd": 83994.12,
+        "price_usd": 0.0002823,
+        "volume_h24": 4806489.16,
+        "volume_h1": 1332038.59,
+        "volume_m5": 85103.0,
+        "price_change_5m": 16.07,
+        "price_change_1h": 141.0,
+        "price_change_24h": 3908.0,
+        "txns_h1_buys": 1811,
+        "txns_h1_sells": 1756,
+        "created_ts": 1781544782000,
+        "pair_created_at": 1781544782000,
+        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10,
+      "matched_at": "2026-06-15T20:23:31.022881+00:00"
     },
     {
       "id": "eec7131cb5e7",
@@ -9981,7 +9774,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "ca40f63b8bef",
@@ -10026,7 +9819,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "29436a971133",
@@ -10071,7 +9864,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a5f4e44b9776",
@@ -10201,7 +9994,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "03b3a2c53e6c",
@@ -10239,14 +10032,51 @@
       "started_at": "2026-06-14T15:28:00.599209+00:00",
       "expires_at": "2026-06-16T15:28:00.599209+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CIA",
+        "name": "CENTRAL ISRAELI AGENCY",
+        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 282370.0,
+        "liquidity_usd": 83994.12,
+        "price_usd": 0.0002823,
+        "volume_h24": 4806489.16,
+        "volume_h1": 1332038.59,
+        "volume_m5": 85103.0,
+        "price_change_5m": 16.07,
+        "price_change_1h": 141.0,
+        "price_change_24h": 3908.0,
+        "txns_h1_buys": 1811,
+        "txns_h1_sells": 1756,
+        "created_ts": 1781544782000,
+        "pair_created_at": 1781544782000,
+        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9,
+      "matched_at": "2026-06-15T20:23:34.970567+00:00"
     },
     {
       "id": "cc7181866eb4",
@@ -10385,7 +10215,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "834dd83477c2",
@@ -10430,7 +10260,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ce210203314d",
@@ -10536,13 +10366,14 @@
       "started_at": "2026-06-14T17:03:01.271152+00:00",
       "expires_at": "2026-06-15T17:03:01.271152+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wow",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-15T20:19:10.154486+00:00"
     },
     {
       "id": "f77748300a98",
@@ -10582,14 +10413,51 @@
       "started_at": "2026-06-14T18:23:07.346323+00:00",
       "expires_at": "2026-06-16T18:23:07.346323+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CIA",
+        "name": "CENTRAL ISRAELI AGENCY",
+        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 282370.0,
+        "liquidity_usd": 83994.12,
+        "price_usd": 0.0002823,
+        "volume_h24": 4806489.16,
+        "volume_h1": 1332038.59,
+        "volume_m5": 85103.0,
+        "price_change_5m": 16.07,
+        "price_change_1h": 141.0,
+        "price_change_24h": 3908.0,
+        "txns_h1_buys": 1811,
+        "txns_h1_sells": 1756,
+        "created_ts": 1781544782000,
+        "pair_created_at": 1781544782000,
+        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7,
+      "matched_at": "2026-06-15T20:23:36.956346+00:00"
     },
     {
       "id": "3af64d2cbdc3",
@@ -10635,7 +10503,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "74d3627ab592",
@@ -10677,7 +10545,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a114eb6465ba",
@@ -10799,7 +10667,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6e632fe74874",
@@ -10839,14 +10707,41 @@
       "started_at": "2026-06-14T20:10:31.865800+00:00",
       "expires_at": "2026-06-16T20:10:31.865800+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "devann",
+        "name": "dev.fun announcement channel",
+        "mint": "DCXqS9xMQqoD2cRpqvyu2TxpherRwtd2UDHLKTk7pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 15132.0,
+        "liquidity_usd": 15307.29,
+        "price_usd": 1.662e-05,
+        "volume_h24": 16948.5,
+        "volume_h1": 12.02,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.86,
+        "price_change_24h": 3.98,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1736844766000,
+        "pair_created_at": 1736844766000,
+        "url": "https://dexscreener.com/solana/6zh31nwjzenwcat6mm7mn8sqe5q5tf453swfpks8cvt7",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CHANNEL in DEV.FUN ANNOUNCEMENT CHANNEL",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-15T20:23:41.583387+00:00"
     },
     {
       "id": "a77fe69e257c",
@@ -10968,7 +10863,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "657ebd96a8d7",
@@ -11013,7 +10908,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7a37908724cb",
@@ -11132,7 +11027,7 @@
         "nitter",
         "polymarket"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0423b71ad1f9",
@@ -11246,7 +11141,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "16384b92301b",
@@ -11376,7 +11271,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "53811e055732",
@@ -11576,7 +11471,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "57cad8df0ce7",
@@ -11621,7 +11516,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b2586abb7e72",
@@ -11669,7 +11564,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "05cd8294ecef",
@@ -11711,7 +11606,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d151c03c83cf",
@@ -11752,14 +11647,41 @@
       "started_at": "2026-06-15T16:36:32.084700+00:00",
       "expires_at": "2026-06-17T16:36:32.084700+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HORMUZ",
+        "name": "Strait of Hormuz",
+        "mint": "AxctaLp54N156rBfmMWLCxxu77rEWizGNQmeX6LLpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 12022.0,
+        "liquidity_usd": 9743.88,
+        "price_usd": 1.202e-05,
+        "volume_h24": 8886.19,
+        "volume_h1": 76.27,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.84,
+        "price_change_24h": -23.3,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 1,
+        "created_ts": 1772384151000,
+        "pair_created_at": 1772384151000,
+        "url": "https://dexscreener.com/solana/7gyaywufvrcqxu1fqxgnvgxvpbp7dydx4yrhyfvyjqgj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: HORMUZ==HORMUZ",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-15T20:23:48.579586+00:00"
     },
     {
       "id": "519d6a83e974",
@@ -11807,7 +11729,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "85356f896b8b",
@@ -11847,14 +11769,41 @@
       "started_at": "2026-06-15T16:37:09.821036+00:00",
       "expires_at": "2026-06-18T16:37:09.821036+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "DATA",
+        "name": "Data Center Coin",
+        "mint": "BPsrLQMEtrdJq6xmNnuBQLsNUbms7q3BFZHq3TG3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26234.0,
+        "liquidity_usd": 15595.58,
+        "price_usd": 3.308e-05,
+        "volume_h24": 6078.17,
+        "volume_h1": 24.76,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.76,
+        "price_change_24h": -4.72,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 0,
+        "created_ts": 1778285624000,
+        "pair_created_at": 1778285624000,
+        "url": "https://dexscreener.com/solana/m6tdtdnkiuzm3tursrz6vh5yjafpasewmmfjpqh9kha",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DATA in DATA CENTER COIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-15T20:23:51.432988+00:00"
     },
     {
       "id": "6ee0fc0f640c",
@@ -11892,14 +11841,250 @@
       "started_at": "2026-06-15T16:40:04.036839+00:00",
       "expires_at": "2026-06-17T16:40:04.036839+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SCAM",
+        "name": "Scam Altman",
+        "mint": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 194075.0,
+        "liquidity_usd": 67452.83,
+        "price_usd": 0.0001941,
+        "volume_h24": 19145.37,
+        "volume_h1": 11.49,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.58,
+        "price_change_24h": -1.98,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 4,
+        "created_ts": 1777307438000,
+        "pair_created_at": 1777307438000,
+        "url": "https://dexscreener.com/solana/b5k3qfft5alrjbskl7qjpdzbbw76txlkfksd1mp4mtgn",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: SCAM in SCAM ALTMAN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Unreal amount of investment to scam people into supporting mass migration",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-15T20:23:52.695405+00:00"
+    },
+    {
+      "id": "3e37acbc3d61",
+      "fingerprint": "3e37acbc3d61",
+      "narrative_summary": "El gobernador de California, Newsom, dice que está siendo investigado por el Departamento de Justicia de EE. UU. y que esto es porque está considerando postularse a la presidencia en 2028.",
+      "why_memeable": "La narrativa es memeable porque involucra a un político importante, un evento inesperado y una posible conspiración.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NEWSOM",
+        "DOJ",
+        "TRUMP",
+        "CALIFORNIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Newsom",
+        "DOJ",
+        "investigación",
+        "presidencia",
+        "2028"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-15T20:19:24.800756+00:00",
+      "expires_at": "2026-06-17T20:19:24.800756+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HUNTER",
+        "name": "Hunter Biden 2028",
+        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 79052.0,
+        "liquidity_usd": 30549.45,
+        "price_usd": 7.905e-05,
+        "volume_h24": 53587.55,
+        "volume_h1": 1882.52,
+        "volume_m5": 10.16,
+        "price_change_5m": -0.22,
+        "price_change_1h": -8.05,
+        "price_change_24h": -1.79,
+        "txns_h1_buys": 18,
+        "txns_h1_sells": 19,
+        "created_ts": 1780392254000,
+        "pair_created_at": 1780392254000,
+        "url": "https://dexscreener.com/solana/hxmuvcxsvvcnpym86a4xtsjxvegvqqbuxopuswr13s6x",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: 2028 in HUNTER BIDEN 2028",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Lmao. And there’s the plan. Right there. Laid bare in your face. Create the problem (stranger danger), sell the solution (more authoritative surveillance state), repeat forever. Everyone owes conspiracy theorists an apology who have been sc",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-15T20:23:54.102334+00:00"
+    },
+    {
+      "id": "0daeec341233",
+      "fingerprint": "0daeec341233",
+      "narrative_summary": "Nvidia anuncia aumento de $25 mil millones en su primera venta de bonos corporativos en cinco años",
+      "why_memeable": "La noticia de Nvidia es memeable debido a la cantidad de dinero involucrada y la importancia de la empresa en el sector tecnológico",
+      "category": "Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "NVIDIA",
+        "ILUVATAR",
+        "BYTEDANCE"
+      ],
+      "key_terms_for_dex_search": [
+        "NVIDIA",
+        "ILUVATAR",
+        "BYTEDANCE",
+        "bonos corporativos",
+        "venta de bonos"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-15T20:19:49.402176+00:00",
+      "expires_at": "2026-06-17T20:19:49.402176+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Nvidia to raise $25 billion, sources say, in first corporate bond sale in five years - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a096fbf378fb",
+      "fingerprint": "a096fbf378fb",
+      "narrative_summary": "El futbolista español Rafa Mir condenado a 8 años y medio de prisión por agresión sexual.",
+      "why_memeable": "La condena de Rafa Mir es un evento impactante y controvertido que puede generar un gran interés y debate.",
+      "category": "Deporte/Justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RAFAMIR",
+        "FUTBOLISTACONDENADO",
+        "AGRESIONSEXUAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Rafa Mir",
+        "agresión sexual",
+        "condena",
+        "futbolista"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-15T20:20:38.118608+00:00",
+      "expires_at": "2026-06-17T20:20:38.118608+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Soccer Spanish striker Rafa Mir sentenced to 8 1/2 years in jail for sexual assault - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "92d1add519f3",
+      "fingerprint": "92d1add519f3",
+      "narrative_summary": "Elon Musk comparte un título 'This is nuts' en Twitter, generando mucha atención.",
+      "why_memeable": "La frase 'This is nuts' es corta, fácil de recordar y tiene un tono absurdo.",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "THISISNUTS",
+        "ELONMUSKNUTS"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "nutter",
+        "thisisnuts"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-15T20:21:06.217502+00:00",
+      "expires_at": "2026-06-22T20:21:06.217502+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "This is nuts",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-15T16:40:04.036839+00:00"
+  "last_updated": "2026-06-15T20:23:54.102353+00:00"
 }
