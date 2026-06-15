@@ -1,282 +1,6 @@
 {
   "watches": [
     {
-      "id": "368b07a12c5f",
-      "fingerprint": "368b07a12c5f",
-      "narrative_summary": "Zendaya se despide de su personaje Rue en la serie 'Euphoria'.",
-      "why_memeable": "La noticia tiene un impacto emocional fuerte en los fanáticos de la serie y Zendaya, lo que genera una gran resonancia cultural.",
-      "category": "Entretenimiento",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "RUEBYE",
-        "EUPHORIA",
-        "ZENDAYA",
-        "SERIEFIN",
-        "RUEFINAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Zendaya",
-        "Euphoria",
-        "Rue",
-        "serie",
-        "final"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-02T17:54:12.115897+00:00",
-      "expires_at": "2026-06-05T17:54:12.115897+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FINALS",
-        "name": "NBA Finals Coin",
-        "mint": "27TYCzK2YYEYcAvpRGAcjofrK2gLgXwgeUpJS95npump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26107.0,
-        "liquidity_usd": 12753.01,
-        "price_usd": 2.619e-05,
-        "volume_h24": 37023.46,
-        "volume_h1": 3040.59,
-        "volume_m5": 476.83,
-        "price_change_5m": -12.19,
-        "price_change_1h": -11.59,
-        "price_change_24h": -20.65,
-        "txns_h1_buys": 34,
-        "txns_h1_sells": 30,
-        "created_ts": 1780202636000,
-        "pair_created_at": 1780202636000,
-        "url": "https://dexscreener.com/solana/bdeumdjtvjmy8uwtyirmxz8h49pmbciqyobpcmdjxxfk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FINAL in NBA FINALS COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Zendaya says goodbye to Rue and ‘Euphoria.’",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-02T17:58:04.733503+00:00"
-    },
-    {
-      "id": "f73adb4ded03",
-      "fingerprint": "f73adb4ded03",
-      "narrative_summary": "SpaceX busca una valuación de $1.75 trillones en su IPO más grande hasta la fecha",
-      "why_memeable": "La valuación de $1.75 trillones es un número icónico y fácil de compartir, y el hecho de que SpaceX esté buscando una valuación tan alta es un tema interesante y controvertido",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "$175BSPAC",
-        "SPACIPO",
-        "GREENSPOON"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "IPO",
-        "valuación",
-        "$1.75 trillones"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-02T17:55:02.999472+00:00",
-      "expires_at": "2026-06-04T17:55:02.999472+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PreSPAX",
-        "name": "SpaceX",
-        "mint": "Dsx5h4jk8vyQjd8B9JF9cydNTz87KgPqUG2QCGH9PjCh",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 31840.0,
-        "liquidity_usd": 13308.78,
-        "price_usd": 3.184e-05,
-        "volume_h24": 8949.31,
-        "volume_h1": 458.48,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.92,
-        "price_change_24h": 8.44,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 4,
-        "created_ts": 1775837732000,
-        "pair_created_at": 1775837732000,
-        "url": "https://dexscreener.com/solana/4qqmhx1buuxx3rxugqpa9xtp5pwe5ydwx9egjpyyrc6q",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 3725,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-02T17:58:07.732752+00:00"
-    },
-    {
-      "id": "b3677228e2de",
-      "fingerprint": "b3677228e2de",
-      "narrative_summary": "Elon Musk anuncia el fin de algo",
-      "why_memeable": "La frase 'It's over' es fácil de capturar y compartir",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ITS_OVER",
-        "OVER"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "it's over",
-        "xcancel"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 5,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-02T17:56:08.485905+00:00",
-      "expires_at": "2026-06-04T17:56:08.485905+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "It’s over",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-05T00:17:59.007415+00:00"
-    },
-    {
-      "id": "906f4a2ffa58",
-      "fingerprint": "906f4a2ffa58",
-      "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando una gran cantidad de interacción",
-      "why_memeable": "Frase simple y directa de Elon Musk, uno de los personajes más influyentes en la cultura popular",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "yes",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-02T17:56:37.285158+00:00",
-      "expires_at": "2026-06-09T17:56:37.285158+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 394058.0,
-        "liquidity_usd": 105885.17,
-        "price_usd": 0.0003941,
-        "volume_h24": 18123.5,
-        "volume_h1": 434.64,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.48,
-        "price_change_24h": -8.06,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 7,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-02T17:58:11.377791+00:00"
-    },
-    {
       "id": "f9e4c51cf79e",
       "fingerprint": "f9e4c51cf79e",
       "narrative_summary": "El Tribunal Supremo de EE. UU. permite a Alabama utilizar un mapa congresional que beneficia a los republicanos para las elecciones de medio término de 2026.",
@@ -9567,14 +9291,15 @@
       "started_at": "2026-06-13T12:20:19.990028+00:00",
       "expires_at": "2026-06-15T12:20:19.990028+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Exclusive: Tata's iPhone parts factory contaminated farmland water, India pollution body alleges - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-06-15T16:35:42.429298+00:00"
     },
     {
       "id": "c740467cbea6",
@@ -9808,13 +9533,14 @@
       "started_at": "2026-06-13T16:13:13.889461+00:00",
       "expires_at": "2026-06-15T16:13:13.889461+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Breaking: Norton Fire reported in Humboldt County on June 13 - Sacramento Bee",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-06-15T16:35:42.429311+00:00"
     },
     {
       "id": "ccea76816dd8",
@@ -11986,7 +11712,194 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "d151c03c83cf",
+      "fingerprint": "d151c03c83cf",
+      "narrative_summary": "Muere Al-Qaqa Ibn Antar en caída de 400 pies en un cráter volcánico, mientras que se informa que se firmó un pacto entre EE. UU. e Irán que podría aumentar el tráfico en el Estrecho de Hormuz.",
+      "why_memeable": "La caída de 400 pies de Al-Qaqa Ibn Antar es un evento dramático y visualmente atractivo, mientras que el pacto entre EE. UU. e Irán es un tema político controvertido que podría generar polarización.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ALQAQA",
+        "SPIDERMAN",
+        "HORMUZ",
+        "IRAN",
+        "EEUU"
+      ],
+      "key_terms_for_dex_search": [
+        "AlQaqa",
+        "SpiderMan",
+        "Hormuz",
+        "Iran",
+        "EEUU"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-15T16:36:32.084700+00:00",
+      "expires_at": "2026-06-17T16:36:32.084700+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "519d6a83e974",
+      "fingerprint": "519d6a83e974",
+      "narrative_summary": "El hijo de la princesa heredera de Noruega, Marius Borg Høiby, ha sido declarado culpable de dos cargos de violación y condenado a cuatro años de prisión.",
+      "why_memeable": "La noticia combina la figura pública de la princesa heredera de Noruega con un delito grave, lo que puede generar un gran interés y discusión en las redes sociales.",
+      "category": "Noticias de celebridades y delitos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RAPEPRINCE",
+        "NORWAYROYAL",
+        "METTEMARIT",
+        "MARIUSBORG",
+        "ROYALSHAME"
+      ],
+      "key_terms_for_dex_search": [
+        "Noruega",
+        "princesa heredera",
+        "violación",
+        "Marius Borg Høiby",
+        "Mette Marit"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-15T16:36:33.879489+00:00",
+      "expires_at": "2026-06-18T16:36:33.879489+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "85356f896b8b",
+      "fingerprint": "85356f896b8b",
+      "narrative_summary": "Tesla presentó datos de seguridad engañosos sobre conducción autónoma a reguladores europeos",
+      "why_memeable": "La noticia es fácil de entender y se puede capturar en una frase corta",
+      "category": "tech",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TESLASCAM",
+        "FULLSELFDRIVINGLIE",
+        "AUTONOMOUSDECEPTION"
+      ],
+      "key_terms_for_dex_search": [
+        "tesla",
+        "selfdriving",
+        "safety",
+        "data",
+        "regulators",
+        "european"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-15T16:37:09.821036+00:00",
+      "expires_at": "2026-06-18T16:37:09.821036+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6ee0fc0f640c",
+      "fingerprint": "6ee0fc0f640c",
+      "narrative_summary": "Unreal amount of investment used to scam people into supporting mass migration, according to Elon Musk.",
+      "why_memeable": "La frase es corta, fácil de recordar y tiene un claro significado negativo.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SCAMMUSK",
+        "MIGRATIONSCAM",
+        "ELONSCAM"
+      ],
+      "key_terms_for_dex_search": [
+        "scam",
+        "migration",
+        "elonmusk",
+        "investment"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-15T16:40:04.036839+00:00",
+      "expires_at": "2026-06-17T16:40:04.036839+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Unreal amount of investment to scam people into supporting mass migration",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-15T11:39:34.576326+00:00"
+  "last_updated": "2026-06-15T16:40:04.036839+00:00"
 }
