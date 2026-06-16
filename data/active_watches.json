@@ -1,224 +1,6 @@
 {
   "watches": [
     {
-      "id": "06210d2b24c9",
-      "fingerprint": "06210d2b24c9",
-      "narrative_summary": "Elon Musk publica un tweet simplemente con la palabra 'True' y recibe una gran cantidad de atención en Twitter.",
-      "why_memeable": "La simplicidad de la publicación y la respuesta de Elon Musk son memesables.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "true",
-        "tweet",
-        "twitter"
-      ],
-      "score": 72,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-06-03T23:00:42.248299+00:00",
-      "expires_at": "2026-06-05T23:00:42.248299+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 379793.0,
-        "liquidity_usd": 100820.29,
-        "price_usd": 0.0003798,
-        "volume_h24": 13099.03,
-        "volume_h1": 787.94,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.43,
-        "price_change_24h": -1.46,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 6,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-03T23:02:27.017944+00:00"
-    },
-    {
-      "id": "9074f02cdae6",
-      "fingerprint": "9074f02cdae6",
-      "narrative_summary": "Elon Musk propone un juicio contra el wokismo, comparándolo con el juicio de Nuremberg.",
-      "why_memeable": "La frase es breve y fácil de recordar, con un claro mensaje de crítica al wokismo.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "WOK",
-        "NUREMBERG",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "wokisme",
-        "Nuremberg",
-        "ElonMusk",
-        "juicio"
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-03T23:02:08.229663+00:00",
-      "expires_at": "2026-06-05T23:02:08.229663+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ewok",
-        "name": "ewok",
-        "mint": "2uhCxwxWTvsAS8VKB47dWQQU8GTDQhedJEzfjAz2pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 60677.0,
-        "liquidity_usd": 18111.7,
-        "price_usd": 6.069e-05,
-        "volume_h24": 395961.56,
-        "volume_h1": 39630.34,
-        "volume_m5": 4638.35,
-        "price_change_5m": 11.84,
-        "price_change_1h": 88.33,
-        "price_change_24h": 111.0,
-        "txns_h1_buys": 714,
-        "txns_h1_sells": 555,
-        "created_ts": 1780545784000,
-        "pair_created_at": 1780545784000,
-        "url": "https://dexscreener.com/solana/albxxjw9r9uuqcvnct6m9f9zj2twd4agr1mtavohni6r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: WOK in EWOK",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Il faudra, un jour, faire le Nuremberg du wokisme.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-06-04T06:55:57.161150+00:00"
-    },
-    {
-      "id": "9060be5dad49",
-      "fingerprint": "9060be5dad49",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, con un gran impacto de engagement.",
-      "why_memeable": "La simplicidad y la claridad de la publicación de Elon Musk la hacen fácilmente replicable y compartible.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "true",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-04T01:49:35.675688+00:00",
-      "expires_at": "2026-06-05T01:49:35.675688+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 353965.0,
-        "liquidity_usd": 95126.64,
-        "price_usd": 0.000354,
-        "volume_h24": 13446.08,
-        "volume_h1": 2082.1,
-        "volume_m5": 19.32,
-        "price_change_5m": -0.49,
-        "price_change_1h": -5.48,
-        "price_change_24h": -7.28,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 7,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-04T01:52:16.535513+00:00"
-    },
-    {
       "id": "fd98a9ba7843",
       "fingerprint": "fd98a9ba7843",
       "narrative_summary": "Muerte de una persona debido a una sobredosis de fentanilo.",
@@ -8804,7 +8586,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "8f7026149a23",
@@ -9057,7 +8839,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "7130ef816372",
@@ -9180,7 +8962,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "271633db77db",
@@ -9216,13 +8998,14 @@
       "started_at": "2026-06-14T08:47:46.145498+00:00",
       "expires_at": "2026-06-16T08:47:46.145498+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Postpartum Mom Who ‘Never Smoked’ Learns She Has Rare Stage 4 Lung Cancer (Exclusive) - People.com",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-06-16T11:39:08.880633+00:00"
     },
     {
       "id": "7c8bb0da2609",
@@ -9263,14 +9046,15 @@
       "started_at": "2026-06-14T11:20:45.340028+00:00",
       "expires_at": "2026-06-16T11:20:45.340028+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "British forces intercept Russian shadow fleet tanker in the Channel - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-06-16T11:39:08.880647+00:00"
     },
     {
       "id": "c11dacf409f9",
@@ -9399,7 +9183,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "ca40f63b8bef",
@@ -9444,7 +9228,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "29436a971133",
@@ -9489,7 +9273,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "a5f4e44b9776",
@@ -9619,7 +9403,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "03b3a2c53e6c",
@@ -9840,7 +9624,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "834dd83477c2",
@@ -9885,7 +9669,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "ce210203314d",
@@ -10128,7 +9912,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "74d3627ab592",
@@ -10170,7 +9954,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "a114eb6465ba",
@@ -10292,7 +10076,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "6e632fe74874",
@@ -10488,7 +10272,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "657ebd96a8d7",
@@ -10533,7 +10317,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "7a37908724cb",
@@ -10652,7 +10436,7 @@
         "nitter",
         "polymarket"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0423b71ad1f9",
@@ -10766,7 +10550,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "16384b92301b",
@@ -10896,7 +10680,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "53811e055732",
@@ -11142,7 +10926,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b2586abb7e72",
@@ -11190,7 +10974,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "05cd8294ecef",
@@ -11355,7 +11139,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "85356f896b8b",
@@ -11622,7 +11406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a096fbf378fb",
@@ -11667,7 +11451,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "92d1add519f3",
@@ -11709,7 +11493,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6f7aa9907522",
@@ -11753,7 +11537,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d438ec06a4fb",
@@ -11798,7 +11582,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f38301512106",
@@ -11845,7 +11629,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a6d37f0df40a",
@@ -11887,7 +11671,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a3ad4ad0b8c1",
@@ -11932,7 +11716,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "58595543c18f",
@@ -11976,8 +11760,142 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "e9357eac6397",
+      "fingerprint": "e9357eac6397",
+      "narrative_summary": "SpaceX compra Anysphere por $60 mil millones, superando el capitalización de mercado de Amazon.",
+      "why_memeable": "La compra de Anysphere por $60 mil millones es un evento impactante y sorprendente que puede ser capturado en una frase corta.",
+      "category": "tech",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SPACEXANYS",
+        "ANYSX",
+        "SPACEXBUY"
+      ],
+      "key_terms_for_dex_search": [
+        "SpaceX",
+        "Anysphere",
+        "compra",
+        "60 mil millones"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-16T11:39:24.124980+00:00",
+      "expires_at": "2026-06-18T11:39:24.124980+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60 billion - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6cebaade1fd6",
+      "fingerprint": "6cebaade1fd6",
+      "narrative_summary": "India temporalmente bloquea Telegram para abordar fraude en examen médico clave",
+      "why_memeable": "La narrativa es fácil de entender y tiene un título claro, lo que la hace memeable",
+      "category": "noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NEET",
+        "TELEGRAM",
+        "FRAUDE",
+        "EXAMEN MÉDICO"
+      ],
+      "key_terms_for_dex_search": [
+        "Telegram",
+        "fraude",
+        "examen médico",
+        "India"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-16T11:40:32.065381+00:00",
+      "expires_at": "2026-06-18T11:40:32.065381+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "1d96bcaaf2e0",
+      "fingerprint": "1d96bcaaf2e0",
+      "narrative_summary": "Elon Musk comparte un meme divertido en Twitter.",
+      "why_memeable": "La frase 'Indeed 😂' es corta y fácil de recordar, y la emoción del meme es alta.",
+      "category": "meme",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "INDEED",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "indeed",
+        "elonmusk",
+        "meme",
+        "twitter"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-16T11:40:57.685857+00:00",
+      "expires_at": "2026-06-18T11:40:57.685857+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Indeed 😂",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-16T06:13:46.946394+00:00"
+  "last_updated": "2026-06-16T11:40:57.685857+00:00"
 }
