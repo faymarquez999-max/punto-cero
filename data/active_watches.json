@@ -1,288 +1,6 @@
 {
   "watches": [
     {
-      "id": "42c2e2177e4f",
-      "fingerprint": "42c2e2177e4f",
-      "narrative_summary": "Elon Musk comparte una frase viral 'Yup' en Twitter.",
-      "why_memeable": "La frase 'Yup' es corta y fácil de compartir, y tiene un significado ambiguo que puede ser interpretado de diferentes maneras.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Yup",
-        "Twitter"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 2,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 2,
-        "absurdity": 0,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-04T06:54:54.184600+00:00",
-      "expires_at": "2026-06-06T06:54:54.184600+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 344101.0,
-        "liquidity_usd": 94945.24,
-        "price_usd": 0.0003441,
-        "volume_h24": 15699.65,
-        "volume_h1": 3169.26,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.81,
-        "price_change_24h": -9.72,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 6,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-04T06:56:06.131539+00:00"
-    },
-    {
-      "id": "d8874747f5f7",
-      "fingerprint": "d8874747f5f7",
-      "narrative_summary": "Elon Musk confirma algo con una respuesta simple y categórica.",
-      "why_memeable": "La respuesta de Elon Musk es breve, categórica y proviene de una figura top.",
-      "category": "ciencia ficción, tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELONMUSKYES",
-        "YESFROMELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "yes",
-        "xcancel"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 2,
-        "polarizing": 8,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-04T06:55:15.066609+00:00",
-      "expires_at": "2026-06-06T06:55:15.066609+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONMUSK",
-        "name": "world's first trillionaire",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 75336.0,
-        "liquidity_usd": 20421.24,
-        "price_usd": 7.534e-05,
-        "volume_h24": 6905.11,
-        "volume_h1": 58.5,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.69,
-        "price_change_24h": -27.97,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 4,
-        "created_ts": 1770908313000,
-        "pair_created_at": 1770908313000,
-        "url": "https://dexscreener.com/solana/dyw7txypbs6ghz44mpked7hdbqdmg76b35paf4yejfg4",
-        "source": "dexscreener",
-        "match_score": 84.2,
-        "match_reason": "ticker close: ELONMUSK~ELONMUSKYES (84.21052631578947%)",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-04T10:48:58.287634+00:00"
-    },
-    {
-      "id": "928bba0e28d0",
-      "fingerprint": "928bba0e28d0",
-      "narrative_summary": "SpaceX se valoriza en $1.75 billones y se prepara para el mayor debut en el mercado de valores",
-      "why_memeable": "La cifra de $1.75 billones y el debut en el mercado de valores son elementos que pueden generar interés y discusión",
-      "category": "Finanzas y tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "SPACEX",
-        "MUSK",
-        "STARLINK"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "debut",
-        "mercado de valores",
-        "Elon Musk"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-04T10:44:08.956665+00:00",
-      "expires_at": "2026-06-07T10:44:08.956665+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 81770.0,
-        "liquidity_usd": 23807.62,
-        "price_usd": 8.177e-05,
-        "volume_h24": 10799.49,
-        "volume_h1": 204.34,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 4.31,
-        "price_change_24h": -19.94,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1775056807000,
-        "pair_created_at": 1775056807000,
-        "url": "https://dexscreener.com/solana/dip8wp7ysuyw3pcd8fkmssu6cl6apsmaen8cd8uzez1b",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceX",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-04T10:49:00.921904+00:00"
-    },
-    {
-      "id": "2a17d0836e0b",
-      "fingerprint": "2a17d0836e0b",
-      "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando gran interés y debate",
-      "why_memeable": "La simplicidad y brevedad de la publicación de Elon Musk la hacen muy compartible y repetible",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "yes",
-        "twitter"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-04T10:46:52.167860+00:00",
-      "expires_at": "2026-06-06T10:46:52.167860+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 341593.0,
-        "liquidity_usd": 93188.72,
-        "price_usd": 0.0003416,
-        "volume_h24": 16907.74,
-        "volume_h1": 894.6,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.89,
-        "price_change_24h": -9.14,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 9,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-04T10:49:02.008842+00:00"
-    },
-    {
       "id": "abed663d4edf",
       "fingerprint": "abed663d4edf",
       "narrative_summary": "Elon Musk acusa al Southern Poverty Law Center de ser una organización criminal",
@@ -8411,7 +8129,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "8f7026149a23",
@@ -8782,13 +8500,14 @@
       "started_at": "2026-06-14T04:53:36.403303+00:00",
       "expires_at": "2026-06-17T04:53:36.403303+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "A 100-Year-Old Man’s Dance Video Went Viral, but His Origin Story Is Even Better - VICE",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 17,
+      "expired_at": "2026-06-17T05:07:13.733863+00:00"
     },
     {
       "id": "271633db77db",
@@ -10273,7 +9992,7 @@
         "nitter",
         "polymarket"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0423b71ad1f9",
@@ -10380,14 +10099,15 @@
       "started_at": "2026-06-15T00:21:26.303154+00:00",
       "expires_at": "2026-06-17T00:21:26.303154+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sen. Mitch McConnell hospitalized, his team says - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-17T05:07:13.733880+00:00"
     },
     {
       "id": "16384b92301b",
@@ -10517,7 +10237,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "53811e055732",
@@ -10763,7 +10483,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b2586abb7e72",
@@ -10811,7 +10531,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "05cd8294ecef",
@@ -10977,7 +10697,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "85356f896b8b",
@@ -11244,7 +10964,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a096fbf378fb",
@@ -11289,7 +11009,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "92d1add519f3",
@@ -11331,7 +11051,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6f7aa9907522",
@@ -11375,7 +11095,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d438ec06a4fb",
@@ -11413,14 +11133,41 @@
       "started_at": "2026-06-15T22:38:04.066105+00:00",
       "expires_at": "2026-06-17T22:38:04.066105+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Crashout",
+        "name": "Crashout",
+        "mint": "6JGSHS9GrE9uG8ix63w3DPMYHrgrJ6J4QyHbBhAepump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 71622.0,
+        "liquidity_usd": 39148.63,
+        "price_usd": 7.162e-05,
+        "volume_h24": 8962.74,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -0.95,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1728588072000,
+        "pair_created_at": 1728588072000,
+        "url": "https://dexscreener.com/solana/8guix1wqrn8usufml54drhcclxlytudstkewhowdd2ms",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CRASH in CRASHOUT",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Eight feared dead after US Air Force B-52 bomber crashes in California",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-06-17T05:12:26.165298+00:00"
     },
     {
       "id": "f38301512106",
@@ -11467,7 +11214,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a6d37f0df40a",
@@ -11509,7 +11256,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a3ad4ad0b8c1",
@@ -11625,7 +11372,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e9357eac6397",
@@ -11670,7 +11417,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6cebaade1fd6",
@@ -11716,7 +11463,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1d96bcaaf2e0",
@@ -11759,7 +11506,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "91f929b86ade",
@@ -11804,7 +11551,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "82a0260e9436",
@@ -11846,7 +11593,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a66bdecc9163",
@@ -11893,8 +11640,221 @@
       "cluster_sources": [
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "81d943c07ab4",
+      "fingerprint": "81d943c07ab4",
+      "narrative_summary": "Lionel Messi reescribe los libros de historia en la Copa Mundial con su sexto título",
+      "why_memeable": "Messi es una figura icónica y su logro es un evento histórico que puede ser resumido en una frase corta y compartida",
+      "category": "Deportes",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "MESSI6",
+        "ARGENTINA",
+        "WORLDCUP",
+        "GOATMESSI",
+        "RECORDMESSI"
+      ],
+      "key_terms_for_dex_search": [
+        "Messi",
+        "Copa Mundial",
+        "Argentina",
+        "récord",
+        "fútbol"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-06-17T05:07:16.502746+00:00",
+      "expires_at": "2026-06-20T05:07:16.502746+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MESSI",
+        "name": "Lionel Messi",
+        "mint": "5bWo9g4qsEviNcnPZEcemfmuCxqgh9n1xwpGA5Cypump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 12174.0,
+        "liquidity_usd": 8674.64,
+        "price_usd": 1.255e-05,
+        "volume_h24": 6348.0,
+        "volume_h1": 274.46,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.23,
+        "price_change_24h": 2.7,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 5,
+        "created_ts": 1779839885000,
+        "pair_created_at": 1779839885000,
+        "url": "https://dexscreener.com/solana/41zqh4b98kjbxksedmab9eldtsc6bqobgzzbd49jndij",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MESSI in LIONEL MESSI",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Lionel Messi rewrites history books at record sixth World Cup",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-17T05:12:35.458200+00:00"
+    },
+    {
+      "id": "cbef523436d9",
+      "fingerprint": "cbef523436d9",
+      "narrative_summary": "Un barco ruso dispara advertencias cerca de un yate británico en el Canal de la Mancha",
+      "why_memeable": "La situación es inusual y genera una mezcla de miedo y fascinación, con un elemento de conflicto internacional",
+      "category": "noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSSWAR",
+        "CHANNELCLASH",
+        "WARSHIP",
+        "YACHTINCIDENT"
+      ],
+      "key_terms_for_dex_search": [
+        "Russian warship",
+        "English Channel",
+        "yacht incident",
+        "warning shots"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-06-17T05:07:41.271038+00:00",
+      "expires_at": "2026-06-20T05:07:41.271038+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The Papers: ''Scary' clash in Channel' and 'Oh frigate!'",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "4f00344444d3",
+      "fingerprint": "4f00344444d3",
+      "narrative_summary": "Trump Ally Collins Beats Kemp's Pick for Senate in Georgia Race",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Trump y Kemp, con un resultado inesperado. La frase 'Trump Ally Collins Beats Kemp's Pick' es fácil de recordar y compartir.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSKEMP",
+        "COLLINSWIN",
+        "GEORGIASENATE"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "KEMP",
+        "COLLINS",
+        "GEORGIA",
+        "SENATE"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-17T05:07:54.728191+00:00",
+      "expires_at": "2026-06-19T05:07:54.728191+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump Ally Collins Beats Kemp’s Pick for Senate in Georgia Race - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "fc056d06e244",
+      "fingerprint": "fc056d06e244",
+      "narrative_summary": "Un hombre es arrestado después de que su pareja fuese atacada y matada por perros en Florida.",
+      "why_memeable": "La historia tiene un elemento de shock y violencia, lo que la hace fácilmente compartible y recordable.",
+      "category": "crimen y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERROSASESINOS",
+        "MATAZODEFLORIDA",
+        "AMORYPERROS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "asesinato",
+        "Florida",
+        "crimen",
+        "violencia"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-17T05:08:34.483963+00:00",
+      "expires_at": "2026-06-19T05:08:34.483963+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Partner of Florida woman mauled to death by dogs released on bond in animal neglect case - FOX 35 Orlando",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-16T22:26:05.301006+00:00"
+  "last_updated": "2026-06-17T05:12:35.458220+00:00"
 }
