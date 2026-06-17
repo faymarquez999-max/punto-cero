@@ -1,104 +1,6 @@
 {
   "watches": [
     {
-      "id": "72f6e5bf25fa",
-      "fingerprint": "72f6e5bf25fa",
-      "narrative_summary": "Zelenskiy invita a Putin a negociaciones para terminar la guerra en una carta abierta.",
-      "why_memeable": "La invitación de Zelenskiy a Putin para negociaciones es un momento viral que puede ser capturado en una frase corta y compartida fácilmente.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ZELENSKIY",
-        "PUTIN",
-        "NEGOCIACIONES",
-        "GUERRAUCRANIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Zelenskiy",
-        "Putin",
-        "negociaciones",
-        "guerraUcrania"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-05T05:04:24.465239+00:00",
-      "expires_at": "2026-06-07T05:04:24.465239+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Zelenskiy, in open letter, invites Putin to talks to end the war - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-06-07T08:30:34.401693+00:00"
-    },
-    {
-      "id": "051b91a7176d",
-      "fingerprint": "051b91a7176d",
-      "narrative_summary": "Donald Trump y Elon Musk están involucrados en una disputa, mientras que Trump también está relacionado con noticias sobre ayuda a Ucrania y una inversión en 'carbón limpio'",
-      "why_memeable": "La combinación de figuras políticas y empresariales prominentes con temas controvertidos y la posibilidad de memes sobre 'carbón limpio' y disputas entre celebridades",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMPVSELON",
-        "COALGATE",
-        "UKRAINEAID",
-        "TRUMPPROBLEMS",
-        "MUSKTRUMPFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Elon Musk",
-        "Ucrania",
-        "carbón limpio",
-        "disputa"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-05T08:53:13.932051+00:00",
-      "expires_at": "2026-06-08T08:53:13.932051+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Vote them out",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 20,
-      "expired_at": "2026-06-08T11:30:40.034611+00:00"
-    },
-    {
       "id": "638dc0a53df0",
       "fingerprint": "638dc0a53df0",
       "narrative_summary": "Protestas en Albania contra un resort de lujo vinculado a Jared Kushner",
@@ -10511,14 +10413,15 @@
       "started_at": "2026-06-15T20:19:49.402176+00:00",
       "expires_at": "2026-06-17T20:19:49.402176+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Nvidia to raise $25 billion, sources say, in first corporate bond sale in five years - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-17T21:48:47.127693+00:00"
     },
     {
       "id": "a096fbf378fb",
@@ -10556,14 +10459,15 @@
       "started_at": "2026-06-15T20:20:38.118608+00:00",
       "expires_at": "2026-06-17T20:20:38.118608+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Soccer Spanish striker Rafa Mir sentenced to 8 1/2 years in jail for sexual assault - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-17T21:48:47.127707+00:00"
     },
     {
       "id": "92d1add519f3",
@@ -11851,7 +11755,99 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "d34f89524b61",
+      "fingerprint": "d34f89524b61",
+      "narrative_summary": "Keir Starmer se mantiene firme ante el desafío de liderazgo que se acerca, el primer ministro quiere elevar el barómetro político para sus posibles desafiantes.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase corta.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "STARMER",
+        "BURNHAM",
+        "LEADERSHIPCHALLENGE"
+      ],
+      "key_terms_for_dex_search": [
+        "Starmer",
+        "Burnham",
+        "LeadershipChallenge",
+        "política"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-17T21:51:56.398232+00:00",
+      "expires_at": "2026-06-19T21:51:56.398232+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mason: Starmer remains defiant as leadership challenge inches closer",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "7c52439ea5bd",
+      "fingerprint": "7c52439ea5bd",
+      "narrative_summary": "Una madre italiana demanda a Meta y TikTok después de la muerte de su hija.",
+      "why_memeable": "La narrativa tiene un componente emocional fuerte y un tema de justicia, lo que la hace memeable.",
+      "category": "muerte, justicia, tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "METAVSMADRE",
+        "TIKTOKVSMADRE",
+        "JUSTICIAPARAHIJA"
+      ],
+      "key_terms_for_dex_search": [
+        "Meta",
+        "TikTok",
+        "muerte",
+        "justicia",
+        "madre",
+        "hija"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-17T21:52:42.351633+00:00",
+      "expires_at": "2026-06-19T21:52:42.351633+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Italian mother takes on Meta, TikTok after daughter's death - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-17T17:33:13.275157+00:00"
+  "last_updated": "2026-06-17T21:52:42.351633+00:00"
 }
