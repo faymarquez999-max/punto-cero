@@ -1,238 +1,6 @@
 {
   "watches": [
     {
-      "id": "022f4c0abe46",
-      "fingerprint": "022f4c0abe46",
-      "narrative_summary": "Elon Musk publica 'Yup' en Twitter, generando gran atención",
-      "why_memeable": "La frase 'Yup' es corta y fácil de compartir, y su origen en una figura pública como Elon Musk la hace aún más interesante",
-      "category": "celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "YUP",
-        "ELON",
-        "CELEBRIDAD"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-05T08:57:46.421603+00:00",
-      "expires_at": "2026-06-12T08:57:46.421603+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 350675.0,
-        "liquidity_usd": 92672.85,
-        "price_usd": 0.0003507,
-        "volume_h24": 16646.47,
-        "volume_h1": 394.07,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.95,
-        "price_change_24h": -0.15,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-05T12:22:34.758713+00:00"
-    },
-    {
-      "id": "bb510d34f785",
-      "fingerprint": "bb510d34f785",
-      "narrative_summary": "Elon Musk acusa a SPLC de ser una organización criminal",
-      "why_memeable": "Frase corta y directa de Elon Musk, con connotaciones negativas hacia SPLC",
-      "category": "politica",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SPLC",
-        "ELON",
-        "CRIMINAL"
-      ],
-      "key_terms_for_dex_search": [
-        "SPLC",
-        "ELON",
-        "CRIMINAL",
-        "ORGANIZACIÓN"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 2,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-05T08:58:30.200334+00:00",
-      "expires_at": "2026-06-07T08:58:30.200334+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 350675.0,
-        "liquidity_usd": 92672.85,
-        "price_usd": 0.0003507,
-        "volume_h24": 16646.47,
-        "volume_h1": 394.07,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.95,
-        "price_change_24h": -0.15,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes, SPLC is a criminal organization",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-05T12:22:35.809247+00:00"
-    },
-    {
-      "id": "c52eabaedbe4",
-      "fingerprint": "c52eabaedbe4",
-      "narrative_summary": "Un usuario de 4chan se burla de Bitcoin y KuCoin, utilizando el término 'baggies' de manera absurda.",
-      "why_memeable": "La narrativa es memeable debido a la presencia de un usuario que se burla de Bitcoin y KuCoin de manera absurda, utilizando el término 'baggies'.",
-      "category": "Crypto",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "KUCOIN",
-        "BITCOIN",
-        "BWBHAHAHAHAHAHAHA"
-      ],
-      "key_terms_for_dex_search": [
-        "KuCoin",
-        "Bitcoin",
-        "BWBHAHAHAHAHAHAHA",
-        "baggies"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-05T12:20:18.419070+00:00",
-      "expires_at": "2026-06-07T12:20:18.419070+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "BITCOIN",
-        "name": "HarryPotterObamaSonic (Wormhole)",
-        "mint": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 128984.0,
-        "liquidity_usd": 63841.15,
-        "price_usd": 0.01085,
-        "volume_h24": 25439.82,
-        "volume_h1": 2134.97,
-        "volume_m5": 114.85,
-        "price_change_5m": 0.87,
-        "price_change_1h": 0.08,
-        "price_change_24h": -20.08,
-        "txns_h1_buys": 21,
-        "txns_h1_sells": 15,
-        "created_ts": 1731536675000,
-        "pair_created_at": 1731536675000,
-        "url": "https://dexscreener.com/solana/dqnmgdl93zjinydyq8mb1jq1dqehapforqlm3hjanhiy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: BITCOIN==BITCOIN",
-        "safety_score": 61430,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          },
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "Bitcoin",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-05T17:40:23.037980+00:00"
-    },
-    {
       "id": "166244aa8ae9",
       "fingerprint": "166244aa8ae9",
       "narrative_summary": "Elon Musk publica un 'Yup' con gran cantidad de engagement en Nitter.",
@@ -9550,7 +9318,7 @@
       "started_at": "2026-06-15T05:42:37.760740+00:00",
       "expires_at": "2026-06-18T05:42:37.760740+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
@@ -9559,7 +9327,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-18T07:14:18.050912+00:00"
     },
     {
       "id": "53811e055732",
@@ -9895,7 +9664,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "05cd8294ecef",
@@ -10061,7 +9830,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "85356f896b8b",
@@ -10417,7 +10186,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6f7aa9907522",
@@ -10581,7 +10350,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a6d37f0df40a",
@@ -10740,7 +10509,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "e9357eac6397",
@@ -10863,7 +10632,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1d96bcaaf2e0",
@@ -10906,7 +10675,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "91f929b86ade",
@@ -10951,7 +10720,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "82a0260e9436",
@@ -10993,7 +10762,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a66bdecc9163",
@@ -11208,7 +10977,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4f00344444d3",
@@ -11254,7 +11023,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fc056d06e244",
@@ -11300,7 +11069,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fc1391f128ba",
@@ -11423,7 +11192,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b9aa2b1848b6",
@@ -11469,7 +11238,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "452450cf5767",
@@ -11515,7 +11284,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5ea39eb8bde1",
@@ -11560,7 +11329,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "50c94ed7f20a",
@@ -11605,7 +11374,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "67aaa395326d",
@@ -11651,7 +11420,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "dbaa5e06a940",
@@ -11696,7 +11465,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d34f89524b61",
@@ -11741,7 +11510,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7c52439ea5bd",
@@ -11788,7 +11557,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "25822b21e4ed",
@@ -11832,7 +11601,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d64da40862cd",
@@ -11876,8 +11645,146 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "dc18c1fb6e93",
+      "fingerprint": "dc18c1fb6e93",
+      "narrative_summary": "Georgia GOP rechaza plan de rediseño de distritos que perjudicaría la representación negra",
+      "why_memeable": "La narrativa tiene un claro conflicto entre el partido republicano y la comunidad negra, lo que la hace fácilmente compartible y repetible.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GOP",
+        "GEORGIA",
+        "REDISTRICTING",
+        "BLACK"
+      ],
+      "key_terms_for_dex_search": [
+        "Georgia",
+        "GOP",
+        "redistricting",
+        "Black",
+        "representation"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-18T07:16:43.329987+00:00",
+      "expires_at": "2026-06-20T07:16:43.329987+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "b156d64be76b",
+      "fingerprint": "b156d64be76b",
+      "narrative_summary": "Victimas de asesinatos en masa en Gilgo Beach confrontan al asesino serial en su sentencia",
+      "why_memeable": "Confrontación de víctimas con el asesino serial, sentencia de vida sin libertad",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GILGO",
+        "ASESINO",
+        "SERIAL",
+        "VICTIMAS",
+        "SENTENCIA"
+      ],
+      "key_terms_for_dex_search": [
+        "gilgo",
+        "asesino",
+        "serial",
+        "victimas",
+        "sentencia"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-18T07:17:17.709050+00:00",
+      "expires_at": "2026-06-20T07:17:17.709050+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a9260cbad77a",
+      "fingerprint": "a9260cbad77a",
+      "narrative_summary": "Elon Musk comparte un reporte que es solo la punta del iceberg de la maldad",
+      "why_memeable": "La frase es corta, memorable y tiene un gran impacto emocional. La metáfora del iceberg es clásica y evoca una sensación de misterio y peligro.",
+      "category": "Política y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ELONICEBERG",
+        "TIPOFEVIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "iceberg",
+        "maldad",
+        "tip"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-18T07:17:39.375760+00:00",
+      "expires_at": "2026-06-20T07:17:39.375760+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "And this report is just the tip of an enormous iceberg of evil",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-17T23:51:26.643634+00:00"
+  "last_updated": "2026-06-18T07:17:39.375760+00:00"
 }
