@@ -15198,6 +15198,63 @@
           "TRUMPVSNATURE"
         ]
       }
+    },
+    {
+      "ts": "2026-06-19T21:49:33.105104+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e0dfd976cee5",
+        "score": 79,
+        "category": "política",
+        "title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet - Reuters",
+        "candidate_tickers": [
+          "TRUMP747",
+          "QATAR747",
+          "AIRFORCEONE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-19T21:50:34.046047+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "504e55dc7e87",
+        "score": 80,
+        "category": " política, guerra",
+        "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News",
+        "candidate_tickers": [
+          "UCRANIA",
+          "MOSCÚ",
+          "DRONES",
+          "REFINERÍA",
+          "RUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-19T21:51:18.018858+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f39b5ada4bac",
+        "score": 82,
+        "category": "Tecnología/Noticias",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONTRUTH",
+          "MUSKTURE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-19T21:54:29.663650+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f39b5ada4bac",
+        "ticker": "EMC",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "mc": 32686.0
+      }
     }
   ]
 }
