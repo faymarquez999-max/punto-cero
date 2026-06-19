@@ -1,424 +1,6 @@
 {
   "watches": [
     {
-      "id": "15d87d98b937",
-      "fingerprint": "15d87d98b937",
-      "narrative_summary": "Elon Musk conecta escuelas en Bolivia con Starlink",
-      "why_memeable": "Frase corta y memorable, con figura pública notable (Elon Musk) y tema tecnológico innovador (Starlink)",
-      "category": "Tecnología/Innovación",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "STARLINK",
-        "BOLIVIACONNECTS"
-      ],
-      "key_terms_for_dex_search": [
-        "Starlink",
-        "Bolivia",
-        "Elon Musk",
-        "educación"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-06T04:11:52.927513+00:00",
-      "expires_at": "2026-06-09T04:11:52.927513+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Starlink",
-        "name": "Starlink",
-        "mint": "ms9pVdffSjYEH7azGQ2NxKY3vnAj73xpAsREv3vag3u",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 115442.0,
-        "liquidity_usd": 16321.17,
-        "price_usd": 0.0001154,
-        "volume_h24": 321162.81,
-        "volume_h1": 112544.73,
-        "volume_m5": 8395.35,
-        "price_change_5m": 1.1,
-        "price_change_1h": 31.31,
-        "price_change_24h": 2462.0,
-        "txns_h1_buys": 1060,
-        "txns_h1_sells": 1057,
-        "created_ts": 1780720364000,
-        "pair_created_at": 1780720364000,
-        "url": "https://dexscreener.com/solana/22qbhg47ptuypasgymysaqymgpngpbc8y6w7chgvcyeq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: STARLINK==STARLINK",
-        "safety_score": 30493,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Starlink",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-06T07:32:32.627662+00:00"
-    },
-    {
-      "id": "61d4793e7e57",
-      "fingerprint": "61d4793e7e57",
-      "narrative_summary": "Elon Musk responde con un simple 'sí' a una pregunta en Twitter, generando un gran interés y debate.",
-      "why_memeable": "La respuesta simple y directa de Elon Musk es fácil de capturar y compartir, lo que la hace muy memeable.",
-      "category": "Celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "YESMUSK",
-        "ELONYES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-06T04:12:14.509389+00:00",
-      "expires_at": "2026-06-07T04:12:14.509389+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-07T05:00:59.191316+00:00"
-    },
-    {
-      "id": "259ea91591be",
-      "fingerprint": "259ea91591be",
-      "narrative_summary": "Fuga de aire en la Estación Espacial Internacional, la tripulación se prepara para una posible evacuación",
-      "why_memeable": "La situación de emergencia y la posible evacuación de la Estación Espacial Internacional generan una narrativa emocional y fácil de compartir",
-      "category": "noticias de espacio",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "LEAK",
-        "SPACE",
-        "EVAC",
-        "NASA",
-        "ISS"
-      ],
-      "key_terms_for_dex_search": [
-        "fuga de aire",
-        "Estación Espacial Internacional",
-        "evacuación",
-        "NASA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T07:28:32.983457+00:00",
-      "expires_at": "2026-06-09T07:28:32.983457+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPSC",
-        "name": "Shit Piss Skin Can",
-        "mint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 324454.0,
-        "liquidity_usd": 109484.41,
-        "price_usd": 0.0003244,
-        "volume_h24": 22795.06,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 19.98,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1762362750000,
-        "pair_created_at": 1762362750000,
-        "url": "https://dexscreener.com/solana/6mhj1z5bgc1uitnewrnjfbgtqpupdh2qgdwkemgxt2c5",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISS in SHIT PISS SKIN CAN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Lorde opened her Gov Ball set with a new song:",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T07:32:35.008019+00:00"
-    },
-    {
-      "id": "40267fdaf68a",
-      "fingerprint": "40267fdaf68a",
-      "narrative_summary": "SpaceX anuncia una venta de acciones por decenas de billones de dólares, generando interés y debate en la comunidad financiera.",
-      "why_memeable": "La narrativa es memeable debido a la sorpresa y el impacto de la venta de acciones por decenas de billones de dólares.",
-      "category": "Finanzas/Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "SPACEX",
-        "META",
-        "ANTHROPIC"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "META",
-        "ANTHROPIC",
-        "acciones",
-        "finanzas",
-        "tecnología"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-06T07:28:46.403992+00:00",
-      "expires_at": "2026-06-09T07:28:46.403992+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ANTH",
-        "name": "Anthropic",
-        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 23945.0,
-        "liquidity_usd": 15832.19,
-        "price_usd": 2.394e-05,
-        "volume_h24": 7233.89,
-        "volume_h1": 249.3,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 4.47,
-        "price_change_24h": 2.25,
-        "txns_h1_buys": 5,
-        "txns_h1_sells": 2,
-        "created_ts": 1780332637000,
-        "pair_created_at": 1780332637000,
-        "url": "https://dexscreener.com/solana/2dwcyggrzbrn36ujywbiwxwfdo5vyzoaaauvy1j1qwrz",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T07:32:36.383269+00:00"
-    },
-    {
-      "id": "1d4efb98dd3e",
-      "fingerprint": "1d4efb98dd3e",
-      "narrative_summary": "Canada prohíbe la entrada de ganado de Texas debido a una epidemia de gusanos parasitos que comen carne en los EE. UU.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'gusanos parasitos que comen carne'.",
-      "category": "noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SCREWWORM",
-        "TEXASCATTLE",
-        "CANADABAN"
-      ],
-      "key_terms_for_dex_search": [
-        "Screwworm",
-        "TexasCattle",
-        "CanadaBan",
-        "gusanos parasitos",
-        "epidemia"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T07:30:32.137268+00:00",
-      "expires_at": "2026-06-08T07:30:32.137268+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Screwworm",
-        "name": "Screwworm",
-        "mint": "D9msuWXNknQmyuvbL8EKejz8Vbps3CseiQDdBDr4pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 42668.0,
-        "liquidity_usd": 13856.53,
-        "price_usd": 4.267e-05,
-        "volume_h24": 74731.49,
-        "volume_h1": 9887.37,
-        "volume_m5": 1102.96,
-        "price_change_5m": 17.83,
-        "price_change_1h": 8.06,
-        "price_change_24h": 64.79,
-        "txns_h1_buys": 119,
-        "txns_h1_sells": 79,
-        "created_ts": 1780716476000,
-        "pair_created_at": 1780716476000,
-        "url": "https://dexscreener.com/solana/f9r6cnnmdakdoamzwgvhb686zhnkwcdyyzfrqhg61evk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: SCREWWORM==SCREWWORM",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T07:32:37.625475+00:00"
-    },
-    {
-      "id": "ed815c717c4c",
-      "fingerprint": "ed815c717c4c",
-      "narrative_summary": "Actor James Handy muere apuñalado y su novia es acusada de asesinato por su hijo",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: 'actor James Handy muere apuñalado y su novia es acusada de asesinato por su hijo'",
-      "category": "crímenes y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JAMESHANDY",
-        "ACTORASASINATO",
-        "MUERTEENCRÍMEN"
-      ],
-      "key_terms_for_dex_search": [
-        "james handy",
-        "asesinato",
-        "crímenes",
-        "justicia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T07:30:56.813762+00:00",
-      "expires_at": "2026-06-08T07:30:56.813762+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "After actor James Handy’s stabbing death, his girlfriend’s son is charged with murder - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-06-08T11:30:40.034630+00:00"
-    },
-    {
       "id": "80d71c305f5f",
       "fingerprint": "80d71c305f5f",
       "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando mucha atención y debate.",
@@ -9846,13 +9428,14 @@
       "started_at": "2026-06-16T06:13:46.946394+00:00",
       "expires_at": "2026-06-19T06:13:46.946394+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Das ZDF hat reagiert, in der Beschreibung der Sendung steht nun, die Formulierung zu Beginn (Musk habe zur Jagd auf Migranten aufgerufen) sei \"unpräzise und deshalb missverständlich\". Immer diese Missverständnisse, kennt man ja noch von Cha",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-19T10:06:19.968561+00:00"
     },
     {
       "id": "e9357eac6397",
@@ -10065,7 +9648,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "82a0260e9436",
@@ -10323,7 +9906,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "4f00344444d3",
@@ -10540,7 +10123,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b9aa2b1848b6",
@@ -10586,7 +10169,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "452450cf5767",
@@ -10714,7 +10297,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "50c94ed7f20a",
@@ -10759,7 +10342,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "67aaa395326d",
@@ -10805,7 +10388,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dbaa5e06a940",
@@ -10850,7 +10433,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d34f89524b61",
@@ -10895,7 +10478,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7c52439ea5bd",
@@ -10942,7 +10525,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "25822b21e4ed",
@@ -10986,7 +10569,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d64da40862cd",
@@ -11030,7 +10613,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dc18c1fb6e93",
@@ -11077,7 +10660,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b156d64be76b",
@@ -11125,7 +10708,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a9260cbad77a",
@@ -11168,7 +10751,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fcf17d346512",
@@ -11313,7 +10896,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a594fa334368",
@@ -11359,7 +10942,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a9fb28c57b77",
@@ -11404,7 +10987,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f3c31f4c1074",
@@ -11522,7 +11105,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4308bc10269c",
@@ -11641,7 +11224,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6eade3cc1226",
@@ -11686,7 +11269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "10ad96d8ae8c",
@@ -11732,8 +11315,346 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "46a66d5dc7ad",
+      "fingerprint": "46a66d5dc7ad",
+      "narrative_summary": "Fans de Escocia viajan 22 horas en un avión pequeño para llegar al Mundial de Fútbol",
+      "why_memeable": "La historia es inusual y llama la atención por la dedicación de los fans escoceses",
+      "category": "Deportes",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "ESCOCIA",
+        "MUNDIAL",
+        "FÚTBOL",
+        "FANS"
+      ],
+      "key_terms_for_dex_search": [
+        "Escocia",
+        "Mundial",
+        "Fútbol",
+        "Fans",
+        "dedicación"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-06-19T10:08:21.173506+00:00",
+      "expires_at": "2026-06-21T10:08:21.173506+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Scotland fans fly 22 hours in tiny plane to World Cup",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "aae27bb7d7a3",
+      "fingerprint": "aae27bb7d7a3",
+      "narrative_summary": "Iran establece células iraquíes para atacar vecinos del Golfo, según fuentes",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase fácil de capturar, lo que la hace memeable",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "GULF",
+        "CELESTIAL",
+        "GUERRAS",
+        "GOLFO"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "GULFO",
+        "CELESTIAL",
+        "GUERRAS",
+        "GOLFO"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-19T10:08:41.840567+00:00",
+      "expires_at": "2026-06-22T10:08:41.840567+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "4tDsUqAPbzPTubaDPAag9dUYrm8oufywLYURme3jiXJ2",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 277382.0,
+        "liquidity_usd": 73738.68,
+        "price_usd": 2.773e-06,
+        "volume_h24": 2369939.97,
+        "volume_h1": 2369939.97,
+        "volume_m5": 440026.93,
+        "price_change_5m": 1.78,
+        "price_change_1h": 169.0,
+        "price_change_24h": 169.0,
+        "txns_h1_buys": 4041,
+        "txns_h1_sells": 2508,
+        "created_ts": 1781862205000,
+        "pair_created_at": 1781862205000,
+        "url": "https://dexscreener.com/solana/4pa26n4z2jkdppyf1ukhdgzpdf3fltq3ypsqckthcvi8",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "EXCLUSIVE: Iran's Revolutionary Guards set up covert Iraqi cells to attack Gulf neighbors, sources say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-19T10:11:03.908331+00:00"
+    },
+    {
+      "id": "9bb969f1b6d7",
+      "fingerprint": "9bb969f1b6d7",
+      "narrative_summary": "La pintura de un estanque de Washington se está desprendiendo después de una renovación de $14 millones",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un elemento de sorpresa y absurdo",
+      "category": "política",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "PEELING_POOL",
+        "RENOVACION_DESASTRE",
+        "PINTURA_DESPRENDIDA"
+      ],
+      "key_terms_for_dex_search": [
+        "pintura",
+        "estanque",
+        "renovacion",
+        "desprendida",
+        "Washington"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 7
+      },
+      "started_at": "2026-06-19T10:09:14.509929+00:00",
+      "expires_at": "2026-06-21T10:09:14.509929+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Paint peeling after $14 million memorial pool renovation",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "ad814fd8cede",
+      "fingerprint": "ad814fd8cede",
+      "narrative_summary": "Ucrania ataca con drones a una refinería de petróleo en Moscú, causando incendios y daños significativos.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un impacto visual significativo.",
+      "category": "guerra, política, noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA",
+        "MOSCOW",
+        "DRONEATTACK",
+        "REFINERIADEPETROLEO"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Moscow",
+        "DroneAttack",
+        "RefineriaDePetroleo"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-19T10:09:45.032914+00:00",
+      "expires_at": "2026-06-21T10:09:45.032914+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "7ae9c6f11457",
+      "fingerprint": "7ae9c6f11457",
+      "narrative_summary": "Un periodista francés fue condenado a 6 meses de prisión con sursis y una multa de 10.000€ por publicar un artículo sobre la ley Samuel Paty.",
+      "why_memeable": "La condena es absurda y genera un fuerte impacto emocional. La frase 'la loi Samuel Paty' es un claro ejemplo de injusticia y puede ser capturada en una imagen o una frase.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LOISAMUELPATY",
+        "FRONTIERES",
+        "JOURNALISTECONDAMNE"
+      ],
+      "key_terms_for_dex_search": [
+        "LoiSamuelPaty",
+        "Frontieres",
+        "JournalisteCondamne"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-19T10:10:24.933981+00:00",
+      "expires_at": "2026-06-22T10:10:24.933981+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Je viens d’être condamné à 6 mois de prison avec sursis et 10 000€ d’amende, sur le fondement de… la loi Samuel Paty !",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "82c2d837f271",
+      "fingerprint": "82c2d837f271",
+      "narrative_summary": "Gary the snail 🐌, un pequeño animal, comienza algo con @boringcompany",
+      "why_memeable": "Gary el caracol es un animal memorable y la referencia a @boringcompany de Elon Musk es un factor adicional",
+      "category": "Animales inusuales",
+      "matched_archetype": "animal_at_the_center_of_story",
+      "candidate_tickers": [
+        "GARYTHESNAIL",
+        "CARACOLELON",
+        "BORINGSNAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Gary",
+        "caracol",
+        "Elon",
+        "BoringCompany"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-19T10:10:46.251380+00:00",
+      "expires_at": "2026-06-21T10:10:46.251380+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "GARY",
+        "name": "elons pet snail",
+        "mint": "GKFybgxAEXJgZyDvy3MoQtmFBic8QneMhkbRC4M7pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 23752.0,
+        "liquidity_usd": 13398.11,
+        "price_usd": 2.377e-05,
+        "volume_h24": 122907.8,
+        "volume_h1": 585.17,
+        "volume_m5": 8.78,
+        "price_change_5m": -0.38,
+        "price_change_1h": 4.98,
+        "price_change_24h": 120.0,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 5,
+        "created_ts": 1730614800000,
+        "pair_created_at": 1730614800000,
+        "url": "https://dexscreener.com/solana/4vblrfb9todrej9k1szzd9ya4ytcki7lexfstvprpgh5",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON in ELONS PET SNAIL",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Gary the snail 🐌 and the beginning. @boringcompany",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-19T10:11:09.043122+00:00"
     }
   ],
-  "last_updated": "2026-06-19T05:36:16.491630+00:00"
+  "last_updated": "2026-06-19T10:11:09.043138+00:00"
 }
