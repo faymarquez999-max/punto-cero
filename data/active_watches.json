@@ -1,124 +1,6 @@
 {
   "watches": [
     {
-      "id": "89cb93f3c937",
-      "fingerprint": "89cb93f3c937",
-      "narrative_summary": "Un grupo juvenil llamado 'Cucaracha' en India organiza su primer protesta",
-      "why_memeable": "La narrativa tiene un título impactante, un grupo juvenil con un nombre inusual y un contexto político relevante",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CUCARACHA",
-        "COCKROACHINDIA",
-        "GENZINDIA"
-      ],
-      "key_terms_for_dex_search": [
-        "CUCARACHA",
-        "GENZ",
-        "INDIA",
-        "POLÍTICA"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T11:15:53.489161+00:00",
-      "expires_at": "2026-06-08T11:15:53.489161+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-06-08T11:30:40.034643+00:00"
-    },
-    {
-      "id": "8aab77968683",
-      "fingerprint": "8aab77968683",
-      "narrative_summary": "NASA ordena a los astronautas en alerta de evacuación debido a un fugado de aire en la estación espacial",
-      "why_memeable": "El núcleo del meme es la situación de emergencia en la estación espacial, lo que puede ser capturado en una frase corta.",
-      "category": "ciencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISS_LEAK",
-        "NASA_EMERGENCIA",
-        "AEROLÍNEA"
-      ],
-      "key_terms_for_dex_search": [
-        "NASA",
-        "ISS",
-        "fugado de aire",
-        "emergencia"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 2,
-        "absurdity": 0,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-06-06T11:16:36.144472+00:00",
-      "expires_at": "2026-06-09T11:16:36.144472+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPSC",
-        "name": "Shit Piss Skin Can",
-        "mint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 323304.0,
-        "liquidity_usd": 109292.41,
-        "price_usd": 0.0003233,
-        "volume_h24": 21199.47,
-        "volume_h1": 309.24,
-        "volume_m5": 1.99,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.4,
-        "price_change_24h": 18.04,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 5,
-        "created_ts": 1762362750000,
-        "pair_created_at": 1762362750000,
-        "url": "https://dexscreener.com/solana/6mhj1z5bgc1uitnewrnjfbgtqpupdh2qgdwkemgxt2c5",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISS in SHIT PISS SKIN CAN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Taiwan says Chinese coast guard, research ships near key S. China Sea islands - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T11:19:08.723643+00:00"
-    },
-    {
       "id": "8d50bdbe5143",
       "fingerprint": "8d50bdbe5143",
       "narrative_summary": "El hijo de la novia de James Handy ha sido acusado del asesinato del actor.",
@@ -9455,13 +9337,14 @@
       "started_at": "2026-06-16T22:22:02.061906+00:00",
       "expires_at": "2026-06-19T22:22:02.061906+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Censorship always comes with a “protect the children” lie",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-19T23:07:38.335001+00:00"
     },
     {
       "id": "82a0260e9436",
@@ -10287,14 +10170,15 @@
       "started_at": "2026-06-17T21:51:56.398232+00:00",
       "expires_at": "2026-06-19T21:51:56.398232+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mason: Starmer remains defiant as leadership challenge inches closer",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-19T23:07:38.335017+00:00"
     },
     {
       "id": "7c52439ea5bd",
@@ -10334,14 +10218,15 @@
       "started_at": "2026-06-17T21:52:42.351633+00:00",
       "expires_at": "2026-06-19T21:52:42.351633+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Italian mother takes on Meta, TikTok after daughter's death - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-19T23:07:38.335020+00:00"
     },
     {
       "id": "25822b21e4ed",
@@ -11677,7 +11562,102 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-19T21:54:29.656384+00:00"
+    },
+    {
+      "id": "0b9101d15938",
+      "fingerprint": "0b9101d15938",
+      "narrative_summary": "Meloni, la primera ministra de Italia, negó haber pedido una foto a Trump, que afirmó haberla hecho.",
+      "why_memeable": "La narrativa tiene un conflicto entre dos figuras importantes, lo que la hace fácil de compartir y recordar.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MELONIVSTRUMP",
+        "TRUMPMIENTE",
+        "ITALIAVSEEUU"
+      ],
+      "key_terms_for_dex_search": [
+        "Meloni",
+        "Trump",
+        "Italia",
+        "EEUU",
+        "fotos",
+        "política"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-19T23:09:03.837535+00:00",
+      "expires_at": "2026-06-21T23:09:03.837535+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e48520dea004",
+      "fingerprint": "e48520dea004",
+      "narrative_summary": "Un juez federal autoriza al Departamento de Justicia a entregar archivos de audio de Biden a la Heritage Foundation",
+      "why_memeable": "La noticia combina un tema político controvertido con la idea de 'audio secreto', lo que puede generar interés y especulación",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BIDENLEAK",
+        "DOJAUDIO",
+        "HERITAGEGATE",
+        "JOELEAKS",
+        "AUDIOGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Biden",
+        "audio",
+        "DOJ",
+        "Heritage Foundation",
+        "leak"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-19T23:10:01.779994+00:00",
+      "expires_at": "2026-06-22T23:10:01.779994+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Federal judge gives DOJ green light to turn Biden’s audio files over to the Heritage Foundation - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-19T21:54:29.656401+00:00"
+  "last_updated": "2026-06-19T23:10:01.779994+00:00"
 }
