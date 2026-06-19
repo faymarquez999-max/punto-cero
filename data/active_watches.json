@@ -1,49 +1,6 @@
 {
   "watches": [
     {
-      "id": "80d71c305f5f",
-      "fingerprint": "80d71c305f5f",
-      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando mucha atención y debate.",
-      "why_memeable": "La simplicidad y la claridad de la respuesta de Elon Musk la hacen muy compartible y recordable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YESMUSK",
-        "MUSKYES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 83,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-06T07:31:59.697040+00:00",
-      "expires_at": "2026-06-08T07:31:59.697040+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-06-08T11:30:40.034632+00:00"
-    },
-    {
       "id": "ef40f061e30a",
       "fingerprint": "ef40f061e30a",
       "narrative_summary": "Un migrante sudanés de 23 años mata a un joven sueco de 19 años en un apartamento en Härnösand, Suecia, después de intentar detener a un joven sueco de 19 años de violar a una chica sueca con un cuchillo.",
@@ -9648,7 +9605,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "82a0260e9436",
@@ -9906,7 +9863,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "4f00344444d3",
@@ -10116,14 +10073,15 @@
       "started_at": "2026-06-17T14:06:13.735189+00:00",
       "expires_at": "2026-06-19T14:06:13.735189+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting' - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-19T16:37:10.061018+00:00"
     },
     {
       "id": "b9aa2b1848b6",
@@ -10169,7 +10127,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "452450cf5767",
@@ -10297,7 +10255,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "50c94ed7f20a",
@@ -10342,7 +10300,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "67aaa395326d",
@@ -10388,7 +10346,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "dbaa5e06a940",
@@ -10433,7 +10391,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d34f89524b61",
@@ -10478,7 +10436,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7c52439ea5bd",
@@ -10525,7 +10483,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "25822b21e4ed",
@@ -10569,7 +10527,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d64da40862cd",
@@ -10613,7 +10571,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dc18c1fb6e93",
@@ -10660,7 +10618,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b156d64be76b",
@@ -10708,7 +10666,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a9260cbad77a",
@@ -10751,7 +10709,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "fcf17d346512",
@@ -10896,7 +10854,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a594fa334368",
@@ -10942,7 +10900,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a9fb28c57b77",
@@ -10987,7 +10945,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f3c31f4c1074",
@@ -11105,7 +11063,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4308bc10269c",
@@ -11224,7 +11182,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6eade3cc1226",
@@ -11269,7 +11227,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "10ad96d8ae8c",
@@ -11315,7 +11273,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "46a66d5dc7ad",
@@ -11362,7 +11320,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "aae27bb7d7a3",
@@ -11493,7 +11451,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ad814fd8cede",
@@ -11539,7 +11497,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7ae9c6f11457",
@@ -11582,7 +11540,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "82c2d837f271",
@@ -11654,7 +11612,50 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-19T10:11:09.043122+00:00"
+    },
+    {
+      "id": "b6c52aabc2e7",
+      "fingerprint": "b6c52aabc2e7",
+      "narrative_summary": "Kerry Kennedy recuerda un estúpido acto de su hermano RFK Jr.",
+      "why_memeable": "La narrativa tiene un título llamativo y una frase memorable que describe el estúpido acto de RFK Jr.",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "RFKJR",
+        "KERRYKENNEDY",
+        "RFKJRSTUNT"
+      ],
+      "key_terms_for_dex_search": [
+        "RFKJR",
+        "KERRYKENNEDY",
+        "STUNT"
+      ],
+      "score": 73,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-19T16:41:35.273009+00:00",
+      "expires_at": "2026-06-21T16:41:35.273009+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kerry Kennedy Recalls Brother RFK Jr’s Bizarre Stunt - The Mary Sue",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-19T10:11:09.043138+00:00"
+  "last_updated": "2026-06-19T16:41:35.273009+00:00"
 }
