@@ -15932,6 +15932,78 @@
         "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
         "mc": 86995.0
       }
+    },
+    {
+      "ts": "2026-06-20T16:03:07.406583+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a32cf272bf2",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Paraguay defeats Turkey at the World Cup.",
+        "candidate_tickers": [
+          "PARAGUAY",
+          "ALMIRÓN",
+          "TARJETAROSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-20T16:03:25.658812+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Celebridades",
+        "title": "Dua Lipa and Callum Turner on their wedding day.",
+        "candidate_tickers": [
+          "DuaLipaBoda",
+          "CallumTurnerBoda",
+          "DuaLipaWeddingDress"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-20T16:05:26.558418+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muerte de un cofundador de Ubisoft en un accidente de avión",
+        "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
+        "candidate_tickers": [
+          "UbisoftCrash",
+          "ClaudeGuillemot",
+          "AviónCrash"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-20T16:06:08.580561+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cdbb4d21a257",
+        "score": 88,
+        "category": "crimen y justicia",
+        "title": "'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News",
+        "candidate_tickers": [
+          "GILGOBEACH",
+          "ASESINOSERIAL",
+          "JUSTICIAPARAVICTIMAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-20T16:07:47.688655+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "política",
+        "title": "Talk of Starmer staying on to fight is fading - fast",
+        "candidate_tickers": [
+          "STARmerFADE",
+          "BURNHAMWIN",
+          "LABOURLEADERSHIP"
+        ]
+      }
     }
   ]
 }
