@@ -1,256 +1,6 @@
 {
   "watches": [
     {
-      "id": "fd2aa49a8bbd",
-      "fingerprint": "fd2aa49a8bbd",
-      "narrative_summary": "Un inmigrante sudanés de 23 años es acusado de asesinar a un joven de 19 años en Suecia después de intentar violarlo.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una carga emocional fuerte, lo que la hace fácilmente compartible y recordable.",
-      "category": "crimen y violencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SUDANESEKILLER",
-        "VIOLADORDESUECIA",
-        "ASESINODE19AÑOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Sudan",
-        "inmigrante",
-        "asesinato",
-        "violación",
-        "Suecia"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T12:48:36.970091+00:00",
-      "expires_at": "2026-06-09T12:48:36.970091+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at knife point.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-06-09T14:12:32.128949+00:00"
-    },
-    {
-      "id": "5ceb3346e6bc",
-      "fingerprint": "5ceb3346e6bc",
-      "narrative_summary": "Un caballo muere en un accidente en Vermont y un conductor se salva",
-      "why_memeable": "El accidente entre un caballo y un vehículo es un evento inesperado y sorprendente que puede generar interés y compartir",
-      "category": "accidentes inesperados",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "CABALLOVERMONT",
-        "ACCIDENTEINESPERADO",
-        "VERMONTSHOCKER"
-      ],
-      "key_terms_for_dex_search": [
-        "caballo",
-        "vermont",
-        "accidente",
-        "inesperado"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T12:49:14.804197+00:00",
-      "expires_at": "2026-06-08T12:49:14.804197+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CBL",
-        "name": "Caballo",
-        "mint": "HENbwYB9roXganed9MFXm9kQ9YnhMb1cTHxeg44gpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14582.0,
-        "liquidity_usd": 8025.79,
-        "price_usd": 1.458e-05,
-        "volume_h24": 64673.21,
-        "volume_h1": 18218.85,
-        "volume_m5": 289.39,
-        "price_change_5m": -5.75,
-        "price_change_1h": 26.58,
-        "price_change_24h": 22.11,
-        "txns_h1_buys": 227,
-        "txns_h1_sells": 194,
-        "created_ts": 1780628066000,
-        "pair_created_at": 1780628066000,
-        "url": "https://dexscreener.com/solana/j5j1wjqftsq4wlqsocvdudt6nccn2xgmyhxrs4cyex2",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CABALLO in CABALLO",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Horse killed, Vermont driver uninjured after vehicle collides with escaped animal Friday night - Yahoo News Canada",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-06-06T21:45:59.291935+00:00"
-    },
-    {
-      "id": "c86afd52ae09",
-      "fingerprint": "c86afd52ae09",
-      "narrative_summary": "Un bebé palestino es asesinado por tropas israelíes en la Cuenca Occidental.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BABY_PALESTINO",
-        "ISRAELI_VIOLENCE",
-        "INJUSTICIA_EN_LA_CUENCA_OCCIDENTAL"
-      ],
-      "key_terms_for_dex_search": [
-        "palestino",
-        "israelí",
-        "injusticia",
-        "violencia",
-        "cuenca occidental"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T12:50:33.765071+00:00",
-      "expires_at": "2026-06-08T12:50:33.765071+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Palestinian baby shot dead by Israeli troops in occupied West Bank - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-06-08T18:11:24.992677+00:00"
-    },
-    {
-      "id": "c2edbbc09e3b",
-      "fingerprint": "c2edbbc09e3b",
-      "narrative_summary": "Un grupo de jóvenes en India, conocido como 'Cockroach', organiza su primer gran protesta en Delhi.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un título icónico.",
-      "category": "Movimientos sociales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "COCKROACH",
-        "INDIAPROTEST",
-        "MODIPROTEST"
-      ],
-      "key_terms_for_dex_search": [
-        "Cockroach",
-        "India",
-        "protest",
-        "Modi"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T12:51:40.508994+00:00",
-      "expires_at": "2026-06-09T12:51:40.508994+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Cockroach",
-        "name": "Multicycle Cockroach🪳",
-        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13385.0,
-        "liquidity_usd": 11658.34,
-        "price_usd": 1.338e-05,
-        "volume_h24": 16082.0,
-        "volume_h1": 445.26,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -7.09,
-        "price_change_24h": -52.08,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 9,
-        "created_ts": 1780410740000,
-        "pair_created_at": 1780410740000,
-        "url": "https://dexscreener.com/solana/7lddaadyj9ocbitckzeo2hzwvdvrtstcaywsa68dggqh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: COCKROACH==COCKROACH",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T14:55:18.216592+00:00"
-    },
-    {
       "id": "9f5b31aab29e",
       "fingerprint": "9f5b31aab29e",
       "narrative_summary": "El novio de la novia de James Handy ha sido acusado de su asesinato",
@@ -9423,14 +9173,15 @@
       "started_at": "2026-06-17T05:07:41.271038+00:00",
       "expires_at": "2026-06-20T05:07:41.271038+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The Papers: ''Scary' clash in Channel' and 'Oh frigate!'",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-20T06:06:35.827814+00:00"
     },
     {
       "id": "4f00344444d3",
@@ -9694,7 +9445,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "452450cf5767",
@@ -9822,7 +9573,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "50c94ed7f20a",
@@ -9867,7 +9618,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "67aaa395326d",
@@ -10191,7 +9942,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b156d64be76b",
@@ -10239,7 +9990,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a9260cbad77a",
@@ -10282,7 +10033,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "fcf17d346512",
@@ -10427,7 +10178,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a594fa334368",
@@ -10473,7 +10224,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a9fb28c57b77",
@@ -10518,7 +10269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f3c31f4c1074",
@@ -10636,7 +10387,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4308bc10269c",
@@ -10755,7 +10506,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6eade3cc1226",
@@ -10800,7 +10551,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "10ad96d8ae8c",
@@ -10846,7 +10597,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "46a66d5dc7ad",
@@ -10893,7 +10644,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "aae27bb7d7a3",
@@ -11024,7 +10775,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ad814fd8cede",
@@ -11070,7 +10821,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7ae9c6f11457",
@@ -11113,7 +10864,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "82c2d837f271",
@@ -11227,7 +10978,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e0dfd976cee5",
@@ -11273,7 +11024,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "504e55dc7e87",
@@ -11321,7 +11072,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f39b5ada4bac",
@@ -11438,7 +11189,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e48520dea004",
@@ -11756,7 +11507,196 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-20T01:38:15.629169+00:00"
+    },
+    {
+      "id": "4014030097b6",
+      "fingerprint": "4014030097b6",
+      "narrative_summary": "Trump visita el nuevo Air Force One, un regalo de lujo de Qatar, y hace declaraciones polémicas sobre la izquierda radical.",
+      "why_memeable": "La combinación de Trump, un tema político polarizante, y la ironía de recibir un regalo de lujo de Qatar, crea un escenario memeable.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPQATAR",
+        "AIRFORCEONE",
+        "RADICALLEFT",
+        "TRUMPSTYLE",
+        "QATARLUXURY"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Qatar",
+        "Air Force One",
+        "Radical Left",
+        "Luxury Gift"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T06:06:37.051882+00:00",
+      "expires_at": "2026-06-22T06:06:37.051882+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "69833497b9be",
+      "fingerprint": "69833497b9be",
+      "narrative_summary": "Incendio en un hotel de playa en la República Dominicana causa la muerte de una mujer y obliga a evacuar a 1.700 personas.",
+      "why_memeable": "La narrativa es memeable debido a la imagen de un incendio en un hotel de playa y la cantidad de personas afectadas.",
+      "category": "desastres naturales",
+      "matched_archetype": "shocking_image_or_video",
+      "candidate_tickers": [
+        "INFERNO",
+        "REPÚBLICA DOMINICANA",
+        "INCENDIO EN HOTEL",
+        "EVACUACIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "Incendio",
+        "República Dominicana",
+        "Hotel de playa",
+        "Evacuación"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T06:09:12.196188+00:00",
+      "expires_at": "2026-06-22T06:09:12.196188+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Inferno rips through Dominican Republic beach resort",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "c95f8da50c37",
+      "fingerprint": "c95f8da50c37",
+      "narrative_summary": "LAPD lanza video de cámara corporal que muestra momentos antes de que un oficial dispare y mate a un perro durante la celebración de los Knicks en Canoga Park",
+      "why_memeable": "El núcleo del meme es la imagen de un perro siendo disparado por un oficial, lo que lo hace fácilmente compartible y memorable",
+      "category": "noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERRO_SHOOT",
+        "LAPD_PERRO",
+        "CANOGA_PARK"
+      ],
+      "key_terms_for_dex_search": [
+        "LAPD",
+        "perro",
+        "disparo",
+        "Canoga Park",
+        "celebración de los Knicks"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 7
+      },
+      "started_at": "2026-06-20T06:09:46.875296+00:00",
+      "expires_at": "2026-06-23T06:09:46.875296+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "LAPD releases bodycam video showing moments before officer shoots and kills dog during Knicks celebration in Canoga Park - ABC7 Los Angeles",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "32d3edc3109a",
+      "fingerprint": "32d3edc3109a",
+      "narrative_summary": "Israel mata a un niño al día en promedio en Gaza a pesar de un alto el fuego, dice la ONU.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GAZA",
+        "ISRAEL",
+        "ONU",
+        "NIÑOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Gaza",
+        "Israel",
+        "ONU",
+        "niños",
+        "alto el fuego"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T06:10:38.400757+00:00",
+      "expires_at": "2026-06-23T06:10:38.400757+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-20T01:38:15.629186+00:00"
+  "last_updated": "2026-06-20T06:10:38.400757+00:00"
 }
