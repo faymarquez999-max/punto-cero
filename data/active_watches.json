@@ -1,277 +1,6 @@
 {
   "watches": [
     {
-      "id": "e99c5317e756",
-      "fingerprint": "e99c5317e756",
-      "narrative_summary": "EE. UU. intercepta drones iraníes dirigidos a Baréin y Kuwait, y retalia atacando sitios de radar",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y hay una gran cantidad de fuentes que la están compartiendo.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "EEUU",
-        "DRONES"
-      ],
-      "key_terms_for_dex_search": [
-        "iran",
-        "eeuu",
-        "drones",
-        "baréin",
-        "kuwait"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T20:21:46.350865+00:00",
-      "expires_at": "2026-06-09T20:21:46.350865+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "The Iranian Revolution",
-        "mint": "BBUgRLDWCCHfw57jUSXHSdNDxo46k8CGQo2yHitGTTXR",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 42229.0,
-        "liquidity_usd": 10531.71,
-        "price_usd": 4.222e-05,
-        "volume_h24": 82778.93,
-        "volume_h1": 82778.93,
-        "volume_m5": 8938.73,
-        "price_change_5m": 6.42,
-        "price_change_1h": 1093.0,
-        "price_change_24h": 1093.0,
-        "txns_h1_buys": 715,
-        "txns_h1_sells": 704,
-        "created_ts": 1780779547000,
-        "pair_created_at": 1780779547000,
-        "url": "https://dexscreener.com/solana/cmthwrcehqfxdxvexcrqirnevoxv7kam4xesugsmzzw9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 29485,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T21:46:07.109230+00:00"
-    },
-    {
-      "id": "d3c99739db5d",
-      "fingerprint": "d3c99739db5d",
-      "narrative_summary": "Un movimiento de protesta viral entre la generación Z atrae a miles a la capital de la India",
-      "why_memeable": "La narrativa tiene un título atractivo y un movimiento de protesta que puede ser compartido fácilmente",
-      "category": "protestas y movimientos sociales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GENZINDIA",
-        "COCKROACHMOVEMENT",
-        "INDIAPROTEST"
-      ],
-      "key_terms_for_dex_search": [
-        "GenZ",
-        "India",
-        "protesta",
-        "movimiento",
-        "Cockroach"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T20:23:37.735388+00:00",
-      "expires_at": "2026-06-09T20:23:37.735388+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Cockroach",
-        "name": "Multicycle Cockroach🪳",
-        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14513.0,
-        "liquidity_usd": 12149.59,
-        "price_usd": 1.451e-05,
-        "volume_h24": 8234.56,
-        "volume_h1": 491.45,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 9.4,
-        "price_change_24h": -23.66,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 0,
-        "created_ts": 1780410740000,
-        "pair_created_at": 1780410740000,
-        "url": "https://dexscreener.com/solana/7lddaadyj9ocbitckzeo2hzwvdvrtstcaywsa68dggqh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: COCKROACH in MULTICYCLE COCKROACH🪳",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital - The New York Times",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-06T21:46:09.116812+00:00"
-    },
-    {
-      "id": "83019ce863f9",
-      "fingerprint": "83019ce863f9",
-      "narrative_summary": "Un miembro de una banda de agresión sexual infantil en Rochdale recibe solo 4 años de prisión por arrojar una concha de tráfico, en comparación con 3-5 años para una ofensa similar.",
-      "why_memeable": "La narrativa tiene un alto contenido emocional, es fácil de entender y tiene un impacto cultural significativo.",
-      "category": "justicia y penalización",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ROCHDALERAPE",
-        "INJUSTICIAROCHDALE",
-        "CONCHADETRAFFICO"
-      ],
-      "key_terms_for_dex_search": [
-        "Rochdale",
-        "agresión sexual infantil",
-        "concha de tráfico",
-        "injusticia"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-06T21:41:07.382456+00:00",
-      "expires_at": "2026-06-09T21:41:07.382456+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "3-5 years for a throwing a traffic cone is wild when Hamid Safi, a Rochdale child rape gang member, only received 4 years.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-06-09T23:03:39.549198+00:00"
-    },
-    {
-      "id": "bcc42c513f36",
-      "fingerprint": "bcc42c513f36",
-      "narrative_summary": "El Pentágono eleva el nivel de amenaza de espionaje de Israel a 'crítico'",
-      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre potencias y un elemento de sorpresa. La frase 'Pentágono eleva el nivel de amenaza de espionaje de Israel a 'crítico'' es fácil de recordar y compartir.",
-      "category": "Política/Conflictos internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAELSPY",
-        "PENTAGONALERT",
-        "ESPIONAJEISRAEL"
-      ],
-      "key_terms_for_dex_search": [
-        "Pentágono",
-        "Israel",
-        "espionaje",
-        "amenaza",
-        "conflicto"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-06T21:41:33.928566+00:00",
-      "expires_at": "2026-06-08T21:41:33.928566+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-09T04:11:18.408107+00:00"
-    },
-    {
       "id": "93410bc2091c",
       "fingerprint": "93410bc2091c",
       "narrative_summary": "La joven rusa Mirra Andreeva gana el French Open superando sus 'demones internos'.",
@@ -9129,14 +8858,15 @@
       "started_at": "2026-06-17T14:07:37.789569+00:00",
       "expires_at": "2026-06-20T14:07:37.789569+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "'We believe our daughter was abused at Muckamore hospital for 17 years - now we want answers'",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-20T14:21:31.833991+00:00"
     },
     {
       "id": "452450cf5767",
@@ -9264,7 +8994,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "50c94ed7f20a",
@@ -9302,14 +9032,15 @@
       "started_at": "2026-06-17T14:09:55.857048+00:00",
       "expires_at": "2026-06-20T14:09:55.857048+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "India Adopts China’s Strict Gaokao Playbook to Avert NEET Exam Leak - Bloomberg",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-06-20T14:21:31.834006+00:00"
     },
     {
       "id": "67aaa395326d",
@@ -9865,14 +9596,15 @@
       "started_at": "2026-06-18T11:22:40.878820+00:00",
       "expires_at": "2026-06-20T11:22:40.878820+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Hegseth slams NATO allies during roundtable meeting",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-20T14:21:31.834011+00:00"
     },
     {
       "id": "a594fa334368",
@@ -9918,7 +9650,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a9fb28c57b77",
@@ -9956,14 +9688,15 @@
       "started_at": "2026-06-18T11:24:14.333922+00:00",
       "expires_at": "2026-06-20T11:24:14.333922+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-20T14:21:31.834014+00:00"
     },
     {
       "id": "f3c31f4c1074",
@@ -10081,7 +9814,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "4308bc10269c",
@@ -10200,7 +9933,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6eade3cc1226",
@@ -10245,7 +9978,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "10ad96d8ae8c",
@@ -10291,7 +10024,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "46a66d5dc7ad",
@@ -10331,14 +10064,41 @@
       "started_at": "2026-06-19T10:08:21.173506+00:00",
       "expires_at": "2026-06-21T10:08:21.173506+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CHARMING",
+        "name": "Only Charming Fans",
+        "mint": "VmdfNPzd7A492TBQYp7QpUoBYv2HFpqaL9no3Sopump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 265865.0,
+        "liquidity_usd": 38247.29,
+        "price_usd": 0.0002658,
+        "volume_h24": 296603.63,
+        "volume_h1": 13608.61,
+        "volume_m5": 503.1,
+        "price_change_5m": -0.4,
+        "price_change_1h": -6.13,
+        "price_change_24h": 59.91,
+        "txns_h1_buys": 144,
+        "txns_h1_sells": 87,
+        "created_ts": 1781831656000,
+        "pair_created_at": 1781831656000,
+        "url": "https://dexscreener.com/solana/4cmeamznwfzqwyccx2l25gyz6mpcxnkypxjw34aphpbi",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FANS in ONLY CHARMING FANS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Scotland fans fly 22 hours in tiny plane to World Cup",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-20T14:26:42.830898+00:00"
     },
     {
       "id": "aae27bb7d7a3",
@@ -10469,7 +10229,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ad814fd8cede",
@@ -10515,7 +10275,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7ae9c6f11457",
@@ -10558,7 +10318,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "82c2d837f271",
@@ -10672,7 +10432,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e0dfd976cee5",
@@ -10718,7 +10478,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "504e55dc7e87",
@@ -10766,7 +10526,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f39b5ada4bac",
@@ -10883,7 +10643,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e48520dea004",
@@ -11250,7 +11010,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "69833497b9be",
@@ -11296,7 +11056,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c95f8da50c37",
@@ -11342,7 +11102,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "32d3edc3109a",
@@ -11389,7 +11149,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "fbb7f0c2c4e4",
@@ -11436,7 +11196,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "43fdd7e1c0e1",
@@ -11482,7 +11242,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "91da873fd8e3",
@@ -11520,14 +11280,66 @@
       "started_at": "2026-06-20T09:49:19.452465+00:00",
       "expires_at": "2026-06-24T09:49:19.452465+00:00",
       "duration_hours": 96,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "XRP",
+        "name": "Ripple",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 214382.0,
+        "liquidity_usd": 134026.94,
+        "price_usd": 1.33,
+        "volume_h24": 61998.89,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -1.35,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1775819898000,
+        "pair_created_at": 1775819898000,
+        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: XRP==XRP",
+        "safety_score": 20259,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "danger",
+            "description": "Low amount of liquidity in the token pool"
+          },
+          {
+            "name": "Copycat token",
+            "level": "warn",
+            "description": "This token is using a verified tokens symbol"
+          },
+          {
+            "name": "Missing file metadata",
+            "level": "warn",
+            "description": "No file metadata found associated to this token"
+          }
+        ]
+      },
       "cluster_top_title": "/XSG/ XRP Schizo General #2549",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-20T14:26:55.436145+00:00"
     },
     {
       "id": "856c8757110a",
@@ -11574,7 +11386,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "62862ce4d5bd",
@@ -11619,7 +11431,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e1748649a361",
@@ -11665,8 +11477,222 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "2e84fa95b2dc",
+      "fingerprint": "2e84fa95b2dc",
+      "narrative_summary": "Trump hace declaraciones polémicas en Navidad, generando reacciones fuertes en la comunidad",
+      "why_memeable": "La combinación de Trump, Navidad y declaraciones polémicas crea un escenario propenso a la viralidad",
+      "category": "Política",
+      "matched_archetype": "polarizing_figure_makes_dramatic_statement",
+      "candidate_tickers": [
+        "TRUMPXMAS",
+        "RADICALLEFT",
+        "MAGA2024",
+        "TRUMPFEUD",
+        "XMASCHAOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Navidad",
+        "Política",
+        "MAGA",
+        "Radical Left"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T14:21:33.164163+00:00",
+      "expires_at": "2026-06-23T14:21:33.164163+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "9037e462814a",
+      "fingerprint": "9037e462814a",
+      "narrative_summary": "Familias en la República Democrática del Congo toman pacientes de un centro de tratamiento de Ebola.",
+      "why_memeable": "La narrativa es memeable porque combina elementos de drama, conflicto y sorpresa, lo que la hace fácil de compartir y recordar.",
+      "category": "Salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLA",
+        "DRC",
+        "EBOLAEVIL"
+      ],
+      "key_terms_for_dex_search": [
+        "EBOLA",
+        "DRC",
+        "FAMILIAS",
+        "CENTRO DE TRATAMIENTO"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T14:24:16.524066+00:00",
+      "expires_at": "2026-06-22T14:24:16.524066+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Ebola",
+        "name": "EbolaVirus",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 86995.0,
+        "liquidity_usd": 29040.05,
+        "price_usd": 8.704e-05,
+        "volume_h24": 16676.24,
+        "volume_h1": 9.52,
+        "volume_m5": 7.83,
+        "price_change_5m": 0.15,
+        "price_change_1h": -1.46,
+        "price_change_24h": -7.88,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 4,
+        "created_ts": 1778831535000,
+        "pair_created_at": 1778831535000,
+        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: EBOLA==EBOLA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Families storm Ebola treatment centre in DRC, remove patients",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-20T14:27:00.379677+00:00"
+    },
+    {
+      "id": "7fd4dac59486",
+      "fingerprint": "7fd4dac59486",
+      "narrative_summary": "Monjas que pasaron su vida ayudando a otros necesitan ayuda en sus últimos años, una historia con un perro llamado Gertie que ayudó a detectar cáncer de mama",
+      "why_memeable": "La historia tiene un componente emocional fuerte y un elemento de gratitud hacia un animal, lo que puede generar interés y compartición",
+      "category": "Historias de inspiración y salud",
+      "matched_archetype": "animal_at_the_center_of_story",
+      "candidate_tickers": [
+        "GERTIE",
+        "NUNSLIFE",
+        "CANCERDOGS",
+        "HELPINGHANDS",
+        "GERTIECARES"
+      ],
+      "key_terms_for_dex_search": [
+        "Gertie",
+        "cáncer de mama",
+        "perros heroicos",
+        "monjas",
+        "historias de inspiración"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-06-20T14:24:18.021265+00:00",
+      "expires_at": "2026-06-23T14:24:18.021265+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "These nuns spent a lifetime helping others. In their last years, who will help them? - NPR",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "f2d39ba8bb45",
+      "fingerprint": "f2d39ba8bb45",
+      "narrative_summary": "Un turista muere en un incendio en un resort de lujo en la República Dominicana.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una imagen icónica del incendio.",
+      "category": "Desastres naturales y accidentes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOMINICANREPUBLICFIRE",
+        "RESORTINCENDIO",
+        "TOURISTDIES"
+      ],
+      "key_terms_for_dex_search": [
+        "DominicanRepublic",
+        "ResortIncendio",
+        "TouristDies"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T14:25:26.607732+00:00",
+      "expires_at": "2026-06-22T14:25:26.607732+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tourist dies in Dominican Republic luxury resort fire - BBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-20T09:51:33.742174+00:00"
+  "last_updated": "2026-06-20T14:27:00.379696+00:00"
 }
