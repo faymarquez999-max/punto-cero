@@ -1,148 +1,6 @@
 {
   "watches": [
     {
-      "id": "d5dd165834fa",
-      "fingerprint": "d5dd165834fa",
-      "narrative_summary": "Se sugiere que el motivo por el que ID es prohibido en las elecciones de California (y Nueva York) es para permitir fraude a gran escala.",
-      "why_memeable": "La narrativa tiene un contenido polémico y controvertido que puede ser compartido y debatido.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ID_BANNED",
-        "FRAUDE_ELECTORAL",
-        "CALIFORNIA_NY"
-      ],
-      "key_terms_for_dex_search": [
-        "ID",
-        "FRAUDE",
-        "CALIFORNIA",
-        "NUEVA YORK"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-07T15:57:46.142244+00:00",
-      "expires_at": "2026-06-09T15:57:46.142244+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The reason ID is banned in California (and New York) elections is to enable large-scale fraud.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-09T16:52:33.398764+00:00"
-    },
-    {
-      "id": "dde575f6d28c",
-      "fingerprint": "dde575f6d28c",
-      "narrative_summary": "Un parásito carnívoro amenaza con subir el precio de la carne de Trump, según Politico.",
-      "why_memeable": "La combinación de un parásito carnívoro y Trump, junto con la amenaza de subir el precio de la carne, hace que la narrativa sea fácilmente recordable y compartible.",
-      "category": "Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BEEFPEST",
-        "TRUMPBEEF",
-        "FLESHEATINGPEST"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "beef",
-        "parásito",
-        "carnívoro",
-        "precio",
-        "Politico"
-      ],
-      "score": 92,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-07T20:21:10.131697+00:00",
-      "expires_at": "2026-06-09T20:21:10.131697+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "A flesh-eating pest threatens Trump’s beef price hopes - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-09T23:03:39.549219+00:00"
-    },
-    {
-      "id": "9e8d0bc1ee80",
-      "fingerprint": "9e8d0bc1ee80",
-      "narrative_summary": "Warner considera a Pulte una amenaza para la seguridad nacional",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Warner y Pulte, y la seguridad nacional es un tema sensible.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PULTE",
-        "WARNER",
-        "RIESGONACIONAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Pulte",
-        "Warner",
-        "SeguridadNacional",
-        "RiesgoNacional"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-07T20:21:23.568335+00:00",
-      "expires_at": "2026-06-09T20:21:23.568335+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Warner: Pulte a ‘national security risk’ - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-09T23:03:39.549222+00:00"
-    },
-    {
       "id": "3af81f7614c4",
       "fingerprint": "3af81f7614c4",
       "narrative_summary": "Irán dispara misiles hacia Israel, violando el cese al fuego.",
@@ -8183,7 +8041,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "50c94ed7f20a",
@@ -8839,7 +8697,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "a9fb28c57b77",
@@ -9123,7 +8981,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "6eade3cc1226",
@@ -9168,7 +9026,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "10ad96d8ae8c",
@@ -9214,7 +9072,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "46a66d5dc7ad",
@@ -9419,7 +9277,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "ad814fd8cede",
@@ -9465,7 +9323,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "7ae9c6f11457",
@@ -9508,7 +9366,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "82c2d837f271",
@@ -9622,7 +9480,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "e0dfd976cee5",
@@ -9661,14 +9519,15 @@
       "started_at": "2026-06-19T21:49:32.584307+00:00",
       "expires_at": "2026-06-20T21:49:32.584307+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-20T21:58:22.427368+00:00"
     },
     {
       "id": "504e55dc7e87",
@@ -9716,7 +9575,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f39b5ada4bac",
@@ -9833,7 +9692,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e48520dea004",
@@ -10200,7 +10059,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "69833497b9be",
@@ -10246,7 +10105,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c95f8da50c37",
@@ -10292,7 +10151,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "32d3edc3109a",
@@ -10339,7 +10198,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fbb7f0c2c4e4",
@@ -10386,7 +10245,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "43fdd7e1c0e1",
@@ -10432,7 +10291,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "91da873fd8e3",
@@ -10576,7 +10435,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "62862ce4d5bd",
@@ -10621,7 +10480,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e1748649a361",
@@ -10667,7 +10526,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2e84fa95b2dc",
@@ -10717,7 +10576,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9037e462814a",
@@ -10837,7 +10696,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f2d39ba8bb45",
@@ -10881,7 +10740,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "fd02b942a1ec",
@@ -10928,7 +10787,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "faa7a7edac0a",
@@ -10976,7 +10835,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "98f73ff0e664",
@@ -11736,7 +11595,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "01e9daac0be8",
@@ -11945,7 +11804,169 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-20T20:49:37.302543+00:00"
+    },
+    {
+      "id": "f6c022c6b308",
+      "fingerprint": "f6c022c6b308",
+      "narrative_summary": "Dua Lipa comparte fotos de su boda con Callum Turner en Sicilia",
+      "why_memeable": "La narrativa es memeable debido a la foto impactante de Dua Lipa en su boda y la popularidad de la celebridad",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "DUALIPA",
+        "CALLUMTURNER",
+        "BODAIMPACTANTE"
+      ],
+      "key_terms_for_dex_search": [
+        "DuaLipa",
+        "CallumTurner",
+        "BodaImpactante",
+        "FotosBoda"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T21:59:55.417306+00:00",
+      "expires_at": "2026-06-23T21:59:55.417306+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Dua Lipa stuns in new wedding photo.",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "3273eb60a0d5",
+      "fingerprint": "3273eb60a0d5",
+      "narrative_summary": "Zelenskiy confirma ataque de dron en instalaciones de refino en la región de Tyumen de Rusia.",
+      "why_memeable": "La frase 'Zelenskiy confirma' es memeable y la noticia de un ataque de dron es visualmente atractiva.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ZELENSKIY",
+        "DRON",
+        "TYUMEN",
+        "RUSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Zelenskiy",
+        "dron",
+        "Rusia",
+        "Tyumen",
+        "refino"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T22:01:10.151451+00:00",
+      "expires_at": "2026-06-22T22:01:10.151451+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "941d6065f15a",
+      "fingerprint": "941d6065f15a",
+      "narrative_summary": "POLL... entre @elonmusk y @realDonaldTrump",
+      "why_memeable": "Frase corta y repetible, menciones de figuras top",
+      "category": "Política",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "MUSKVSTRUMP",
+        "POLL"
+      ],
+      "key_terms_for_dex_search": [
+        "poll",
+        "elonmusk",
+        "trump",
+        "política"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T22:01:33.450595+00:00",
+      "expires_at": "2026-06-21T22:01:33.450595+00:00",
+      "duration_hours": 24,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 28336.0,
+        "liquidity_usd": 15978.74,
+        "price_usd": 2.833e-05,
+        "volume_h24": 26776.89,
+        "volume_h1": 938.89,
+        "volume_m5": 203.78,
+        "price_change_5m": -4.03,
+        "price_change_1h": 5.55,
+        "price_change_24h": -14.4,
+        "txns_h1_buys": 17,
+        "txns_h1_sells": 15,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "POLL…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-20T22:04:02.045551+00:00"
     }
   ],
-  "last_updated": "2026-06-20T20:49:37.302561+00:00"
+  "last_updated": "2026-06-20T22:04:02.045566+00:00"
 }
