@@ -1,315 +1,6 @@
 {
   "watches": [
     {
-      "id": "9f5b31aab29e",
-      "fingerprint": "9f5b31aab29e",
-      "narrative_summary": "El novio de la novia de James Handy ha sido acusado de su asesinato",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro núcleo de interés",
-      "category": "crimen y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HANDYMURDER",
-        "ASESINATOHANDY",
-        "JUSTICIAPARAHANDY"
-      ],
-      "key_terms_for_dex_search": [
-        "Handy",
-        "asesinato",
-        "justicia",
-        "crimen"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T12:52:11.270630+00:00",
-      "expires_at": "2026-06-08T12:52:11.270630+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Son of James Handy's girlfriend charged with actor's murder - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-06-08T18:11:24.992690+00:00"
-    },
-    {
-      "id": "683998e4aed5",
-      "fingerprint": "683998e4aed5",
-      "narrative_summary": "Elon Musk publica un simple 'sí' en Twitter, generando gran interés y debate.",
-      "why_memeable": "La simplicidad y la ambigüedad de la respuesta de Elon Musk crean un gran potencial para la creación de memes.",
-      "category": "Tecnología y negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YESMUSK",
-        "ELONYES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-06T12:53:36.414782+00:00",
-      "expires_at": "2026-06-08T12:53:36.414782+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-06-08T18:11:24.992694+00:00"
-    },
-    {
-      "id": "2ba6cc457ca6",
-      "fingerprint": "2ba6cc457ca6",
-      "narrative_summary": "La rivalidad entre Elon Musk y Donald Trump se intensifica en las redes sociales",
-      "why_memeable": "La rivalidad entre dos figuras públicas prominentes y la naturaleza polarizante de sus interacciones",
-      "category": "Política y Tecnología",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "TRUMPVSILON",
-        "SPACEFEUD",
-        "TECHPOLITICS",
-        "MUSKTRUMPWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Musk",
-        "Trump",
-        "SpaceX",
-        "Twitter",
-        "Política",
-        "Tecnología"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-06-06T16:14:48.533751+00:00",
-      "expires_at": "2026-06-09T16:14:48.533751+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 79138.0,
-        "liquidity_usd": 22377.91,
-        "price_usd": 7.913e-05,
-        "volume_h24": 7777.39,
-        "volume_h1": 872.92,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.17,
-        "price_change_24h": 7.86,
-        "txns_h1_buys": 10,
-        "txns_h1_sells": 2,
-        "created_ts": 1775056807000,
-        "pair_created_at": 1775056807000,
-        "url": "https://dexscreener.com/solana/dip8wp7ysuyw3pcd8fkmssu6cl6apsmaen8cd8uzez1b",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceX was less than 10 people back then. We didn’t even have office furniture.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-06-07T00:19:39.897428+00:00"
-    },
-    {
-      "id": "168ae4542bfc",
-      "fingerprint": "168ae4542bfc",
-      "narrative_summary": "La joven Mirra Andreeva gana su primer título de Grand Slam en el French Open, derrotando a la calificada Maja Chwalinska.",
-      "why_memeable": "La historia de la joven Andreeva que logra su primer título de Grand Slam es un momento emotivo y memorable que puede ser capturado en una frase.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANDREEVAGANA",
-        "MIRRAANDREEVA",
-        "FRENCHOPEN2026",
-        "ANDREEVACHWALINSKA",
-        "TÍTULODEGRANDSLAM"
-      ],
-      "key_terms_for_dex_search": [
-        "MirraAndreeva",
-        "FrenchOpen2026",
-        "AndreevaGana",
-        "TítuloDeGrandSlam"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T16:16:08.984874+00:00",
-      "expires_at": "2026-06-08T16:16:08.984874+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-06-08T18:11:24.992697+00:00"
-    },
-    {
-      "id": "483e1fc0c48c",
-      "fingerprint": "483e1fc0c48c",
-      "narrative_summary": "El conservador americano Hegseth compara la inmigración en Europa con una invasión.",
-      "why_memeable": "La frase 'invasión' y la comparación con D-Day crean un núcleo fácilmente compartible.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HEGSETH",
-        "INVASIÓN",
-        "D-DAY",
-        "EUROPA",
-        "INMIGRACIÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "Hegseth",
-        "invasión",
-        "D-Day",
-        "Europa",
-        "inmigración"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T17:40:11.276701+00:00",
-      "expires_at": "2026-06-08T17:40:11.276701+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Hegseth, at D-Day event, says Europe faces 'invasion' of dangerous ideologies - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-06-08T18:11:24.992699+00:00"
-    },
-    {
-      "id": "7e0fc7c859fc",
-      "fingerprint": "7e0fc7c859fc",
-      "narrative_summary": "Meta está considerando una oferta pública de acciones secundarias valorada en $115 mil millones.",
-      "why_memeable": "La narrativa tiene un título atractivo y un valor económico significativo que puede ser compartido fácilmente.",
-      "category": "Noticias financieras",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "META",
-        "$META"
-      ],
-      "key_terms_for_dex_search": [
-        "Meta",
-        "$META",
-        "oferta pública de acciones secundarias",
-        "valores económicos"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 0,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-06T20:19:54.321461+00:00",
-      "expires_at": "2026-06-08T20:19:54.321461+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-09T04:11:18.408103+00:00"
-    },
-    {
       "id": "e99c5317e756",
       "fingerprint": "e99c5317e756",
       "narrative_summary": "EE. UU. intercepta drones iraníes dirigidos a Baréin y Kuwait, y retalia atacando sitios de radar",
@@ -9935,14 +9626,15 @@
       "started_at": "2026-06-18T07:16:43.329987+00:00",
       "expires_at": "2026-06-20T07:16:43.329987+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-20T09:46:43.576554+00:00"
     },
     {
       "id": "b156d64be76b",
@@ -9983,14 +9675,15 @@
       "started_at": "2026-06-18T07:17:17.709050+00:00",
       "expires_at": "2026-06-20T07:17:17.709050+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-20T09:46:43.576566+00:00"
     },
     {
       "id": "a9260cbad77a",
@@ -10027,13 +9720,14 @@
       "started_at": "2026-06-18T07:17:39.375760+00:00",
       "expires_at": "2026-06-20T07:17:39.375760+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "And this report is just the tip of an enormous iceberg of evil",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-20T09:46:43.576569+00:00"
     },
     {
       "id": "fcf17d346512",
@@ -11696,7 +11390,283 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "fbb7f0c2c4e4",
+      "fingerprint": "fbb7f0c2c4e4",
+      "narrative_summary": "Trump presenta un avión 747 regalado por Qatar para unirse a la flota de Air Force One",
+      "why_memeable": "La combinación de Trump, un avión de lujo y un regalo de Qatar crea un escenario único y llamativo",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMP747",
+        "QATARONE",
+        "AIRFORCEONE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Qatar",
+        "Air Force One",
+        "747"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T09:46:45.895490+00:00",
+      "expires_at": "2026-06-23T09:46:45.895490+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "43fdd7e1c0e1",
+      "fingerprint": "43fdd7e1c0e1",
+      "narrative_summary": "Muertes y accidentes en diferentes partes del mundo, incluyendo un accidente de tráfico en Virginia y muertes en Israel.",
+      "why_memeable": "La narrativa tiene un alto contenido de noticias y accidentes que pueden ser compartidos y discutidos fácilmente.",
+      "category": "accidentes y muertes",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "VACRASH",
+        "ISRAELDEATH",
+        "ACCIDENTES",
+        "MUERTES"
+      ],
+      "key_terms_for_dex_search": [
+        "VAcrash",
+        "IsraelDeath",
+        "Accidentes",
+        "Muertes"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T09:47:40.172754+00:00",
+      "expires_at": "2026-06-22T09:47:40.172754+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "91da873fd8e3",
+      "fingerprint": "91da873fd8e3",
+      "narrative_summary": "Top 10 Best Meme Coins to Buy in 2026",
+      "why_memeable": "La narrativa es sobre las mejores monedas meméticas para invertir en 2026, lo que sugiere que tiene un contenido interesante y relevante para la comunidad de criptomonedas.",
+      "category": "Criptomonedas",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MEMETORO",
+        "SUI",
+        "XRP"
+      ],
+      "key_terms_for_dex_search": [
+        "meme coins",
+        "2026",
+        "cryptocurrency",
+        "investment"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T09:49:19.452465+00:00",
+      "expires_at": "2026-06-24T09:49:19.452465+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2549",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "856c8757110a",
+      "fingerprint": "856c8757110a",
+      "narrative_summary": "Brazil gana 3-0 a Haití en el Mundial, Cunha anota dos goles",
+      "why_memeable": "La victoria de Brasil y los dos goles de Cunha son un evento emocionante y fácil de compartir",
+      "category": "Deportes",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "CUNHA",
+        "BRAZIL",
+        "HAITI",
+        "MUNDIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Cunha",
+        "Brazil",
+        "Haiti",
+        "Mundial",
+        "fútbol"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 2,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-20T09:49:53.243854+00:00",
+      "expires_at": "2026-06-22T09:49:53.243854+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Brazil's Cunha scores twice in 3-0 win as Haiti eliminated at World Cup - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "62862ce4d5bd",
+      "fingerprint": "62862ce4d5bd",
+      "narrative_summary": "Karmelo Anthony se declara culpable en evidencia recién revelada, con imágenes y videos impactantes.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y evidencia impactante, lo que la hace fácilmente compartible y recordable.",
+      "category": "Deportes/Deportistas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KARMELODIDIT",
+        "KARMELOANTHONYGUILTY",
+        "KARMELOEVIDENCE"
+      ],
+      "key_terms_for_dex_search": [
+        "Karmelo Anthony",
+        "evidencia",
+        "asalto",
+        "crimen"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T09:51:06.628882+00:00",
+      "expires_at": "2026-06-22T09:51:06.628882+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Karmelo Anthony Says 'I Did It' In Newly Released Evidence, Watch Shocking Videos",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e1748649a361",
+      "fingerprint": "e1748649a361",
+      "narrative_summary": "Incendio masivo destruye un resort en la República Dominicana y obliga a evacuar a casi 1.700 turistas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica (el incendio).",
+      "category": "desastres naturales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "DOMINICANREPUBLICFIRE",
+        "RESORTINCENDIO",
+        "TURISTASEVACUADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "incendio",
+        "resort",
+        "República Dominicana",
+        "turistas",
+        "evacuados"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-20T09:51:33.742174+00:00",
+      "expires_at": "2026-06-24T09:51:33.742174+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-20T06:10:38.400757+00:00"
+  "last_updated": "2026-06-20T09:51:33.742174+00:00"
 }
