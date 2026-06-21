@@ -16982,6 +16982,75 @@
           "POLLSTORM"
         ]
       }
+    },
+    {
+      "ts": "2026-06-21T15:21:10.107783+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "clima y noticias",
+        "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
+        "candidate_tickers": [
+          "TaylorSwiftClima",
+          "ClimaExtremo38C",
+          "CostaTaylorSwift"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T15:22:18.980548+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a2e97289f972",
+        "score": 70,
+        "category": "noticias internacionales",
+        "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued - Reuters",
+        "candidate_tickers": [
+          "HORMUZ",
+          "LÍBANO",
+          "ALTO EL FUEGO",
+          "TASNIM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T15:23:41.963281+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fc474c14592f",
+        "score": 90,
+        "category": "Guerra y política",
+        "title": "Russian-occupied Crimea cuts off civilian fuel sales after Ukrainian strikes - politico.eu",
+        "candidate_tickers": [
+          "CRIMEACUTS",
+          "UCRANIAATACA",
+          "GUERRAENCRIMEA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T15:25:30.925885+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Obama Center opens in Chicago with a call to defend democracy and a celebrity crowd - AP News",
+        "candidate_tickers": [
+          "OBAMA",
+          "CHICAGO",
+          "DEMOCRACIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T15:26:07.195600+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "abefacb58b9f",
+        "ticker": "MEME",
+        "mint": "AqRqWckjB46RdPUUXkGwzqL1qVNnG6c8kuwPtoZcbzEN",
+        "mc": 19417.0
+      }
     }
   ]
 }

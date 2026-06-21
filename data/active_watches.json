@@ -1,130 +1,6 @@
 {
   "watches": [
     {
-      "id": "c0e92d79c5a3",
-      "fingerprint": "c0e92d79c5a3",
-      "narrative_summary": "Un terremoto de magnitud 7.8 ha causado al menos 32 muertos en las Filipinas.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un gran impacto emocional.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FILIPINASTERREMOTO",
-        "TERREMOTOFILIPINAS",
-        "DESASTREFILIPINAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Filipinas",
-        "terremoto",
-        "desastre",
-        "muertos"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-08T11:31:21.453833+00:00",
-      "expires_at": "2026-06-11T11:31:21.453833+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "At least 32 dead after major earthquake strikes southern Philippines",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-11T17:04:59.978302+00:00"
-    },
-    {
-      "id": "d26fecd1ccec",
-      "fingerprint": "d26fecd1ccec",
-      "narrative_summary": "Un fan invade el campo de fútbol durante un partido amistoso antes del Mundial 2026 en Ohio y es arrastrado por la policía.",
-      "why_memeable": "La imagen de un fan invadiendo el campo de fútbol y siendo arrastrado por la policía es fácil de capturar y compartir.",
-      "category": "fútbol",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PITCHINVADER",
-        "FÚTBOLMUNDIAL2026",
-        "OHIOPOLICE"
-      ],
-      "key_terms_for_dex_search": [
-        "fútbol",
-        "mundial",
-        "2026",
-        "ohio",
-        "pitch invader"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 6,
-        "visual": 3,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 4,
-        "velocity": 9
-      },
-      "started_at": "2026-06-08T11:32:15.057607+00:00",
-      "expires_at": "2026-06-10T11:32:15.057607+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "WERLD",
-        "name": "WERLD 2026",
-        "mint": "DyMx8bQYFCw8Ng6qxT2zkNs9ijTm5W8wFoFj29v5pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 88196.0,
-        "liquidity_usd": 21349.78,
-        "price_usd": 8.82e-05,
-        "volume_h24": 102507.07,
-        "volume_h1": 468.43,
-        "volume_m5": 38.56,
-        "price_change_5m": 0.17,
-        "price_change_1h": 5.09,
-        "price_change_24h": 94.46,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 6,
-        "created_ts": 1779552636000,
-        "pair_created_at": 1779552636000,
-        "url": "https://dexscreener.com/solana/hkbaxran44s18wn6wrzthjutf8zf61bpsffvjtddsw87",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: 2026 in WERLD 2026",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Ohio police drag away football pitch invader in pre-World Cup friendly",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-09T04:14:45.304150+00:00"
-    },
-    {
       "id": "d62828677704",
       "fingerprint": "d62828677704",
       "narrative_summary": "Los ganadores de los premios Tony 2026, incluyendo a John Lithgow y Lesley Manville, en una noche de premios donde una revivificación de la obra de Arthur Miller 'La muerte de un vendedor' se llevó seis premios en total.",
@@ -7509,14 +7385,15 @@
       "started_at": "2026-06-17T14:08:48.227156+00:00",
       "expires_at": "2026-06-21T14:08:48.227156+00:00",
       "duration_hours": 96,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Vietnam police rescue more than 400 cats from animal theft crime ring",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-06-21T15:20:53.741662+00:00"
     },
     {
       "id": "50c94ed7f20a",
@@ -8165,14 +8042,15 @@
       "started_at": "2026-06-18T11:23:19.262207+00:00",
       "expires_at": "2026-06-21T11:23:19.262207+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-06-21T15:20:53.741676+00:00"
     },
     {
       "id": "a9fb28c57b77",
@@ -8748,14 +8626,15 @@
       "started_at": "2026-06-19T10:09:14.509929+00:00",
       "expires_at": "2026-06-21T10:09:14.509929+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Paint peeling after $14 million memorial pool renovation",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-21T15:20:53.741682+00:00"
     },
     {
       "id": "ad814fd8cede",
@@ -8794,14 +8673,15 @@
       "started_at": "2026-06-19T10:09:45.032914+00:00",
       "expires_at": "2026-06-21T10:09:45.032914+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-21T15:20:53.741684+00:00"
     },
     {
       "id": "7ae9c6f11457",
@@ -8844,7 +8724,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "82c2d837f271",
@@ -8958,7 +8838,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "e0dfd976cee5",
@@ -9053,7 +8933,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "f39b5ada4bac",
@@ -9170,7 +9050,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "e48520dea004",
@@ -9537,7 +9417,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "69833497b9be",
@@ -9583,7 +9463,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "c95f8da50c37",
@@ -9629,7 +9509,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "32d3edc3109a",
@@ -9676,7 +9556,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "fbb7f0c2c4e4",
@@ -9723,7 +9603,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "43fdd7e1c0e1",
@@ -9769,7 +9649,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "91da873fd8e3",
@@ -9913,7 +9793,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "62862ce4d5bd",
@@ -9958,7 +9838,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e1748649a361",
@@ -10004,7 +9884,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "2e84fa95b2dc",
@@ -10054,7 +9934,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9037e462814a",
@@ -10174,7 +10054,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f2d39ba8bb45",
@@ -10218,7 +10098,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "fd02b942a1ec",
@@ -10265,7 +10145,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "faa7a7edac0a",
@@ -10313,7 +10193,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "98f73ff0e664",
@@ -11073,7 +10953,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "01e9daac0be8",
@@ -11326,7 +11206,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3273eb60a0d5",
@@ -11373,7 +11253,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "941d6065f15a",
@@ -11487,7 +11367,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c14b2fc63020",
@@ -11532,7 +11412,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a733902a100a",
@@ -11739,7 +11619,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1ebd1415009c",
@@ -11787,7 +11667,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "abefacb58b9f",
@@ -11824,14 +11704,51 @@
       "started_at": "2026-06-21T07:06:00.005162+00:00",
       "expires_at": "2026-06-23T07:06:00.005162+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MEME",
+        "name": "Meme",
+        "mint": "AqRqWckjB46RdPUUXkGwzqL1qVNnG6c8kuwPtoZcbzEN",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 19417.0,
+        "liquidity_usd": 25137.53,
+        "price_usd": 1.941e-05,
+        "volume_h24": 388834.69,
+        "volume_h1": 388834.69,
+        "volume_m5": 75963.84,
+        "price_change_5m": 2.86,
+        "price_change_1h": 138.0,
+        "price_change_24h": 138.0,
+        "txns_h1_buys": 5155,
+        "txns_h1_sells": 3497,
+        "created_ts": 1782054120000,
+        "pair_created_at": 1782054120000,
+        "url": "https://dexscreener.com/solana/12kmt9xjupcumbui7qhqfhajd2oxevnctuq1dbvgpghq",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MEME==MEME",
+        "safety_score": 11501,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "/XSG/ XRP Schizo General #2549",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-21T15:26:07.190354+00:00"
     },
     {
       "id": "5c4b0ac5664a",
@@ -11877,7 +11794,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a07b39911d26",
@@ -11922,8 +11839,101 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "a2e97289f972",
+      "fingerprint": "a2e97289f972",
+      "narrative_summary": "La agencia de noticias de Irán, Tasnim, afirma que el canal de Hormuz no se reabrirá hasta que se mantenga un alto el fuego en Líbano, y se han emitido waivers de petróleo - Reuters",
+      "why_memeable": "La narrativa tiene un título claro y una frase memorable que puede ser compartida fácilmente.",
+      "category": "noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HORMUZ",
+        "LÍBANO",
+        "ALTO EL FUEGO",
+        "TASNIM"
+      ],
+      "key_terms_for_dex_search": [
+        "Hormuz",
+        "Líbano",
+        "alto el fuego",
+        "Tasnim",
+        "petróleo"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-21T15:22:18.577958+00:00",
+      "expires_at": "2026-06-23T15:22:18.577958+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "fc474c14592f",
+      "fingerprint": "fc474c14592f",
+      "narrative_summary": "Ucrania ataca Crimea, que corta la venta de combustible a civiles",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Ucrania y Crimea, y un impacto visual con la imagen de la guerra",
+      "category": "Guerra y política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CRIMEACUTS",
+        "UCRANIAATACA",
+        "GUERRAENCRIMEA"
+      ],
+      "key_terms_for_dex_search": [
+        "Crimea",
+        "Ucrania",
+        "guerra",
+        "combustible",
+        "civiles"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-21T15:23:41.572678+00:00",
+      "expires_at": "2026-06-23T15:23:41.572678+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russian-occupied Crimea cuts off civilian fuel sales after Ukrainian strikes - politico.eu",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-21T07:09:02.158066+00:00"
+  "last_updated": "2026-06-21T15:26:07.190370+00:00"
 }
