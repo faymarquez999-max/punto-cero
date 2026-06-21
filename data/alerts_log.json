@@ -16924,6 +16924,64 @@
           "WT"
         ]
       }
+    },
+    {
+      "ts": "2026-06-21T13:16:03.117555+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a29397bd7d5",
+        "score": 70,
+        "category": "Abuso animal y muerte de un caballo de carga",
+        "title": "Disruption to last a week after fatal Bedford train crash",
+        "candidate_tickers": [
+          "CABALLOCENTRALPARK",
+          "ABUSOANIMAL",
+          "MUERTECABALLO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T13:16:40.521759+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Deportes",
+        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+        "candidate_tickers": [
+          "VandalOlympian",
+          "PoolVandal",
+          "WashingtonVandal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T13:17:20.586764+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dad4622417cc",
+        "score": 80,
+        "category": "Celebridad, Crimen, A.I.",
+        "title": "Marilyn Monroe A.I. Recreation Proves Crime Scene Was Staged",
+        "candidate_tickers": [
+          "MARILYNMONROE",
+          "AI CRIME SCENE",
+          "CELEBRITYCRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-21T13:19:37.446911+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "POLL",
+          "MUSKvsTRUMP",
+          "POLLSTORM"
+        ]
+      }
     }
   ]
 }
