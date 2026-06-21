@@ -1,250 +1,6 @@
 {
   "watches": [
     {
-      "id": "3af81f7614c4",
-      "fingerprint": "3af81f7614c4",
-      "narrative_summary": "Irán dispara misiles hacia Israel, violando el cese al fuego.",
-      "why_memeable": "La narrativa cuenta con un conflicto entre Irán e Israel, lo que genera emociones y polarización.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "ISRAEL",
-        "CESEALFUEGO"
-      ],
-      "key_terms_for_dex_search": [
-        "Irán",
-        "Israel",
-        "ceasefire",
-        "misiles"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-07T20:23:17.850837+00:00",
-      "expires_at": "2026-06-10T20:23:17.850837+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "6gU6PMzreEuZjVnjVhWT1V6XHLaQWDi3NyXFedUXpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 16693.0,
-        "liquidity_usd": 8733.28,
-        "price_usd": 1.669e-05,
-        "volume_h24": 5144.89,
-        "volume_h1": 609.95,
-        "volume_m5": 0.67,
-        "price_change_5m": -0.4,
-        "price_change_1h": -8.35,
-        "price_change_24h": -8.49,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 5,
-        "created_ts": 1778641543000,
-        "pair_created_at": 1778641543000,
-        "url": "https://dexscreener.com/solana/gzfqyyghyembw2iez8qxjfp9nqamgr6x2vanmkms7jqq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 1551,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "‘SCARY MOVIE 6’ has opened with $105.5 million at the global box office.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-07T21:52:59.923722+00:00"
-    },
-    {
-      "id": "ed0efa74702f",
-      "fingerprint": "ed0efa74702f",
-      "narrative_summary": "NASA ordena a los astronautas evacuar la estación espacial debido a una fuga de aire",
-      "why_memeable": "La combinación de la urgencia de la situación y la sorpresa de que la NASA esté involucrada en una fuga de aire en la estación espacial hace que la narrativa sea muy memeable",
-      "category": "Tecnología/Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NASA_LEAK",
-        "ESTACION_ESPACIAL_LEAK",
-        "FUGA_DE_AIRE"
-      ],
-      "key_terms_for_dex_search": [
-        "NASA",
-        "estacion_espacial",
-        "fuga_de_aire",
-        "evacuación"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-07T21:49:07.051106+00:00",
-      "expires_at": "2026-06-09T21:49:07.051106+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Rise",
-        "name": "NASA ZGI Moon Mascot",
-        "mint": "CpFJrfYq32Wae2Bt36hEAUwzdyT29WwVLpZmYDF7pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13556.0,
-        "liquidity_usd": 11032.16,
-        "price_usd": 1.357e-05,
-        "volume_h24": 5651.28,
-        "volume_h1": 5.45,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.3,
-        "price_change_24h": 27.1,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 1,
-        "created_ts": 1774637145000,
-        "pair_created_at": 1774637145000,
-        "url": "https://dexscreener.com/solana/fgyamjki6ccuc3sdafqsbxa3y9hrqiwnalapt9zgu7ax",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: NASA in NASA ZGI MOON MASCOT",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "NASA to wear Prada as luxury group pushes into space industry - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "matched_at": "2026-06-09T19:29:25.747548+00:00"
-    },
-    {
-      "id": "8f06b73297d8",
-      "fingerprint": "8f06b73297d8",
-      "narrative_summary": "Elon Musk anuncia que algo está desapareciendo, generando un gran interés en la red",
-      "why_memeable": "La frase 'They are disappearing' es corta y fácil de recordar, y la publicación de Elon Musk aumenta su viralidad",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "XCANCEL",
-        "DISAPPEARING"
-      ],
-      "key_terms_for_dex_search": [
-        "XCANCEL",
-        "DISAPPEARING",
-        "ELON MUSK"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-07T21:50:20.497687+00:00",
-      "expires_at": "2026-06-09T21:50:20.497687+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "They are disappearing",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-09T23:03:39.549224+00:00"
-    },
-    {
-      "id": "d5c8934ba4e9",
-      "fingerprint": "d5c8934ba4e9",
-      "narrative_summary": "La policía ignora a inmigrantes que acosan a una mujer y luego la amenaza con arrestarla por \"odio racial\".",
-      "why_memeable": "La frase es corta y capta la injusticia y la amenaza a la mujer.",
-      "category": "inmigración, justicia, policía",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "INMIGRANTESMALOS",
-        "POLICÍAINJUSTA",
-        "ACOSADORES"
-      ],
-      "key_terms_for_dex_search": [
-        "inmigración",
-        "justicia",
-        "policía",
-        "acosadores"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-07T21:50:58.704960+00:00",
-      "expires_at": "2026-06-09T21:50:58.704960+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "🚨🇬🇧 La policía ignoró a los inmigrantes que acosaban a una mujer en su casa y luego la amenazó con arrestarla por \"odio racial\" si denunciaba los hechos. Ahora, el hombre que lo expuso está esposado.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-09T23:03:39.549227+00:00"
-    },
-    {
       "id": "a5f967b1bd42",
       "fingerprint": "a5f967b1bd42",
       "narrative_summary": "Elon Musk critica la hipocresía de los medios alemanes.",
@@ -8041,7 +7797,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "50c94ed7f20a",
@@ -8697,7 +8453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "a9fb28c57b77",
@@ -8974,14 +8730,15 @@
       "started_at": "2026-06-19T00:19:10.481646+00:00",
       "expires_at": "2026-06-21T00:19:10.481646+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-06-21T02:02:36.034635+00:00"
     },
     {
       "id": "6eade3cc1226",
@@ -9026,7 +8783,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "10ad96d8ae8c",
@@ -9072,7 +8829,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "46a66d5dc7ad",
@@ -9277,7 +9034,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "ad814fd8cede",
@@ -9323,7 +9080,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "7ae9c6f11457",
@@ -9366,7 +9123,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "82c2d837f271",
@@ -9480,7 +9237,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "e0dfd976cee5",
@@ -9575,7 +9332,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f39b5ada4bac",
@@ -9692,7 +9449,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e48520dea004",
@@ -10059,7 +9816,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "69833497b9be",
@@ -10105,7 +9862,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c95f8da50c37",
@@ -10151,7 +9908,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "32d3edc3109a",
@@ -10198,7 +9955,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "fbb7f0c2c4e4",
@@ -10245,7 +10002,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "43fdd7e1c0e1",
@@ -10291,7 +10048,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "91da873fd8e3",
@@ -10435,7 +10192,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "62862ce4d5bd",
@@ -10480,7 +10237,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e1748649a361",
@@ -10526,7 +10283,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2e84fa95b2dc",
@@ -10576,7 +10333,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "9037e462814a",
@@ -10696,7 +10453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f2d39ba8bb45",
@@ -10740,7 +10497,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fd02b942a1ec",
@@ -10787,7 +10544,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "faa7a7edac0a",
@@ -10835,7 +10592,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "98f73ff0e664",
@@ -11595,7 +11352,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "01e9daac0be8",
@@ -11848,7 +11605,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3273eb60a0d5",
@@ -11895,7 +11652,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "941d6065f15a",
@@ -11966,7 +11723,253 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-20T22:04:02.045551+00:00"
+    },
+    {
+      "id": "5403a85b6ed4",
+      "fingerprint": "5403a85b6ed4",
+      "narrative_summary": "Claude Guillemot, cofundador de Ubisoft, falleció en un accidente aéreo que mató a 2 personas",
+      "why_memeable": "La muerte de un cofundador de Ubisoft en un accidente aéreo es un evento sorprendente y trágico que puede ser capturado en una frase breve",
+      "category": "entretenimiento",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UBISOFT",
+        "CLAUDEGUILLEMOT",
+        "ACCIDENTEAEREO"
+      ],
+      "key_terms_for_dex_search": [
+        "Ubisoft",
+        "Claude Guillemot",
+        "AccidenteAereo"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-21T02:05:57.166901+00:00",
+      "expires_at": "2026-06-23T02:05:57.166901+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ubisoft co-founder Claude Guillemot killed in plane crash that claimed 2 lives: report - Fox Business",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "c14b2fc63020",
+      "fingerprint": "c14b2fc63020",
+      "narrative_summary": "Ataque ruso mata a cinco personas en Zaporizhzhia, Ucrania",
+      "why_memeable": "La narrativa tiene un título claro y una frase viral ('massive' ataque) que puede ser compartida fácilmente.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAATACA",
+        "UCRANIASUFRE",
+        "ZAPORIZHZHIAATAQUE"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Zaporizhzhia",
+        "ataque"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-21T02:06:47.613083+00:00",
+      "expires_at": "2026-06-23T02:06:47.613083+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a733902a100a",
+      "fingerprint": "a733902a100a",
+      "narrative_summary": "Un fanático del Mundial llamado Freddy se queda varado en un aeropuerto y las aerolíneas entran en una guerra de ofertas para llevarlo a Canadá.",
+      "why_memeable": "La historia tiene un elemento de sorpresa y humor, con un personaje principal que es fácil de identificar y una situación inesperada que puede generar memes y bromas.",
+      "category": "Deportes/Viral",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "FREDDYFAN",
+        "AIRWAR",
+        "CANADABID",
+        "WORLDCUPWARS",
+        "STUCKINFAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Freddy",
+        "Mundial",
+        "Aeropuerto",
+        "Guerra de ofertas",
+        "Canadá"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-21T02:06:55.585544+00:00",
+      "expires_at": "2026-06-24T02:06:55.585544+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FREDDY",
+        "name": "FREDDYLA7",
+        "mint": "DKSeC2hTQ6jBVYzQ5CPKncQ6BrqQfWYWARz3LHNpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 121407.0,
+        "liquidity_usd": 28276.43,
+        "price_usd": 0.0001214,
+        "volume_h24": 155803.73,
+        "volume_h1": 2335.75,
+        "volume_m5": 138.49,
+        "price_change_5m": 0.55,
+        "price_change_1h": -11.47,
+        "price_change_24h": 29.21,
+        "txns_h1_buys": 13,
+        "txns_h1_sells": 16,
+        "created_ts": 1781066926000,
+        "pair_created_at": 1781066926000,
+        "url": "https://dexscreener.com/solana/cejhfwmqkrmaqzqn2artp1gpnjhqke88eprvdemrhfas",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FREDDY in FREDDYLA7",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Nervy, optimist, die-hard: What sort of fan are you?",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-21T02:08:08.228704+00:00"
+    },
+    {
+      "id": "bf4edd61f894",
+      "fingerprint": "bf4edd61f894",
+      "narrative_summary": "Tom Cotton, un senador conocido por ser un hawks de Irán, se encuentra en una situación incómoda debido a una decisión de Trump.",
+      "why_memeable": "La narrativa tiene un título claro y una descripción concisa que permite capturar la esencia del problema.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COTTONENLAJAULA",
+        "TRUMPINDUCECOTTON"
+      ],
+      "key_terms_for_dex_search": [
+        "Cotton",
+        "Trump",
+        "Iran",
+        "hawk",
+        "jam"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-21T02:07:08.872355+00:00",
+      "expires_at": "2026-06-23T02:07:08.872355+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "UNBROKEN",
+        "name": "The Hawk",
+        "mint": "6WUbAGBQd51XFQ3gagp3vJRsaz2Euo4PsE7uYvTLpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 40686.0,
+        "liquidity_usd": 17836.72,
+        "price_usd": 4.231e-05,
+        "volume_h24": 5591.02,
+        "volume_h1": 98.36,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.37,
+        "price_change_24h": -0.88,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 1,
+        "created_ts": 1760459560000,
+        "pair_created_at": 1760459560000,
+        "url": "https://dexscreener.com/solana/gtekipedv6twdwrgvqsj8owrlse1wgfascurvcfgftwv",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: HAWK in THE HAWK",
+        "safety_score": 3320,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-21T02:08:10.546411+00:00"
     }
   ],
-  "last_updated": "2026-06-20T22:04:02.045566+00:00"
+  "last_updated": "2026-06-21T02:08:10.546432+00:00"
 }
