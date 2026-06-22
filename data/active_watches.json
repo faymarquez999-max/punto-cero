@@ -1,219 +1,6 @@
 {
   "watches": [
     {
-      "id": "ca13649dd6f6",
-      "fingerprint": "ca13649dd6f6",
-      "narrative_summary": "Petición en línea exige que se procesen a los oficiales que arrestaron a Henry Nowak",
-      "why_memeable": "La narrativa es memeable debido a la petición en línea y la respuesta de la comunidad",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NOWAKPETITION",
-        "JUSTICIAPARAHENRY"
-      ],
-      "key_terms_for_dex_search": [
-        "Nowak",
-        "petición",
-        "justicia",
-        "política"
-      ],
-      "score": 70,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 2,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-09T14:12:45.560466+00:00",
-      "expires_at": "2026-06-11T14:12:45.560466+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HENRY",
-        "name": "Justice For Henry Nowak",
-        "mint": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 257340.0,
-        "liquidity_usd": 62284.78,
-        "price_usd": 0.0002579,
-        "volume_h24": 138419.72,
-        "volume_h1": 5315.08,
-        "volume_m5": 21.15,
-        "price_change_5m": -1.44,
-        "price_change_1h": -2.83,
-        "price_change_24h": -25.67,
-        "txns_h1_buys": 32,
-        "txns_h1_sells": 40,
-        "created_ts": 1779264325000,
-        "pair_created_at": 1779264325000,
-        "url": "https://dexscreener.com/solana/5qkyxnzyi6hokzzsjhqqjgbsddk9zffo6vxz8c6vvj6h",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: NOWAK in JUSTICE FOR HENRY NOWAK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "🚨BREAKING: A petition demanding the officers who arrested Henry Nowak are prosecuted has just hit 200k signatures",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-09T19:29:42.697073+00:00"
-    },
-    {
-      "id": "82bf957fabb7",
-      "fingerprint": "82bf957fabb7",
-      "narrative_summary": "El candidato a gobernador Steve Hilton revela la realidad de fraude en California: permiten que las papeletas se vuelvan a fechar manualmente para contarlas tarde.",
-      "why_memeable": "La narrativa tiene un núcleo claro de fraude electoral y la posibilidad de que se vuelvan a fechar las papeletas manualmente.",
-      "category": "fraude electoral",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CALIFORNIA_FRAUD",
-        "STEVE_HILTON",
-        "MAIL_IN_BALLOTS"
-      ],
-      "key_terms_for_dex_search": [
-        "CALIFORNIA",
-        "FRAUDE",
-        "ELECTORAL",
-        "MAIL_IN_BALLOTS",
-        "STEVE_HILTON"
-      ],
-      "score": 90,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-09T14:13:12.365985+00:00",
-      "expires_at": "2026-06-11T14:13:12.365985+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "🚨 HOLY SMOKES. Governor candidate Steve Hilton just revealed the stunning reality of California fraud: They ALLOW mail-in ballots to BACKDATE by HAND so they can be counted late, and not invalid",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-11T17:04:59.978322+00:00"
-    },
-    {
-      "id": "5a640f6b31bd",
-      "fingerprint": "5a640f6b31bd",
-      "narrative_summary": "Nick Reiner, hijo de Rob Reiner, busca dinero en un trust para su defensa en el juicio por el asesinato de sus padres.",
-      "why_memeable": "La narrativa es memeable debido a la combinación de un evento dramático (asesinato de padres) y una figura pública (Nick Reiner).",
-      "category": "Celebridad y crimen",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NICKREINER",
-        "REINERMURDERS",
-        "TRUSTFUNDDRAMA"
-      ],
-      "key_terms_for_dex_search": [
-        "Nick Reiner",
-        "Rob Reiner",
-        "asesinato",
-        "trust fund",
-        "crimen"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-09T14:15:52.347368+00:00",
-      "expires_at": "2026-06-12T14:15:52.347368+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "UATF",
-        "name": "United American Trust Fund",
-        "mint": "HxPcU4D11Vn63sTBGr45s9mRZGu5CcbNjy3u1fVBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 104346.0,
-        "liquidity_usd": 21936.6,
-        "price_usd": 0.0001043,
-        "volume_h24": 5820.33,
-        "volume_h1": 4444.89,
-        "volume_m5": 1.02,
-        "price_change_5m": -0.04,
-        "price_change_1h": 55.08,
-        "price_change_24h": 60.36,
-        "txns_h1_buys": 43,
-        "txns_h1_sells": 30,
-        "created_ts": 1780910774000,
-        "pair_created_at": 1780910774000,
-        "url": "https://dexscreener.com/solana/hp6skbzlhcfwywvp4d4sq8qgcswvgjhiqy3v3gz1wcyt",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUST FUND in UNITED AMERICAN TRUST FUND",
-        "safety_score": 20005,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Rob Reiner’s son Nick seeks money from trust parents left him for his defense in their killings - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-09T19:29:45.134469+00:00"
-    },
-    {
       "id": "81bdf40b8abb",
       "fingerprint": "81bdf40b8abb",
       "narrative_summary": "Sam Bankman-Fried, fundador de FTX, solicita un indulto a Trump.",
@@ -9199,14 +8986,15 @@
       "started_at": "2026-06-20T14:25:26.607732+00:00",
       "expires_at": "2026-06-22T14:25:26.607732+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Tourist dies in Dominican Republic luxury resort fire - BBC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-22T23:28:13.212049+00:00"
     },
     {
       "id": "fd02b942a1ec",
@@ -9246,14 +9034,15 @@
       "started_at": "2026-06-20T17:45:42.936615+00:00",
       "expires_at": "2026-06-22T17:45:42.936615+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Dua Lipa and Callum Turner on their wedding day.",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-22T23:28:13.212064+00:00"
     },
     {
       "id": "faa7a7edac0a",
@@ -10354,14 +10143,15 @@
       "started_at": "2026-06-20T22:01:10.151451+00:00",
       "expires_at": "2026-06-22T22:01:10.151451+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-22T23:28:13.212070+00:00"
     },
     {
       "id": "941d6065f15a",
@@ -11927,7 +11717,143 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "029810999810",
+      "fingerprint": "029810999810",
+      "narrative_summary": "Se rumorea que los leones salvajes nunca han matado a humanos.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable.",
+      "category": "Debate sobre la seguridad de los leones salvajes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CHEETAHS",
+        "LEONESSALVAJES",
+        "NEVERKILLHUMANS"
+      ],
+      "key_terms_for_dex_search": [
+        "Cheetahs",
+        "LeonesSalvajes",
+        "NeverKillHumans"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-22T23:28:27.232884+00:00",
+      "expires_at": "2026-06-24T23:28:27.232884+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "89e6d733dd21",
+      "fingerprint": "89e6d733dd21",
+      "narrative_summary": "Un tiroteo en Montreal, Canadá, deja al menos dos muertos y el presunto atacante también.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'tiroteo' y un lugar icónico como Montreal, Canadá.",
+      "category": "Noticias de crímenes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MONTREALSHOOTING",
+        "TIROTEOCANADÁ",
+        "VÍCTIMASDEMONTREAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Montreal",
+        "tiroteo",
+        "muertos",
+        "atacante",
+        "Canadá"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-22T23:29:21.371028+00:00",
+      "expires_at": "2026-06-24T23:29:21.371028+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Video shows deadly shooting in Montreal, Canada",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4b4729772903",
+      "fingerprint": "4b4729772903",
+      "narrative_summary": "DHS publicó un post extraño sobre el avance de la selección masculina de fútbol de los EE. UU. en la Copa del Mundo, pero se equivocó.",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y error, lo que la hace fácilmente compartible y recordable.",
+      "category": "fútbol, Copa del Mundo, DHS, error, sorpresa",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DHS_ERR",
+        "COPA_ERR",
+        "MENSAJE_ERR"
+      ],
+      "key_terms_for_dex_search": [
+        "DHS",
+        "Copa del Mundo",
+        "fútbol",
+        "error",
+        "sorpresa"
+      ],
+      "score": 71,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-22T23:31:16.578235+00:00",
+      "expires_at": "2026-06-24T23:31:16.578235+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "DHS’ bizarre post about the U.S. men’s World Cup advancement got it all wrong - Yahoo Sports",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-22T10:55:23.949800+00:00"
+  "last_updated": "2026-06-22T23:31:16.578235+00:00"
 }
