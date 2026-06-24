@@ -1,155 +1,6 @@
 {
   "watches": [
     {
-      "id": "fff7031d37b8",
-      "fingerprint": "fff7031d37b8",
-      "narrative_summary": "Los Knicks completan un récord de rally desde 29 puntos abajo y ganan a los Spurs 107-106 para llevarse un 3-1 en la final de la NBA.",
-      "why_memeable": "La narrativa tiene un núcleo fácilmente capturable en una frase corta y una imagen icónica.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KNICKS",
-        "SPURS",
-        "NBA",
-        "FINALS"
-      ],
-      "key_terms_for_dex_search": [
-        "Knicks",
-        "Spurs",
-        "NBA",
-        "Finals",
-        "Comeback"
-      ],
-      "score": 78,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-12T12:30:10.024064+00:00",
-      "expires_at": "2026-06-14T12:30:10.024064+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "KNICKS",
-        "name": "New York Knicks",
-        "mint": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 58207.0,
-        "liquidity_usd": 20168.88,
-        "price_usd": 5.98e-05,
-        "volume_h24": 45307.19,
-        "volume_h1": 624.34,
-        "volume_m5": 224.09,
-        "price_change_5m": 4.13,
-        "price_change_1h": 6.46,
-        "price_change_24h": -14.09,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 12,
-        "created_ts": 1779916158000,
-        "pair_created_at": 1779916158000,
-        "url": "https://dexscreener.com/solana/cmxvcvdglyxtjdfacwk4l4ktcnwosr4nwv6l1eqycsbz",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: KNICKS==KNICKS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-12T12:30:49.558453+00:00"
-    },
-    {
-      "id": "30901d4a4794",
-      "fingerprint": "30901d4a4794",
-      "narrative_summary": "Elon Musk se convierte en el primer billonario del mundo con la IPO de SpaceX",
-      "why_memeable": "La noticia tiene un alto impacto cultural y es fácil de entender y compartir",
-      "category": "Finanzas y Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSK",
-        "SPCX",
-        "TRILLION",
-        "SPACE"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "SpaceX",
-        "IPO",
-        "Trillionaire"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-12T20:31:24.487510+00:00",
-      "expires_at": "2026-06-15T20:31:24.487510+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceExplorationTechnologiesCorp",
-        "mint": "26YRpwvWhTSBSAkQbhNP6AXBNrJe8uRxibAn7ZXXpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 23646.0,
-        "liquidity_usd": 13651.86,
-        "price_usd": 2.386e-05,
-        "volume_h24": 107160.15,
-        "volume_h1": 942.92,
-        "volume_m5": 12.74,
-        "price_change_5m": -0.2,
-        "price_change_1h": -2.97,
-        "price_change_24h": -84.07,
-        "txns_h1_buys": 16,
-        "txns_h1_sells": 35,
-        "created_ts": 1779051611000,
-        "pair_created_at": 1779051611000,
-        "url": "https://dexscreener.com/solana/7jiknarb6cwr6zagmg2dbjeuwey65mvhwmpzmjeur5yt",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: SPCX==SPCX",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "I love the incredible people of SpaceX beyond words",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-12T20:36:14.057740+00:00"
-    },
-    {
       "id": "82bde9153005",
       "fingerprint": "82bde9153005",
       "narrative_summary": "Sam Bankman-Fried pierde la apelación para anular su condena por fraude en criptomonedas",
@@ -9723,7 +9574,7 @@
       "started_at": "2026-06-21T23:48:44.379110+00:00",
       "expires_at": "2026-06-23T23:48:44.379110+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
@@ -9732,7 +9583,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-24T00:06:44.706783+00:00"
     },
     {
       "id": "f1b2edd560bf",
@@ -9770,14 +9622,15 @@
       "started_at": "2026-06-21T23:49:09.882491+00:00",
       "expires_at": "2026-06-23T23:49:09.882491+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "QATAR INTERIOR MINISTRY: EXPLOSION REPORTED AT A FACTORY IN RAS LAFFAN, NO INJURIES OR LEAK REPORTED",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-24T00:06:44.706798+00:00"
     },
     {
       "id": "48ba48cd6146",
@@ -9814,14 +9667,15 @@
       "started_at": "2026-06-21T23:50:57.601365+00:00",
       "expires_at": "2026-06-23T23:50:57.601365+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Man falls to his death during rock concert at Madison Square Garden - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-24T00:06:44.706802+00:00"
     },
     {
       "id": "b668eb4ff9bd",
@@ -9860,14 +9714,15 @@
       "started_at": "2026-06-21T23:52:30.300247+00:00",
       "expires_at": "2026-06-23T23:52:30.300247+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine attack kills five as Crimea halts public fuel sales - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-24T00:06:44.706805+00:00"
     },
     {
       "id": "120d6a136f3c",
@@ -11672,7 +11527,96 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "a483e1295f8b",
+      "fingerprint": "a483e1295f8b",
+      "narrative_summary": "Elon Musk anuncia el primer vuelo con Starlink de Southwest Airlines",
+      "why_memeable": "La combinación de tecnología de Elon Musk (Starlink) con una empresa de aviones (Southwest Airlines) es memeable",
+      "category": "Tecnología y transporte",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "STARLINK",
+        "SOUTHWESTAIR",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Southwest Airlines",
+        "Starlink",
+        "Elon Musk",
+        "vuelo",
+        "prueba"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T00:09:49.253362+00:00",
+      "expires_at": "2026-06-26T00:09:49.253362+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "First Southwest Airlines flight with Starlink!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1b106c946408",
+      "fingerprint": "1b106c946408",
+      "narrative_summary": "George Soros quiere acabar con la civilización occidental, según un tuit de Elon Musk",
+      "why_memeable": "Se trata de una frase corta y contundente que puede ser compartida fácilmente",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SOROS",
+        "WESTERN",
+        "CIVILIZATION"
+      ],
+      "key_terms_for_dex_search": [
+        "soros",
+        "civilización",
+        "occidental",
+        "elomusk"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 10,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-24T00:10:31.686818+00:00",
+      "expires_at": "2026-06-26T00:10:31.686818+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Soros wants to end Western Civilization",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-23T22:53:58.176981+00:00"
+  "last_updated": "2026-06-24T00:10:31.686818+00:00"
 }
