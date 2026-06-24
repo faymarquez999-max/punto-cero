@@ -1,380 +1,6 @@
 {
   "watches": [
     {
-      "id": "be450c4d3187",
-      "fingerprint": "be450c4d3187",
-      "narrative_summary": "US forces shoot down Iranian attack drones, source says",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso que puede ser compartido fácilmente.",
-      "category": "noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DRONEDOWN",
-        "IRANDRONES",
-        "USVSIRAN"
-      ],
-      "key_terms_for_dex_search": [
-        "US",
-        "Iran",
-        "drones",
-        "attack",
-        "shootdown"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T04:27:26.704023+00:00",
-      "expires_at": "2026-06-15T04:27:26.704023+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "5bjaV9rDyYXaHzwpSKfmHTpMZdTtyHZu1adBJH8aA6xK",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 303126.0,
-        "liquidity_usd": 172384.77,
-        "price_usd": 0.0003031,
-        "volume_h24": 11546129.83,
-        "volume_h1": 1997362.09,
-        "volume_m5": 152623.03,
-        "price_change_5m": 2.73,
-        "price_change_1h": 23.0,
-        "price_change_24h": 1962.0,
-        "txns_h1_buys": 5142,
-        "txns_h1_sells": 3434,
-        "created_ts": 1781304413000,
-        "pair_created_at": 1781304413000,
-        "url": "https://dexscreener.com/solana/hecqtzhzzkjpq8ppzpztw1itxy2tntxd6hijemv7wm3p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IRAN in IRAN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-13T04:30:55.419995+00:00"
-    },
-    {
-      "id": "95092283d28c",
-      "fingerprint": "95092283d28c",
-      "narrative_summary": "Trump anuncia que el líder de la banda venezolana Tren de Aragua fue asesinado en un ataque aéreo",
-      "why_memeable": "La narrativa tiene un título claro y una frase fácil de compartir, y el hecho de que Trump esté involucrado aumenta su memeabilidad",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRENDEARAGUA",
-        "TRUMPASESINA",
-        "ARAGUAGANG"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Tren de Aragua",
-        "airstrike",
-        "Venezuela"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T04:28:04.374203+00:00",
-      "expires_at": "2026-06-15T04:28:04.374203+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-06-15T05:42:35.967897+00:00"
-    },
-    {
-      "id": "15d155c15fd6",
-      "fingerprint": "15d155c15fd6",
-      "narrative_summary": "Tata's iPhone partes fábrica contaminó el agua de la tierra agrícola, según el cuerpo de la India de la contaminación.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y contaminación, lo que la hace fácilmente compartible y recordable.",
-      "category": "Política y Medio Ambiente",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TATAPOLLUTES",
-        "IPHONETOXIC",
-        "INDIAWATERCONTAMINATION"
-      ],
-      "key_terms_for_dex_search": [
-        "Tata",
-        "iPhone",
-        "contaminación",
-        "India",
-        "agua",
-        "tierra agrícola"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T12:20:19.990028+00:00",
-      "expires_at": "2026-06-15T12:20:19.990028+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Exclusive: Tata's iPhone parts factory contaminated farmland water, India pollution body alleges - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-06-15T16:35:42.429298+00:00"
-    },
-    {
-      "id": "c740467cbea6",
-      "fingerprint": "c740467cbea6",
-      "narrative_summary": "Estados Unidos impide a Anthropic dar acceso a sus modelos de inteligencia artificial a extranjeros, lo que deshabilita a Fable y Mythos.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y tiene un impacto emocional significativo.",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANTHROPIC",
-        "FABLE",
-        "MYTHOS",
-        "AI",
-        "ESTADOS UNIDOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "Fable",
-        "Mythos",
-        "AI",
-        "Estados Unidos",
-        "injusticia",
-        "inteligencia artificial"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T12:20:42.594337+00:00",
-      "expires_at": "2026-06-16T12:20:42.594337+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ANTH",
-        "name": "Anthropic",
-        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 15442.0,
-        "liquidity_usd": 12721.66,
-        "price_usd": 1.544e-05,
-        "volume_h24": 8357.07,
-        "volume_h1": 1086.49,
-        "volume_m5": 49.21,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -6.8,
-        "txns_h1_buys": 110,
-        "txns_h1_sells": 110,
-        "created_ts": 1780332637000,
-        "pair_created_at": 1780332637000,
-        "url": "https://dexscreener.com/solana/2dwcyggrzbrn36ujywbiwxwfdo5vyzoaaauvy1j1qwrz",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China - Xataka",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-13T16:13:20.011724+00:00"
-    },
-    {
-      "id": "68c7ce637756",
-      "fingerprint": "68c7ce637756",
-      "narrative_summary": "El artista británico David Hockney murió a los 88 años, dejando un legado de arte que celebraba la diversidad sexual en un momento en que era ilegal.",
-      "why_memeable": "La narrativa es memeable porque Hockney fue un artista icónico que rompió tabúes sociales, y su legado sigue siendo relevante en la actualidad.",
-      "category": "arte y cultura",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HOCKNEY",
-        "DIVERSIDADSEXUAL",
-        "ARTEREVOLUTIONARIO",
-        "LEGADOHOCKNEY"
-      ],
-      "key_terms_for_dex_search": [
-        "DavidHockney",
-        "arte",
-        "diversidadsexual",
-        "legado",
-        "cultura"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T12:23:23.078547+00:00",
-      "expires_at": "2026-06-17T12:23:23.078547+00:00",
-      "duration_hours": 96,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 21,
-      "expired_at": "2026-06-17T14:05:17.820483+00:00"
-    },
-    {
-      "id": "8f7026149a23",
-      "fingerprint": "8f7026149a23",
-      "narrative_summary": "Un juez ordena detener la censura de exhibiciones de parques por parte de la administración de Trump.",
-      "why_memeable": "La narrativa tiene un claro antagonista (Trump) y un claro héroe (el juez). La idea de censura es fácilmente comprensible y puede ser representada en una imagen.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP_CENSURA",
-        "JUEZ_DE_TRUMP",
-        "PARQUE_CENSURADO"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "censura",
-        "parque",
-        "juez"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T12:24:11.907047+00:00",
-      "expires_at": "2026-06-15T12:24:11.907047+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PARQ",
-        "name": "Parquet",
-        "mint": "VtwGKv7dcpY7aFb8H7MvZfEtUAKwtsHcXSkejCAparq",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 244055.0,
-        "liquidity_usd": 60274.03,
-        "price_usd": 0.00028,
-        "volume_h24": 167197.5,
-        "volume_h1": 9863.65,
-        "volume_m5": 210.05,
-        "price_change_5m": -0.8,
-        "price_change_1h": -3.91,
-        "price_change_24h": 12.35,
-        "txns_h1_buys": 53,
-        "txns_h1_sells": 45,
-        "created_ts": 1780694620000,
-        "pair_created_at": 1780694620000,
-        "url": "https://dexscreener.com/solana/8jol92gpgiuya3vv5tmtqzzamwbmvspzbuuvetp4o8ku",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: PARQUE in PARQUET",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "US judge orders halt to Trump administration's 'censorship' of park exhibits - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-13T16:13:22.066748+00:00"
-    },
-    {
       "id": "84a21928a373",
       "fingerprint": "84a21928a373",
       "narrative_summary": "Hay varios incendios forestales reportados en California el 13 de junio, incluyendo uno en Humboldt County",
@@ -9324,13 +8950,14 @@
       "started_at": "2026-06-21T17:14:29.541654+00:00",
       "expires_at": "2026-06-24T17:14:29.541654+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Diez intoxicados por una fuga de gas en una casa de Palma - Ultima Hora",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-24T18:14:22.052313+00:00"
     },
     {
       "id": "dd6a045dafd4",
@@ -11743,7 +11370,286 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "7368042478b9",
+      "fingerprint": "7368042478b9",
+      "narrative_summary": "Trump cancela la firma de una ley de vivienda asequible y exige una ley de identificación de votantes en EE. UU.",
+      "why_memeable": "La noticia tiene un alto potencial memético debido a la figura polarizante de Trump y la naturaleza controvertida de la ley de identificación de votantes.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPID",
+        "VOTEGATE",
+        "HOUSINGGATE",
+        "TRUMP2026",
+        "VOTERID"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Voter ID",
+        "Housing Bill",
+        "US Politics"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T18:14:23.639086+00:00",
+      "expires_at": "2026-06-27T18:14:23.639086+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "12d7f47fab70",
+      "fingerprint": "12d7f47fab70",
+      "narrative_summary": "Un informe revela que una policía femenina disparó a un rabino judío en Canadá mientras se escondía de un pistolero marxista que mató a un oficial inmigrante",
+      "why_memeable": "La narrativa tiene un componente de injusticia, violencia y conflicto, lo que la hace susceptible a ser compartida y recordada",
+      "category": "Noticias de violencia y conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RABINO",
+        "POLICIA",
+        "MARXISTA",
+        "CANADA"
+      ],
+      "key_terms_for_dex_search": [
+        "violencia",
+        "conflicto",
+        "injusticia",
+        "policía",
+        "rabino",
+        "marxista"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T18:14:39.079034+00:00",
+      "expires_at": "2026-06-26T18:14:39.079034+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed notthebee.com/t23da",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ff52e9370cd6",
+      "fingerprint": "ff52e9370cd6",
+      "narrative_summary": "Rebrote de calor en Europa: temperaturas récord en Francia y Reino Unido",
+      "why_memeable": "La brevedad y la gravedad de la situación hacen que sea fácilmente compartible y recordable",
+      "category": "clima",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUROHEAT",
+        "REINOUNIDOCALOR",
+        "FRANCIACALOR"
+      ],
+      "key_terms_for_dex_search": [
+        "calor",
+        "temperaturas récord",
+        "Europa",
+        "Francia",
+        "Reino Unido"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-24T18:15:13.404445+00:00",
+      "expires_at": "2026-06-26T18:15:13.404445+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UK TEMPERATURE BREAKS RECORD FOR JUNE, HITS 35.7 CELSIUS IN SOUTHERN ENGLAND - BBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d231be66f5d2",
+      "fingerprint": "d231be66f5d2",
+      "narrative_summary": "Wendy's stock experimenta un aumento de precio después de un post viral en Reddit y la contratación de un líder",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y un elemento de participación de la comunidad (Reddit)",
+      "category": "finanzas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WENDYS",
+        "WENDY"
+      ],
+      "key_terms_for_dex_search": [
+        "WENDYS",
+        "WENDY",
+        "REDDIT",
+        "VIRAL",
+        "POST"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 2,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-24T18:16:33.521802+00:00",
+      "expires_at": "2026-06-26T18:16:33.521802+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wendy's stock swept up in meme-like rally after viral Reddit post, leadership hire - Yahoo Finance",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bb09d6b17658",
+      "fingerprint": "bb09d6b17658",
+      "narrative_summary": "Un tren pasó un semáforo rojo antes de un fatal accidente, según un informe.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un componente de sorpresa.",
+      "category": "accidentes ferroviarios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRENROJO",
+        "ACCIDENTEFERROVIARIO",
+        "SEMÁFOROROJO"
+      ],
+      "key_terms_for_dex_search": [
+        "tren",
+        "semáforo",
+        "accidente",
+        "ferroviario"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T18:17:17.261592+00:00",
+      "expires_at": "2026-06-26T18:17:17.261592+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Train passed red signal before fatal crash, says report",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bee91e668ac2",
+      "fingerprint": "bee91e668ac2",
+      "narrative_summary": "Un hombre cae muerto durante un concierto de rock en el Madison Square Garden.",
+      "why_memeable": "La combinación de un evento trágico y una figura pública (el concierto en el Madison Square Garden) hace que sea fácilmente compartible y recordable.",
+      "category": "Muerte en un concierto de rock",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MSG",
+        "CONCIERTOTRÁGICO",
+        "ROCKFALL"
+      ],
+      "key_terms_for_dex_search": [
+        "Madison Square Garden",
+        "Concierto de rock",
+        "Muerte en un concierto"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T18:18:05.403480+00:00",
+      "expires_at": "2026-06-26T18:18:05.403480+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Man falls to his death during rock concert at Madison Square Garden - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-24T16:10:48.707622+00:00"
+  "last_updated": "2026-06-24T18:18:05.403480+00:00"
 }
