@@ -1,133 +1,6 @@
 {
   "watches": [
     {
-      "id": "82bde9153005",
-      "fingerprint": "82bde9153005",
-      "narrative_summary": "Sam Bankman-Fried pierde la apelación para anular su condena por fraude en criptomonedas",
-      "why_memeable": "La noticia tiene un componente de injusticia y un personaje conocido en el mundo de las criptomonedas, lo que puede generar interés y discusión",
-      "category": "Noticias de criptomonedas",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SBF",
-        "FRAUDMAN",
-        "CRYPTOFAIL"
-      ],
-      "key_terms_for_dex_search": [
-        "Sam Bankman-Fried",
-        "criptomonedas",
-        "fraude",
-        "condena"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-12T22:13:00.791418+00:00",
-      "expires_at": "2026-06-15T22:13:00.791418+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SBF",
-        "name": "Sam Bankman-Fried",
-        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 178295.0,
-        "liquidity_usd": 44313.0,
-        "price_usd": 0.0001783,
-        "volume_h24": 16607.25,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -7.8,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1739226639000,
-        "pair_created_at": 1739226639000,
-        "url": "https://dexscreener.com/solana/hdzuaafeujzsjn3sww6uqe8dqnrgw3tueaxffianrlny",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: SBF==SBF",
-        "safety_score": 6166,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-12T22:17:54.266864+00:00"
-    },
-    {
-      "id": "a3cb807b20cc",
-      "fingerprint": "a3cb807b20cc",
-      "narrative_summary": "Roku explora opciones estratégicas, incluyendo la venta de la empresa, según fuentes.",
-      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturada en una frase corta.",
-      "category": "negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ROKU",
-        "SALE",
-        "ROKU"
-      ],
-      "key_terms_for_dex_search": [
-        "ROKU",
-        "venta",
-        "estrategias"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 7
-      },
-      "started_at": "2026-06-12T22:13:50.060245+00:00",
-      "expires_at": "2026-06-14T22:13:50.060245+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Roku is exploring strategic options, including a sale of the company, sources say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-06-14T22:56:49.412831+00:00"
-    },
-    {
       "id": "5fd9a81100b8",
       "fingerprint": "5fd9a81100b8",
       "narrative_summary": "Un juez ha impuesto una orden para eliminar el nombre de Trump del Kennedy Center.",
@@ -7243,7 +7116,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "2e84fa95b2dc",
@@ -9056,14 +8929,15 @@
       "started_at": "2026-06-21T07:05:18.980605+00:00",
       "expires_at": "2026-06-24T07:05:18.980605+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Leadership uncertainty 'enormously disruptive', former top civil servant warns",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-24T08:17:53.385025+00:00"
     },
     {
       "id": "abefacb58b9f",
@@ -9183,14 +9057,15 @@
       "started_at": "2026-06-21T07:08:29.858232+00:00",
       "expires_at": "2026-06-24T07:08:29.858232+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Los Angeles emergency declaration issued for Boyle Heights warehouse fire as blaze continues - CBS News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-24T08:17:53.385038+00:00"
     },
     {
       "id": "a07b39911d26",
@@ -9486,13 +9361,55 @@
       "started_at": "2026-06-21T17:12:33.862130+00:00",
       "expires_at": "2026-06-24T17:12:33.862130+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CaliFraud",
+        "name": "California Fraud",
+        "mint": "39wKUzueHdG2nHGGk7rAPNuFkwTVLr4xqECjF1uopump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 18702.0,
+        "liquidity_usd": 9922.45,
+        "price_usd": 1.874e-05,
+        "volume_h24": 19727.18,
+        "volume_h1": 3075.37,
+        "volume_m5": 1093.15,
+        "price_change_5m": 11.49,
+        "price_change_1h": 65.08,
+        "price_change_24h": 695.0,
+        "txns_h1_buys": 37,
+        "txns_h1_sells": 17,
+        "created_ts": 1770771114000,
+        "pair_created_at": 1770771114000,
+        "url": "https://dexscreener.com/solana/apcmrqzw3fvxkaxssdrhpkzuxcz43kg2przkv9nydvtu",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CALIFORNIA in CALIFORNIA FRAUD",
+        "safety_score": 46395,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Breaking: Wilder Fire reported in Siskiyou County on June 20 - Fresno Bee",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-24T08:22:17.015769+00:00"
     },
     {
       "id": "227135cb24b1",
@@ -9536,7 +9453,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "dd6a045dafd4",
@@ -9837,7 +9754,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3957782e4d01",
@@ -9882,7 +9799,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3189b6d6044f",
@@ -9920,14 +9837,15 @@
       "started_at": "2026-06-22T05:11:57.737674+00:00",
       "expires_at": "2026-06-24T05:11:57.737674+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-24T08:17:53.385046+00:00"
     },
     {
       "id": "649837b124bf",
@@ -10176,7 +10094,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e689141857d3",
@@ -10291,7 +10209,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "89e6d733dd21",
@@ -10337,7 +10255,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4b4729772903",
@@ -10376,14 +10294,41 @@
       "started_at": "2026-06-22T23:31:16.578235+00:00",
       "expires_at": "2026-06-24T23:31:16.578235+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "YNE",
+        "name": "yesnoerror",
+        "mint": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 349777.0,
+        "liquidity_usd": 139961.27,
+        "price_usd": 0.0003497,
+        "volume_h24": 6314.08,
+        "volume_h1": 10.49,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.33,
+        "price_change_24h": 9.23,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 1,
+        "created_ts": 1734645841000,
+        "pair_created_at": 1734645841000,
+        "url": "https://dexscreener.com/solana/aaorer9vexygrink6z2gbcq5tkrnkzqxzkdpddexvamk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ERROR in YESNOERROR",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "DHS’ bizarre post about the U.S. men’s World Cup advancement got it all wrong - Yahoo Sports",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-24T08:22:24.025615+00:00"
     },
     {
       "id": "c8e3ab7e29bf",
@@ -10430,7 +10375,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3c6584e715c6",
@@ -10476,7 +10421,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9056a9c0a6ed",
@@ -10743,7 +10688,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6332a70096ae",
@@ -10791,7 +10736,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b475b482277f",
@@ -10913,7 +10858,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1cde0e90a3d4",
@@ -10957,7 +10902,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1acf39ee1320",
@@ -11002,7 +10947,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "011090e42044",
@@ -11046,7 +10991,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a9a0c0fccdfc",
@@ -11090,7 +11035,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c4882bd9297d",
@@ -11209,7 +11154,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e06e8c3799e0",
@@ -11248,13 +11193,45 @@
       "started_at": "2026-06-23T19:38:48.865900+00:00",
       "expires_at": "2026-06-25T19:38:48.865900+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "USAID",
+        "name": "USAID",
+        "mint": "6P8ixuqGZpfyHAxyxbU4a31vsMiFiCQjBzVV58gPpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 18115.0,
+        "liquidity_usd": 17090.52,
+        "price_usd": 1.812e-05,
+        "volume_h24": 104659.63,
+        "volume_h1": 300.6,
+        "volume_m5": 31.23,
+        "price_change_5m": -1.35,
+        "price_change_1h": -0.3,
+        "price_change_24h": 23.87,
+        "txns_h1_buys": 5,
+        "txns_h1_sells": 5,
+        "created_ts": 1738517148000,
+        "pair_created_at": 1738517148000,
+        "url": "https://dexscreener.com/solana/j3und1eu6ywnknpg5tc7ps4gcewic2xtj1zpfmnwcpme",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: USAID==USAID",
+        "safety_score": 2167,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          }
+        ]
+      },
       "cluster_top_title": "USAID funding was central to the creation of COVID-19",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-24T08:22:34.427429+00:00"
     },
     {
       "id": "284406c34538",
@@ -11297,7 +11274,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f2b9fdcaf3f2",
@@ -11347,7 +11324,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d3ab7e876076",
@@ -11395,7 +11372,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d3a61029583b",
@@ -11434,13 +11411,40 @@
       "started_at": "2026-06-23T22:52:24.798246+00:00",
       "expires_at": "2026-06-25T22:52:24.798246+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 287581.0,
+        "liquidity_usd": 87309.32,
+        "price_usd": 0.0002876,
+        "volume_h24": 5331.85,
+        "volume_h1": 2.13,
+        "volume_m5": 0.2,
+        "price_change_5m": -0.04,
+        "price_change_1h": -0.42,
+        "price_change_24h": -0.54,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 3,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "First Southwest Airlines flight with Starlink!",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-24T08:22:39.123058+00:00"
     },
     {
       "id": "e5ced804d757",
@@ -11483,7 +11487,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f8282680a107",
@@ -11520,13 +11524,40 @@
       "started_at": "2026-06-23T22:53:58.176981+00:00",
       "expires_at": "2026-06-25T22:53:58.176981+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 287581.0,
+        "liquidity_usd": 87309.32,
+        "price_usd": 0.0002876,
+        "volume_h24": 5331.85,
+        "volume_h1": 2.13,
+        "volume_m5": 0.2,
+        "price_change_5m": -0.04,
+        "price_change_1h": -0.42,
+        "price_change_24h": -0.54,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 3,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-24T08:22:40.658233+00:00"
     },
     {
       "id": "a483e1295f8b",
@@ -11571,7 +11602,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1b106c946408",
@@ -11615,8 +11646,108 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "57e86b7c9e9d",
+      "fingerprint": "57e86b7c9e9d",
+      "narrative_summary": "Trump hace declaraciones polémicas sobre la guerra con Irán y la oposición del Senado",
+      "why_memeable": "La combinación de la figura polarizante de Trump y la situación política tensa crea un caldo de cultivo para memes y discusiones",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPWAR",
+        "IRANCONFLICT",
+        "SENATEVS",
+        "TRUMPSENATE",
+        "WARONIRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Irán",
+        "Senado",
+        "Guerra",
+        "Política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 4,
+        "velocity": 7
+      },
+      "started_at": "2026-06-24T08:17:54.683632+00:00",
+      "expires_at": "2026-06-27T08:17:54.683632+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "bd700fbd8757",
+      "fingerprint": "bd700fbd8757",
+      "narrative_summary": "Una oficial de policía femenina dispara a un rabino judío fuera de la oficina de Pornhub en Canadá mientras se esconde de un pistolero marxista que mató a un oficial inmigrante llamado Mohamed.",
+      "why_memeable": "La combinación de elementos inesperados y contradictorios como una oficial de policía, un rabino judío, la oficina de Pornhub y un pistolero marxista crea un escenario absurdo y memeable.",
+      "category": "noticias virales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COPRAB",
+        "PORNHUB",
+        "MOHAMED",
+        "RABINO",
+        "MARXISTA"
+      ],
+      "key_terms_for_dex_search": [
+        "Pornhub",
+        "rabino judío",
+        "oficial de policía",
+        "pistolero marxista",
+        "Mohamed"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-24T08:17:56.583839+00:00",
+      "expires_at": "2026-06-27T08:17:56.583839+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed notthebee.com/t23da",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-24T00:10:31.686818+00:00"
+  "last_updated": "2026-06-24T08:22:40.658249+00:00"
 }
