@@ -19184,6 +19184,75 @@
           "NYCPRIMARIES"
         ]
       }
+    },
+    {
+      "ts": "2026-06-24T16:06:50.176254+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cac907b07f41",
+        "score": 91,
+        "category": "Noticias de tecnología y política",
+        "title": "\"Democracy\" is when the people vote for Brexit because they want less immigration, but they get exponentially more immigration as punishment.",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "ELON",
+          "SCAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-24T16:08:05.702487+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "accidentes de tren",
+        "title": "Train passed red signal before fatal crash, says report",
+        "candidate_tickers": [
+          "TrainCrash",
+          "TrenRojo",
+          "AccidenteFATAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-24T16:08:26.965203+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "TRUMP",
+          "POLL",
+          "SONDEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-24T16:08:48.225027+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da8816a0a659",
+        "score": 92,
+        "category": "Tecnología y redes sociales",
+        "title": "I warned you but you scoffed. You will regret your Suicidal Empathy.",
+        "candidate_tickers": [
+          "SUICIDALEMPATHY",
+          "EMPATHIASUICIDA",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-24T16:10:48.712330+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cac907b07f41",
+        "ticker": "SCAM",
+        "mint": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
+        "mc": 161348.0
+      }
     }
   ]
 }
