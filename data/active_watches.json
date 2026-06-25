@@ -1,228 +1,6 @@
 {
   "watches": [
     {
-      "id": "03b3a2c53e6c",
-      "fingerprint": "03b3a2c53e6c",
-      "narrative_summary": "Israel ataca objetivos de Hezbollah en los suburbios sur de Beirut",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Hezbollah, lo que la hace fácilmente compartible y recordable",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAEL",
-        "HEZBOLLAH",
-        "BEIRUT"
-      ],
-      "key_terms_for_dex_search": [
-        "israel",
-        "hezbollah",
-        "beirut",
-        "conflicto internacional"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T15:28:00.599209+00:00",
-      "expires_at": "2026-06-16T15:28:00.599209+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CIA",
-        "name": "CENTRAL ISRAELI AGENCY",
-        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 282370.0,
-        "liquidity_usd": 83994.12,
-        "price_usd": 0.0002823,
-        "volume_h24": 4806489.16,
-        "volume_h1": 1332038.59,
-        "volume_m5": 85103.0,
-        "price_change_5m": 16.07,
-        "price_change_1h": 141.0,
-        "price_change_24h": 3908.0,
-        "txns_h1_buys": 1811,
-        "txns_h1_sells": 1756,
-        "created_ts": 1781544782000,
-        "pair_created_at": 1781544782000,
-        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "matched_at": "2026-06-15T20:23:34.970567+00:00"
-    },
-    {
-      "id": "cc7181866eb4",
-      "fingerprint": "cc7181866eb4",
-      "narrative_summary": "Taiwan's spy agency launches webpage for Chinese nationals to report tips, sparking controversy.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y la acción de Taiwan de crear una página para que los ciudadanos chinos reporten tips es un tema controvertido y atractivo.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TAIWANSPY",
-        "CHINAREPORT",
-        "TAIWANLEAKS"
-      ],
-      "key_terms_for_dex_search": [
-        "Taiwan",
-        "China",
-        "espionaje",
-        "informantes",
-        "controversia"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 6,
-        "visual": 3,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T15:28:31.557807+00:00",
-      "expires_at": "2026-06-17T15:28:31.557807+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SWIFT",
-        "name": "SWIFT CHINA",
-        "mint": "9yAEwDQPrhLiZaKHeyU5q9GYmBLKtxvywjbqSJYqUvv6",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 81913.0,
-        "liquidity_usd": 136557.15,
-        "price_usd": 8.191e-05,
-        "volume_h24": 1359601.2,
-        "volume_h1": 1359601.2,
-        "volume_m5": 299695.85,
-        "price_change_5m": 4.51,
-        "price_change_1h": 47.2,
-        "price_change_24h": 47.2,
-        "txns_h1_buys": 1854,
-        "txns_h1_sells": 1074,
-        "created_ts": 1781455329000,
-        "pair_created_at": 1781455329000,
-        "url": "https://dexscreener.com/solana/7ppdityvzct6az4l6miuxa7uvaxmcjj4iu9yendvs24y",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHINA in SWIFT CHINA",
-        "safety_score": 25425,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Taiwan’s spy agency launches webpage for Chinese nationals to report tips - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-14T17:03:18.583963+00:00"
-    },
-    {
-      "id": "bfb9c5936091",
-      "fingerprint": "bfb9c5936091",
-      "narrative_summary": "Los Knicks ganan su primer título en 53 años, causando celebración y conflicto en Nueva York",
-      "why_memeable": "La victoria de los Knicks es un evento inesperado y emocionante que puede ser capturado en una frase o imagen",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KNICKS",
-        "NYK",
-        "NBA",
-        "CHAMPIONS"
-      ],
-      "key_terms_for_dex_search": [
-        "KNICKS",
-        "NBA",
-        "CHAMPIONS",
-        "NYK"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T16:59:49.788917+00:00",
-      "expires_at": "2026-06-16T16:59:49.788917+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Box Office: ‘Disclosure Day’ Launches to $93 Million Globally, ‘Michael’ Nears $950 Million Milestone - Variety",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-16T22:21:58.819307+00:00"
-    },
-    {
       "id": "834dd83477c2",
       "fingerprint": "834dd83477c2",
       "narrative_summary": "Las fuerzas británicas capturan un tanque de petróleo ruso sospechoso de financiar la guerra en Ucrania",
@@ -9448,7 +9226,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6332a70096ae",
@@ -9496,7 +9274,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b475b482277f",
@@ -9663,7 +9441,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1acf39ee1320",
@@ -9798,7 +9576,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c4882bd9297d",
@@ -9910,14 +9688,15 @@
       "started_at": "2026-06-23T19:37:38.528524+00:00",
       "expires_at": "2026-06-25T19:37:38.528524+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-25T21:20:55.801758+00:00"
     },
     {
       "id": "e06e8c3799e0",
@@ -10031,13 +9810,14 @@
       "started_at": "2026-06-23T19:39:10.419412+00:00",
       "expires_at": "2026-06-25T19:39:10.419412+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Soros wants to end Western Civilization",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-25T21:20:55.801772+00:00"
     },
     {
       "id": "f2b9fdcaf3f2",
@@ -10087,7 +9867,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d3ab7e876076",
@@ -10135,7 +9915,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d3a61029583b",
@@ -10244,13 +10024,40 @@
       "started_at": "2026-06-23T22:53:10.209646+00:00",
       "expires_at": "2026-06-25T22:53:10.209646+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15139.0,
+        "liquidity_usd": 11188.12,
+        "price_usd": 1.514e-05,
+        "volume_h24": 8963.54,
+        "volume_h1": 268.71,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.61,
+        "price_change_24h": 132.0,
+        "txns_h1_buys": 8,
+        "txns_h1_sells": 4,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Soros wants to end Western Civilization",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-25T21:25:09.555827+00:00"
     },
     {
       "id": "f8282680a107",
@@ -10359,13 +10166,40 @@
       "started_at": "2026-06-24T00:09:49.253362+00:00",
       "expires_at": "2026-06-26T00:09:49.253362+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15139.0,
+        "liquidity_usd": 11188.12,
+        "price_usd": 1.514e-05,
+        "volume_h24": 8963.54,
+        "volume_h1": 268.71,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.61,
+        "price_change_24h": 132.0,
+        "txns_h1_buys": 8,
+        "txns_h1_sells": 4,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "First Southwest Airlines flight with Starlink!",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-25T21:25:10.967876+00:00"
     },
     {
       "id": "1b106c946408",
@@ -10409,7 +10243,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "57e86b7c9e9d",
@@ -10459,7 +10293,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "bd700fbd8757",
@@ -10509,7 +10343,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cac907b07f41",
@@ -10621,13 +10455,40 @@
       "started_at": "2026-06-24T16:08:47.829312+00:00",
       "expires_at": "2026-06-26T16:08:47.829312+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15139.0,
+        "liquidity_usd": 11188.12,
+        "price_usd": 1.514e-05,
+        "volume_h24": 8963.54,
+        "volume_h1": 268.71,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.61,
+        "price_change_24h": 132.0,
+        "txns_h1_buys": 8,
+        "txns_h1_sells": 4,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "I warned you but you scoffed. You will regret your Suicidal Empathy.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-06-25T21:25:15.224712+00:00"
     },
     {
       "id": "7368042478b9",
@@ -10676,7 +10537,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "12d7f47fab70",
@@ -10725,7 +10586,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ff52e9370cd6",
@@ -10772,7 +10633,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d231be66f5d2",
@@ -10965,7 +10826,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5dd0e66bc9f7",
@@ -11146,13 +11007,40 @@
       "started_at": "2026-06-25T01:33:39.407346+00:00",
       "expires_at": "2026-06-27T01:33:39.407346+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15248.0,
+        "liquidity_usd": 11242.07,
+        "price_usd": 1.525e-05,
+        "volume_h24": 8971.69,
+        "volume_h1": 266.43,
+        "volume_m5": 8.14,
+        "price_change_5m": 0.72,
+        "price_change_1h": 3.82,
+        "price_change_24h": 133.0,
+        "txns_h1_buys": 9,
+        "txns_h1_sells": 3,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Try Grok",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-25T21:25:20.089965+00:00"
     },
     {
       "id": "e708c740905d",
@@ -11189,13 +11077,40 @@
       "started_at": "2026-06-25T05:51:18.508136+00:00",
       "expires_at": "2026-06-27T05:51:18.508136+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15139.0,
+        "liquidity_usd": 11188.12,
+        "price_usd": 1.514e-05,
+        "volume_h24": 8963.54,
+        "volume_h1": 268.71,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.61,
+        "price_change_24h": 132.0,
+        "txns_h1_buys": 8,
+        "txns_h1_sells": 4,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "This is happening throughout the West",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-06-25T21:25:21.230140+00:00"
     },
     {
       "id": "75eb98490741",
@@ -11237,7 +11152,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "976caec3bd30",
@@ -11282,7 +11197,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f056611e109d",
@@ -11330,7 +11245,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ee88958b5a46",
@@ -11471,7 +11386,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8ee8b6dcee23",
@@ -11592,7 +11507,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "caf755cc9996",
@@ -11629,13 +11544,40 @@
       "started_at": "2026-06-25T17:37:50.232725+00:00",
       "expires_at": "2026-06-27T17:37:50.232725+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15248.0,
+        "liquidity_usd": 11242.07,
+        "price_usd": 1.525e-05,
+        "volume_h24": 8971.69,
+        "volume_h1": 266.43,
+        "volume_m5": 8.14,
+        "price_change_5m": 0.72,
+        "price_change_1h": 3.82,
+        "price_change_24h": 133.0,
+        "txns_h1_buys": 9,
+        "txns_h1_sells": 3,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Potential name for the AI industry regulatory authority:",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T21:25:26.082982+00:00"
     },
     {
       "id": "d8cd9ee9e746",
@@ -11671,14 +11613,206 @@
       "started_at": "2026-06-25T17:39:48.667590+00:00",
       "expires_at": "2026-06-27T17:39:48.667590+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15248.0,
+        "liquidity_usd": 11242.07,
+        "price_usd": 1.525e-05,
+        "volume_h24": 8971.69,
+        "volume_h1": 266.43,
+        "volume_m5": 8.14,
+        "price_change_5m": 0.72,
+        "price_change_1h": 3.82,
+        "price_change_24h": 133.0,
+        "txns_h1_buys": 9,
+        "txns_h1_sells": 3,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Justice for Louis.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T21:25:27.206390+00:00"
+    },
+    {
+      "id": "42324d08d3e4",
+      "fingerprint": "42324d08d3e4",
+      "narrative_summary": "Trump critica a la izquierda radical y el Supreme Court toma decisiones sobre asilo y armas",
+      "why_memeable": "La combinación de Trump, política y decisiones del Supreme Court crea un caldo de cultivo para memes y discusiones",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "SCOTUS",
+        "GUNRIGHTS",
+        "ASYLUM",
+        "RADICALLEFT"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Supreme Court",
+        "asilo",
+        "armas",
+        "izquierda radical"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 7
+      },
+      "started_at": "2026-06-25T21:20:57.181120+00:00",
+      "expires_at": "2026-06-28T21:20:57.181120+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6dde2eb3cfaa",
+      "fingerprint": "6dde2eb3cfaa",
+      "narrative_summary": "Irán ataca un barco de carga, poniendo a prueba el acuerdo de Trump para reabrir el Estrecho de Ormuz.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, con un conflicto entre Irán y Estados Unidos.",
+      "category": "noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "ORMUZ",
+        "TRUMP",
+        "BARCO_DE_CARGA"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "ORMUZ",
+        "TRUMP",
+        "BARCO_DE_CARGA"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-25T21:21:10.929027+00:00",
+      "expires_at": "2026-06-27T21:21:10.929027+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive | Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait - WSJ",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2f81106a9760",
+      "fingerprint": "2f81106a9760",
+      "narrative_summary": "Elon Musk muestra apoyo a Louis, generando una gran respuesta en Twitter.",
+      "why_memeable": "La frase 'Justice for Louis' es corta y fácil de recordar, y el apoyo de Elon Musk la hace viral.",
+      "category": "Política y justicia social",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JUSTICEFORLOUIS",
+        "LOUISMEME"
+      ],
+      "key_terms_for_dex_search": [
+        "justice",
+        "louis",
+        "elonmusk"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 1,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-25T21:24:17.477045+00:00",
+      "expires_at": "2026-06-27T21:24:17.477045+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "EMC",
+        "name": "ElonMuskCoin",
+        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 15248.0,
+        "liquidity_usd": 11242.07,
+        "price_usd": 1.525e-05,
+        "volume_h24": 8971.69,
+        "volume_h1": 266.43,
+        "volume_m5": 8.14,
+        "price_change_5m": 0.72,
+        "price_change_1h": 3.82,
+        "price_change_24h": 133.0,
+        "txns_h1_buys": 9,
+        "txns_h1_sells": 3,
+        "created_ts": 1781621912000,
+        "pair_created_at": 1781621912000,
+        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Justice for Louis.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T21:25:29.395775+00:00"
     }
   ],
-  "last_updated": "2026-06-25T17:39:48.667590+00:00"
+  "last_updated": "2026-06-25T21:25:29.395794+00:00"
 }
