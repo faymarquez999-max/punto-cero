@@ -1,185 +1,6 @@
 {
   "watches": [
     {
-      "id": "7c8bb0da2609",
-      "fingerprint": "7c8bb0da2609",
-      "narrative_summary": "Las fuerzas británicas interceptan un tanque de la flota de sombra rusa en el Canal",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase (interceptar un tanque ruso en el Canal)",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIA",
-        "TANQUE",
-        "INTERCEPTAR",
-        "CANAL",
-        "FUERZAS BRITÁNICAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Tanque",
-        "Interceptar",
-        "Canal",
-        "Fuerzas británicas"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 7
-      },
-      "started_at": "2026-06-14T11:20:45.340028+00:00",
-      "expires_at": "2026-06-16T11:20:45.340028+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "British forces intercept Russian shadow fleet tanker in the Channel - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-06-16T11:39:08.880647+00:00"
-    },
-    {
-      "id": "c11dacf409f9",
-      "fingerprint": "c11dacf409f9",
-      "narrative_summary": "Israel ataca objetivos de Hezbollah en los suburbios sur de Beirut",
-      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre Israel y Hezbollah, con una fuerte carga emocional y un contexto visual claro.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAEL",
-        "HEZBOLLAH",
-        "BEBUT"
-      ],
-      "key_terms_for_dex_search": [
-        "conflicto",
-        "internacional",
-        "hezbollah",
-        "israel",
-        "beirut"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T13:18:21.120641+00:00",
-      "expires_at": "2026-06-17T13:18:21.120641+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CIA",
-        "name": "CENTRAL ISRAELI AGENCY",
-        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 282370.0,
-        "liquidity_usd": 83994.12,
-        "price_usd": 0.0002823,
-        "volume_h24": 4806489.16,
-        "volume_h1": 1332038.59,
-        "volume_m5": 85103.0,
-        "price_change_5m": 16.07,
-        "price_change_1h": 141.0,
-        "price_change_24h": 3908.0,
-        "txns_h1_buys": 1811,
-        "txns_h1_sells": 1756,
-        "created_ts": 1781544782000,
-        "pair_created_at": 1781544782000,
-        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "matched_at": "2026-06-15T20:23:31.022881+00:00"
-    },
-    {
-      "id": "eec7131cb5e7",
-      "fingerprint": "eec7131cb5e7",
-      "narrative_summary": "Los Knicks ganan su primer título en 53 años, celebrando en todo Nueva York",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'victoria contra todo pronóstico' y un título memorable",
-      "category": "Deportes",
-      "matched_archetype": "underdog_victory_or_redemption",
-      "candidate_tickers": [
-        "KNICKS53",
-        "NBA53",
-        "NYCCELEBRA"
-      ],
-      "key_terms_for_dex_search": [
-        "KNICKS",
-        "53",
-        "NBA",
-        "NYC",
-        "CELEBRA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-14T13:18:57.803407+00:00",
-      "expires_at": "2026-06-16T13:18:57.803407+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Knicks fans celebrate throughout NYC after first title in 53 years - ESPN",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-06-16T22:21:58.819296+00:00"
-    },
-    {
       "id": "ca40f63b8bef",
       "fingerprint": "ca40f63b8bef",
       "narrative_summary": "El Reino Unido intercepta un buque de la flota sombra rusa en el Canal",
@@ -10013,14 +9834,15 @@
       "started_at": "2026-06-23T05:55:59.918207+00:00",
       "expires_at": "2026-06-25T05:55:59.918207+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-25T09:37:07.105689+00:00"
     },
     {
       "id": "1cde0e90a3d4",
@@ -10102,14 +9924,15 @@
       "started_at": "2026-06-23T05:59:12.231504+00:00",
       "expires_at": "2026-06-25T05:59:12.231504+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Jay Man Convicted of Aggravated Animal Cruelty For Killing Kitten - NorthEscambia.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-25T09:37:07.105703+00:00"
     },
     {
       "id": "011090e42044",
@@ -11682,7 +11505,149 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "f056611e109d",
+      "fingerprint": "f056611e109d",
+      "narrative_summary": "Trump solicita a Congreso billones para guerra con Irán después de tensión con republicanos",
+      "why_memeable": "La combinación de Trump, guerra y billones crea un escenario altamente polarizador y memeable",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPWAR",
+        "IRANBILL",
+        "REPUBLICANDEMAND",
+        "WARFUNDS",
+        "TRUMPVSIRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Guerra",
+        "Irán",
+        "Congreso",
+        "Billones"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-25T09:37:19.842902+00:00",
+      "expires_at": "2026-06-28T09:37:19.842902+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ee88958b5a46",
+      "fingerprint": "ee88958b5a46",
+      "narrative_summary": "Los mejores monedas de meme para comprar en 2026, según Changelly y otros sitios de noticias.",
+      "why_memeable": "La narrativa es sobre las mejores monedas de meme para comprar, lo que es fácilmente compartible y recordable.",
+      "category": "monedas de meme",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XRP",
+        "MEMETORO",
+        "SOLANA",
+        "BINANCE"
+      ],
+      "key_terms_for_dex_search": [
+        "monedas de meme",
+        "2026",
+        "XRP",
+        "MemeToro",
+        "Solana",
+        "Binance"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-25T09:38:06.883239+00:00",
+      "expires_at": "2026-06-28T09:38:06.883239+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2549",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f4d2e6bcf834",
+      "fingerprint": "f4d2e6bcf834",
+      "narrative_summary": "Un terremoto de magnitud 6.9 golpea al norte de Japón, causando daños y heridos.",
+      "why_memeable": "La narrativa cuenta con una imagen icónica (el terremoto) y un título impactante, lo que la hace fácilmente compartible y recordable.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JAPÓNTERREMOTO",
+        "TERREMOTO6.9",
+        "DESASTRENATURALEZA"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "Japón",
+        "desastre natural",
+        "daños",
+        "heridos"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-25T09:40:25.961356+00:00",
+      "expires_at": "2026-06-28T09:40:25.961356+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Magnitude 6.9 earthquake strikes northern Japan",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-25T05:52:53.368132+00:00"
+  "last_updated": "2026-06-25T09:40:25.961356+00:00"
 }
