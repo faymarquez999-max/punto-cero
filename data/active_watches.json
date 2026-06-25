@@ -1,188 +1,6 @@
 {
   "watches": [
     {
-      "id": "84a21928a373",
-      "fingerprint": "84a21928a373",
-      "narrative_summary": "Hay varios incendios forestales reportados en California el 13 de junio, incluyendo uno en Humboldt County",
-      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica asociada (incendios forestales) que puede ser capturada en una frase corta",
-      "category": "noticias de incendios forestales en California",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "CALIFORNIA_FIRE",
-        "HUMBOLDT_COUNTY_FIRE",
-        "LOS_ANGELES_COUNTY_FIRE"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios forestales",
-        "California",
-        "Humboldt County",
-        "Los Angeles County"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-13T16:13:13.889461+00:00",
-      "expires_at": "2026-06-15T16:13:13.889461+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Breaking: Norton Fire reported in Humboldt County on June 13 - Sacramento Bee",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-06-15T16:35:42.429311+00:00"
-    },
-    {
-      "id": "ccea76816dd8",
-      "fingerprint": "ccea76816dd8",
-      "narrative_summary": "Beijing expresa su disconformidad con la decisión del Pentágono contra las principales empresas tecnológicas chinas.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre dos actores poderosos (China y el Pentágono) y un tema de interés general (tecnología y política).",
-      "category": "Política Internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CHINAVSPENTAGON",
-        "TECHWARS",
-        "BEIJINGDISSATISFIED"
-      ],
-      "key_terms_for_dex_search": [
-        "China",
-        "Pentágono",
-        "tecnología",
-        "política"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T17:51:23.652556+00:00",
-      "expires_at": "2026-06-15T17:51:23.652556+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SWIFT",
-        "name": "SWIFT CHINA",
-        "mint": "9yAEwDQPrhLiZaKHeyU5q9GYmBLKtxvywjbqSJYqUvv6",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 81913.0,
-        "liquidity_usd": 136557.15,
-        "price_usd": 8.191e-05,
-        "volume_h24": 1359601.2,
-        "volume_h1": 1359601.2,
-        "volume_m5": 299695.85,
-        "price_change_5m": 4.51,
-        "price_change_1h": 47.2,
-        "price_change_24h": 47.2,
-        "txns_h1_buys": 1854,
-        "txns_h1_sells": 1074,
-        "created_ts": 1781455329000,
-        "pair_created_at": 1781455329000,
-        "url": "https://dexscreener.com/solana/7ppdityvzct6az4l6miuxa7uvaxmcjj4iu9yendvs24y",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHINA in SWIFT CHINA",
-        "safety_score": 25423,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms - CNBC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "matched_at": "2026-06-14T17:03:08.678853+00:00"
-    },
-    {
-      "id": "9ab070081afe",
-      "fingerprint": "9ab070081afe",
-      "narrative_summary": "Un rescate animal de California se acusa de matar perros para mantener pagos de refugio",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'rescate animal acusado de matar perros'.",
-      "category": "rescate animal, acusación de matar perros",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERROSACRIFICADO",
-        "RESCATEANIMALACUSADO",
-        "PERROSASESINADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "rescate animal",
-        "acusación de matar perros",
-        "perros sacrificados"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-13T21:25:21.540356+00:00",
-      "expires_at": "2026-06-16T21:25:21.540356+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 17,
-      "expired_at": "2026-06-16T22:21:58.819288+00:00"
-    },
-    {
       "id": "7130ef816372",
       "fingerprint": "7130ef816372",
       "narrative_summary": "Anthropic deshabilita modelos de inteligencia artificial de alto nivel después de una orden de los EE. UU. que limita el acceso extranjero",
@@ -9258,7 +9076,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3957782e4d01",
@@ -9303,7 +9121,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3189b6d6044f",
@@ -9707,14 +9525,15 @@
       "started_at": "2026-06-22T23:28:27.232884+00:00",
       "expires_at": "2026-06-24T23:28:27.232884+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-25T01:31:11.858072+00:00"
     },
     {
       "id": "89e6d733dd21",
@@ -9753,14 +9572,15 @@
       "started_at": "2026-06-22T23:29:21.371028+00:00",
       "expires_at": "2026-06-24T23:29:21.371028+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Video shows deadly shooting in Montreal, Canada",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-25T01:31:11.858085+00:00"
     },
     {
       "id": "4b4729772903",
@@ -9880,7 +9700,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3c6584e715c6",
@@ -9926,7 +9746,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9056a9c0a6ed",
@@ -10193,7 +10013,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6332a70096ae",
@@ -10241,7 +10061,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b475b482277f",
@@ -10363,7 +10183,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1cde0e90a3d4",
@@ -10407,7 +10227,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1acf39ee1320",
@@ -10452,7 +10272,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "011090e42044",
@@ -10496,7 +10316,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a9a0c0fccdfc",
@@ -10540,7 +10360,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c4882bd9297d",
@@ -10659,7 +10479,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e06e8c3799e0",
@@ -10779,7 +10599,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f2b9fdcaf3f2",
@@ -10829,7 +10649,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d3ab7e876076",
@@ -10877,7 +10697,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d3a61029583b",
@@ -10992,7 +10812,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f8282680a107",
@@ -11107,7 +10927,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1b106c946408",
@@ -11151,7 +10971,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "57e86b7c9e9d",
@@ -11201,7 +11021,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bd700fbd8757",
@@ -11251,7 +11071,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cac907b07f41",
@@ -11369,7 +11189,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7368042478b9",
@@ -11418,7 +11238,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "12d7f47fab70",
@@ -11467,7 +11287,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ff52e9370cd6",
@@ -11514,7 +11334,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d231be66f5d2",
@@ -11552,14 +11372,46 @@
       "started_at": "2026-06-24T18:16:33.521802+00:00",
       "expires_at": "2026-06-26T18:16:33.521802+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "WENDYS",
+        "name": "WENDYS COIN",
+        "mint": "9xRZgabPKGBteGgnsoMHpXrd3NpKZ1uaYwKTd3gLpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 28259.0,
+        "liquidity_usd": 14169.05,
+        "price_usd": 2.827e-05,
+        "volume_h24": 123725.19,
+        "volume_h1": 2469.76,
+        "volume_m5": 25.42,
+        "price_change_5m": -1.68,
+        "price_change_1h": -19.56,
+        "price_change_24h": 799.0,
+        "txns_h1_buys": 41,
+        "txns_h1_sells": 43,
+        "created_ts": 1773438095000,
+        "pair_created_at": 1773438095000,
+        "url": "https://dexscreener.com/solana/9uur4daahrtqe3ln3sfqbfdhdeyph1rxh75iruvsuyal",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: WENDYS==WENDYS",
+        "safety_score": 1034,
+        "safety_risks": [
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Wendy's stock swept up in meme-like rally after viral Reddit post, leadership hire - Yahoo Finance",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T01:35:49.928717+00:00"
     },
     {
       "id": "bb09d6b17658",
@@ -11597,14 +11449,41 @@
       "started_at": "2026-06-24T18:17:17.261592+00:00",
       "expires_at": "2026-06-26T18:17:17.261592+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TRENCHES",
+        "name": "Trenches Tokens",
+        "mint": "3NMQuwg7WGqzqjqwUnR3Ciwo3AoVE39yYQnTqK49pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 63179.0,
+        "liquidity_usd": 19899.44,
+        "price_usd": 6.318e-05,
+        "volume_h24": 36913.23,
+        "volume_h1": 227.14,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -4.27,
+        "price_change_24h": 22.02,
+        "txns_h1_buys": 3,
+        "txns_h1_sells": 6,
+        "created_ts": 1781815300000,
+        "pair_created_at": 1781815300000,
+        "url": "https://dexscreener.com/solana/ybusfawsgapiar4emnv2sg1v3o8sowmacypjznpygrt",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TREN in TRENCHES TOKENS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Train passed red signal before fatal crash, says report",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T01:35:52.785120+00:00"
     },
     {
       "id": "bee91e668ac2",
@@ -11648,8 +11527,195 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "5dd0e66bc9f7",
+      "fingerprint": "5dd0e66bc9f7",
+      "narrative_summary": "Dos terremotos fuertes sacuden a Venezuela, causando derrumbes en la capital Caracas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y la imagen de derrumbes en Caracas es icónica.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "#TERREMOTOSDEVENEZUELA",
+        "#CARACASDERRIBA",
+        "#DESASTRENATURAL"
+      ],
+      "key_terms_for_dex_search": [
+        "terremotos",
+        "Venezuela",
+        "Caracas",
+        "derrumbes",
+        "desastre natural"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-25T01:31:57.918680+00:00",
+      "expires_at": "2026-06-28T01:31:57.918680+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "VENEZUELA",
+        "name": "Pray For Venezuela",
+        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 10446.0,
+        "liquidity_usd": 7062.73,
+        "price_usd": 1.044e-05,
+        "volume_h24": 30532.08,
+        "volume_h1": 7869.93,
+        "volume_m5": 257.63,
+        "price_change_5m": 13.93,
+        "price_change_1h": -22.49,
+        "price_change_24h": -63.08,
+        "txns_h1_buys": 142,
+        "txns_h1_sells": 110,
+        "created_ts": 1782345357000,
+        "pair_created_at": 1782345357000,
+        "url": "https://dexscreener.com/solana/8896ybl1z2yeb3ksmx3xekzgxwpckapjf56pmzszntem",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: VENEZUELA in PRAY FOR VENEZUELA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Venezuela rocked by powerful back-to-back earthquakes - The Guardian",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T01:35:56.116031+00:00"
+    },
+    {
+      "id": "6a5ea7d0cb7b",
+      "fingerprint": "6a5ea7d0cb7b",
+      "narrative_summary": "Un terremoto de 7.1 grados sacude Venezuela, causando daños generalizados y evacuaciones.",
+      "why_memeable": "La narrativa tiene un impacto visual fuerte gracias a la imagen del terremoto y la evacuación. Además, es un evento reciente y de gran magnitud, lo que lo hace más interesante para compartir.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TERREMOTO",
+        "VENEZUELA",
+        "SACUDIDO"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "victimas",
+        "evacuaciones",
+        "daños"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-25T01:32:31.480191+00:00",
+      "expires_at": "2026-06-28T01:32:31.480191+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "VENEZUELA",
+        "name": "Pray For Venezuela",
+        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 10446.0,
+        "liquidity_usd": 7062.73,
+        "price_usd": 1.044e-05,
+        "volume_h24": 30532.08,
+        "volume_h1": 7869.93,
+        "volume_m5": 257.63,
+        "price_change_5m": 13.93,
+        "price_change_1h": -22.49,
+        "price_change_24h": -63.08,
+        "txns_h1_buys": 142,
+        "txns_h1_sells": 110,
+        "created_ts": 1782345357000,
+        "pair_created_at": 1782345357000,
+        "url": "https://dexscreener.com/solana/8896ybl1z2yeb3ksmx3xekzgxwpckapjf56pmzszntem",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: VENEZUELA==VENEZUELA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Watch: Moment quake shakes Venezuela, causing widespread damage and evacuations",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-25T01:35:57.613923+00:00"
+    },
+    {
+      "id": "b1dbe1a2bbd0",
+      "fingerprint": "b1dbe1a2bbd0",
+      "narrative_summary": "Elon Musk recomienda 'Try Grok' en Twitter, generando gran interés",
+      "why_memeable": "Frase breve y memorable recomendada por una figura influyente",
+      "category": "Tecnología y redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRY",
+        "GROK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "try",
+        "grok"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 5,
+        "polarizing": 2,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-25T01:33:39.407346+00:00",
+      "expires_at": "2026-06-27T01:33:39.407346+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Try Grok",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-24T18:18:05.403480+00:00"
+  "last_updated": "2026-06-25T01:35:57.613933+00:00"
 }

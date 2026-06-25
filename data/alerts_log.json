@@ -19672,6 +19672,103 @@
           "VOTOVSTRUMP"
         ]
       }
+    },
+    {
+      "ts": "2026-06-25T01:31:58.270297+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5dd0e66bc9f7",
+        "score": 91,
+        "category": "Desastres naturales",
+        "title": "Venezuela rocked by powerful back-to-back earthquakes - The Guardian",
+        "candidate_tickers": [
+          "#TERREMOTOSDEVENEZUELA",
+          "#CARACASDERRIBA",
+          "#DESASTRENATURAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-25T01:32:31.849388+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6a5ea7d0cb7b",
+        "score": 78,
+        "category": "desastres naturales",
+        "title": "Watch: Moment quake shakes Venezuela, causing widespread damage and evacuations",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "VENEZUELA",
+          "SACUDIDO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-25T01:33:39.845091+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b1dbe1a2bbd0",
+        "score": 82,
+        "category": "Tecnología y redes sociales",
+        "title": "Try Grok",
+        "candidate_tickers": [
+          "TRY",
+          "GROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-25T01:33:58.733339+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Starlink",
+        "candidate_tickers": [
+          "Starlink",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-25T01:35:49.933553+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d231be66f5d2",
+        "ticker": "WENDYS",
+        "mint": "9xRZgabPKGBteGgnsoMHpXrd3NpKZ1uaYwKTd3gLpump",
+        "mc": 28259.0
+      }
+    },
+    {
+      "ts": "2026-06-25T01:35:52.789852+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bb09d6b17658",
+        "ticker": "TRENCHES",
+        "mint": "3NMQuwg7WGqzqjqwUnR3Ciwo3AoVE39yYQnTqK49pump",
+        "mc": 63179.0
+      }
+    },
+    {
+      "ts": "2026-06-25T01:35:56.120903+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5dd0e66bc9f7",
+        "ticker": "VENEZUELA",
+        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
+        "mc": 10446.0
+      }
+    },
+    {
+      "ts": "2026-06-25T01:35:57.618714+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6a5ea7d0cb7b",
+        "ticker": "VENEZUELA",
+        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
+        "mc": 10446.0
+      }
     }
   ]
 }
