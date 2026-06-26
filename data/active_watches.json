@@ -1,129 +1,6 @@
 {
   "watches": [
     {
-      "id": "a114eb6465ba",
-      "fingerprint": "a114eb6465ba",
-      "narrative_summary": "Oliver Tree, cantante de 32 años, ha fallecido en un accidente de helicóptero en Brasil.",
-      "why_memeable": "La noticia es impactante y fácil de entender, con un título claro y conciso que puede generar un gran interés y engagement en las redes sociales.",
-      "category": "Celebridad/Música",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "TREE32",
-        "OLIVER",
-        "HELICOPTERCRASH",
-        "BRAZILTRAGEDY",
-        "MUSICIANLOST"
-      ],
-      "key_terms_for_dex_search": [
-        "Oliver Tree",
-        "helicóptero",
-        "accidente",
-        "Brasil",
-        "música"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-14T20:09:47.904823+00:00",
-      "expires_at": "2026-06-17T20:09:47.904823+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Oliver",
-        "name": "RIP Oliver Tree",
-        "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 44394.0,
-        "liquidity_usd": 15484.04,
-        "price_usd": 4.44e-05,
-        "volume_h24": 638345.33,
-        "volume_h1": 71479.16,
-        "volume_m5": 2693.21,
-        "price_change_5m": 24.01,
-        "price_change_1h": -27.6,
-        "price_change_24h": 62.32,
-        "txns_h1_buys": 987,
-        "txns_h1_sells": 728,
-        "created_ts": 1781457864000,
-        "pair_created_at": 1781457864000,
-        "url": "https://dexscreener.com/solana/cqnvvyt49zyfrstugaswp2gvjkanbbh7svhtf9iccsei",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: OLIVER==OLIVER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Oliver Tree has reportedly died at the age of 32.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-14T20:14:02.064382+00:00"
-    },
-    {
-      "id": "52f348d6c1aa",
-      "fingerprint": "52f348d6c1aa",
-      "narrative_summary": "Senador Mitch McConnell hospitalizado, según su equipo",
-      "why_memeable": "La narrativa tiene un elemento de sorpresa y un personaje público importante",
-      "category": "Politica",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MCCONNELLHOSPITALIZADO",
-        "MCCONNELLENELHOSPITAL",
-        "HOSPITALIZADOMCCONNELL"
-      ],
-      "key_terms_for_dex_search": [
-        "McConnell",
-        "hospitalizado",
-        "politica",
-        "actualidad"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T20:10:01.288783+00:00",
-      "expires_at": "2026-06-16T20:10:01.288783+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Sen. Mitch McConnell hospitalized, his team says - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-16T22:21:58.819317+00:00"
-    },
-    {
       "id": "6e632fe74874",
       "fingerprint": "6e632fe74874",
       "narrative_summary": "Las fuerzas británicas detienen un supuesto barco de sombra ruso en el Canal de la Mancha",
@@ -9239,14 +9116,15 @@
       "started_at": "2026-06-23T15:45:09.656204+00:00",
       "expires_at": "2026-06-26T15:45:09.656204+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-06-26T16:24:42.817131+00:00"
     },
     {
       "id": "c4882bd9297d",
@@ -11864,7 +11742,101 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "9d03a5059fa7",
+      "fingerprint": "9d03a5059fa7",
+      "narrative_summary": "Un avión Boeing 777 hizo un paso extremadamente bajo en un aeropuerto de Texas, lo que generó un video viral y está siendo investigado por la FAA.",
+      "why_memeable": "La combinación de un evento inusual y peligroso con la presencia de un video viral y la participación de la FAA ofrece una mezcla emocional, visual y culturalmente resonante.",
+      "category": "incidentes aéreos",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "LOWPASS",
+        "BOEING777",
+        "TEXASFLYBY",
+        "FAAPROBE",
+        "VIRALFLIGHT"
+      ],
+      "key_terms_for_dex_search": [
+        "Boeing 777",
+        "Texas",
+        "FAA",
+        "viral video",
+        "low pass"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-26T16:26:28.889804+00:00",
+      "expires_at": "2026-06-29T16:26:28.889804+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Texas",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a73268f2e97d",
+      "fingerprint": "a73268f2e97d",
+      "narrative_summary": "Un avión pequeño se estrella en el edificio más alto de Beijing, causando daños y pánico",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase ('avión se estrella en edificio más alto de Beijing')",
+      "category": "accidente aéreo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BEIJINGCRASH",
+        "AVIÓNCAEENEDIFICIO",
+        "CRASHENEDIFICIO"
+      ],
+      "key_terms_for_dex_search": [
+        "Beijing",
+        "crash",
+        "avión",
+        "edificio",
+        "accidente"
+      ],
+      "score": 86,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-26T16:27:33.934056+00:00",
+      "expires_at": "2026-06-28T16:27:33.934056+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-26T08:40:58.302900+00:00"
+  "last_updated": "2026-06-26T16:27:33.934056+00:00"
 }
