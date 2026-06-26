@@ -20727,6 +20727,62 @@
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 289247.0
       }
+    },
+    {
+      "ts": "2026-06-26T08:36:25.425844+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3ae5c087169d",
+        "score": 80,
+        "category": "Noticias de tecnología y ley",
+        "title": "Texas",
+        "candidate_tickers": [
+          "MUSKTX",
+          "TWTRCASE",
+          "TEXASLAW",
+          "ELONVSTWTR",
+          "MUSKLOSES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-26T08:38:36.077879+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "216fafab8721",
+        "score": 74,
+        "category": "política",
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "candidate_tickers": [
+          "TRUMPVSNPS",
+          "REFLECTINGPOOLGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-26T08:39:11.928767+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8531b57fe730",
+        "score": 78,
+        "category": "crimen animal",
+        "title": "WBRC Exclusive: Charges dropped in Homewood animal cruelty case - WBRC",
+        "candidate_tickers": [
+          "ANIMALESDESAPARECIDOS",
+          "CASOCALIFORNIANO",
+          "CRUELDADANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-26T08:40:58.309427+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3ae5c087169d",
+        "ticker": "Elon Musk",
+        "mint": "2iJWDBhFnek5hkUjUDqaCMdfZCYA4DWcaCVSNusWw4n7",
+        "mc": 22979.0
+      }
     }
   ]
 }

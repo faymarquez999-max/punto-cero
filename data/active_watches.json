@@ -1,180 +1,6 @@
 {
   "watches": [
     {
-      "id": "f77748300a98",
-      "fingerprint": "f77748300a98",
-      "narrative_summary": "Israel ataca objetivos de Hezbollah en los suburbios del sur de Beirut",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: Israel ataca a Hezbollah en Beirut.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAEL",
-        "HEZBOLLAH",
-        "BEIRUT",
-        "ATTACK"
-      ],
-      "key_terms_for_dex_search": [
-        "ISRAEL",
-        "HEZBOLLAH",
-        "BEIRUT",
-        "ATTACK",
-        "NOTICIAS INTERNACIONALES"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T18:23:07.346323+00:00",
-      "expires_at": "2026-06-16T18:23:07.346323+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CIA",
-        "name": "CENTRAL ISRAELI AGENCY",
-        "mint": "DZKVMJ8Leg1VKS1sPApPr2ffq2mi56gy7iur9iDa7JMf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 282370.0,
-        "liquidity_usd": 83994.12,
-        "price_usd": 0.0002823,
-        "volume_h24": 4806489.16,
-        "volume_h1": 1332038.59,
-        "volume_m5": 85103.0,
-        "price_change_5m": 16.07,
-        "price_change_1h": 141.0,
-        "price_change_24h": 3908.0,
-        "txns_h1_buys": 1811,
-        "txns_h1_sells": 1756,
-        "created_ts": 1781544782000,
-        "pair_created_at": 1781544782000,
-        "url": "https://dexscreener.com/solana/6lnetwfrui6eqov1txaiqvmkeyfvlvcgwcuztvgscfem",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISRAEL in CENTRAL ISRAELI AGENCY",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "matched_at": "2026-06-15T20:23:36.956346+00:00"
-    },
-    {
-      "id": "3af64d2cbdc3",
-      "fingerprint": "3af64d2cbdc3",
-      "narrative_summary": "Las fuerzas británicas han interceptado y secuestrado un supuesto buque petrolero ruso en el Canal de la Mancha.",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La imagen de un buque petrolero siendo interceptado es icónica y fácil de compartir.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSSIA",
-        "UK",
-        "BUQUEPETROLERO",
-        "CANALDELMANCHA"
-      ],
-      "key_terms_for_dex_search": [
-        "russia",
-        "uk",
-        "buquepetrolero",
-        "canal de la mancha"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T18:23:34.348812+00:00",
-      "expires_at": "2026-06-16T18:23:34.348812+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-16T22:21:58.819312+00:00"
-    },
-    {
-      "id": "74d3627ab592",
-      "fingerprint": "74d3627ab592",
-      "narrative_summary": "Elon Musk comparte un enigmático tweet con una pregunta sobre si alguien fue herido",
-      "why_memeable": "La pregunta 'Did he stab someone?' es breve y fácil de compartir, y la ambigüedad del contexto la hace interesante",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ELONSTAB",
-        "STABMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "stáb",
-        "tweet"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 8
-      },
-      "started_at": "2026-06-14T18:24:58.590211+00:00",
-      "expires_at": "2026-06-16T18:24:58.590211+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Did he stab someone ?",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-16T22:21:58.819315+00:00"
-    },
-    {
       "id": "a114eb6465ba",
       "fingerprint": "a114eb6465ba",
       "narrative_summary": "Oliver Tree, cantante de 32 años, ha fallecido en un accidente de helicóptero en Brasil.",
@@ -9058,7 +8884,7 @@
       "started_at": "2026-06-23T05:55:02.142923+00:00",
       "expires_at": "2026-06-26T05:55:02.142923+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
@@ -9067,7 +8893,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-26T08:36:16.999202+00:00"
     },
     {
       "id": "6332a70096ae",
@@ -9106,7 +8933,7 @@
       "started_at": "2026-06-23T05:55:04.588980+00:00",
       "expires_at": "2026-06-26T05:55:04.588980+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -9115,7 +8942,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-26T08:36:16.999218+00:00"
     },
     {
       "id": "b475b482277f",
@@ -9275,14 +9103,15 @@
       "started_at": "2026-06-23T05:58:24.561237+00:00",
       "expires_at": "2026-06-26T05:58:24.561237+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Bullying investigated after rare Philippines school shooting kills three",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-26T08:36:16.999222+00:00"
     },
     {
       "id": "1acf39ee1320",
@@ -9417,7 +9246,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c4882bd9297d",
@@ -10173,7 +10002,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "bd700fbd8757",
@@ -10223,7 +10052,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "cac907b07f41",
@@ -10417,7 +10246,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "12d7f47fab70",
@@ -10466,7 +10295,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ff52e9370cd6",
@@ -10513,7 +10342,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d231be66f5d2",
@@ -10706,7 +10535,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5dd0e66bc9f7",
@@ -11104,7 +10933,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f056611e109d",
@@ -11152,7 +10981,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ee88958b5a46",
@@ -11293,7 +11122,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8ee8b6dcee23",
@@ -11414,7 +11243,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "caf755cc9996",
@@ -11603,7 +11432,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6dde2eb3cfaa",
@@ -11649,7 +11478,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2f81106a9760",
@@ -11765,7 +11594,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "be31fcd40ec0",
@@ -11815,7 +11644,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8676f52797dc",
@@ -11860,8 +11689,182 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "3ae5c087169d",
+      "fingerprint": "3ae5c087169d",
+      "narrative_summary": "Un juez deniega la solicitud de Elon Musk de trasladar un caso de Twitter desde Washington a Texas",
+      "why_memeable": "La combinación de Elon Musk, una figura polarizante, con un caso legal controvertido y la mención a Texas, ofrece una mezcla de ingredientes meméticos",
+      "category": "Noticias de tecnología y ley",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKTX",
+        "TWTRCASE",
+        "TEXASLAW",
+        "ELONVSTWTR",
+        "MUSKLOSES"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "Texas",
+        "ley",
+        "caso legal"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-26T08:36:24.929129+00:00",
+      "expires_at": "2026-06-29T08:36:24.929129+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Elon Musk",
+        "name": "Elon Musk",
+        "mint": "2iJWDBhFnek5hkUjUDqaCMdfZCYA4DWcaCVSNusWw4n7",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 22979.0,
+        "liquidity_usd": 32782.37,
+        "price_usd": 2.297e-05,
+        "volume_h24": 789315.53,
+        "volume_h1": 207049.43,
+        "volume_m5": 19650.16,
+        "price_change_5m": -31.51,
+        "price_change_1h": -27.99,
+        "price_change_24h": 98.04,
+        "txns_h1_buys": 1067,
+        "txns_h1_sells": 1013,
+        "created_ts": 1782448988000,
+        "pair_created_at": 1782448988000,
+        "url": "https://dexscreener.com/solana/jdvrnzymg8trvtey8sg4mzy6fiftxmhjp4zg3kupfqpj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "Texas",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-26T08:40:58.302880+00:00"
+    },
+    {
+      "id": "216fafab8721",
+      "fingerprint": "216fafab8721",
+      "narrative_summary": "El National Park Service dice que el liner del Reflecting Pool fue cortado con una navaja afilada o un cuchillo",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y un elemento de conflicto entre la versión de Donald Trump y la versión del National Park Service",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSNPS",
+        "REFLECTINGPOOLGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "NPS",
+        "ReflectingPool",
+        "gash",
+        "fertiliser"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-26T08:38:35.638576+00:00",
+      "expires_at": "2026-06-28T08:38:35.638576+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "8531b57fe730",
+      "fingerprint": "8531b57fe730",
+      "narrative_summary": "Un caso de crueldad animal en California con 700 animales desaparecidos",
+      "why_memeable": "La combinación de animales desaparecidos y una investigación en curso hace que sea fácilmente compartible y recordable",
+      "category": "crimen animal",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ANIMALESDESAPARECIDOS",
+        "CASOCALIFORNIANO",
+        "CRUELDADANIMAL"
+      ],
+      "key_terms_for_dex_search": [
+        "AnimalesDesaparecidos",
+        "CasoCaliforniano",
+        "CrueldadAnimal"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-06-26T08:39:11.492080+00:00",
+      "expires_at": "2026-06-28T08:39:11.492080+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "WBRC Exclusive: Charges dropped in Homewood animal cruelty case - WBRC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-26T04:59:22.236730+00:00"
+  "last_updated": "2026-06-26T08:40:58.302900+00:00"
 }
