@@ -1,249 +1,6 @@
 {
   "watches": [
     {
-      "id": "6e632fe74874",
-      "fingerprint": "6e632fe74874",
-      "narrative_summary": "Las fuerzas británicas detienen un supuesto barco de sombra ruso en el Canal de la Mancha",
-      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica, lo que la hace fácilmente compartible y recordable",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSSIA",
-        "UK",
-        "CHANNEL",
-        "SHADOWFLEET"
-      ],
-      "key_terms_for_dex_search": [
-        "russia",
-        "uk",
-        "english channel",
-        "shadow fleet",
-        "injustice"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 10
-      },
-      "started_at": "2026-06-14T20:10:31.865800+00:00",
-      "expires_at": "2026-06-16T20:10:31.865800+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "devann",
-        "name": "dev.fun announcement channel",
-        "mint": "DCXqS9xMQqoD2cRpqvyu2TxpherRwtd2UDHLKTk7pump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 15132.0,
-        "liquidity_usd": 15307.29,
-        "price_usd": 1.662e-05,
-        "volume_h24": 16948.5,
-        "volume_h1": 12.02,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.86,
-        "price_change_24h": 3.98,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1736844766000,
-        "pair_created_at": 1736844766000,
-        "url": "https://dexscreener.com/solana/6zh31nwjzenwcat6mm7mn8sqe5q5tf453swfpks8cvt7",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHANNEL in DEV.FUN ANNOUNCEMENT CHANNEL",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-06-15T20:23:41.583387+00:00"
-    },
-    {
-      "id": "a77fe69e257c",
-      "fingerprint": "a77fe69e257c",
-      "narrative_summary": "Elon Musk anuncia 'They will' sin contexto, provocando gran interés",
-      "why_memeable": "Frase corta y misteriosa de Elon Musk, fácil de compartir y repetir",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "THEYWILL",
-        "ELONMUSK",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "XCANCEL",
-        "TheyWill"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T20:11:35.108813+00:00",
-      "expires_at": "2026-06-16T20:11:35.108813+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ElonMusk",
-        "name": "Elon Musk",
-        "mint": "ETDK2uZv8ffFnUvBZa4EVZAU4jYxJJLQaBot4sNG2BAf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 80956.0,
-        "liquidity_usd": 57157.58,
-        "price_usd": 8.095e-05,
-        "volume_h24": 3905481.94,
-        "volume_h1": 1371771.79,
-        "volume_m5": 105662.03,
-        "price_change_5m": -8.61,
-        "price_change_1h": -26.16,
-        "price_change_24h": 1178.0,
-        "txns_h1_buys": 1947,
-        "txns_h1_sells": 1910,
-        "created_ts": 1781492330000,
-        "pair_created_at": 1781492330000,
-        "url": "https://dexscreener.com/solana/fomjjjfuhyg9rbzce98fm1tciigcu7xkq3ks6quvvobb",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELONMUSK==ELONMUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "They will",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-15T05:47:05.769767+00:00"
-    },
-    {
-      "id": "2bff7798f3b3",
-      "fingerprint": "2bff7798f3b3",
-      "narrative_summary": "Elon Musk comparte un 'wow' en Twitter, generando gran atención",
-      "why_memeable": "La brevedad y simplicidad de la frase 'Wow' lo convierten en un meme potencial",
-      "category": "Memes de Twitter",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELONWOW"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 2,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T20:12:24.414930+00:00",
-      "expires_at": "2026-06-16T20:12:24.414930+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-16T22:21:58.819320+00:00"
-    },
-    {
-      "id": "657ebd96a8d7",
-      "fingerprint": "657ebd96a8d7",
-      "narrative_summary": "Avión se estrella en Missouri, matando a 12 personas",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y una imagen icónica",
-      "category": "accidentes aéreos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MISSOURICRASH",
-        "AVIÓNCAÍDO",
-        "12MUERTOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Missouri",
-        "avión",
-        "crash",
-        "muertos"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-14T21:45:55.098941+00:00",
-      "expires_at": "2026-06-16T21:45:55.098941+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Twelve people killed in Missouri plane crash, state highway patrol says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-16T22:21:58.819322+00:00"
-    },
-    {
       "id": "7a37908724cb",
       "fingerprint": "7a37908724cb",
       "narrative_summary": "Elon Musk publicó 'Wow' en Twitter, generando gran interés y engagement.",
@@ -9880,7 +9637,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "bd700fbd8757",
@@ -9930,7 +9687,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "cac907b07f41",
@@ -10124,7 +9881,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "12d7f47fab70",
@@ -10165,7 +9922,7 @@
       "started_at": "2026-06-24T18:14:39.079034+00:00",
       "expires_at": "2026-06-26T18:14:39.079034+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed notthebee.com/t23da",
       "cluster_sources": [
@@ -10173,7 +9930,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-27T07:40:11.794517+00:00"
     },
     {
       "id": "ff52e9370cd6",
@@ -10212,7 +9970,7 @@
       "started_at": "2026-06-24T18:15:13.404445+00:00",
       "expires_at": "2026-06-26T18:15:13.404445+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "UK TEMPERATURE BREAKS RECORD FOR JUNE, HITS 35.7 CELSIUS IN SOUTHERN ENGLAND - BBC",
       "cluster_sources": [
@@ -10220,7 +9978,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-27T07:40:11.794529+00:00"
     },
     {
       "id": "d231be66f5d2",
@@ -10406,14 +10165,15 @@
       "started_at": "2026-06-24T18:18:05.403480+00:00",
       "expires_at": "2026-06-26T18:18:05.403480+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Man falls to his death during rock concert at Madison Square Garden - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-27T07:40:11.794533+00:00"
     },
     {
       "id": "5dd0e66bc9f7",
@@ -10805,13 +10565,14 @@
       "started_at": "2026-06-25T05:52:53.368132+00:00",
       "expires_at": "2026-06-27T05:52:53.368132+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Migrants film themselves beating French boy into coma (he died) notthebee.com/article/migran…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-27T07:40:11.794536+00:00"
     },
     {
       "id": "f056611e109d",
@@ -10859,7 +10620,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ee88958b5a46",
@@ -11000,7 +10761,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8ee8b6dcee23",
@@ -11121,7 +10882,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "caf755cc9996",
@@ -11310,7 +11071,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6dde2eb3cfaa",
@@ -11349,14 +11110,51 @@
       "started_at": "2026-06-25T21:21:10.929027+00:00",
       "expires_at": "2026-06-27T21:21:10.929027+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "6BYHd92WVvTv27yBcUoW4upMxVJ3GhLzutZe1gkQk8hU",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 86114.0,
+        "liquidity_usd": 142279.7,
+        "price_usd": 8.611e-05,
+        "volume_h24": 13912406.36,
+        "volume_h1": 1117616.34,
+        "volume_m5": 73895.32,
+        "price_change_5m": 1.35,
+        "price_change_1h": 9.06,
+        "price_change_24h": 141.0,
+        "txns_h1_buys": 5539,
+        "txns_h1_sells": 2437,
+        "created_ts": 1782530407000,
+        "pair_created_at": 1782530407000,
+        "url": "https://dexscreener.com/solana/d5scsree73uqwzcte7iecr1kntyrv3nonkayr8g9vavn",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11500,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Exclusive | Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait - WSJ",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-27T07:45:28.787459+00:00"
     },
     {
       "id": "2f81106a9760",
@@ -11472,7 +11270,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "be31fcd40ec0",
@@ -11522,7 +11320,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8676f52797dc",
@@ -11561,13 +11359,14 @@
       "started_at": "2026-06-26T04:58:41.200074+00:00",
       "expires_at": "2026-06-27T04:58:41.200074+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "POLL…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-06-27T07:40:11.794541+00:00"
     },
     {
       "id": "3ae5c087169d",
@@ -11697,7 +11496,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8531b57fe730",
@@ -11741,7 +11540,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9d03a5059fa7",
@@ -11789,7 +11588,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a73268f2e97d",
@@ -11835,8 +11634,224 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "477a87770e90",
+      "fingerprint": "477a87770e90",
+      "narrative_summary": "Tensión entre EE.UU. e Irán después de ataques en el Golfo de Omán y represalias militares",
+      "why_memeable": "La situación geopolítica tensa y las represalias militares ofrecen un escenario dramático y polarizador",
+      "category": "Geopolítica y conflicto",
+      "matched_archetype": "conspiración/leak",
+      "candidate_tickers": [
+        "IRANUS",
+        "GOLFO",
+        "OMANCRISIS",
+        "IRANGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Irán",
+        "EE.UU.",
+        "Golfo de Omán",
+        "ataques",
+        "represalias"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-27T07:40:12.812148+00:00",
+      "expires_at": "2026-06-30T07:40:12.812148+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Meet Chauntyll Allen, a school board member at @SPPS_News .",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6305b920f232",
+      "fingerprint": "6305b920f232",
+      "narrative_summary": "Elon Musk y Donald Trump están involucrados en una disputa pública que ha generado interés en las redes sociales.",
+      "why_memeable": "La disputa entre dos figuras públicas conocidas y la posibilidad de que Trump esté en los archivos de Epstein ofrecen un alto potencial para la creación de memes.",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TRUMPFEUD",
+        "ELONVSTRUMP",
+        "EPSTEINGATE",
+        "MUSKVSALL"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "Epstein",
+        "Disputa pública",
+        "Celebridades"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-06-27T07:40:14.517446+00:00",
+      "expires_at": "2026-06-30T07:40:14.517446+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "So many such stories that were suppressed by the legacy mainstream media …",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "83ef3882db55",
+      "fingerprint": "83ef3882db55",
+      "narrative_summary": "El partido Restore Britain anuncia que abolirá el sistema de asilo en su totalidad, generando un gran debate en las redes sociales.",
+      "why_memeable": "La noticia es impactante y fácil de entender, con un titular claro y conciso que puede ser compartido rápidamente en las redes sociales.",
+      "category": "Política y sociedad",
+      "matched_archetype": "injusticia_with_villain_and_victim",
+      "candidate_tickers": [
+        "RESTORE",
+        "ASYLUM",
+        "REFUGE",
+        "BRIT"
+      ],
+      "key_terms_for_dex_search": [
+        "asilo",
+        "restaurar",
+        "Reino Unido",
+        "sistema de asilo"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-27T07:40:15.857623+00:00",
+      "expires_at": "2026-06-30T07:40:15.857623+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BRITAIN",
+        "name": "Restore Britain",
+        "mint": "7tNviT7hyPL8ZBxd68rMZ12TMDyUXmeSpHQruzLepump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 39087.0,
+        "liquidity_usd": 18200.13,
+        "price_usd": 3.908e-05,
+        "volume_h24": 6008.93,
+        "volume_h1": 153.94,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.35,
+        "price_change_24h": -11.5,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1771058269000,
+        "pair_created_at": 1771058269000,
+        "url": "https://dexscreener.com/solana/gseychbyfk7nykcznzymdgncxtuuy9qdqnbfqqqvzjr6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: RESTORE in RESTORE BRITAIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Restore Britain will abolish the entire asylum system.",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-27T07:45:37.932979+00:00"
+    },
+    {
+      "id": "5e1ede567a6c",
+      "fingerprint": "5e1ede567a6c",
+      "narrative_summary": "Alleged ringleader de un esquema de fraude en Minnesota arrestado con ayuda de inteligencia somalí. Se encuentran restos de perros muertos en un rescate en California.",
+      "why_memeable": "La historia involucra a perros muertos, fraude y arrestos, lo que la hace interesante y fácil de compartir.",
+      "category": "noticias de crimen y fraude",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOGSOFFRAUD",
+        "PERROSMUERTOS",
+        "FRAUD"
+      ],
+      "key_terms_for_dex_search": [
+        "perros muertos",
+        "fraude",
+        "arrestos",
+        "California"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 6,
+        "simplicity": 4,
+        "velocity": 8
+      },
+      "started_at": "2026-06-27T07:42:18.861770+00:00",
+      "expires_at": "2026-06-29T07:42:18.861770+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Somali intelligence helps US arrest alleged ringleader of Minnesota fraud",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-26T16:27:33.934056+00:00"
+  "last_updated": "2026-06-27T07:45:37.932996+00:00"
 }
