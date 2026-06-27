@@ -1,260 +1,6 @@
 {
   "watches": [
     {
-      "id": "57cad8df0ce7",
-      "fingerprint": "57cad8df0ce7",
-      "narrative_summary": "Tesla presentó datos de seguridad engañosos sobre su tecnología de conducción autónoma a reguladores europeos.",
-      "why_memeable": "La noticia combina un tema de interés general (tecnología de conducción autónoma) con una acusación de engaño, lo que puede generar indignación y discusión.",
-      "category": "Tecnología y regulación",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TESLADECEP",
-        "AUTOENGANO",
-        "TSLAFSD"
-      ],
-      "key_terms_for_dex_search": [
-        "Tesla",
-        "conducción autónoma",
-        "engaño",
-        "reguladores europeos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T11:38:05.900600+00:00",
-      "expires_at": "2026-06-18T11:38:05.900600+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tesla",
-        "name": "Tesla",
-        "mint": "5HiLzdECz24or6LJ4xjU77W29uqCA5FvKow8pe2vaDSt",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 19024.0,
-        "liquidity_usd": 21641.65,
-        "price_usd": 1.902e-05,
-        "volume_h24": 212794.42,
-        "volume_h1": 212794.42,
-        "volume_m5": 89924.44,
-        "price_change_5m": -1.11,
-        "price_change_1h": 150.0,
-        "price_change_24h": 150.0,
-        "txns_h1_buys": 1002,
-        "txns_h1_sells": 599,
-        "created_ts": 1781704721000,
-        "pair_created_at": 1781704721000,
-        "url": "https://dexscreener.com/solana/2cmxxaanbtuuywaavn3ndeuvng5py2hep38f33tis9zx",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TESLA in TESLA",
-        "safety_score": 21501,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low Amount of holders",
-            "level": "warn",
-            "description": "Not many holders are holding the token"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "matched_at": "2026-06-17T14:10:00.707895+00:00"
-    },
-    {
-      "id": "b2586abb7e72",
-      "fingerprint": "b2586abb7e72",
-      "narrative_summary": "El hijo mayor de la princesa heredera de Noruega es condenado a 4 años de prisión por violación",
-      "why_memeable": "La noticia involucra a una figura real, un delito grave y una sentencia de prisión, lo que puede generar un gran impacto emocional y una discusión polarizada",
-      "category": "Noticias reales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NOR4",
-        "ROYALRAPE",
-        "CROWNCRIME",
-        "PRINCE4",
-        "VIOLACIONREAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Noruega",
-        "princesa heredera",
-        "condenado",
-        "violación",
-        "prisión"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T11:38:26.825886+00:00",
-      "expires_at": "2026-06-18T11:38:26.825886+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Eldest son of Norway’s crown princess sentenced to 4 years in prison for rape - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-18T20:36:27.702517+00:00"
-    },
-    {
-      "id": "05cd8294ecef",
-      "fingerprint": "05cd8294ecef",
-      "narrative_summary": "Elon Musk twitea 'True' y recibe una gran cantidad de engagement",
-      "why_memeable": "La simplicidad y la claridad de la frase 'True' hacen que sea fácilmente compartible y memeable",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSKTWEET"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "tweeter"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-15T11:39:34.576326+00:00",
-      "expires_at": "2026-06-16T11:39:34.576326+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-16T22:21:58.819326+00:00"
-    },
-    {
-      "id": "d151c03c83cf",
-      "fingerprint": "d151c03c83cf",
-      "narrative_summary": "Muere Al-Qaqa Ibn Antar en caída de 400 pies en un cráter volcánico, mientras que se informa que se firmó un pacto entre EE. UU. e Irán que podría aumentar el tráfico en el Estrecho de Hormuz.",
-      "why_memeable": "La caída de 400 pies de Al-Qaqa Ibn Antar es un evento dramático y visualmente atractivo, mientras que el pacto entre EE. UU. e Irán es un tema político controvertido que podría generar polarización.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ALQAQA",
-        "SPIDERMAN",
-        "HORMUZ",
-        "IRAN",
-        "EEUU"
-      ],
-      "key_terms_for_dex_search": [
-        "AlQaqa",
-        "SpiderMan",
-        "Hormuz",
-        "Iran",
-        "EEUU"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-15T16:36:32.084700+00:00",
-      "expires_at": "2026-06-17T16:36:32.084700+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HORMUZ",
-        "name": "Strait of Hormuz",
-        "mint": "AxctaLp54N156rBfmMWLCxxu77rEWizGNQmeX6LLpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 12022.0,
-        "liquidity_usd": 9743.88,
-        "price_usd": 1.202e-05,
-        "volume_h24": 8886.19,
-        "volume_h1": 76.27,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.84,
-        "price_change_24h": -23.3,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1772384151000,
-        "pair_created_at": 1772384151000,
-        "url": "https://dexscreener.com/solana/7gyaywufvrcqxu1fqxgnvgxvpbp7dydx4yrhyfvyjqgj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: HORMUZ==HORMUZ",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-15T20:23:48.579586+00:00"
-    },
-    {
       "id": "519d6a83e974",
       "fingerprint": "519d6a83e974",
       "narrative_summary": "El hijo de la princesa heredera de Noruega, Marius Borg Høiby, ha sido declarado culpable de dos cargos de violación y condenado a cuatro años de prisión.",
@@ -9307,7 +9053,7 @@
       "started_at": "2026-06-24T18:14:23.639086+00:00",
       "expires_at": "2026-06-27T18:14:23.639086+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
@@ -9316,7 +9062,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-27T18:56:34.358413+00:00"
     },
     {
       "id": "12d7f47fab70",
@@ -11789,7 +11536,184 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "30c61cbe4ab4",
+      "fingerprint": "30c61cbe4ab4",
+      "narrative_summary": "El gobierno de EE. UU. permite la liberación parcial del modelo de inteligencia artificial \"Mythos\" de Anthropic.",
+      "why_memeable": "La narrativa tiene un núcleo fácil de capturar (liberación parcial de un modelo de IA) y puede ser compartida sin contexto.",
+      "category": "Tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "MYTHOS",
+        "IA",
+        "LIBERACIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "Mythos",
+        "IA",
+        "Liberación",
+        "EE. UU."
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-27T18:57:44.892862+00:00",
+      "expires_at": "2026-06-30T18:57:44.892862+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6be5fae3a123",
+      "fingerprint": "6be5fae3a123",
+      "narrative_summary": "Elon Musk comparte una frase viral 'Exactly' en Nitter, generando gran atención.",
+      "why_memeable": "La frase 'Exactly' es corta y fácil de compartir, y su origen en una figura pública como Elon Musk la hace más relevante.",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "EXACTLY",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "EXACTLY",
+        "NITTER"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-27T18:58:33.897262+00:00",
+      "expires_at": "2026-06-29T18:58:33.897262+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exactly",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "11aad8be4543",
+      "fingerprint": "11aad8be4543",
+      "narrative_summary": "Un hombre de 21 años, un afgano, es sospechoso de haber cometido abusos sexuales contra al menos cuatro niñas de 12 a 14 años en un centro de natación en Alemania.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano y víctimas inocentes, lo que la hace fácilmente compartible y recordable.",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AFGHANABUSER",
+        "GMÜNDGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "afghano",
+        "abuso sexual",
+        "niñas",
+        "Alemania",
+        "crimen"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 0,
+        "simplicity": 4,
+        "velocity": 10
+      },
+      "started_at": "2026-06-27T18:59:03.685008+00:00",
+      "expires_at": "2026-06-30T18:59:03.685008+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0c5e89a27d93",
+      "fingerprint": "0c5e89a27d93",
+      "narrative_summary": "Un terremoto poderoso se siente en Kabul y el norte de Pakistán, causando una gran atención.",
+      "why_memeable": "La narrativa tiene un título claro y un tema impactante, además de un gran número de engagement.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KABULSHAKE",
+        "PAKISTANQUAKE"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "kabul",
+        "pakistan",
+        "desastre"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-27T18:59:19.267311+00:00",
+      "expires_at": "2026-06-29T18:59:19.267311+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "POWERFUL EARTHQUAKE FELT IN KABUL AND NORTHERN PAKISTAN",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-27T14:58:38.944025+00:00"
+  "last_updated": "2026-06-27T18:59:19.267311+00:00"
 }
