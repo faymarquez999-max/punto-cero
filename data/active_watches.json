@@ -1,338 +1,6 @@
 {
   "watches": [
     {
-      "id": "16384b92301b",
-      "fingerprint": "16384b92301b",
-      "narrative_summary": "Elon Musk compara el grupo de chat X con la conversación de la humanidad en su conjunto.",
-      "why_memeable": "La frase es corta y fácil de recordar, y tiene un tono de provocación que puede generar interés.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XCHAT",
-        "HUMANITYCHAT",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Xchat",
-        "ElonMusk",
-        "humanity"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-15T00:22:54.710483+00:00",
-      "expires_at": "2026-06-17T00:22:54.710483+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ElonMusk",
-        "name": "Elon Musk",
-        "mint": "ETDK2uZv8ffFnUvBZa4EVZAU4jYxJJLQaBot4sNG2BAf",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 80956.0,
-        "liquidity_usd": 57157.58,
-        "price_usd": 8.095e-05,
-        "volume_h24": 3905481.94,
-        "volume_h1": 1371771.79,
-        "volume_m5": 105662.03,
-        "price_change_5m": -8.61,
-        "price_change_1h": -26.16,
-        "price_change_24h": 1178.0,
-        "txns_h1_buys": 1947,
-        "txns_h1_sells": 1910,
-        "created_ts": 1781492330000,
-        "pair_created_at": 1781492330000,
-        "url": "https://dexscreener.com/solana/fomjjjfuhyg9rbzce98fm1tciigcu7xkq3ks6quvvobb",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELONMUSK==ELONMUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "𝕏 is the group chat of humanity",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-15T05:47:12.353355+00:00"
-    },
-    {
-      "id": "2c65e6c9ffcb",
-      "fingerprint": "2c65e6c9ffcb",
-      "narrative_summary": "Trump hace un comentario polémico sobre la izquierda radical en Navidad, generando una gran cantidad de engagement en las redes sociales.",
-      "why_memeable": "La narrativa es memeable debido a la naturaleza polémica y controvertida del comentario de Trump, que puede ser resumido en una frase corta y repetida.",
-      "category": "política",
-      "matched_archetype": "polarizing_figure_drama",
-      "candidate_tickers": [
-        "TRUMPXMAS",
-        "RADICALLEFT",
-        "MERRYTRUMP",
-        "TRUMPSCROOGE",
-        "XMASCHAOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Navidad",
-        "izquierda radical",
-        "política",
-        "EEUU"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-15T05:42:37.760740+00:00",
-      "expires_at": "2026-06-18T05:42:37.760740+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-18T07:14:18.050912+00:00"
-    },
-    {
-      "id": "53811e055732",
-      "fingerprint": "53811e055732",
-      "narrative_summary": "El cantante estadounidense Oliver Tree murió en un accidente de helicóptero en Brasil.",
-      "why_memeable": "La noticia de la muerte de una figura pública en un accidente inesperado puede generar un gran impacto emocional y ser fácilmente compartida y recordada.",
-      "category": "accidente aéreo",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "TREECRASH",
-        "OLIVERTREE",
-        "HELICOPTERCRASH",
-        "BRAZILACCIDENT",
-        "OLIVERHELICOPTER"
-      ],
-      "key_terms_for_dex_search": [
-        "Oliver Tree",
-        "helicóptero",
-        "accidente",
-        "Brasil",
-        "muerte"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T05:42:40.299274+00:00",
-      "expires_at": "2026-06-18T05:42:40.299274+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Oliver",
-        "name": "RIP Oliver Tree",
-        "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 37745.0,
-        "liquidity_usd": 14869.7,
-        "price_usd": 3.775e-05,
-        "volume_h24": 806478.45,
-        "volume_h1": 15600.4,
-        "volume_m5": 328.14,
-        "price_change_5m": -0.24,
-        "price_change_1h": 39.02,
-        "price_change_24h": 38.01,
-        "txns_h1_buys": 198,
-        "txns_h1_sells": 129,
-        "created_ts": 1781457864000,
-        "pair_created_at": 1781457864000,
-        "url": "https://dexscreener.com/solana/cqnvvyt49zyfrstugaswp2gvjkanbbh7svhtf9iccsei",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OLIVER TREE in RIP OLIVER TREE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-15T05:47:16.396381+00:00"
-    },
-    {
-      "id": "95dfa9eb2c37",
-      "fingerprint": "95dfa9eb2c37",
-      "narrative_summary": "Elon Musk anuncia su deseo de tener un refugio volcánico, lo que genera interés y especulación.",
-      "why_memeable": "La frase 'Time to get that volcano lair I’ve always wanted' es fácil de recordar y compartir.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "VOLCANOLAIR",
-        "BBB",
-        "BEYOND",
-        "ELONLAIR"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "volcano lair",
-        "BBB",
-        "Beyond"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-15T05:44:19.732419+00:00",
-      "expires_at": "2026-06-17T05:44:19.732419+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "VOLCANO",
-        "name": "volcano lair",
-        "mint": "C8v4PHPeAmJdXnxJbUYR68sTrwKv3cPNxkeeMAPY4iwc",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 39943.0,
-        "liquidity_usd": 58352.56,
-        "price_usd": 3.994e-05,
-        "volume_h24": 537576.68,
-        "volume_h1": 537576.68,
-        "volume_m5": 110346.15,
-        "price_change_5m": 7.26,
-        "price_change_1h": 87.05,
-        "price_change_24h": 87.05,
-        "txns_h1_buys": 1350,
-        "txns_h1_sells": 1160,
-        "created_ts": 1781500974000,
-        "pair_created_at": 1781500974000,
-        "url": "https://dexscreener.com/solana/9rlekwuhtx1hxpuo9pdrooqwm79nb5mrd9zo114wkoyz",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: VOLCANO LAIR in VOLCANO LAIR",
-        "safety_score": 11501,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Time to get that volcano lair I’ve always wanted.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-15T05:47:18.440272+00:00"
-    },
-    {
-      "id": "3d7a97376413",
-      "fingerprint": "3d7a97376413",
-      "narrative_summary": "Elon Musk publicó 'True' en Twitter, generando gran interés y debate",
-      "why_memeable": "La simplicidad y la claridad de la frase 'True' la hacen fácilmente compartible y recordable",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONTRUE",
-        "TRUEMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "twitter"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-15T05:44:47.275500+00:00",
-      "expires_at": "2026-06-16T05:44:47.275500+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-16T06:13:01.042147+00:00"
-    },
-    {
       "id": "57cad8df0ce7",
       "fingerprint": "57cad8df0ce7",
       "narrative_summary": "Tesla presentó datos de seguridad engañosos sobre su tecnología de conducción autónoma a reguladores europeos.",
@@ -9648,7 +9316,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "12d7f47fab70",
@@ -10387,7 +10055,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ee88958b5a46",
@@ -10528,7 +10196,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8ee8b6dcee23",
@@ -10649,7 +10317,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "caf755cc9996",
@@ -10838,7 +10506,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6dde2eb3cfaa",
@@ -11037,7 +10705,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "be31fcd40ec0",
@@ -11087,7 +10755,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8676f52797dc",
@@ -11263,7 +10931,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8531b57fe730",
@@ -11307,7 +10975,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9d03a5059fa7",
@@ -11355,7 +11023,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a73268f2e97d",
@@ -11401,7 +11069,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "477a87770e90",
@@ -11450,7 +11118,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6305b920f232",
@@ -11499,7 +11167,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "83ef3882db55",
@@ -11617,7 +11285,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9c243ef8d69a",
@@ -11663,7 +11331,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "96721f163dab",
@@ -11700,13 +11368,40 @@
       "started_at": "2026-06-27T13:02:40.984742+00:00",
       "expires_at": "2026-06-28T13:02:40.984742+00:00",
       "duration_hours": 24,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 308997.0,
+        "liquidity_usd": 92771.26,
+        "price_usd": 0.000309,
+        "volume_h24": 6463.27,
+        "volume_h1": 845.91,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.89,
+        "price_change_24h": 4.75,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 9,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-27T14:58:33.629227+00:00"
     },
     {
       "id": "64256e124674",
@@ -11743,13 +11438,40 @@
       "started_at": "2026-06-27T13:03:07.368973+00:00",
       "expires_at": "2026-06-29T13:03:07.368973+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 308997.0,
+        "liquidity_usd": 92771.26,
+        "price_usd": 0.000309,
+        "volume_h24": 6463.27,
+        "volume_h1": 845.91,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.89,
+        "price_change_24h": 4.75,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 9,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Exactly",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-27T14:58:34.788705+00:00"
     },
     {
       "id": "ac044845a3a9",
@@ -11794,8 +11516,280 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "c832b442a750",
+      "fingerprint": "c832b442a750",
+      "narrative_summary": "La Corte Suprema de EE. UU. permite que la administración de Trump termine las protecciones legales para haitianos y sirios.",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un componente de injusticia, lo que la hace fácilmente compartible y recordable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TPS",
+        "HAITI",
+        "EEUU",
+        "SUPREMACORTE"
+      ],
+      "key_terms_for_dex_search": [
+        "TPS",
+        "Haiti",
+        "EEUU",
+        "SupremaCorte"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-27T14:55:46.875619+00:00",
+      "expires_at": "2026-06-29T14:55:46.875619+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "d0d3a5b7b2dd",
+      "fingerprint": "d0d3a5b7b2dd",
+      "narrative_summary": "Elon Musk sugiere un nombre para la autoridad reguladora de la industria del AI: AI Associated Institute of America, Inc o AIAIAI.",
+      "why_memeable": "La propuesta de nombre es absurda y fácil de recordar, con un nombre que se puede pronunciar de manera divertida.",
+      "category": "Tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "AIAIAI",
+        "AIREGULATOR"
+      ],
+      "key_terms_for_dex_search": [
+        "AIAIAI",
+        "AIRegulator",
+        "ElonMusk",
+        "Regulación",
+        "AI"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-27T14:57:10.552851+00:00",
+      "expires_at": "2026-06-29T14:57:10.552851+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "AIAIAI",
+        "name": "AIAssociatedInstituteofAmerica",
+        "mint": "AVPJS61gZmWKtaEpb7qYPKo8Fk2xQUsayYQxPiPMpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 32523.0,
+        "liquidity_usd": 16669.61,
+        "price_usd": 3.67e-05,
+        "volume_h24": 56693.26,
+        "volume_h1": 1766.2,
+        "volume_m5": 128.07,
+        "price_change_5m": -2.23,
+        "price_change_1h": -19.19,
+        "price_change_24h": -34.24,
+        "txns_h1_buys": 14,
+        "txns_h1_sells": 48,
+        "created_ts": 1782371663000,
+        "pair_created_at": 1782371663000,
+        "url": "https://dexscreener.com/solana/46ihtqjkskmdic66vextecoyukoa82t5ycg86c7e9rqk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: AIAIAI==AIAIAI",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Potential name for the AI industry regulatory authority:",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-27T14:58:37.475129+00:00"
+    },
+    {
+      "id": "9fc135283cb4",
+      "fingerprint": "9fc135283cb4",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención",
+      "why_memeable": "La simplicidad y la claridad de la frase 'True' la hacen fácilmente compartible y memeable",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TICKER_ELON",
+        "TICKER_TRUE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-27T14:57:31.663243+00:00",
+      "expires_at": "2026-06-28T14:57:31.663243+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "aea8bf032a9d",
+      "fingerprint": "aea8bf032a9d",
+      "narrative_summary": "Elon Musk publica un tweet con la palabra 'Exactly' y genera mucha atención",
+      "why_memeable": "La palabra 'Exactly' es corta y fácil de recordar, y el contexto de que es un tweet de Elon Musk lo hace especialmente interesante",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ELON",
+        "EXACTLY"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "EXACTLY",
+        "TWEET"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-27T14:57:51.934033+00:00",
+      "expires_at": "2026-06-29T14:57:51.934033+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 308997.0,
+        "liquidity_usd": 92771.26,
+        "price_usd": 0.000309,
+        "volume_h24": 6463.27,
+        "volume_h1": 845.91,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.89,
+        "price_change_24h": 4.75,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 9,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Exactly",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-27T14:58:38.944002+00:00"
+    },
+    {
+      "id": "f1ce16c58b82",
+      "fingerprint": "f1ce16c58b82",
+      "narrative_summary": "Un niño de 13 años, Leonie, fue asesinado por tres afganos en una comunidad en Viena, cinco años después, se descubrió que un afgano de 21 años cometió abusos sexuales a cuatro niñas en un balneario.",
+      "why_memeable": "La narrativa es memeable porque involucra a menores de edad y abusos sexuales, lo que genera una fuerte carga emocional y resuena culturalmente.",
+      "category": "Abusos sexuales y asesinatos de menores de edad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LEONIE",
+        "AFGHANABUSER",
+        "BALNEARIOABUSO"
+      ],
+      "key_terms_for_dex_search": [
+        "abusos sexuales",
+        "menores de edad",
+        "afganos",
+        "balneario"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-06-27T14:58:17.625510+00:00",
+      "expires_at": "2026-06-30T14:58:17.625510+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Heute vor fünf Jahren, am 26. Juni 2021 fand man in Wien am frühen Morgen ein totes Mädchen auf der Straße. Leonie war gerade einmal 13 Jahre alt, als sie von drei Afghanen in einer Gemeindewohnung erst mit Drogen vollgepumpt und dann von a",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-27T13:03:30.910294+00:00"
+  "last_updated": "2026-06-27T14:58:38.944025+00:00"
 }
