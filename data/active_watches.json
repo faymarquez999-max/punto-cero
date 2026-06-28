@@ -1,285 +1,6 @@
 {
   "watches": [
     {
-      "id": "0daeec341233",
-      "fingerprint": "0daeec341233",
-      "narrative_summary": "Nvidia anuncia aumento de $25 mil millones en su primera venta de bonos corporativos en cinco años",
-      "why_memeable": "La noticia de Nvidia es memeable debido a la cantidad de dinero involucrada y la importancia de la empresa en el sector tecnológico",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "NVIDIA",
-        "ILUVATAR",
-        "BYTEDANCE"
-      ],
-      "key_terms_for_dex_search": [
-        "NVIDIA",
-        "ILUVATAR",
-        "BYTEDANCE",
-        "bonos corporativos",
-        "venta de bonos"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-15T20:19:49.402176+00:00",
-      "expires_at": "2026-06-17T20:19:49.402176+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Nvidia to raise $25 billion, sources say, in first corporate bond sale in five years - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-17T21:48:47.127693+00:00"
-    },
-    {
-      "id": "a096fbf378fb",
-      "fingerprint": "a096fbf378fb",
-      "narrative_summary": "El futbolista español Rafa Mir condenado a 8 años y medio de prisión por agresión sexual.",
-      "why_memeable": "La condena de Rafa Mir es un evento impactante y controvertido que puede generar un gran interés y debate.",
-      "category": "Deporte/Justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RAFAMIR",
-        "FUTBOLISTACONDENADO",
-        "AGRESIONSEXUAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Rafa Mir",
-        "agresión sexual",
-        "condena",
-        "futbolista"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T20:20:38.118608+00:00",
-      "expires_at": "2026-06-17T20:20:38.118608+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Soccer Spanish striker Rafa Mir sentenced to 8 1/2 years in jail for sexual assault - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-17T21:48:47.127707+00:00"
-    },
-    {
-      "id": "92d1add519f3",
-      "fingerprint": "92d1add519f3",
-      "narrative_summary": "Elon Musk comparte un título 'This is nuts' en Twitter, generando mucha atención.",
-      "why_memeable": "La frase 'This is nuts' es corta, fácil de recordar y tiene un tono absurdo.",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "THISISNUTS",
-        "ELONMUSKNUTS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "nutter",
-        "thisisnuts"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-15T20:21:06.217502+00:00",
-      "expires_at": "2026-06-22T20:21:06.217502+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 63775.0,
-        "liquidity_usd": 23233.81,
-        "price_usd": 6.377e-05,
-        "volume_h24": 257789.18,
-        "volume_h1": 7531.83,
-        "volume_m5": 626.77,
-        "price_change_5m": -4.93,
-        "price_change_1h": -12.69,
-        "price_change_24h": -26.39,
-        "txns_h1_buys": 2926,
-        "txns_h1_sells": 1830,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "This is nuts",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 11,
-      "matched_at": "2026-06-18T20:40:48.163256+00:00"
-    },
-    {
-      "id": "6f7aa9907522",
-      "fingerprint": "6f7aa9907522",
-      "narrative_summary": "La congresista que sabe exactamente cómo ir viral",
-      "why_memeable": "Frase corta y memorable, congresista y viralidad",
-      "category": "política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "EXACTLY",
-        "VIRALCONGRESISTA",
-        "CONGRESISTAVIRAL"
-      ],
-      "key_terms_for_dex_search": [
-        "congresista",
-        "viral",
-        "política"
-      ],
-      "score": 92,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T22:37:43.112633+00:00",
-      "expires_at": "2026-06-17T22:37:43.112633+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Exactly",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-17T23:46:25.747432+00:00"
-    },
-    {
-      "id": "d438ec06a4fb",
-      "fingerprint": "d438ec06a4fb",
-      "narrative_summary": "Un bombardero B-52 de la Fuerza Aérea de EE. UU. se estrella en California, dejando 8 personas muertas.",
-      "why_memeable": "La noticia es impactante y fácil de compartir debido a la gravedad del accidente y la participación de la Fuerza Aérea de EE. UU.",
-      "category": "Accidentes de avión",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "B52CRASH",
-        "CALIFORNIACRASH",
-        "FUERZAAEREAEEUU"
-      ],
-      "key_terms_for_dex_search": [
-        "B52",
-        "crash",
-        "California",
-        "FuerzaAereaEEUU"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 6,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-15T22:38:04.066105+00:00",
-      "expires_at": "2026-06-17T22:38:04.066105+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Crashout",
-        "name": "Crashout",
-        "mint": "6JGSHS9GrE9uG8ix63w3DPMYHrgrJ6J4QyHbBhAepump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 71622.0,
-        "liquidity_usd": 39148.63,
-        "price_usd": 7.162e-05,
-        "volume_h24": 8962.74,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -0.95,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1728588072000,
-        "pair_created_at": 1728588072000,
-        "url": "https://dexscreener.com/solana/8guix1wqrn8usufml54drhcclxlytudstkewhowdd2ms",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CRASH in CRASHOUT",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Eight feared dead after US Air Force B-52 bomber crashes in California",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-06-17T05:12:26.165298+00:00"
-    },
-    {
       "id": "f38301512106",
       "fingerprint": "f38301512106",
       "narrative_summary": "Profesor condenado por abusar sexualmente y asesinar a su bebé adoptado",
@@ -9532,7 +9253,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ee88958b5a46",
@@ -9673,7 +9394,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "8ee8b6dcee23",
@@ -9794,7 +9515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "caf755cc9996",
@@ -9974,8 +9695,39 @@
       "started_at": "2026-06-25T21:20:57.181120+00:00",
       "expires_at": "2026-06-28T21:20:57.181120+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BENEFITS",
+        "name": "Asylum Seekers",
+        "mint": "Hrzay8wre3MtiQm2RcDBn3UpuRa2rj9q6YBnKFupump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 251571.0,
+        "liquidity_usd": 36937.89,
+        "price_usd": 0.0002515,
+        "volume_h24": 7541.44,
+        "volume_h1": 4511.89,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 7.42,
+        "price_change_24h": 29.89,
+        "txns_h1_buys": 5,
+        "txns_h1_sells": 17,
+        "created_ts": 1774544963000,
+        "pair_created_at": 1774544963000,
+        "url": "https://dexscreener.com/solana/2hez9gbjsn4wncaq5e9j1qydav6vq6gsjbfxgtbdlhtx",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ASYLUM in ASYLUM SEEKERS",
+        "safety_score": 2301,
+        "safety_risks": [
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          }
+        ]
+      },
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
         "4chan",
@@ -9983,7 +9735,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-28T04:31:14.269157+00:00"
     },
     {
       "id": "6dde2eb3cfaa",
@@ -10182,7 +9935,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "be31fcd40ec0",
@@ -10232,7 +9985,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8676f52797dc",
@@ -10408,7 +10161,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8531b57fe730",
@@ -10452,7 +10205,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9d03a5059fa7",
@@ -10500,7 +10253,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a73268f2e97d",
@@ -10546,7 +10299,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "477a87770e90",
@@ -10595,7 +10348,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6305b920f232",
@@ -10644,7 +10397,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "83ef3882db55",
@@ -10762,7 +10515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9c243ef8d69a",
@@ -10808,7 +10561,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "96721f163dab",
@@ -10993,7 +10746,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c832b442a750",
@@ -11039,7 +10792,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d0d3a5b7b2dd",
@@ -11152,7 +10905,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "aea8bf032a9d",
@@ -11265,7 +11018,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "30c61cbe4ab4",
@@ -11305,14 +11058,41 @@
       "started_at": "2026-06-27T18:57:44.892862+00:00",
       "expires_at": "2026-06-30T18:57:44.892862+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ANTH",
+        "name": "Anthropic",
+        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 204207.0,
+        "liquidity_usd": 34926.51,
+        "price_usd": 0.0002042,
+        "volume_h24": 7422.31,
+        "volume_h1": 2850.88,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 20.48,
+        "price_change_24h": 25.64,
+        "txns_h1_buys": 12,
+        "txns_h1_sells": 3,
+        "created_ts": 1780168240000,
+        "pair_created_at": 1780168240000,
+        "url": "https://dexscreener.com/solana/bmjrgxumzdnbhpxfbkezf2poc4fyuryunkfkeqbqratr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-28T04:31:30.812793+00:00"
     },
     {
       "id": "6be5fae3a123",
@@ -11349,13 +11129,40 @@
       "started_at": "2026-06-27T18:58:33.897262+00:00",
       "expires_at": "2026-06-29T18:58:33.897262+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 287959.0,
+        "liquidity_usd": 88355.81,
+        "price_usd": 0.000288,
+        "volume_h24": 7175.71,
+        "volume_h1": 6.91,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.28,
+        "price_change_24h": -5.45,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Exactly",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-28T04:31:31.984178+00:00"
     },
     {
       "id": "11aad8be4543",
@@ -11399,7 +11206,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "0c5e89a27d93",
@@ -11442,7 +11249,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1f3d3ffd4181",
@@ -11493,7 +11300,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e969175c7951",
@@ -11540,7 +11347,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f0ff8e0bc9bc",
@@ -11585,7 +11392,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b1f8c25758cf",
@@ -11626,8 +11433,263 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "34138eb29350",
+      "fingerprint": "34138eb29350",
+      "narrative_summary": "Elon Musk y Donald Trump están en el centro de una controversia viral",
+      "why_memeable": "La interacción entre dos figuras públicas prominentes y la naturaleza absurda de la situación",
+      "category": "Política y Celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TRUMPFEUD",
+        "MUSKVS",
+        "TRUMPWARS",
+        "ELONVSTRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "Viral",
+        "Controversia",
+        "Celebridades"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T04:27:35.099326+00:00",
+      "expires_at": "2026-07-01T04:27:35.099326+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Potential name for the AI industry regulatory authority:",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a27c7e20c559",
+      "fingerprint": "a27c7e20c559",
+      "narrative_summary": "Un niño de 1 año es fatalmente baleado por la policía de Mississippi, lo que genera preguntas y reacciones.",
+      "why_memeable": "La noticia es impactante y genera una fuerte carga emocional, lo que puede llevar a una rápida propagación en las redes sociales.",
+      "category": "noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JUSTICE4BABY",
+        "POLICEABUSE",
+        "MISSISSIPPI"
+      ],
+      "key_terms_for_dex_search": [
+        "policía",
+        "niño",
+        "baleado",
+        "Mississippi"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T04:27:36.663683+00:00",
+      "expires_at": "2026-07-01T04:27:36.663683+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Family of 1-year-old boy fatally shot by Mississippi police say goodbye, as questions remain - NBC News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "9ce36fe4b4e9",
+      "fingerprint": "9ce36fe4b4e9",
+      "narrative_summary": "Elon Musk comparte un enlace en Twitter con el título 'Exactly' y obtiene una gran cantidad de engagement.",
+      "why_memeable": "La brevedad y la simplicidad de la frase 'Exactly' hacen que sea fácilmente compartible y memeable.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "EXACTLY",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "xcancel",
+        "twitter",
+        "meme"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T04:28:31.113187+00:00",
+      "expires_at": "2026-06-29T04:28:31.113187+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exactly",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2b4b8d7ca211",
+      "fingerprint": "2b4b8d7ca211",
+      "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando gran interés y debate",
+      "why_memeable": "La frase 'Yes' es corta y fácil de compartir, y el contexto de Elon Musk la hace especialmente viral",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "yes",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 9,
+        "absurdity": 0,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-28T04:28:59.476110+00:00",
+      "expires_at": "2026-06-30T04:28:59.476110+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 287959.0,
+        "liquidity_usd": 88355.81,
+        "price_usd": 0.000288,
+        "volume_h24": 7175.71,
+        "volume_h1": 6.91,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.28,
+        "price_change_24h": -5.45,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-28T04:31:41.039455+00:00"
+    },
+    {
+      "id": "4dc06437a215",
+      "fingerprint": "4dc06437a215",
+      "narrative_summary": "Un 21-año afghano está acusado de abusar sexualmente de al menos 4 niñas de 12 a 14 años en un centro de natación en Alemania.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un elemento de sorpresa y shock.",
+      "category": "Abuso sexual en centro de natación",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AFGHANEABUSOS",
+        "NIÑASABUSADAS",
+        "CENTRODENATACIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "afghano",
+        "abuso",
+        "sexual",
+        "niñas",
+        "centro",
+        "natación"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 5,
+        "velocity": 10
+      },
+      "started_at": "2026-06-28T04:29:23.320169+00:00",
+      "expires_at": "2026-06-30T04:29:23.320169+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-06-27T21:39:59.751012+00:00"
+  "last_updated": "2026-06-28T04:31:41.039477+00:00"
 }
