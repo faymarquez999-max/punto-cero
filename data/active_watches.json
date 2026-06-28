@@ -1,174 +1,6 @@
 {
   "watches": [
     {
-      "id": "e9357eac6397",
-      "fingerprint": "e9357eac6397",
-      "narrative_summary": "SpaceX compra Anysphere por $60 mil millones, superando el capitalización de mercado de Amazon.",
-      "why_memeable": "La compra de Anysphere por $60 mil millones es un evento impactante y sorprendente que puede ser capturado en una frase corta.",
-      "category": "tech",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SPACEXANYS",
-        "ANYSX",
-        "SPACEXBUY"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "Anysphere",
-        "compra",
-        "60 mil millones"
-      ],
-      "score": 90,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-16T11:39:24.124980+00:00",
-      "expires_at": "2026-06-18T11:39:24.124980+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "EAnc2dLzmUjuyvvhx7MLZPDM8tQRq4RDfqdymjNfBAGS",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 157610.0,
-        "liquidity_usd": 5944.97,
-        "price_usd": 0.0001576,
-        "volume_h24": 208117.08,
-        "volume_h1": 372.46,
-        "volume_m5": 65.17,
-        "price_change_5m": -2.83,
-        "price_change_1h": -19.74,
-        "price_change_24h": -53.06,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 9,
-        "created_ts": 1781664818000,
-        "pair_created_at": 1781664818000,
-        "url": "https://dexscreener.com/solana/ejxmgatnxcpf5dcfzmejqodk7paydrs8cpyv5u9ykxwa",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 101,
-        "safety_risks": [
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60 billion - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-06-17T23:51:26.643618+00:00"
-    },
-    {
-      "id": "6cebaade1fd6",
-      "fingerprint": "6cebaade1fd6",
-      "narrative_summary": "India temporalmente bloquea Telegram para abordar fraude en examen médico clave",
-      "why_memeable": "La narrativa es fácil de entender y tiene un título claro, lo que la hace memeable",
-      "category": "noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NEET",
-        "TELEGRAM",
-        "FRAUDE",
-        "EXAMEN MÉDICO"
-      ],
-      "key_terms_for_dex_search": [
-        "Telegram",
-        "fraude",
-        "examen médico",
-        "India"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-16T11:40:32.065381+00:00",
-      "expires_at": "2026-06-18T11:40:32.065381+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-18T20:36:27.702535+00:00"
-    },
-    {
-      "id": "1d96bcaaf2e0",
-      "fingerprint": "1d96bcaaf2e0",
-      "narrative_summary": "Elon Musk comparte un meme divertido en Twitter.",
-      "why_memeable": "La frase 'Indeed 😂' es corta y fácil de recordar, y la emoción del meme es alta.",
-      "category": "meme",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "INDEED",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "indeed",
-        "elonmusk",
-        "meme",
-        "twitter"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-16T11:40:57.685857+00:00",
-      "expires_at": "2026-06-18T11:40:57.685857+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Indeed 😂",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-18T20:36:27.702537+00:00"
-    },
-    {
       "id": "91f929b86ade",
       "fingerprint": "91f929b86ade",
       "narrative_summary": "Elon Musk afirma que la censura siempre viene con la mentira de \"proteger a los niños\"",
@@ -9038,14 +8870,15 @@
       "started_at": "2026-06-25T09:37:19.842902+00:00",
       "expires_at": "2026-06-28T09:37:19.842902+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-28T10:38:07.419098+00:00"
     },
     {
       "id": "ee88958b5a46",
@@ -9179,14 +9012,15 @@
       "started_at": "2026-06-25T09:40:25.961356+00:00",
       "expires_at": "2026-06-28T09:40:25.961356+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Magnitude 6.9 earthquake strikes northern Japan",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-28T10:38:07.419111+00:00"
     },
     {
       "id": "8ee8b6dcee23",
@@ -9946,14 +9780,15 @@
       "started_at": "2026-06-26T08:38:35.638576+00:00",
       "expires_at": "2026-06-28T08:38:35.638576+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-28T10:38:07.419117+00:00"
     },
     {
       "id": "8531b57fe730",
@@ -9990,14 +9825,15 @@
       "started_at": "2026-06-26T08:39:11.492080+00:00",
       "expires_at": "2026-06-28T08:39:11.492080+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "WBRC Exclusive: Charges dropped in Homewood animal cruelty case - WBRC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-28T10:38:07.419120+00:00"
     },
     {
       "id": "9d03a5059fa7",
@@ -11807,7 +11643,141 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "f5b7282eaced",
+      "fingerprint": "f5b7282eaced",
+      "narrative_summary": "Elon Musk afirma que ganar en mercados de cero-suma es malo y ofrece un consejo para ganar",
+      "why_memeable": "La frase 'Yes' es memeable y se puede capturar en una imagen o una palabra. La idea de que ganar en mercados de cero-suma es malo es absurda y polarizante.",
+      "category": "Trading y Finanzas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "YES",
+        "ZEROSUM",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELONMUSK",
+        "ZEROSUM",
+        "TRADING",
+        "WINNING",
+        "EVIL"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T10:39:20.416621+00:00",
+      "expires_at": "2026-06-30T10:39:20.416621+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "4chan",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "fcb5ef11a4b1",
+      "fingerprint": "fcb5ef11a4b1",
+      "narrative_summary": "Un piloto chino confirma la muerte de un piloto que voló un pequeño avión hacia el rascacielos más alto de Pekín.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un elemento de sorpresa y drama.",
+      "category": "accidente aéreo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PEKÍNCRASH",
+        "PILOTOLOCO",
+        "RASCACIELOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Pekín",
+        "rascacielos",
+        "accidente aéreo",
+        "piloto"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T10:40:45.238418+00:00",
+      "expires_at": "2026-06-30T10:40:45.238418+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower - The New York Times",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ebabb7a1706d",
+      "fingerprint": "ebabb7a1706d",
+      "narrative_summary": "Mindestens vier Mädchen wurden in einem Schwimmbad sexuell übergriffen, ein 21-jähriger Afghane ist Tatverdächtig.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano y víctimas, lo que la hace fácilmente compartible y repetible.",
+      "category": "Sexual Übergriffe",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AFGHANTÄTER",
+        "SCHWIMMBADSKANDAL",
+        "MÄDCHENOPFER"
+      ],
+      "key_terms_for_dex_search": [
+        "AfghanTäter",
+        "SchwimmbadSkandal",
+        "MädchenOpfer"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 3,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T10:42:15.773769+00:00",
+      "expires_at": "2026-06-30T10:42:15.773769+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-28T08:10:39.602772+00:00"
+  "last_updated": "2026-06-28T10:42:15.773769+00:00"
 }
