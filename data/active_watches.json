@@ -1,54 +1,6 @@
 {
   "watches": [
     {
-      "id": "7c52439ea5bd",
-      "fingerprint": "7c52439ea5bd",
-      "narrative_summary": "Una madre italiana demanda a Meta y TikTok después de la muerte de su hija.",
-      "why_memeable": "La narrativa tiene un componente emocional fuerte y un tema de justicia, lo que la hace memeable.",
-      "category": "muerte, justicia, tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "METAVSMADRE",
-        "TIKTOKVSMADRE",
-        "JUSTICIAPARAHIJA"
-      ],
-      "key_terms_for_dex_search": [
-        "Meta",
-        "TikTok",
-        "muerte",
-        "justicia",
-        "madre",
-        "hija"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-17T21:52:42.351633+00:00",
-      "expires_at": "2026-06-19T21:52:42.351633+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Italian mother takes on Meta, TikTok after daughter's death - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-19T23:07:38.335020+00:00"
-    },
-    {
       "id": "25822b21e4ed",
       "fingerprint": "25822b21e4ed",
       "narrative_summary": "Senadores republicanos bloquean la demanda de transparencia sobre violaciones de derechos humanos en Honduras",
@@ -9036,14 +8988,15 @@
       "started_at": "2026-06-26T16:27:33.934056+00:00",
       "expires_at": "2026-06-28T16:27:33.934056+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-28T17:22:44.800341+00:00"
     },
     {
       "id": "477a87770e90",
@@ -11809,7 +11762,53 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "e46a1ebc322a",
+      "fingerprint": "e46a1ebc322a",
+      "narrative_summary": "El documental 'Melania' puede llegar a ganar $8 millones en la taquilla, lo que sería el mejor desempeño en una década para un documental.",
+      "why_memeable": "La narrativa tiene un título memorable y un número de dinero significativo ($8 millones) que puede ser compartido fácilmente.",
+      "category": "entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MELANIA",
+        "TAQUILLA",
+        "DOCUMENTAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Melania",
+        "Taquilla",
+        "Documental",
+        "Box Office"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-06-28T17:23:43.880342+00:00",
+      "expires_at": "2026-06-30T17:23:43.880342+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-28T15:59:43.852785+00:00"
+  "last_updated": "2026-06-28T17:23:43.880342+00:00"
 }
