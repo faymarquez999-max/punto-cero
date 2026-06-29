@@ -1,349 +1,6 @@
 {
   "watches": [
     {
-      "id": "504e55dc7e87",
-      "fingerprint": "504e55dc7e87",
-      "narrative_summary": "Ucrania ataca a Moscú con drones, incendiando una refinería en un ataque mayor a la capital rusa.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' con la victoria de Ucrania sobre Rusia, y la imagen de los drones incendiando la refinería es icónica.",
-      "category": " política, guerra",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "MOSCÚ",
-        "DRONES",
-        "REFINERÍA",
-        "RUSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Moscú",
-        "drones",
-        "refinería",
-        "Rusia"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T21:50:33.388800+00:00",
-      "expires_at": "2026-06-21T21:50:33.388800+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-21T22:06:36.699415+00:00"
-    },
-    {
-      "id": "f39b5ada4bac",
-      "fingerprint": "f39b5ada4bac",
-      "narrative_summary": "Elon Musk confirma la verdad en una publicación viral",
-      "why_memeable": "La simplicidad y la claridad de la afirmación hacen que sea fácilmente compartible y recordable",
-      "category": "Tecnología/Noticias",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONTRUTH",
-        "MUSKTURE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "nitter"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T21:51:17.537791+00:00",
-      "expires_at": "2026-06-21T21:51:17.537791+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 32686.0,
-        "liquidity_usd": 16701.29,
-        "price_usd": 3.268e-05,
-        "volume_h24": 99340.97,
-        "volume_h1": 1832.46,
-        "volume_m5": 52.46,
-        "price_change_5m": -0.28,
-        "price_change_1h": 10.32,
-        "price_change_24h": -45.08,
-        "txns_h1_buys": 69,
-        "txns_h1_sells": 28,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-19T21:54:29.656384+00:00"
-    },
-    {
-      "id": "0b9101d15938",
-      "fingerprint": "0b9101d15938",
-      "narrative_summary": "Meloni, la primera ministra de Italia, negó haber pedido una foto a Trump, que afirmó haberla hecho.",
-      "why_memeable": "La narrativa tiene un conflicto entre dos figuras importantes, lo que la hace fácil de compartir y recordar.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MELONIVSTRUMP",
-        "TRUMPMIENTE",
-        "ITALIAVSEEUU"
-      ],
-      "key_terms_for_dex_search": [
-        "Meloni",
-        "Trump",
-        "Italia",
-        "EEUU",
-        "fotos",
-        "política"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T23:09:03.837535+00:00",
-      "expires_at": "2026-06-21T23:09:03.837535+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-21T23:48:31.114051+00:00"
-    },
-    {
-      "id": "e48520dea004",
-      "fingerprint": "e48520dea004",
-      "narrative_summary": "Un juez federal autoriza al Departamento de Justicia a entregar archivos de audio de Biden a la Heritage Foundation",
-      "why_memeable": "La noticia combina un tema político controvertido con la idea de 'audio secreto', lo que puede generar interés y especulación",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BIDENLEAK",
-        "DOJAUDIO",
-        "HERITAGEGATE",
-        "JOELEAKS",
-        "AUDIOGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "Biden",
-        "audio",
-        "DOJ",
-        "Heritage Foundation",
-        "leak"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-19T23:10:01.779994+00:00",
-      "expires_at": "2026-06-22T23:10:01.779994+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HUNTER",
-        "name": "Hunter Biden 2028",
-        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 49279.0,
-        "liquidity_usd": 23408.79,
-        "price_usd": 4.928e-05,
-        "volume_h24": 7682.72,
-        "volume_h1": 358.91,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -5.25,
-        "price_change_24h": -12.59,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 3,
-        "created_ts": 1780392254000,
-        "pair_created_at": 1780392254000,
-        "url": "https://dexscreener.com/solana/hxmuvcxsvvcnpym86a4xtsjxvegvqqbuxopuswr13s6x",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: BIDEN in HUNTER BIDEN 2028",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Federal judge gives DOJ green light to turn Biden’s audio files over to the Heritage Foundation - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T01:38:06.816797+00:00"
-    },
-    {
-      "id": "45eae9e1c6e8",
-      "fingerprint": "45eae9e1c6e8",
-      "narrative_summary": "La narrativa se centra en la popularidad de las monedas de meme en el mercado de criptomonedas, con un enfoque en las monedas más rápidamente crecientes y las más populares en 2026.",
-      "why_memeable": "La narrativa es memeable debido a su enfoque en la popularidad de las monedas de meme, lo que permite a los usuarios compartir y discutir fácilmente sobre el tema.",
-      "category": "criptomonedas",
-      "matched_archetype": "generational_or_nostalgic_trigger",
-      "candidate_tickers": [
-        "XRP",
-        "SUI",
-        "MEMETORO",
-        "BITRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "criptomonedas",
-        "meme coins",
-        "2026",
-        "XRP",
-        "SUI",
-        "MEMETORO",
-        "BITRUE"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-06-20T01:33:43.411234+00:00",
-      "expires_at": "2026-06-23T01:33:43.411234+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214382.0,
-        "liquidity_usd": 134024.88,
-        "price_usd": 1.33,
-        "volume_h24": 61394.93,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -1.27,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 20260,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Copycat token",
-            "level": "warn",
-            "description": "This token is using a verified tokens symbol"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2548",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T01:38:11.758326+00:00"
-    },
-    {
       "id": "1127e8df5ab5",
       "fingerprint": "1127e8df5ab5",
       "narrative_summary": "Elon Musk anuncia que el valor futuro no se medirá en dólares, sino en masa y energía",
@@ -8884,7 +8541,7 @@
       "started_at": "2026-06-27T21:35:09.729795+00:00",
       "expires_at": "2026-06-29T21:35:09.729795+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
       "cluster_sources": [
@@ -8893,7 +8550,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-29T22:18:51.782124+00:00"
     },
     {
       "id": "f0ff8e0bc9bc",
@@ -8931,14 +8589,15 @@
       "started_at": "2026-06-27T21:35:30.317637+00:00",
       "expires_at": "2026-06-29T21:35:30.317637+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Restore Britain will abolish the entire asylum system.",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-29T22:18:51.782137+00:00"
     },
     {
       "id": "b1f8c25758cf",
@@ -11986,7 +11645,226 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "faa79f064415",
+      "fingerprint": "faa79f064415",
+      "narrative_summary": "Una mujer entra en trabajo de parto en el día de la boda de su hermana y envía un mensaje del hospital que deja a la novia en lágrimas.",
+      "why_memeable": "La narrativa tiene un núcleo emocional fuerte y puede ser capturada en una frase corta y memorable.",
+      "category": "Noticias de última hora",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LABORDAY",
+        "SISTERSWEDDING",
+        "BRIDEIN TEARS"
+      ],
+      "key_terms_for_dex_search": [
+        "laborday",
+        "sisterswedding",
+        "bridein tears"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T22:19:37.542567+00:00",
+      "expires_at": "2026-07-01T22:19:37.542567+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Woman Goes Into Labor on Sister's Wedding Day, Then Sends Message from Hospital that Leaves Bride in Tears (Exclusive) - People.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b8c25e90478d",
+      "fingerprint": "b8c25e90478d",
+      "narrative_summary": "iPhone 18 Pro 'drop test' images y lista de partes incluidas en un ataque de ransomware.",
+      "why_memeable": "La narrativa tiene un título claro y una imagen visual que puede ser compartida fácilmente. Además, se trata de un evento sorprendente relacionado con Apple.",
+      "category": "Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "IPHONE18PRO",
+        "A20PRO",
+        "RANSOMWAREAPPLE"
+      ],
+      "key_terms_for_dex_search": [
+        "iPhone18Pro",
+        "A20Pro",
+        "Ransomware",
+        "Apple",
+        "Tecnología"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T22:20:23.357866+00:00",
+      "expires_at": "2026-07-01T22:20:23.357866+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak - Macworld",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "db25c522691c",
+      "fingerprint": "db25c522691c",
+      "narrative_summary": "Escasez de combustible en Rusia debido a ataques ucranianos",
+      "why_memeable": "La narrativa tiene un núcleo claro (escasez de combustible) y es fácil de compartir",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAENFUEGO",
+        "COMBUSTIBLEENRUSIA",
+        "UCRANIAATACA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Combustible",
+        "Escasez",
+        "Ataque"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T22:21:33.914657+00:00",
+      "expires_at": "2026-07-01T22:21:33.914657+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Fuel shortages spread to more parts of Russia as Ukrainian attacks bite - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "40717e56c9b5",
+      "fingerprint": "40717e56c9b5",
+      "narrative_summary": "Elon Musk publica un tweet con la palabra 'True' y alcanza un gran número de engagement",
+      "why_memeable": "La simplicidad de la frase y la figura de Elon Musk la convierten en memeable",
+      "category": "Celebridad y red social",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "tweet"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-06-29T22:22:22.277023+00:00",
+      "expires_at": "2026-06-30T22:22:22.277023+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "34b1e925f272",
+      "fingerprint": "34b1e925f272",
+      "narrative_summary": "Elon Musk publica un breve mensaje 'Yup' que genera gran interés y participación en las redes sociales.",
+      "why_memeable": "La simplicidad y brevedad del mensaje hacen que sea fácilmente compartible y recordable.",
+      "category": "Celebridad en las redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YUP",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "MUSK",
+        "YUP"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 2,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T22:22:50.603905+00:00",
+      "expires_at": "2026-07-01T22:22:50.603905+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yup",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-29T19:13:53.774574+00:00"
+  "last_updated": "2026-06-29T22:22:50.603905+00:00"
 }
