@@ -1,54 +1,6 @@
 {
   "watches": [
     {
-      "id": "c49466cc4d92",
-      "fingerprint": "c49466cc4d92",
-      "narrative_summary": "Ataque de drones ucranianos a refinería en Moscú, causando explosiones y daños",
-      "why_memeable": "La narrativa tiene un componente de guerra, violencia y consecuencias, lo que la hace fácilmente compartible y recordable",
-      "category": "Guerra y conflictos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MOSCOWBURNS",
-        "UKRAINEATTACKS",
-        "DRONESONMOSCOW"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Rusia",
-        "ataque",
-        "drones",
-        "refinería",
-        "Moscú"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-18T20:36:51.497485+00:00",
-      "expires_at": "2026-06-20T20:36:51.497485+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-06-20T20:44:31.415141+00:00"
-    },
-    {
       "id": "4308bc10269c",
       "fingerprint": "4308bc10269c",
       "narrative_summary": "Una mujer de Dothan es acusada de incendio y crueldad animal después de que un incendio mata a un perro.",
@@ -11726,7 +11678,54 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f2cd935c7d42",
+      "fingerprint": "f2cd935c7d42",
+      "narrative_summary": "Elon Musk es acusado de ser un fascista por sugerir que podría \"solucionar el hambre en el mundo\" con 3 billones de dólares, pero MacKenzie Bezos ha gastado 26 billones de dólares y no ha logrado nada.",
+      "why_memeable": "La frase es corta, fácil de recordar y tiene un contenido polémico que puede generar debate.",
+      "category": "política y economía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKVSBEZOS",
+        "FASCISMODEMUSK",
+        "MACKENZIEBEZOS"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "MacKenzieBezos",
+        "hambre en el mundo",
+        "fascismo"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-28T23:57:15.269022+00:00",
+      "expires_at": "2026-06-30T23:57:15.269022+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Everyone tells me that Elon Musk is a fascist because he could \"solve world hunger\" for a mere 3 billion dollars, but MacKenzie Bezos has burned through 26 billion dollars of her ex husband's money and accomplished absolutely nothing of not",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-28T22:51:53.924457+00:00"
+  "last_updated": "2026-06-28T23:57:15.269022+00:00"
 }
