@@ -1,219 +1,6 @@
 {
   "watches": [
     {
-      "id": "4308bc10269c",
-      "fingerprint": "4308bc10269c",
-      "narrative_summary": "Una mujer de Dothan es acusada de incendio y crueldad animal después de que un incendio mata a un perro.",
-      "why_memeable": "La historia involucra a un animal y un acto de crueldad animal, lo que la hace fácilmente memeable.",
-      "category": "crimen y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DOTHANARSON",
-        "CRUELDADANIMAL",
-        "PERROMATA"
-      ],
-      "key_terms_for_dex_search": [
-        "Dothan",
-        "arson",
-        "crueldad animal",
-        "perro",
-        "incendio"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-06-18T20:40:18.948847+00:00",
-      "expires_at": "2026-06-20T20:40:18.948847+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "KANE",
-        "name": "Kane Parsons",
-        "mint": "63ovonhirjczCgLwVhvpVnPmJPZ3x5tNA4ULZzgdpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 19224.0,
-        "liquidity_usd": 9753.15,
-        "price_usd": 1.922e-05,
-        "volume_h24": 10232.35,
-        "volume_h1": 47.33,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.22,
-        "price_change_24h": 23.02,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1780934923000,
-        "pair_created_at": 1780934923000,
-        "url": "https://dexscreener.com/solana/etpf5yt8kymg98jnxstwy9mixeyjytmz79xh9xkg72i4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ARSON in KANE PARSONS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Dothan woman charged with arson, animal cruelty after house fire kills dog - WTVY",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-18T20:41:46.311659+00:00"
-    },
-    {
-      "id": "6875ffc1653c",
-      "fingerprint": "6875ffc1653c",
-      "narrative_summary": "Ucrania ataca una refinería en Moscú con drones, causando explosiones y daños",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro núcleo de memes: la guerra, la violencia y la sorpresa",
-      "category": "Guerra, violencia, sorpresa",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIAATACA",
-        "MOSCUENLLAMAS",
-        "DRONESDEGUERRA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Moscú",
-        "drones",
-        "guerra",
-        "violencia",
-        "sorpresa"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T00:19:10.481646+00:00",
-      "expires_at": "2026-06-21T00:19:10.481646+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-21T02:02:36.034635+00:00"
-    },
-    {
-      "id": "6eade3cc1226",
-      "fingerprint": "6eade3cc1226",
-      "narrative_summary": "El jugador Ismael Kone sufrió una grave lesión en la pierna durante un partido del Mundial 2026.",
-      "why_memeable": "La lesión del jugador es un evento impactante y visualmente aterrador, lo que lo hace fácilmente memeable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KONELESION",
-        "MUNDIAL2026",
-        "LESIONENELMUNDIAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Kone",
-        "Lesión",
-        "Mundial 2026",
-        "Fútbol"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 5,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T05:32:02.964921+00:00",
-      "expires_at": "2026-06-21T05:32:02.964921+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Canada star Ismael Kone suffers horrifying leg injury in World Cup vs. Qatar - USA Today",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-21T07:05:14.506027+00:00"
-    },
-    {
-      "id": "10ad96d8ae8c",
-      "fingerprint": "10ad96d8ae8c",
-      "narrative_summary": "El líder supremo de Irán desacredita el acuerdo con Trump, llamándolo 'desesperación'",
-      "why_memeable": "El núcleo de la narrativa es el desacuerdo entre el líder supremo de Irán y Trump, lo que hace que sea fácilmente compartible y recordable",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN_TRUMP",
-        "TRUMP_DESPE",
-        "IRAN_LEADER"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Irán",
-        "acuerdo",
-        "desesperación",
-        "líder supremo"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T05:34:22.168618+00:00",
-      "expires_at": "2026-06-21T05:34:22.168618+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-21T07:05:14.506039+00:00"
-    },
-    {
       "id": "46a66d5dc7ad",
       "fingerprint": "46a66d5dc7ad",
       "narrative_summary": "Fans de Escocia viajan 22 horas en un avión pequeño para llegar al Mundial de Fútbol",
@@ -8032,7 +7819,7 @@
       "started_at": "2026-06-26T04:54:08.212816+00:00",
       "expires_at": "2026-06-29T04:54:08.212816+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
@@ -8041,7 +7828,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-29T09:21:55.275253+00:00"
     },
     {
       "id": "be31fcd40ec0",
@@ -8082,7 +7870,7 @@
       "started_at": "2026-06-26T04:54:13.443452+00:00",
       "expires_at": "2026-06-29T04:54:13.443452+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "SpaceX rocket launches in 2026 are insanely brutal",
       "cluster_sources": [
@@ -8091,7 +7879,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-06-29T09:21:55.275269+00:00"
     },
     {
       "id": "8676f52797dc",
@@ -8617,14 +8406,15 @@
       "started_at": "2026-06-27T07:42:18.861770+00:00",
       "expires_at": "2026-06-29T07:42:18.861770+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Somali intelligence helps US arrest alleged ringleader of Minnesota fraud",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-29T09:21:55.275275+00:00"
     },
     {
       "id": "9c243ef8d69a",
@@ -9775,13 +9565,14 @@
       "started_at": "2026-06-28T04:28:31.113187+00:00",
       "expires_at": "2026-06-29T04:28:31.113187+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Exactly",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-06-29T09:21:55.275281+00:00"
     },
     {
       "id": "2b4b8d7ca211",
@@ -11725,7 +11516,189 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "ce891b063ece",
+      "fingerprint": "ce891b063ece",
+      "narrative_summary": "117 perros muertos encontrados en un refugio de animales en California, lo que desencadena una investigación",
+      "why_memeable": "La combinación de animales, injusticia y una imagen potencialmente impactante crea un escenario altamente memeable",
+      "category": "Noticias de animales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOGS117",
+        "CALIFUR",
+        "NO_KILL",
+        "ANIMALSHOCK"
+      ],
+      "key_terms_for_dex_search": [
+        "perros muertos",
+        "refugio de animales",
+        "California",
+        "investigación"
+      ],
+      "score": 93,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T09:22:23.511995+00:00",
+      "expires_at": "2026-07-02T09:22:23.511995+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "117 dogs found dead at California shelter as shocking investigation unfolds - The Independent",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "310f23a59a3d",
+      "fingerprint": "310f23a59a3d",
+      "narrative_summary": "Trump publica un cuadro extraño con George Washington y un robot, generando polémica y reacciones en la red.",
+      "why_memeable": "La combinación de Trump, George Washington y un robot es absurda y genera interés, además de la polémica y las reacciones en la red.",
+      "category": "política y sociedad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_PAINTING",
+        "GEORGE_WASHINGTON_ROBOT",
+        "TRUMP_ROBOT_PAINTING"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "George Washington",
+        "robot",
+        "pintura",
+        "polémica"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T09:23:06.391847+00:00",
+      "expires_at": "2026-07-01T09:23:06.391847+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump posts bizarre painting of himself with George Washington and a robot - Yahoo News UK",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "524281f6ebf9",
+      "fingerprint": "524281f6ebf9",
+      "narrative_summary": "Rescate de un bebé de 18 días en Venezuela tras terremotos, inspirando esperanza en el país.",
+      "why_memeable": "La historia del bebé rescatado es un símbolo de esperanza en Venezuela después de los terremotos devastadores.",
+      "category": "rescate",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JUAN_DAVID",
+        "RESCATE_EN_VENEZUELA",
+        "ESPERANZA_EN_VENEZUELA"
+      ],
+      "key_terms_for_dex_search": [
+        "rescate",
+        "venezuela",
+        "terremotos",
+        "esperanza"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-06-29T09:26:20.637675+00:00",
+      "expires_at": "2026-07-01T09:26:20.637675+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ab1d6924411c",
+      "fingerprint": "ab1d6924411c",
+      "narrative_summary": "Un tiroteo en una fan zone del Mundial en California ha dejado un muerto y un herido grave.",
+      "why_memeable": "La narrativa tiene un núcleo claro y emocionalmente cargado, lo que la hace fácilmente compartible y memorable.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUNDIAL",
+        "TIROTEO",
+        "FANZONE"
+      ],
+      "key_terms_for_dex_search": [
+        "Mundial",
+        "Tiroteo",
+        "FanZone",
+        "California"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-06-29T09:27:05.499301+00:00",
+      "expires_at": "2026-07-01T09:27:05.499301+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Un muerto y un herido grave en un tiroteo en una fan zone del Mundial en California - Diario AS",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-28T23:57:15.269022+00:00"
+  "last_updated": "2026-06-29T09:27:05.499301+00:00"
 }
