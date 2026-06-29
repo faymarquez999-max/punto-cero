@@ -1,212 +1,6 @@
 {
   "watches": [
     {
-      "id": "46a66d5dc7ad",
-      "fingerprint": "46a66d5dc7ad",
-      "narrative_summary": "Fans de Escocia viajan 22 horas en un avión pequeño para llegar al Mundial de Fútbol",
-      "why_memeable": "La historia es inusual y llama la atención por la dedicación de los fans escoceses",
-      "category": "Deportes",
-      "matched_archetype": "underdog_victory_or_redemption",
-      "candidate_tickers": [
-        "ESCOCIA",
-        "MUNDIAL",
-        "FÚTBOL",
-        "FANS"
-      ],
-      "key_terms_for_dex_search": [
-        "Escocia",
-        "Mundial",
-        "Fútbol",
-        "Fans",
-        "dedicación"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 8
-      },
-      "started_at": "2026-06-19T10:08:21.173506+00:00",
-      "expires_at": "2026-06-21T10:08:21.173506+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CHARMING",
-        "name": "Only Charming Fans",
-        "mint": "VmdfNPzd7A492TBQYp7QpUoBYv2HFpqaL9no3Sopump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 265865.0,
-        "liquidity_usd": 38247.29,
-        "price_usd": 0.0002658,
-        "volume_h24": 296603.63,
-        "volume_h1": 13608.61,
-        "volume_m5": 503.1,
-        "price_change_5m": -0.4,
-        "price_change_1h": -6.13,
-        "price_change_24h": 59.91,
-        "txns_h1_buys": 144,
-        "txns_h1_sells": 87,
-        "created_ts": 1781831656000,
-        "pair_created_at": 1781831656000,
-        "url": "https://dexscreener.com/solana/4cmeamznwfzqwyccx2l25gyz6mpcxnkypxjw34aphpbi",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FANS in ONLY CHARMING FANS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Scotland fans fly 22 hours in tiny plane to World Cup",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-06-20T14:26:42.830898+00:00"
-    },
-    {
-      "id": "aae27bb7d7a3",
-      "fingerprint": "aae27bb7d7a3",
-      "narrative_summary": "Iran establece células iraquíes para atacar vecinos del Golfo, según fuentes",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase fácil de capturar, lo que la hace memeable",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "GULF",
-        "CELESTIAL",
-        "GUERRAS",
-        "GOLFO"
-      ],
-      "key_terms_for_dex_search": [
-        "IRAN",
-        "GULFO",
-        "CELESTIAL",
-        "GUERRAS",
-        "GOLFO"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-19T10:08:41.840567+00:00",
-      "expires_at": "2026-06-22T10:08:41.840567+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "4tDsUqAPbzPTubaDPAag9dUYrm8oufywLYURme3jiXJ2",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 277382.0,
-        "liquidity_usd": 73738.68,
-        "price_usd": 2.773e-06,
-        "volume_h24": 2369939.97,
-        "volume_h1": 2369939.97,
-        "volume_m5": 440026.93,
-        "price_change_5m": 1.78,
-        "price_change_1h": 169.0,
-        "price_change_24h": 169.0,
-        "txns_h1_buys": 4041,
-        "txns_h1_sells": 2508,
-        "created_ts": 1781862205000,
-        "pair_created_at": 1781862205000,
-        "url": "https://dexscreener.com/solana/4pa26n4z2jkdppyf1ukhdgzpdf3fltq3ypsqckthcvi8",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: Iran's Revolutionary Guards set up covert Iraqi cells to attack Gulf neighbors, sources say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-19T10:11:03.908331+00:00"
-    },
-    {
-      "id": "9bb969f1b6d7",
-      "fingerprint": "9bb969f1b6d7",
-      "narrative_summary": "La pintura de un estanque de Washington se está desprendiendo después de una renovación de $14 millones",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un elemento de sorpresa y absurdo",
-      "category": "política",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PEELING_POOL",
-        "RENOVACION_DESASTRE",
-        "PINTURA_DESPRENDIDA"
-      ],
-      "key_terms_for_dex_search": [
-        "pintura",
-        "estanque",
-        "renovacion",
-        "desprendida",
-        "Washington"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 7
-      },
-      "started_at": "2026-06-19T10:09:14.509929+00:00",
-      "expires_at": "2026-06-21T10:09:14.509929+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Paint peeling after $14 million memorial pool renovation",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-06-21T15:20:53.741682+00:00"
-    },
-    {
       "id": "ad814fd8cede",
       "fingerprint": "ad814fd8cede",
       "narrative_summary": "Ucrania ataca con drones a una refinería de petróleo en Moscú, causando incendios y daños significativos.",
@@ -8143,14 +7937,15 @@
       "started_at": "2026-06-26T16:26:28.889804+00:00",
       "expires_at": "2026-06-29T16:26:28.889804+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Texas",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-29T16:58:08.373534+00:00"
     },
     {
       "id": "a73268f2e97d",
@@ -8246,7 +8041,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6305b920f232",
@@ -8287,15 +8082,42 @@
       "started_at": "2026-06-27T07:40:14.517446+00:00",
       "expires_at": "2026-06-30T07:40:14.517446+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "RIPTRUMP",
+        "name": "RIP DONALD TRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 119340.0,
+        "liquidity_usd": 26326.75,
+        "price_usd": 0.0001193,
+        "volume_h24": 8982.69,
+        "volume_h1": 1.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.04,
+        "price_change_24h": -4.69,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1775332817000,
+        "pair_created_at": 1775332817000,
+        "url": "https://dexscreener.com/solana/6joeefdteyxqwwovy5gptmdrjszvnnpbdtq7h8p5q2r",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DONALD TRUMP in RIP DONALD TRUMP",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "So many such stories that were suppressed by the legacy mainstream media …",
       "cluster_sources": [
         "breaking_news",
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-06-29T17:02:00.483564+00:00"
     },
     {
       "id": "83ef3882db55",
@@ -8453,14 +8275,15 @@
       "started_at": "2026-06-27T13:02:19.443805+00:00",
       "expires_at": "2026-06-29T13:02:19.443805+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Germany braces for record-breaking temperatures as heatwave moves east - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-06-29T16:58:08.373550+00:00"
     },
     {
       "id": "96721f163dab",
@@ -8639,13 +8462,14 @@
       "started_at": "2026-06-27T13:03:30.910294+00:00",
       "expires_at": "2026-06-29T13:03:30.910294+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-06-29T16:58:08.373554+00:00"
     },
     {
       "id": "c832b442a750",
@@ -8684,14 +8508,15 @@
       "started_at": "2026-06-27T14:55:46.875619+00:00",
       "expires_at": "2026-06-29T14:55:46.875619+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-06-29T16:58:08.373557+00:00"
     },
     {
       "id": "d0d3a5b7b2dd",
@@ -8954,7 +8779,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "30c61cbe4ab4",
@@ -9142,7 +8967,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0c5e89a27d93",
@@ -9185,7 +9010,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1f3d3ffd4181",
@@ -9227,8 +9052,44 @@
       "started_at": "2026-06-27T21:34:55.741071+00:00",
       "expires_at": "2026-06-30T21:34:55.741071+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 211994.0,
+        "liquidity_usd": 66469.96,
+        "price_usd": 2.119e-06,
+        "volume_h24": 57430.35,
+        "volume_h1": 57430.35,
+        "volume_m5": 118.15,
+        "price_change_5m": 0.87,
+        "price_change_1h": 57.14,
+        "price_change_24h": 57.14,
+        "txns_h1_buys": 1214,
+        "txns_h1_sells": 44,
+        "created_ts": 1782751604000,
+        "pair_created_at": 1782751604000,
+        "url": "https://dexscreener.com/solana/9qdudws6tw4bjt9nhf2zlbyyunhwejwdwtsohmspthnc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
         "4chan",
@@ -9236,7 +9097,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-29T17:02:07.660675+00:00"
     },
     {
       "id": "e969175c7951",
@@ -9283,7 +9145,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f0ff8e0bc9bc",
@@ -9328,7 +9190,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b1f8c25758cf",
@@ -9447,8 +9309,34 @@
       "started_at": "2026-06-28T04:27:35.099326+00:00",
       "expires_at": "2026-07-01T04:27:35.099326+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "RIPTRUMP",
+        "name": "RIP DONALD TRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 119340.0,
+        "liquidity_usd": 26326.75,
+        "price_usd": 0.0001193,
+        "volume_h24": 8982.69,
+        "volume_h1": 1.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.04,
+        "price_change_24h": -4.69,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1775332817000,
+        "pair_created_at": 1775332817000,
+        "url": "https://dexscreener.com/solana/6joeefdteyxqwwovy5gptmdrjszvnnpbdtq7h8p5q2r",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DONALD TRUMP in RIP DONALD TRUMP",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Potential name for the AI industry regulatory authority:",
       "cluster_sources": [
         "4chan",
@@ -9456,7 +9344,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-06-29T17:02:12.258474+00:00"
     },
     {
       "id": "a27c7e20c559",
@@ -9689,7 +9578,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4db86b85be00",
@@ -9739,7 +9628,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "67d7c762515b",
@@ -9941,7 +9830,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f5b7282eaced",
@@ -10059,7 +9948,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ebabb7a1706d",
@@ -10102,7 +9991,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0e9ac8ef2498",
@@ -10220,7 +10109,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2eefb4c61329",
@@ -10262,7 +10151,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f9a47fa9ce63",
@@ -10306,7 +10195,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6c894782936e",
@@ -10415,8 +10304,44 @@
       "started_at": "2026-06-28T14:19:49.935696+00:00",
       "expires_at": "2026-06-30T14:19:49.935696+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 212251.0,
+        "liquidity_usd": 66510.21,
+        "price_usd": 2.122e-06,
+        "volume_h24": 57450.44,
+        "volume_h1": 57450.44,
+        "volume_m5": 105.09,
+        "price_change_5m": 0.82,
+        "price_change_1h": 57.33,
+        "price_change_24h": 57.33,
+        "txns_h1_buys": 1257,
+        "txns_h1_sells": 44,
+        "created_ts": 1782751604000,
+        "pair_created_at": 1782751604000,
+        "url": "https://dexscreener.com/solana/9qdudws6tw4bjt9nhf2zlbyyunhwejwdwtsohmspthnc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: IRAN in IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
       "cluster_sources": [
         "4chan",
@@ -10424,7 +10349,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-29T17:02:25.989400+00:00"
     },
     {
       "id": "e9410e13755f",
@@ -10471,7 +10397,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cf9f2b385fb1",
@@ -10518,7 +10444,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "393e2fe86a9f",
@@ -10560,7 +10486,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2c84f298e479",
@@ -10605,7 +10531,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "30226ddecc9f",
@@ -10656,7 +10582,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1a4789cfa688",
@@ -10702,7 +10628,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1ef17b187848",
@@ -10921,7 +10847,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6a3d253e6373",
@@ -10958,13 +10884,40 @@
       "started_at": "2026-06-28T15:59:05.366934+00:00",
       "expires_at": "2026-06-30T15:59:05.366934+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "AIAIAI",
+        "name": "AIAssociatedInstituteofAmerica",
+        "mint": "AVPJS61gZmWKtaEpb7qYPKo8Fk2xQUsayYQxPiPMpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14289.0,
+        "liquidity_usd": 11249.39,
+        "price_usd": 1.635e-05,
+        "volume_h24": 28626.75,
+        "volume_h1": 1817.03,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -27.31,
+        "price_change_24h": -36.03,
+        "txns_h1_buys": 17,
+        "txns_h1_sells": 15,
+        "created_ts": 1782371663000,
+        "pair_created_at": 1782371663000,
+        "url": "https://dexscreener.com/solana/46ihtqjkskmdic66vextecoyukoa82t5ycg86c7e9rqk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: AIAIAI==AIAIAI",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Potential name for the AI industry regulatory authority:",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-29T17:02:35.937716+00:00"
     },
     {
       "id": "e46a1ebc322a",
@@ -11010,7 +10963,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a223ad2fddf1",
@@ -11049,8 +11002,44 @@
       "started_at": "2026-06-28T21:43:30.684141+00:00",
       "expires_at": "2026-06-30T21:43:30.684141+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 212250.0,
+        "liquidity_usd": 66510.09,
+        "price_usd": 2.122e-06,
+        "volume_h24": 57450.38,
+        "volume_h1": 57450.38,
+        "volume_m5": 105.03,
+        "price_change_5m": 0.82,
+        "price_change_1h": 57.33,
+        "price_change_24h": 57.33,
+        "txns_h1_buys": 1252,
+        "txns_h1_sells": 44,
+        "created_ts": 1782751604000,
+        "pair_created_at": 1782751604000,
+        "url": "https://dexscreener.com/solana/9qdudws6tw4bjt9nhf2zlbyyunhwejwdwtsohmspthnc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "FOUR MONTHS AFTER U.S.-ISRAEL STRIKES ON IRAN, ISRAELI LEADERS WHO ONCE ENVISIONED A NEW GOLDEN ERA ARE NOW PREPARING TO STAND MORE INDEPENDENTLY AS TRUMP'S AMERICA FIRST APPROACH STRIPS ISRAEL OF ITS SPECIAL EXCEPTION STATUS - POLITICO",
       "cluster_sources": [
         "4chan",
@@ -11058,7 +11047,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-29T17:02:39.115677+00:00"
     },
     {
       "id": "b9a3311eae7b",
@@ -11102,7 +11092,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8a7b1d22b18b",
@@ -11141,14 +11131,66 @@
       "started_at": "2026-06-28T21:45:06.195202+00:00",
       "expires_at": "2026-06-30T21:45:06.195202+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SON",
+        "name": "Are Ya Winning, Son?",
+        "mint": "21d2GQJLt6Wd8oKXHtqx2AvZ9XW2iXBPaUT7LvGWbonk",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 20809.0,
+        "liquidity_usd": 8601.37,
+        "price_usd": 2.08e-05,
+        "volume_h24": 67400.94,
+        "volume_h1": 16743.79,
+        "volume_m5": 669.65,
+        "price_change_5m": 6.2,
+        "price_change_1h": 12.44,
+        "price_change_24h": 110.0,
+        "txns_h1_buys": 150,
+        "txns_h1_sells": 99,
+        "created_ts": 1782739093000,
+        "pair_created_at": 1782739093000,
+        "url": "https://dexscreener.com/solana/9x68zseksf5pwahfxodb3pb9zep9nzgr323wjmddhzno",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: WINNING in ARE YA WINNING, SON?",
+        "safety_score": 54074,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-29T17:02:43.088803+00:00"
     },
     {
       "id": "e1e9c4795e7a",
@@ -11194,7 +11236,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "16e411dba14d",
@@ -11239,7 +11281,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "16bac6d4cf1a",
@@ -11287,7 +11329,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9cc7d1f4a918",
@@ -11334,7 +11376,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "56018ab6893b",
@@ -11380,7 +11422,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "afc1217867e5",
@@ -11426,7 +11468,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7414566aa03b",
@@ -11468,7 +11510,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f2cd935c7d42",
@@ -11515,7 +11557,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ce891b063ece",
@@ -11561,7 +11603,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "310f23a59a3d",
@@ -11607,7 +11649,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "524281f6ebf9",
@@ -11645,14 +11687,51 @@
       "started_at": "2026-06-29T09:26:20.637675+00:00",
       "expires_at": "2026-07-01T09:26:20.637675+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "7",
+        "name": "Perros de Rescate",
+        "mint": "7D847evpLPubz1vHCsoTjJ6EHSUpmcTtXexNy51DJ7su",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 16193.0,
+        "liquidity_usd": 21910.95,
+        "price_usd": 1.619e-05,
+        "volume_h24": 238142.38,
+        "volume_h1": 238142.38,
+        "volume_m5": 102361.93,
+        "price_change_5m": 58.08,
+        "price_change_1h": 119.0,
+        "price_change_24h": 119.0,
+        "txns_h1_buys": 2207,
+        "txns_h1_sells": 1057,
+        "created_ts": 1782751948000,
+        "pair_created_at": 1782751948000,
+        "url": "https://dexscreener.com/solana/hxxgmumjuspiqf5wv3yowcyrdckvh5dhhqhjbbk2yjb7",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: RESCATE in PERROS DE RESCATE",
+        "safety_score": 11501,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-06-29T17:02:58.704976+00:00"
     },
     {
       "id": "ab1d6924411c",
@@ -11697,8 +11776,176 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "fcaab9d7d6c6",
+      "fingerprint": "fcaab9d7d6c6",
+      "narrative_summary": "Donald Trump hace un comentario polémico sobre la 'izquierda radical' y varios eventos relacionados con la Corte Suprema y la política internacional",
+      "why_memeable": "El comentario de Trump y los eventos relacionados tienen un alto potencial de generar memes y discusiones en línea debido a su naturaleza polémica y polarizante",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "LEFTSCUM",
+        "SCOTUS",
+        "POLARIZED",
+        "TRUMP2024"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Izquierda Radical",
+        "Corte Suprema",
+        "Política",
+        "Polarización"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-06-29T16:58:09.922773+00:00",
+      "expires_at": "2026-07-02T16:58:09.922773+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "93c9ea2fc37c",
+      "fingerprint": "93c9ea2fc37c",
+      "narrative_summary": "Lauryn Hill es honrada, Janet Jackson impresiona a Teyana Taylor y Druski hace historia en los BET Awards 2026.",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés (BET Awards, reconocimientos, celebridades) y se puede capturar en una frase corta.",
+      "category": "Celebridades y eventos de entretenimiento",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BET_AWARDS",
+        "LAURYN_HILL",
+        "JANET_JACKSON",
+        "TEYANA_TAYLOR",
+        "DRUSKI"
+      ],
+      "key_terms_for_dex_search": [
+        "BET_AWARDS",
+        "LAURYN_HILL",
+        "JANET_JACKSON",
+        "TEYANA_TAYLOR",
+        "DRUSKI"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-29T16:59:20.713119+00:00",
+      "expires_at": "2026-07-01T16:59:20.713119+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Lauryn Hill honored, Janet Jackson stuns Teyana Taylor and Druski makes history at BET Awards - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "61e0fa62bd5b",
+      "fingerprint": "61e0fa62bd5b",
+      "narrative_summary": "Elon Musk confirma la verdad, generando un gran interés en la comunidad",
+      "why_memeable": "La respuesta 'True' de Elon Musk es corta, repetible y compartible sin contexto",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSKTRUE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "xcancel"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-06-29T17:01:11.873434+00:00",
+      "expires_at": "2026-07-06T17:01:11.873434+00:00",
+      "duration_hours": 168,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Elon",
+        "name": "The White Bull",
+        "mint": "H86Mm1QWCW5XrA4TQaQcCLfwG8u1xjQ2RupigorYpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 18756.0,
+        "liquidity_usd": 10405.71,
+        "price_usd": 1.876e-05,
+        "volume_h24": 100507.28,
+        "volume_h1": 2114.04,
+        "volume_m5": 269.42,
+        "price_change_5m": 0.34,
+        "price_change_1h": -10.84,
+        "price_change_24h": 12.3,
+        "txns_h1_buys": 27,
+        "txns_h1_sells": 17,
+        "created_ts": 1781624619000,
+        "pair_created_at": 1781624619000,
+        "url": "https://dexscreener.com/solana/7epr63vdigaukghjcugz682as238296yfxybj2685nz6",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-29T17:03:05.283946+00:00"
     }
   ],
-  "last_updated": "2026-06-29T09:27:05.499301+00:00"
+  "last_updated": "2026-06-29T17:03:05.283965+00:00"
 }
