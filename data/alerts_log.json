@@ -25094,6 +25094,78 @@
         "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
         "mc": 66842.0
       }
+    },
+    {
+      "ts": "2026-06-30T22:54:35.877672+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "879ad4925327",
+        "score": 80,
+        "category": "noticias de actualidad",
+        "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
+        "candidate_tickers": [
+          "MONACOBLAST",
+          "UKRAINEOLIGARCH",
+          "RUSSIATIES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-30T22:54:48.651207+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "humor",
+        "title": "I will take that as a compliment",
+        "candidate_tickers": [
+          "ELONCOMPLIMENT",
+          "COMPLIMENTELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-30T22:55:24.027698+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e9a87a291910",
+        "score": 70,
+        "category": "Tecnología y Ciencia",
+        "title": "SpaceXAI",
+        "candidate_tickers": [
+          "SPACEXAI",
+          "ELONMUSKAI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-06-30T22:58:04.796170+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1a4789cfa688",
+        "ticker": "ELON",
+        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
+        "mc": 26070.0
+      }
+    },
+    {
+      "ts": "2026-06-30T22:58:19.817171+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4925496ec673",
+        "ticker": "ELON",
+        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
+        "mc": 26070.0
+      }
+    },
+    {
+      "ts": "2026-06-30T22:58:23.413488+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e9a87a291910",
+        "ticker": "SpaceXAI",
+        "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
+        "mc": 68101.0
+      }
     }
   ]
 }

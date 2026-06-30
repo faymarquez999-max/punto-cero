@@ -1,146 +1,6 @@
 {
   "watches": [
     {
-      "id": "b2bfce700e20",
-      "fingerprint": "b2bfce700e20",
-      "narrative_summary": "Elon Musk publica 'Wow' en Twitter, generando gran atención",
-      "why_memeable": "Frase corta y simple, fácil de compartir y repetir",
-      "category": "Celebridad/Politica",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOWELON",
-        "ELONWOW",
-        "MUSKWOW"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "WOW",
-        "TWITTER"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-20T19:08:40.492766+00:00",
-      "expires_at": "2026-06-27T19:08:40.492766+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26771.0,
-        "liquidity_usd": 15468.82,
-        "price_usd": 2.677e-05,
-        "volume_h24": 27755.1,
-        "volume_h1": 655.4,
-        "volume_m5": 10.31,
-        "price_change_5m": -1.3,
-        "price_change_1h": -6.29,
-        "price_change_24h": -10.09,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 13,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:27.486837+00:00"
-    },
-    {
-      "id": "d2a4c8862acf",
-      "fingerprint": "d2a4c8862acf",
-      "narrative_summary": "Elon Musk cierra un caso (sin detalles) con un tweet",
-      "why_memeable": "Frase breve y directa de Elon Musk, figura top con capacidad de generar interés",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "CASECLOSED",
-        "ELONCASE",
-        "CASECLOSED"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "caso",
-        "cerrado"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-20T19:09:01.846569+00:00",
-      "expires_at": "2026-06-27T19:09:01.846569+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26734.0,
-        "liquidity_usd": 15461.41,
-        "price_usd": 2.673e-05,
-        "volume_h24": 27759.04,
-        "volume_h1": 659.34,
-        "volume_m5": 14.25,
-        "price_change_5m": -1.43,
-        "price_change_1h": -6.42,
-        "price_change_24h": -10.21,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 14,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Case closed",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:29.205519+00:00"
-    },
-    {
       "id": "274a85df628f",
       "fingerprint": "274a85df628f",
       "narrative_summary": "Claude Guillemot, cofundador de Ubisoft, muere en un accidente aéreo en Francia",
@@ -8590,7 +8450,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "30226ddecc9f",
@@ -8641,7 +8501,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1a4789cfa688",
@@ -8680,14 +8540,56 @@
       "started_at": "2026-06-28T15:55:29.032337+00:00",
       "expires_at": "2026-07-01T15:55:29.032337+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "ELON MUSK COIN",
+        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26070.0,
+        "liquidity_usd": 12688.72,
+        "price_usd": 2.607e-05,
+        "volume_h24": 5095.99,
+        "volume_h1": 889.32,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -23.07,
+        "price_change_24h": 30.81,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1745429357000,
+        "pair_created_at": 1745429357000,
+        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
+        "safety_score": 17025,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8,
+      "matched_at": "2026-06-30T22:58:04.789819+00:00"
     },
     {
       "id": "1ef17b187848",
@@ -9153,7 +9055,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "8a7b1d22b18b",
@@ -9297,7 +9199,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "16e411dba14d",
@@ -9342,7 +9244,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "16bac6d4cf1a",
@@ -9466,7 +9368,7 @@
       "started_at": "2026-06-28T22:48:08.296909+00:00",
       "expires_at": "2026-06-30T22:48:08.296909+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "U.S. CENTRAL COMMAND: U.S. FORCES CONDUCT ADDITIONAL STRIKES AFTER IRAN’S LATEST COMMERCIAL SHIP ATTACK",
       "cluster_sources": [
@@ -9474,7 +9376,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-30T22:54:18.104310+00:00"
     },
     {
       "id": "56018ab6893b",
@@ -9512,7 +9415,7 @@
       "started_at": "2026-06-28T22:48:47.227392+00:00",
       "expires_at": "2026-06-30T22:48:47.227392+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "PAKISTAN CONFIRMS GROUND OPERATION AND STRIKES ALONG AFGHAN BORDER, ELIMINATING 29 MILITANTS - AP",
       "cluster_sources": [
@@ -9520,7 +9423,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-30T22:54:18.104325+00:00"
     },
     {
       "id": "afc1217867e5",
@@ -9559,14 +9463,15 @@
       "started_at": "2026-06-28T22:50:01.772781+00:00",
       "expires_at": "2026-06-30T22:50:01.772781+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-30T22:54:18.104329+00:00"
     },
     {
       "id": "7414566aa03b",
@@ -9775,7 +9680,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "310f23a59a3d",
@@ -9821,7 +9726,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "524281f6ebf9",
@@ -9948,7 +9853,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "fcaab9d7d6c6",
@@ -10083,7 +9988,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "61e0fa62bd5b",
@@ -10601,7 +10506,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b8c25e90478d",
@@ -10720,7 +10625,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "40717e56c9b5",
@@ -10986,7 +10891,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6cdffacfdc4a",
@@ -11361,7 +11266,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4d0905517e9f",
@@ -11639,7 +11544,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1bd13fa46022",
@@ -11781,7 +11686,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "caf6249ae156",
@@ -12176,7 +12081,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a9fc281b1f0f",
@@ -12364,7 +12269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4925496ec673",
@@ -12402,13 +12307,55 @@
       "started_at": "2026-06-30T21:18:45.092506+00:00",
       "expires_at": "2026-07-03T21:18:45.092506+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "ELON MUSK COIN",
+        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26070.0,
+        "liquidity_usd": 12688.72,
+        "price_usd": 2.607e-05,
+        "volume_h24": 5095.99,
+        "volume_h1": 889.32,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -23.07,
+        "price_change_24h": 30.81,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1745429357000,
+        "pair_created_at": 1745429357000,
+        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
+        "safety_score": 17025,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "I will take that as a compliment",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-06-30T22:58:19.810817+00:00"
     },
     {
       "id": "02bbaa9cbc22",
@@ -12523,8 +12470,124 @@
       "cluster_sources": [
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "879ad4925327",
+      "fingerprint": "879ad4925327",
+      "narrative_summary": "Una explosión en Mónaco ha herido a un magnate ucraniano con vínculos con Rusia.",
+      "why_memeable": "La combinación de una explosión, un magnate ucraniano y vínculos con Rusia crea un escenario intrigante y potencialmente viral.",
+      "category": "noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MONACOBLAST",
+        "UKRAINEOLIGARCH",
+        "RUSSIATIES"
+      ],
+      "key_terms_for_dex_search": [
+        "explosión",
+        "Mónaco",
+        "magnate ucraniano",
+        "Rusia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-06-30T22:54:35.471579+00:00",
+      "expires_at": "2026-07-03T22:54:35.471579+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "e9a87a291910",
+      "fingerprint": "e9a87a291910",
+      "narrative_summary": "Elon Musk anuncia un nuevo proyecto llamado SpaceXAI, generando gran interés y especulación en las redes.",
+      "why_memeable": "La mención de Elon Musk y el nombre del proyecto 'SpaceXAI' son factores clave que contribuyen a su memeabilidad.",
+      "category": "Tecnología y Ciencia",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "SPACEXAI",
+        "ELONMUSKAI"
+      ],
+      "key_terms_for_dex_search": [
+        "SpaceXAI",
+        "ElonMusk",
+        "AI",
+        "Tecnología",
+        "Ciencia"
+      ],
+      "score": 70,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-06-30T22:55:23.629765+00:00",
+      "expires_at": "2026-07-02T22:55:23.629765+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "SpaceXAI",
+        "name": "SpaceXAI",
+        "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 68101.0,
+        "liquidity_usd": 23425.08,
+        "price_usd": 8.532e-05,
+        "volume_h24": 30577.19,
+        "volume_h1": 3.29,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.88,
+        "price_change_24h": 66.83,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 0,
+        "created_ts": 1778095069000,
+        "pair_created_at": 1778095069000,
+        "url": "https://dexscreener.com/solana/cofqqyax5k9ul45umemdmrxcgshldqaateexzktxnwwa",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: SPACEXAI==SPACEXAI",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "SpaceXAI",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-06-30T22:58:23.407349+00:00"
     }
   ],
-  "last_updated": "2026-06-30T21:23:17.867010+00:00"
+  "last_updated": "2026-06-30T22:58:23.407368+00:00"
 }
