@@ -1,79 +1,6 @@
 {
   "watches": [
     {
-      "id": "15650c200ee4",
-      "fingerprint": "15650c200ee4",
-      "narrative_summary": "SpaceX compra Cursor, una startup de código AI, por $60 mil millones en una carrera por obtener una ventaja sobre Anthropic y OpenAI.",
-      "why_memeable": "La compra de Cursor por SpaceX es un evento sorprendente y caro que puede generar interés y debate en la comunidad.",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "$CURSOR",
-        "CURSOR",
-        "SPACEX"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "Cursor",
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-20T17:49:18.126872+00:00",
-      "expires_at": "2026-06-23T17:49:18.126872+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CURSOR",
-        "name": "CURSOR AI",
-        "mint": "De11yGf6sfyAzfcec9WZH4boquKqnQc8H5b3JUT6pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 42728.0,
-        "liquidity_usd": 16367.96,
-        "price_usd": 4.275e-05,
-        "volume_h24": 14306.2,
-        "volume_h1": 67.66,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.22,
-        "price_change_24h": -13.49,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 3,
-        "created_ts": 1779227578000,
-        "pair_created_at": 1779227578000,
-        "url": "https://dexscreener.com/solana/9f5zmhsvmaay5xb4m2l5r5zzjmasnkucnfwbaxjai5fr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: CURSOR==CURSOR",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T17:51:00.541558+00:00"
-    },
-    {
       "id": "b6f238710d7d",
       "fingerprint": "b6f238710d7d",
       "narrative_summary": "Ebola casos aumentan un 40% en una semana, superando la cifra de 200 muertos.",
@@ -7221,13 +7148,14 @@
       "started_at": "2026-06-27T18:59:03.685008+00:00",
       "expires_at": "2026-06-30T18:59:03.685008+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-06-30T19:23:44.616900+00:00"
     },
     {
       "id": "0c5e89a27d93",
@@ -9185,14 +9113,15 @@
       "started_at": "2026-06-28T15:58:08.673433+00:00",
       "expires_at": "2026-06-30T15:58:08.673433+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine hits two Russian oil refineries overnight - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-06-30T19:23:44.616917+00:00"
     },
     {
       "id": "6a3d253e6373",
@@ -9300,7 +9229,7 @@
       "started_at": "2026-06-28T17:23:43.880342+00:00",
       "expires_at": "2026-06-30T17:23:43.880342+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
       "cluster_sources": [
@@ -9308,7 +9237,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-06-30T19:23:44.616921+00:00"
     },
     {
       "id": "a223ad2fddf1",
@@ -12494,7 +12424,51 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-30T15:21:20.133678+00:00"
+    },
+    {
+      "id": "2bbfee3c43e8",
+      "fingerprint": "2bbfee3c43e8",
+      "narrative_summary": "117 perros muertos encontrados en un refugio animal en California, muchos con heridas de bala.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un animal como víctima, lo que la hace fácil de compartir y recordar.",
+      "category": "Abuso animal",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERROS MUERTOS",
+        "REFUGIO ANIMAL",
+        "ABUSO ANIMAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Perros muertos",
+        "Refugio animal",
+        "Abuso animal"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-06-30T19:24:35.372658+00:00",
+      "expires_at": "2026-07-02T19:24:35.372658+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "117 dead dogs found at animal rescue, many with gunshot wounds as investigators probe for answers - Fox News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-06-30T15:21:20.133696+00:00"
+  "last_updated": "2026-06-30T19:24:35.372658+00:00"
 }
