@@ -1,405 +1,6 @@
 {
   "watches": [
     {
-      "id": "4c9ba5c2fe07",
-      "fingerprint": "4c9ba5c2fe07",
-      "narrative_summary": "Elon Musk publica 'Wow' en Twitter y genera gran atención",
-      "why_memeable": "La simplicidad y la brevedad de la frase 'Wow' la convierten en fácilmente compartible y recordable",
-      "category": "Celebridad/Politica",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOWELON",
-        "WOWMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-20T20:48:06.862276+00:00",
-      "expires_at": "2026-06-27T20:48:06.862276+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26734.0,
-        "liquidity_usd": 15461.41,
-        "price_usd": 2.673e-05,
-        "volume_h24": 27759.04,
-        "volume_h1": 659.34,
-        "volume_m5": 14.25,
-        "price_change_5m": -1.43,
-        "price_change_1h": -6.42,
-        "price_change_24h": -10.21,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 14,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:37.302543+00:00"
-    },
-    {
-      "id": "f6c022c6b308",
-      "fingerprint": "f6c022c6b308",
-      "narrative_summary": "Dua Lipa comparte fotos de su boda con Callum Turner en Sicilia",
-      "why_memeable": "La narrativa es memeable debido a la foto impactante de Dua Lipa en su boda y la popularidad de la celebridad",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "DUALIPA",
-        "CALLUMTURNER",
-        "BODAIMPACTANTE"
-      ],
-      "key_terms_for_dex_search": [
-        "DuaLipa",
-        "CallumTurner",
-        "BodaImpactante",
-        "FotosBoda"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-20T21:59:55.417306+00:00",
-      "expires_at": "2026-06-23T21:59:55.417306+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Dua Lipa stuns in new wedding photo.",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-06-23T22:51:00.454606+00:00"
-    },
-    {
-      "id": "3273eb60a0d5",
-      "fingerprint": "3273eb60a0d5",
-      "narrative_summary": "Zelenskiy confirma ataque de dron en instalaciones de refino en la región de Tyumen de Rusia.",
-      "why_memeable": "La frase 'Zelenskiy confirma' es memeable y la noticia de un ataque de dron es visualmente atractiva.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ZELENSKIY",
-        "DRON",
-        "TYUMEN",
-        "RUSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Zelenskiy",
-        "dron",
-        "Rusia",
-        "Tyumen",
-        "refino"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-20T22:01:10.151451+00:00",
-      "expires_at": "2026-06-22T22:01:10.151451+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-22T23:28:13.212070+00:00"
-    },
-    {
-      "id": "941d6065f15a",
-      "fingerprint": "941d6065f15a",
-      "narrative_summary": "POLL... entre @elonmusk y @realDonaldTrump",
-      "why_memeable": "Frase corta y repetible, menciones de figuras top",
-      "category": "Política",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "MUSKVSTRUMP",
-        "POLL"
-      ],
-      "key_terms_for_dex_search": [
-        "poll",
-        "elonmusk",
-        "trump",
-        "política"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-20T22:01:33.450595+00:00",
-      "expires_at": "2026-06-21T22:01:33.450595+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 28336.0,
-        "liquidity_usd": 15978.74,
-        "price_usd": 2.833e-05,
-        "volume_h24": 26776.89,
-        "volume_h1": 938.89,
-        "volume_m5": 203.78,
-        "price_change_5m": -4.03,
-        "price_change_1h": 5.55,
-        "price_change_24h": -14.4,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 15,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "POLL…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T22:04:02.045551+00:00"
-    },
-    {
-      "id": "5403a85b6ed4",
-      "fingerprint": "5403a85b6ed4",
-      "narrative_summary": "Claude Guillemot, cofundador de Ubisoft, falleció en un accidente aéreo que mató a 2 personas",
-      "why_memeable": "La muerte de un cofundador de Ubisoft en un accidente aéreo es un evento sorprendente y trágico que puede ser capturado en una frase breve",
-      "category": "entretenimiento",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UBISOFT",
-        "CLAUDEGUILLEMOT",
-        "ACCIDENTEAEREO"
-      ],
-      "key_terms_for_dex_search": [
-        "Ubisoft",
-        "Claude Guillemot",
-        "AccidenteAereo"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-21T02:05:57.166901+00:00",
-      "expires_at": "2026-06-23T02:05:57.166901+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ubisoft co-founder Claude Guillemot killed in plane crash that claimed 2 lives: report - Fox Business",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-23T05:55:00.369056+00:00"
-    },
-    {
-      "id": "c14b2fc63020",
-      "fingerprint": "c14b2fc63020",
-      "narrative_summary": "Ataque ruso mata a cinco personas en Zaporizhzhia, Ucrania",
-      "why_memeable": "La narrativa tiene un título claro y una frase viral ('massive' ataque) que puede ser compartida fácilmente.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAATACA",
-        "UCRANIASUFRE",
-        "ZAPORIZHZHIAATAQUE"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "Zaporizhzhia",
-        "ataque"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-21T02:06:47.613083+00:00",
-      "expires_at": "2026-06-23T02:06:47.613083+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-23T05:55:00.369083+00:00"
-    },
-    {
-      "id": "a733902a100a",
-      "fingerprint": "a733902a100a",
-      "narrative_summary": "Un fanático del Mundial llamado Freddy se queda varado en un aeropuerto y las aerolíneas entran en una guerra de ofertas para llevarlo a Canadá.",
-      "why_memeable": "La historia tiene un elemento de sorpresa y humor, con un personaje principal que es fácil de identificar y una situación inesperada que puede generar memes y bromas.",
-      "category": "Deportes/Viral",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "FREDDYFAN",
-        "AIRWAR",
-        "CANADABID",
-        "WORLDCUPWARS",
-        "STUCKINFAN"
-      ],
-      "key_terms_for_dex_search": [
-        "Freddy",
-        "Mundial",
-        "Aeropuerto",
-        "Guerra de ofertas",
-        "Canadá"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-21T02:06:55.585544+00:00",
-      "expires_at": "2026-06-24T02:06:55.585544+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FREDDY",
-        "name": "FREDDYLA7",
-        "mint": "DKSeC2hTQ6jBVYzQ5CPKncQ6BrqQfWYWARz3LHNpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 121407.0,
-        "liquidity_usd": 28276.43,
-        "price_usd": 0.0001214,
-        "volume_h24": 155803.73,
-        "volume_h1": 2335.75,
-        "volume_m5": 138.49,
-        "price_change_5m": 0.55,
-        "price_change_1h": -11.47,
-        "price_change_24h": 29.21,
-        "txns_h1_buys": 13,
-        "txns_h1_sells": 16,
-        "created_ts": 1781066926000,
-        "pair_created_at": 1781066926000,
-        "url": "https://dexscreener.com/solana/cejhfwmqkrmaqzqn2artp1gpnjhqke88eprvdemrhfas",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FREDDY in FREDDYLA7",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Nervy, optimist, die-hard: What sort of fan are you?",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-21T02:08:08.228704+00:00"
-    },
-    {
       "id": "bf4edd61f894",
       "fingerprint": "bf4edd61f894",
       "narrative_summary": "Tom Cotton, un senador conocido por ser un hawks de Irán, se encuentra en una situación incómoda debido a una decisión de Trump.",
@@ -12658,7 +12259,334 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-01T05:04:07.445227+00:00"
+    },
+    {
+      "id": "26c7d8c1e392",
+      "fingerprint": "26c7d8c1e392",
+      "narrative_summary": "Trump hace declaraciones polémicas sobre la izquierda radical y la situación en Estados Unidos, generando una gran cantidad de engagement en las redes sociales.",
+      "why_memeable": "La narrativa es memeable debido a la naturaleza polémica y provocativa de las declaraciones de Trump, que pueden ser resumidas en frases cortas y compartidas sin contexto.",
+      "category": "política",
+      "matched_archetype": "polarizing_figure_drama",
+      "candidate_tickers": [
+        "TRUMP22",
+        "LEFTSCUM",
+        "MAGA2024",
+        "TRUMPWARS",
+        "RADICALLEFT"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "izquierda radical",
+        "política",
+        "Estados Unidos",
+        "MAGA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-01T08:56:07.849142+00:00",
+      "expires_at": "2026-07-04T08:56:07.849142+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d5cc71dd4483",
+      "fingerprint": "d5cc71dd4483",
+      "narrative_summary": "Chris Brown condenado a pagar $13M a una empleada doméstica después de que su perro la atacara",
+      "why_memeable": "La combinación de un personaje famoso, un perro y una gran suma de dinero crea un escenario interesante y fácil de recordar",
+      "category": "Celebridad y Justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CBROWN",
+        "DOG13M",
+        "JUSTICE4MARIA",
+        "CBATTACK",
+        "DOGDAYSCB"
+      ],
+      "key_terms_for_dex_search": [
+        "Chris Brown",
+        "perro",
+        "ataque",
+        "empleada doméstica",
+        "$13M"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T08:56:16.948714+00:00",
+      "expires_at": "2026-07-04T08:56:16.948714+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Chris Brown ordered to pay housekeeper $13m after dog attack",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "399a9e590bfb",
+      "fingerprint": "399a9e590bfb",
+      "narrative_summary": "Russia aprobó entrenamiento militar secreto de China a nivel superior, según fuentes",
+      "why_memeable": "La narrativa tiene un título impactante y un tema controvertido que puede generar debate",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIA",
+        "CHINA",
+        "ENTRENAMIENTO MILITAR",
+        "SEGURIDAD NACIONAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "China",
+        "entrenamiento militar",
+        "seguridad nacional"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-01T08:58:13.801959+00:00",
+      "expires_at": "2026-07-03T08:58:13.801959+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8992a22166a5",
+      "fingerprint": "8992a22166a5",
+      "narrative_summary": "Se encuentran 117 perros muertos en un refugio animal en California, lo que genera un escándalo y preocupación por el abuso animal.",
+      "why_memeable": "La narrativa combina un evento impactante (muerte de 117 perros) con un tema sensible (abuso animal) y una ubicación específica (California).",
+      "category": "abuso animal",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERROMUERTO",
+        "ABUSOANIMAL",
+        "REFUGIOTRÁGICO"
+      ],
+      "key_terms_for_dex_search": [
+        "perro muerto",
+        "abuso animal",
+        "refugio"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-01T08:58:56.382281+00:00",
+      "expires_at": "2026-07-04T08:58:56.382281+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Venezuelans search more earthquake ruins as attention turns to humanitarian crisis - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4ad1c9b5dc4f",
+      "fingerprint": "4ad1c9b5dc4f",
+      "narrative_summary": "Unos 117 perros muertos se encuentran en un refugio animal en California",
+      "why_memeable": "La noticia es impactante y tiene un componente visual (imagen de los perros muertos) que puede ser compartido fácilmente",
+      "category": "noticias de animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "PERROSMUERTOS",
+        "REFUGIOANIMAL",
+        "CALIFORNIA"
+      ],
+      "key_terms_for_dex_search": [
+        "perros muertos",
+        "refugio animal",
+        "California"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T08:59:38.150272+00:00",
+      "expires_at": "2026-07-03T08:59:38.150272+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grief and optimism clash in scramble to locate survivors 4 days after Venezuela earthquakes - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6719a5d2383c",
+      "fingerprint": "6719a5d2383c",
+      "narrative_summary": "Ucrania ataca refinerías de petróleo en Rusia, causando una crisis de combustible en verano",
+      "why_memeable": "La narrativa tiene un título claro y una frase que resume el evento, lo que la hace fácilmente compartible y recordable",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIA",
+        "UCRANIA",
+        "DRONE",
+        "CRISIS DE COMBUSTIBLE"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Drone",
+        "Crisis de combustible",
+        "Ataque",
+        "Refinerías"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T09:00:16.915792+00:00",
+      "expires_at": "2026-07-03T09:00:16.915792+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c0e355263c1a",
+      "fingerprint": "c0e355263c1a",
+      "narrative_summary": "US levanta restricciones en modelos de IA poderosos de Anthropic",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. El término 'Anthropic' es un nombre de marca que puede ser fácilmente reconocido y recordado.",
+      "category": "Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "FABLE",
+        "MYTHOS",
+        "IA"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "Fable",
+        "Mythos",
+        "IA",
+        "Tecnología"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T09:00:50.853749+00:00",
+      "expires_at": "2026-07-04T09:00:50.853749+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-01T05:04:07.445247+00:00"
+  "last_updated": "2026-07-01T09:00:50.853749+00:00"
 }
