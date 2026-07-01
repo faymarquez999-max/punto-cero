@@ -1,277 +1,6 @@
 {
   "watches": [
     {
-      "id": "274a85df628f",
-      "fingerprint": "274a85df628f",
-      "narrative_summary": "Claude Guillemot, cofundador de Ubisoft, muere en un accidente aéreo en Francia",
-      "why_memeable": "La noticia es impactante y fácil de entender, con un título que resume la situación de manera clara",
-      "category": "noticias de entretenimiento",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "UBISOFT",
-        "GUILLEMOT",
-        "CRASH",
-        "PLANE",
-        "GAMINGLEGEND"
-      ],
-      "key_terms_for_dex_search": [
-        "Ubisoft",
-        "Claude Guillemot",
-        "accidente aéreo",
-        "Francia",
-        "gaming"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 2,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-20T20:45:28.457854+00:00",
-      "expires_at": "2026-06-23T20:45:28.457854+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "RIP Claude",
-        "name": "RIP Claude Guillemot of Ubisoft",
-        "mint": "ATLn4YvEahqusLTxpcyKHtrBYvJwPFoig5b5Q9RUT1Rd",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 18981.0,
-        "liquidity_usd": 25133.1,
-        "price_usd": 1.898e-05,
-        "volume_h24": 653576.68,
-        "volume_h1": 653576.68,
-        "volume_m5": 70253.83,
-        "price_change_5m": 7.1,
-        "price_change_1h": 119.0,
-        "price_change_24h": 119.0,
-        "txns_h1_buys": 2361,
-        "txns_h1_sells": 745,
-        "created_ts": 1781986267000,
-        "pair_created_at": 1781986267000,
-        "url": "https://dexscreener.com/solana/ewegxj9bedmtxaeeavazxa1ent3hzx5qbkussnkejhbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: UBISOFT in RIP CLAUDE GUILLEMOT OF UBISOF",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:31.347561+00:00"
-    },
-    {
-      "id": "e71a50929e48",
-      "fingerprint": "e71a50929e48",
-      "narrative_summary": "Rusia repelió un ataque con drones en una refinería de petróleo en la región de Tyumen.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'repelir un ataque', lo que la hace fácil de compartir y recordar.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TYUMENDRONE",
-        "RUSIAATACA",
-        "REFINERIADEPETROLEO"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "ataque",
-        "drones",
-        "refinería",
-        "petróleo"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-20T20:47:03.368884+00:00",
-      "expires_at": "2026-06-23T20:47:03.368884+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russia says it repelled drone attack on oil refinery in Tyumen region - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-23T22:51:00.454590+00:00"
-    },
-    {
-      "id": "01e9daac0be8",
-      "fingerprint": "01e9daac0be8",
-      "narrative_summary": "Elon Musk propone hacer consciente al Sol para entender el Universo y extender la luz de la conciencia a las estrellas",
-      "why_memeable": "La frase es simple, memorable y tiene un gran impacto emocional. La idea de hacer consciente al Sol es absurda y genera interés.",
-      "category": "ciencia-ficción, tecnología",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "SOLCONSCIENTE",
-        "CONCIENCIASOLAR",
-        "MUSKSOL"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "SolConsciente",
-        "ConcienciaSolar"
-      ],
-      "score": 72,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-20T20:47:24.980668+00:00",
-      "expires_at": "2026-06-23T20:47:24.980668+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26734.0,
-        "liquidity_usd": 15461.41,
-        "price_usd": 2.673e-05,
-        "volume_h24": 27759.04,
-        "volume_h1": 659.34,
-        "volume_m5": 14.25,
-        "price_change_5m": -1.43,
-        "price_change_1h": -6.42,
-        "price_change_24h": -10.21,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 14,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:34.371630+00:00"
-    },
-    {
-      "id": "eb69cd21aff0",
-      "fingerprint": "eb69cd21aff0",
-      "narrative_summary": "Elon Musk anuncia el cierre de un caso, generando una gran respuesta en las redes.",
-      "why_memeable": "La frase 'Case closed' es fácil de recordar y se puede capturar en una imagen.",
-      "category": "Tecnología/Noticias",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "CASECLOSED",
-        "CASECLOSED"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "caseclosed",
-        "xcancel"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-20T20:47:46.348383+00:00",
-      "expires_at": "2026-06-22T20:47:46.348383+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26734.0,
-        "liquidity_usd": 15461.41,
-        "price_usd": 2.673e-05,
-        "volume_h24": 27759.04,
-        "volume_h1": 659.34,
-        "volume_m5": 14.25,
-        "price_change_5m": -1.43,
-        "price_change_1h": -6.42,
-        "price_change_24h": -10.21,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 14,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Case closed",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-20T20:49:35.757133+00:00"
-    },
-    {
       "id": "4c9ba5c2fe07",
       "fingerprint": "4c9ba5c2fe07",
       "narrative_summary": "Elon Musk publica 'Wow' en Twitter y genera gran atención",
@@ -8450,7 +8179,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "30226ddecc9f",
@@ -8501,7 +8230,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "1a4789cfa688",
@@ -9055,7 +8784,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "8a7b1d22b18b",
@@ -9199,7 +8928,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "16e411dba14d",
@@ -9244,7 +8973,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "16bac6d4cf1a",
@@ -9680,7 +9409,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "310f23a59a3d",
@@ -9726,7 +9455,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "524281f6ebf9",
@@ -9853,7 +9582,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "fcaab9d7d6c6",
@@ -9988,7 +9717,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "61e0fa62bd5b",
@@ -10506,7 +10235,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b8c25e90478d",
@@ -10625,7 +10354,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "40717e56c9b5",
@@ -10891,7 +10620,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6cdffacfdc4a",
@@ -11259,14 +10988,66 @@
       "started_at": "2026-06-30T01:55:34.815653+00:00",
       "expires_at": "2026-07-02T01:55:34.815653+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "3vMDgqSWQFJje5HpnbRZRLEEtK2a1mjWJu2azNkPLcSv",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 369662.0,
+        "liquidity_usd": 110014.51,
+        "price_usd": 3.696e-06,
+        "volume_h24": 3506492.44,
+        "volume_h1": 3243522.84,
+        "volume_m5": 290589.18,
+        "price_change_5m": 4.56,
+        "price_change_1h": 62.97,
+        "price_change_24h": 113.0,
+        "txns_h1_buys": 9701,
+        "txns_h1_sells": 4898,
+        "created_ts": 1782878173000,
+        "pair_created_at": 1782878173000,
+        "url": "https://dexscreener.com/solana/9dh1aifsrkezzgh1fsox1kd7zmlohee6zc6dgavgdz7y",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: IRAN in IRAN",
+        "safety_score": 28999,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Iran Ratchets Up Talk of Controlling Hormuz Ahead of New Talks - Bloomberg.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-07-01T05:03:56.791763+00:00"
     },
     {
       "id": "4d0905517e9f",
@@ -11544,7 +11325,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "1bd13fa46022",
@@ -11686,7 +11467,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "caf6249ae156",
@@ -12081,7 +11862,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a9fc281b1f0f",
@@ -12269,7 +12050,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4925496ec673",
@@ -12470,7 +12251,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "879ad4925327",
@@ -12515,7 +12296,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e9a87a291910",
@@ -12587,7 +12368,297 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-06-30T22:58:23.407349+00:00"
+    },
+    {
+      "id": "b61263253f53",
+      "fingerprint": "b61263253f53",
+      "narrative_summary": "Declaraciones polémicas de Donald Trump sobre la política de inmigración y género generan reacciones en las redes sociales y los medios de comunicación.",
+      "why_memeable": "La combinación de un tema polémico con la personalidad controvertida de Trump crea un caldo de cultivo para memes y reacciones virales.",
+      "category": "Política y Sociedad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP22",
+        "LEFTSCUM",
+        "OPENBORDERS",
+        "MENSSPORTS",
+        "TRANSRIGHTS"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Política",
+        "Inmigración",
+        "Género",
+        "Memes"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 7
+      },
+      "started_at": "2026-07-01T04:59:38.990519+00:00",
+      "expires_at": "2026-07-04T04:59:38.990519+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TRUMP",
+        "name": "The Orange Bull",
+        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 19578.0,
+        "liquidity_usd": 10836.06,
+        "price_usd": 1.957e-05,
+        "volume_h24": 512158.06,
+        "volume_h1": 70.86,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.78,
+        "price_change_24h": -43.31,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 2,
+        "created_ts": 1782852698000,
+        "pair_created_at": 1782852698000,
+        "url": "https://dexscreener.com/solana/3dtmw4l5ky1xsqiyiiwhsr5zgyajfyansaxlle9i2toy",
+        "source": "dexscreener",
+        "match_score": 83.3,
+        "match_reason": "ticker close: TRUMP~TRUMP22 (83.33333333333334%)",
+        "safety_score": 14541,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-01T05:04:02.093401+00:00"
+    },
+    {
+      "id": "dd3486059693",
+      "fingerprint": "dd3486059693",
+      "narrative_summary": "La empresa Anthropic afirma que Estados Unidos levanta la prohibición de exportar sus herramientas de inteligencia artificial avanzadas.",
+      "why_memeable": "La narrativa tiene un título claro y una frase atractiva, 'US lifts export ban on its advanced AI tools', que puede ser compartida y recordada fácilmente.",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "AI",
+        "EXPORTBAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "AI",
+        "ExportBan",
+        "US",
+        "Tecnología"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-01T05:01:15.765958+00:00",
+      "expires_at": "2026-07-04T05:01:15.765958+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ANTH",
+        "name": "Anthropic",
+        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 129713.0,
+        "liquidity_usd": 28900.28,
+        "price_usd": 0.0001297,
+        "volume_h24": 10731.15,
+        "volume_h1": 129.74,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.0,
+        "price_change_24h": 17.97,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1780168240000,
+        "pair_created_at": 1780168240000,
+        "url": "https://dexscreener.com/solana/bmjrgxumzdnbhpxfbkezf2poc4fyuryunkfkeqbqratr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-01T05:04:04.120977+00:00"
+    },
+    {
+      "id": "e4e36d860c12",
+      "fingerprint": "e4e36d860c12",
+      "narrative_summary": "US military envía 900 personal a Venezuela para respuesta a terremoto",
+      "why_memeable": "La frase '900 personal' es fácil de recordar y se puede capturar en una imagen",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VENEZUELA900",
+        "TERREMOTO900",
+        "MILITAR900"
+      ],
+      "key_terms_for_dex_search": [
+        "venezuela",
+        "terremoto",
+        "militar",
+        "900",
+        "respuesta"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T05:02:03.765942+00:00",
+      "expires_at": "2026-07-03T05:02:03.765942+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "953fbe6ec0cb",
+      "fingerprint": "953fbe6ec0cb",
+      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok' que ha generado mucha atención en redes sociales.",
+      "why_memeable": "La frase 'Grok' es fácil de recordar y compartir, y tiene un tono absurdo que atrae la atención.",
+      "category": "meme de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROKING"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "ELON MUSK",
+        "MEME"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 7,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-07-01T05:03:46.288301+00:00",
+      "expires_at": "2026-07-03T05:03:46.288301+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "ELON MUSK COIN",
+        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 24447.0,
+        "liquidity_usd": 12251.5,
+        "price_usd": 2.445e-05,
+        "volume_h24": 5272.55,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 22.66,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1745429357000,
+        "pair_created_at": 1745429357000,
+        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
+        "safety_score": 17008,
+        "safety_risks": [
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-01T05:04:07.445227+00:00"
     }
   ],
-  "last_updated": "2026-06-30T22:58:23.407368+00:00"
+  "last_updated": "2026-07-01T05:04:07.445247+00:00"
 }
