@@ -25166,6 +25166,47 @@
         "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
         "mc": 68101.0
       }
+    },
+    {
+      "ts": "2026-07-01T00:18:27.195863+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
+        "candidate_tickers": [
+          "MonacoExplosion",
+          "UcranianoHerido",
+          "RusiaMónaco"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-01T00:18:55.862569+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ae4a118e4a60",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Grok",
+        "candidate_tickers": [
+          "GROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-01T00:19:17.322811+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "96a34ce11598",
+        "score": 82,
+        "category": "gobierno y corrupción",
+        "title": "This is how USAID spent your tax dollars",
+        "candidate_tickers": [
+          "USAID",
+          "TAXDOLLARS"
+        ]
+      }
     }
   ]
 }
