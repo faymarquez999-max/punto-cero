@@ -1,193 +1,6 @@
 {
   "watches": [
     {
-      "id": "a07b39911d26",
-      "fingerprint": "a07b39911d26",
-      "narrative_summary": "Incidente de fuego israelí en Gaza que mata a nueve personas, incluyendo un niño y un periodista, según los médicos.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GAZAFIRE",
-        "INJUSTICIAENGAZA",
-        "FUEGOISRAELÍ"
-      ],
-      "key_terms_for_dex_search": [
-        "Gaza",
-        "fuego",
-        "injusticia",
-        "periodista"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-21T07:09:02.158066+00:00",
-      "expires_at": "2026-06-23T07:09:02.158066+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israeli fire kills nine people in Gaza, including a child and journalist, medics say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-23T15:42:37.607941+00:00"
-    },
-    {
-      "id": "a2e97289f972",
-      "fingerprint": "a2e97289f972",
-      "narrative_summary": "La agencia de noticias de Irán, Tasnim, afirma que el canal de Hormuz no se reabrirá hasta que se mantenga un alto el fuego en Líbano, y se han emitido waivers de petróleo - Reuters",
-      "why_memeable": "La narrativa tiene un título claro y una frase memorable que puede ser compartida fácilmente.",
-      "category": "noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HORMUZ",
-        "LÍBANO",
-        "ALTO EL FUEGO",
-        "TASNIM"
-      ],
-      "key_terms_for_dex_search": [
-        "Hormuz",
-        "Líbano",
-        "alto el fuego",
-        "Tasnim",
-        "petróleo"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-21T15:22:18.577958+00:00",
-      "expires_at": "2026-06-23T15:22:18.577958+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HEAT",
-        "name": "Hormuz Energy Asset Token",
-        "mint": "CpURwV8aPvTgm5txTASDz1apbFUNmBjGorb2qrqntA2i",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 107752.0,
-        "liquidity_usd": 32467.91,
-        "price_usd": 0.0001077,
-        "volume_h24": 1587943.23,
-        "volume_h1": 764916.53,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 6.88,
-        "price_change_24h": 263.0,
-        "txns_h1_buys": 2158,
-        "txns_h1_sells": 1596,
-        "created_ts": 1782118413000,
-        "pair_created_at": 1782118413000,
-        "url": "https://dexscreener.com/solana/bpnywqadhgnq4gzarhkegqawwo6tvdzgf4yjgkkoqwgf",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: HORMUZ in HORMUZ ENERGY ASSET TOKEN",
-        "safety_score": 16983,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-06-22T10:55:23.949785+00:00"
-    },
-    {
-      "id": "fc474c14592f",
-      "fingerprint": "fc474c14592f",
-      "narrative_summary": "Ucrania ataca Crimea, que corta la venta de combustible a civiles",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Ucrania y Crimea, y un impacto visual con la imagen de la guerra",
-      "category": "Guerra y política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CRIMEACUTS",
-        "UCRANIAATACA",
-        "GUERRAENCRIMEA"
-      ],
-      "key_terms_for_dex_search": [
-        "Crimea",
-        "Ucrania",
-        "guerra",
-        "combustible",
-        "civiles"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-21T15:23:41.572678+00:00",
-      "expires_at": "2026-06-23T15:23:41.572678+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russian-occupied Crimea cuts off civilian fuel sales after Ukrainian strikes - politico.eu",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-06-23T15:42:37.607944+00:00"
-    },
-    {
       "id": "1b30d6227209",
       "fingerprint": "1b30d6227209",
       "narrative_summary": "Elon Musk responde con un simple 'sí' a una pregunta, generando un gran interés y debate en las redes sociales.",
@@ -8043,7 +7856,7 @@
       "started_at": "2026-06-28T21:44:02.251417+00:00",
       "expires_at": "2026-07-01T21:44:02.251417+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
       "cluster_sources": [
@@ -8051,7 +7864,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-02T07:53:08.034771+00:00"
     },
     {
       "id": "8a7b1d22b18b",
@@ -8188,14 +8002,15 @@
       "started_at": "2026-06-28T21:45:40.026368+00:00",
       "expires_at": "2026-07-01T21:45:40.026368+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-02T07:53:08.034784+00:00"
     },
     {
       "id": "16e411dba14d",
@@ -8233,14 +8048,15 @@
       "started_at": "2026-06-28T21:47:48.299930+00:00",
       "expires_at": "2026-07-01T21:47:48.299930+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-02T07:53:08.034788+00:00"
     },
     {
       "id": "16bac6d4cf1a",
@@ -8676,7 +8492,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "310f23a59a3d",
@@ -9498,14 +9314,15 @@
       "started_at": "2026-06-29T22:19:37.542567+00:00",
       "expires_at": "2026-07-01T22:19:37.542567+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Woman Goes Into Labor on Sister's Wedding Day, Then Sends Message from Hospital that Leaves Bride in Tears (Exclusive) - People.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-02T07:53:08.034792+00:00"
     },
     {
       "id": "b8c25e90478d",
@@ -9617,14 +9434,15 @@
       "started_at": "2026-06-29T22:21:33.914657+00:00",
       "expires_at": "2026-07-01T22:21:33.914657+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Fuel shortages spread to more parts of Russia as Ukrainian attacks bite - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-02T07:53:08.034795+00:00"
     },
     {
       "id": "40717e56c9b5",
@@ -9883,14 +9701,15 @@
       "started_at": "2026-06-29T23:41:02.159566+00:00",
       "expires_at": "2026-07-01T23:41:02.159566+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-02T07:53:08.034798+00:00"
     },
     {
       "id": "6cdffacfdc4a",
@@ -10595,7 +10414,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1bd13fa46022",
@@ -10730,14 +10549,15 @@
       "started_at": "2026-06-30T06:23:11.464220+00:00",
       "expires_at": "2026-07-02T06:23:11.464220+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Rep. Wesley Hunt Dances Around Trump's Great American State Fair Crowd Claims",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-02T07:53:08.034801+00:00"
     },
     {
       "id": "caf6249ae156",
@@ -11132,7 +10952,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a9fc281b1f0f",
@@ -11320,7 +11140,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4925496ec673",
@@ -11521,7 +11341,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "879ad4925327",
@@ -11566,7 +11386,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e9a87a291910",
@@ -11843,7 +11663,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "953fbe6ec0cb",
@@ -11977,7 +11797,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d5cc71dd4483",
@@ -12018,14 +11838,41 @@
       "started_at": "2026-07-01T08:56:16.948714+00:00",
       "expires_at": "2026-07-04T08:56:16.948714+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tsunami",
+        "name": "El Perro Rescatista",
+        "mint": "7AuZpVnXtYZBYqp2oZ7DjA7BZLwbgWJDUk2SYpHppump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 270650.0,
+        "liquidity_usd": 45799.76,
+        "price_usd": 0.0002706,
+        "volume_h24": 546943.53,
+        "volume_h1": 3047.21,
+        "volume_m5": 212.54,
+        "price_change_5m": 1.06,
+        "price_change_1h": -9.05,
+        "price_change_24h": 104.0,
+        "txns_h1_buys": 35,
+        "txns_h1_sells": 37,
+        "created_ts": 1782447894000,
+        "pair_created_at": 1782447894000,
+        "url": "https://dexscreener.com/solana/4rctpebxepgjxltkqgtgurjdan627a6tsbktdzqrh38p",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: PERRO in EL PERRO RESCATISTA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Chris Brown ordered to pay housekeeper $13m after dog attack",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-02T07:57:58.472213+00:00"
     },
     {
       "id": "399a9e590bfb",
@@ -12071,7 +11918,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8992a22166a5",
@@ -12115,7 +11962,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -12159,7 +12006,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6719a5d2383c",
@@ -12207,7 +12054,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c0e355263c1a",
@@ -12247,14 +12094,41 @@
       "started_at": "2026-07-01T09:00:50.853749+00:00",
       "expires_at": "2026-07-04T09:00:50.853749+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FABLE",
+        "name": "The Eagle and the Fox",
+        "mint": "HMSPnngim78o9t2KVfGBEg79NGS1s3c1AyRFu8z3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 59051.0,
+        "liquidity_usd": 18750.59,
+        "price_usd": 5.905e-05,
+        "volume_h24": 439683.62,
+        "volume_h1": 30534.96,
+        "volume_m5": 351.38,
+        "price_change_5m": -0.36,
+        "price_change_1h": -15.44,
+        "price_change_24h": 80.34,
+        "txns_h1_buys": 358,
+        "txns_h1_sells": 290,
+        "created_ts": 1782960311000,
+        "pair_created_at": 1782960311000,
+        "url": "https://dexscreener.com/solana/d29jtbfbpmayqbhsvhckc5wbnqmf8ykcnaua5rqqs3vi",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: FABLE==FABLE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-02T07:58:05.461061+00:00"
     },
     {
       "id": "db578d9f4806",
@@ -12304,7 +12178,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d988b3735294",
@@ -12353,7 +12227,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b760ad2b40ff",
@@ -12398,7 +12272,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1bac5cffc474",
@@ -12439,7 +12313,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3697143f151b",
@@ -12482,8 +12356,152 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "6b6d9d4501cc",
+      "fingerprint": "6b6d9d4501cc",
+      "narrative_summary": "Elon Musk habla sobre un futuro optimista con Neuralink y Optimus, tecnologías que podrían restaurar habilidades humanas perdidas.",
+      "why_memeable": "La combinación de la figura polarizante de Elon Musk con la idea de tecnología cibernética avanzada y la posibilidad de restaurar habilidades humanas perdidas ofrece un rico terreno para la creación de memes y discusiones.",
+      "category": "Tecnología y futuro",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKLINK",
+        "CYBORGELON",
+        "NEURALMUSK",
+        "OPTIMUSMUSK",
+        "FUTUROTECH"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Neuralink",
+        "Optimus",
+        "Tecnología cibernética",
+        "Futuro"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-02T07:53:20.171764+00:00",
+      "expires_at": "2026-07-05T07:53:20.171764+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Elon Musk explains one of the most optimistic futures imaginable: Neuralink and Optimus restoring lost human abilities through real-world cyborg technology",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6104f4b9f1f0",
+      "fingerprint": "6104f4b9f1f0",
+      "narrative_summary": "At least 13 people killed in large-scale Russian missile and drone strikes on Kyiv, with children among the casualties.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'villano' (Rusia), lo que la hace fácilmente compartible y recordable.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KYIV",
+        "ZELINSKY",
+        "RUSSIA",
+        "UKRAINE",
+        "MISSILESTRIKE"
+      ],
+      "key_terms_for_dex_search": [
+        "kyiv",
+        "zelensky",
+        "russia",
+        "ukraine",
+        "missile strike"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-07-02T07:54:44.725264+00:00",
+      "expires_at": "2026-07-04T07:54:44.725264+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "4956ed443e57",
+      "fingerprint": "4956ed443e57",
+      "narrative_summary": "El FBI emite un comunicado sobre la legitimidad de los mensajes de rescate de Nancy Guthrie",
+      "why_memeable": "La narrativa tiene un claro conflicto entre la legitimidad de los mensajes de rescate y la respuesta del FBI, lo que la hace fácilmente compartible y recordable.",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GUTHRIE",
+        "FBI",
+        "RANSOM",
+        "KIDNAPPING"
+      ],
+      "key_terms_for_dex_search": [
+        "Guthrie",
+        "FBI",
+        "Ransom",
+        "Kidnapping"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-02T07:56:01.644604+00:00",
+      "expires_at": "2026-07-04T07:56:01.644604+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FBI Issues Statement on Legitimacy of Nancy Guthrie Ransom Notes",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-01T17:32:54.022557+00:00"
+  "last_updated": "2026-07-02T07:58:05.461077+00:00"
 }
