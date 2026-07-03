@@ -1,208 +1,6 @@
 {
   "watches": [
     {
-      "id": "1b30d6227209",
-      "fingerprint": "1b30d6227209",
-      "narrative_summary": "Elon Musk responde con un simple 'sí' a una pregunta, generando un gran interés y debate en las redes sociales.",
-      "why_memeable": "La respuesta breve y directa de Elon Musk es fácil de capturar y compartir, lo que la hace muy memeable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "yes",
-        "xcancel"
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-21T17:11:07.935771+00:00",
-      "expires_at": "2026-06-23T17:11:07.935771+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14098.0,
-        "liquidity_usd": 11389.12,
-        "price_usd": 1.409e-05,
-        "volume_h24": 8211.24,
-        "volume_h1": 143.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.73,
-        "price_change_24h": -28.37,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 4,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-22T05:14:56.011383+00:00"
-    },
-    {
-      "id": "9d2b979c6663",
-      "fingerprint": "9d2b979c6663",
-      "narrative_summary": "Un incendio forestal ha sido reportado en Siskiyou County, California, el 20 de junio.",
-      "why_memeable": "La narrativa cuenta con un evento específico y localizado, lo que lo hace fácil de compartir y recordar.",
-      "category": "incendios forestales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "WILDERFIRE",
-        "SISKIYOUCOUNTYFIRE",
-        "CAWILDFIRE"
-      ],
-      "key_terms_for_dex_search": [
-        "WilderFire",
-        "SiskiyouCounty",
-        "CAWildfire",
-        "incendio forestal",
-        "California"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-21T17:12:33.862130+00:00",
-      "expires_at": "2026-06-24T17:12:33.862130+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CaliFraud",
-        "name": "California Fraud",
-        "mint": "39wKUzueHdG2nHGGk7rAPNuFkwTVLr4xqECjF1uopump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 18702.0,
-        "liquidity_usd": 9922.45,
-        "price_usd": 1.874e-05,
-        "volume_h24": 19727.18,
-        "volume_h1": 3075.37,
-        "volume_m5": 1093.15,
-        "price_change_5m": 11.49,
-        "price_change_1h": 65.08,
-        "price_change_24h": 695.0,
-        "txns_h1_buys": 37,
-        "txns_h1_sells": 17,
-        "created_ts": 1770771114000,
-        "pair_created_at": 1770771114000,
-        "url": "https://dexscreener.com/solana/apcmrqzw3fvxkaxssdrhpkzuxcz43kg2przkv9nydvtu",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CALIFORNIA in CALIFORNIA FRAUD",
-        "safety_score": 46395,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Breaking: Wilder Fire reported in Siskiyou County on June 20 - Fresno Bee",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-24T08:22:17.015769+00:00"
-    },
-    {
-      "id": "227135cb24b1",
-      "fingerprint": "227135cb24b1",
-      "narrative_summary": "Fuga de gas en una casa de Palma, diez personas intoxicadas",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta",
-      "category": "accidentes",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PALMAGAS",
-        "FUGADEGAS",
-        "DIEZINTOXICADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "fuga de gas",
-        "Palma",
-        "accidente",
-        "intoxicados"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-21T17:14:29.541654+00:00",
-      "expires_at": "2026-06-24T17:14:29.541654+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Diez intoxicados por una fuga de gas en una casa de Palma - Ultima Hora",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-24T18:14:22.052313+00:00"
-    },
-    {
       "id": "dd6a045dafd4",
       "fingerprint": "dd6a045dafd4",
       "narrative_summary": "Trump amenaza a Irán y las negociaciones se interrumpen",
@@ -11659,14 +11457,15 @@
       "started_at": "2026-07-01T05:02:03.765942+00:00",
       "expires_at": "2026-07-03T05:02:03.765942+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-07-03T05:02:34.760169+00:00"
     },
     {
       "id": "953fbe6ec0cb",
@@ -12551,7 +12350,151 @@
         "google_news"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "f8106dd77824",
+      "fingerprint": "f8106dd77824",
+      "narrative_summary": "Trump gana $1.4 mil millones en criptomonedas, principalmente a través de monedas meme",
+      "why_memeable": "La combinación de Trump, criptomonedas y monedas meme es altamente viralizable",
+      "category": "noticias financieras y políticas",
+      "matched_archetype": "figura mundial polarizante + evento dramático",
+      "candidate_tickers": [
+        "TRUMP",
+        "MEME",
+        "CRYPTO",
+        "TRUMPME",
+        "MEMECOIN",
+        "TRUMPCOIN"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "criptomonedas",
+        "monedas meme",
+        "finanzas",
+        "política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T05:02:36.182355+00:00",
+      "expires_at": "2026-07-06T05:02:36.182355+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/smg/ stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "wikipedia"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0acec7b4f1a1",
+      "fingerprint": "0acec7b4f1a1",
+      "narrative_summary": "Se han encontrado tumbas con restos de más de 100 perros en un refugio animal en California",
+      "why_memeable": "La combinación de la noticia de la muerte de perros, el lugar y la cantidad hace que sea un tema que puede generar interés y reacciones fuertes en las redes sociales",
+      "category": "noticias de animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "CALIDOGS",
+        "NO_KILL",
+        "ANIMALTRAGEDY",
+        "CALIFUR",
+        "DOGSINNEED"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "refugio animal",
+        "California",
+        "tumbas",
+        "muerte"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T05:02:37.992940+00:00",
+      "expires_at": "2026-07-06T05:02:37.992940+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b579cc3941cc",
+      "fingerprint": "b579cc3941cc",
+      "narrative_summary": "Muerte de Victor Willis, creador de Village People, y otros artistas después de enfermedades breves.",
+      "why_memeable": "La muerte de varios artistas famosos después de enfermedades breves es un tema común y fácil de compartir.",
+      "category": "Muerte de artistas famosos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VICTORWILLIS",
+        "VILLAGEPEOPLE",
+        "MUERTEBREVE"
+      ],
+      "key_terms_for_dex_search": [
+        "VictorWillis",
+        "VillagePeople",
+        "MuerteBreve",
+        "enfermedadbreve"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T05:04:20.136023+00:00",
+      "expires_at": "2026-07-05T05:04:20.136023+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Victor Willis, who co-founded the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-03T01:13:28.666719+00:00"
+  "last_updated": "2026-07-03T05:04:20.136023+00:00"
 }
