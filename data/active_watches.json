@@ -1,53 +1,6 @@
 {
   "watches": [
     {
-      "id": "b668eb4ff9bd",
-      "fingerprint": "b668eb4ff9bd",
-      "narrative_summary": "Ucrania ataca a Crimea, matando a cinco personas y deteniendo las ventas de combustible público.",
-      "why_memeable": "La narrativa tiene un título claro y una descripción concisa, lo que la hace fácil de compartir y recordar.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CRIMEA",
-        "UCRANIA",
-        "ATAQUE",
-        "COMBUSTIBLE"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Crimea",
-        "Ataque",
-        "Combustible"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-21T23:52:30.300247+00:00",
-      "expires_at": "2026-06-23T23:52:30.300247+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine attack kills five as Crimea halts public fuel sales - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-06-24T00:06:44.706805+00:00"
-    },
-    {
       "id": "120d6a136f3c",
       "fingerprint": "120d6a136f3c",
       "narrative_summary": "Elon Musk publica un 'Wow' en Twitter que genera gran interés y participación.",
@@ -12491,7 +12444,55 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "ea0078f841cb",
+      "fingerprint": "ea0078f841cb",
+      "narrative_summary": "Taiwán enfrenta un escenario de pesadilla con un posible bloqueo chino, terremoto, sabotaje e invasión.",
+      "why_memeable": "La combinación de factores geopolíticos y desastres naturales crea un escenario apocalíptico que puede generar interés y especulación.",
+      "category": "Geopolítica y conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAIWAN",
+        "CHINA",
+        "INVASION",
+        "BLOCKADE",
+        "TWNCRISIS"
+      ],
+      "key_terms_for_dex_search": [
+        "Taiwán",
+        "China",
+        "invasión",
+        "bloqueo",
+        "crisis"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T13:17:41.489188+00:00",
+      "expires_at": "2026-07-06T13:17:41.489188+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-03T11:19:07.047706+00:00"
+  "last_updated": "2026-07-03T13:17:41.489188+00:00"
 }
