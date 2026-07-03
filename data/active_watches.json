@@ -10886,7 +10886,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e9a87a291910",
@@ -11298,7 +11298,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d5cc71dd4483",
@@ -11510,7 +11510,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -11728,7 +11728,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d988b3735294",
@@ -11823,7 +11823,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1bac5cffc474",
@@ -11908,7 +11908,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6b6d9d4501cc",
@@ -11958,7 +11958,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6104f4b9f1f0",
@@ -12006,7 +12006,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4956ed443e57",
@@ -12052,7 +12052,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f8106dd77824",
@@ -12094,8 +12094,59 @@
       "started_at": "2026-07-03T05:02:36.182355+00:00",
       "expires_at": "2026-07-06T05:02:36.182355+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Memecoin",
+        "name": "Definitely Not A Memecoin",
+        "mint": "HiPAmVsMhx7WD8NcyWgtoxfobVgnSALN3ysc4bntxoB8",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13565.0,
+        "liquidity_usd": 5515.21,
+        "price_usd": 1.356e-05,
+        "volume_h24": 176598.53,
+        "volume_h1": 176598.53,
+        "volume_m5": 15119.54,
+        "price_change_5m": 41.13,
+        "price_change_1h": 168.0,
+        "price_change_24h": 168.0,
+        "txns_h1_buys": 609,
+        "txns_h1_sells": 616,
+        "created_ts": 1783111145000,
+        "pair_created_at": 1783111145000,
+        "url": "https://dexscreener.com/solana/hlkzhtqbj4ufgf1n2kfnswmzvuqrspwgdugj4qnq7ajg",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MEMECOIN==MEMECOIN",
+        "safety_score": 25361,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "warn",
+            "description": "Low amount of liquidity in the token pool"
+          }
+        ]
+      },
       "cluster_top_title": "/smg/ stock market general",
       "cluster_sources": [
         "4chan",
@@ -12103,7 +12154,8 @@
         "google_news",
         "wikipedia"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-03T21:26:35.739660+00:00"
     },
     {
       "id": "0acec7b4f1a1",
@@ -12151,7 +12203,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b579cc3941cc",
@@ -12196,7 +12248,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "65b656bd74d7",
@@ -12243,7 +12295,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "138a086fc726",
@@ -12287,7 +12339,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1151819ad77b",
@@ -12329,7 +12381,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ea0078f841cb",
@@ -12377,7 +12429,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b2cf749f05c5",
@@ -12416,14 +12468,41 @@
       "started_at": "2026-07-03T17:05:57.711090+00:00",
       "expires_at": "2026-07-06T17:05:57.711090+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Apple",
+        "name": "Apple",
+        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 97873.0,
+        "liquidity_usd": 41277.29,
+        "price_usd": 9.789e-05,
+        "volume_h24": 9643.01,
+        "volume_h1": 84.52,
+        "volume_m5": 6.07,
+        "price_change_5m": -0.14,
+        "price_change_1h": 0.93,
+        "price_change_24h": 4.35,
+        "txns_h1_buys": 24,
+        "txns_h1_sells": 0,
+        "created_ts": 1777912988000,
+        "pair_created_at": 1777912988000,
+        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: APPLE in APPLE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-03T21:26:44.161509+00:00"
     },
     {
       "id": "f2f59bb7fa3a",
@@ -12466,8 +12545,8 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-03T17:07:23.207842+00:00"
+  "last_updated": "2026-07-03T21:26:44.161528+00:00"
 }
