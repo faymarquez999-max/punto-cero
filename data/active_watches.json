@@ -8485,14 +8485,15 @@
       "started_at": "2026-06-29T09:22:23.511995+00:00",
       "expires_at": "2026-07-02T09:22:23.511995+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "117 dogs found dead at California shelter as shocking investigation unfolds - The Independent",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-03T01:08:50.099278+00:00"
     },
     {
       "id": "310f23a59a3d",
@@ -10414,7 +10415,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1bd13fa46022",
@@ -10946,13 +10947,14 @@
       "started_at": "2026-06-30T15:19:36.257730+00:00",
       "expires_at": "2026-07-02T15:19:36.257730+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The AOC puppet is just flat-out lying",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-03T01:08:50.099294+00:00"
     },
     {
       "id": "a9fc281b1f0f",
@@ -11133,14 +11135,15 @@
       "started_at": "2026-06-30T19:24:35.372658+00:00",
       "expires_at": "2026-07-02T19:24:35.372658+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "117 dead dogs found at animal rescue, many with gunshot wounds as investigators probe for answers - Fox News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-07-03T01:08:50.099297+00:00"
     },
     {
       "id": "4925496ec673",
@@ -11341,7 +11344,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "879ad4925327",
@@ -11386,7 +11389,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e9a87a291910",
@@ -11663,7 +11666,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "953fbe6ec0cb",
@@ -11797,7 +11800,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d5cc71dd4483",
@@ -11911,14 +11914,61 @@
       "started_at": "2026-07-01T08:58:13.801959+00:00",
       "expires_at": "2026-07-03T08:58:13.801959+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FIREMAN",
+        "name": "China Out of Tibet",
+        "mint": "CaKASCpnnmZgEUb6hHexi3KXaQYxEaxtKWmvBbA7r3rn",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 30253.0,
+        "liquidity_usd": 29342.06,
+        "price_usd": 3.025e-05,
+        "volume_h24": 119714.0,
+        "volume_h1": 119714.0,
+        "volume_m5": 59830.57,
+        "price_change_5m": 174.0,
+        "price_change_1h": 324.0,
+        "price_change_24h": 324.0,
+        "txns_h1_buys": 2636,
+        "txns_h1_sells": 554,
+        "created_ts": 1783040488000,
+        "pair_created_at": 1783040488000,
+        "url": "https://dexscreener.com/solana/fjcahnk1r7e9e4zjsy7yrvvqpox6zbtmhzzfcbwgml4y",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CHINA in CHINA OUT OF TIBET",
+        "safety_score": 23800,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low Amount of holders",
+            "level": "warn",
+            "description": "Not many holders are holding the token"
+          },
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-03T01:13:28.666704+00:00"
     },
     {
       "id": "8992a22166a5",
@@ -11962,7 +12012,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -12006,7 +12056,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6719a5d2383c",
@@ -12054,7 +12104,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c0e355263c1a",
@@ -12178,7 +12228,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d988b3735294",
@@ -12227,7 +12277,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b760ad2b40ff",
@@ -12272,7 +12322,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1bac5cffc474",
@@ -12313,7 +12363,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3697143f151b",
@@ -12356,7 +12406,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6b6d9d4501cc",
@@ -12406,7 +12456,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6104f4b9f1f0",
@@ -12454,7 +12504,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4956ed443e57",
@@ -12500,8 +12550,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     }
   ],
-  "last_updated": "2026-07-02T07:58:05.461077+00:00"
+  "last_updated": "2026-07-03T01:13:28.666719+00:00"
 }
