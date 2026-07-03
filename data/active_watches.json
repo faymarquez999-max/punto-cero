@@ -1,122 +1,6 @@
 {
   "watches": [
     {
-      "id": "120d6a136f3c",
-      "fingerprint": "120d6a136f3c",
-      "narrative_summary": "Elon Musk publica un 'Wow' en Twitter que genera gran interés y participación.",
-      "why_memeable": "La simplicidad y la brevedad de la publicación de Elon Musk la hacen especialmente memeable.",
-      "category": "Tendencias en Twitter",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "WOW",
-        "ELON MUSK",
-        "TWEET"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-21T23:53:14.639776+00:00",
-      "expires_at": "2026-06-23T23:53:14.639776+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14098.0,
-        "liquidity_usd": 11389.12,
-        "price_usd": 1.409e-05,
-        "volume_h24": 8211.24,
-        "volume_h1": 143.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.73,
-        "price_change_24h": -28.37,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 4,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-22T05:15:01.724010+00:00"
-    },
-    {
-      "id": "501aa190ef40",
-      "fingerprint": "501aa190ef40",
-      "narrative_summary": "Noticias sobre animales muertos y crueldad animal, incluyendo un caso de un perro muerto en un incendio y otro de un perro encontrado muerto en una piscina reflectante.",
-      "why_memeable": "La combinación de animales muertos y crueldad animal es un tema emocionalmente cargado y fácil de entender, lo que lo hace memeable.",
-      "category": "Noticias de animales",
-      "matched_archetype": "animal_at_the_center_of_story",
-      "candidate_tickers": [
-        "DEADPETS",
-        "ANIMALCRUELTY",
-        "TRUMPANIMALS"
-      ],
-      "key_terms_for_dex_search": [
-        "animales muertos",
-        "crueldad animal",
-        "perros muertos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-22T05:10:42.250124+00:00",
-      "expires_at": "2026-06-25T05:10:42.250124+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-25T05:50:22.081123+00:00"
-    },
-    {
       "id": "3957782e4d01",
       "fingerprint": "3957782e4d01",
       "narrative_summary": "Un trabajador de guardería pedófilo podría haber sido detenido antes, según un ex colega.",
@@ -12492,7 +12376,96 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "b2cf749f05c5",
+      "fingerprint": "b2cf749f05c5",
+      "narrative_summary": "India investiga una fuga de datos de Tata que expuso secretos de iPhone de Apple",
+      "why_memeable": "La fuga de datos es un tema interesante y el hecho de que se expusieran secretos de iPhone puede ser chocante",
+      "category": "Tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "TATALEAKS",
+        "IPHONESECRETS",
+        "APPLETATA"
+      ],
+      "key_terms_for_dex_search": [
+        "Tata",
+        "Apple",
+        "iPhone",
+        "fuga de datos",
+        "secretos"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T17:05:57.711090+00:00",
+      "expires_at": "2026-07-06T17:05:57.711090+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f2f59bb7fa3a",
+      "fingerprint": "f2f59bb7fa3a",
+      "narrative_summary": "Elon Musk confirma la verdad en una publicación en Twitter",
+      "why_memeable": "La frase 'True' es corta y fácil de compartir, y la confirmación de Elon Musk la hace viral",
+      "category": "Celebridad y drama",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "xcancel"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-07-03T17:07:23.207842+00:00",
+      "expires_at": "2026-07-05T17:07:23.207842+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-03T13:17:41.489188+00:00"
+  "last_updated": "2026-07-03T17:07:23.207842+00:00"
 }
