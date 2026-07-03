@@ -1,168 +1,6 @@
 {
   "watches": [
     {
-      "id": "3957782e4d01",
-      "fingerprint": "3957782e4d01",
-      "narrative_summary": "Un trabajador de guardería pedófilo podría haber sido detenido antes, según un ex colega.",
-      "why_memeable": "La narrativa combina un tema serio con la idea de que alguien podría haber sido detenido antes, lo que genera una mezcla de emociones y una sensación de injusticia.",
-      "category": "noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JUSTICE4KIDS",
-        "STOPPED2SOON",
-        "NURSERYGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "nursery worker",
-        "paedophile",
-        "stopped sooner",
-        "former colleague"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-22T05:10:43.813008+00:00",
-      "expires_at": "2026-06-25T05:10:43.813008+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Paedophile nursery worker could have been stopped sooner, says former colleague",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-25T05:50:22.081135+00:00"
-    },
-    {
-      "id": "3189b6d6044f",
-      "fingerprint": "3189b6d6044f",
-      "narrative_summary": "Explosión en fábrica de gas en Qatar, 54 heridos y 18 desaparecidos",
-      "why_memeable": "La explosión en una fábrica de gas en Qatar es un evento dramático y visualmente impactante que puede ser capturado en una frase o imagen.",
-      "category": "accidente industrial",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "QATARGAS",
-        "EXPLOSIONQATAR",
-        "GASFACTORY"
-      ],
-      "key_terms_for_dex_search": [
-        "Qatar",
-        "explosión",
-        "fábrica de gas",
-        "accidente industrial"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-22T05:11:57.737674+00:00",
-      "expires_at": "2026-06-24T05:11:57.737674+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-06-24T08:17:53.385046+00:00"
-    },
-    {
-      "id": "649837b124bf",
-      "fingerprint": "649837b124bf",
-      "narrative_summary": "Elon Musk publica un tweet con una sonrisa de oreja a oreja y la frase 'Full access' que genera mucha atención.",
-      "why_memeable": "La frase 'Full access' es corta y fácil de recordar, y la sonrisa de Elon Musk es icónica.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ELON_ACCESS",
-        "FULL_ACCESS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "fullaccess",
-        "access",
-        "meme"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-22T05:13:42.363273+00:00",
-      "expires_at": "2026-06-24T05:13:42.363273+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14098.0,
-        "liquidity_usd": 11389.12,
-        "price_usd": 1.409e-05,
-        "volume_h24": 8211.24,
-        "volume_h1": 143.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.73,
-        "price_change_24h": -28.37,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 4,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "“Full access” 😂",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-22T05:15:05.287208+00:00"
-    },
-    {
       "id": "095135787b5e",
       "fingerprint": "095135787b5e",
       "narrative_summary": "Elon Musk publica 'Wow' en Twitter, generando una gran cantidad de engagement.",
@@ -10835,13 +10673,14 @@
       "started_at": "2026-06-30T21:22:53.617165+00:00",
       "expires_at": "2026-07-03T21:22:53.617165+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "no-kill animal rescue - kobi5.com",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-03T23:47:18.539854+00:00"
     },
     {
       "id": "879ad4925327",
@@ -10879,14 +10718,15 @@
       "started_at": "2026-06-30T22:54:35.471579+00:00",
       "expires_at": "2026-07-03T22:54:35.471579+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-03T23:47:18.539872+00:00"
     },
     {
       "id": "e9a87a291910",
@@ -11298,7 +11138,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d5cc71dd4483",
@@ -11510,7 +11350,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -11728,7 +11568,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d988b3735294",
@@ -11823,7 +11663,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "1bac5cffc474",
@@ -11908,7 +11748,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6b6d9d4501cc",
@@ -11958,7 +11798,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6104f4b9f1f0",
@@ -12006,7 +11846,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4956ed443e57",
@@ -12052,7 +11892,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f8106dd77824",
@@ -12203,7 +12043,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b579cc3941cc",
@@ -12248,7 +12088,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "65b656bd74d7",
@@ -12295,7 +12135,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "138a086fc726",
@@ -12339,7 +12179,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1151819ad77b",
@@ -12381,7 +12221,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ea0078f841cb",
@@ -12429,7 +12269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b2cf749f05c5",
@@ -12545,8 +12385,150 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "bc137961ed75",
+      "fingerprint": "bc137961ed75",
+      "narrative_summary": "La estrella de la NFL Travis Kelce se sintió decepcionado al no poder entregar una pulsera de amistad que hizo con su número a Taylor Swift durante su gira Eras Tour.",
+      "why_memeable": "La historia es fácil de entender y tiene un elemento de decepción y humor, lo que la hace compartible y memeable.",
+      "category": "entretenimiento",
+      "matched_archetype": "celebridad_en_situación_inesperada",
+      "candidate_tickers": [
+        "KELCE4TAY",
+        "TAYLORSWIFTED",
+        "NFLFANBOY",
+        "ERASTOURFAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Travis Kelce",
+        "Taylor Swift",
+        "Eras Tour",
+        "NFL",
+        "celebridad"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-03T23:47:20.337461+00:00",
+      "expires_at": "2026-07-06T23:47:20.337461+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "NFL star Travis Kelce reveals he made a friendship bracelet with his number on it when he attended Taylor Swift’s Eras Tour, but left disappointed because he didn’t get to hand it to her.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6615f859d275",
+      "fingerprint": "6615f859d275",
+      "narrative_summary": "Se descubrieron masas de restos de perros en un refugio de animales en California",
+      "why_memeable": "La narrativa es memeable debido a la gravedad de la situación y la sorpresa de encontrar restos de perros en un refugio de animales",
+      "category": "noticias de animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "PERROSDECALIFORNIA",
+        "REFUGIODEANIMALES",
+        "MASASDEPERROS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "refugio",
+        "California",
+        "masas",
+        "restos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-07-03T23:47:34.461223+00:00",
+      "expires_at": "2026-07-05T23:47:34.461223+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "England-Mexico kick-off unchanged after Fifa U-turn",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "039f37deca9f",
+      "fingerprint": "039f37deca9f",
+      "narrative_summary": "Taylor Swift y Travis Kelce se casan en una boda real en el Madison Square Garden con seguridad estricta.",
+      "why_memeable": "La boda de Taylor Swift y Travis Kelce es un evento viral con una gran carga emocional y un impacto cultural significativo.",
+      "category": "Celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAYLORSWIFT",
+        "TRAVISKELCE",
+        "BODAREAL",
+        "MADISONSQUAREGARDEN"
+      ],
+      "key_terms_for_dex_search": [
+        "TaylorSwift",
+        "TravisKelce",
+        "BodaReal",
+        "MadisonSquareGarden"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-03T23:49:24.205371+00:00",
+      "expires_at": "2026-07-05T23:49:24.205371+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Taylor Swift and Travis Kelce's wedding day arrives with Madison Square Garden under tight security - CBS News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-03T21:26:44.161528+00:00"
+  "last_updated": "2026-07-03T23:49:24.205371+00:00"
 }
