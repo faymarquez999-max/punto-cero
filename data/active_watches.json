@@ -1,51 +1,6 @@
 {
   "watches": [
     {
-      "id": "029810999810",
-      "fingerprint": "029810999810",
-      "narrative_summary": "Se rumorea que los leones salvajes nunca han matado a humanos.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable.",
-      "category": "Debate sobre la seguridad de los leones salvajes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CHEETAHS",
-        "LEONESSALVAJES",
-        "NEVERKILLHUMANS"
-      ],
-      "key_terms_for_dex_search": [
-        "Cheetahs",
-        "LeonesSalvajes",
-        "NeverKillHumans"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-22T23:28:27.232884+00:00",
-      "expires_at": "2026-06-24T23:28:27.232884+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-06-25T01:31:11.858072+00:00"
-    },
-    {
       "id": "89e6d733dd21",
       "fingerprint": "89e6d733dd21",
       "narrative_summary": "Un tiroteo en Montreal, Canadá, deja al menos dos muertos y el presunto atacante también.",
@@ -11994,13 +11949,14 @@
       "started_at": "2026-07-03T11:19:07.047706+00:00",
       "expires_at": "2026-07-04T11:19:07.047706+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-04T16:19:50.869886+00:00"
     },
     {
       "id": "ea0078f841cb",
@@ -12521,7 +12477,49 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "4e85b2d48f4c",
+      "fingerprint": "4e85b2d48f4c",
+      "narrative_summary": "Elon Musk publicó 'True' en Twitter, generando gran interés y debate",
+      "why_memeable": "La simplicidad y claridad de la publicación de Elon Musk la hacen muy memeable",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "twitter"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 2,
+        "memeable": 9,
+        "visual": 1,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-04T16:23:11.800161+00:00",
+      "expires_at": "2026-07-06T16:23:11.800161+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-04T10:32:26.927199+00:00"
+  "last_updated": "2026-07-04T16:23:11.800161+00:00"
 }
