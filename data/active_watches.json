@@ -11240,7 +11240,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -11458,7 +11458,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d988b3735294",
@@ -11553,7 +11553,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1bac5cffc474",
@@ -11638,7 +11638,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6b6d9d4501cc",
@@ -11688,7 +11688,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6104f4b9f1f0",
@@ -11729,14 +11729,15 @@
       "started_at": "2026-07-02T07:54:44.725264+00:00",
       "expires_at": "2026-07-04T07:54:44.725264+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-04T08:16:13.191430+00:00"
     },
     {
       "id": "4956ed443e57",
@@ -11775,14 +11776,15 @@
       "started_at": "2026-07-02T07:56:01.644604+00:00",
       "expires_at": "2026-07-04T07:56:01.644604+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FBI Issues Statement on Legitimacy of Nancy Guthrie Ransom Notes",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-04T08:16:13.191442+00:00"
     },
     {
       "id": "f8106dd77824",
@@ -11933,7 +11935,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b579cc3941cc",
@@ -11978,7 +11980,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "65b656bd74d7",
@@ -12025,7 +12027,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "138a086fc726",
@@ -12069,7 +12071,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1151819ad77b",
@@ -12111,7 +12113,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ea0078f841cb",
@@ -12159,7 +12161,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b2cf749f05c5",
@@ -12275,7 +12277,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "bc137961ed75",
@@ -12398,7 +12400,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "039f37deca9f",
@@ -12444,7 +12446,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5d432beaa209",
@@ -12492,7 +12494,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7578233cd480",
@@ -12538,7 +12540,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     }
   ],
   "last_updated": "2026-07-04T05:30:54.797278+00:00"
