@@ -11138,7 +11138,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d5cc71dd4483",
@@ -11350,7 +11350,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4ad1c9b5dc4f",
@@ -11568,7 +11568,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d988b3735294",
@@ -11663,7 +11663,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1bac5cffc474",
@@ -11748,7 +11748,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6b6d9d4501cc",
@@ -11798,7 +11798,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6104f4b9f1f0",
@@ -11846,7 +11846,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4956ed443e57",
@@ -11892,7 +11892,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f8106dd77824",
@@ -12043,7 +12043,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b579cc3941cc",
@@ -12088,7 +12088,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "65b656bd74d7",
@@ -12135,7 +12135,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "138a086fc726",
@@ -12179,7 +12179,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1151819ad77b",
@@ -12221,7 +12221,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ea0078f841cb",
@@ -12269,7 +12269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b2cf749f05c5",
@@ -12385,7 +12385,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bc137961ed75",
@@ -12425,8 +12425,34 @@
       "started_at": "2026-07-03T23:47:20.337461+00:00",
       "expires_at": "2026-07-06T23:47:20.337461+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "LojakPaul",
+        "name": "The Top Influencer",
+        "mint": "HS4DWjgJ2h51PCnhh95saqgLQ21Zps6VABK1vi9gpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 343884.0,
+        "liquidity_usd": 64845.7,
+        "price_usd": 0.0003438,
+        "volume_h24": 9204670.84,
+        "volume_h1": 293938.72,
+        "volume_m5": 20676.56,
+        "price_change_5m": 8.36,
+        "price_change_1h": 1.3,
+        "price_change_24h": -82.54,
+        "txns_h1_buys": 1531,
+        "txns_h1_sells": 1193,
+        "created_ts": 1782965480000,
+        "pair_created_at": 1782965480000,
+        "url": "https://dexscreener.com/solana/bfvhuy3y2fuvzqzuppyyhsaoh8ciydvaxj25zystwuru",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NFL in THE TOP INFLUENCER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "NFL star Travis Kelce reveals he made a friendship bracelet with his number on it when he attended Taylor Swift’s Eras Tour, but left disappointed because he didn’t get to hand it to her.",
       "cluster_sources": [
         "4chan",
@@ -12434,7 +12460,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-04T01:29:28.864701+00:00"
     },
     {
       "id": "6615f859d275",
@@ -12481,7 +12508,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "039f37deca9f",
@@ -12527,8 +12554,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     }
   ],
-  "last_updated": "2026-07-03T23:49:24.205371+00:00"
+  "last_updated": "2026-07-04T01:29:28.864714+00:00"
 }
