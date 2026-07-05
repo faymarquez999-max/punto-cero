@@ -1,174 +1,6 @@
 {
   "watches": [
     {
-      "id": "89e6d733dd21",
-      "fingerprint": "89e6d733dd21",
-      "narrative_summary": "Un tiroteo en Montreal, Canadá, deja al menos dos muertos y el presunto atacante también.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'tiroteo' y un lugar icónico como Montreal, Canadá.",
-      "category": "Noticias de crímenes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MONTREALSHOOTING",
-        "TIROTEOCANADÁ",
-        "VÍCTIMASDEMONTREAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Montreal",
-        "tiroteo",
-        "muertos",
-        "atacante",
-        "Canadá"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-22T23:29:21.371028+00:00",
-      "expires_at": "2026-06-24T23:29:21.371028+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Video shows deadly shooting in Montreal, Canada",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-06-25T01:31:11.858085+00:00"
-    },
-    {
-      "id": "4b4729772903",
-      "fingerprint": "4b4729772903",
-      "narrative_summary": "DHS publicó un post extraño sobre el avance de la selección masculina de fútbol de los EE. UU. en la Copa del Mundo, pero se equivocó.",
-      "why_memeable": "La narrativa tiene un elemento de sorpresa y error, lo que la hace fácilmente compartible y recordable.",
-      "category": "fútbol, Copa del Mundo, DHS, error, sorpresa",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DHS_ERR",
-        "COPA_ERR",
-        "MENSAJE_ERR"
-      ],
-      "key_terms_for_dex_search": [
-        "DHS",
-        "Copa del Mundo",
-        "fútbol",
-        "error",
-        "sorpresa"
-      ],
-      "score": 71,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-22T23:31:16.578235+00:00",
-      "expires_at": "2026-06-24T23:31:16.578235+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "YNE",
-        "name": "yesnoerror",
-        "mint": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 349777.0,
-        "liquidity_usd": 139961.27,
-        "price_usd": 0.0003497,
-        "volume_h24": 6314.08,
-        "volume_h1": 10.49,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.33,
-        "price_change_24h": 9.23,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 1,
-        "created_ts": 1734645841000,
-        "pair_created_at": 1734645841000,
-        "url": "https://dexscreener.com/solana/aaorer9vexygrink6z2gbcq5tkrnkzqxzkdpddexvamk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ERROR in YESNOERROR",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "DHS’ bizarre post about the U.S. men’s World Cup advancement got it all wrong - Yahoo Sports",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-24T08:22:24.025615+00:00"
-    },
-    {
-      "id": "c8e3ab7e29bf",
-      "fingerprint": "c8e3ab7e29bf",
-      "narrative_summary": "Keir Starmer renuncia como primer ministro del Reino Unido",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, con un título y un resumen que resumen la situación.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "STARMER",
-        "RESIGN",
-        "UKPM"
-      ],
-      "key_terms_for_dex_search": [
-        "Keir Starmer",
-        "resign",
-        "UK Prime Minister",
-        "política"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-23T01:35:34.040503+00:00",
-      "expires_at": "2026-06-25T01:35:34.040503+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Absolutely. This is a total lie.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-25T05:50:22.081139+00:00"
-    },
-    {
       "id": "3c6584e715c6",
       "fingerprint": "3c6584e715c6",
       "narrative_summary": "Se rumorea que los guepardos salvajes nunca han matado a humanos.",
@@ -11533,7 +11365,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6104f4b9f1f0",
@@ -11780,7 +11612,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b579cc3941cc",
@@ -11818,14 +11650,15 @@
       "started_at": "2026-07-03T05:04:20.136023+00:00",
       "expires_at": "2026-07-05T05:04:20.136023+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Victor Willis, who co-founded the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-05T05:45:45.388236+00:00"
     },
     {
       "id": "65b656bd74d7",
@@ -11872,7 +11705,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "138a086fc726",
@@ -11916,7 +11749,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1151819ad77b",
@@ -12150,7 +11983,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "bc137961ed75",
@@ -12273,7 +12106,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "039f37deca9f",
@@ -12319,7 +12152,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5d432beaa209",
@@ -12367,7 +12200,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "7578233cd480",
@@ -12413,7 +12246,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6754f8318a17",
@@ -12459,7 +12292,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1420e6904341",
@@ -12506,7 +12339,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4e85b2d48f4c",
@@ -12548,8 +12381,150 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "e7579f2d0c01",
+      "fingerprint": "e7579f2d0c01",
+      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien luego criticó a Massie como el peor congresista de la historia del país.",
+      "why_memeable": "La narrativa combina un personaje político polarizante con un evento dramático y una crítica fuerte, lo que puede generar un meme o una discusión viral.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMASSIE",
+        "BADREP",
+        "TRUMPFEUD",
+        "MASSIEGATE",
+        "TRUMPENDORSE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Massie",
+        "Congresista",
+        "Política",
+        "Meme"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-05T05:45:47.112922+00:00",
+      "expires_at": "2026-07-08T05:45:47.112922+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "36f074bf03b5",
+      "fingerprint": "36f074bf03b5",
+      "narrative_summary": "Taylor Swift se casó con detalles inusuales, incluyendo la participación de Adam Sandler y pañuelos con el tema de 'Blank Space'",
+      "why_memeable": "La combinación de una celebridad como Taylor Swift con detalles inusuales y la participación de otra celebridad como Adam Sandler, junto con el tema icónico de 'Blank Space', ofrece un rico terreno para la creación de memes",
+      "category": "Celebridad y Entretenimiento",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "SWIFTIE",
+        "BLANKSPACE",
+        "TAYLORSWIFT",
+        "ADAMSANDLER",
+        "SWIFTWEDDING"
+      ],
+      "key_terms_for_dex_search": [
+        "Taylor Swift",
+        "Adam Sandler",
+        "Blank Space",
+        "Celebridad",
+        "Boda"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 7
+      },
+      "started_at": "2026-07-05T05:45:48.792965+00:00",
+      "expires_at": "2026-07-08T05:45:48.792965+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs - The Hollywood Reporter",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "15ad0cecd745",
+      "fingerprint": "15ad0cecd745",
+      "narrative_summary": "Marines held captive for 9 años por un link en internet",
+      "why_memeable": "La frase 'keeeeeeeeeek' es memeable y la situación de los marines es absurda y polarizante",
+      "category": "internet",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LINK",
+        "KEEK",
+        "MARINES"
+      ],
+      "key_terms_for_dex_search": [
+        "marines",
+        "captor",
+        "link",
+        "keek"
+      ],
+      "score": 75,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-05T05:48:14.579102+00:00",
+      "expires_at": "2026-07-07T05:48:14.579102+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Link marines held 9 years for this",
+      "cluster_sources": [
+        "4chan"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-04T17:43:06.023550+00:00"
+  "last_updated": "2026-07-05T05:48:14.579102+00:00"
 }
