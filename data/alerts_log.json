@@ -27529,6 +27529,50 @@
           "MaestraTaylor"
         ]
       }
+    },
+    {
+      "ts": "2026-07-05T12:24:25.659996+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "accidente inesperado",
+        "title": "Fire breaks out on Brooklyn Bridge during New York’s fireworks show - AP News",
+        "candidate_tickers": [
+          "BrooklynBridgeFire",
+          "FireworksFiasco",
+          "NYCFire"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-05T12:25:47.237083+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c5e3480935bf",
+        "score": 74,
+        "category": "Noticias",
+        "title": "Climber couple arrested after scaling Empire State Building antenna for apparent marriage proposal - AP News",
+        "candidate_tickers": [
+          "EMPIRESTATEPROPOSAL",
+          "CLIMBERCOUPLE",
+          "MATRIMONIOENELAIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-05T12:26:18.491131+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d3b8a2c9e290",
+        "score": 80,
+        "category": "política",
+        "title": "Masked Patriot Front white nationalists stage July 4 march through DC - Reuters",
+        "candidate_tickers": [
+          "PATRIOTFRONT",
+          "CONFEDERATEFLAG",
+          "JULY4MARCH"
+        ]
+      }
     }
   ]
 }
