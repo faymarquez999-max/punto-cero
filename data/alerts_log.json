@@ -27705,6 +27705,50 @@
           "ATAQUE"
         ]
       }
+    },
+    {
+      "ts": "2026-07-05T17:21:58.124953+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1c9c7b7fc27e",
+        "score": 80,
+        "category": "política",
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "candidate_tickers": [
+          "IRAN_LEADER",
+          "AYATOLLAH_KHAMENEI",
+          "IRAN_FUNERAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-05T17:24:36.742959+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2d0d64536aab",
+        "score": 88,
+        "category": "política, religión",
+        "title": "China releases underground church pastor after months in detention",
+        "candidate_tickers": [
+          "CHINALIBERÓ",
+          "EZRAJIN",
+          "PASTORLIBRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-05T17:26:41.690930+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Deporte",
+        "title": "Un periódico argentino destaca un «hecho sorprendente» que podría producirse en el partido entre Egipto y Argentina - Goal.com",
+        "candidate_tickers": [
+          "ARGvsEGY",
+          "EgiptoVsArgentina",
+          "PartidoSorprendente"
+        ]
+      }
     }
   ]
 }
