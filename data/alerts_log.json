@@ -1,69 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-26T15:59:33.349508+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "84458bd3c6c5",
-        "score": 80,
-        "category": "finanzas y tecnología",
-        "title": "Micron Stock Hits $1 Trillion. Trump and Wall Street Unite Behind the Chip Titan. - Barron's",
-        "candidate_tickers": [
-          "MICRON",
-          "TRUMPCHIPS",
-          "WALLSTREETBOOM",
-          "CHIPTECH",
-          "BILLIONDOLLARCLUB"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T15:59:49.314495+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "52b3420c9ad6",
-        "score": 78,
-        "category": "Deportes",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-        "candidate_tickers": [
-          "KYLEBUSCH",
-          "NEUMONIA",
-          "SEPSIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T16:00:28.702676+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "652ef9f626ce",
-        "score": 84,
-        "category": "Noticias de tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONTRUTH",
-          "MUSKTURE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T16:00:56.864462+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a59d0a8384ca",
-        "score": 85,
-        "category": "Opinión pública y política",
-        "title": "Chicago is basically just a warzone",
-        "candidate_tickers": [
-          "CHICAGO",
-          "WARZONE",
-          "ELONMUSK",
-          "CHICAGOWARZONE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-26T16:02:22.530388+00:00",
       "kind": "shadow",
       "payload": {
@@ -27898,6 +27835,108 @@
           "MICHIGANSENATE",
           "DEMOCRATDROPSOUT"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-06T04:13:25.447936+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b36f9be3973c",
+        "score": 80,
+        "category": "Celebridad y eventos sociales",
+        "title": "Taylor Swift's Wedding Bouquet Caught By KC Chiefs Player's Sister - TMZ",
+        "candidate_tickers": [
+          "TAYLORSWIFT",
+          "TRAVISKELCE",
+          "WEDDINGBOUQUET"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T04:13:50.097005+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cd80e68872ba",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Leclerc wins British GP as F1 leader Antonelli fails to score - Reuters",
+        "candidate_tickers": [
+          "LECLERC",
+          "BRITISHGP",
+          "SAFETYCAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T04:14:29.614369+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "80821375dd6d",
+        "score": 88,
+        "category": "política",
+        "title": "Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding - AP News",
+        "candidate_tickers": [
+          "KHAMENEI",
+          "IRÁN",
+          "LÍDER SUPREMO",
+          "FUNERAL",
+          "SECRETO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T04:15:30.128012+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5bb97e06a92c",
+        "score": 82,
+        "category": "Debate sobre la poligamia",
+        "title": "Polygamy Debate Reignited in Kenya After Viral Widow’s Confession - Religion Unplugged",
+        "candidate_tickers": [
+          "POLYGAMYKENYA",
+          "VIRALWIDOWS",
+          "KENYAPOLYGAMY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T04:18:10.473435+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1420e6904341",
+        "ticker": "MojtabaKhamenei",
+        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
+        "mc": 10351.0
+      }
+    },
+    {
+      "ts": "2026-07-06T04:18:15.336237+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "496cd91bbc5f",
+        "ticker": "Indy",
+        "mint": "8R3eqFSPYa5Gs3PJCha6qv9VTpWmRgdmphXsHFjkpump",
+        "mc": 14008.0
+      }
+    },
+    {
+      "ts": "2026-07-06T04:18:16.901595+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b161e0df4742",
+        "ticker": "MojtabaKhamenei",
+        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
+        "mc": 10351.0
+      }
+    },
+    {
+      "ts": "2026-07-06T04:18:19.793340+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "80821375dd6d",
+        "ticker": "MojtabaKhamenei",
+        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
+        "mc": 10351.0
       }
     }
   ]
