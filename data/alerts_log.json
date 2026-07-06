@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-26T20:53:41.202446+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ede97cf12f96",
-        "score": 70,
-        "category": "negocios",
-        "title": "Exclusive: Lululemon nears deal to settle proxy war with founder Chip Wilson - Reuters",
-        "candidate_tickers": [
-          "LULULEMON",
-          "CHIPWILSON",
-          "STARLINK",
-          "AMAZON",
-          "LULULEMONWAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T20:54:19.513999+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "060448a93839",
-        "score": 88,
-        "category": "Accidente industrial",
-        "title": "Chemical tank rupture in Washington state causes multiple deaths and injuries - Reuters",
-        "candidate_tickers": [
-          "TANKEXPLODE",
-          "MOLINODEPAPEL",
-          "QUIMICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T20:54:57.505942+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "efa8e796642c",
-        "score": 78,
-        "category": "Muerte de actores famosos",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-        "candidate_tickers": [
-          "RIPACTORES",
-          "MUERTEDEACTORES",
-          "ACTORESFAMOSOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T20:56:05.269658+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4dd9c21b4aae",
-        "score": 79,
-        "category": "política",
-        "title": "Federal court blocks Alabama’s midterm gerrymandering plan, a blow for Republicans - Politico",
-        "candidate_tickers": [
-          "ALAGERRY",
-          "REPUBLICANSLOST",
-          "GERRYMANDERING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T22:27:42.580733+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1817dcc91e46",
-        "score": 73,
-        "category": "negocios",
-        "title": "$TSLA - MUSK HAS DISCUSSED WITH COLLEAGUES THE POSSIBILITY OF FOLDING TESLA-SPACEX TOGETHER - CNBC",
-        "candidate_tickers": [
-          "$TSLA",
-          "MUSK",
-          "TESLA",
-          "SPACEX"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-26T22:30:11.108272+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27940,6 +27862,79 @@
           "KEEK",
           "LINKKEEK",
           "KEEKEE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T12:31:46.885237+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d6dc0cb1a5bc",
+        "score": 70,
+        "category": "animal welfare",
+        "title": "Malnourished horse found dead on July 4 in South Carolina; was possibly dumped - FOX8 WGHP",
+        "candidate_tickers": [
+          "#CABALLOHAMBRIENTO",
+          "#ABANDONOANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T12:32:18.912040+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dcda27037674",
+        "score": 73,
+        "category": "política",
+        "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
+        "candidate_tickers": [
+          "KHAMENEI",
+          "TRUMP",
+          "IRAN",
+          "FUNERAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T12:34:28.109141+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "economía",
+        "title": "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources says - Reuters",
+        "candidate_tickers": [
+          "UAEcrudo",
+          "OPECexit",
+          "petróleo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T12:34:59.662135+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ceeed5111dc0",
+        "score": 91,
+        "category": "política",
+        "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte - AP News",
+        "candidate_tickers": [
+          "SARADUTERTE",
+          "IMPEACHMENTTRIAL",
+          "FILIPINOSENATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T12:35:36.964492+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridades y eventos de alta sociedad",
+        "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade - Reuters",
+        "candidate_tickers": [
+          "TaylorSwiftWedding",
+          "TravisKelceTaylorSwift",
+          "DiorVsChanel"
         ]
       }
     }
