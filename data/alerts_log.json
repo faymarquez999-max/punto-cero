@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T01:57:34.451641+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9b115e1cb2f7",
-        "score": 88,
-        "category": "política y controversia",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "MUSK",
-          "PERSECUTADOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T01:59:14.269637+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Tecnología",
-        "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks - CNBC",
-        "candidate_tickers": [
-          "SKHYNIX",
-          "AI",
-          "CHIP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T01:59:55.517553+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5f5f398008b0",
-        "score": 79,
-        "category": "clima",
-        "title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
-        "candidate_tickers": [
-          "EUROPE_HEATWAVE",
-          "CALOR_EXTREMO",
-          "MUERTES_EN_EUROPA"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-27T02:00:22.024320+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27940,6 +27896,49 @@
           "Jubillar",
           "Asesinato2020",
           "Confesión"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T20:29:52.328905+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ab7104223317",
+        "score": 91,
+        "category": "Política",
+        "title": "Exclusive: Woman who dated Graham Platner says he sexually assaulted her - Politico",
+        "candidate_tickers": [
+          "GRAHAMPLATNER",
+          "AGRESIONSEXUAL",
+          "CANDIDATODEMOCRATA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T20:30:41.636621+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política",
+        "title": "As Khamenei mourners fill Iran's streets, discontent still simmers - Reuters",
+        "candidate_tickers": [
+          "Khamenei",
+          "Iran",
+          "Protesta"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T20:33:47.354308+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Desastres naturales",
+        "title": "Suben a 3.535 los muertos por los terremotos en Venezuela - Ultima Hora",
+        "candidate_tickers": [
+          "VenezuelaTerremoto",
+          "DesastreVenezuela",
+          "Terremoto3535"
         ]
       }
     }
