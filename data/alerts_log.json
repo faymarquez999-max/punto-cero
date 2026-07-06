@@ -1,72 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T02:00:22.024320+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ff62c6c842bc",
-        "score": 74,
-        "category": "Accidente industrial",
-        "title": "Multiple injuries, 1 dead, 9 missing after chemical implosion at Longview paper mill - KOMO",
-        "candidate_tickers": [
-          "LONGVIEWEXPLOSION",
-          "PAPERMILLTRAGEDY",
-          "QUÍMICAIMPLOSION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T02:01:45.890702+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "691cb6c0c985",
-        "ticker": "WorldCup",
-        "mint": "GDVXZwc6rPMowwb142WqEsev1LzMgMTqSJG7FszZdMMv",
-        "mc": 136080.0
-      }
-    },
-    {
-      "ts": "2026-05-27T02:01:48.299761+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9b115e1cb2f7",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 423152.0
-      }
-    },
-    {
-      "ts": "2026-05-27T06:31:57.101092+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "913ae868a3ca",
-        "score": 88,
-        "category": "clima",
-        "title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
-        "candidate_tickers": [
-          "EUROPACALOR",
-          "CALOREXTREMO",
-          "MUERTESPORCALOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T06:32:32.153950+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4063fb33ecc5",
-        "score": 90,
-        "category": "ciencia y tecnología",
-        "title": "NASA picks Blue Origin, other space firms for moon missions - Reuters",
-        "candidate_tickers": [
-          "BLUE",
-          "NASA",
-          "LUNA",
-          "BEZOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-27T06:33:18.101388+00:00",
       "kind": "shadow",
       "payload": {
@@ -27939,6 +27873,82 @@
           "VenezuelaTerremoto",
           "DesastreVenezuela",
           "Terremoto3535"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T22:00:17.387775+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "muerte de celebridad",
+        "title": "The Villain Made of Gas: Inside Netflix and Toho’s Ambitious Bet on ‘Human Vapor’",
+        "candidate_tickers": [
+          "LMFAO",
+          "LaurenBennett",
+          "PartyRockAnthem"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T22:01:19.307899+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología",
+        "title": "EXCLUSIVE: US cyber agency is using Anthropic's Mythos to audit government code, sources say - Reuters",
+        "candidate_tickers": [
+          "MYTHOS",
+          "AUDITGOV",
+          "CYBERSEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T22:01:58.425707+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b99aeec7fb20",
+        "score": 89,
+        "category": "Política",
+        "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+        "candidate_tickers": [
+          "DESTROYISRAEL",
+          "PAMPLONABULLRUN",
+          "SANFERMÍN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T22:03:32.770356+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "06470529ef5a",
+        "score": 80,
+        "category": "política",
+        "title": "Trump says he sought FIFA review of Balogun red card ahead of U.S.-Belgium match - Reuters",
+        "candidate_tickers": [
+          "TRUMP_BALOGUN",
+          "FIFA_TRUMP",
+          "BALOGUN_RED_CARD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T22:04:04.740386+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1e5ae9a149e2",
+        "score": 70,
+        "category": "Política",
+        "title": "Hamas dissolves Gaza government, Israel dismisses move as 'stunt' - Reuters",
+        "candidate_tickers": [
+          "HAMAS",
+          "GAZA",
+          "ISRAEL",
+          "ESTAFA",
+          "GOBIERNO",
+          "DISOLUCIÓN"
         ]
       }
     }
