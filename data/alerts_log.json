@@ -1,63 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-26T23:45:37.823742+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cf650075d43f",
-        "score": 89,
-        "category": "Política y celebridad",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "MUSK",
-          "PERSECUCIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T23:45:59.333732+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Incidente de fuga de químicos en California",
-        "title": "'Shocking' rise in school suspensions for racist and homophobic abuse",
-        "candidate_tickers": [
-          "QuímicosEnFuga",
-          "FugaDeQuímicos",
-          "CaliforniaEnPelícula"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T23:46:39.234132+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "691cb6c0c985",
-        "score": 79,
-        "category": "Deportes",
-        "title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---' - CBS Sports",
-        "candidate_tickers": [
-          "POCHETTINO",
-          "USMNT",
-          "WORLDCUP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T23:49:47.304783+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "motivacional",
-        "title": "Inspiring!",
-        "candidate_tickers": [
-          "INSPIRE",
-          "MUSKINSPIRE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-27T01:57:34.451641+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27936,6 +27879,67 @@
         "candidate_tickers": [
           "DiorVsChanel",
           "TaylorSwiftWedding"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T18:23:52.445985+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3b52c6715c16",
+        "score": 80,
+        "category": "Deportes/Política",
+        "title": "/GME/ - Settle in for Comfy Weekend Edition",
+        "candidate_tickers": [
+          "FIFATRUMP",
+          "BALOGUN",
+          "FIFARUEDCARD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T18:26:45.738880+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "137b8f3a5a92",
+        "score": 80,
+        "category": "Noticias de rescate animal",
+        "title": "What Donna Kelce, celeb guests have said about Travis Kelce, Taylor Swift's wedding - ABC News - Breaking News, Latest News and Videos",
+        "candidate_tickers": [
+          "PERROSMUERTOS",
+          "RESCATEANIMAL",
+          "CALIFORNIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T18:27:15.034016+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6d48a3107267",
+        "score": 74,
+        "category": "conflicto internacional",
+        "title": "Russia’s missile and drone attacks on Ukraine kill at least 22 - AP News",
+        "candidate_tickers": [
+          "RUSIA",
+          "UCRANIA",
+          "ATAQUE",
+          "MISILES",
+          "DRONES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T18:28:19.777356+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "crimen y justicia",
+        "title": "Frenchman convicted of 2020 murder of wife confesses from jail",
+        "candidate_tickers": [
+          "Jubillar",
+          "Asesinato2020",
+          "Confesión"
         ]
       }
     }
