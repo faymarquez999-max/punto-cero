@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-26T22:30:11.108272+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cb548258781a",
-        "score": 90,
-        "category": "Celebridades y muerte prematura",
-        "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
-        "candidate_tickers": [
-          "DIANEKEATON",
-          "CATHERINEOHARA",
-          "ERICDANE",
-          "NHSFAILURES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T22:30:51.598637+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología",
-        "title": "Rocket, Satellite Stocks Surge as SpaceX IPO Fuels Euphoria - Bloomberg.com",
-        "candidate_tickers": [
-          "SPACEX",
-          "SPACE",
-          "ROCKET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T22:31:34.936303+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "negocios",
-        "title": "Exclusive: Lululemon nears deal to settle proxy war with founder Chip Wilson - Reuters",
-        "candidate_tickers": [
-          "LULU",
-          "CHIPWILSON",
-          "LULULEMON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T22:32:06.639520+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7d68a35242e6",
-        "score": 70,
-        "category": "Tecnología",
-        "title": "NASA Taps Bezos’ Blue Origin, Firefly for Moon Base Contracts - Bloomberg.com",
-        "candidate_tickers": [
-          "LUNA",
-          "BLUEORIGIN",
-          "FIREFLY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-26T22:32:38.408545+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "NATO to beef up forces assigned to defend Baltics in war, sources say - Reuters",
-        "candidate_tickers": [
-          "NATO",
-          "Bálticos",
-          "Guerra",
-          "Fuerzas",
-          "Reuters"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-26T23:45:37.823742+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27935,6 +27860,82 @@
           "TaylorSwiftWedding",
           "TravisKelceTaylorSwift",
           "DiorVsChanel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T16:05:55.590133+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Deportes",
+        "title": "Coach told FA footballer Maddy Cusack was a liar, inquest into her death hears",
+        "candidate_tickers": [
+          "MaddyCusack",
+          "FútbolInjusto",
+          "EntrenadorMentiroso"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T16:05:57.137277+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "74739b99e6fa",
+        "score": 80,
+        "category": "Tecnología y Entretenimiento",
+        "title": "AI “Actor” Tilly Norwood to Make Feature Debut in Coming-of-Age Movie ‘Misaligned’",
+        "candidate_tickers": [
+          "TILLY",
+          "AINOR",
+          "MISALIGNED",
+          "AIWOOD",
+          "NORDBOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T16:06:26.081544+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "163c3ab715c1",
+        "score": 80,
+        "category": "negocios",
+        "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+        "candidate_tickers": [
+          "MSFT",
+          "XBOX",
+          "LAYOFF"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T16:08:20.360668+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "00bcc2f51bf8",
+        "score": 88,
+        "category": "política internacional",
+        "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+        "candidate_tickers": [
+          "KHAMENEI",
+          "IRAN",
+          "VENGANZA",
+          "TEHRAN",
+          "FUNERAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T16:09:22.403836+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Celebridad",
+        "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade - Reuters",
+        "candidate_tickers": [
+          "DiorVsChanel",
+          "TaylorSwiftWedding"
         ]
       }
     }
