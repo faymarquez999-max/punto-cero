@@ -1,69 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T06:33:18.101388+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump's redistricting push suffers setbacks in Alabama, South Carolina - Reuters",
-        "candidate_tickers": [
-          "TrumpRedistricting",
-          "AlabamaVsTrump",
-          "TrumpVsCarolina"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:01.517016+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5daa9cd31e84",
-        "score": 82,
-        "category": "motivación",
-        "title": "Inspiring!",
-        "candidate_tickers": [
-          "INSPIRE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:22.209116+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be9756b812c5",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWELON",
-          "ELONWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:32.593139+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0a7a330ee5f4",
-        "ticker": "MUSK",
-        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
-        "mc": 58643.0
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:42.662563+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cf650075d43f",
-        "ticker": "MUSK",
-        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
-        "mc": 58643.0
-      }
-    },
-    {
       "ts": "2026-05-27T06:34:50.417338+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27949,6 +27886,79 @@
           "ESTAFA",
           "GOBIERNO",
           "DISOLUCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T23:19:58.767827+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política y celebridades",
+        "title": "/XSG/ XRP Schizo General #2551",
+        "candidate_tickers": [
+          "MuskVsTrump",
+          "ElonMuskControversia",
+          "TrumpMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T23:21:17.161261+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "Incline Railway conductor fired after viral 4th of July video; CARTA claims \"zero tolerance\" for \"demeaning language\" - Local 3 News",
+        "candidate_tickers": [
+          "InclineRailway",
+          "CARTA",
+          "ConductorDespedido"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T23:23:36.650858+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5ab0d6cc3357",
+        "score": 74,
+        "category": "Noticias de crímenes y arrestos",
+        "title": "Man facing additional charges after assaulting officers, breaking squad car window while being arrested for DUI - The Mighty 790 KFGO",
+        "candidate_tickers": [
+          "DUI_DRAMA",
+          "AGRESIÓN_POLICÍA",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T23:24:05.883754+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News",
+        "candidate_tickers": [
+          "Khamenei",
+          "Iran",
+          "Funeral",
+          "Tehran"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-06T23:25:13.037673+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "711550908ddc",
+        "score": 80,
+        "category": "política",
+        "title": "Ukraine's Zelenskiy: It is 'absurd' that production of missile defence arms cannot meet demand - Reuters",
+        "candidate_tickers": [
+          "ZELENSKIY",
+          "UCRANIA",
+          "ARMAS DE DEFENSA ANTIMISILES"
         ]
       }
     }
