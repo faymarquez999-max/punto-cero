@@ -1,196 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T14:17:17.998667+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ee6529a7da5b",
-        "score": 70,
-        "category": "labour market",
-        "title": "Job ad for shepherds goes viral in China, exposing labour market strains - Reuters",
-        "candidate_tickers": [
-          "SHEPHERDCOIN",
-          "CHINALABOUR",
-          "JOBADVIRAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T14:17:48.733382+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6120b869f68d",
-        "score": 90,
-        "category": "clima, muerte, Europa",
-        "title": "Exceptionally early heat wave shatters records and brings deaths in Europe - AP News",
-        "candidate_tickers": [
-          "EUROPE_HEATWAVE",
-          "CALOR_EXTREMO",
-          "MUERTES_EN_EUROPA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T14:18:17.004903+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f191fe4c1ebb",
-        "score": 84,
-        "category": "Celebridad/ Tecnología",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWMUSK",
-          "MUSKWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T14:19:42.607032+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ed7ee505c30d",
-        "score": 72,
-        "category": "meme de Elon Musk",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "GROKING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T14:19:57.680868+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ee6529a7da5b",
-        "ticker": "MXNA",
-        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
-        "mc": 21118.0
-      }
-    },
-    {
-      "ts": "2026-05-27T17:39:34.781696+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b1e33287f917",
-        "score": 74,
-        "category": "desastres naturales",
-        "title": "Hope fades for nine missing after paper mill tank implosion in Washington state - The Guardian",
-        "candidate_tickers": [
-          "IMPLOSION",
-          "TANQUEQUIMICO",
-          "MOLINO",
-          "DESAPARECIDOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T17:40:08.807438+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d781aee33fb5",
-        "score": 88,
-        "category": "política",
-        "title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
-        "candidate_tickers": [
-          "BOLSONARO",
-          "SIMPSONS",
-          "JUDGEMENTDAY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T17:40:48.421899+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "64ee3e27701c",
-        "score": 80,
-        "category": "Deportes/Entretenimiento",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-        "candidate_tickers": [
-          "KYLEBUSCH",
-          "SEPSIS",
-          "MUERTEREPENTINA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T19:53:45.342104+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "00da859f166c",
-        "score": 78,
-        "category": "conflicto bélico",
-        "title": "HAMAS CONFIRMS DEATH OF SENIOR COMMANDER IN GAZA MOHAMMAD ODEH - STATEMENT",
-        "candidate_tickers": [
-          "HAMAS",
-          "MOHAMMED ODEH",
-          "GAZA",
-          "ISRAEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T19:55:32.333667+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e661d6aa8dcc",
-        "score": 89,
-        "category": "política",
-        "title": "Join the Abraham Accords? US allies scoff at Trump’s demand. - Politico",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "ABRAHAMACCORDS",
-          "TRUMPVSELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T19:56:09.838028+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "480b83fd16f6",
-        "score": 88,
-        "category": "Noticias",
-        "title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
-        "candidate_tickers": [
-          "TRUMPBUFFALO",
-          "FAMASALVA",
-          "BÚFALOTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T19:57:15.148472+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d2d153207689",
-        "score": 91,
-        "category": "política",
-        "title": "Simpsons writer claims ‘it’s judgement day' in bizarre presidential bid - Premier Christian News",
-        "candidate_tickers": [
-          "SIMPSONSWRITER",
-          "JUDGEMENTDAY",
-          "BOLSONARO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T19:57:28.950943+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1ffe9ca4413e",
-        "score": 80,
-        "category": "Celebridad/Politica",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOW",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-27T19:58:06.463200+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27970,6 +27780,196 @@
           "OTAN",
           "GERMANY_THYSSENKRUPP"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:47:22.899225+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5605a3324246",
+        "score": 80,
+        "category": "Política y Deportes",
+        "title": "VOO and Chill",
+        "candidate_tickers": [
+          "KIRK",
+          "TRUMPFC",
+          "BALO",
+          "MURDERCUP",
+          "TRUMPINT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:47:24.818193+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9331f698a6f4",
+        "score": 80,
+        "category": "Celebridad y política",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSKTRUMP",
+          "ELONVSTRUMP",
+          "TRUMPFEUD",
+          "MUSKTWEET",
+          "CELEBRITYCLASH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:47:30.678918+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4fa28e2247bc",
+        "score": 78,
+        "category": "política internacional",
+        "title": "'Overturn this' – Belgium taunt US and say Trump move fired them up",
+        "candidate_tickers": [
+          "BELGIA",
+          "TRUMPED",
+          "FIREUP",
+          "USVSBE",
+          "KHAMENEI",
+          "IRANFURY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:47:49.968674+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "05ea12c1e770",
+        "score": 80,
+        "category": "cultural_exchange",
+        "title": "Japanese World Cup fan goes viral documenting American firsts in Las Vegas - Live 5 News",
+        "candidate_tickers": [
+          "LASVEGAS",
+          "JAPANUSA",
+          "WORLDCUPFAN",
+          "FIRSTTIMELASVEGAS",
+          "JAPANESEINUSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:48:18.459679+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7bc7fe2a0bad",
+        "score": 74,
+        "category": "Celebridad",
+        "title": "Why Zendaya Botched Her Lines on First Day of ‘The Odyssey’ Filming: “My Mouth Was Just Frozen”",
+        "candidate_tickers": [
+          "ZENDAYAFROZEN",
+          "ODYSSEYMISTAKE",
+          "FROZENMOUTH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:48:38.574395+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Noticias y eventos",
+        "title": "Breaking: New wildfire reported in Shasta County on July 6 - Fresno Bee",
+        "candidate_tickers": [
+          "ShastaFuego",
+          "TrumpFuego",
+          "Fuego250"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:49:15.063639+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5642f9fb1023",
+        "score": 88,
+        "category": "política",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "candidate_tickers": [
+          "ZELENSKY",
+          "NATO",
+          "RUSSIA",
+          "ZELENSKYVSRUSSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:50:41.286308+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dff07f115b85",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Joey Chestnut eats 66 hot dogs to again claim Mustard Belt at Nathan’s Famous contest - AP News",
+        "candidate_tickers": [
+          "JOEYCHESTNUT66",
+          "MUSTARDBELT",
+          "HOTDOGS66",
+          "NATHANSFAMOUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:51:15.114290+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0e3e510c14a9",
+        "score": 92,
+        "category": "Política",
+        "title": "Democrats have abandoned Graham Platner - Politico",
+        "candidate_tickers": [
+          "GRAHAMPLATNER",
+          "DEMÓCRATAS",
+          "ACUSACIÓN",
+          "AGRESIÓNSEXUAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:51:40.023305+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Muerte de una celebridad",
+        "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
+        "candidate_tickers": [
+          "LaurenBennett",
+          "PartyRockAnthem",
+          "GRL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T05:51:54.128549+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5605a3324246",
+        "ticker": "Kirkslop",
+        "mint": "8m5hzX9hprtWwPuVZL4daCZfggWYKc6fhSJDDpiqpump",
+        "mc": 116210.0
+      }
+    },
+    {
+      "ts": "2026-07-07T05:51:57.949436+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4fa28e2247bc",
+        "ticker": "IRAN",
+        "mint": "2zQw1CLSbFR7V8W53Fz3Jh5mMXFj5k3bthwVFsT83RFK",
+        "mc": 253603.0
+      }
+    },
+    {
+      "ts": "2026-07-07T05:52:02.140594+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7bc7fe2a0bad",
+        "ticker": "Odyssey",
+        "mint": "7yDRPZ8aDGbdvWWWV2f1haxmGmEPHgDmJH5mydQQpump",
+        "mc": 36394.0
       }
     }
   ]

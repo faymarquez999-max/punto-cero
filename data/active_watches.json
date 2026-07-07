@@ -1,500 +1,6 @@
 {
   "watches": [
     {
-      "id": "a9a0c0fccdfc",
-      "fingerprint": "a9a0c0fccdfc",
-      "narrative_summary": "Francia registra la noche más caliente de su historia mientras 40 personas se ahogan intentando escapar del calor extremo.",
-      "why_memeable": "La combinación de un evento trágico y un récord histórico es altamente memeable.",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FRANCIACALOR",
-        "AHOGADOSENFRANCIA",
-        "CALOREXTREMO"
-      ],
-      "key_terms_for_dex_search": [
-        "Francia",
-        "CalorExtremo",
-        "Ahogados"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-23T15:45:09.656204+00:00",
-      "expires_at": "2026-06-26T15:45:09.656204+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-06-26T16:24:42.817131+00:00"
-    },
-    {
-      "id": "c4882bd9297d",
-      "fingerprint": "c4882bd9297d",
-      "narrative_summary": "Elon Musk acusa a X de importar votantes y jueces",
-      "why_memeable": "Frase corta y directa con connotación de 'absurdidad'",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "XIMPORT",
-        "JUDGES4X",
-        "VOTERS4X"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "x",
-        "import",
-        "voters",
-        "judges"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-23T15:46:32.348033+00:00",
-      "expires_at": "2026-06-25T15:46:32.348033+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10042.0,
-        "liquidity_usd": 9267.08,
-        "price_usd": 1.004e-05,
-        "volume_h24": 11183.63,
-        "volume_h1": 163.17,
-        "volume_m5": 101.3,
-        "price_change_5m": 5.02,
-        "price_change_1h": 0.8,
-        "price_change_24h": -2.62,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 9,
-        "created_ts": 1781621912000,
-        "pair_created_at": 1781621912000,
-        "url": "https://dexscreener.com/solana/adpijb4xibt4jhiwqywp96reyuckr27ytljxpriufag6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "They didn’t just import voters, they imported judges too",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-23T15:47:52.805356+00:00"
-    },
-    {
-      "id": "eb7d8fe196df",
-      "fingerprint": "eb7d8fe196df",
-      "narrative_summary": "Rusia considera prohibir exportaciones de diesel y importar combustible debido a ataques ucranianos; Crimea restringe vida pública.",
-      "why_memeable": "La narrativa tiene un título claro y conciso, y se centra en un evento conflictivo entre Rusia y Ucrania.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAUCRANIA",
-        "DIESEL",
-        "CRIMEA"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "diesel",
-        "exportación",
-        "importación",
-        "Crimea"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-23T19:37:38.528524+00:00",
-      "expires_at": "2026-06-25T19:37:38.528524+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-25T21:20:55.801758+00:00"
-    },
-    {
-      "id": "e06e8c3799e0",
-      "fingerprint": "e06e8c3799e0",
-      "narrative_summary": "Elon Musk afirma que el financiamiento de USAID fue central en la creación de COVID-19",
-      "why_memeable": "La afirmación de Elon Musk es breve y fácil de recordar, lo que la hace memeable.",
-      "category": "conspiración/leak",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "COVID19",
-        "USAID",
-        "ELON",
-        "COVID"
-      ],
-      "key_terms_for_dex_search": [
-        "COVID19",
-        "USAID",
-        "ELON",
-        "conspiración"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-23T19:38:48.865900+00:00",
-      "expires_at": "2026-06-25T19:38:48.865900+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "USAID",
-        "name": "USAID",
-        "mint": "6P8ixuqGZpfyHAxyxbU4a31vsMiFiCQjBzVV58gPpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 18115.0,
-        "liquidity_usd": 17090.52,
-        "price_usd": 1.812e-05,
-        "volume_h24": 104659.63,
-        "volume_h1": 300.6,
-        "volume_m5": 31.23,
-        "price_change_5m": -1.35,
-        "price_change_1h": -0.3,
-        "price_change_24h": 23.87,
-        "txns_h1_buys": 5,
-        "txns_h1_sells": 5,
-        "created_ts": 1738517148000,
-        "pair_created_at": 1738517148000,
-        "url": "https://dexscreener.com/solana/j3und1eu6ywnknpg5tc7ps4gcewic2xtj1zpfmnwcpme",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: USAID==USAID",
-        "safety_score": 2167,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "USAID funding was central to the creation of COVID-19",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-24T08:22:34.427429+00:00"
-    },
-    {
-      "id": "284406c34538",
-      "fingerprint": "284406c34538",
-      "narrative_summary": "George Soros quiere destruir la civilización occidental, según Elon Musk",
-      "why_memeable": "La frase es corta, fácil de recordar y tiene un claro mensaje polémico",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SOROS",
-        "WESTERN",
-        "CIVILIZATION"
-      ],
-      "key_terms_for_dex_search": [
-        "Soros",
-        "Occidente",
-        "Civilización"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-23T19:39:10.419412+00:00",
-      "expires_at": "2026-06-25T19:39:10.419412+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Soros wants to end Western Civilization",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-25T21:20:55.801772+00:00"
-    },
-    {
-      "id": "f2b9fdcaf3f2",
-      "fingerprint": "f2b9fdcaf3f2",
-      "narrative_summary": "Elon Musk critica el proyecto de ley de Trump y genera polémica en las redes sociales",
-      "why_memeable": "La crítica directa de Elon Musk hacia Trump y su proyecto de ley es un tema muy polarizador y fácil de resumir en frases cortas y compartibles",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "TRUMPBILL",
-        "ELONVSTRUMP",
-        "MUSKTAX",
-        "TRUMPMUSKFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Trump",
-        "proyecto de ley",
-        "polémica",
-        "redes sociales"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-23T22:51:02.455918+00:00",
-      "expires_at": "2026-06-26T22:51:02.455918+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Elon Musk",
-        "name": "Elon Musk",
-        "mint": "2iJWDBhFnek5hkUjUDqaCMdfZCYA4DWcaCVSNusWw4n7",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 22125.0,
-        "liquidity_usd": 30182.88,
-        "price_usd": 2.212e-05,
-        "volume_h24": 43658.09,
-        "volume_h1": 43658.09,
-        "volume_m5": 13212.67,
-        "price_change_5m": 12.99,
-        "price_change_1h": 90.68,
-        "price_change_24h": 90.68,
-        "txns_h1_buys": 306,
-        "txns_h1_sells": 272,
-        "created_ts": 1782448988000,
-        "pair_created_at": 1782448988000,
-        "url": "https://dexscreener.com/solana/jdvrnzymg8trvtey8sg4mzy6fiftxmhjp4zg3kupfqpj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "matched_at": "2026-06-26T04:59:14.668650+00:00"
-    },
-    {
-      "id": "d3ab7e876076",
-      "fingerprint": "d3ab7e876076",
-      "narrative_summary": "Mueren Catherine O'Hara y James Burrows, creadores de 'Cheers', después de una breve enfermedad.",
-      "why_memeable": "La muerte de dos figuras icónicas de la televisión y la cultura popular, Catherine O'Hara y James Burrows, después de una breve enfermedad, es un tema memeable porque es un evento inesperado y triste que puede generar una gran reacción emocional en la audiencia.",
-      "category": "Muertes inesperadas",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "O'HARABURROWS",
-        "CHEERSCREW",
-        "TVLEGENDSDEAD"
-      ],
-      "key_terms_for_dex_search": [
-        "Catherine O'Hara",
-        "James Burrows",
-        "Cheers",
-        "muerte",
-        "enfermedad",
-        "televisión",
-        "cultura popular"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-23T22:51:56.304790+00:00",
-      "expires_at": "2026-06-25T22:51:56.304790+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Nineteen injured after bus overturns in Wales",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-26T04:54:06.873846+00:00"
-    },
-    {
-      "id": "d3a61029583b",
-      "fingerprint": "d3a61029583b",
-      "narrative_summary": "Elon Musk anuncia el primer vuelo de Southwest Airlines con Starlink",
-      "why_memeable": "La narrativa tiene un título claro y una frase corta que se puede capturar en una imagen",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "SWA",
-        "STARLINK",
-        "ELON",
-        "FLIGHT"
-      ],
-      "key_terms_for_dex_search": [
-        "southwest airlines",
-        "starlink",
-        "elon musk",
-        "primer vuelo"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-23T22:52:24.798246+00:00",
-      "expires_at": "2026-06-25T22:52:24.798246+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 287581.0,
-        "liquidity_usd": 87309.32,
-        "price_usd": 0.0002876,
-        "volume_h24": 5331.85,
-        "volume_h1": 2.13,
-        "volume_m5": 0.2,
-        "price_change_5m": -0.04,
-        "price_change_1h": -0.42,
-        "price_change_24h": -0.54,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 3,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "First Southwest Airlines flight with Starlink!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-24T08:22:39.123058+00:00"
-    },
-    {
       "id": "e5ced804d757",
       "fingerprint": "e5ced804d757",
       "narrative_summary": "George Soros quiere acabar con la civilización occidental según un tweet de Elon Musk.",
@@ -11077,14 +10583,15 @@
       "started_at": "2026-07-03T11:16:48.101673+00:00",
       "expires_at": "2026-07-06T11:16:48.101673+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-07T05:47:21.077896+00:00"
     },
     {
       "id": "138a086fc726",
@@ -11576,14 +11083,15 @@
       "started_at": "2026-07-04T05:27:22.534173+00:00",
       "expires_at": "2026-07-07T05:27:22.534173+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-07T05:47:21.077909+00:00"
     },
     {
       "id": "7578233cd480",
@@ -11622,14 +11130,15 @@
       "started_at": "2026-07-04T05:27:31.766278+00:00",
       "expires_at": "2026-07-07T05:27:31.766278+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "NASA launches robotic mission to save telescope falling back to Earth",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-07T05:47:21.077913+00:00"
     },
     {
       "id": "6754f8318a17",
@@ -11668,14 +11177,15 @@
       "started_at": "2026-07-04T10:31:47.042051+00:00",
       "expires_at": "2026-07-06T10:31:47.042051+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony - DW.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-07T05:47:21.077915+00:00"
     },
     {
       "id": "1420e6904341",
@@ -11795,13 +11305,14 @@
       "started_at": "2026-07-04T16:23:11.800161+00:00",
       "expires_at": "2026-07-06T16:23:11.800161+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-07T05:47:21.077918+00:00"
     },
     {
       "id": "e7579f2d0c01",
@@ -11851,7 +11362,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "36f074bf03b5",
@@ -11899,7 +11410,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "15ad0cecd745",
@@ -11987,7 +11498,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1d3e9b3be4cd",
@@ -12033,7 +11544,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "496cd91bbc5f",
@@ -12239,7 +11750,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b36f9be3973c",
@@ -12285,7 +11796,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cd80e68872ba",
@@ -12329,7 +11840,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "80821375dd6d",
@@ -12459,7 +11970,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4464839858d8",
@@ -12506,7 +12017,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ccff5296627a",
@@ -12550,8 +12061,481 @@
       "cluster_sources": [
         "4chan"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "5605a3324246",
+      "fingerprint": "5605a3324246",
+      "narrative_summary": "Asesinato de Charlie Kirk y la intervención de Trump en la suspensión de Folarin Balogun en la Copa Mundial",
+      "why_memeable": "La combinación de un asesinato, la intervención de Trump y el contexto de la Copa Mundial ofrece un escenario único y polémico",
+      "category": "Política y Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KIRK",
+        "TRUMPFC",
+        "BALO",
+        "MURDERCUP",
+        "TRUMPINT"
+      ],
+      "key_terms_for_dex_search": [
+        "Charlie Kirk",
+        "Trump",
+        "Folarin Balogun",
+        "Copa Mundial",
+        "Asesinato"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-07T05:47:22.391821+00:00",
+      "expires_at": "2026-07-10T05:47:22.391821+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Kirkslop",
+        "name": "Kirkslop",
+        "mint": "8m5hzX9hprtWwPuVZL4daCZfggWYKc6fhSJDDpiqpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 116210.0,
+        "liquidity_usd": 29281.0,
+        "price_usd": 0.0001162,
+        "volume_h24": 5345.21,
+        "volume_h1": 253.43,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -3.75,
+        "price_change_24h": -6.59,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 4,
+        "created_ts": 1778414136000,
+        "pair_created_at": 1778414136000,
+        "url": "https://dexscreener.com/solana/eyjhx2c7xb1mcjgt9lqjr9ztzbjyqwkg8cf3eugszwob",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: KIRK in KIRKSLOP",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "VOO and Chill",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-07T05:51:54.121890+00:00"
+    },
+    {
+      "id": "9331f698a6f4",
+      "fingerprint": "9331f698a6f4",
+      "narrative_summary": "Elon Musk genera controversia y viralidad con sus comentarios sobre Donald Trump y otros temas",
+      "why_memeable": "Combinación de figuras públicas polémicas y declaraciones impactantes",
+      "category": "Celebridad y política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "ELONVSTRUMP",
+        "TRUMPFEUD",
+        "MUSKTWEET",
+        "CELEBRITYCLASH"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "Celebridad",
+        "Política",
+        "Viral",
+        "Meme"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-07T05:47:24.297596+00:00",
+      "expires_at": "2026-07-10T05:47:24.297596+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/smg/ - stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "4fa28e2247bc",
+      "fingerprint": "4fa28e2247bc",
+      "narrative_summary": "Belgica se burla de EE.UU. y dice que la acción de Trump los motivó",
+      "why_memeable": "La narrativa tiene un elemento de burla y provocación que puede generar una reacción emocional fuerte en el público",
+      "category": "política internacional",
+      "matched_archetype": "injusticia_with_villain_and_victim",
+      "candidate_tickers": [
+        "BELGIA",
+        "TRUMPED",
+        "FIREUP",
+        "USVSBE",
+        "KHAMENEI",
+        "IRANFURY"
+      ],
+      "key_terms_for_dex_search": [
+        "Belgica",
+        "Trump",
+        "Iran",
+        "Khamenei",
+        "EE.UU.",
+        "política internacional"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-07T05:47:30.180016+00:00",
+      "expires_at": "2026-07-10T05:47:30.180016+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "2zQw1CLSbFR7V8W53Fz3Jh5mMXFj5k3bthwVFsT83RFK",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 253603.0,
+        "liquidity_usd": 87066.1,
+        "price_usd": 2.536e-06,
+        "volume_h24": 400172.15,
+        "volume_h1": 400172.15,
+        "volume_m5": 162839.94,
+        "price_change_5m": 2.69,
+        "price_change_1h": 38.65,
+        "price_change_24h": 38.65,
+        "txns_h1_buys": 1929,
+        "txns_h1_sells": 721,
+        "created_ts": 1783402810000,
+        "pair_created_at": 1783402810000,
+        "url": "https://dexscreener.com/solana/bbc88afjcqenkrkpjgw6829wfxzutrwndebifnyj861x",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: IRAN in IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "'Overturn this' – Belgium taunt US and say Trump move fired them up",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-07T05:51:57.942679+00:00"
+    },
+    {
+      "id": "05ea12c1e770",
+      "fingerprint": "05ea12c1e770",
+      "narrative_summary": "Un fan japonés de la Copa Mundial se vuelve viral al documentar sus primeras experiencias estadounidenses en Las Vegas",
+      "why_memeable": "La combinación de la cultura japonesa y la estadounidense en un contexto inesperado, con un enfoque en las primeras experiencias del fan, ofrece un terreno fértil para la creación de memes y contenido viral",
+      "category": "cultural_exchange",
+      "matched_archetype": "bizarre_local_news_with_global_potential",
+      "candidate_tickers": [
+        "LASVEGAS",
+        "JAPANUSA",
+        "WORLDCUPFAN",
+        "FIRSTTIMELASVEGAS",
+        "JAPANESEINUSA"
+      ],
+      "key_terms_for_dex_search": [
+        "Japanese fan",
+        "World Cup",
+        "Las Vegas",
+        "American firsts",
+        "viral video"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-07T05:47:49.435579+00:00",
+      "expires_at": "2026-07-10T05:47:49.435579+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Japanese World Cup fan goes viral documenting American firsts in Las Vegas - Live 5 News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "7bc7fe2a0bad",
+      "fingerprint": "7bc7fe2a0bad",
+      "narrative_summary": "Zendaya botchó sus líneas en el primer día de filmación de 'The Odyssey' debido a que 'mi boca estaba congelada'.",
+      "why_memeable": "La narrativa tiene un momento viral absurdo y una figura de Hollywood (Zendaya) involucrada.",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "ZENDAYAFROZEN",
+        "ODYSSEYMISTAKE",
+        "FROZENMOUTH"
+      ],
+      "key_terms_for_dex_search": [
+        "Zendaya",
+        "Odyssey",
+        "Frozen",
+        "Mistake"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-07T05:48:17.945367+00:00",
+      "expires_at": "2026-07-09T05:48:17.945367+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Odyssey",
+        "name": "Woke Odyssey Memes",
+        "mint": "7yDRPZ8aDGbdvWWWV2f1haxmGmEPHgDmJH5mydQQpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 36394.0,
+        "liquidity_usd": 15192.09,
+        "price_usd": 3.639e-05,
+        "volume_h24": 5579.0,
+        "volume_h1": 874.64,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -3.61,
+        "price_change_24h": -4.79,
+        "txns_h1_buys": 12,
+        "txns_h1_sells": 16,
+        "created_ts": 1778693088000,
+        "pair_created_at": 1778693088000,
+        "url": "https://dexscreener.com/solana/69c6xkduk1rlwbaj1vjppsgh2t9szs1dhfgefboteewc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ODYSSEY in WOKE ODYSSEY MEMES",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Why Zendaya Botched Her Lines on First Day of ‘The Odyssey’ Filming: “My Mouth Was Just Frozen”",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-07T05:52:02.134114+00:00"
+    },
+    {
+      "id": "5642f9fb1023",
+      "fingerprint": "5642f9fb1023",
+      "narrative_summary": "Zelensky solicitará a Nato sistemas de defensa aérea después de intensos ataques rusos",
+      "why_memeable": "La narrativa tiene un claro conflicto (Rusia vs Ucrania) y un claro llamado a la acción (Zelensky pide ayuda a Nato)",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ZELENSKY",
+        "NATO",
+        "RUSSIA",
+        "ZELENSKYVSRUSSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "zelensky",
+        "nato",
+        "russia",
+        "ataques",
+        "defensa aérea"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-07T05:49:14.482162+00:00",
+      "expires_at": "2026-07-09T05:49:14.482162+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "dff07f115b85",
+      "fingerprint": "dff07f115b85",
+      "narrative_summary": "Joey Chestnut gana el título de Mustard Belt comiendo 66 hot dogs en el concurso de Nathan's Famous.",
+      "why_memeable": "La narrativa es fácilmente comprensible y tiene un elemento de competencia y logro.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JOEYCHESTNUT66",
+        "MUSTARDBELT",
+        "HOTDOGS66",
+        "NATHANSFAMOUS"
+      ],
+      "key_terms_for_dex_search": [
+        "Joey Chestnut",
+        "Mustard Belt",
+        "Nathan's Famous",
+        "hot dogs",
+        "competencia"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-07T05:50:40.706238+00:00",
+      "expires_at": "2026-07-09T05:50:40.706238+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Joey Chestnut eats 66 hot dogs to again claim Mustard Belt at Nathan’s Famous contest - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "0e3e510c14a9",
+      "fingerprint": "0e3e510c14a9",
+      "narrative_summary": "Un político demócrata, Graham Platner, ha sido acusado de agresión sexual por una mujer con quien estuvo saliendo.",
+      "why_memeable": "La acusación de agresión sexual es un tema polarizador y emocionalmente cargado, lo que lo hace fácilmente compartible y recordable.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GRAHAMPLATNER",
+        "DEMÓCRATAS",
+        "ACUSACIÓN",
+        "AGRESIÓNSEXUAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Graham Platner",
+        "acusa de agresión sexual",
+        "demócratas",
+        "politico"
+      ],
+      "score": 92,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-07T05:51:14.571692+00:00",
+      "expires_at": "2026-07-09T05:51:14.571692+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Democrats have abandoned Graham Platner - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-06T08:48:17.427414+00:00"
+  "last_updated": "2026-07-07T05:52:02.134130+00:00"
 }
