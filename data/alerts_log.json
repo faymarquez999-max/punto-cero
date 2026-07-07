@@ -1,98 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T14:16:40.740564+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fb4b40bace98",
-        "score": 89,
-        "category": "política",
-        "title": "Paxton win sparks GOP money panic - Politico",
-        "candidate_tickers": [
-          "PAXTON",
-          "GOP",
-          "PANICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T14:17:38.707717+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Tecnología",
-        "title": "You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode",
-        "candidate_tickers": [
-          "TeslaMadMax",
-          "SelfDriving1433"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T14:18:03.692586+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "00da859f166c",
-        "ticker": "FCKISRL$",
-        "mint": "3u4Vf3wLyAKRmnQjZk1TPqefR6vP7K6XUJhZsJ9b5sUf",
-        "mc": 153156.0
-      }
-    },
-    {
-      "ts": "2026-05-28T14:18:20.168232+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "894264ff7af3",
-        "ticker": "DOGE",
-        "mint": "4Syf8qQ54TV88dc1hT2iohSTx64cZv5E8UPMuDBBpump",
-        "mc": 291260.0
-      }
-    },
-    {
-      "ts": "2026-05-28T14:18:24.587773+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fb4b40bace98",
-        "ticker": "PAX",
-        "mint": "JE8zmsKRivXggZsJxXHBdCkako85YawNtU5hqS4upump",
-        "mc": 360438.0
-      }
-    },
-    {
-      "ts": "2026-05-28T17:48:20.198155+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d674face4cae",
-        "score": 80,
-        "category": "Celebridad y política",
-        "title": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPFEUD",
-          "ELONVSDONALD",
-          "TWITTERWARS",
-          "MUSKTRUMPWAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T17:48:22.028850+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cc5fecb16c50",
-        "score": 80,
-        "category": "política internacional",
-        "title": "US warns Oman not to engage in facilitating tolls for Strait of Hormuz - Reuters",
-        "candidate_tickers": [
-          "TRUMPOMAN",
-          "HORMUZGATE",
-          "OMANWARNED",
-          "STRATFEAR",
-          "TRUMPBLUFF"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T17:48:40.195756+00:00",
       "kind": "shadow",
       "payload": {
@@ -27991,6 +27899,109 @@
           "ARGENTINA",
           "EGIPTO",
           "MUNDIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:35:04.613593+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Deportes",
+        "title": "World Cup Daily live: Argentina, Messi produce late magic to avoid Egypt shock - ESPN",
+        "candidate_tickers": [
+          "Messi",
+          "Argentina",
+          "Mundial2026",
+          "GolDelSiglo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:35:36.133399+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Ukraine's Zelenskiy signs 'drone deals' with three countries - Reuters",
+        "candidate_tickers": [
+          "Zelenskiy",
+          "DroneDeals",
+          "Ucrania"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:37:30.057493+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política británica",
+        "title": "Farage resigns as MP and vows to fight by-election amid finances row",
+        "candidate_tickers": [
+          "FarageOut",
+          "FinanzasFiasco",
+          "ByElectionBoycott"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:38:04.624342+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c48d2b3b3290",
+        "score": 82,
+        "category": "Emergencia y respuesta",
+        "title": "‘Large scale hazmat incident’ prompts massive emergency response on 62nd Street Bridge - Pittsburgh Post-Gazette",
+        "candidate_tickers": [
+          "HAZMAT62",
+          "PITTSBURGHINCIDENTE",
+          "RESPUESTAEMERGENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:38:33.359179+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c3956e85db4",
+        "score": 85,
+        "category": "Noticias de justicia y derechos humanos",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINK",
+          "KEEEEEEEEEK",
+          "MARINES9"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:39:08.375016+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9d8d2bc19fa1",
+        "score": 82,
+        "category": "política y celebridades",
+        "title": "Harvard professor appointed by White House to lead UFO study group - Boston 25 News",
+        "candidate_tickers": [
+          "MUSKVSTRUMP",
+          "TRUMPVSMUSK",
+          "MUSKVSMEDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T22:40:13.173427+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bc591f24a6d6",
+        "score": 73,
+        "category": "Accidente y emergencia",
+        "title": "Gas leak forces San Marco businesses to evacuate - firstcoastnews.com",
+        "candidate_tickers": [
+          "GASLEAK",
+          "SANMARCO",
+          "EVACUATION"
         ]
       }
     }
