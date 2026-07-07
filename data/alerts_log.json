@@ -1,110 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T17:48:40.195756+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología y productos",
-        "title": "Oura Ring 5 Is 40% Smaller, Detects Blood Pressure Changes and Sleep Disturbances - Bloomberg.com",
-        "candidate_tickers": [
-          "OuraRing5",
-          "Ring5",
-          "OuraTech"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T17:51:39.617188+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Política y Justicia",
-        "title": "La abogada de Colate Vallejo-Nágera da la última hora sobre el juicio con Paulina Rubio - HOLA",
-        "candidate_tickers": [
-          "Colate",
-          "Paulina",
-          "Rubio",
-          "Juicio",
-          "Polémica"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:34:59.807107+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5494d955cf06",
-        "score": 80,
-        "category": "Celebridad y Política",
-        "title": "The rarest object type in the universe isn't black holes. It's us. Conscious matter. The flame of life.",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "ELONVSTRUMP",
-          "TRUMPDOGE",
-          "MUSKVSALL",
-          "TRUMPFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:35:14.140286+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7bbeb1382fb1",
-        "score": 79,
-        "category": "noticias internacionales",
-        "title": "IRAN'S FARS: IRAN'S ARMED FORCES CARRIES OUT A MISSILE LAUNCH OPERATION FROM SOUTHERN REGIONS OF THE COUNTRY TOWARD SPECIFIED TARGETS",
-        "candidate_tickers": [
-          "IRANMISSILES",
-          "FARSNEWS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:35:40.412504+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f553b67f2901",
-        "score": 90,
-        "category": "Escándalos de animales",
-        "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-        "candidate_tickers": [
-          "TAYLORSWIFTCONCERT",
-          "REFUGIOANIMAL",
-          "PERROSMUERTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:36:28.128907+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "Noticias de tráfico",
-        "title": "Viral Video Shows Officer Accusing Driver Missing One Hand of Holding Phone with It - People.com",
-        "candidate_tickers": [
-          "OneHandedDriver",
-          "TrafficStop",
-          "OfficerAccuses"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:37:10.538115+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "negocios",
-        "title": "Anthropic valued at $965 billion after raising $65 billion in latest round - Reuters",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "965B",
-          "ANTHROPIC_VALUATION"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T20:37:49.615649+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28002,6 +27898,113 @@
           "GASLEAK",
           "SANMARCO",
           "EVACUATION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:41:37.755120+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3c3f32f7fb0d",
+        "score": 89,
+        "category": "Celebridad/Abuso",
+        "title": "‘Real Housewives’ Star Annemarie Wiley Files for Divorce From Marcellus Wiley, Alleges Pattern of Abuse",
+        "candidate_tickers": [
+          "ANNEMARIE",
+          "ABUSO",
+          "REALHOUSEWIVES",
+          "DIVORCIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:42:15.344539+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1158824c2a4e",
+        "score": 83,
+        "category": "Noticias",
+        "title": "‘Bizarre Situation’: Whale Sinks Fire Crew’s Rescue Boat - Outdoors with Bear Grylls",
+        "candidate_tickers": [
+          "CACHALOTERESCATE",
+          "BOTEHUNDIDO",
+          "GRANCAÑÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:44:10.373284+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "91bb7eb14252",
+        "score": 74,
+        "category": "Noticias/Política",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKKEEK",
+          "MARINEGATE",
+          "KEEKGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:44:37.841059+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c4f42722613f",
+        "score": 74,
+        "category": "Emergencia y respuesta en Pittsburgh",
+        "title": "‘Large scale hazmat incident’ prompts massive emergency response on 62nd Street Bridge - Pittsburgh Post-Gazette",
+        "candidate_tickers": [
+          "HAZMAT",
+          "62ND",
+          "BRIDGE",
+          "PITTSBURGH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:45:04.079949+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "juguetes fidget explotables",
+        "title": "Officials sound warning on viral exploding fidget toys challenge, and the injuries that have resulted - CBS News",
+        "candidate_tickers": [
+          "FidgetToy",
+          "ExplodiFidget",
+          "JuguetesPeligrosos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:45:36.602325+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e84af72c8348",
+        "score": 80,
+        "category": "Accidente con animales",
+        "title": "86-year-old woman killed while watching dog at Moore home, family says it had attacked before - KOCO",
+        "candidate_tickers": [
+          "PERROASESINO",
+          "MUJER86MUERTA",
+          "ACCIDENTECANINO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T23:46:10.270855+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c1027fcdac0a",
+        "score": 82,
+        "category": "noticias",
+        "title": "ICE agent fatally shoots Mexican motorist in Texas during vehicle stop, agency says - Reuters",
+        "candidate_tickers": [
+          "ICE",
+          "INJUSTICIA",
+          "TEXAS",
+          "CONDUCTOR"
         ]
       }
     }
