@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T23:42:47.153710+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b00d93e9d456",
-        "score": 86,
-        "category": "Celebridades",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-        "candidate_tickers": [
-          "KYLEBUSCH",
-          "SEPSIS",
-          "NEUMONIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T23:43:18.834311+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "negocios",
-        "title": "Apex Service Partners nears minority stake sale at $10 billion valuation, source says - Reuters",
-        "candidate_tickers": [
-          "Apex10B",
-          "MinoritySale"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T23:45:21.288037+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6c6858ce6caf",
-        "score": 82,
-        "category": "Cine y entretenimiento",
-        "title": "‘Disclosure Day’ First Reactions: ‘Spielberg’s Best Film in 20 Years’ and Praise for Star Emily Blunt’s Performance - Variety",
-        "candidate_tickers": [
-          "DISCLOSUREDAY",
-          "SPIELBERGBEST",
-          "EMILYBLUNT"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T01:30:09.028330+00:00",
       "kind": "shadow",
       "payload": {
@@ -27973,6 +27930,50 @@
         "ticker": "ELGATO",
         "mint": "F47vvwFYuLioQsqEVAjqdY6Yihc8wVRiUcfHGcBR9XUs",
         "mc": 99994.0
+      }
+    },
+    {
+      "ts": "2026-07-07T12:08:13.808003+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2761ebaa90b2",
+        "score": 90,
+        "category": "Noticias de actualidad",
+        "title": "Bomb attack rocks Damascus during Macron visit - Reuters",
+        "candidate_tickers": [
+          "BOMBATTACK",
+          "PERROSMUERTOS",
+          "RESCATEANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T12:11:40.726213+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política internacional",
+        "title": "What to know about China’s rare ballistic missile test and why it raises concerns - AP News",
+        "candidate_tickers": [
+          "CHINA_BALLISTIC_MISSILE",
+          "PACIFIC_CONCERNS",
+          "MISSILE_TEST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T12:12:06.144016+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0f2a67130799",
+        "score": 70,
+        "category": "política",
+        "title": "Democrats have abandoned Graham Platner - Politico",
+        "candidate_tickers": [
+          "GRAHAMPLATNER",
+          "ABUSOSEXUAL",
+          "DEMÓCRATAS"
+        ]
       }
     }
   ]
