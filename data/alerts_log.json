@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T01:30:09.028330+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Política",
-        "title": "We analysed thousands of Trump's posts - here's what we found",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "TRUMPSOCIALMEDIA",
-          "ELONvsTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T01:31:21.936468+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ef2c62d9824f",
-        "score": 88,
-        "category": "Muerte y enfermedades misteriosas",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says - AP News",
-        "candidate_tickers": [
-          "#CELEBRIDADMUERTE",
-          "#ENFERMEDADMISTERIOSA",
-          "#MUERTEINESPERADA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T01:31:56.432478+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2728f4c4ebe6",
-        "score": 89,
-        "category": "animal_injustice",
-        "title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh - Reuters",
-        "candidate_tickers": [
-          "TRUMPBUFFALO",
-          "FAMAVIRALSACA",
-          "BÚFALOTRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T01:32:30.694283+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27973,6 +27929,50 @@
           "GRAHAMPLATNER",
           "ABUSOSEXUAL",
           "DEMÓCRATAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T15:21:21.128501+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9889a6570353",
+        "score": 88,
+        "category": "desastres naturales",
+        "title": "Building in Midtown Manhattan Evacuated on Collapse Fears - Bloomberg.com",
+        "candidate_tickers": [
+          "EDIFICIO_COLAPSO",
+          "MIDTOWN_MANHATTAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T15:23:30.702703+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "50f898f9bf52",
+        "score": 78,
+        "category": "Noticias de crimen y violencia",
+        "title": "Suspect in Monaco bombing found dead in Ukraine, shot in the head - Reuters",
+        "candidate_tickers": [
+          "MÓNACOBOMBING",
+          "SOSPECHOSOMUERTO",
+          "DISPAROENLACABEZA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T15:24:37.532237+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e9092be43b6e",
+        "score": 91,
+        "category": "Guerra y política",
+        "title": "Ukrainian drones hit Russian fuel tankers",
+        "candidate_tickers": [
+          "DRONESUCRANIA",
+          "TANQUESRUSOS",
+          "REFINERIARUSIA"
         ]
       }
     }
