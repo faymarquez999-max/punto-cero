@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-27T06:34:50.417338+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4063fb33ecc5",
-        "ticker": "blue",
-        "mint": "4Job2y9aJM6NyuVAgc2wZURWrDG2YbBJKrZk79e7pump",
-        "mc": 14941.0
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:52.508239+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5daa9cd31e84",
-        "ticker": "MUSK",
-        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
-        "mc": 58643.0
-      }
-    },
-    {
-      "ts": "2026-05-27T06:34:54.494961+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "be9756b812c5",
-        "ticker": "MUSK",
-        "mint": "HJdWXopBkypPKXLQCf8EgNakJMrjowfGXaxm6GdcJT2",
-        "mc": 58643.0
-      }
-    },
-    {
-      "ts": "2026-05-27T10:42:52.494257+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be1eabd71638",
-        "score": 88,
-        "category": "Celebridad y Política",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "MUSKED",
-          "WHITEBULL",
-          "PERSECUTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-27T14:16:39.698363+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "43bc79faf7ec",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies.",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPVSILON",
-          "ELONVSTRUMP",
-          "MUSKFEUD"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-27T14:17:17.998667+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27959,6 +27897,78 @@
           "ZELENSKIY",
           "UCRANIA",
           "ARMAS DE DEFENSA ANTIMISILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T01:22:28.314764+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias de policía y violencia",
+        "title": "6 arrested after viral video shows North Charleston officer attacked during July 4 block party - Live 5 News",
+        "candidate_tickers": [
+          "OfficerAttack",
+          "PolicíaViolencia",
+          "Injusticia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T01:22:54.891414+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e26040569f96",
+        "score": 74,
+        "category": "muerte de una celebridad",
+        "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
+        "candidate_tickers": [
+          "RIPLAURENBENNETT",
+          "PARTYROCKANTHEM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T01:23:42.607111+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8f2480732338",
+        "score": 89,
+        "category": "Abuso animal",
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "candidate_tickers": [
+          "117PERROSMUERTOS",
+          "REFUGIODEANIMALES",
+          "ABUSOANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T01:24:51.304071+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
+        "candidate_tickers": [
+          "TRUMP",
+          "WALMART",
+          "CARNE_DE_RES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T01:25:30.979980+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "57058ac3b238",
+        "score": 74,
+        "category": "política internacional",
+        "title": "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - AP News",
+        "candidate_tickers": [
+          "CANADA_SUBMARINOS",
+          "OTAN",
+          "GERMANY_THYSSENKRUPP"
         ]
       }
     }
