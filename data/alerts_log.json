@@ -1,59 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T05:56:50.199932+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5d843ac5eb3c",
-        "score": 88,
-        "category": "Animales",
-        "title": "Viral 'Donald Trump' Buffalo Spared From Eid Sacrifice, Moved To Bangladesh Zoo - NDTV",
-        "candidate_tickers": [
-          "TRUMPBÚFALO",
-          "ALBINOBÚFALO",
-          "BÚFALOEID"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T05:57:23.744036+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "33c8487de53e",
-        "score": 80,
-        "category": "celebridad, justicia",
-        "title": "Matthew Perry's assistant sentenced to 41 months in prison - Reuters",
-        "candidate_tickers": [
-          "PERRYMONSTER",
-          "KETAMINEMONSTER",
-          "PERRYASSISTANT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T05:57:50.625829+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Celebridades",
-        "title": "Happy birthday to Cameron Boyce, who would've turned 27 today.",
-        "candidate_tickers": [
-          "CameronBoyce",
-          "Boyce27"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T05:59:20.202302+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5d843ac5eb3c",
-        "ticker": "DONALD",
-        "mint": "4GHUJWpu5q6NGTNGbLiKFdVPnYh3hbVYHDTc6HK9pump",
-        "mc": 16373.0
-      }
-    },
-    {
       "ts": "2026-05-28T10:19:06.206610+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27987,6 +27934,64 @@
           "62nd",
           "bridge",
           "pittsburgh"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T19:28:31.428573+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Entretenimiento",
+        "title": "Karlovy Vary: ‘Harold & Kumar 4’ Confirmed as Producers Weigh In on Casting Wars and the Gen Z Box Office Recovery",
+        "candidate_tickers": [
+          "HK4",
+          "KarlovyVary",
+          "HaroldKumar"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T19:29:02.166603+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b9a818ec834f",
+        "score": 80,
+        "category": "Política francesa",
+        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+        "candidate_tickers": [
+          "LEPEN2026",
+          "MARINELEPEN",
+          "BRAZALETEELECTRONICO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T19:30:29.991484+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "St. Johns GOP Chair discusses ‘criminal conspiracy’ behind fake voter guide in 2024 - Florida Politics",
+        "candidate_tickers": [
+          "MuskConspiracy",
+          "FakeVoterGuide",
+          "TrumpMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-07T19:32:29.501980+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d0bca43426a8",
+        "score": 79,
+        "category": "Noticias de desastres naturales",
+        "title": "Manhattan high-rise is still unstable after columns buckle, forcing evacuations - AP News",
+        "candidate_tickers": [
+          "MANHATTANINESTABLE",
+          "RASCACIELOSDEMANHATTAN",
+          "EVACUACIONESFORZADAS"
         ]
       }
     }
