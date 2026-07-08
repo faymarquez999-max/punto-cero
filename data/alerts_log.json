@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T18:48:28.083617+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2b428aa8a72f",
-        "ticker": "Ebola",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "mc": 352811.0
-      }
-    },
-    {
       "ts": "2026-05-29T18:48:36.232288+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28026,6 +28016,21 @@
         "ticker": "MarsCoin",
         "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
         "mc": 29521.0
+      }
+    },
+    {
+      "ts": "2026-07-08T23:54:05.076999+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "871d8c81fce3",
+        "score": 72,
+        "category": "injusticia y absurdo",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "KEEEEEEEEEK",
+          "MARINES9AÑOS",
+          "DETENIDO9AÑOS"
+        ]
       }
     }
   ]
