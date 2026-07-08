@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T20:37:49.615649+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "88169bdc1fca",
-        "score": 88,
-        "category": "política",
-        "title": "Spring Fertility Stuck With Suit Over Data Disclosure to Meta - Bloomberg Law News",
-        "candidate_tickers": [
-          "MUSKTUMP",
-          "TRUMPVS",
-          "ELONVS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:38:23.885757+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "salud pública",
-        "title": "Kenya approves US Ebola quarantine request as WHO chief heads to Congo - Reuters",
-        "candidate_tickers": [
-          "Ebola",
-          "OMS",
-          "DRC",
-          "Uganda"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:39:08.540412+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "af57cb528c8b",
-        "score": 89,
-        "category": "Celebridad",
-        "title": "My daughter woke up with a numb arm and died two weeks later",
-        "candidate_tickers": [
-          "CATHERINEOHARA",
-          "RECTALCANCER",
-          "FALLECIMIENTOREPENTINO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T20:39:33.379408+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "US-Iran MOU on 60-day ceasefire extension reached, but Trump must approve, sources say - Reuters",
-        "candidate_tickers": [
-          "IRAN",
-          "TRUMP",
-          "TREGUA",
-          "ACUERDO"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T20:40:02.735817+00:00",
       "kind": "shadow",
       "payload": {
@@ -28005,6 +27945,67 @@
           "INJUSTICIA",
           "TEXAS",
           "CONDUCTOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T01:18:13.768881+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "37db09bc9bb4",
+        "score": 80,
+        "category": "accidentes y emergencias",
+        "title": "Mass evacuation after gas leak + latest on deadly shooting - WSAZ",
+        "candidate_tickers": [
+          "GASLEAK",
+          "EVACUACIONESMASIVAS",
+          "FLORIDAGASLEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T01:19:25.935229+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b4129e1a2cdf",
+        "score": 80,
+        "category": "Política",
+        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
+        "candidate_tickers": [
+          "MARINELEPEN",
+          "LEPEN2027",
+          "CONVICTAPRESIDENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T01:20:03.814926+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "be5b16e6fba5",
+        "score": 78,
+        "category": "política",
+        "title": "Trump reiterates at NATO summit that Greenland should be controlled by US, not Denmark - Reuters",
+        "candidate_tickers": [
+          "TRUMP_GROENLANDIA",
+          "GREENLAND_USA",
+          "OTAN_TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T01:20:34.015847+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4101c47f82bd",
+        "score": 88,
+        "category": "Celebridad",
+        "title": "Bunnie XO Making Out With Reality Star in Jelly Roll's Nashville Bar, on Video - TMZ",
+        "candidate_tickers": [
+          "BUNNIEXO",
+          "REALITYSTAR",
+          "JELLYROLL",
+          "NASHVILLEBAR"
         ]
       }
     }
