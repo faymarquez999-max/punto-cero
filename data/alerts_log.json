@@ -1,71 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T08:30:52.568115+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Celebridad",
-        "title": "Does JD Vance Have to Choose Between Pope Leo and Peter Thiel? - Politico",
-        "candidate_tickers": [
-          "TrumpVsMusk",
-          "JDVanceDilema",
-          "BromanceTrumpMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T08:31:19.919281+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dd86b369e645",
-        "score": 70,
-        "category": "Deportes",
-        "title": "Wembanyama and Spurs force game seven against Thunder in NBA playoffs",
-        "candidate_tickers": [
-          "WEMBANYAMA",
-          "SPURS",
-          "THUNDER",
-          "GAME7"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T08:32:32.951556+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "63feafd4b35d",
-        "score": 88,
-        "category": "salud",
-        "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
-        "candidate_tickers": [
-          "EBOLA",
-          "DRC",
-          "EBOLAOUTBREAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T08:34:02.723167+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dd86b369e645",
-        "ticker": "NBA",
-        "mint": "39yEFw7AMfuYzyvTJTyzKEgHuM5THuak3w27sPv5pump",
-        "mc": 22209.0
-      }
-    },
-    {
-      "ts": "2026-05-29T08:34:04.201771+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "63feafd4b35d",
-        "ticker": "Ebola",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "mc": 428148.0
-      }
-    },
-    {
       "ts": "2026-05-29T11:52:25.356401+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28028,6 +27963,76 @@
           "ABUSOANIMAL",
           "CONTROLDEANIMALES"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-08T16:18:57.365518+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "df2d2723e700",
+        "score": 70,
+        "category": "actualidad",
+        "title": "Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes",
+        "candidate_tickers": [
+          "MANHATTANCOLLAPSE",
+          "EDIFICIOENRIESGO",
+          "COLAPSOENMANHATTAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T16:20:19.867870+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5cd1d7f9f814",
+        "score": 82,
+        "category": "Política y sociedad",
+        "title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
+        "candidate_tickers": [
+          "METROVIRAL",
+          "DIVISIÓNNACIONAL",
+          "FOTOVIRAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T16:22:07.706590+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "120fb50e7d53",
+        "score": 74,
+        "category": "detención de marines",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINES",
+          "KEEEEEEEK",
+          "DETENCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T16:23:11.155626+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Funeral processions held in holy Iraqi cities for Iran’s late Supreme Leader Ayatollah Ali Khamenei - AP News",
+        "candidate_tickers": [
+          "Khamenei",
+          "Iran",
+          "Irak",
+          "Funeral"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T16:23:48.656170+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dae3aab3b927",
+        "ticker": "FIFA",
+        "mint": "HMphH3PiHncp4xZAiVV6zcytFzKJVvA7qU9kqDPbQHfe",
+        "mc": 372161.0
       }
     }
   ]
