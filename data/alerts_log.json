@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T11:53:19.130647+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "295e5805de4a",
-        "score": 74,
-        "category": "Noticias internacionales",
-        "title": "Russian Drone Hits Romanian Apartment Building, Officials Say - The New York Times",
-        "candidate_tickers": [
-          "RUMANIA",
-          "DRON",
-          "ATAQUE",
-          "DAÑOS",
-          "MUERTES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T11:53:55.942406+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2b428aa8a72f",
-        "score": 88,
-        "category": "salud",
-        "title": "Kenya court halts opening of US Ebola quarantine facility in the country",
-        "candidate_tickers": [
-          "EBOLA50",
-          "KENYAQUARANTINE",
-          "CUARENTENAEBOLA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T11:57:50.329898+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e252357f162f",
-        "score": 82,
-        "category": "Celebridad/Tecnología",
-        "title": "Pretty much 😂 grok.com/share/bGVnYWN5_30c6…",
-        "candidate_tickers": [
-          "PRETTY",
-          "MUSKED",
-          "GROK"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T16:03:37.933638+00:00",
       "kind": "shadow",
       "payload": {
@@ -28032,6 +27985,45 @@
           "MARINE9",
           "KEEEEEEEEEK"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-08T19:59:48.789652+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4aa20801553e",
+        "score": 74,
+        "category": "Viralidad en línea",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKKEK",
+          "MARINE9",
+          "KEKEEKEK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T20:01:38.735460+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "Trump says US will give Ukraine license to produce Patriot defense systems - AP News",
+        "candidate_tickers": [
+          "TRUMP_PATRIOT",
+          "UKRANE_LICENSE",
+          "PATRIOT_DEFENSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T20:02:47.392023+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dae3aab3b927",
+        "ticker": "FIFA",
+        "mint": "Ee4Nm1R32jYuoFAMHSpfNcb1yQYqzGrR9C2nbnHwwTNJ",
+        "mc": 420165.0
       }
     }
   ]

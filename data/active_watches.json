@@ -1,53 +1,6 @@
 {
   "watches": [
     {
-      "id": "f4d2e6bcf834",
-      "fingerprint": "f4d2e6bcf834",
-      "narrative_summary": "Un terremoto de magnitud 6.9 golpea al norte de Japón, causando daños y heridos.",
-      "why_memeable": "La narrativa cuenta con una imagen icónica (el terremoto) y un título impactante, lo que la hace fácilmente compartible y recordable.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JAPÓNTERREMOTO",
-        "TERREMOTO6.9",
-        "DESASTRENATURALEZA"
-      ],
-      "key_terms_for_dex_search": [
-        "terremoto",
-        "Japón",
-        "desastre natural",
-        "daños",
-        "heridos"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-25T09:40:25.961356+00:00",
-      "expires_at": "2026-06-28T09:40:25.961356+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Magnitude 6.9 earthquake strikes northern Japan",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-06-28T10:38:07.419111+00:00"
-    },
-    {
       "id": "8ee8b6dcee23",
       "fingerprint": "8ee8b6dcee23",
       "narrative_summary": "Terremotos en Venezuela dejan al menos 164 muertos y miles de heridos, el país declara estado de emergencia.",
@@ -10159,7 +10112,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "496cd91bbc5f",
@@ -10588,7 +10541,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4464839858d8",
@@ -10680,7 +10633,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5605a3324246",
@@ -10806,7 +10759,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4fa28e2247bc",
@@ -11087,7 +11040,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dff07f115b85",
@@ -11134,7 +11087,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "0e3e510c14a9",
@@ -11180,7 +11133,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dae3aab3b927",
@@ -11220,14 +11173,51 @@
       "started_at": "2026-07-07T08:59:17.545726+00:00",
       "expires_at": "2026-07-09T08:59:17.545726+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FIFA",
+        "name": "FIFA World Cup",
+        "mint": "Ee4Nm1R32jYuoFAMHSpfNcb1yQYqzGrR9C2nbnHwwTNJ",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 420165.0,
+        "liquidity_usd": 77192.27,
+        "price_usd": 4.201e-06,
+        "volume_h24": 1786832.32,
+        "volume_h1": 1760494.52,
+        "volume_m5": 110591.1,
+        "price_change_5m": 0.94,
+        "price_change_1h": 71.28,
+        "price_change_24h": 352.0,
+        "txns_h1_buys": 18320,
+        "txns_h1_sells": 2860,
+        "created_ts": 1783537324000,
+        "pair_created_at": 1783537324000,
+        "url": "https://dexscreener.com/solana/byfbqkjmqx18nzh3u9x2hbvrl4131deany3qpfr5pw9s",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FIFA in FIFA WORLD CUP",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Switzerland vs Colombia: World Cup last 16: Prediction, start time and news",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-07-08T20:02:47.385036+00:00"
     },
     {
       "id": "a47700bcca99",
@@ -11271,7 +11261,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ae5336b32496",
@@ -11477,7 +11467,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a82211eced70",
@@ -11525,7 +11515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "450ff22c6ef0",
@@ -11569,7 +11559,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "982f17651748",
@@ -11615,7 +11605,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c48d2b3b3290",
@@ -11659,7 +11649,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2c3956e85db4",
@@ -11704,7 +11694,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9d8d2bc19fa1",
@@ -11748,7 +11738,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bc591f24a6d6",
@@ -11791,7 +11781,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "260014ba1d69",
@@ -11840,7 +11830,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1cce78006215",
@@ -11886,7 +11876,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "63ac44980910",
@@ -12034,7 +12024,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "abe4dc46d504",
@@ -12081,7 +12071,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bc82d6141269",
@@ -12126,7 +12116,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2e321d4aaab2",
@@ -12170,7 +12160,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "df2d2723e700",
@@ -12216,7 +12206,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5cd1d7f9f814",
@@ -12260,7 +12250,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "120fb50e7d53",
@@ -12303,8 +12293,51 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "4aa20801553e",
+      "fingerprint": "4aa20801553e",
+      "narrative_summary": "Marines de Link retenidos durante 9 años por una razón desconocida",
+      "why_memeable": "La combinación de 'Link marines' y el misterioso 'keeeeeeeeeek' crea un meme potencialmente viral",
+      "category": "Viralidad en línea",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "LINKKEK",
+        "MARINE9",
+        "KEKEEKEK"
+      ],
+      "key_terms_for_dex_search": [
+        "Link marines",
+        "kekekeke",
+        "9 años"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-08T19:59:48.208748+00:00",
+      "expires_at": "2026-07-11T19:59:48.208748+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Link marines held 9 years for this",
+      "cluster_sources": [
+        "4chan"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-08T16:22:07.338285+00:00"
+  "last_updated": "2026-07-08T20:02:47.385052+00:00"
 }
