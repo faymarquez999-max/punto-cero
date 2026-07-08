@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T20:40:02.735817+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política",
-        "title": "LA mayoral poll shows Bass vulnerable in close race with Raman, Pratt - Politico",
-        "candidate_tickers": [
-          "BASS",
-          "RAMAN",
-          "PRATT",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T22:26:21.978664+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8b3b0a06a729",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Cybercab driving itself out of the GigaTexas factory",
-        "candidate_tickers": [
-          "CYBERCAB",
-          "GIGATEXAS",
-          "TESLA",
-          "AUTONOMOUS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T22:26:51.295333+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c255d85b7071",
-        "score": 72,
-        "category": "Tecnología/Transporte",
-        "title": "You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode",
-        "candidate_tickers": [
-          "TESLAMADMAX",
-          "MADMAXMODE",
-          "TESLASD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T22:29:45.105392+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "84458bd3c6c5",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T22:29:56.146926+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e661d6aa8dcc",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T22:29:57.603771+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "480b83fd16f6",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
       "ts": "2026-05-28T22:30:00.966272+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28006,6 +27930,99 @@
           "REALITYSTAR",
           "JELLYROLL",
           "NASHVILLEBAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:37:40.097515+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "260014ba1d69",
+        "score": 88,
+        "category": "Noticias de animales",
+        "title": "Chainlink: Shocking details emerge about",
+        "candidate_tickers": [
+          "PERROS",
+          "ABUSO",
+          "REFUGIO",
+          "CALIFORNIA",
+          "ANIMALRES",
+          "PERROSMUERTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:38:40.555729+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Deportes y política",
+        "title": "Cancelled bans, rigged draws and CIA plots: How the World Cup breeds conspiracy theories - The New York Times",
+        "candidate_tickers": [
+          "FIFA_CONSPIRACY",
+          "COPA_MUNDIAL_TEORIAS",
+          "LA_CIA_Y_LA_COPA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:39:08.102496+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1cce78006215",
+        "score": 78,
+        "category": "Política",
+        "title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
+        "candidate_tickers": [
+          "FARAGE",
+          "CLACTON",
+          "BY-ELECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:39:49.892617+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "63ac44980910",
+        "score": 78,
+        "category": "criptomonedas, meme coins",
+        "title": "/XSG/ XRP Schizo General #2551",
+        "candidate_tickers": [
+          "XRP",
+          "MEMETORO",
+          "BEST MEME COINS",
+          "TOP 5 CRYPTO MEME COINS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:40:30.906660+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0c8a4c29d148",
+        "score": 88,
+        "category": "Desastres naturales y eventos inminentes",
+        "title": "NYC buildings evacuated after construction workers find buckling columns in Midtown East; officials warn of possible collapse - ABC7 New York",
+        "candidate_tickers": [
+          "NYCBUILDINGCOLLAPSE",
+          "MIDTOWNEAST",
+          "COLUMNASDOBLADAS",
+          "COLAPSOINMINENTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T04:41:05.429056+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política y noticias internacionales",
+        "title": "Ukraine's Zelenskiy signs 'drone deals' with three countries - Reuters",
+        "candidate_tickers": [
+          "ZelenskiyDrone",
+          "UcraniaDrones",
+          "DroneDeals"
         ]
       }
     }

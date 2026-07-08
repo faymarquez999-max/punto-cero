@@ -1,268 +1,6 @@
 {
   "watches": [
     {
-      "id": "bb09d6b17658",
-      "fingerprint": "bb09d6b17658",
-      "narrative_summary": "Un tren pasó un semáforo rojo antes de un fatal accidente, según un informe.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un componente de sorpresa.",
-      "category": "accidentes ferroviarios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRENROJO",
-        "ACCIDENTEFERROVIARIO",
-        "SEMÁFOROROJO"
-      ],
-      "key_terms_for_dex_search": [
-        "tren",
-        "semáforo",
-        "accidente",
-        "ferroviario"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-24T18:17:17.261592+00:00",
-      "expires_at": "2026-06-26T18:17:17.261592+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRENCHES",
-        "name": "Trenches Tokens",
-        "mint": "3NMQuwg7WGqzqjqwUnR3Ciwo3AoVE39yYQnTqK49pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 63179.0,
-        "liquidity_usd": 19899.44,
-        "price_usd": 6.318e-05,
-        "volume_h24": 36913.23,
-        "volume_h1": 227.14,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -4.27,
-        "price_change_24h": 22.02,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 6,
-        "created_ts": 1781815300000,
-        "pair_created_at": 1781815300000,
-        "url": "https://dexscreener.com/solana/ybusfawsgapiar4emnv2sg1v3o8sowmacypjznpygrt",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TREN in TRENCHES TOKENS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Train passed red signal before fatal crash, says report",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-25T01:35:52.785120+00:00"
-    },
-    {
-      "id": "bee91e668ac2",
-      "fingerprint": "bee91e668ac2",
-      "narrative_summary": "Un hombre cae muerto durante un concierto de rock en el Madison Square Garden.",
-      "why_memeable": "La combinación de un evento trágico y una figura pública (el concierto en el Madison Square Garden) hace que sea fácilmente compartible y recordable.",
-      "category": "Muerte en un concierto de rock",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MSG",
-        "CONCIERTOTRÁGICO",
-        "ROCKFALL"
-      ],
-      "key_terms_for_dex_search": [
-        "Madison Square Garden",
-        "Concierto de rock",
-        "Muerte en un concierto"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-24T18:18:05.403480+00:00",
-      "expires_at": "2026-06-26T18:18:05.403480+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Man falls to his death during rock concert at Madison Square Garden - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-27T07:40:11.794533+00:00"
-    },
-    {
-      "id": "5dd0e66bc9f7",
-      "fingerprint": "5dd0e66bc9f7",
-      "narrative_summary": "Dos terremotos fuertes sacuden a Venezuela, causando derrumbes en la capital Caracas.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y la imagen de derrumbes en Caracas es icónica.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "#TERREMOTOSDEVENEZUELA",
-        "#CARACASDERRIBA",
-        "#DESASTRENATURAL"
-      ],
-      "key_terms_for_dex_search": [
-        "terremotos",
-        "Venezuela",
-        "Caracas",
-        "derrumbes",
-        "desastre natural"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-25T01:31:57.918680+00:00",
-      "expires_at": "2026-06-28T01:31:57.918680+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "VENEZUELA",
-        "name": "Pray For Venezuela",
-        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10446.0,
-        "liquidity_usd": 7062.73,
-        "price_usd": 1.044e-05,
-        "volume_h24": 30532.08,
-        "volume_h1": 7869.93,
-        "volume_m5": 257.63,
-        "price_change_5m": 13.93,
-        "price_change_1h": -22.49,
-        "price_change_24h": -63.08,
-        "txns_h1_buys": 142,
-        "txns_h1_sells": 110,
-        "created_ts": 1782345357000,
-        "pair_created_at": 1782345357000,
-        "url": "https://dexscreener.com/solana/8896ybl1z2yeb3ksmx3xekzgxwpckapjf56pmzszntem",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: VENEZUELA in PRAY FOR VENEZUELA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Venezuela rocked by powerful back-to-back earthquakes - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-25T01:35:56.116031+00:00"
-    },
-    {
-      "id": "6a5ea7d0cb7b",
-      "fingerprint": "6a5ea7d0cb7b",
-      "narrative_summary": "Un terremoto de 7.1 grados sacude Venezuela, causando daños generalizados y evacuaciones.",
-      "why_memeable": "La narrativa tiene un impacto visual fuerte gracias a la imagen del terremoto y la evacuación. Además, es un evento reciente y de gran magnitud, lo que lo hace más interesante para compartir.",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TERREMOTO",
-        "VENEZUELA",
-        "SACUDIDO"
-      ],
-      "key_terms_for_dex_search": [
-        "terremoto",
-        "victimas",
-        "evacuaciones",
-        "daños"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-25T01:32:31.480191+00:00",
-      "expires_at": "2026-06-28T01:32:31.480191+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "VENEZUELA",
-        "name": "Pray For Venezuela",
-        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10446.0,
-        "liquidity_usd": 7062.73,
-        "price_usd": 1.044e-05,
-        "volume_h24": 30532.08,
-        "volume_h1": 7869.93,
-        "volume_m5": 257.63,
-        "price_change_5m": 13.93,
-        "price_change_1h": -22.49,
-        "price_change_24h": -63.08,
-        "txns_h1_buys": 142,
-        "txns_h1_sells": 110,
-        "created_ts": 1782345357000,
-        "pair_created_at": 1782345357000,
-        "url": "https://dexscreener.com/solana/8896ybl1z2yeb3ksmx3xekzgxwpckapjf56pmzszntem",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: VENEZUELA==VENEZUELA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Watch: Moment quake shakes Venezuela, causing widespread damage and evacuations",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-25T01:35:57.613923+00:00"
-    },
-    {
       "id": "b1dbe1a2bbd0",
       "fingerprint": "b1dbe1a2bbd0",
       "narrative_summary": "Elon Musk recomienda 'Try Grok' en Twitter, generando gran interés",
@@ -11016,14 +10754,15 @@
       "started_at": "2026-07-05T23:52:26.671896+00:00",
       "expires_at": "2026-07-07T23:52:26.671896+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Michigan Democrat Mallory McMorrow ends bid for US Senate - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-08T04:37:36.958924+00:00"
     },
     {
       "id": "b36f9be3973c",
@@ -11062,14 +10801,15 @@
       "started_at": "2026-07-06T04:13:25.052742+00:00",
       "expires_at": "2026-07-08T04:13:25.052742+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Taylor Swift's Wedding Bouquet Caught By KC Chiefs Player's Sister - TMZ",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-08T04:37:36.958938+00:00"
     },
     {
       "id": "cd80e68872ba",
@@ -11106,14 +10846,15 @@
       "started_at": "2026-07-06T04:13:49.730036+00:00",
       "expires_at": "2026-07-08T04:13:49.730036+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Leclerc wins British GP as F1 leader Antonelli fails to score - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-08T04:37:36.958941+00:00"
     },
     {
       "id": "80821375dd6d",
@@ -12382,7 +12123,198 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "260014ba1d69",
+      "fingerprint": "260014ba1d69",
+      "narrative_summary": "Hallazgo de más de 100 perros muertos en un refugio para animales en California, con acusaciones de abuso.",
+      "why_memeable": "La combinación de la noticia impactante con la presencia de animales y la posibilidad de abuso genera una carga emocional fuerte y un potencial para la creación de memes.",
+      "category": "Noticias de animales",
+      "matched_archetype": "injusticia_con_villano_y_victima",
+      "candidate_tickers": [
+        "PERROS",
+        "ABUSO",
+        "REFUGIO",
+        "CALIFORNIA",
+        "ANIMALRES",
+        "PERROSMUERTOS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros muertos",
+        "abuso animal",
+        "refugio california",
+        "noticias animales"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 9,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-08T04:37:39.691730+00:00",
+      "expires_at": "2026-07-11T04:37:39.691730+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Chainlink: Shocking details emerge about",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1cce78006215",
+      "fingerprint": "1cce78006215",
+      "narrative_summary": "Nigel Farage anuncia su renuncia como diputado para desencadenar una elección por voto, lo que genera controversia y debate en el Reino Unido.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'David vs Goliath' y un elemento de sorpresa con la renuncia de Farage.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FARAGE",
+        "CLACTON",
+        "BY-ELECTION"
+      ],
+      "key_terms_for_dex_search": [
+        "Farage",
+        "Clacton",
+        "By-election",
+        "Reino Unido",
+        "política"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-08T04:39:07.680860+00:00",
+      "expires_at": "2026-07-10T04:39:07.680860+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "63ac44980910",
+      "fingerprint": "63ac44980910",
+      "narrative_summary": "Listas de los mejores monedas de meme para invertir en 2026, según diferentes fuentes",
+      "why_memeable": "La narrativa tiene un núcleo claro y repetible, con diferentes fuentes que comparten la misma información",
+      "category": "criptomonedas, meme coins",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XRP",
+        "MEMETORO",
+        "BEST MEME COINS",
+        "TOP 5 CRYPTO MEME COINS"
+      ],
+      "key_terms_for_dex_search": [
+        "XRP",
+        "MemeToro",
+        "Best Meme Coins",
+        "Top 5 Crypto Meme Coins",
+        "2026",
+        "criptomonedas",
+        "meme coins"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 2,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-08T04:39:49.526360+00:00",
+      "expires_at": "2026-07-10T04:39:49.526360+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2551",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0c8a4c29d148",
+      "fingerprint": "0c8a4c29d148",
+      "narrative_summary": "Edificios de Nueva York evacuados debido a columnas que se están doblando en Midtown East; oficiales advierten de posible colapso",
+      "why_memeable": "La narrativa tiene un título claro y una imagen potencialmente icónica (columnas dobladas) y se centra en un evento inminente y emocionante (colapso posible)",
+      "category": "Desastres naturales y eventos inminentes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NYCBUILDINGCOLLAPSE",
+        "MIDTOWNEAST",
+        "COLUMNASDOBLADAS",
+        "COLAPSOINMINENTE"
+      ],
+      "key_terms_for_dex_search": [
+        "NYC",
+        "colapso",
+        "columnas",
+        "dobladas",
+        "inminente"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-08T04:40:30.505360+00:00",
+      "expires_at": "2026-07-10T04:40:30.505360+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "NYC buildings evacuated after construction workers find buckling columns in Midtown East; officials warn of possible collapse - ABC7 New York",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-07T22:40:12.374287+00:00"
+  "last_updated": "2026-07-08T04:40:30.505360+00:00"
 }
