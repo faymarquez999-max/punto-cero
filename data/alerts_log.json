@@ -1,104 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T16:06:35.621365+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6c37c52e8e99",
-        "score": 74,
-        "category": "accidente de tráfico",
-        "title": "Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News",
-        "candidate_tickers": [
-          "VIRGINIA_CRASH",
-          "BUS_COLLISION",
-          "TRAFFIC_ACCIDENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:44:02.912042+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dbc6d69dcacb",
-        "score": 78,
-        "category": "Ciencia y tecnología",
-        "title": "Video: la impactante explosión de un cohete de Blue Origin en la plataforma de lanzamiento durante prueba - Perfil",
-        "candidate_tickers": [
-          "BLUEORIGINEXPLODES",
-          "COHETEAZAR",
-          "JEFFBEZOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:44:35.652840+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund - Reuters",
-        "candidate_tickers": [
-          "$1776",
-          "TRUMP",
-          "FONDO_DE_DESARMAMENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:45:54.493726+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "clima",
-        "title": "Record-breaking heat and dry spring leave parts of England without water - Reuters",
-        "candidate_tickers": [
-          "InglaterraSequia",
-          "PrimaveraSeca",
-          "ClimaDesastre"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:46:21.305062+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5c4cf1c46460",
-        "score": 82,
-        "category": "Celebridad en redes sociales",
-        "title": "Pretty much 😂 grok.com/share/bGVnYWN5_30c6…",
-        "candidate_tickers": [
-          "PRETTY",
-          "MUSKED",
-          "GROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:47:19.185350+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d5a833d70031",
-        "score": 83,
-        "category": "Política y Violencia de Género",
-        "title": "Please invite your local MP to our Rape Gang Inquiry parliamentary debate on Monday in Westminster Hall at 16.30.",
-        "candidate_tickers": [
-          "RAPEGANG",
-          "WESTMINSTER",
-          "MPDEBATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T18:48:23.784739+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "819a01d30d1e",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 153517.0
-      }
-    },
-    {
       "ts": "2026-05-29T18:48:28.083617+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28025,6 +27927,105 @@
           "RUTTEVSTRUMP",
           "NATOREUNIDO"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:37:18.966385+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f88225eb4ba7",
+        "score": 88,
+        "category": "accidentes bizarros",
+        "title": "Maryland man arrested after chasing family of geese, killing gosling - WUSA9",
+        "candidate_tickers": [
+          "GANSOASESINO",
+          "GANSITOMUERTO",
+          "PERSEGUIDORDEGANSOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:37:57.186309+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Muerte repentina de figuras públicas",
+        "title": "Late Influencer Ayzia J Was Sober, Rebuilding Brand Before Fatal Car Crash",
+        "candidate_tickers": [
+          "AYZIA",
+          "FALLECIMIENTOREPENTINO",
+          "MUERTEREPENTINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:38:31.954413+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "89a8220b1e13",
+        "score": 90,
+        "category": "Política/Abuso sexual",
+        "title": "Judge orders Trump's $5m damages be released to E Jean Carroll - BBC",
+        "candidate_tickers": [
+          "TRUMP",
+          "CARROLL",
+          "5M"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:39:38.495591+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "623af829b36c",
+        "score": 70,
+        "category": "juegos",
+        "title": "Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game - Bloomberg",
+        "candidate_tickers": [
+          "FALLOUT",
+          "OBSIDIAN",
+          "MICROSOFT",
+          "XBOX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:40:03.620864+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología",
+        "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
+        "candidate_tickers": [
+          "GPTLive",
+          "OpenAI",
+          "Voz"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:40:30.839218+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Mason: Farage called by-election from weak position - and it could backfire on him",
+        "candidate_tickers": [
+          "Farage",
+          "Binface",
+          "ReformUK",
+          "CountBinface"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T22:42:36.615340+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9331f698a6f4",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 29521.0
       }
     }
   ]
