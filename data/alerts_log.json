@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T08:29:32.810932+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Noticias de crímenes y violencia",
-        "title": "Two charged after bystander fatally shot outside bar",
-        "candidate_tickers": [
-          "85yearold",
-          "barattack",
-          "justiceforvictim"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T08:30:52.568115+00:00",
       "kind": "shadow",
       "payload": {
@@ -28027,6 +28013,21 @@
         "ticker": "IRAN",
         "mint": "CkZGBz1Gz5tTAThiesePDynMrPfM43DaQYkAr47SrekR",
         "mc": 357320.0
+      }
+    },
+    {
+      "ts": "2026-07-08T14:33:52.334936+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1e9bef6e833",
+        "score": 80,
+        "category": "Abuso animal",
+        "title": "Why can’t we count our dead?",
+        "candidate_tickers": [
+          "PERROSINCINERADOS",
+          "ABUSOANIMAL",
+          "CONTROLDEANIMALES"
+        ]
       }
     }
   ]
