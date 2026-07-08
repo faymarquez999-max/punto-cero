@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T04:19:16.319222+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1cebba6ad65e",
-        "score": 82,
-        "category": "Tecnología y Transporte",
-        "title": "Cybercab driving itself out of the GigaTexas factory",
-        "candidate_tickers": [
-          "CYBR",
-          "GIGA",
-          "AUTOPILOT",
-          "TESLA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T04:21:15.762546+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "accidentes inesperados",
-        "title": "¡#Impactante!🚨 Lo que empezó como “plan piscina” terminó en película de supervivencia en #Cauca. Un joven fue arrastrado violentamente por la corriente de un río en el corregimiento de Huisito, zona r",
-        "candidate_tickers": [
-          "Huisito",
-          "río",
-          "barrica",
-          "supervivencia"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T08:29:32.810932+00:00",
       "kind": "shadow",
       "payload": {
@@ -28033,6 +28002,31 @@
           "CALIFORNIAWILDFIRE",
           "JULY8FIRES"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-08T11:57:05.138499+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2e321d4aaab2",
+        "score": 74,
+        "category": "política",
+        "title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
+        "candidate_tickers": [
+          "METRO",
+          "RACISMO",
+          "SUPREMACISMO BLANCO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T11:59:17.415499+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ae5336b32496",
+        "ticker": "IRAN",
+        "mint": "CkZGBz1Gz5tTAThiesePDynMrPfM43DaQYkAr47SrekR",
+        "mc": 357320.0
       }
     }
   ]

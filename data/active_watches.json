@@ -1,75 +1,6 @@
 {
   "watches": [
     {
-      "id": "75eb98490741",
-      "fingerprint": "75eb98490741",
-      "narrative_summary": "Elon Musk publica 'Wow' en Twitter y recibe mucha atención",
-      "why_memeable": "La frase 'Wow' es breve y fácil de recordar, lo que facilita su difusión",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "MUSK",
-        "WOW"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-25T05:52:09.431766+00:00",
-      "expires_at": "2026-06-27T05:52:09.431766+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 289247.0,
-        "liquidity_usd": 86895.02,
-        "price_usd": 0.0002893,
-        "volume_h24": 5277.45,
-        "volume_h1": 77.38,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 2.85,
-        "price_change_24h": 6.8,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 0,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-26T04:59:22.236718+00:00"
-    },
-    {
       "id": "976caec3bd30",
       "fingerprint": "976caec3bd30",
       "narrative_summary": "Migrants film themselves beating a French boy into a coma, who later dies.",
@@ -10418,7 +10349,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "496cd91bbc5f",
@@ -10847,7 +10778,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "4464839858d8",
@@ -10887,14 +10818,15 @@
       "started_at": "2026-07-06T08:46:13.876143+00:00",
       "expires_at": "2026-07-08T08:46:13.876143+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Kansas City Chiefs Coach Andy Reid Shares Adam Sandler’s Advice to Taylor Swift and Travis Kelce - The Hollywood Reporter",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-08T11:54:10.799544+00:00"
     },
     {
       "id": "ccff5296627a",
@@ -10938,7 +10870,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5605a3324246",
@@ -11064,7 +10996,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4fa28e2247bc",
@@ -11345,7 +11277,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dff07f115b85",
@@ -11392,7 +11324,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0e3e510c14a9",
@@ -11438,7 +11370,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dae3aab3b927",
@@ -11485,7 +11417,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a47700bcca99",
@@ -11529,7 +11461,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "ae5336b32496",
@@ -11567,14 +11499,51 @@
       "started_at": "2026-07-07T09:02:25.840190+00:00",
       "expires_at": "2026-07-09T09:02:25.840190+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "IRAN",
+        "name": "Iran",
+        "mint": "CkZGBz1Gz5tTAThiesePDynMrPfM43DaQYkAr47SrekR",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 357320.0,
+        "liquidity_usd": 100692.24,
+        "price_usd": 3.573e-06,
+        "volume_h24": 321972.98,
+        "volume_h1": 321972.98,
+        "volume_m5": 134603.57,
+        "price_change_5m": -0.78,
+        "price_change_1h": 106.0,
+        "price_change_24h": 106.0,
+        "txns_h1_buys": 2259,
+        "txns_h1_sells": 599,
+        "created_ts": 1783510385000,
+        "pair_created_at": 1783510385000,
+        "url": "https://dexscreener.com/solana/3audrj6ccn8skvqja3ww3uwbecnmwngqnllgzyrr7qwy",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IRAN==IRAN",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Iran’s Revolutionary Guard Fires Missiles at Ships Near Hormuz - WSJ",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-07-08T11:59:17.409093+00:00"
     },
     {
       "id": "112d6e46e189",
@@ -11698,7 +11667,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a82211eced70",
@@ -11746,7 +11715,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "450ff22c6ef0",
@@ -11790,7 +11759,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "982f17651748",
@@ -11836,7 +11805,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c48d2b3b3290",
@@ -11880,7 +11849,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2c3956e85db4",
@@ -11925,7 +11894,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9d8d2bc19fa1",
@@ -11969,7 +11938,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bc591f24a6d6",
@@ -12012,7 +11981,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "260014ba1d69",
@@ -12061,7 +12030,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1cce78006215",
@@ -12107,7 +12076,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "63ac44980910",
@@ -12255,7 +12224,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "abe4dc46d504",
@@ -12302,7 +12271,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bc82d6141269",
@@ -12347,8 +12316,52 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "2e321d4aaab2",
+      "fingerprint": "2e321d4aaab2",
+      "narrative_summary": "Una foto viral de una mujer negra rodeada de miembros de un grupo supremacista blanco en un metro revela la división de la nación.",
+      "why_memeable": "La foto es icónica y la historia es impactante, lo que la hace fácilmente compartible y recordable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "METRO",
+        "RACISMO",
+        "SUPREMACISMO BLANCO"
+      ],
+      "key_terms_for_dex_search": [
+        "Metro",
+        "Racismo",
+        "Supremacismo blanco",
+        "división nacional"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-07-08T11:57:04.548267+00:00",
+      "expires_at": "2026-07-10T11:57:04.548267+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
+      "cluster_sources": [
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-08T07:23:55.975145+00:00"
+  "last_updated": "2026-07-08T11:59:17.409102+00:00"
 }
