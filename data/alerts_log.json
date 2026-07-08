@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T16:03:37.933638+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "Noticias",
-        "title": "Woman wins free Wendy's burgers for a year after bizarre costume contest victory - Fox News",
-        "candidate_tickers": [
-          "WendysWinner",
-          "DisfracesDeWendys",
-          "JuezaDeDisfraces"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T16:04:21.881772+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "03f4ffe0ef8d",
-        "score": 88,
-        "category": "Tecnología",
-        "title": "Blue Origin’s New Glenn Rocket Explodes on Launchpad - Bloomberg.com",
-        "candidate_tickers": [
-          "BLUEORIGIN",
-          "NEWGLENN",
-          "COHETEEXPLOTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T16:05:13.892743+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b581252f15fa",
-        "score": 89,
-        "category": "Noticias de animalitos",
-        "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
-        "candidate_tickers": [
-          "MUSHROOMMURDER",
-          "CANINEKILLERS",
-          "ANIMALRESCUETRAGEDY"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T16:06:35.621365+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28024,6 +27980,51 @@
         "ticker": "FIFA",
         "mint": "Ee4Nm1R32jYuoFAMHSpfNcb1yQYqzGrR9C2nbnHwwTNJ",
         "mc": 420165.0
+      }
+    },
+    {
+      "ts": "2026-07-08T21:22:46.720344+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e4bc3282b48d",
+        "score": 80,
+        "category": "Noticias",
+        "title": "Chinese restaurant in California goes viral for strict kids policy - KSN-TV",
+        "candidate_tickers": [
+          "KIDSPOLICY",
+          "RESTAURANTEVIRAL",
+          "CALIFORNIACONTROVERSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T21:23:57.885527+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e6d229a32a68",
+        "score": 90,
+        "category": "noticias",
+        "title": "Son demands independent probe after father shot and killed by ICE officer in Houston - AP News",
+        "candidate_tickers": [
+          "ICEKILLED",
+          "HOUSTONSHOOTING",
+          "INJUSTICE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T21:25:04.784386+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "96d2d826bea8",
+        "score": 70,
+        "category": "política",
+        "title": "EXCLUSIVE: NATO's Rutte says alliance reunited at Ankara summit after Trump 'quarrel' - Reuters",
+        "candidate_tickers": [
+          "TRUMPVSNATO",
+          "RUTTEVSTRUMP",
+          "NATOREUNIDO"
+        ]
       }
     }
   ]
