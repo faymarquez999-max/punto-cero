@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T22:30:00.966272+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b4b03c880296",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T22:30:06.654679+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cd18213824ed",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T22:30:12.349798+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d674face4cae",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T22:30:14.657715+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cc5fecb16c50",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 101745.0
-      }
-    },
-    {
-      "ts": "2026-05-28T23:55:12.073479+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política internacional",
-        "title": "OMAN SHOULD KNOW THAT U.S. TREASURY WILL TARGET ANY ACTORS INVOLVED IN FACILITATING TOLLS FOR STRAIT OF HORMUZ -BESSENT",
-        "candidate_tickers": [
-          "HORMUZ",
-          "TRUMP",
-          "ESTRECHO_DE_ORMUZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T23:56:35.644028+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a12eafcc1524",
-        "score": 79,
-        "category": "política",
-        "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-        "candidate_tickers": [
-          "NETANYAHU",
-          "GAZA",
-          "FRANJA",
-          "OCUPACIÓN"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-28T23:57:51.194579+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28024,6 +27954,85 @@
           "UcraniaDrones",
           "DroneDeals"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-08T07:18:59.301884+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "abe4dc46d504",
+        "score": 90,
+        "category": "noticias",
+        "title": "A viral Reuters photo captured a Black woman surrounded on a Metro train by masked members of a white supremacist group on July 4. When Paul Bowlding saw it on Instagram that day, he recognized the wo",
+        "candidate_tickers": [
+          "#RODEADAPORSUPREMACISTAS",
+          "#INJUSTICIAENELTREN",
+          "#MUJERNEGRARODEADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T07:20:23.690965+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Criptomonedas",
+        "title": "/XSG/ XRP Schizo General #2551",
+        "candidate_tickers": [
+          "XRP",
+          "MemeToro",
+          "Beat",
+          "Buy"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T07:20:58.090259+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Accidentes inusuales",
+        "title": "Gas leak prompts evacuation order near Boyd-Lawrence county line - WCHS",
+        "candidate_tickers": [
+          "GasLeak",
+          "BoydLawrence",
+          "Evacuation"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T07:20:59.793335+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bc82d6141269",
+        "score": 80,
+        "category": "Política y Escándalo",
+        "title": "Ex-girlfriend of Graham Platner says he removed condoms without consent during sex - The Washington Post",
+        "candidate_tickers": [
+          "PLATNER",
+          "CONSENT",
+          "SEXSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T07:23:31.978216+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "05ea12c1e770",
+        "ticker": "WORLDCUP",
+        "mint": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
+        "mc": 445587.0
+      }
+    },
+    {
+      "ts": "2026-07-08T07:23:55.983711+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "63ac44980910",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214382.0
       }
     }
   ]
