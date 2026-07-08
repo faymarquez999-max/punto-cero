@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-28T23:57:51.194579+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ec5f5be15bf0",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Cybercab driving itself out of the GigaTexas factory",
-        "candidate_tickers": [
-          "CYBERCAB",
-          "GIGATEXAS",
-          "AUTÓNOMO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-28T23:58:18.511565+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "575d0b7a7b55",
-        "score": 74,
-        "category": "Tecnología y conducción autónoma",
-        "title": "You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode",
-        "candidate_tickers": [
-          "TESLAMADMAX",
-          "MADMAXMODE",
-          "TESLASELFDRIVING"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T04:19:16.319222+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28033,6 +28003,36 @@
         "ticker": "XRP",
         "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
         "mc": 214382.0
+      }
+    },
+    {
+      "ts": "2026-07-08T10:01:12.421656+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d5a8e5fd1f42",
+        "score": 70,
+        "category": "Política",
+        "title": "Maine Democratic Party accuses Graham Platner of meddling in the process to replace him - NBC News",
+        "candidate_tickers": [
+          "PLATNER",
+          "MAINE",
+          "DEMÓCRATAS",
+          "ACUSACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-08T10:03:12.007357+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Incendios forestales en California",
+        "title": "Breaking: Mp 16.97 Fire reported in Humboldt County on July 8 - Fresno Bee",
+        "candidate_tickers": [
+          "HumboldtFire",
+          "CALIFORNIAWILDFIRE",
+          "JULY8FIRES"
+        ]
       }
     }
   ]
