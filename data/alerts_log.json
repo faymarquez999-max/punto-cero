@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T22:48:43.765075+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "salud",
-        "title": "Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more - NBC News",
-        "candidate_tickers": [
-          "EBOLA2026",
-          "EBOLAOUTBREAK",
-          "EBOLAVIRUS"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T22:50:30.712508+00:00",
       "kind": "shadow",
       "payload": {
@@ -28030,6 +28016,21 @@
           "TYPHOONBAVI",
           "BAVISTORM",
           "CHINATAIWANTIFON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T13:44:25.251116+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a66e2e8bd9ef",
+        "score": 72,
+        "category": "política",
+        "title": "Graham Platner drops Maine Senate bid: What that means for Democrats",
+        "candidate_tickers": [
+          "PLATNER",
+          "MAINESENATE",
+          "DEMÓCRATAS"
         ]
       }
     }
