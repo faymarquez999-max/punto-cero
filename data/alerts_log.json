@@ -1,83 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T00:03:15.650584+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1807b32f4265",
-        "score": 88,
-        "category": "salud",
-        "title": "Ebola treatment centre rebuilt after being torched by protesters in DRC",
-        "candidate_tickers": [
-          "EBOLA",
-          "RDC",
-          "CENTRO DE TRATAMIENTO",
-          "MANIFESTANTES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T00:04:49.016392+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Ghana lawmakers approve bill criminalizing LGBTQ 'promotion', official says - Reuters",
-        "candidate_tickers": [
-          "LGBTQ",
-          "Ghana",
-          "ley",
-          "promoción"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T00:05:11.599481+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3effbbdfee86",
-        "score": 79,
-        "category": "crimen y justicia",
-        "title": "US immigration agent arrested in Texas for Minneapolis shooting - Reuters",
-        "candidate_tickers": [
-          "IMMIGRATIONAGENT",
-          "TEXASSHOOTING",
-          "MINNEAPOLISINCIDENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T00:05:50.163579+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Muerte de una figura famosa",
-        "title": "I'll wear it to bed, says Emma Thompson after award win at Hay Festival",
-        "candidate_tickers": [
-          "CatherineOHara",
-          "FallecimientoOHara",
-          "MuerteOHara"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T04:14:28.340569+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1135ffd5baf6",
-        "score": 80,
-        "category": "Política y Sociedad",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMPXMAS",
-          "RADICALLEFT",
-          "TRUMP2024",
-          "MERRYTRUMP",
-          "TRUMPNEWS"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T04:14:29.923375+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28030,6 +27953,79 @@
           "TRUMPSHOOTING",
           "INMIGRACIÓNSANGRIENTA",
           "FALLODETRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T18:22:33.954628+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "79e527432057",
+        "score": 70,
+        "category": "política",
+        "title": "Burnham on track to be next PM as 322 Labour MPs back him",
+        "candidate_tickers": [
+          "BURNHAM2026",
+          "322DIPUTADOS",
+          "LABORISTAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T18:24:55.507236+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "68e5238fe12e",
+        "score": 78,
+        "category": "política",
+        "title": "Turkey's Erdogan gives NATO leaders revolver conundrum after summit - Reuters",
+        "candidate_tickers": [
+          "ERDOGAN",
+          "OTAN",
+          "REVOLVER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T18:25:23.463469+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "muerte de una figura pública",
+        "title": "Bonnie Tyler obituary - The Guardian",
+        "candidate_tickers": [
+          "Tyler75",
+          "BonnieTylerMuere",
+          "TotalEclipseOfTheHeart"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T18:26:00.332627+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bf5246aa248d",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "Convoy carrying Russian fighters attacked in Mali, sources say - Reuters",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "MALÍATAQUE",
+          "CONVOYRUSO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T18:26:29.867146+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Tecnología",
+        "title": "OpenAI launches ChatGPT Work - Reuters",
+        "candidate_tickers": [
+          "GPT",
+          "ChatGPT",
+          "OpenAI"
         ]
       }
     }
