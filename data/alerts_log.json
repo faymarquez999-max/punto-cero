@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T04:14:29.923375+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1160cc1b757f",
-        "score": 80,
-        "category": "Deportes",
-        "title": "João Fonseca derrota a Djokovic en Roland Garros, pone fin a sueño de 25 Grand Slams - Yahoo",
-        "candidate_tickers": [
-          "FONSECA",
-          "DJOKODOWN",
-          "ROLANDGARROS",
-          "TENNISUPSET",
-          "JOAO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T04:14:35.803441+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e1e0c628a86",
-        "score": 80,
-        "category": "noticias de tecnología y espacio",
-        "title": "Blue Origin Rocket Blows Up. AST SpaceMobile and Rocket Lab Stocks Fall. - Barron's",
-        "candidate_tickers": [
-          "BLUEBLOW",
-          "ROCKETFAIL",
-          "ASTROEXPLODE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T04:15:04.387830+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8878a15e848c",
-        "score": 85,
-        "category": "Asesinato y justicia",
-        "title": "🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie i skłamał, że to Henry go zaatakował, był pijany, obraził go rasistowsko i strącił mu",
-        "candidate_tickers": [
-          "DIGWA",
-          "HENRY",
-          "ZABÓJCA",
-          "RASISMO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T04:18:53.373593+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b5e9b8875d5e",
-        "score": 76,
-        "category": "violencia policial",
-        "title": "Family and community demand action after viral Shelby police arrest video - WBTV",
-        "candidate_tickers": [
-          "SHELBY",
-          "POLICÍA",
-          "GOLPE",
-          "PROTESTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T04:19:27.289744+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1135ffd5baf6",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 82666.0
-      }
-    },
-    {
       "ts": "2026-05-30T04:19:33.026431+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28026,6 +27952,80 @@
           "GPT",
           "ChatGPT",
           "OpenAI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T20:27:11.172042+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32677e914926",
+        "score": 88,
+        "category": "política y celebridades",
+        "title": "What happened to the beautiful game?",
+        "candidate_tickers": [
+          "TRUMPMUSK",
+          "MUSKTRUMP",
+          "TRUMPVSMUSK",
+          "MUSKVSTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T20:28:23.993671+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ab85236d1de",
+        "score": 82,
+        "category": "política",
+        "title": "Burnham on course to become UK prime minister as nominations open for Labour leadership - AP News",
+        "candidate_tickers": [
+          "BURNHAM",
+          "322",
+          "LABOUR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T20:28:59.428109+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Turkey's Erdogan gives NATO leaders revolver conundrum after summit - Reuters",
+        "candidate_tickers": [
+          "ErdoganRevolver",
+          "OTANConundrum",
+          "ErdoganRevolverConundrum"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T20:29:45.122644+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cfa755960f57",
+        "score": 70,
+        "category": "Política/Justicia",
+        "title": "Graham Platner suspends Maine Senate campaign after sexual assault allegation - CBS News",
+        "candidate_tickers": [
+          "PLATNERAGRESIÓN",
+          "GRAHAMPLATNER",
+          "MAINESENATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T20:30:22.865815+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "570aabeb51bd",
+        "score": 70,
+        "category": "Muerte de una celebridad",
+        "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
+        "candidate_tickers": [
+          "BONNIETYLER",
+          "TOTALECLIPSEOFTHEHEART"
         ]
       }
     }
