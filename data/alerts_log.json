@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T22:46:42.908420+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1f1a0695b009",
-        "score": 70,
-        "category": "Política/Seguridad",
-        "title": "Russian official warns Europe to brace for more drone incidents after Romania episode - Reuters",
-        "candidate_tickers": [
-          "DRONESRUSOS",
-          "RUMANIAINCIDENTE",
-          "ALERTAEUROPA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T22:47:20.455983+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "00a0865bd8de",
-        "score": 74,
-        "category": "noticias de inmigración y justicia",
-        "title": "US immigration agent arrested in Texas for Minneapolis shooting - Reuters",
-        "candidate_tickers": [
-          "ICE_ARRESTED",
-          "INMIGRACIÓN_ARRESTADA",
-          "TIROTEO_MINNEAPOLIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T22:48:02.417094+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dce4cd8c8581",
-        "score": 80,
-        "category": "UFOs y conspiraciones",
-        "title": "Minnesota UFO sighting included in declassified FBI documents - Valley News Live",
-        "candidate_tickers": [
-          "UFO",
-          "FBI",
-          "MINNESOTA",
-          "DECLASSIFIED"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T22:48:43.765075+00:00",
       "kind": "shadow",
       "payload": {
@@ -28031,6 +27985,52 @@
         "ticker": "MarsCoin",
         "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
         "mc": 33206.0
+      }
+    },
+    {
+      "ts": "2026-07-09T10:43:25.794202+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e16f1aaf4ced",
+        "score": 91,
+        "category": "Noticias de animales",
+        "title": "Family's 'unimaginable loss' as mum and daughters found dead",
+        "candidate_tickers": [
+          "DEADPETS",
+          "CALIFURIA",
+          "ANIMALABUSE",
+          "NOHUMANO",
+          "PERROSALVAJE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T10:44:15.302383+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Debate político",
+        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
+        "candidate_tickers": [
+          "MUSKvsTRUMP",
+          "CENSURA",
+          "LIBERTAD_DE_EXPRESION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T10:44:49.057578+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c9269fdf16f",
+        "score": 70,
+        "category": "clima",
+        "title": "China, Taiwan brace for Typhoon Bavi, possibly the most powerful storm in years - Reuters",
+        "candidate_tickers": [
+          "TYPHOONBAVI",
+          "BAVISTORM",
+          "CHINATAIWANTIFON"
+        ]
       }
     }
   ]
