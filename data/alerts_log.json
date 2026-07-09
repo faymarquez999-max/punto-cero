@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T22:50:30.712508+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política/Justicia",
-        "title": "Ex-US Attorney General Pam Bondi testifies in Epstein files probe",
-        "candidate_tickers": [
-          "Bondi",
-          "Epstein",
-          "PamBondi",
-          "EpsteinFiles"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T00:02:28.571080+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "05a83c80a385",
-        "score": 71,
-        "category": "Deporte",
-        "title": "Teen sensation Fonseca comes of age by taming Djokovic at French Open - Reuters",
-        "candidate_tickers": [
-          "FONSECA",
-          "DJOKOVIC",
-          "FRENCHOPEN",
-          "UNDERDOG"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T00:03:15.650584+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28031,6 +28000,36 @@
           "PLATNER",
           "MAINESENATE",
           "DEMÓCRATAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T16:20:41.568474+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b9638be69a2d",
+        "score": 82,
+        "category": "Deportes",
+        "title": "«Hui para proteger a mi familia de la muerte». Confesión impactante del seleccionador de Corea tras el desastre del Mundial - Goal.com",
+        "candidate_tickers": [
+          "HUI",
+          "COREA",
+          "DESASTREMUNDIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T16:22:13.039381+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a4c83a982937",
+        "score": 82,
+        "category": "Noticias políticas",
+        "title": "‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term - The Guardian",
+        "candidate_tickers": [
+          "TRUMPSHOOTING",
+          "INMIGRACIÓNSANGRIENTA",
+          "FALLODETRUMP"
         ]
       }
     }
