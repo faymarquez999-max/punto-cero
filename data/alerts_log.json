@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T04:19:33.026431+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8878a15e848c",
-        "ticker": "HENRY",
-        "mint": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
-        "mc": 414668.0
-      }
-    },
-    {
-      "ts": "2026-05-30T07:24:28.184395+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b13d7d3c0f22",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
-        "candidate_tickers": [
-          "TRUMPMUSK",
-          "MUSKTRUMP",
-          "FEUD",
-          "TRUMPVSMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T07:24:35.759958+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8faa8d1e1d6b",
-        "score": 80,
-        "category": "tecnología y espacio",
-        "title": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
-        "candidate_tickers": [
-          "MUSKWIN",
-          "BLUEBOMB",
-          "SPACERACE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T07:24:49.278211+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28026,6 +27985,51 @@
         "candidate_tickers": [
           "BONNIETYLER",
           "TOTALECLIPSEOFTHEHEART"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T22:05:43.063823+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2599be8707c6",
+        "score": 80,
+        "category": "inmigración, protestas, Sudáfrica",
+        "title": "South African protesters go door-to-door forcing immigrants from their homes - Reuters",
+        "candidate_tickers": [
+          "SUDAFRICAFORZAINMIGRANTES",
+          "INMIGRANTESSUDAFRICA",
+          "PROTESTASINMIGRANTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T22:07:15.828612+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e5d7fb856ad9",
+        "score": 82,
+        "category": "política",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINES",
+          "KEEKGATE",
+          "CAPTIVITY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T22:09:08.420781+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "419d3c481a20",
+        "score": 73,
+        "category": "Desastres naturales",
+        "title": "Suben a 3.899 los muertos tras el doble terremoto en Venezuela - Ultima Hora",
+        "candidate_tickers": [
+          "VENEZUELA_DESTRUIDA",
+          "TERREMOTOS_VENEZUELA",
+          "DESTRUCION_VENEZUELA"
         ]
       }
     }
