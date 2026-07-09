@@ -1,74 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T07:24:49.278211+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2b61e88b0840",
-        "score": 80,
-        "category": "política",
-        "title": "Frustration in Lebanon as Israel expands invasion",
-        "candidate_tickers": [
-          "ISRAELLEBANON",
-          "INVASIÓN",
-          "FRUSTRACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T07:25:56.491447+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6870160ca2c8",
-        "score": 70,
-        "category": "nuevas tecnologías y contratos",
-        "title": "SpaceX wins $4.16 billion US Space Force contract for threat-detection satellites - Reuters",
-        "candidate_tickers": [
-          "SPACEX",
-          "SPACEFORCE",
-          "$416B"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T07:27:15.211462+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2149964e39e4",
-        "score": 72,
-        "category": "Política y Controversia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSK",
-          "TRUTH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T07:27:41.275363+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "Frank is right",
-        "candidate_tickers": [
-          "FRANKISR",
-          "FRANKISRIGHT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T07:28:44.915995+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b13d7d3c0f22",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 116509.0
-      }
-    },
-    {
       "ts": "2026-05-30T07:28:47.456464+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28030,6 +27962,80 @@
           "VENEZUELA_DESTRUIDA",
           "TERREMOTOS_VENEZUELA",
           "DESTRUCION_VENEZUELA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T23:40:54.442632+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Who will replace Platner on the Maine ballot? These Democrats are raising their hands - AP News",
+        "candidate_tickers": [
+          "Platner",
+          "Maine",
+          "Sucesión"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T23:41:18.936583+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d0528d46d616",
+        "score": 89,
+        "category": "Noticias de Sudáfrica",
+        "title": "South African protesters go door-to-door forcing immigrants from their homes - Reuters",
+        "candidate_tickers": [
+          "SUDÁFRICA",
+          "INMIGRANTES",
+          "PROTESTANTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T23:42:37.682688+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5811854c9ca2",
+        "score": 89,
+        "category": "Noticias de asesinato y corte",
+        "title": "Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears - BBC",
+        "candidate_tickers": [
+          "CHARLIEKIRK",
+          "ASESINATO",
+          "CORTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T23:43:41.272882+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bc15756dbf4f",
+        "score": 71,
+        "category": "Noticias internacionales",
+        "title": "Convoy carrying Russian fighters attacked in Mali, sources say - Reuters",
+        "candidate_tickers": [
+          "MALIATTACK",
+          "RUSIAENMALÍ",
+          "CONVOYATACADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T23:46:19.466285+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "55322a2c2b1f",
+        "score": 82,
+        "category": "Noticias de política y justicia",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINK",
+          "KEEEEEEEEEK",
+          "MARINES"
         ]
       }
     }
