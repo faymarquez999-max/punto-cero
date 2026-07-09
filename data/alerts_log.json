@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-29T21:06:40.109435+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6870b8ea05ad",
-        "score": 90,
-        "category": "política",
-        "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund - Reuters",
-        "candidate_tickers": [
-          "TRUMP",
-          "KENNEDY",
-          "FONDO",
-          "REMOCIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T21:07:23.359825+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Ex-US Attorney General Pam Bondi testifies in Epstein files probe",
-        "candidate_tickers": [
-          "Bondi",
-          "Epstein",
-          "Blanche"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T21:09:26.516597+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e1be9c97f122",
-        "score": 79,
-        "category": "política internacional",
-        "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
-        "candidate_tickers": [
-          "NETANYAHU",
-          "LITANI",
-          "ISRAEL",
-          "LÍBANO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T21:10:09.474209+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b86dcb5da137",
-        "score": 80,
-        "category": "política",
-        "title": "Louisiana Republicans pass gerrymandered map that eliminates majority-Black district - Politico",
-        "candidate_tickers": [
-          "GERRYMANDER",
-          "LUISIANA",
-          "DISTRITONEGRO",
-          "INJUSTICIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-29T22:46:05.087085+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Noticias internacionales",
-        "title": "Ebola treatment centre rebuilt after being torched by protesters in DRC",
-        "candidate_tickers": [
-          "Ebola",
-          "RDC",
-          "Injusticia"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-29T22:46:42.908420+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28037,6 +27961,76 @@
           "JAMESBURROWS",
           "MUERTEINUSUAL"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-09T07:46:37.474636+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fbd19b10a3df",
+        "score": 80,
+        "category": "Política y Escándalos",
+        "title": "/GME/ - Comfy Monday After-hours and Late Night Edition",
+        "candidate_tickers": [
+          "TRUMP",
+          "GME",
+          "SCANDAL",
+          "USA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T07:48:36.848869+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "98c200bf0c8c",
+        "score": 83,
+        "category": "News/Politics",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINE",
+          "KEEEEEEEK",
+          "MARINEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T07:50:03.447748+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c42dc14c7211",
+        "score": 82,
+        "category": "Migración",
+        "title": "Localizan otras dos pateras llegadas a Formentera con 60 personas migrantes - Ultima Hora",
+        "candidate_tickers": [
+          "PATERASDEFORMENTERA",
+          "MIGRANTESENFORMENTERA",
+          "JUNTARECOMIENDAABSTENCION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T07:50:31.491056+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "accidentes inusuales",
+        "title": "Evacuado en helicóptero un hombre al caer de un árbol en una finca de Pollença - Ultima Hora",
+        "candidate_tickers": [
+          "CAER",
+          "POLLÈNCA",
+          "HELICOPTERO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-09T07:50:34.452847+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9331f698a6f4",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 33206.0
       }
     }
   ]
