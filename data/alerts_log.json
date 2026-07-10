@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T15:51:23.230678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b4e1b2b89a67",
-        "score": 84,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T15:51:36.546890+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "91220afac1ab",
-        "score": 82,
-        "category": "Tecnología/Internet",
-        "title": "Frank is right",
-        "candidate_tickers": [
-          "FRANKISRIGHT",
-          "ELONMUSKFRANK"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T15:53:11.666012+00:00",
       "kind": "shadow",
       "payload": {
@@ -28052,6 +28023,36 @@
           "AnnWiddecombe",
           "StrictlyStar",
           "BrexitBacker"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T15:07:05.856608+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a19ed63e36d5",
+        "score": 83,
+        "category": "Desastres naturales y accidentes",
+        "title": "En directo | Última hora del incendio en Los Gallardos (Almería), que deja doce muertos - La Opinión de Málaga",
+        "candidate_tickers": [
+          "ALMERIAINCENDIO",
+          "FUEGOALMERIA",
+          "GALLARDOSINCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T15:09:04.604999+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "17d9091263cd",
+        "score": 82,
+        "category": "crueldad animal",
+        "title": "Viral video shows struggle between Del. state trooper and woman during arrest - NBC10 Philadelphia",
+        "candidate_tickers": [
+          "CAIMAN_GIRL",
+          "ANIMAL_ABUSO",
+          "CAIMAN_VIRAL"
         ]
       }
     }
