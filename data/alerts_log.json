@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T15:53:11.666012+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "El PPCV, a Morant: \"Mientras en la Comunitat aprobamos presupuestos, en el Gobierno reina el caos\" - Ultima Hora",
-        "candidate_tickers": [
-          "PPCV",
-          "caos",
-          "gobierno"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T15:53:38.996949+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8450a2d7b466",
-        "score": 82,
-        "category": "abuso infantil",
-        "title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
-        "candidate_tickers": [
-          "MONJEABUSADOR",
-          "ABUSOBUDISTA",
-          "NIÑOABUSADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T15:54:27.930715+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "81e61c15b18c",
-        "score": 80,
-        "category": "violencia policial",
-        "title": "Shelby officer fired after punching woman repeatedly in viral arrest video, police say - WBTV",
-        "candidate_tickers": [
-          "POLICÍAMAL",
-          "GOLPEANDO A UNA MUJER",
-          "VÍDEOVIRAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T15:56:03.150117+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28053,6 +28009,51 @@
           "CAIMAN_GIRL",
           "ANIMAL_ABUSO",
           "CAIMAN_VIRAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T17:12:44.124878+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Música",
+        "title": "Sam Fender and Olivia Dean make UK chart history with Rein Me In",
+        "candidate_tickers": [
+          "SamFender",
+          "OliviaDean",
+          "ReinMeIn"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T17:14:07.705450+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8900f0ad577c",
+        "score": 82,
+        "category": "política",
+        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
+        "candidate_tickers": [
+          "ICE",
+          "HOUSTON",
+          "MIGRANTES",
+          "ASESINATO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T17:14:53.721938+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cfa2473497d4",
+        "score": 85,
+        "category": "Desastres naturales",
+        "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 12 muertos y 23 personas no localizadas en el incendio más trágico registrado en Andalucía - EL PAÍS",
+        "candidate_tickers": [
+          "GALLARDOS",
+          "INCENDIOALMERIA",
+          "DESASTRENATURALES"
         ]
       }
     }
