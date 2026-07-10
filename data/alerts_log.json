@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T12:20:49.195376+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "201d986bd220",
-        "score": 72,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T12:21:09.729454+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4be0356d06c3",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Frank is right",
-        "candidate_tickers": [
-          "FRANKISRIGHT",
-          "MUSKFRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T12:21:52.258144+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e6256a66c4cc",
-        "score": 72,
-        "category": "Política y discurso de odio",
-        "title": "90% of hate speech targets Men and Whites",
-        "candidate_tickers": [
-          "90%OD",
-          "DIOSDEODIA",
-          "HATESPEECH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T14:20:52.885823+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a168939cc084",
-        "score": 88,
-        "category": "rescate en peligro",
-        "title": "Rescuers pull four from flooded cave in Laos, two still missing - Reuters",
-        "candidate_tickers": [
-          "LAORESCUE",
-          "CUEVAINUNDADA",
-          "RESCATEENPELIGRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T14:21:31.255097+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "salud",
-        "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
-        "candidate_tickers": [
-          "EBOLA",
-          "BUNIA",
-          "OMS"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T14:22:07.339285+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28051,6 +27978,80 @@
         "ticker": "IRAN",
         "mint": "FuMGatvkAZdDmvYmGBr5udXgmVRRYYddwLvs1Uzwmw1e",
         "mc": 274991.0
+      }
+    },
+    {
+      "ts": "2026-07-10T08:55:58.128867+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "negocios",
+        "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
+        "candidate_tickers": [
+          "SKHYNIX",
+          "RECORDIPO",
+          "CHIPGIANT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T08:56:36.842313+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "81d3a12d67c3",
+        "score": 79,
+        "category": "Noticias de actualidad",
+        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
+        "candidate_tickers": [
+          "ICE",
+          "HOUSTON",
+          "MIGRANTES",
+          "MUERTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T08:57:18.018965+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump ousts members of bipartisan election commission ahead of midterms - Politico",
+        "candidate_tickers": [
+          "TRUMP_CLEANS_HOUSE",
+          "ELECTION_COMMISSION_OUTS",
+          "TRUMP_OUSTS_MEMBERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T08:58:06.759722+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a4c4fb5eefdf",
+        "score": 70,
+        "category": "Muerte de una famosa cantante",
+        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
+        "candidate_tickers": [
+          "BONNIETYLER",
+          "TOTALECLIPSEOFTHEHEART",
+          "MUERTEDEBONNIETYLER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T08:59:12.944621+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "83e17e6420f9",
+        "score": 83,
+        "category": "política",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKKEEK",
+          "MARINEKEEK",
+          "KEEEEEEEEEK"
+        ]
       }
     }
   ]
