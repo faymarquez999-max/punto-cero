@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T14:22:07.339285+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2a84b115be26",
-        "score": 79,
-        "category": "Abuso animal",
-        "title": "Girl, 15, dies after swimming at beach",
-        "candidate_tickers": [
-          "ABUSOANIMAL",
-          "PERROMUERTO",
-          "JOVENACUSADO",
-          "ABUSOANIMAL18",
-          "PERROABUSADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T14:22:38.807033+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "tech",
-        "title": "Anthropic Cuts Unauthorized Platform List by Half After Pushback - Bloomberg.com",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "CUTS",
-          "PLATFORM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T14:23:12.060402+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias de tecnología",
-        "title": "SpaceX wins $4.16 billion US Space Force contract for threat-detection satellites - Reuters",
-        "candidate_tickers": [
-          "SPACEXCONTRACT",
-          "SPACEFORCE",
-          "THREATDETECTION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T14:23:39.970590+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e4a620cd065c",
-        "score": 84,
-        "category": "Tecnología y Política",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSKTRUE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T15:51:23.230678+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28051,6 +27992,66 @@
           "LINKKEEK",
           "MARINEKEEK",
           "KEEEEEEEEEK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T12:04:02.071355+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "política",
+        "title": "Condemned ex-PM Hasina plans December return to Bangladesh",
+        "candidate_tickers": [
+          "Hasina",
+          "Bangladesh",
+          "HasinaRegresa"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T12:04:47.900749+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5856c931ae69",
+        "score": 78,
+        "category": "muerte de una celebridad",
+        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
+        "candidate_tickers": [
+          "BONNIETYLER",
+          "TOTALECLIPSEOFTHEHEART",
+          "MUERTEDEBONNIETYLER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T12:05:41.639398+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "364942519ab7",
+        "score": 85,
+        "category": "Desastres naturales",
+        "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 11 muertos y 19 desaparecidos en el incendio más trágico registrado en Andalucía - EL PAÍS",
+        "candidate_tickers": [
+          "GALLARDOS",
+          "ALMERÍA",
+          "INCENDIO",
+          "DESASTRE",
+          "MUERTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T12:06:10.510216+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Celebridad Británica",
+        "title": "Ann Widdecombe: Brexit-backing former minister turned Strictly star",
+        "candidate_tickers": [
+          "AnnWiddecombe",
+          "StrictlyStar",
+          "BrexitBacker"
         ]
       }
     }
