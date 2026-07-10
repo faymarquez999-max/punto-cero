@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T07:28:47.456464+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6870160ca2c8",
-        "ticker": "SPCX",
-        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
-        "mc": 95772.0
-      }
-    },
-    {
-      "ts": "2026-05-30T09:34:28.249509+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "06892fd44725",
-        "score": 86,
-        "category": "Tecnología, Política",
-        "title": "True",
-        "candidate_tickers": [
-          "ELON",
-          "TRUE",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T09:37:52.037922+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "tenis",
-        "title": "La impactante imagen de Djokovic abatido por el calor que ya es historia de Roland Garros - MARCA",
-        "candidate_tickers": [
-          "DjokovicAbatido",
-          "RolandGarrosCalor"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T09:38:38.919684+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "06892fd44725",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 437178.0
-      }
-    },
-    {
-      "ts": "2026-05-30T11:10:04.371583+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2d80d95a823e",
-        "score": 74,
-        "category": "Twitter",
-        "title": "Frank is right",
-        "candidate_tickers": [
-          "FRANKISRIGHT",
-          "ELONMUSKMEME"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T11:10:44.390043+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28036,6 +27974,80 @@
           "LINK",
           "KEEEEEEEEEK",
           "MARINES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T01:20:04.973639+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 61,
+        "category": "política y noticias",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "TRUMP",
+          "PROTESTAS",
+          "INUNDACIONES",
+          "SUDÁFRICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T01:21:22.404042+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "negocios",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T01:22:13.127006+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "667e4be2be39",
+        "score": 91,
+        "category": "Muerte de figuras públicas",
+        "title": "Chainlink: Shocking details emerge about",
+        "candidate_tickers": [
+          "CATHERINEOHARADEAD",
+          "JAMESBURROWSDEAD",
+          "MUERTEDEFIGURASPUBLICAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T01:22:49.838930+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "84a634154fc8",
+        "score": 78,
+        "category": "seguridad pública, viral video, incidente en Goodman",
+        "title": "State sends Highway Patrol troopers to Goodman after viral video raises public safety concerns - WAPT",
+        "candidate_tickers": [
+          "GOODMAN",
+          "VIRAL VIDEO",
+          "SEGURIDAD PÚBLICA",
+          "PATRULLA ESTATAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T01:24:54.039383+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Who will replace Platner on the Maine ballot? These Democrats are raising their hands - AP News",
+        "candidate_tickers": [
+          "Platner",
+          "Maine",
+          "agresión sexual"
         ]
       }
     }
