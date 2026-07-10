@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T15:56:03.150117+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "201d986bd220",
-        "ticker": "ELIEN",
-        "mint": "5o61DgZrDGbCp5EBeyzLidUFXNVTtbfUGP3nY3s7pump",
-        "mc": 108121.0
-      }
-    },
-    {
-      "ts": "2026-05-30T15:56:06.095120+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e6256a66c4cc",
-        "ticker": "$daumen",
-        "mint": "T1oYbAejEESrZLtSAjumAXhzFqZGNxQ4kVN9vPUoxMv",
-        "mc": 106648.0
-      }
-    },
-    {
-      "ts": "2026-05-30T15:56:07.005510+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b4e1b2b89a67",
-        "ticker": "ELIEN",
-        "mint": "5o61DgZrDGbCp5EBeyzLidUFXNVTtbfUGP3nY3s7pump",
-        "mc": 108121.0
-      }
-    },
-    {
-      "ts": "2026-05-30T17:19:19.049774+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8a2ff585f203",
-        "score": 80,
-        "category": "política y celebridades",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMPMSK",
-          "MUSKTRUMP",
-          "MARALAGO",
-          "TRUMPMUSKFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:19:32.768399+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2d9c3c055922",
-        "score": 78,
-        "category": "Noticias de policía",
-        "title": "Girl, 15, dies after swimming at beach",
-        "candidate_tickers": [
-          "SHELBYCOP",
-          "POLICÍAABUSIVA",
-          "GOLPEANDOALAMUJER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:20:11.519731+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6425ae672ac3",
-        "score": 88,
-        "category": "fútbol",
-        "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
-        "candidate_tickers": [
-          "SLOTSACKED",
-          "LIVERPOOLDESASTRE",
-          "ARNESLOT"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T17:21:50.283629+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28054,6 +27978,94 @@
           "GALLARDOS",
           "INCENDIOALMERIA",
           "DESASTRENATURALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:49:18.132693+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tenis",
+        "title": "Clinical Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
+        "candidate_tickers": [
+          "SinnerWins",
+          "ClinicalSinner",
+          "Wimbledon2026"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:49:58.910628+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "443750d6e5d0",
+        "score": 91,
+        "category": "muerte de una celebridad",
+        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
+        "candidate_tickers": [
+          "BONNIETYLER",
+          "TOTALECLIPSEOFTHEHEART",
+          "MUERTEDEBONNIETYLER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:50:49.707045+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Deportes",
+        "title": "!$[VERDIRECTO] España vs Bélgica EN VIVO y ONLINE 11 de julio de 2026 - Ayuntamiento de Pamplona",
+        "candidate_tickers": [
+          "ESPvsBEL",
+          "ESPvsBEL2026",
+          "ESPvsBELMundial"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:51:27.605633+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "93c4bbe53854",
+        "score": 72,
+        "category": "Noticias de inmigración y justicia",
+        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
+        "candidate_tickers": [
+          "ICE",
+          "MIGRANTES",
+          "HOUSTON",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:52:09.593385+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e5b28d8cf9bc",
+        "score": 85,
+        "category": "ciencia",
+        "title": "The oldest individual animal ever found was a clam pulled from the seabed off Iceland, and researchers only worked out it was 507 years old after they had opened it to count the rings - ScienceBlog.co",
+        "candidate_tickers": [
+          "CALAMAR507",
+          "ISLANDIA",
+          "LONGEVIDAD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T18:53:43.387201+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f02c2514b8a",
+        "score": 80,
+        "category": "humor/absurdidad",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINE",
+          "KEEEEEEEEEEK"
         ]
       }
     }
