@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T17:21:50.283629+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c967399d7684",
-        "score": 70,
-        "category": "política",
-        "title": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest - Reuters",
-        "candidate_tickers": [
-          "OZEL",
-          "ANKARA",
-          "TURQUÍA",
-          "PROTESTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:22:57.205241+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d4599031aca4",
-        "score": 74,
-        "category": "política",
-        "title": "Trump's name must be removed from Kennedy Center, judge orders - Axios",
-        "candidate_tickers": [
-          "TRUMP_REMOVED",
-          "KENNEDY_CENTER_SCANDAL",
-          "TRUMP_KENNEDY_CENTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:23:36.265669+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6a1b1e0a24e7",
-        "score": 78,
-        "category": "Noticias de abuso animal",
-        "title": "Pit bull mix euthanized after severe injuries in alleged animal abuse case by 18-year-old in Dearborn - ClickOnDetroit | WDIV Local 4",
-        "candidate_tickers": [
-          "PITBULL",
-          "ABUSE18",
-          "DEARBORN",
-          "ANIMALCRUELTY",
-          "JUSTICE4PETS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:24:03.632910+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3b5cd8818c0b",
-        "score": 83,
-        "category": "Tecnología y celebridades",
-        "title": "Frank is right",
-        "candidate_tickers": [
-          "FRANKISRIGHT",
-          "ELONMUSKF"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T17:24:23.726899+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T18:44:55.569986+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28066,6 +27991,81 @@
         "candidate_tickers": [
           "LINKMARINE",
           "KEEEEEEEEEEK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T20:39:35.645187+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e221fbc82a2d",
+        "score": 88,
+        "category": "Política y celebridades",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "TRUMPVSMSK",
+          "MUSKTRUMPFEUD",
+          "EPSTEINGATE",
+          "TRUMPMUSKWAR",
+          "POLITICALEXPOSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T20:39:48.897734+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "accidentes y noticias",
+        "title": "/GME/ - Annual Stockholders After-Meeting Edition",
+        "candidate_tickers": [
+          "GMEcrash",
+          "AnimalCruelty",
+          "HoustonTragedy"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T20:41:05.005386+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "df30ca7a3f49",
+        "score": 78,
+        "category": "Noticias virales",
+        "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+        "candidate_tickers": [
+          "CAIMÁNVIRAL",
+          "FLORIDAFRENZY",
+          "ANIMALENCUENTRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T20:42:59.886250+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "familia real británica",
+        "title": "Harry visits King with Meghan and children for first time in four years",
+        "candidate_tickers": [
+          "HarryRey",
+          "GrietaFamiliar",
+          "ReyHarry"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T20:43:37.637676+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4fc3f1cd29ba",
+        "score": 82,
+        "category": "Desastres naturales",
+        "title": "Spanish wildfire victims burned in cars as roads turned into death traps - Reuters",
+        "candidate_tickers": [
+          "WILDFIREVÍCTIMAS",
+          "TRAMPASDELAMUERTE",
+          "INFIERNOENESPAÑA"
         ]
       }
     }
