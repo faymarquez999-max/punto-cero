@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T11:10:44.390043+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0000fc25ee75",
-        "score": 72,
-        "category": "Salud y política",
-        "title": "Ebola travel bans stir up Covid-era conflict over outbreak response - Politico",
-        "candidate_tickers": [
-          "EBOLABAN",
-          "COVIDVSEBOLA",
-          "TRAVELBAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T11:13:55.419655+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "224c071822ab",
-        "score": 74,
-        "category": "política y celebridad",
-        "title": "La visita del papa León XIV coincide con Bad Bunny y pone a prueba el mayor dispositivo de seguridad en años: \"España será foco de atención internacional\" - Cadena SER",
-        "candidate_tickers": [
-          "PAPABADBUNNY",
-          "BADPAPA",
-          "PAPAENESPAÑA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T11:14:45.007568+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2d80d95a823e",
-        "ticker": "Franklin",
-        "mint": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
-        "mc": 86660.0
-      }
-    },
-    {
-      "ts": "2026-05-30T11:14:46.428038+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0000fc25ee75",
-        "ticker": "Ebola",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "mc": 391831.0
-      }
-    },
-    {
-      "ts": "2026-05-30T12:19:46.559189+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "noticias de rescate",
-        "title": "Rescuers pull four from flooded cave in Laos, two still missing - Reuters",
-        "candidate_tickers": [
-          "LAOSRESCUE",
-          "CAVERESCUE",
-          "FLOODEDCAVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T12:20:25.538821+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología",
-        "title": "SpaceX wins $4.16 billion US Space Force contract for threat-detection satellites - Reuters",
-        "candidate_tickers": [
-          "SpaceX",
-          "Fuerza Espacial",
-          "Contrato Espacial"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T12:20:49.195376+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28049,6 +27971,86 @@
           "Maine",
           "agresión sexual"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-10T05:44:28.301221+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "60ec5aea4370",
+        "score": 88,
+        "category": "crueldad animal",
+        "title": "Columbus Humane launches animal cruelty investigation after viral video - The Columbus Dispatch",
+        "candidate_tickers": [
+          "CRUELTY",
+          "ANIMALABUSE",
+          "JUSTICEFORPETS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T05:44:41.893455+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "91a892c38c73",
+        "score": 80,
+        "category": "política",
+        "title": "Trump ousts members of bipartisan election commission ahead of midterms - Politico",
+        "candidate_tickers": [
+          "TRUMPX",
+          "BIPARTISANEAC",
+          "ELECTIONCOMMISSION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T05:46:28.425048+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "373557eea12b",
+        "score": 71,
+        "category": "clima",
+        "title": "Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters",
+        "candidate_tickers": [
+          "TYPHOONBAVI",
+          "ALERTAJAPONESA",
+          "TIFÓNBAVI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T05:47:12.126938+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ef7dbc61463b",
+        "score": 80,
+        "category": "política internacional",
+        "title": "Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say - CNN",
+        "candidate_tickers": [
+          "IRANPLOT",
+          "TRUMPASESINATO",
+          "ISRAELEEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T05:49:19.430077+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bc15756dbf4f",
+        "ticker": "Goofreck",
+        "mint": "6hpfrxQb2kn9iprcJcZ6uXruGAwDe12W9zT4y4WSpump",
+        "mc": 112982.0
+      }
+    },
+    {
+      "ts": "2026-07-10T05:49:23.451693+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ef7dbc61463b",
+        "ticker": "IRAN",
+        "mint": "FuMGatvkAZdDmvYmGBr5udXgmVRRYYddwLvs1Uzwmw1e",
+        "mc": 274991.0
       }
     }
   ]
