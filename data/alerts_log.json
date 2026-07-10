@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T20:04:17.291744+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "aviación, pasajeros desordenados, incidentes en vuelos",
-        "title": "United Airlines plane diverted and ‘unruly passenger’ detained after in-flight incident - NBC News",
-        "candidate_tickers": [
-          "UA",
-          "PasajeroDesordenado",
-          "VueloDesviado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T21:14:29.250237+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b549467e5019",
-        "score": 70,
-        "category": "salud",
-        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-        "candidate_tickers": [
-          "EBOLACONGO",
-          "VIRUSALARMA",
-          "SALUDENPELIGRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T21:15:13.090164+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Deportes",
-        "title": "PSG forge modern dynasty with Champions League shootout triumph over Arsenal - Reuters",
-        "candidate_tickers": [
-          "PSG",
-          "Arsenal",
-          "Champions League"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T21:15:53.563643+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0f210b80f90a",
-        "score": 74,
-        "category": "política",
-        "title": "Trump to headline Great American State Fair after music acts cancel - The Washington Post",
-        "candidate_tickers": [
-          "TRUMPFAIR",
-          "FAIRGATE",
-          "TRUMPVSARTISTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T21:16:36.192722+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "95b9db758552",
-        "score": 88,
-        "category": "Abuso animal",
-        "title": "Spencer Pratt vows to end animal abuse with ‘PAWS’ task force: ‘The city of angels is a city of dogs’ - Washington Examiner",
-        "candidate_tickers": [
-          "SPENCER",
-          "PAWS",
-          "ABUSE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T21:18:22.476672+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28066,6 +27993,83 @@
           "Migrantes",
           "Lorenzo Salgado Araujo",
           "Trump"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T23:46:36.423802+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2f18f390a755",
+        "score": 78,
+        "category": "Accidentes aéreos",
+        "title": "Ryanair passenger partially sucked out of window on flight from Greece - Reuters",
+        "candidate_tickers": [
+          "RYANAIR",
+          "VUELO",
+          "DESANGRADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T23:47:56.440154+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e79ca2fbc67f",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ",
+        "candidate_tickers": [
+          "APPLEVSOPENAI",
+          "OPENAITHACKED",
+          "APPLESUESOPENAI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T23:48:25.322860+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "85353981b941",
+        "score": 90,
+        "category": "crimen y justicia",
+        "title": "Little Rock man pleads guilty to bank fraud conspiracy in pandemic funds scheme - The Arkansas Democrat-Gazette",
+        "candidate_tickers": [
+          "ANIMALSINJUSTICE",
+          "FRAUDEBANCARIO",
+          "PANDEMIAESQUEMA",
+          "LITTLEROCK",
+          "INJUSTICIAANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T23:48:59.127818+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d9f7c5983df7",
+        "score": 89,
+        "category": "política",
+        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
+        "candidate_tickers": [
+          "ICE_NO",
+          "MIGRANTES_NO",
+          "TRUMP_NO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-10T23:49:40.864708+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a55903c1b4e",
+        "score": 70,
+        "category": "royal_family",
+        "title": "King Charles meets Prince Harry's children for first time since 2022 - Reuters",
+        "candidate_tickers": [
+          "KINGHARRY",
+          "CHARLESHARRY",
+          "ROYALFAMILYDRAMA"
         ]
       }
     }
