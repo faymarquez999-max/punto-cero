@@ -1,44 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T09:41:33.194102+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Exclusive: President Trump will headline an opening ceremony of the Great American State Fair on the National Mall on June 24, after more than half of the musical artists slated for the event canceled",
-        "candidate_tickers": [
-          "TRUMP_FAIR",
-          "FAIR_ASSOCIATION",
-          "TRUMP_CANCELLED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T09:42:07.277572+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "tecnología",
-        "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters",
-        "candidate_tickers": [
-          "NvidiaPC",
-          "WindowsNvidia",
-          "AxiosReports"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T09:42:31.773301+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f61db39e7680",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 174481.0
-      }
-    },
-    {
       "ts": "2026-05-31T09:42:35.088112+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28094,6 +28056,48 @@
           "BOATCRASH",
           "VIETNAMTRAGEDY",
           "TURISTASINDIOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T19:56:22.556065+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5a8b03dac34d",
+        "score": 89,
+        "category": "Noticias de desastres naturales",
+        "title": "Teen Venezuela quake survivor mourns her 'young forever' friends - Reuters",
+        "candidate_tickers": [
+          "VENEZUELAQUAKE",
+          "FOREVERFRIENDS",
+          "TEENSURVIVOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T19:57:31.142144+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Desastres naturales y accidentes",
+        "title": "Los muertos por los terremotos en Venezuela suben 215 hasta los 4.333 - Ultima Hora",
+        "candidate_tickers": [
+          "Gallardos",
+          "IncendioAlmeria"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T19:58:14.342578+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "incendios forestales",
+        "title": "Breaking: Sadie Fire reported in Butte County on July 11 - Sacramento Bee",
+        "candidate_tickers": [
+          "SadieFire",
+          "CaliforniaIncendios",
+          "FuegoButteCounty"
         ]
       }
     }
