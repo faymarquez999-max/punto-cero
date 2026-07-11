@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T09:42:35.088112+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "45a34e61a590",
-        "ticker": "MXNA",
-        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
-        "mc": 27380.0
-      }
-    },
-    {
-      "ts": "2026-05-31T09:42:36.967123+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c5708c4679e7",
-        "ticker": "HypurrClaw",
-        "mint": "97XwkY2xLEH8Nhzfv2eqtSXut4PQb77kx9J3k1atpump",
-        "mc": 108567.0
-      }
-    },
-    {
-      "ts": "2026-05-31T09:42:38.373889+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f086d77451c5",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 174481.0
-      }
-    },
-    {
-      "ts": "2026-05-31T09:42:41.074439+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "155576af90df",
-        "ticker": "NBA",
-        "mint": "39yEFw7AMfuYzyvTJTyzKEgHuM5THuak3w27sPv5pump",
-        "mc": 18456.0
-      }
-    },
-    {
       "ts": "2026-05-31T11:24:08.995896+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28098,6 +28058,66 @@
           "SadieFire",
           "CaliforniaIncendios",
           "FuegoButteCounty"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T21:02:05.485329+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "64b7c8108990",
+        "score": 80,
+        "category": "Asesinato y crimen",
+        "title": "UK police investigate murder of politician Ann Widdecombe",
+        "candidate_tickers": [
+          "ANNWIDDECOMBE",
+          "ASESINATOENELREINOUNIDO",
+          "INVESTIGACIÓNPOLICIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T21:03:53.892063+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridad",
+        "title": "Tributes paid to TV presenter Dermot Murnaghan",
+        "candidate_tickers": [
+          "DERMOT",
+          "MURNAGHAN",
+          "ELONMUSK",
+          "TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T21:05:33.273872+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "603ba2b30ccb",
+        "score": 80,
+        "category": "Noticias políticas",
+        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+        "candidate_tickers": [
+          "KHANNAHARASSED",
+          "ISRAELSETTLERS",
+          "ROKHANNA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T21:06:03.249075+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "947c3a204665",
+        "score": 88,
+        "category": "crimen animal",
+        "title": "Wildfire devastates an expat community in southern Spain, killing at least 12 with 23 missing - AP News",
+        "candidate_tickers": [
+          "PERROCONDENADO",
+          "ENTRENADORDEPERROS",
+          "CASODEPERROS"
         ]
       }
     }
