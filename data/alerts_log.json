@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T02:01:01.538640+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9ad78e2df068",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 110165.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:01:03.392525+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "726d1b532786",
-        "ticker": "LAD",
-        "mint": "5Kc2PwwPkyvRXC8wHgkVfKwxrMGktRuDpwTgAy1bpump",
-        "mc": 283539.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:01:07.988037+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9837c18fb69c",
-        "ticker": "pibble",
-        "mint": "Eppcp4FhG6wmaRno3omWWvKsZHbzucVLR316SdXopump",
-        "mc": 68579.0
-      }
-    },
-    {
       "ts": "2026-05-31T02:01:09.973257+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28094,6 +28064,49 @@
         "candidate_tickers": [
           "SPCX",
           "SellSPCX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T11:35:52.348978+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Tecnología",
+        "title": "Apple sues OpenAI for trade secret theft - Axios",
+        "candidate_tickers": [
+          "APPLEVSOPENAI",
+          "OPENAIROBODESECRETOS",
+          "SECRETOSCOMERCIALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T11:36:29.766304+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "99430a89b206",
+        "score": 91,
+        "category": "noticias de emergencia",
+        "title": "China evacuates over one million as Typhoon Bavi nears - Reuters",
+        "candidate_tickers": [
+          "BAVI",
+          "CHINAEVACUA",
+          "TORMENTATROPICAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T11:38:38.353656+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0a14fd60a8d7",
+        "score": 74,
+        "category": "Noticias",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINES",
+          "KEK9YEARS"
         ]
       }
     }
