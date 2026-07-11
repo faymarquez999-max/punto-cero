@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T09:37:09.241330+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f086d77451c5",
-        "score": 80,
-        "category": "Política y celebridad",
-        "title": "Many people are saying.",
-        "candidate_tickers": [
-          "TRUMP",
-          "MUSK",
-          "IRAN",
-          "DEAL",
-          "TWIST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T09:37:22.266181+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "salud pública",
-        "title": "Deadly Ebola outbreak spreading - MSN",
-        "candidate_tickers": [
-          "ebola",
-          "congo",
-          "virus",
-          "salud pública"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T09:38:42.733222+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7297850a3a6a",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah - Reuters",
-        "candidate_tickers": [
-          "BEAUFORT",
-          "HEZBOLLAH",
-          "ISRAEL",
-          "LÍBANO"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T09:39:12.095376+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28112,6 +28064,40 @@
           "TURISTASINDIOS",
           "ACCIDENTEVIETNAM"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-11T15:30:05.419136+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "asesinato política",
+        "title": "Ann Widdecombe murder probe: What we know so far",
+        "candidate_tickers": [
+          "AnnWiddecombe",
+          "AsesinatoEnDevon",
+          "InvestigaciónDeAsesinato"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T15:33:15.249266+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9a3354feedee",
+        "ticker": "ROBO",
+        "mint": "EC1TMMg4shn1XrYNy5Y5a98LT6kjNcFtgnav11jSpump",
+        "mc": 39673.0
+      }
+    },
+    {
+      "ts": "2026-07-11T15:33:19.484304+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "776914d9a3bb",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 18032.0
       }
     }
   ]

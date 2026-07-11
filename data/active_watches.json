@@ -10612,7 +10612,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f88225eb4ba7",
@@ -10657,7 +10657,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "89a8220b1e13",
@@ -10750,7 +10750,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fbd19b10a3df",
@@ -10797,7 +10797,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "98c200bf0c8c",
@@ -10887,7 +10887,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e16f1aaf4ced",
@@ -10934,7 +10934,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2c9269fdf16f",
@@ -10980,7 +10980,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2599be8707c6",
@@ -11024,7 +11024,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e5d7fb856ad9",
@@ -11067,7 +11067,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "419d3c481a20",
@@ -11112,7 +11112,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d0528d46d616",
@@ -11156,7 +11156,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5811854c9ca2",
@@ -11201,7 +11201,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bc15756dbf4f",
@@ -11317,7 +11317,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "60ec5aea4370",
@@ -11361,7 +11361,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "91a892c38c73",
@@ -11406,7 +11406,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "373557eea12b",
@@ -11451,7 +11451,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ef7dbc61463b",
@@ -11579,7 +11579,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6ff16de0e2c2",
@@ -11624,7 +11624,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3d6a138d2cde",
@@ -11669,7 +11669,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4733ba4d2326",
@@ -11715,7 +11715,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9a3354feedee",
@@ -11754,14 +11754,41 @@
       "started_at": "2026-07-11T07:04:38.592337+00:00",
       "expires_at": "2026-07-15T07:04:38.592337+00:00",
       "duration_hours": 96,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ROBO",
+        "name": "robo",
+        "mint": "EC1TMMg4shn1XrYNy5Y5a98LT6kjNcFtgnav11jSpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 39673.0,
+        "liquidity_usd": 18908.44,
+        "price_usd": 3.968e-05,
+        "volume_h24": 8425.28,
+        "volume_h1": 55.93,
+        "volume_m5": 8.45,
+        "price_change_5m": -0.33,
+        "price_change_1h": -1.59,
+        "price_change_24h": 1.62,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 5,
+        "created_ts": 1777233247000,
+        "pair_created_at": 1777233247000,
+        "url": "https://dexscreener.com/solana/eyzfvhdckauujvedfpzovkcqvnaucp5xn6jftqtqpwcb",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ROBO in ROBO",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-11T15:33:15.237794+00:00"
     },
     {
       "id": "afd55eddef03",
@@ -11806,7 +11833,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3497e2fa5083",
@@ -11850,7 +11877,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "edb05aa80ca4",
@@ -11895,7 +11922,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "17111659bedf",
@@ -11938,7 +11965,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "776914d9a3bb",
@@ -11978,14 +12005,41 @@
       "started_at": "2026-07-11T12:46:39.667638+00:00",
       "expires_at": "2026-07-13T12:46:39.667638+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 18032.0,
+        "liquidity_usd": 11194.8,
+        "price_usd": 1.803e-05,
+        "volume_h24": 18369.38,
+        "volume_h1": 1310.17,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -17.64,
+        "price_change_24h": -23.09,
+        "txns_h1_buys": 16,
+        "txns_h1_sells": 11,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ICE==ICE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "In viral video, ICE appears to make warrantless arrest inside a Salt Lake home - The Salt Lake Tribune",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-11T15:33:19.477203+00:00"
     }
   ],
-  "last_updated": "2026-07-11T12:46:39.667638+00:00"
+  "last_updated": "2026-07-11T15:33:19.477224+00:00"
 }
