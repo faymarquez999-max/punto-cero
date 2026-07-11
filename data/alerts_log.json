@@ -1,38 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T09:39:12.095376+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "155576af90df",
-        "score": 82,
-        "category": "Deportes",
-        "title": "Wembanyama’s Spurs dethrone Thunder to reach NBA Finals against Knicks",
-        "candidate_tickers": [
-          "WEMBANYAMA",
-          "SPURS",
-          "THUNDER",
-          "KNICKS",
-          "NBA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T09:40:22.183006+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d2de2ad2b21f",
-        "score": 80,
-        "category": "Accidente químico",
-        "title": "Eleven confirmed dead in Washington state chemical accident, all bodies recovered - Reuters",
-        "candidate_tickers": [
-          "CHEMACC",
-          "ACCIDENTEQUIMICO",
-          "WASHINGTONTRAGEDIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T09:41:03.632691+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28098,6 +28066,36 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 18032.0
+      }
+    },
+    {
+      "ts": "2026-07-11T16:30:33.176863+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Celebridades y teorías de conspiración",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "celebridad_muerte",
+          "teoria_conspiracion",
+          "muerte_celebridad",
+          "conspiracion_celebridad"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T16:31:30.127292+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2551",
+        "candidate_tickers": [
+          "XSG",
+          "XRP",
+          "MEME",
+          "CRYPTO"
+        ]
       }
     }
   ]
