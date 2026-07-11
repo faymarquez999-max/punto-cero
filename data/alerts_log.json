@@ -1,22 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T09:41:03.632691+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c5c71f73d3bc",
-        "score": 91,
-        "category": "noticias",
-        "title": "ICE detainees are dying by suicide at an ‘alarming’ rate, an AP investigation finds - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "SUICIDIO",
-          "DETENIDOS",
-          "AP"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T09:41:33.194102+00:00",
       "kind": "shadow",
       "payload": {
@@ -28095,6 +28079,21 @@
           "XRP",
           "MEME",
           "CRYPTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T17:37:13.876299+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "907d4d8ee67c",
+        "score": 80,
+        "category": "accidente marítimo",
+        "title": "A boat capsizes in southern Vietnam and kills 15 Indian tourists not far from shore - AP News",
+        "candidate_tickers": [
+          "BOATCRASH",
+          "VIETNAMTRAGEDY",
+          "TURISTASINDIOS"
         ]
       }
     }
