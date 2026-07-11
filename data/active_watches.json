@@ -1,156 +1,6 @@
 {
   "watches": [
     {
-      "id": "d0d3a5b7b2dd",
-      "fingerprint": "d0d3a5b7b2dd",
-      "narrative_summary": "Elon Musk sugiere un nombre para la autoridad reguladora de la industria del AI: AI Associated Institute of America, Inc o AIAIAI.",
-      "why_memeable": "La propuesta de nombre es absurda y fácil de recordar, con un nombre que se puede pronunciar de manera divertida.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "AIAIAI",
-        "AIREGULATOR"
-      ],
-      "key_terms_for_dex_search": [
-        "AIAIAI",
-        "AIRegulator",
-        "ElonMusk",
-        "Regulación",
-        "AI"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-27T14:57:10.552851+00:00",
-      "expires_at": "2026-06-29T14:57:10.552851+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "AIAIAI",
-        "name": "AIAssociatedInstituteofAmerica",
-        "mint": "AVPJS61gZmWKtaEpb7qYPKo8Fk2xQUsayYQxPiPMpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 32523.0,
-        "liquidity_usd": 16669.61,
-        "price_usd": 3.67e-05,
-        "volume_h24": 56693.26,
-        "volume_h1": 1766.2,
-        "volume_m5": 128.07,
-        "price_change_5m": -2.23,
-        "price_change_1h": -19.19,
-        "price_change_24h": -34.24,
-        "txns_h1_buys": 14,
-        "txns_h1_sells": 48,
-        "created_ts": 1782371663000,
-        "pair_created_at": 1782371663000,
-        "url": "https://dexscreener.com/solana/46ihtqjkskmdic66vextecoyukoa82t5ycg86c7e9rqk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: AIAIAI==AIAIAI",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Potential name for the AI industry regulatory authority:",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-27T14:58:37.475129+00:00"
-    },
-    {
-      "id": "9fc135283cb4",
-      "fingerprint": "9fc135283cb4",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención",
-      "why_memeable": "La simplicidad y la claridad de la frase 'True' la hacen fácilmente compartible y memeable",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TICKER_ELON",
-        "TICKER_TRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-27T14:57:31.663243+00:00",
-      "expires_at": "2026-06-28T14:57:31.663243+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TrueX",
-        "name": "TrueX",
-        "mint": "CucxvPpWtprW28pE8SxGknVMuTiCAS21DQLftLxQCZKz",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 52140.0,
-        "liquidity_usd": 1020395.18,
-        "price_usd": 1.3,
-        "volume_h24": 5225.27,
-        "volume_h1": 167.72,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.01,
-        "price_change_24h": 0.07,
-        "txns_h1_buys": 8,
-        "txns_h1_sells": 13,
-        "created_ts": 1777546081000,
-        "pair_created_at": 1777546081000,
-        "url": "https://dexscreener.com/solana/3strtirjfuy2bwekylg9n9hqwk31q1r6plfshyeueunn",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUE in TRUEX",
-        "safety_score": 50101,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-06-28T08:10:23.791483+00:00"
-    },
-    {
       "id": "aea8bf032a9d",
       "fingerprint": "aea8bf032a9d",
       "narrative_summary": "Elon Musk publica un tweet con la palabra 'Exactly' y genera mucha atención",
@@ -10718,14 +10568,15 @@
       "started_at": "2026-07-08T07:20:59.246032+00:00",
       "expires_at": "2026-07-11T07:20:59.246032+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ex-girlfriend of Graham Platner says he removed condoms without consent during sex - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-11T10:23:21.699598+00:00"
     },
     {
       "id": "2e321d4aaab2",
@@ -11172,13 +11023,14 @@
       "started_at": "2026-07-09T07:48:36.454279+00:00",
       "expires_at": "2026-07-11T07:48:36.454279+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-07-11T10:23:21.699612+00:00"
     },
     {
       "id": "c42dc14c7211",
@@ -12098,7 +11950,96 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "afd55eddef03",
+      "fingerprint": "afd55eddef03",
+      "narrative_summary": "Trump reanuda la guerra contra Irán, causando preocupación y conflicto en la región.",
+      "why_memeable": "La narrativa tiene un claro conflicto y una figura pública polarizante, lo que la hace fácilmente compartible y recordable.",
+      "category": "Política y Conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSIRAN",
+        "GUERRAIRÁN",
+        "POLARIZACIÓNTRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Irán",
+        "Guerra",
+        "Polarización"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-11T10:23:36.126604+00:00",
+      "expires_at": "2026-07-13T10:23:36.126604+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Por qué Trump ha reanudado la guerra contra Irán: las claves del giro estratégico de Washington - RTVE.es",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3497e2fa5083",
+      "fingerprint": "3497e2fa5083",
+      "narrative_summary": "Marines han sido detenidos durante 9 años por un incidente que se ha vuelto viral debido a su absurdo.",
+      "why_memeable": "La frase 'keeeeeeeeeek' es memeable y se puede capturar en una imagen o una palabra.",
+      "category": "noticias",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "LINKMARINES",
+        "KEEKMARINES"
+      ],
+      "key_terms_for_dex_search": [
+        "link",
+        "marines",
+        "keek",
+        "detenidos",
+        "9 años"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-11T10:25:38.780780+00:00",
+      "expires_at": "2026-07-13T10:25:38.780780+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Link marines held 9 years for this",
+      "cluster_sources": [
+        "4chan"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-11T07:04:38.592337+00:00"
+  "last_updated": "2026-07-11T10:25:38.780780+00:00"
 }

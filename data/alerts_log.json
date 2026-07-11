@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T02:00:45.618391+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2149964e39e4",
-        "ticker": "ELONMUSK",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "mc": 125462.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:00:51.190136+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8a2ff585f203",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 110165.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:00:55.234662+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d4599031aca4",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 110165.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:00:57.438358+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3b5cd8818c0b",
-        "ticker": "ELONMUSK",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "mc": 125462.0
-      }
-    },
-    {
-      "ts": "2026-05-31T02:00:59.760045+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3a3631660522",
-        "ticker": "ELONMUSK",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "mc": 125462.0
-      }
-    },
-    {
       "ts": "2026-05-31T02:01:01.538640+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28074,6 +28024,76 @@
           "GORHAMPOLICE",
           "CHOKEDBYCOP",
           "JUSTICEFORGORHAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T10:23:36.684915+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "afd55eddef03",
+        "score": 78,
+        "category": "Política y Conflicto",
+        "title": "Por qué Trump ha reanudado la guerra contra Irán: las claves del giro estratégico de Washington - RTVE.es",
+        "candidate_tickers": [
+          "TRUMPVSIRAN",
+          "GUERRAIRÁN",
+          "POLARIZACIÓNTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T10:25:39.534046+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3497e2fa5083",
+        "score": 82,
+        "category": "noticias",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINES",
+          "KEEKMARINES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T10:27:02.267034+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Noticias y eventos",
+        "title": "Breaking: Heights Fire reported in Los Angeles County on July 11 - Sacramento Bee",
+        "candidate_tickers": [
+          "#HeightsFire",
+          "#ArrestVideo",
+          "#AlligatorPet"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T10:27:48.116536+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "desastres naturales",
+        "title": "La Comunidad supera las 150 muertes atribuibles al calor en el periodo estival, un tercio de ellas en la última semana - Ultima Hora",
+        "candidate_tickers": [
+          "Calor",
+          "Muertes",
+          "Comunidad"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T10:28:09.026865+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Finanzas, mercado de valores",
+        "title": "Sell SPCX you fools. Sell until it's too late.",
+        "candidate_tickers": [
+          "SPCX",
+          "SellSPCX"
         ]
       }
     }
