@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T11:24:32.426927+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fb6d777b6fa3",
-        "score": 90,
-        "category": "política y conflicto",
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "candidate_tickers": [
-          "ISRAEL_CASTLE",
-          "BEAUFORT_CASTLE",
-          "LÍBANO_CONFLICTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T11:25:20.670592+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política",
-        "title": "Michigan Gov. Whitmer says she won’t run for president in 2028 then backtracks hours later - AP News",
-        "candidate_tickers": [
-          "WhitmerFlip",
-          "FlipFlopWhitmer",
-          "Whitmer2028"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T11:26:55.674818+00:00",
       "kind": "shadow",
       "payload": {
@@ -28117,6 +28088,36 @@
         "candidate_tickers": [
           "VENEZUELAQUAKE",
           "FOREVERFRIENDS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T23:07:31.354870+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cfd49d6bad51",
+        "score": 70,
+        "category": "Accidente",
+        "title": "Residents return after gas leak prompts evacuation in Kenner - Audacy",
+        "candidate_tickers": [
+          "KENNERGASLEAK",
+          "EVACUACIONKENNER",
+          "GASLEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T23:08:22.346424+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a25975617ca0",
+        "score": 82,
+        "category": "Noticias de animales",
+        "title": "Animal trainer sentenced after 11 dogs die in his care - WKRC",
+        "candidate_tickers": [
+          "PERROSMUERTOS",
+          "ENTRENADORCONDENADO",
+          "INJUSTICIAANIMAL"
         ]
       }
     }
