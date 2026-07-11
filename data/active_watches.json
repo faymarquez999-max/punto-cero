@@ -1,286 +1,6 @@
 {
   "watches": [
     {
-      "id": "9c243ef8d69a",
-      "fingerprint": "9c243ef8d69a",
-      "narrative_summary": "Alemania se prepara para temperaturas récord debido a un calor extremo que se mueve hacia el este.",
-      "why_memeable": "La narrativa tiene un enfoque claro en el calor extremo y su impacto en Alemania, lo que la hace fácil de capturar en una frase.",
-      "category": "clima y medio ambiente",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ALEMANIACALOR",
-        "CALOREXTREMO",
-        "TEMPERATURASRÉCORD"
-      ],
-      "key_terms_for_dex_search": [
-        "Alemania",
-        "calor",
-        "temperaturas",
-        "récord",
-        "clima"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-27T13:02:19.443805+00:00",
-      "expires_at": "2026-06-29T13:02:19.443805+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Germany braces for record-breaking temperatures as heatwave moves east - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-29T16:58:08.373550+00:00"
-    },
-    {
-      "id": "96721f163dab",
-      "fingerprint": "96721f163dab",
-      "narrative_summary": "Elon Musk confirma que algo es cierto, generando gran interés y debate en Twitter",
-      "why_memeable": "La simplicidad y claridad de la respuesta de Elon Musk la convierten en un meme potencialmente viral",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON MUSK",
-        "XCANCEL",
-        "TRUE"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-27T13:02:40.984742+00:00",
-      "expires_at": "2026-06-28T13:02:40.984742+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 308997.0,
-        "liquidity_usd": 92771.26,
-        "price_usd": 0.000309,
-        "volume_h24": 6463.27,
-        "volume_h1": 845.91,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.89,
-        "price_change_24h": 4.75,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 9,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-27T14:58:33.629227+00:00"
-    },
-    {
-      "id": "64256e124674",
-      "fingerprint": "64256e124674",
-      "narrative_summary": "Elon Musk publica un tweet con la palabra 'Exactly' y obtiene una gran cantidad de engagement",
-      "why_memeable": "La simplicidad y la brevedad de la frase 'Exactly' hacen que sea fácilmente compartible y recordable",
-      "category": "Tendencia cultural",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ELON",
-        "EXACTLY",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "Exactly"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-27T13:03:07.368973+00:00",
-      "expires_at": "2026-06-29T13:03:07.368973+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 308997.0,
-        "liquidity_usd": 92771.26,
-        "price_usd": 0.000309,
-        "volume_h24": 6463.27,
-        "volume_h1": 845.91,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.89,
-        "price_change_24h": 4.75,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 9,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Exactly",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-27T14:58:34.788705+00:00"
-    },
-    {
-      "id": "ac044845a3a9",
-      "fingerprint": "ac044845a3a9",
-      "narrative_summary": "Sexual abuse de 4 niñas en un balneario en Alemania por parte de un 21-añero afghano.",
-      "why_memeable": "Injusticia, violencia contra menores y figura de un inmigrante como supuesto agresor.",
-      "category": "Abuso sexual",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AFGHANABUSER",
-        "BALNEARIOABUSE",
-        "INMIGRANTEVIOLADOR"
-      ],
-      "key_terms_for_dex_search": [
-        "AfghanAbuser",
-        "balneario",
-        "abuso",
-        "inmigrante",
-        "violador"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-27T13:03:30.910294+00:00",
-      "expires_at": "2026-06-29T13:03:30.910294+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-29T16:58:08.373554+00:00"
-    },
-    {
-      "id": "c832b442a750",
-      "fingerprint": "c832b442a750",
-      "narrative_summary": "La Corte Suprema de EE. UU. permite que la administración de Trump termine las protecciones legales para haitianos y sirios.",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un componente de injusticia, lo que la hace fácilmente compartible y recordable.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TPS",
-        "HAITI",
-        "EEUU",
-        "SUPREMACORTE"
-      ],
-      "key_terms_for_dex_search": [
-        "TPS",
-        "Haiti",
-        "EEUU",
-        "SupremaCorte"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-27T14:55:46.875619+00:00",
-      "expires_at": "2026-06-29T14:55:46.875619+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-06-29T16:58:08.373557+00:00"
-    },
-    {
       "id": "d0d3a5b7b2dd",
       "fingerprint": "d0d3a5b7b2dd",
       "narrative_summary": "Elon Musk sugiere un nombre para la autoridad reguladora de la industria del AI: AI Associated Institute of America, Inc o AIAIAI.",
@@ -10130,14 +9850,15 @@
       "started_at": "2026-07-07T09:00:31.410987+00:00",
       "expires_at": "2026-07-10T09:00:31.410987+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-11T07:01:13.908065+00:00"
     },
     {
       "id": "ae5336b32496",
@@ -10336,14 +10057,15 @@
       "started_at": "2026-07-07T17:36:56.908754+00:00",
       "expires_at": "2026-07-10T17:36:56.908754+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation - BBC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-11T07:01:13.908080+00:00"
     },
     {
       "id": "a82211eced70",
@@ -10384,14 +10106,15 @@
       "started_at": "2026-07-07T17:36:58.934180+00:00",
       "expires_at": "2026-07-10T17:36:58.934180+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Bernie Sanders says he told Graham Platner to ‘step aside’ - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-11T07:01:13.908083+00:00"
     },
     {
       "id": "450ff22c6ef0",
@@ -10429,13 +10152,14 @@
       "started_at": "2026-07-07T17:38:01.857233+00:00",
       "expires_at": "2026-07-10T17:38:01.857233+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-11T07:01:13.908085+00:00"
     },
     {
       "id": "982f17651748",
@@ -10475,13 +10199,14 @@
       "started_at": "2026-07-07T17:38:05.084751+00:00",
       "expires_at": "2026-07-10T17:38:05.084751+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Nagarahole forest guard held for keeping deer at home for slaughter, animal rescued; probe underway - Deccan Herald",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-11T07:01:13.908087+00:00"
     },
     {
       "id": "c48d2b3b3290",
@@ -10565,13 +10290,14 @@
       "started_at": "2026-07-07T22:38:32.822120+00:00",
       "expires_at": "2026-07-10T22:38:32.822120+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-11T07:01:13.908089+00:00"
     },
     {
       "id": "9d8d2bc19fa1",
@@ -10701,7 +10427,7 @@
       "started_at": "2026-07-08T04:37:39.691730+00:00",
       "expires_at": "2026-07-11T04:37:39.691730+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Chainlink: Shocking details emerge about",
       "cluster_sources": [
@@ -10709,7 +10435,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-11T07:01:13.908091+00:00"
     },
     {
       "id": "1cce78006215",
@@ -10945,14 +10672,15 @@
       "started_at": "2026-07-08T07:18:58.692925+00:00",
       "expires_at": "2026-07-10T07:18:58.692925+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "A viral Reuters photo captured a Black woman surrounded on a Metro train by masked members of a white supremacist group on July 4. When Paul Bowlding saw it on Instagram that day, he recognized the woman as his older sister. The Post spoke to Paul: ht - facebook.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-11T07:01:13.908093+00:00"
     },
     {
       "id": "bc82d6141269",
@@ -11035,13 +10763,14 @@
       "started_at": "2026-07-08T11:57:04.548267+00:00",
       "expires_at": "2026-07-10T11:57:04.548267+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-11T07:01:13.908096+00:00"
     },
     {
       "id": "df2d2723e700",
@@ -11080,14 +10809,15 @@
       "started_at": "2026-07-08T16:18:56.976246+00:00",
       "expires_at": "2026-07-10T16:18:56.976246+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-11T07:01:13.908097+00:00"
     },
     {
       "id": "5cd1d7f9f814",
@@ -11125,13 +10855,14 @@
       "started_at": "2026-07-08T16:20:19.477653+00:00",
       "expires_at": "2026-07-10T16:20:19.477653+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-11T07:01:13.908099+00:00"
     },
     {
       "id": "120fb50e7d53",
@@ -11168,13 +10899,14 @@
       "started_at": "2026-07-08T16:22:07.338285+00:00",
       "expires_at": "2026-07-10T16:22:07.338285+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-11T07:01:13.908104+00:00"
     },
     {
       "id": "4aa20801553e",
@@ -11300,14 +11032,15 @@
       "started_at": "2026-07-08T22:38:31.597370+00:00",
       "expires_at": "2026-07-10T22:38:31.597370+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Judge orders Trump's $5m damages be released to E Jean Carroll - BBC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-07-11T07:01:13.908106+00:00"
     },
     {
       "id": "623af829b36c",
@@ -12134,7 +11867,238 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-10T05:49:23.445891+00:00"
+    },
+    {
+      "id": "22ad798b1e0b",
+      "fingerprint": "22ad798b1e0b",
+      "narrative_summary": "La disputa entre Elon Musk y Donald Trump ha escalado, con acusaciones sobre los archivos de Epstein.",
+      "why_memeable": "La combinación de dos figuras públicas polémicas y una acusación controvertida crea un escenario altamente memeable.",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "EPSTEINGATE",
+        "TRUMPFEUD",
+        "MUSKVSSTRUMP",
+        "DONALDVSELON"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Epstein",
+        "feud",
+        "celebrity drama"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-11T07:01:15.526042+00:00",
+      "expires_at": "2026-07-14T07:01:15.526042+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/smg/ - stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6ff16de0e2c2",
+      "fingerprint": "6ff16de0e2c2",
+      "narrative_summary": "Ann Widdecombe, ex-diputada británica, asesinada en su hogar en Devon.",
+      "why_memeable": "La narrativa tiene un claro tema de muerte y asesinato, lo que la hace fácilmente compartible y recordable.",
+      "category": "Asesinato de ex-diputada británica",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WIDDECOMBE",
+        "ASESINATO",
+        "DEVON"
+      ],
+      "key_terms_for_dex_search": [
+        "Ann Widdecombe",
+        "asesinato",
+        "Devon",
+        "muerte"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-11T07:01:57.320050+00:00",
+      "expires_at": "2026-07-14T07:01:57.320050+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ann Widdecombe murder probe: What we know so far",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3d6a138d2cde",
+      "fingerprint": "3d6a138d2cde",
+      "narrative_summary": "Un entrenador de animales en California es condenado a 12 años de prisión por matar a 11 perros.",
+      "why_memeable": "La historia es fácil de entender y tiene un claro núcleo (un entrenador condenado por matar a perros).",
+      "category": "Noticias de crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PERROCONDENADO",
+        "ENTRENADORDEPERROS",
+        "JUSTICIAPARAPERROS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "entrenador",
+        "condenado",
+        "justicia"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-11T07:03:18.484908+00:00",
+      "expires_at": "2026-07-13T07:03:18.484908+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4733ba4d2326",
+      "fingerprint": "4733ba4d2326",
+      "narrative_summary": "Elon Musk se salva de una demanda de $150 millones con un pago de $1.5 millones, mientras que la administración de Trump no revela quién está pagando por la gasolina a bajo precio.",
+      "why_memeable": "La narrativa tiene un núcleo claro y un conflicto entre dos figuras públicas, lo que la hace fácil de compartir y recordar.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "TRUMP",
+        "GASOLINA"
+      ],
+      "key_terms_for_dex_search": [
+        "MUSK",
+        "TRUMP",
+        "GASOLINA",
+        "DEMANDA",
+        "PAGO"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-11T07:04:04.182366+00:00",
+      "expires_at": "2026-07-13T07:04:04.182366+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The gas is cheap. The Trump administration isn’t saying who’s paying for it. - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9a3354feedee",
+      "fingerprint": "9a3354feedee",
+      "narrative_summary": "Apple acusa a OpenAI de robo de secretos comerciales",
+      "why_memeable": "La narrativa tiene un núcleo claro (Apple vs OpenAI) y un elemento de sorpresa (robo de secretos comerciales)",
+      "category": "Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "APPLEVSOPENAI",
+        "OPENAIROBODESECRETOS",
+        "APPLESUEDSOPENAI"
+      ],
+      "key_terms_for_dex_search": [
+        "apple",
+        "openai",
+        "trade secrets",
+        "robo",
+        "secretos comerciales"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-11T07:04:38.592337+00:00",
+      "expires_at": "2026-07-15T07:04:38.592337+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-10T05:49:23.445905+00:00"
+  "last_updated": "2026-07-11T07:04:38.592337+00:00"
 }
