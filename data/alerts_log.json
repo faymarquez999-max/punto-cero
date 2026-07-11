@@ -1,96 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-30T22:19:11.587742+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "04de245bad26",
-        "score": 80,
-        "category": "conflicto internacional",
-        "title": "Israeli airstrike on the town of Al-Basariya in the Sidon District, southern Lebanon",
-        "candidate_tickers": [
-          "BASARIYA",
-          "ALBASARIYA",
-          "SIDÓN",
-          "LÍBANO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T22:19:45.988042+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France - ft",
-        "candidate_tickers": [
-          "SBKIA",
-          "AI75",
-          "FRANCEAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T22:20:26.015207+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "salud pública",
-        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-        "candidate_tickers": [
-          "ebola",
-          "congo",
-          "salud pública",
-          "msf"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T22:21:18.120365+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d624077ebd38",
-        "score": 74,
-        "category": "abuso animal y muerte de niño",
-        "title": "Girl, 15, dies after swimming at beach",
-        "candidate_tickers": [
-          "NIÑOMUEREDESPUÉSDENADAR",
-          "ABUSOANIMAL",
-          "PLAYATRÁGICA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T22:21:59.682402+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a809fef83e74",
-        "score": 80,
-        "category": "ciencia, astronomía, noticias",
-        "title": "Meteor over Massachusetts causes explosion reports, sightings from Delaware to Montreal - Politico",
-        "candidate_tickers": [
-          "METEORITOMASSACHUSETTS",
-          "EXPLOSIÓNMETEORITO",
-          "MASSACHUSETTSMETEORITO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-30T22:22:43.506104+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "580f90adf2c5",
-        "score": 88,
-        "category": "política",
-        "title": "Trump Can't Stop GUSHING Over 'Handsome' Football Star After Latter’s BIZARRE Love Confession - The Times of India",
-        "candidate_tickers": [
-          "TRUMPGUSH",
-          "FUTBOLISTAAMOR",
-          "POLÉMICATRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-30T23:37:13.159993+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28071,6 +27981,93 @@
           "LINKKEEK",
           "MARINES9AÑOS",
           "KEEEEEEEK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:33:26.136436+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da7b3a206576",
+        "score": 80,
+        "category": "Tecnología y negocios",
+        "title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
+        "candidate_tickers": [
+          "AAPLAI",
+          "OPENWAR",
+          "TECHFIGHT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:33:39.963339+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "37d2c43ea9de",
+        "score": 90,
+        "category": "abuso animal",
+        "title": "Columbus Humane addresses questions surrounding viral video of alleged dog abuse - 10TV",
+        "candidate_tickers": [
+          "PERRITOABUSADO",
+          "REFUGIOABUSIVO",
+          "ABUSOANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:34:15.884081+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9a6fa44bd890",
+        "score": 71,
+        "category": "Noticias de crimen",
+        "title": "News 9 Exclusive: Berlin man claims Gorham police chief choked him prior to arrest - WMUR",
+        "candidate_tickers": [
+          "BERLINMAN",
+          "GORHAMPOLICE",
+          "ESTRANGULAMIENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:36:12.066642+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9f3f59ad117b",
+        "score": 70,
+        "category": "Noticias de crimen y justicia",
+        "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court - BBC",
+        "candidate_tickers": [
+          "KIRKMURDER",
+          "TSHUMAARRESTED",
+          "SOUTHAFRICACRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:36:50.794320+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0be605897283",
+        "score": 74,
+        "category": "muerte de una figura pública",
+        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
+        "candidate_tickers": [
+          "BONNIETYLER",
+          "TOTALECLIPSEOFTHEHEART"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-11T04:38:02.732407+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "política y justicia",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LinkKeek",
+          "Marines9Years"
         ]
       }
     }
