@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T21:40:08.645741+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "92e836972251",
-        "score": 91,
-        "category": "Deportes",
-        "title": "¿Por qué el Paris St. Germain celebró su Champions League con máscaras de esquí? - Nevasport.com",
-        "candidate_tickers": [
-          "PSG_ESQUI",
-          "MÁSCARAS_DE_ESQUI",
-          "VIOLENCIA_EN_DEPORTES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T21:40:46.890640+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política internacional",
-        "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-        "candidate_tickers": [
-          "IndoPac",
-          "ChinaRise",
-          "USDoubts"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T23:51:30.123258+00:00",
       "kind": "shadow",
       "payload": {
@@ -28121,6 +28092,36 @@
           "LindseyGrahamDied",
           "GrahamMuerte",
           "TrumpAliadoMuere"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T21:02:55.334440+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "90e3b4511fd6",
+        "score": 78,
+        "category": "Noticias de actualidad",
+        "title": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings - Reuters",
+        "candidate_tickers": [
+          "BELGIANWILDFIRE",
+          "SPANISHINJUSTICE",
+          "WILDFIREWARNING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T21:04:25.200828+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bfa101fab107",
+        "score": 82,
+        "category": "Desastres naturales",
+        "title": "Al menos 27 muertos en un incendio en un bar de Bangkok - Ultima Hora",
+        "candidate_tickers": [
+          "BANGKOKINCENDIO",
+          "BARBANGKOK",
+          "INCENDIO27MUERTOS"
         ]
       }
     }
