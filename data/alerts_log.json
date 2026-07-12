@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T20:21:38.265323+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ba67d4c9feb4",
-        "score": 74,
-        "category": "política internacional",
-        "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-        "candidate_tickers": [
-          "INDOPACIFIC",
-          "CHINAASCIENDE",
-          "EEUUDUDA"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T20:23:07.902814+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28129,6 +28114,16 @@
           "INCENDIOALMERIA",
           "DESASTREESPANA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-12T14:50:32.618519+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fcf9690695f8",
+        "ticker": "HAALAND",
+        "mint": "EYvkcWB5S4DFv7gJqR8D2W76U9n7kD3jvYcbSXdppump",
+        "mc": 21122.0
       }
     }
   ]

@@ -10073,7 +10073,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "5811854c9ca2",
@@ -10118,7 +10118,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "bc15756dbf4f",
@@ -10234,7 +10234,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "60ec5aea4370",
@@ -10278,7 +10278,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "91a892c38c73",
@@ -10498,7 +10498,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "6ff16de0e2c2",
@@ -10543,7 +10543,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3d6a138d2cde",
@@ -10588,7 +10588,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "4733ba4d2326",
@@ -10634,7 +10634,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "9a3354feedee",
@@ -10752,7 +10752,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3497e2fa5083",
@@ -10796,7 +10796,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "edb05aa80ca4",
@@ -10841,7 +10841,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "17111659bedf",
@@ -10884,7 +10884,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "776914d9a3bb",
@@ -11004,7 +11004,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ef77779e5d2a",
@@ -11049,7 +11049,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "547aa7eeff7a",
@@ -11094,7 +11094,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2cec96918e8e",
@@ -11213,7 +11213,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2ee57affea65",
@@ -11258,7 +11258,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "445f084c34cc",
@@ -11306,7 +11306,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a5a0c6ae3e2a",
@@ -11417,7 +11417,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e5e663873b82",
@@ -11634,7 +11634,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8938de856c2b",
@@ -11680,7 +11680,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3656a311c83b",
@@ -11725,7 +11725,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "fcf9690695f8",
@@ -11762,14 +11762,41 @@
       "started_at": "2026-07-12T13:46:10.333152+00:00",
       "expires_at": "2026-07-14T13:46:10.333152+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HAALAND",
+        "name": "Erling Haaland",
+        "mint": "EYvkcWB5S4DFv7gJqR8D2W76U9n7kD3jvYcbSXdppump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 21122.0,
+        "liquidity_usd": 12942.54,
+        "price_usd": 2.112e-05,
+        "volume_h24": 741005.37,
+        "volume_h1": 380.76,
+        "volume_m5": 81.08,
+        "price_change_5m": 3.62,
+        "price_change_1h": 9.79,
+        "price_change_24h": -96.34,
+        "txns_h1_buys": 15,
+        "txns_h1_sells": 19,
+        "created_ts": 1782376965000,
+        "pair_created_at": 1782376965000,
+        "url": "https://dexscreener.com/solana/6g7tlasdmzdtak182uk6k6h8vd3ywfn3aq8zrutrn3dn",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: HAALAND==HAALAND",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Erling Haaland’s World Cup Ends In a Shocking Place - Time Magazine",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-12T14:50:32.604420+00:00"
     },
     {
       "id": "47a48ed9991f",
@@ -11813,7 +11840,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a0f00682f544",
@@ -11859,8 +11886,8 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-12T13:47:32.482407+00:00"
+  "last_updated": "2026-07-12T14:50:32.604438+00:00"
 }
