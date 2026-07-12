@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T05:01:35.708244+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "466777910205",
-        "score": 88,
-        "category": "conflicto internacional",
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "candidate_tickers": [
-          "ISRAELLÍBANO",
-          "FORTALEZALÍBANO",
-          "BENJAMINNETANYAHU"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-01T05:02:30.627373+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28120,6 +28105,21 @@
           "McConnellFall",
           "SilencioDeMcConnell",
           "CondiciónDeSalud"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T23:13:08.531569+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "135ae1e0fa71",
+        "score": 88,
+        "category": "Noticias políticas",
+        "title": "Lindsey Graham died of aortic dissection, preliminary medical report says - The Washington Post",
+        "candidate_tickers": [
+          "LINDSEYGRAHAM",
+          "GRAHAMDEAD",
+          "POLITICOMUERE"
         ]
       }
     }
