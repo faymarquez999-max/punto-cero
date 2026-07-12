@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T23:51:30.123258+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política y actualidad",
-        "title": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies.",
-        "candidate_tickers": [
-          "TRUMP",
-          "MAGA",
-          "FREEDOM250"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T05:00:49.713920+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d22105c2bb40",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "/GME/ - Comfy (Magical) Friday Edition",
-        "candidate_tickers": [
-          "TRUMPFEUD",
-          "MUSKTRUMP",
-          "UKRAINEGATE",
-          "TRUMPSHEALTH",
-          "MUSKTRUMPWAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-01T05:01:35.708244+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28122,6 +28091,35 @@
           "BANGKOKINCENDIO",
           "BARBANGKOK",
           "INCENDIO27MUERTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T22:04:31.192478+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Deportes",
+        "title": "Sinner fends off Zverev in power battle to retain Wimbledon crown - Reuters",
+        "candidate_tickers": [
+          "Sinner",
+          "Zverev",
+          "Wimbledon",
+          "Tenis"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T22:07:11.911747+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Mitch McConnell releases statement, breaking weeks of silence about health condition - KHBS",
+        "candidate_tickers": [
+          "McConnellFall",
+          "SilencioDeMcConnell",
+          "CondiciónDeSalud"
         ]
       }
     }
