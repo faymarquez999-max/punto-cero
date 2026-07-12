@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T21:38:33.231984+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2f712de19d05",
-        "score": 80,
-        "category": "Noticias de conflicto y violencia",
-        "title": "Blast in Myanmar village reportedly kills 55 and injures dozens more - Reuters",
-        "candidate_tickers": [
-          "MYANMARBLAST",
-          "EXPLOSIVOATAQUE",
-          "MUERTEENMYANMAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T21:40:08.645741+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28122,6 +28107,20 @@
           "Hegseth",
           "Tantrums",
           "Weird"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T17:46:59.708642+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "candidate_tickers": [
+          "LindseyGrahamDied",
+          "GrahamMuerte",
+          "TrumpAliadoMuere"
         ]
       }
     }
