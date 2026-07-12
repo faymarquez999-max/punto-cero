@@ -1,89 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T14:58:01.447106+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2ac50322cef4",
-        "score": 88,
-        "category": "política",
-        "title": "Blue states pitch 100 percent tax on Trump’s ‘anti-weaponization’ payouts - The Washington Post",
-        "candidate_tickers": [
-          "$1776",
-          "TRUMP",
-          "BLUE STATES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T14:58:34.934065+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f3bdf96bcb9d",
-        "score": 90,
-        "category": "Tecnología espacial",
-        "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test - AP News",
-        "candidate_tickers": [
-          "BLUEORIGIN",
-          "ROCKETEXPLOSION",
-          "NEWGLENN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T14:59:23.083301+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e758011f8d80",
-        "score": 82,
-        "category": "Política/Controversia",
-        "title": "Release the footage, you evil bastards!",
-        "candidate_tickers": [
-          "RELEASETHETRUTH",
-          "ELONVS",
-          "FOOTAGEFURY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T15:00:06.399240+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "904946ea5703",
-        "score": 82,
-        "category": "economía",
-        "title": "LETS x1000 the GDP",
-        "candidate_tickers": [
-          "X1000",
-          "LETSX1000"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T15:00:19.926924+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a2d57254daa7",
-        "score": 70,
-        "category": "Tecnología y Futuro",
-        "title": "We are the ARCHITECTS of TOMORROW!",
-        "candidate_tickers": [
-          "TOMORROW",
-          "ARCHITECTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T15:01:17.841367+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "14b1dabd527d",
-        "ticker": "42069K",
-        "mint": "Be78Ld3SpYMif5YgxM4ipJx2eGSDcAaaCkHUzcV5pump",
-        "mc": 123484.0
-      }
-    },
-    {
       "ts": "2026-05-31T16:20:07.673549+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28118,6 +28035,89 @@
           "MUNDIAL",
           "FIFA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:49:34.590163+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a5a0c6ae3e2a",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis - Reuters",
+        "candidate_tickers": [
+          "ARGENTINA",
+          "ARGENTINA_WC",
+          "ARGENTINA_GOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:52:00.020210+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Deportes",
+        "title": "Inglaterra se mete en semifinales con un doblete de Bellingham - Ultima Hora",
+        "candidate_tickers": [
+          "Bellingham",
+          "Inglaterra",
+          "Doblete",
+          "Semifinales"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:52:27.328318+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6852f73c8cf0",
+        "score": 72,
+        "category": "Absurdos en el mundo real",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKKEEK",
+          "MARINES9AÑOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:53:30.942209+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política",
+        "title": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+        "candidate_tickers": [
+          "Qatar",
+          "Hamad",
+          "Emir"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:54:07.944246+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política Internacional",
+        "title": "Irán cierra Ormuz \"hasta nuevo aviso\" y EEUU responde con más ataques: \"Pagarán por su mala decisión\" - LaSexta",
+        "candidate_tickers": [
+          "ORMUZ",
+          "IRAN",
+          "EEUU",
+          "ATACOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T06:54:25.863581+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a5a0c6ae3e2a",
+        "ticker": "ARGENTINA",
+        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
+        "mc": 17803.0
       }
     }
   ]
