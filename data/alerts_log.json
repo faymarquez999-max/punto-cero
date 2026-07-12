@@ -1,63 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T13:04:49.978930+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política internacional",
-        "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-        "candidate_tickers": [
-          "INDO",
-          "CHINA",
-          "HEDGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T13:05:36.655567+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3d8da672471e",
-        "score": 80,
-        "category": "Celebridad",
-        "title": "Release the footage, you evil bastards!",
-        "candidate_tickers": [
-          "MUSK",
-          "BASTARDS",
-          "RELEASETHEFOOTAGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T13:06:23.084532+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c6c8b53ba1c8",
-        "score": 82,
-        "category": "Tecnología y economía",
-        "title": "LETS x1000 the GDP",
-        "candidate_tickers": [
-          "LETSX1000",
-          "GDPX1000"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T13:06:45.001319+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a2d57254daa7",
-        "score": 82,
-        "category": "Tecnología y Futuro",
-        "title": "We are the ARCHITECTS of TOMORROW!",
-        "candidate_tickers": [
-          "ARCHITECTS",
-          "TOMORROW"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T14:58:01.447106+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28115,6 +28058,66 @@
         "ticker": "Apple",
         "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
         "mc": 45791.0
+      }
+    },
+    {
+      "ts": "2026-07-12T04:04:11.563519+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "527903a5d21e",
+        "score": 74,
+        "category": "Noticias internacionales",
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "candidate_tickers": [
+          "USVSIRAN",
+          "ESTRECHODEORMUZ",
+          "EEUUATACA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T04:04:39.157606+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ee57affea65",
+        "score": 80,
+        "category": "catástrofe natural",
+        "title": "Typhoon Bavi batters east China, Taiwan reports 134 injured - Reuters",
+        "candidate_tickers": [
+          "BAVI",
+          "TYPHOONBAVI",
+          "CHINATYPHOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T04:06:49.029714+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "Incendios forestales en California",
+        "title": "Breaking: Chance Fire reported in Kern County on July 11 - Fresno Bee",
+        "candidate_tickers": [
+          "KERNFIRE",
+          "CALIFORNIAWILDFIRES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T04:08:46.342928+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "445f084c34cc",
+        "score": 85,
+        "category": "fútbol",
+        "title": "England’s Jude Bellingham, His FIFA World Cup Play And Veins Go Viral - Forbes",
+        "candidate_tickers": [
+          "BELLINGHAM",
+          "JUDE",
+          "FÚTBOL",
+          "MUNDIAL",
+          "FIFA"
+        ]
       }
     }
   ]
