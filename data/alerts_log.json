@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T11:26:55.674818+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "China patrols Scarborough Shoal after Philippines warns of threat - Reuters",
-        "candidate_tickers": [
-          "CHINA",
-          "FILIPINAS",
-          "BANCO DE SCARBOROUGH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T11:27:29.201802+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "982a0f7fd901",
-        "score": 78,
-        "category": "Accidentes y desastres",
-        "title": "Eleven confirmed dead in Washington state chemical accident, all bodies recovered - Reuters",
-        "candidate_tickers": [
-          "CHEMICALACCIDENT",
-          "WASHINGTONTRAGEDY",
-          "ACCIDENTEQUÍMICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T11:28:57.456044+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bab9aedc5672",
-        "score": 90,
-        "category": "Tecnología/Aviación",
-        "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test - AP News",
-        "candidate_tickers": [
-          "BLUE_ORIGIN_EXPLOSION",
-          "COHETE_EXPLOSION",
-          "LAUNCH_PAD_DISASTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T13:02:50.700960+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies.",
-        "candidate_tickers": [
-          "TRUMP_KENNEDY",
-          "TRUMP_IRS",
-          "KENNEDY_CENTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T13:04:10.098685+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e6218ff44795",
-        "score": 88,
-        "category": "conflicto internacional",
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "candidate_tickers": [
-          "CASTILLO_DE_LIBANO",
-          "ISRAEL_LIBANO",
-          "OFENSIVA_TERRESTRE"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T13:04:49.978930+00:00",
       "kind": "shadow",
       "payload": {
@@ -28119,6 +28046,75 @@
           "ENTRENADORCONDENADO",
           "INJUSTICIAANIMAL"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-12T00:15:12.020849+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ef77779e5d2a",
+        "score": 80,
+        "category": "Noticias de animales",
+        "title": "Animal trainer sentenced after 11 dogs die in his care - WKRC",
+        "candidate_tickers": [
+          "PERRONARDO",
+          "CUIDADOCANINO",
+          "PERROPROBLEMA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T00:15:35.693857+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "547aa7eeff7a",
+        "score": 88,
+        "category": "política internacional",
+        "title": "Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit - NBC News",
+        "candidate_tickers": [
+          "KHANNADETENIDO",
+          "CUENCAOCCIDENTAL",
+          "ISRAELDETIENE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T00:16:12.353486+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2cec96918e8e",
+        "score": 78,
+        "category": "Tecnología",
+        "title": "Apple sues OpenAI for trade secret theft - Axios",
+        "candidate_tickers": [
+          "APPLEVSOPENAI",
+          "OPENAIROBOTECH",
+          "APPLESUESOPENAI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T00:17:32.033793+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "política",
+        "title": "ICE release statement on arrest of man shown in viral Suffolk video - WAVY.com",
+        "candidate_tickers": [
+          "ICE",
+          "Suffolk",
+          "abuso animal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T00:19:51.466636+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2cec96918e8e",
+        "ticker": "Apple",
+        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
+        "mc": 45791.0
       }
     }
   ]
