@@ -1,70 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T19:00:45.844345+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d2de2ad2b21f",
-        "ticker": "GEORGE",
-        "mint": "4NmagwMczqFMpGKVJXYiZ6jFmBtedrtKd8f7HSzGbonk",
-        "mc": 106379.0
-      }
-    },
-    {
-      "ts": "2026-05-31T19:00:52.360174+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "27798882aa89",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 171761.0
-      }
-    },
-    {
-      "ts": "2026-05-31T20:19:11.747527+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "MERRYXMAS",
-          "TRUMPVSLEFT",
-          "IZQUIERDARADICAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T20:19:37.825591+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1f467f51b3d2",
-        "score": 88,
-        "category": "política internacional",
-        "title": "IRAN'S FOREIGN MINISTER TO STATE MEDIA: TALKS AND MESSAGE EXCHANGES WITH THE U.S. ARE ONGOING",
-        "candidate_tickers": [
-          "IRAN_US",
-          "ISRAEL_LEBANON",
-          "CONFLICTO_GEOPOLÍTICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T20:20:26.324284+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "política",
-        "title": "Second batch of Mandelson files to be published on Monday",
-        "candidate_tickers": [
-          "Mandelson",
-          "Trump",
-          "Epstein",
-          "EpsteinFiles"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T20:21:38.265323+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28118,6 +28054,80 @@
           "NetanyahuLeaks",
           "ShinBetGate",
           "IranFiltrado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T13:44:06.855622+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8938de856c2b",
+        "score": 70,
+        "category": "política",
+        "title": "Muere el exemir de Qatar, Hamad bin Khalifa Al Thani, a los 74 años - ABC",
+        "candidate_tickers": [
+          "QATAR",
+          "HAMAD BIN KHALIFA AL THANI",
+          "EX-EMIR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T13:45:28.698902+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3656a311c83b",
+        "score": 80,
+        "category": "Política",
+        "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
+        "candidate_tickers": [
+          "IRANVSUSA",
+          "ESTRECHODEORMUZ",
+          "ATAQUESCONTRAIRÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T13:46:10.911408+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fcf9690695f8",
+        "score": 88,
+        "category": "fútbol",
+        "title": "Erling Haaland’s World Cup Ends In a Shocking Place - Time Magazine",
+        "candidate_tickers": [
+          "HAALAND",
+          "TARJETA_ROJA",
+          "MUNDIAL_FIFA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T13:46:43.764578+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "47a48ed9991f",
+        "score": 78,
+        "category": "política internacional",
+        "title": "South China Sea joint statement says China's maritime claims have no basis - Reuters",
+        "candidate_tickers": [
+          "CHINA_NO_BASE",
+          "MARITIME_CLAIMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T13:47:32.884064+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a0f00682f544",
+        "score": 72,
+        "category": "Desastres naturales y accidentes",
+        "title": "Última hora sobre el incendio en Los Gallardos (Almería), en directo: Juanma Moreno anuncia que el incendio está estabilizado - Onda Cero",
+        "candidate_tickers": [
+          "LOSGALLARDOS",
+          "INCENDIOALMERIA",
+          "DESASTREESPANA"
         ]
       }
     }
