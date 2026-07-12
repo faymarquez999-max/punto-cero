@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T20:23:07.902814+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1a69dc1095d1",
-        "score": 87,
-        "category": "Celebridad vs. Medios",
-        "title": "Release the footage, you evil bastards!",
-        "candidate_tickers": [
-          "XCANCEL",
-          "RELEASETHEFOOTAGE",
-          "BASTARDS"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T20:24:13.790366+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28124,6 +28109,21 @@
         "ticker": "HAALAND",
         "mint": "EYvkcWB5S4DFv7gJqR8D2W76U9n7kD3jvYcbSXdppump",
         "mc": 21122.0
+      }
+    },
+    {
+      "ts": "2026-07-12T15:46:31.735515+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6116bf8f0f7e",
+        "score": 80,
+        "category": "Internacional/Política",
+        "title": "Germany funds 50,000 strike drones for Ukraine, source says - Reuters",
+        "candidate_tickers": [
+          "GERDRONES",
+          "UKRAINEAID",
+          "ALEMANIAUCRANIA"
+        ]
       }
     }
   ]
