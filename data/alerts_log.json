@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T18:57:40.999413+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c81b09838b8d",
-        "score": 70,
-        "category": "conflicto internacional",
-        "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes on Russia - Reuters",
-        "candidate_tickers": [
-          "UCRANIA",
-          "RUSIA",
-          "DRONEWAR",
-          "FUELDEPOT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T18:58:13.312918+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d9140db7492f",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Two hundred hurt in post-game violence as Paris hails second Champions League triumph - Reuters",
-        "candidate_tickers": [
-          "PSG",
-          "CHAMPIONSLEAGUE",
-          "VIOLENCIAENPARÍS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T18:59:17.681483+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f050aa59251d",
-        "score": 74,
-        "category": "política",
-        "title": "Judge says Kennedy Center board broke law putting Trump's name on building and blocks closure - AP News",
-        "candidate_tickers": [
-          "TRUMPVSJUEZ",
-          "TRUMPBLOCKING",
-          "KENNEDYCENTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T18:59:58.851758+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cb14c50a506b",
-        "score": 87,
-        "category": "Tecnología y celebridad",
-        "title": "Release the footage, you evil bastards!",
-        "candidate_tickers": [
-          "XCANCEL",
-          "RELEASETHEFOOTAGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-05-31T19:00:43.036186+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "58ea6f33a955",
-        "ticker": "GEORGE",
-        "mint": "4NmagwMczqFMpGKVJXYiZ6jFmBtedrtKd8f7HSzGbonk",
-        "mc": 106379.0
-      }
-    },
-    {
       "ts": "2026-05-31T19:00:45.844345+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28116,6 +28046,79 @@
         "ticker": "Apple",
         "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
         "mc": 47425.0
+      }
+    },
+    {
+      "ts": "2026-07-12T11:49:38.217921+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5f432930e4ad",
+        "score": 78,
+        "category": "Desastres naturales",
+        "title": "Typhoon Bavi: China evacuates nearly two million people as powerful typhoon makes landfall - BBC",
+        "candidate_tickers": [
+          "TYPHOONBAVI",
+          "CHINAEVACUATES",
+          "HURACÁNBAVI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T11:50:17.330315+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c2a8af6c8b71",
+        "score": 89,
+        "category": "Tecnología",
+        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - AP News",
+        "candidate_tickers": [
+          "APPLEVSOPENAI",
+          "OPENAIAPPLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T11:51:53.514763+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f2fb98dece42",
+        "score": 84,
+        "category": "política/militar",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINK",
+          "KEEEEEEEEEEK",
+          "MARINES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T11:52:51.824808+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3ba4c33a1903",
+        "score": 82,
+        "category": "Incendios forestales en California",
+        "title": "Breaking: Mssion Fire reported in San Luis Obispo County on July 12 - Sacramento Bee",
+        "candidate_tickers": [
+          "CALIFORNIA_FIRE",
+          "SAN_LUIS_OBISPO_FIRE",
+          "WILDFIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T11:53:53.557044+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política",
+        "title": "Netanyahu ordered Shin Bet chief to probe Channel 12 over Iran leak — report - The Times of Israel",
+        "candidate_tickers": [
+          "NetanyahuLeaks",
+          "ShinBetGate",
+          "IranFiltrado"
+        ]
       }
     }
   ]
