@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-05-31T20:24:13.790366+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5416c56f226c",
-        "score": 82,
-        "category": "economía",
-        "title": "LETS x1000 the GDP",
-        "candidate_tickers": [
-          "LETSX1000",
-          "X1000GDP",
-          "HUMANX1000"
-        ]
-      }
-    },
-    {
       "ts": "2026-05-31T21:38:33.231984+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28123,6 +28108,20 @@
           "GERDRONES",
           "UKRAINEAID",
           "ALEMANIAUCRANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-12T16:46:06.650922+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "Hegseth’s tantrums are getting increasingly weird - The i Paper",
+        "candidate_tickers": [
+          "Hegseth",
+          "Tantrums",
+          "Weird"
         ]
       }
     }
