@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T00:23:17.305168+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ba23d4807f45",
-        "score": 88,
-        "category": "Tecnología y negocios",
-        "title": "ALPHABET ANNOUNCES PROPOSED $80 BILLION EQUITY CAPITAL RAISE TO EXPAND AI INFRASTRUCTURE AND COMPUTE",
-        "candidate_tickers": [
-          "ALPHABET",
-          "AI",
-          "INFRATECH",
-          "COMPUTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T00:23:49.656092+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "tecnología",
-        "title": "Nvidia launches ‘superchip’ putting AI power into laptops and PCs - The Guardian",
-        "candidate_tickers": [
-          "NVIDIA",
-          "SUPERCHIP",
-          "AIPOWER"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T00:24:29.046255+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28147,6 +28117,35 @@
           "ABUSOANIMALCA",
           "PERROSMUERTOSCA",
           "RESCATEABUSIVO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T21:06:23.719647+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política y conspiración",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "LindseyGraham",
+          "ConspiraciónGraham",
+          "GrahamMuerte"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T21:07:50.436665+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dbab66f4857d",
+        "score": 78,
+        "category": "salud",
+        "title": "There’s a Stomach Parasite Outbreak Spreading Across the U.S.—Here’s How to Lower Your Risk - AOL.com",
+        "candidate_tickers": [
+          "STOMACHPARASITE",
+          "PARASITEOUTBREAK",
+          "EEUU"
         ]
       }
     }
