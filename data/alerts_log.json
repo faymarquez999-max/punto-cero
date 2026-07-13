@@ -1,19 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T00:24:29.046255+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4159f543db8f",
-        "score": 74,
-        "category": "Celebridad",
-        "title": "Bullseye",
-        "candidate_tickers": [
-          "BULLSEYE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T00:26:37.775389+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28146,6 +28133,19 @@
           "STOMACHPARASITE",
           "PARASITEOUTBREAK",
           "EEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T23:17:58.656750+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "seguridad en línea, trastornos alimentarios",
+        "title": "YouTube still recommending eating disorder videos to teens, research finds",
+        "candidate_tickers": [
+          "YouTubeInjusticia",
+          "TrastornosAlimentariosEnRiesgo"
         ]
       }
     }
