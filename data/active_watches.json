@@ -1,139 +1,6 @@
 {
   "watches": [
     {
-      "id": "1d2febfeb458",
-      "fingerprint": "1d2febfeb458",
-      "narrative_summary": "Donald Trump amenaza con aniquilar a Irán después de un incidente en el estrecho de Hormuz",
-      "why_memeable": "La narrativa tiene un título claro y un lenguaje directo, lo que facilita su comprensión y compartición",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSIRAN",
-        "IRANVSTRUMP",
-        "TRUMPVSMUNDO"
-      ],
-      "key_terms_for_dex_search": [
-        "trump",
-        "iran",
-        "estrecho de hormuz",
-        "amenaza",
-        "aniquilar"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 7,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T14:19:49.935696+00:00",
-      "expires_at": "2026-06-30T14:19:49.935696+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 212251.0,
-        "liquidity_usd": 66510.21,
-        "price_usd": 2.122e-06,
-        "volume_h24": 57450.44,
-        "volume_h1": 57450.44,
-        "volume_m5": 105.09,
-        "price_change_5m": 0.82,
-        "price_change_1h": 57.33,
-        "price_change_24h": 57.33,
-        "txns_h1_buys": 1257,
-        "txns_h1_sells": 44,
-        "created_ts": 1782751604000,
-        "pair_created_at": 1782751604000,
-        "url": "https://dexscreener.com/solana/9qdudws6tw4bjt9nhf2zlbyyunhwejwdwtsohmspthnc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IRAN in IRAN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-29T17:02:25.989400+00:00"
-    },
-    {
-      "id": "e9410e13755f",
-      "fingerprint": "e9410e13755f",
-      "narrative_summary": "Ucrania ataca dos refinerías de petróleo rusas durante la noche.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una frase memorable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSSIA",
-        "UKRAINE",
-        "PETRÓLEO",
-        "REFINERÍAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Rusia",
-        "petróleo",
-        "refinerías",
-        "ataque"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T14:20:20.973615+00:00",
-      "expires_at": "2026-06-30T14:20:20.973615+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine hits two Russian oil refineries overnight - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-30T15:15:47.652664+00:00"
-    },
-    {
       "id": "cf9f2b385fb1",
       "fingerprint": "cf9f2b385fb1",
       "narrative_summary": "Julia Letlow gana en Luisiana, completando la venganza de Trump sobre Cassidy.",
@@ -11808,7 +11675,95 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "4c700c9346aa",
+      "fingerprint": "4c700c9346aa",
+      "narrative_summary": "Un juez federal anula el caso de conspiración sediciosa contra el líder de los Proud Boys de Filadelfia, Zach Rehl.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y traición, con un juez federal anulando el caso contra un líder de un grupo extremista. La frase 'Proud Boys' es memeable y fácil de compartir.",
+      "category": "Política/Extremismo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PROUDBOYS",
+        "ZACHREHL",
+        "SEDITIOUSCONSPIRACY"
+      ],
+      "key_terms_for_dex_search": [
+        "ProudBoys",
+        "ZachRehl",
+        "SeditiousConspiracy",
+        "Extremismo",
+        "Injusticia"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-13T18:08:06.930529+00:00",
+      "expires_at": "2026-07-15T18:08:06.930529+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Former Philly Proud Boys leader Zach Rehl's seditious conspiracy case was dismissed by a federal judge - Inquirer.com",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "85bd18feab77",
+      "fingerprint": "85bd18feab77",
+      "narrative_summary": "Un perro viral llamado Jonah recibe un trato VIP en el estadio de los Marlins, lo que beneficia a un refugio de rescate en Miami.",
+      "why_memeable": "La narrativa cuenta con un perro viral, un trato VIP y un beneficio para un refugio de rescate, lo que la hace fácilmente compartible y recordable.",
+      "category": "Perros virales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "JONAH",
+        "PERRITOVIP",
+        "DREAMDAY"
+      ],
+      "key_terms_for_dex_search": [
+        "perro viral",
+        "trato VIP",
+        "beneficio para refugio de rescate"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-13T18:10:23.793721+00:00",
+      "expires_at": "2026-07-15T18:10:23.793721+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Viral pup Jonah gets VIP treatment at LoanDepot Park - FOX 13 Tampa Bay",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-13T13:11:48.603917+00:00"
+  "last_updated": "2026-07-13T18:10:23.793721+00:00"
 }

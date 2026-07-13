@@ -1,45 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T20:49:52.486220+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "tech",
-        "title": "Endlich konnte ich FSD in Deutschland testen. Wir sind fast eine Stunde durch Dörfer, über Landstraßen und Autobahnen gefahren. Alles lief perfekt. @PSchnieder ,  wann retten wir Leben in Deutschland?",
-        "candidate_tickers": [
-          "FSD",
-          "PSchnieder",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T20:51:44.602061+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "abe033be922d",
-        "ticker": "NBA",
-        "mint": "39yEFw7AMfuYzyvTJTyzKEgHuM5THuak3w27sPv5pump",
-        "mc": 12020.0
-      }
-    },
-    {
-      "ts": "2026-06-01T22:56:38.541279+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d3ad04c113d3",
-        "score": 70,
-        "category": "política",
-        "title": "True:",
-        "candidate_tickers": [
-          "TRUMP_FONDO",
-          "FONDO_ANTIPROPIETARIO",
-          "TRUMP_RETIRA_FONDO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-01T22:58:36.561351+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28142,6 +28103,50 @@
           "Peñarroya",
           "Incendio",
           "Teruel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T18:05:37.757210+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "clima y medio ambiente",
+        "title": "Another Heat Wave Brings Unbearable Temperatures to Much of the U.S. - The New York Times",
+        "candidate_tickers": [
+          "CalorExtremo",
+          "TemperaturasOpresivas",
+          "ClimaApocalíptico"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T18:08:07.380287+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4c700c9346aa",
+        "score": 82,
+        "category": "Política/Extremismo",
+        "title": "Former Philly Proud Boys leader Zach Rehl's seditious conspiracy case was dismissed by a federal judge - Inquirer.com",
+        "candidate_tickers": [
+          "PROUDBOYS",
+          "ZACHREHL",
+          "SEDITIOUSCONSPIRACY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T18:10:24.282674+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "85bd18feab77",
+        "score": 83,
+        "category": "Perros virales",
+        "title": "Viral pup Jonah gets VIP treatment at LoanDepot Park - FOX 13 Tampa Bay",
+        "candidate_tickers": [
+          "JONAH",
+          "PERRITOVIP",
+          "DREAMDAY"
         ]
       }
     }
