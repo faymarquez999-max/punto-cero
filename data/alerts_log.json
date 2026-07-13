@@ -1,113 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T22:58:36.561351+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ce43d622a649",
-        "score": 88,
-        "category": "Noticias",
-        "title": "I have found it, the Platonic form of every New York Times op-ed.",
-        "candidate_tickers": [
-          "OFFICERPUNCH",
-          "VIRALARREST",
-          "POLICÍAABUSO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T22:59:13.335820+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "82be3a594788",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "ALPHABET ANNOUNCES PROPOSED $80 BILLION EQUITY CAPITAL RAISE TO EXPAND AI INFRASTRUCTURE AND COMPUTE",
-        "candidate_tickers": [
-          "ALPHABET",
-          "AI",
-          "INFRAESTRUCTURA",
-          "COMPUTACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T22:59:44.884517+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4f5583ff1775",
-        "score": 70,
-        "category": "política",
-        "title": "Video: Presidential election has Colombia on edge",
-        "candidate_tickers": [
-          "COLOMBIADEBATE",
-          "ABELARDOVSIVAN",
-          "ELECCIONESCOLOMBIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T23:00:21.749972+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "66dbce9724e4",
-        "score": 73,
-        "category": "Tecnología",
-        "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "AI_IPO",
-          "FUTURO_DE_LA_INTELIGENCIA_ARTIFICIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T23:01:00.029559+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política",
-        "title": "Pro-Trump candidate takes spotlight in Colombia's presidential race with vow of crime crackdown - AP News",
-        "candidate_tickers": [
-          "COLOMBIA",
-          "TRUMP",
-          "CRIME",
-          "CRACKDOWN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T23:01:28.695967+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "031b797b9c51",
-        "score": 89,
-        "category": "Tecnología",
-        "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-        "candidate_tickers": [
-          "OPENAI",
-          "CHATGPT",
-          "SAM ALTMAN",
-          "ASESINOS EN MASA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T00:22:44.116515+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "04cc52f6f3a3",
-        "score": 91,
-        "category": "Política y celebridades",
-        "title": "I want the world to hear what we heard.",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP",
-          "TRUMPVSELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T00:23:17.305168+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28147,6 +28040,113 @@
           "JONAH",
           "PERRITOVIP",
           "DREAMDAY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:54:42.816319+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 61,
+        "category": "Accidente o incidente",
+        "title": "Fultondale Fire confirms gas leak on Walker Chapel Road near I-65, evacuation ordered - WBMA",
+        "candidate_tickers": [
+          "FultondaleGas",
+          "EvacuacionFultondale",
+          "GasLeakAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:55:18.625885+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6e52e05a3566",
+        "score": 88,
+        "category": "política",
+        "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
+        "candidate_tickers": [
+          "TRUMP_IRS",
+          "TRUMP_ABUSO",
+          "JUSTICIA_VOIDADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:56:04.234171+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Top House progressive warns Democrats to get serious on AI messaging - Politico",
+        "candidate_tickers": [
+          "MuskFraude",
+          "TwitterEscanalado",
+          "ElonMuskFraude"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:56:36.430519+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6bc7c6915666",
+        "score": 80,
+        "category": "negocios",
+        "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal - Reuters",
+        "candidate_tickers": [
+          "PARAMOUNT",
+          "WARNERBROS",
+          "DISCOVERY",
+          "FUSIÓN",
+          "BLOCK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:57:11.637773+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6e08c236bef9",
+        "score": 78,
+        "category": "Celebridad fallecida",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "ELPIANO",
+          "RIP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:58:31.977244+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eda0017af01d",
+        "score": 79,
+        "category": "Política internacional",
+        "title": "Ukraine, 9 nations form ballistic missile defense coalition - dw.com",
+        "candidate_tickers": [
+          "UCRANIA",
+          "COALICIÓN",
+          "MISILES BALÍSTICOS",
+          "DEFENSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T19:59:10.991451+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a0caa38bf657",
+        "score": 88,
+        "category": "abuso animal",
+        "title": "How Lyhanna’s murder case is shedding light on child abuse in France",
+        "candidate_tickers": [
+          "ABUSOANIMALCA",
+          "PERROSMUERTOSCA",
+          "RESCATEABUSIVO"
         ]
       }
     }
