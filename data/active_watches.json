@@ -1,123 +1,6 @@
 {
   "watches": [
     {
-      "id": "ebabb7a1706d",
-      "fingerprint": "ebabb7a1706d",
-      "narrative_summary": "Mindestens vier Mädchen wurden in einem Schwimmbad sexuell übergriffen, ein 21-jähriger Afghane ist Tatverdächtig.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano y víctimas, lo que la hace fácilmente compartible y repetible.",
-      "category": "Sexual Übergriffe",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AFGHANTÄTER",
-        "SCHWIMMBADSKANDAL",
-        "MÄDCHENOPFER"
-      ],
-      "key_terms_for_dex_search": [
-        "AfghanTäter",
-        "SchwimmbadSkandal",
-        "MädchenOpfer"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 3,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T10:42:15.773769+00:00",
-      "expires_at": "2026-06-30T10:42:15.773769+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an de",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-30T15:15:47.652655+00:00"
-    },
-    {
-      "id": "0e9ac8ef2498",
-      "fingerprint": "0e9ac8ef2498",
-      "narrative_summary": "Elon Musk afirma que ganar en mercados de cero-suma es 'malvado' en una publicación viral.",
-      "why_memeable": "La frase 'pro tip: yes' es fácil de recordar y se puede compartir sin contexto.",
-      "category": "Finanzas y comercio",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ZEROSUM",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "yes",
-        "zerosum",
-        "trading",
-        "evil",
-        "elonmusk"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T12:13:49.457100+00:00",
-      "expires_at": "2026-06-30T12:13:49.457100+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SOBAT",
-        "name": "Bad At Trading",
-        "mint": "EW7cWbNmTgL7PLQNiJ6tBVC62SJzJXa2pFYJjDPPpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 158872.0,
-        "liquidity_usd": 38208.79,
-        "price_usd": 0.0001588,
-        "volume_h24": 151927.52,
-        "volume_h1": 2491.37,
-        "volume_m5": 66.99,
-        "price_change_5m": 0.34,
-        "price_change_1h": -12.3,
-        "price_change_24h": 50.2,
-        "txns_h1_buys": 27,
-        "txns_h1_sells": 24,
-        "created_ts": 1770378620000,
-        "pair_created_at": 1770378620000,
-        "url": "https://dexscreener.com/solana/7lwefdxc5nygox5ckzrupirwad9huh8dipwvcnvudehp",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRADING in BAD AT TRADING",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-28T15:59:31.810246+00:00"
-    },
-    {
       "id": "61cb1f63a6bf",
       "fingerprint": "61cb1f63a6bf",
       "narrative_summary": "Un piloto chino confirma la muerte de un piloto que se estrelló contra la torre más alta de Beijing.",
@@ -11889,7 +11772,97 @@
         "google_news"
       ],
       "scan_attempts": 5
+    },
+    {
+      "id": "263a5892dda8",
+      "fingerprint": "263a5892dda8",
+      "narrative_summary": "Incendio en un bar en Bangkok que ha causado al menos 27 muertos y 8 heridos críticos.",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La imagen del incendio es icónica y evoca una reacción emocional.",
+      "category": "accidente",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BANGKOKFIRE",
+        "BARFIRE",
+        "BANGKOKINCENDIO"
+      ],
+      "key_terms_for_dex_search": [
+        "bangkok",
+        "incendio",
+        "bar",
+        "muertos",
+        "heridos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-13T04:07:32.232769+00:00",
+      "expires_at": "2026-07-15T04:07:32.232769+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "09978f103e23",
+      "fingerprint": "09978f103e23",
+      "narrative_summary": "Protesta en Suffolk después de un video de arresto viral",
+      "why_memeable": "El título y la imagen del video pueden ser capturados en una frase corta y compartida fácilmente.",
+      "category": "Protestas y derechos civiles",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SUFFOLK",
+        "ICE",
+        "PROTEST"
+      ],
+      "key_terms_for_dex_search": [
+        "SUFFOLK",
+        "ICE",
+        "PROTEST",
+        "VIDEO VIRAL"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-13T04:11:46.392104+00:00",
+      "expires_at": "2026-07-15T04:11:46.392104+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Big turnout at Suffolk ICE Protest after video of arrest goes viral - WAVY.com",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-12T15:46:31.315585+00:00"
+  "last_updated": "2026-07-13T04:11:46.392104+00:00"
 }
