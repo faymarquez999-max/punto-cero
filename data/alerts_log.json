@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T05:05:27.201957+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f050aa59251d",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 106926.0
-      }
-    },
-    {
-      "ts": "2026-06-01T05:05:31.075037+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ba67d4c9feb4",
-        "ticker": "MXNA",
-        "mint": "MXNAd34eptyPhNYhZvihHcoz5EtDSfqwzr2DfdqndqF",
-        "mc": 25472.0
-      }
-    },
-    {
-      "ts": "2026-06-01T05:05:36.025339+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d22105c2bb40",
-        "ticker": "TRUMP",
-        "mint": "HZSTNn7wLWqPmvhgcPiX327ax5DmWHJ8d4UANWHkpump",
-        "mc": 106926.0
-      }
-    },
-    {
       "ts": "2026-06-01T10:34:32.875247+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28124,6 +28094,50 @@
           "SUFFOLK",
           "ICE",
           "PROTEST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T07:45:35.805869+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "39ae7db41ce4",
+        "score": 74,
+        "category": "noticias de actualidad",
+        "title": "Home secretary to set out plan to deport Rochdale grooming gang leader",
+        "candidate_tickers": [
+          "DEPORTAHMED",
+          "ROCHDALEJUSTICE",
+          "GROOMINGGANG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T07:46:31.554093+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "10e66fef0861",
+        "score": 82,
+        "category": "Desastres naturales y accidentes",
+        "title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
+        "candidate_tickers": [
+          "BANGKOKFIRE",
+          "INCENDIOBANGKOK",
+          "DESASTREBANGKOK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T07:47:22.090685+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e1d6fe5c8532",
+        "score": 82,
+        "category": "Noticias",
+        "title": "Link marines held 9 years for this",
+        "candidate_tickers": [
+          "LINKMARINES",
+          "KEEEEEEEEEK"
         ]
       }
     }
