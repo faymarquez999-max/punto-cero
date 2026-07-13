@@ -1,75 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T16:30:10.778375+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Tecnología",
-        "title": "Endlich konnte ich FSD in Deutschland testen. Wir sind fast eine Stunde durch Dörfer, über Landstraßen und Autobahnen gefahren. Alles lief perfekt. @PSchnieder ,  wann retten wir Leben in Deutschland?",
-        "candidate_tickers": [
-          "FSD",
-          "Deutschland",
-          "ElonMusk",
-          "PSchnieder"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T16:31:31.674741+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "09e74c162f1c",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 410899.0
-      }
-    },
-    {
-      "ts": "2026-06-01T20:47:35.342577+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "True:",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "ISRAEL",
-          "LÍBANO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T20:48:36.957196+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "abe033be922d",
-        "score": 80,
-        "category": "Deportes",
-        "title": "IT BEGINS",
-        "candidate_tickers": [
-          "IT_BEGINS",
-          "PONZI_NBA",
-          "NBA_COLLAPSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T20:49:09.558584+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "946455bf8adc",
-        "score": 80,
-        "category": "tech",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "ELONYES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-01T20:49:52.486220+00:00",
       "kind": "shadow",
       "payload": {
@@ -28136,6 +28067,81 @@
           "SamNeil",
           "JurassicPark",
           "Muerte78"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T16:03:20.934146+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6fff7744ea2a",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "Counter terrorism police take over investigation into Ann Widdecombe's death",
+        "candidate_tickers": [
+          "GRAHAM",
+          "TRUMP",
+          "SENATE",
+          "RIP",
+          "LINDSEY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T16:04:04.826252+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "161d60c07cba",
+        "score": 80,
+        "category": "Noticias de actualidad",
+        "title": "Officials: Person killed in shooting involving ICE in Biddeford - WMTW",
+        "candidate_tickers": [
+          "ICE",
+          "BIDDEFORD",
+          "SHOOTING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T16:04:44.669537+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "642c9c45e3a4",
+        "score": 79,
+        "category": "Política y Justicia",
+        "title": "A Photo of Nolan Wells at a Pool Party Went Viral. It’s Not From July 4 - Rolling Stone",
+        "candidate_tickers": [
+          "NOLANWELLS",
+          "ANNWIDDECOMBE",
+          "POOLPARTY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T16:05:23.844367+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Economía",
+        "title": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed - Reuters",
+        "candidate_tickers": [
+          "VWcuts",
+          "JobCuts",
+          "VolkswagenSqueeze"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T16:06:30.281219+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "Desastres naturales",
+        "title": "‼️ÚLTIMA HORA‼️🔥El incendio de Peñarroya de Tastavins (Teruel) ya está perimetrado, aunque no estabilizado. 💬El consejero de Medio Ambiente, Luis Biendicho: \"La previsión esta tarde es que siga hacien",
+        "candidate_tickers": [
+          "Peñarroya",
+          "Incendio",
+          "Teruel"
         ]
       }
     }
