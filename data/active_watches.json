@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "6c894782936e",
-      "fingerprint": "6c894782936e",
-      "narrative_summary": "Terremoto en Venezuela: varios españoles fallecidos y desaparecidos",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un tema relevante para la cultura popular",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "VENEZUELA",
-        "TERREMOTO",
-        "ESPANIA"
-      ],
-      "key_terms_for_dex_search": [
-        "VENEZUELA",
-        "TERREMOTO",
-        "ESPANIA"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T12:16:25.366815+00:00",
-      "expires_at": "2026-07-01T12:16:25.366815+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Venezuela",
-        "name": "Venezuela Relief Fund",
-        "mint": "6eSzwRMLjK24g1NAYWUABAq9qDCDT2MW4hsbt513pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10145.0,
-        "liquidity_usd": 8193.08,
-        "price_usd": 1.014e-05,
-        "volume_h24": 262557.07,
-        "volume_h1": 1664.55,
-        "volume_m5": 61.17,
-        "price_change_5m": -2.04,
-        "price_change_1h": -15.01,
-        "price_change_24h": -56.4,
-        "txns_h1_buys": 29,
-        "txns_h1_sells": 24,
-        "created_ts": 1782530337000,
-        "pair_created_at": 1782530337000,
-        "url": "https://dexscreener.com/solana/3qlhqx5uzbvqne5mfbqd2ciiwzptjtn4tabwyvakbjbx",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: VENEZUELA==VENEZUELA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terremoto en Venezuela: minuto a minuto y última hora en directo - Radio Televisión Canaria",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-28T15:59:34.604022+00:00"
-    },
-    {
       "id": "1d2febfeb458",
       "fingerprint": "1d2febfeb458",
       "narrative_summary": "Donald Trump amenaza con aniquilar a Irán después de un incidente en el estrecho de Hormuz",
@@ -10418,14 +10348,15 @@
       "started_at": "2026-07-11T10:23:36.126604+00:00",
       "expires_at": "2026-07-13T10:23:36.126604+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Por qué Trump ha reanudado la guerra contra Irán: las claves del giro estratégico de Washington - RTVE.es",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-13T13:11:04.288020+00:00"
     },
     {
       "id": "3497e2fa5083",
@@ -10463,13 +10394,14 @@
       "started_at": "2026-07-11T10:25:38.780780+00:00",
       "expires_at": "2026-07-13T10:25:38.780780+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-13T13:11:04.288035+00:00"
     },
     {
       "id": "edb05aa80ca4",
@@ -10551,13 +10483,14 @@
       "started_at": "2026-07-11T12:46:00.837410+00:00",
       "expires_at": "2026-07-13T12:46:00.837410+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-13T13:11:04.288039+00:00"
     },
     {
       "id": "776914d9a3bb",
@@ -11828,7 +11761,54 @@
         "4chan"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "cf0e70d4ad0e",
+      "fingerprint": "cf0e70d4ad0e",
+      "narrative_summary": "Muerte de Lindsey Graham y su impacto en la agenda de Trump",
+      "why_memeable": "La muerte de Lindsey Graham y su cambio de posición política hacia Trump es un tema interesante y controvertido que puede generar mucho debate y especulación.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSGRAHAM",
+        "GRAHAMMUERE",
+        "AGENDADETRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "LindseyGraham",
+        "Trump",
+        "agenda",
+        "muerte",
+        "política"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-13T13:11:48.603917+00:00",
+      "expires_at": "2026-07-15T13:11:48.603917+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-13T07:47:21.665639+00:00"
+  "last_updated": "2026-07-13T13:11:48.603917+00:00"
 }

@@ -1,63 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-01T10:36:06.531326+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "63b3db6ae178",
-        "score": 90,
-        "category": "Política Internacional",
-        "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-        "candidate_tickers": [
-          "FRANCE_OIL",
-          "MACRON_OIL",
-          "UK_FRANCE_OIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T16:27:44.863577+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "A new trove of Mandelson files brings more bad news for Keir Starmer - AP News",
-        "candidate_tickers": [
-          "Mandelson",
-          "KeirStarmer",
-          "malas noticias"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T16:27:58.275916+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y celebridades",
-        "title": "Bullseye",
-        "candidate_tickers": [
-          "Bullseye",
-          "ElonBullseye"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-01T16:28:50.904049+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "09e74c162f1c",
-        "score": 83,
-        "category": "Tecnología/Política",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-01T16:30:10.778375+00:00",
       "kind": "shadow",
       "payload": {
@@ -28137,6 +28080,62 @@
           "SAMNEILL",
           "MUERTESAMNEILL",
           "ACTORFALLECE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T13:11:49.094148+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cf0e70d4ad0e",
+        "score": 78,
+        "category": "política",
+        "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+        "candidate_tickers": [
+          "TRUMPVSGRAHAM",
+          "GRAHAMMUERE",
+          "AGENDADETRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T13:12:40.510894+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "Accidente y tragedia",
+        "title": "Identificados seis de los fallecidos en el incendio de Los Gallardos (Almería): cinco extranjeros y un español - Ultima Hora",
+        "candidate_tickers": [
+          "GallardosIncendio",
+          "AlmeriaTragedia",
+          "FallecidosEnAlmeria"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T13:15:45.598111+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "crimen y justicia",
+        "title": "Descubren 'in fraganti' a tres hombres forzando una vivienda con una barra de hierro en sa Pobla - Ultima Hora",
+        "candidate_tickers": [
+          "PoblaForzo",
+          "BarraDeHierro"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-13T13:16:26.673720+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "Sam Neill, \"Jurassic Park\" and \"The Piano\" star, dies at 78 - CBS News",
+        "candidate_tickers": [
+          "SamNeil",
+          "JurassicPark",
+          "Muerte78"
         ]
       }
     }
