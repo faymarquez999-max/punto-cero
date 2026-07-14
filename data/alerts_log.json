@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T21:24:59.432363+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política",
-        "title": "Israel says it is holding off on striking Beirut after U.S. request - The Washington Post",
-        "candidate_tickers": [
-          "IsraelBeirut",
-          "EEUUIsrael",
-          "AtaqueBeirut"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T23:19:40.549880+00:00",
       "kind": "shadow",
       "payload": {
@@ -28191,6 +28177,22 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 323960.0
+      }
+    },
+    {
+      "ts": "2026-07-14T18:44:34.448359+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "163984a83f5f",
+        "score": 80,
+        "category": "salud",
+        "title": "True",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "EBOLA_CONGO",
+          "EBOLA_OUTBREAK"
+        ]
       }
     }
   ]
