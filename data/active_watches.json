@@ -1,314 +1,6 @@
 {
   "watches": [
     {
-      "id": "1a4789cfa688",
-      "fingerprint": "1a4789cfa688",
-      "narrative_summary": "Elon Musk publica un simple 'Yes' en respuesta a una pregunta sobre si ganar en mercados de suma cero es malo, generando un gran engagement",
-      "why_memeable": "La simplicidad de la respuesta de Musk, junto con la polarización inherente a la pregunta, crea un potencial memético alto",
-      "category": "Celebridad y finanzas",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "MUSKYES",
-        "ZEROSUM",
-        "TRADINGTIP"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Yes",
-        "Zero Sum",
-        "Trading Tip"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T15:55:29.032337+00:00",
-      "expires_at": "2026-07-01T15:55:29.032337+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "ELON MUSK COIN",
-        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26070.0,
-        "liquidity_usd": 12688.72,
-        "price_usd": 2.607e-05,
-        "volume_h24": 5095.99,
-        "volume_h1": 889.32,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -23.07,
-        "price_change_24h": 30.81,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1745429357000,
-        "pair_created_at": 1745429357000,
-        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
-        "safety_score": 17025,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "matched_at": "2026-06-30T22:58:04.789819+00:00"
-    },
-    {
-      "id": "1ef17b187848",
-      "fingerprint": "1ef17b187848",
-      "narrative_summary": "Lista de los mejores monedas de memes para invertir en 2026",
-      "why_memeable": "La narrativa tiene un título claro y una lista de monedas de memes, lo que la hace fácil de compartir y recordar.",
-      "category": "monedas de memes",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XSG",
-        "XRP",
-        "MEMETORO",
-        "COINDCX"
-      ],
-      "key_terms_for_dex_search": [
-        "monedas de memes",
-        "2026",
-        "XSG",
-        "XRP",
-        "MemeToro",
-        "CoinDCX"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T15:56:10.835857+00:00",
-      "expires_at": "2026-07-01T15:56:10.835857+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214382.0,
-        "liquidity_usd": 134041.61,
-        "price_usd": 1.33,
-        "volume_h24": 71542.42,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -1.27,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 20252,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Copycat token",
-            "level": "warn",
-            "description": "This token is using a verified tokens symbol"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2550",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-28T15:59:42.394778+00:00"
-    },
-    {
-      "id": "2c18d3e0e1dc",
-      "fingerprint": "2c18d3e0e1dc",
-      "narrative_summary": "Satellite images muestran la destrucción en Venezuela después de terremotos devastadores.",
-      "why_memeable": "La narrativa es visualmente impactante y puede ser capturada en una frase simple.",
-      "category": "Desastres naturales",
-      "matched_archetype": "shocking_image_or_video",
-      "candidate_tickers": [
-        "VEN",
-        "TERREMOTOS",
-        "DESTRUCCION",
-        "VENZUELA"
-      ],
-      "key_terms_for_dex_search": [
-        "VEN",
-        "TERREMOTOS",
-        "DESTRUCCION",
-        "VENZUELA"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T15:57:16.734034+00:00",
-      "expires_at": "2026-06-30T15:57:16.734034+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "VEN",
-        "name": "VEN AI",
-        "mint": "8cgLWkoHDVhxtWRUyQepVLuiFubkWQ8xxbzJncr4pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 29907.0,
-        "liquidity_usd": 13070.82,
-        "price_usd": 2.99e-05,
-        "volume_h24": 6344.18,
-        "volume_h1": 113.13,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -2.84,
-        "price_change_24h": 2.05,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 6,
-        "created_ts": 1780690132000,
-        "pair_created_at": 1780690132000,
-        "url": "https://dexscreener.com/solana/8wauzashzhk6dbexu6ww62szad3hqqwsmctway9ehqvq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: VEN==VEN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Satellite images show scale of destruction in Venezuela earthquakes",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-28T15:59:43.852768+00:00"
-    },
-    {
-      "id": "1e02ee4da584",
-      "fingerprint": "1e02ee4da584",
-      "narrative_summary": "Ucrania ataca dos refinerías de petróleo rusas durante la noche.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un título que se puede capturar fácilmente.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "RUSIA",
-        "REFINERÍAS",
-        "PETROLEO"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Rusia",
-        "Refinerías",
-        "Petroleo"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T15:58:08.673433+00:00",
-      "expires_at": "2026-06-30T15:58:08.673433+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine hits two Russian oil refineries overnight - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-30T19:23:44.616917+00:00"
-    },
-    {
       "id": "6a3d253e6373",
       "fingerprint": "6a3d253e6373",
       "narrative_summary": "Elon Musk propone el nombre 'AIAIAI' para la autoridad reguladora de la industria de inteligencia artificial en Estados Unidos.",
@@ -9733,7 +9425,7 @@
       "started_at": "2026-07-11T07:01:15.526042+00:00",
       "expires_at": "2026-07-14T07:01:15.526042+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "/smg/ - stock market general",
       "cluster_sources": [
@@ -9741,7 +9433,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-14T10:21:44.372327+00:00"
     },
     {
       "id": "6ff16de0e2c2",
@@ -9779,14 +9472,15 @@
       "started_at": "2026-07-11T07:01:57.320050+00:00",
       "expires_at": "2026-07-14T07:01:57.320050+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ann Widdecombe murder probe: What we know so far",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-14T10:21:44.372341+00:00"
     },
     {
       "id": "3d6a138d2cde",
@@ -10088,7 +9782,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "17111659bedf",
@@ -10344,7 +10038,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "2cec96918e8e",
@@ -10509,7 +10203,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "445f084c34cc",
@@ -10663,13 +10357,14 @@
       "started_at": "2026-07-12T06:52:26.892346+00:00",
       "expires_at": "2026-07-14T06:52:26.892346+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-14T10:21:44.372346+00:00"
     },
     {
       "id": "e5e663873b82",
@@ -10886,7 +10581,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "8938de856c2b",
@@ -10932,7 +10627,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "3656a311c83b",
@@ -10977,7 +10672,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "fcf9690695f8",
@@ -11092,7 +10787,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "a0f00682f544",
@@ -11138,7 +10833,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "6116bf8f0f7e",
@@ -11183,7 +10878,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "263a5892dda8",
@@ -11229,7 +10924,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "09978f103e23",
@@ -11344,7 +11039,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "10e66fef0861",
@@ -11389,7 +11084,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e1d6fe5c8532",
@@ -11433,7 +11128,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cf0e70d4ad0e",
@@ -11480,7 +11175,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4c700c9346aa",
@@ -11525,7 +11220,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "85bd18feab77",
@@ -11568,7 +11263,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dbab66f4857d",
@@ -11613,7 +11308,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7313936acdf6",
@@ -11660,7 +11355,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "fec28eec3ad7",
@@ -11699,13 +11394,40 @@
       "started_at": "2026-07-14T06:02:49.075031+00:00",
       "expires_at": "2026-07-17T06:02:49.075031+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Trump Coin",
+        "name": "Trump Coin",
+        "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 182239.0,
+        "liquidity_usd": 41049.96,
+        "price_usd": 0.0001822,
+        "volume_h24": 2213439.37,
+        "volume_h1": 56721.58,
+        "volume_m5": 2378.95,
+        "price_change_5m": 11.01,
+        "price_change_1h": -8.12,
+        "price_change_24h": 506.0,
+        "txns_h1_buys": 645,
+        "txns_h1_sells": 409,
+        "created_ts": 1784005895000,
+        "pair_created_at": 1784005895000,
+        "url": "https://dexscreener.com/solana/2psxkigencxfqhibbu1iscuyhvevajbnpspkpqqpu8vv",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRU in TRUMP COIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Literally true",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-14T10:26:36.794217+00:00"
     },
     {
       "id": "8b6217446e46",
@@ -11749,8 +11471,185 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "1c76d39e6f69",
+      "fingerprint": "1c76d39e6f69",
+      "narrative_summary": "Jon Stewart se burla de la foto de recuperación de Mitch McConnell",
+      "why_memeable": "La frase 'Jon Stewart se burla de la foto de recuperación de Mitch McConnell' es fácil de recordar y compartir, y tiene un claro núcleo de humor y crítica política.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JONVSMITCH",
+        "STEWARTVSMCCONNELL",
+        "MOCKINGMCCONNELL"
+      ],
+      "key_terms_for_dex_search": [
+        "JonStewart",
+        "MitchMcConnell",
+        "política",
+        "humor",
+        "crítica"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-07-14T10:23:53.231972+00:00",
+      "expires_at": "2026-07-16T10:23:53.231972+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2c33f05742a3",
+      "fingerprint": "2c33f05742a3",
+      "narrative_summary": "El actor Sam Neill, conocido por su papel en 'Jurassic Park', ha fallecido a los 78 años.",
+      "why_memeable": "La muerte de un actor famoso y la asociación con una película icónica como 'Jurassic Park' hacen que la narrativa sea muy memeable.",
+      "category": "Muerte de un actor famoso",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SAM_NEIL",
+        "JURASSIC_PARK",
+        "NEILL"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "muerte"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T10:24:29.852876+00:00",
+      "expires_at": "2026-07-16T10:24:29.852876+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "0fa74a3cc962",
+      "fingerprint": "0fa74a3cc962",
+      "narrative_summary": "Elon Musk comparte dos títulos que literalmente son verdaderos, generando un gran interés en las redes sociales.",
+      "why_memeable": "La simplicidad y la claridad de los títulos 'True' y 'Literally true' hacen que sean fáciles de recordar y compartir.",
+      "category": "humor y ironía",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "LITERALLYTRUE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELONMUSK",
+        "TRUE",
+        "LITERALLYTRUE"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 3,
+        "polarizing": 2,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-14T10:25:34.477308+00:00",
+      "expires_at": "2026-07-16T10:25:34.477308+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Literally true",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "32a9074c7b6c",
+      "fingerprint": "32a9074c7b6c",
+      "narrative_summary": "Elon Musk critica a la 'mob woke' que ha transformado a Twitter en un lugar hostil.",
+      "why_memeable": "La frase es breve y fácil de recordar, y el uso de 'Wormtongue' es un juego de palabras que atrae la atención.",
+      "category": "Política y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WORMTONGUE",
+        "WOKEMOB",
+        "TWITTERTAKEDOWN"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "WokeMob",
+        "Wormtongue"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-14T10:26:17.837681+00:00",
+      "expires_at": "2026-07-16T10:26:17.837681+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The woke mob had turned Twitter into Wormtongue to the World",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-14T06:03:35.151316+00:00"
+  "last_updated": "2026-07-14T10:26:36.794236+00:00"
 }

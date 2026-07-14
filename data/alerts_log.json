@@ -1,61 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T05:19:42.813586+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1f467f51b3d2",
-        "ticker": "ISOR",
-        "mint": "3twLAdLHgkuxBE6WnAeJgeUfdZ5MDz44pW2rSYPApump",
-        "mc": 397538.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:45.127360+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5416c56f226c",
-        "ticker": "GDP",
-        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
-        "mc": 119823.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:52.673922+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ba23d4807f45",
-        "ticker": "COMPUTE",
-        "mint": "AfV8U7ZSbdg4ZM5xZ2P9vbrfX3NmEBSDYNNuBriQpump",
-        "mc": 37624.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:58.540834+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e533f32a7f4d",
-        "ticker": "OPAI",
-        "mint": "3bGdt75UBdXcCenjdig26ZFQTSzWsKrvG8mFEbSJpump",
-        "mc": 71830.0
-      }
-    },
-    {
-      "ts": "2026-06-02T09:46:55.859418+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política española",
-        "title": "¿Feijóo en Waterloo? La sorprendente condición de Turull para una moción de censura - Andalucía Información",
-        "candidate_tickers": [
-          "Feijóo",
-          "Junts",
-          "PNV",
-          "Waterloo"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T13:06:55.284527+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28170,6 +28115,76 @@
           "KILLERHUNT",
           "BRITISHBACKPACKER"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-14T10:23:53.675382+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1c76d39e6f69",
+        "score": 90,
+        "category": "política",
+        "title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times",
+        "candidate_tickers": [
+          "JONVSMITCH",
+          "STEWARTVSMCCONNELL",
+          "MOCKINGMCCONNELL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T10:24:30.351062+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c33f05742a3",
+        "score": 89,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAM_NEIL",
+          "JURASSIC_PARK",
+          "NEILL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T10:25:34.923862+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0fa74a3cc962",
+        "score": 82,
+        "category": "humor y ironía",
+        "title": "Literally true",
+        "candidate_tickers": [
+          "TRUE",
+          "LITERALLYTRUE",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T10:26:18.241636+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32a9074c7b6c",
+        "score": 83,
+        "category": "Política y tecnología",
+        "title": "The woke mob had turned Twitter into Wormtongue to the World",
+        "candidate_tickers": [
+          "WORMTONGUE",
+          "WOKEMOB",
+          "TWITTERTAKEDOWN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T10:26:36.800961+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fec28eec3ad7",
+        "ticker": "Trump Coin",
+        "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
+        "mc": 182239.0
       }
     }
   ]
