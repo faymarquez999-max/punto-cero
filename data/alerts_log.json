@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T17:56:37.812773+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "906f4a2ffa58",
-        "score": 80,
-        "category": "Tecnología y celebridades",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:57:00.113145+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "tech",
-        "title": "Yes, they did",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:57:27.808262+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tendencia viral en Twitter",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:58:01.039747+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dc06d260d845",
-        "ticker": "Hopecoin",
-        "mint": "32QLaTnrQAfeLjTHwXEztvGzKUr1i3M14mGuQy88AtGz",
-        "mc": 27096.0
-      }
-    },
-    {
-      "ts": "2026-06-02T17:58:04.734910+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "368b07a12c5f",
-        "ticker": "FINALS",
-        "mint": "27TYCzK2YYEYcAvpRGAcjofrK2gLgXwgeUpJS95npump",
-        "mc": 26107.0
-      }
-    },
-    {
-      "ts": "2026-06-02T17:58:07.734181+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f73adb4ded03",
-        "ticker": "PreSPAX",
-        "mint": "Dsx5h4jk8vyQjd8B9JF9cydNTz87KgPqUG2QCGH9PjCh",
-        "mc": 31840.0
-      }
-    },
-    {
       "ts": "2026-06-02T17:58:11.379255+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28179,6 +28107,91 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 328639.0
+      }
+    },
+    {
+      "ts": "2026-07-14T15:50:15.491274+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8be1b146a67e",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "GALLREIN2024",
+          "MAGAVERSUS",
+          "TRUMPFEUD",
+          "POLITICALENDORSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T15:50:29.168412+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7f27f3129862",
+        "score": 88,
+        "category": "salud",
+        "title": "True",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "EBOLAOUTBREAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T15:50:55.698280+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8dc8aa3a0265",
+        "score": 88,
+        "category": "política",
+        "title": "After Lindsey Graham’s sudden death, conspiracy theories swirl online - The Washington Post",
+        "candidate_tickers": [
+          "GRAHAMDIED",
+          "CONSPIRACIÓNGRAHAM",
+          "MUERTEGRAHAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T15:52:36.718596+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4c63e443b03b",
+        "score": 90,
+        "category": "negocios, política",
+        "title": "Warren Buffett stops Gates Foundation donations following Epstein revelations - Reuters",
+        "candidate_tickers": [
+          "BUFFETTCORTAGATES",
+          "EPSTEINSCANDAL",
+          "WARRENBUFFETT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T15:53:41.552141+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "Diversidad y derechos humanos",
+        "title": "International Non-Binary People’s Day",
+        "candidate_tickers": [
+          "NBPD",
+          "NonBinaryDay"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T15:55:17.191749+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7f27f3129862",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 89525.0
       }
     }
   ]

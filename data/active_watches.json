@@ -1,281 +1,6 @@
 {
   "watches": [
     {
-      "id": "a223ad2fddf1",
-      "fingerprint": "a223ad2fddf1",
-      "narrative_summary": "Conflictos entre Estados Unidos e Irán después de una serie de ataques y contraataques.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre dos potencias mundiales, lo que la hace fácilmente compartible y recordable.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "US",
-        "ATTACK",
-        "CONFLICTO"
-      ],
-      "key_terms_for_dex_search": [
-        "IRAN",
-        "US",
-        "CONFLICTO",
-        "ATTACK"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T21:43:30.684141+00:00",
-      "expires_at": "2026-06-30T21:43:30.684141+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 212250.0,
-        "liquidity_usd": 66510.09,
-        "price_usd": 2.122e-06,
-        "volume_h24": 57450.38,
-        "volume_h1": 57450.38,
-        "volume_m5": 105.03,
-        "price_change_5m": 0.82,
-        "price_change_1h": 57.33,
-        "price_change_24h": 57.33,
-        "txns_h1_buys": 1252,
-        "txns_h1_sells": 44,
-        "created_ts": 1782751604000,
-        "pair_created_at": 1782751604000,
-        "url": "https://dexscreener.com/solana/9qdudws6tw4bjt9nhf2zlbyyunhwejwdwtsohmspthnc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "FOUR MONTHS AFTER U.S.-ISRAEL STRIKES ON IRAN, ISRAELI LEADERS WHO ONCE ENVISIONED A NEW GOLDEN ERA ARE NOW PREPARING TO STAND MORE INDEPENDENTLY AS TRUMP'S AMERICA FIRST APPROACH STRIPS ISRAEL OF ITS SPECIAL EXCEPTION STATUS - POLITICO",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T17:02:39.115677+00:00"
-    },
-    {
-      "id": "b9a3311eae7b",
-      "fingerprint": "b9a3311eae7b",
-      "narrative_summary": "Hallazgo de 117 perros muertos en un refugio animal de California, lo que ha generado un escándalo.",
-      "why_memeable": "La narrativa es memeable porque involucra un escándalo de abuso animal, lo que es un tema sensible y controvertido. La imagen de los perros muertos también es impactante y puede ser compartida fácilmente.",
-      "category": "Abuso animal",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERRITOSMUERTOS",
-        "REFUGIOABUSIVO"
-      ],
-      "key_terms_for_dex_search": [
-        "perros muertos",
-        "refugio animal",
-        "abuso animal"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T21:44:02.251417+00:00",
-      "expires_at": "2026-07-01T21:44:02.251417+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-02T07:53:08.034771+00:00"
-    },
-    {
-      "id": "8a7b1d22b18b",
-      "fingerprint": "8a7b1d22b18b",
-      "narrative_summary": "Elon Musk afirma que ganar en mercados de cero-suma es 'malvado'.",
-      "why_memeable": "La frase es corta y provocativa, generando polarización y debate.",
-      "category": "Finanzas, ética, debate",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "YES",
-        "ZEROSUM",
-        "ELONWIN"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "zeroum",
-        "trading",
-        "evil",
-        "winning"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T21:45:06.195202+00:00",
-      "expires_at": "2026-06-30T21:45:06.195202+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SON",
-        "name": "Are Ya Winning, Son?",
-        "mint": "21d2GQJLt6Wd8oKXHtqx2AvZ9XW2iXBPaUT7LvGWbonk",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 20809.0,
-        "liquidity_usd": 8601.37,
-        "price_usd": 2.08e-05,
-        "volume_h24": 67400.94,
-        "volume_h1": 16743.79,
-        "volume_m5": 669.65,
-        "price_change_5m": 6.2,
-        "price_change_1h": 12.44,
-        "price_change_24h": 110.0,
-        "txns_h1_buys": 150,
-        "txns_h1_sells": 99,
-        "created_ts": 1782739093000,
-        "pair_created_at": 1782739093000,
-        "url": "https://dexscreener.com/solana/9x68zseksf5pwahfxodb3pb9zep9nzgr323wjmddhzno",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: WINNING in ARE YA WINNING, SON?",
-        "safety_score": 54074,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T17:02:43.088803+00:00"
-    },
-    {
-      "id": "e1e9c4795e7a",
-      "fingerprint": "e1e9c4795e7a",
-      "narrative_summary": "Israel destruye infraestructura subterránea de Hezbollah en el sur de Líbano, generando reacciones en la región.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Hezbollah, con implicaciones regionales y globales.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HEZ",
-        "ISRAEL",
-        "LÍBANO",
-        "HEZBOLLAH"
-      ],
-      "key_terms_for_dex_search": [
-        "Hezbollah",
-        "Israel",
-        "Líbano",
-        "conflicto internacional"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T21:45:40.026368+00:00",
-      "expires_at": "2026-07-01T21:45:40.026368+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-02T07:53:08.034784+00:00"
-    },
-    {
       "id": "16e411dba14d",
       "fingerprint": "16e411dba14d",
       "narrative_summary": "3 bomberos muertos y 2 heridos mientras luchaban contra incendios forestales en la frontera de Colorado-Utah.",
@@ -9922,7 +9647,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "2cec96918e8e",
@@ -10087,7 +9812,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "445f084c34cc",
@@ -10721,7 +10446,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "6116bf8f0f7e",
@@ -10766,7 +10491,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "263a5892dda8",
@@ -10812,7 +10537,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "09978f103e23",
@@ -10927,7 +10652,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "10e66fef0861",
@@ -10972,7 +10697,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "e1d6fe5c8532",
@@ -11016,7 +10741,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "cf0e70d4ad0e",
@@ -11063,7 +10788,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "4c700c9346aa",
@@ -11108,7 +10833,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "85bd18feab77",
@@ -11151,7 +10876,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dbab66f4857d",
@@ -11196,7 +10921,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7313936acdf6",
@@ -11243,7 +10968,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fec28eec3ad7",
@@ -11359,7 +11084,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1c76d39e6f69",
@@ -11405,7 +11130,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2c33f05742a3",
@@ -11449,7 +11174,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0fa74a3cc962",
@@ -11492,7 +11217,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "32a9074c7b6c",
@@ -11536,7 +11261,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d663acc7869f",
@@ -11582,7 +11307,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c397bb42edd5",
@@ -11653,7 +11378,218 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-14T14:13:11.005340+00:00"
+    },
+    {
+      "id": "8be1b146a67e",
+      "fingerprint": "8be1b146a67e",
+      "narrative_summary": "El ex presidente de EE.UU., Donald Trump, critica al congresista Thomas Massie y endosa a Ed Gallrein, generando una disputa política.",
+      "why_memeable": "La narrativa combina figuras políticas prominentes, un tema de disputa y una dosis de sorpresa, lo que puede generar un meme viral.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMASSIE",
+        "GALLREIN2024",
+        "MAGAVERSUS",
+        "TRUMPFEUD",
+        "POLITICALENDORSE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Massie",
+        "Gallrein",
+        "Endorsement",
+        "Feud"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-14T15:50:15.050795+00:00",
+      "expires_at": "2026-07-17T15:50:15.050795+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "7f27f3129862",
+      "fingerprint": "7f27f3129862",
+      "narrative_summary": "El Congo podría tener 4 veces más casos de Ebola de lo que se cree oficialmente, según la OMS.",
+      "why_memeable": "La narrativa es fácil de entender y tiene un claro mensaje de alerta.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLA",
+        "CONGO",
+        "EBOLAOUTBREAK"
+      ],
+      "key_terms_for_dex_search": [
+        "ebola",
+        "congo",
+        "outbreak"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T15:50:28.691148+00:00",
+      "expires_at": "2026-07-16T15:50:28.691148+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Ebola",
+        "name": "EbolaVirus",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 89525.0,
+        "liquidity_usd": 31798.6,
+        "price_usd": 8.958e-05,
+        "volume_h24": 7541.45,
+        "volume_h1": 53.28,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.22,
+        "price_change_24h": -1.28,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 2,
+        "created_ts": 1778831535000,
+        "pair_created_at": 1778831535000,
+        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: EBOLA==EBOLA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-14T15:55:17.184507+00:00"
+    },
+    {
+      "id": "8dc8aa3a0265",
+      "fingerprint": "8dc8aa3a0265",
+      "narrative_summary": "Muerte repentina de Lindsey Graham y teorías de conspiración en línea",
+      "why_memeable": "La muerte repentina de un político influyente y las teorías de conspiración que rodean su fallecimiento tienen un gran potencial de ser compartidos y discutidos en línea.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GRAHAMDIED",
+        "CONSPIRACIÓNGRAHAM",
+        "MUERTEGRAHAM"
+      ],
+      "key_terms_for_dex_search": [
+        "Lindsey Graham",
+        "muerte",
+        "conspiración"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T15:50:55.165983+00:00",
+      "expires_at": "2026-07-16T15:50:55.165983+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "After Lindsey Graham’s sudden death, conspiracy theories swirl online - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "4c63e443b03b",
+      "fingerprint": "4c63e443b03b",
+      "narrative_summary": "Warren Buffett corta donaciones a la Fundación Gates tras revelaciones sobre Epstein",
+      "why_memeable": "La noticia combina a figuras influyentes (Warren Buffett y Bill Gates) con un escándalo (Epstein) que genera interés y debate",
+      "category": "negocios, política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BUFFETTCORTAGATES",
+        "EPSTEINSCANDAL",
+        "WARRENBUFFETT"
+      ],
+      "key_terms_for_dex_search": [
+        "Warren Buffett",
+        "Bill Gates",
+        "Epstein",
+        "donaciones",
+        "Fundación Gates"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T15:52:36.265502+00:00",
+      "expires_at": "2026-07-17T15:52:36.265502+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Warren Buffett stops Gates Foundation donations following Epstein revelations - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-14T14:13:11.005353+00:00"
+  "last_updated": "2026-07-14T15:55:17.184528+00:00"
 }
