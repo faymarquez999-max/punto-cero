@@ -1,123 +1,6 @@
 {
   "watches": [
     {
-      "id": "6a3d253e6373",
-      "fingerprint": "6a3d253e6373",
-      "narrative_summary": "Elon Musk propone el nombre 'AIAIAI' para la autoridad reguladora de la industria de inteligencia artificial en Estados Unidos.",
-      "why_memeable": "La propuesta de nombre 'AIAIAI' es absurda y fácil de recordar, lo que la hace memeable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "AIAIAI",
-        "AIREGULATOR",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "AIAIAI",
-        "ElonMusk",
-        "AIRegulator"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T15:59:05.366934+00:00",
-      "expires_at": "2026-06-30T15:59:05.366934+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "AIAIAI",
-        "name": "AIAssociatedInstituteofAmerica",
-        "mint": "AVPJS61gZmWKtaEpb7qYPKo8Fk2xQUsayYQxPiPMpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14289.0,
-        "liquidity_usd": 11249.39,
-        "price_usd": 1.635e-05,
-        "volume_h24": 28626.75,
-        "volume_h1": 1817.03,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -27.31,
-        "price_change_24h": -36.03,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 15,
-        "created_ts": 1782371663000,
-        "pair_created_at": 1782371663000,
-        "url": "https://dexscreener.com/solana/46ihtqjkskmdic66vextecoyukoa82t5ycg86c7e9rqk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: AIAIAI==AIAIAI",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Potential name for the AI industry regulatory authority:",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-29T17:02:35.937716+00:00"
-    },
-    {
-      "id": "e46a1ebc322a",
-      "fingerprint": "e46a1ebc322a",
-      "narrative_summary": "El documental 'Melania' puede llegar a ganar $8 millones en la taquilla, lo que sería el mejor desempeño en una década para un documental.",
-      "why_memeable": "La narrativa tiene un título memorable y un número de dinero significativo ($8 millones) que puede ser compartido fácilmente.",
-      "category": "entretenimiento",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "MELANIA",
-        "TAQUILLA",
-        "DOCUMENTAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Melania",
-        "Taquilla",
-        "Documental",
-        "Box Office"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T17:23:43.880342+00:00",
-      "expires_at": "2026-06-30T17:23:43.880342+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-06-30T19:23:44.616921+00:00"
-    },
-    {
       "id": "a223ad2fddf1",
       "fingerprint": "a223ad2fddf1",
       "narrative_summary": "Conflictos entre Estados Unidos e Irán después de una serie de ataques y contraataques.",
@@ -9776,13 +9659,14 @@
       "started_at": "2026-07-11T12:45:13.475467+00:00",
       "expires_at": "2026-07-14T12:45:13.475467+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds - Reuters",
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-14T14:07:33.955317+00:00"
     },
     {
       "id": "17111659bedf",
@@ -10038,7 +9922,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "2cec96918e8e",
@@ -10203,7 +10087,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "445f084c34cc",
@@ -10575,13 +10459,14 @@
       "started_at": "2026-07-12T10:50:31.047277+00:00",
       "expires_at": "2026-07-14T10:50:31.047277+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "An Elvis dummy and a Gulfstream jet: Fat Leonard reveals how he fled the U.S. - The Washington Post",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-14T14:07:33.955338+00:00"
     },
     {
       "id": "8938de856c2b",
@@ -10620,14 +10505,15 @@
       "started_at": "2026-07-12T13:44:06.379801+00:00",
       "expires_at": "2026-07-14T13:44:06.379801+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Muere el exemir de Qatar, Hamad bin Khalifa Al Thani, a los 74 años - ABC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-14T14:07:33.955344+00:00"
     },
     {
       "id": "3656a311c83b",
@@ -10665,14 +10551,15 @@
       "started_at": "2026-07-12T13:45:28.336545+00:00",
       "expires_at": "2026-07-14T13:45:28.336545+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-14T14:07:33.955348+00:00"
     },
     {
       "id": "fcf9690695f8",
@@ -10780,14 +10667,15 @@
       "started_at": "2026-07-12T13:46:43.419987+00:00",
       "expires_at": "2026-07-14T13:46:43.419987+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "South China Sea joint statement says China's maritime claims have no basis - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-14T14:07:33.955353+00:00"
     },
     {
       "id": "a0f00682f544",
@@ -10833,7 +10721,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "6116bf8f0f7e",
@@ -10878,7 +10766,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "263a5892dda8",
@@ -10924,7 +10812,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "09978f103e23",
@@ -11039,7 +10927,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "10e66fef0861",
@@ -11084,7 +10972,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e1d6fe5c8532",
@@ -11128,7 +11016,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "cf0e70d4ad0e",
@@ -11175,7 +11063,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4c700c9346aa",
@@ -11220,7 +11108,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "85bd18feab77",
@@ -11263,7 +11151,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dbab66f4857d",
@@ -11308,7 +11196,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7313936acdf6",
@@ -11355,7 +11243,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "fec28eec3ad7",
@@ -11471,7 +11359,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1c76d39e6f69",
@@ -11517,7 +11405,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2c33f05742a3",
@@ -11561,7 +11449,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0fa74a3cc962",
@@ -11604,7 +11492,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "32a9074c7b6c",
@@ -11648,8 +11536,124 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "d663acc7869f",
+      "fingerprint": "d663acc7869f",
+      "narrative_summary": "Trump endosa a un político en el pasado, ahora lo llama 'el peor congresista de la historia'.",
+      "why_memeable": "La frase de Trump es breve y fácil de compartir, y la situación es absurda y polémica.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_ENDOSA",
+        "PEOR_CONGRESISTA",
+        "TRUMP_POLITICA"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "PEOR_CONGRESISTA",
+        "ENDOSA"
+      ],
+      "score": 78,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T14:07:54.336564+00:00",
+      "expires_at": "2026-07-16T14:07:54.336564+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "c397bb42edd5",
+      "fingerprint": "c397bb42edd5",
+      "narrative_summary": "Elon Musk admite la verdad",
+      "why_memeable": "La frase 'literally true' es fácil de recordar y se puede capturar en una imagen.",
+      "category": "humor y tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ELON",
+        "LITERALLYTRUE",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "literally true",
+        "meme"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 9,
+        "visual": 1,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T14:09:17.089157+00:00",
+      "expires_at": "2026-07-16T14:09:17.089157+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 328639.0,
+        "liquidity_usd": 99086.66,
+        "price_usd": 0.0003287,
+        "volume_h24": 49969.6,
+        "volume_h1": 1586.57,
+        "volume_m5": 313.54,
+        "price_change_5m": -1.33,
+        "price_change_1h": -0.88,
+        "price_change_24h": 1.33,
+        "txns_h1_buys": 16,
+        "txns_h1_sells": 9,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Literally true",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-14T14:13:11.005340+00:00"
     }
   ],
-  "last_updated": "2026-07-14T10:26:36.794236+00:00"
+  "last_updated": "2026-07-14T14:13:11.005353+00:00"
 }

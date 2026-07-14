@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T17:53:33.285898+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política internacional",
-        "title": "Rubio: The war in Iran is over",
-        "candidate_tickers": [
-          "RUBIO",
-          "IRANPEACE",
-          "USIRAN",
-          "SANCTIONS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:54:12.609922+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "368b07a12c5f",
-        "score": 80,
-        "category": "Entretenimiento",
-        "title": "Zendaya says goodbye to Rue and ‘Euphoria.’",
-        "candidate_tickers": [
-          "RUEBYE",
-          "EUPHORIA",
-          "ZENDAYA",
-          "SERIEFIN",
-          "RUEFINAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:55:03.606531+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f73adb4ded03",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say - Reuters",
-        "candidate_tickers": [
-          "$175BSPAC",
-          "SPACIPO",
-          "GREENSPOON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:55:39.102423+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Deportes",
-        "title": "Scotland legend Sir Kenny Dalglish undergoing treatment for cancer",
-        "candidate_tickers": [
-          "DalglishCancer",
-          "KennyDalglishCancer"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T17:56:08.973910+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b3677228e2de",
-        "score": 80,
-        "category": "tech",
-        "title": "It’s over",
-        "candidate_tickers": [
-          "ITS_OVER",
-          "OVER"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T17:56:37.812773+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28187,6 +28113,72 @@
           "Ebola_Strike",
           "Salud_en_Crisis"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-14T14:07:54.712964+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d663acc7869f",
+        "score": 78,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMP_ENDOSA",
+          "PEOR_CONGRESISTA",
+          "TRUMP_POLITICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T14:08:48.141592+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "TRUMP_POLL",
+          "POLL_STORM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T14:09:17.554934+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c397bb42edd5",
+        "score": 74,
+        "category": "humor y tecnología",
+        "title": "Literally true",
+        "candidate_tickers": [
+          "ELON",
+          "LITERALLYTRUE",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T14:09:46.080658+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "XCANCEL",
+          "TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T14:13:11.014623+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c397bb42edd5",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 328639.0
       }
     }
   ]
