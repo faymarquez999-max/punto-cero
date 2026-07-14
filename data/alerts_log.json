@@ -1,62 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T17:58:11.379255+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "906f4a2ffa58",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 394058.0
-      }
-    },
-    {
-      "ts": "2026-06-02T21:21:46.865210+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e9070c5d0b41",
-        "score": 89,
-        "category": "política y justicia",
-        "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
-        "candidate_tickers": [
-          "HENRYNOWAK",
-          "POLICÍARACISTA",
-          "JUSTICIAPARAHENRY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T21:23:08.442047+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3e23e7dc22ad",
-        "score": 80,
-        "category": "conflicto internacional",
-        "title": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
-        "candidate_tickers": [
-          "GAZA",
-          "ISRAEL",
-          "EID",
-          "PALESTINA",
-          "CONFLICTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T21:24:25.707012+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias",
-        "title": "UK police under pressure after dying student was handcuffed - Reuters",
-        "candidate_tickers": [
-          "EstudianteEspanol",
-          "PoliciaReinoUnido",
-          "PresionPolicia"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T21:24:59.432363+00:00",
       "kind": "shadow",
       "payload": {
@@ -28192,6 +28136,61 @@
         "ticker": "Ebola",
         "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
         "mc": 89525.0
+      }
+    },
+    {
+      "ts": "2026-07-14T17:23:36.460106+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f86c5377320f",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "BADCONGRESS",
+          "TRUMPENDORSE",
+          "MASSIEGATE",
+          "TRUMPFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T17:25:41.899735+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política, Twitter",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "XCancel",
+          "realDonaldTrump"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T17:26:07.855184+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a40cd0f39826",
+        "score": 85,
+        "category": "Tecnología, Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T17:28:54.312392+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a40cd0f39826",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 323960.0
       }
     }
   ]
