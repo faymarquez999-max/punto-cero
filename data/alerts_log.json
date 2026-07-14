@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T05:19:32.325229+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f3bdf96bcb9d",
-        "ticker": "BORG",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "mc": 37735.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:34.493312+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "904946ea5703",
-        "ticker": "GDP",
-        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
-        "mc": 119823.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:38.940440+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ab2f28a66381",
-        "ticker": "GDP",
-        "mint": "D4qyaBceTkTu4MCtE4pGTidtbFsLYFdEHXA4Hi5ypump",
-        "mc": 119823.0
-      }
-    },
-    {
       "ts": "2026-06-02T05:19:42.813586+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28153,6 +28123,53 @@
         "ticker": "Trump Coin",
         "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
         "mc": 101688.0
+      }
+    },
+    {
+      "ts": "2026-07-14T08:26:41.339930+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b5653282f9ed",
+        "score": 80,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "BADCONGRESS",
+          "TRUMPFEUD",
+          "MASSIEGATE",
+          "TRUMPLEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T08:29:37.879359+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fa4130071761",
+        "score": 90,
+        "category": "política",
+        "title": "China Expels Former Politburo Member Over Graft and Sex Charges - Bloomberg.com",
+        "candidate_tickers": [
+          "CHINACORRUPCIÓN",
+          "POLITBUROEXPULSADO",
+          "GRAFTGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T08:31:01.423251+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0019d9c0642e",
+        "score": 80,
+        "category": "asesinato, política, investigación",
+        "title": "The Papers:  'New twist in killer hunt' and 'One of a kind Ann'",
+        "candidate_tickers": [
+          "ANNWIDDECOMBE",
+          "KILLERHUNT",
+          "BRITISHBACKPACKER"
+        ]
       }
     }
   ]
