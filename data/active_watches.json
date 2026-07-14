@@ -1,85 +1,6 @@
 {
   "watches": [
     {
-      "id": "393e2fe86a9f",
-      "fingerprint": "393e2fe86a9f",
-      "narrative_summary": "Elon Musk publica un tweet simple pero muy viral con la palabra 'yes' y recibe una gran cantidad de engagement.",
-      "why_memeable": "La simplicidad y la polarización de la respuesta de Elon Musk hacen que sea muy memeable.",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YESMUSK",
-        "MUSKYES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-28T14:22:10.137167+00:00",
-      "expires_at": "2026-06-30T14:22:10.137167+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26586.0,
-        "liquidity_usd": 26828.61,
-        "price_usd": 2.658e-05,
-        "volume_h24": 343189.65,
-        "volume_h1": 343189.65,
-        "volume_m5": 37138.47,
-        "price_change_5m": -9.21,
-        "price_change_1h": 321.0,
-        "price_change_24h": 321.0,
-        "txns_h1_buys": 2876,
-        "txns_h1_sells": 643,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-06-30T06:26:21.737731+00:00"
-    },
-    {
       "id": "2c84f298e479",
       "fingerprint": "2c84f298e479",
       "narrative_summary": "Un 21-año afghano acusado de abusar sexualmente a 4 niñas de 12 a 14 años en un balneario en Alemania.",
@@ -9918,7 +9839,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "6ff16de0e2c2",
@@ -9963,7 +9884,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "3d6a138d2cde",
@@ -10265,7 +10186,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "17111659bedf",
@@ -10520,7 +10441,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "2cec96918e8e",
@@ -10639,7 +10560,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "2ee57affea65",
@@ -10684,7 +10605,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "445f084c34cc",
@@ -10732,7 +10653,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "a5a0c6ae3e2a",
@@ -10843,7 +10764,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "e5e663873b82",
@@ -11060,7 +10981,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "8938de856c2b",
@@ -11106,7 +11027,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "3656a311c83b",
@@ -11151,7 +11072,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "fcf9690695f8",
@@ -11266,7 +11187,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "a0f00682f544",
@@ -11312,7 +11233,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6116bf8f0f7e",
@@ -11357,7 +11278,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "263a5892dda8",
@@ -11403,7 +11324,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "09978f103e23",
@@ -11441,13 +11362,40 @@
       "started_at": "2026-07-13T04:11:46.392104+00:00",
       "expires_at": "2026-07-15T04:11:46.392104+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 42521.0,
+        "liquidity_usd": 16825.5,
+        "price_usd": 4.252e-05,
+        "volume_h24": 18646.09,
+        "volume_h1": 16391.04,
+        "volume_m5": 711.84,
+        "price_change_5m": -9.3,
+        "price_change_1h": 183.0,
+        "price_change_24h": 214.0,
+        "txns_h1_buys": 143,
+        "txns_h1_sells": 94,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ICE==ICE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Big turnout at Suffolk ICE Protest after video of arrest goes viral - WAVY.com",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-07-14T00:18:28.846799+00:00"
     },
     {
       "id": "39ae7db41ce4",
@@ -11491,7 +11439,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "10e66fef0861",
@@ -11536,7 +11484,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e1d6fe5c8532",
@@ -11580,7 +11528,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cf0e70d4ad0e",
@@ -11627,7 +11575,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4c700c9346aa",
@@ -11672,7 +11620,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "85bd18feab77",
@@ -11715,7 +11663,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "dbab66f4857d",
@@ -11760,8 +11708,55 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
+    },
+    {
+      "id": "7313936acdf6",
+      "fingerprint": "7313936acdf6",
+      "narrative_summary": "El presidente Trump anuncia nuevas acciones contra Irán después de un ataque a tanques en el Golfo Pérsico.",
+      "why_memeable": "La narrativa tiene un tema de conflicto internacional y un personaje clave (Trump) que genera interés.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "TRUMP",
+        "GOLFO PÉRSICO"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "TRUMP",
+        "GOLFO PÉRSICO",
+        "ATAQUE",
+        "CONFLICTO INTERNACIONAL"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-14T00:13:58.922724+00:00",
+      "expires_at": "2026-07-16T00:13:58.922724+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-13T21:07:49.798544+00:00"
+  "last_updated": "2026-07-14T00:18:28.846816+00:00"
 }

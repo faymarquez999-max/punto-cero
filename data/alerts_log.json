@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T00:26:37.775389+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6e1e0c628a86",
-        "ticker": "BORG",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "mc": 33687.0
-      }
-    },
-    {
-      "ts": "2026-06-02T00:26:40.444995+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8faa8d1e1d6b",
-        "ticker": "BORG",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "mc": 33687.0
-      }
-    },
-    {
-      "ts": "2026-06-02T00:27:03.480814+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f3bdf96bcb9d",
-        "ticker": "BORG",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "mc": 33687.0
-      }
-    },
-    {
-      "ts": "2026-06-02T05:15:23.840513+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a92da6e1b158",
-        "score": 80,
-        "category": "Noticias de actualidad",
-        "title": "A Google image search of “white mother” returns images of white women with only black children.",
-        "candidate_tickers": [
-          "POLICEBRUTALITY",
-          "VIRALVIDEO",
-          "JUSTICIA",
-          "POLICIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T05:16:44.178371+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28147,6 +28101,60 @@
           "YouTubeInjusticia",
           "TrastornosAlimentariosEnRiesgo"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-14T00:13:32.919196+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "politica",
+        "title": "‘Fruit Gathering’ Review: A Factory Worker Falls for Her Female Colleague in a Delicate Burmese Debut",
+        "candidate_tickers": [
+          "LINDSEY",
+          "DARLINE",
+          "TRUMP",
+          "SENADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T00:13:59.307192+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7313936acdf6",
+        "score": 70,
+        "category": "política internacional",
+        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+        "candidate_tickers": [
+          "IRAN",
+          "TRUMP",
+          "GOLFO PÉRSICO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T00:14:37.274811+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Noticias de terrorismo y política",
+        "title": "The Papers:  'New twist in killer hunt' and 'One of a kind Ann'",
+        "candidate_tickers": [
+          "Widdecombe",
+          "Terrorismo",
+          "Arrestos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T00:18:28.856252+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09978f103e23",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 42521.0
       }
     }
   ]
