@@ -1,77 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T13:06:55.284527+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d9f7bd513324",
-        "score": 88,
-        "category": "crimen y violencia",
-        "title": "All accessories to the murder must go to prison for a long time",
-        "candidate_tickers": [
-          "IOWA",
-          "FAMILIA",
-          "MURDER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T13:07:41.360411+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "277a7c4cc3d8",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Scotland legend Sir Kenny Dalglish undergoing treatment for cancer",
-        "candidate_tickers": [
-          "DALGLISHCANCER",
-          "KENNYDALGLISHCANCER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T13:08:50.971340+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2b817941ae51",
-        "score": 85,
-        "category": "celebridad/tweet viral",
-        "title": "RAGE",
-        "candidate_tickers": [
-          "RAGE",
-          "ELONRAGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T13:09:19.063617+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "ELONYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T13:11:20.039265+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "011e959f8a27",
-        "score": 82,
-        "category": "Asesinato policial",
-        "title": "Murdered student Henry Nowak told police 'I can't breathe' while handcuffed",
-        "candidate_tickers": [
-          "HENRYNOWAK",
-          "POLICÍAASESINA",
-          "NOPUEDORESPIRAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T17:53:33.285898+00:00",
       "kind": "shadow",
       "payload": {
@@ -28185,6 +28114,79 @@
         "ticker": "Trump Coin",
         "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
         "mc": 182239.0
+      }
+    },
+    {
+      "ts": "2026-07-14T11:59:48.135518+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c03e110e8461",
+        "score": 92,
+        "category": "política",
+        "title": "The woke mob had turned Twitter into Wormtongue to the World",
+        "candidate_tickers": [
+          "TRUMPVSMUSK",
+          "TRUMPMUSK",
+          "MUSKVSTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T12:01:06.441327+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 61,
+        "category": "Deportes",
+        "title": "SpaceX was founded on one powerful belief:",
+        "candidate_tickers": [
+          "HaalandOso",
+          "OsoTaxidermizado",
+          "ErlingViral"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T12:01:52.100688+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "conflicto internacional",
+        "title": "AREAS IN IRAN'S ABADAN COUNTY AND MAHSHAHR WERE HIT BY U.S. PROJECTILES ON TUESDAY AFTERNOON - STATE MEDIA",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "GOLIATH",
+          "HORMUZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T12:03:36.543530+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias",
+        "title": "Blaze near Paris burns on as heatwave tightens across Europe - Reuters",
+        "candidate_tickers": [
+          "PARIS",
+          "BANGKOK",
+          "TRUMP",
+          "INCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T12:04:38.867777+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "salud",
+        "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+        "candidate_tickers": [
+          "DRC_Ebola",
+          "Ebola_Strike",
+          "Salud_en_Crisis"
+        ]
       }
     }
   ]
