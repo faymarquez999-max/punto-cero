@@ -1,54 +1,6 @@
 {
   "watches": [
     {
-      "id": "9cc7d1f4a918",
-      "fingerprint": "9cc7d1f4a918",
-      "narrative_summary": "Ejército de EE.UU. realiza ataques adicionales a Irán después de que este país atacara un barco comercial",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un núcleo fácilmente capturable en una frase corta.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "USVSIRAN",
-        "IRANATTACK",
-        "USSTRIKES"
-      ],
-      "key_terms_for_dex_search": [
-        "EE.UU.",
-        "Irán",
-        "ataque",
-        "barco comercial",
-        "injusticia"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T22:48:08.296909+00:00",
-      "expires_at": "2026-06-30T22:48:08.296909+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "U.S. CENTRAL COMMAND: U.S. FORCES CONDUCT ADDITIONAL STRIKES AFTER IRAN’S LATEST COMMERCIAL SHIP ATTACK",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-30T22:54:18.104310+00:00"
-    },
-    {
       "id": "56018ab6893b",
       "fingerprint": "56018ab6893b",
       "narrative_summary": "Pakistan confirma operación terrestre y ataques a lo largo de la frontera afgana, eliminando a 29 militantes",
@@ -11579,7 +11531,53 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-14T17:28:54.304713+00:00"
+    },
+    {
+      "id": "32b860f6841a",
+      "fingerprint": "32b860f6841a",
+      "narrative_summary": "Un esqueleto de T-Rex se vende por un récord de $50.1 millones en una subasta en Nueva York.",
+      "why_memeable": "La compra de un esqueleto de dinosaurio por un precio récord es un evento inusual y llamativo que puede ser capturado en una frase o imagen.",
+      "category": "Noticias de ciencia",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "TREX",
+        "DINOSAURIO",
+        "RECORD_DE_VENTA"
+      ],
+      "key_terms_for_dex_search": [
+        "T-Rex",
+        "esqueleto",
+        "subasta",
+        "récord",
+        "ciencia"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-14T22:20:33.618552+00:00",
+      "expires_at": "2026-07-17T22:20:33.618552+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Video: T. Rex Skeleton Sells for Record-Breaking $50.1 Million - The New York Times",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-14T17:28:54.304731+00:00"
+  "last_updated": "2026-07-14T22:20:33.618552+00:00"
 }
