@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T05:16:44.178371+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dc06d260d845",
-        "score": 88,
-        "category": "negocios",
-        "title": "Andrew Left Found Guilty in Case That Spooked Short Sellers - Yahoo Finance",
-        "candidate_tickers": [
-          "LEFT",
-          "FRAUD",
-          "CORTACIRCUITOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T05:17:45.764302+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
-        "candidate_tickers": [
-          "COLOMBIA",
-          "ESPRIELLA",
-          "CEPEDA",
-          "ELECCIONES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-02T05:18:19.701295+00:00",
       "kind": "shadow",
       "payload": {
@@ -28155,6 +28125,34 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 42521.0
+      }
+    },
+    {
+      "ts": "2026-07-14T03:40:50.767480+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "True.",
+        "candidate_tickers": [
+          "LindseyGraham",
+          "MuerteEnElSenado",
+          "SenadorMuerto"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T03:41:22.125141+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "economía",
+        "title": "Japan Exchange Group CEO: Personally believe the yen is much weaker than where it should be.",
+        "candidate_tickers": [
+          "yenweak",
+          "japanexchange",
+          "ceoyen"
+        ]
       }
     }
   ]
