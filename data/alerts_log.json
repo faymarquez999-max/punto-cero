@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-02T05:18:19.701295+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "finanzas",
-        "title": "Asia stocks slide as Middle East anxiety offsets AI optimism - Reuters",
-        "candidate_tickers": [
-          "OrienteMedio",
-          "Ansiedad",
-          "AI",
-          "Baja"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:19.452008+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e533f32a7f4d",
-        "score": 92,
-        "category": "Tecnología y Política",
-        "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-        "candidate_tickers": [
-          "CHATGPT",
-          "OPENAI",
-          "SAMALTMAN",
-          "MASASHOOTERS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-02T05:19:21.188813+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8faa8d1e1d6b",
-        "ticker": "BORG",
-        "mint": "5sCL8CRwjNU6KddpiUaibnnxBaUtntHC5oQHCrWdpump",
-        "mc": 37735.0
-      }
-    },
-    {
       "ts": "2026-06-02T05:19:32.325229+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28153,6 +28112,47 @@
           "japanexchange",
           "ceoyen"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-14T06:02:49.685686+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fec28eec3ad7",
+        "score": 82,
+        "category": "Celebridad en redes sociales",
+        "title": "Literally true",
+        "candidate_tickers": [
+          "LIT",
+          "TRU",
+          "MUSKTRUE",
+          "ELONLIT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T06:03:35.737870+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8b6217446e46",
+        "score": 83,
+        "category": "Política y Sociedad",
+        "title": "The woke mob had turned Twitter into Wormtongue to the World",
+        "candidate_tickers": [
+          "WORMTONGUE",
+          "WOKEMOB",
+          "TWITTERTAKEDOWN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-14T06:06:08.059802+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fec28eec3ad7",
+        "ticker": "Trump Coin",
+        "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
+        "mc": 101688.0
       }
     }
   ]
