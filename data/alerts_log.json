@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T22:59:25.424992+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "764bdc8eef34",
-        "score": 89,
-        "category": "Política y conflicto",
-        "title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city - The Guardian",
-        "candidate_tickers": [
-          "RUS_DAVOS",
-          "UKR_DROPS",
-          "ST_PETERSBURG"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T23:00:05.673491+00:00",
       "kind": "shadow",
       "payload": {
@@ -28192,6 +28177,20 @@
         "candidate_tickers": [
           "AncientTimes",
           "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T14:15:15.857477+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SamNeill",
+          "JurassicPark",
+          "ThePiano"
         ]
       }
     }

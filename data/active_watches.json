@@ -9697,13 +9697,14 @@
       "started_at": "2026-07-12T13:47:32.482407+00:00",
       "expires_at": "2026-07-15T13:47:32.482407+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Última hora sobre el incendio en Los Gallardos (Almería), en directo: Juanma Moreno anuncia que el incendio está estabilizado - Onda Cero",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-15T14:14:41.760427+00:00"
     },
     {
       "id": "6116bf8f0f7e",
@@ -9748,7 +9749,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "263a5892dda8",
@@ -9910,7 +9911,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "10e66fef0861",
@@ -9955,7 +9956,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "e1d6fe5c8532",
@@ -10039,7 +10040,7 @@
       "started_at": "2026-07-13T13:11:48.603917+00:00",
       "expires_at": "2026-07-15T13:11:48.603917+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
       "cluster_sources": [
@@ -10047,7 +10048,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-15T14:14:41.760443+00:00"
     },
     {
       "id": "4c700c9346aa",
@@ -10092,7 +10094,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "85bd18feab77",
@@ -10135,7 +10137,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "dbab66f4857d",
@@ -10180,7 +10182,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "7313936acdf6",
@@ -10227,7 +10229,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "fec28eec3ad7",
@@ -10343,7 +10345,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "1c76d39e6f69",
@@ -10389,7 +10391,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "2c33f05742a3",
@@ -10433,7 +10435,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "0fa74a3cc962",
@@ -10476,7 +10478,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "32a9074c7b6c",
@@ -10520,7 +10522,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "d663acc7869f",
@@ -10566,7 +10568,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c397bb42edd5",
@@ -10686,7 +10688,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "7f27f3129862",
@@ -10801,7 +10803,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "4c63e443b03b",
@@ -10847,7 +10849,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f86c5377320f",
@@ -10897,7 +10899,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a40cd0f39826",
@@ -11014,7 +11016,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b87d0d0d6f69",
@@ -11060,7 +11062,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9677fea854c4",
@@ -11182,7 +11184,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "05a123e4a895",
@@ -11230,7 +11232,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9d594b99d043",
@@ -11277,7 +11279,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6adee851d202",
@@ -11323,7 +11325,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "60dd8e35aac0",
@@ -11365,7 +11367,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "72d5d4be4cab",
@@ -11411,7 +11413,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "195b6465f7db",
