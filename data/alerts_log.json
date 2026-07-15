@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T06:55:48.872243+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ca0efc7bfcd1",
-        "ticker": "WERLD",
-        "mint": "DyMx8bQYFCw8Ng6qxT2zkNs9ijTm5W8wFoFj29v5pump",
-        "mc": 104225.0
-      }
-    },
-    {
-      "ts": "2026-06-04T06:55:57.162376+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9074f02cdae6",
-        "ticker": "ewok",
-        "mint": "2uhCxwxWTvsAS8VKB47dWQQU8GTDQhedJEzfjAz2pump",
-        "mc": 60677.0
-      }
-    },
-    {
       "ts": "2026-06-04T06:56:01.906699+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28206,6 +28186,30 @@
           "ARGWIN",
           "MUNDIAL2026"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-15T23:19:23.290174+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Showing more content from people you follow has been one of the fixes.",
+        "candidate_tickers": [
+          "KHALIL",
+          "TRUMP_CONSPIRACY",
+          "SPEECH_SUPPRESSION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T23:24:13.986682+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ca65f28a7299",
+        "ticker": "RIPTRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "mc": 179871.0
       }
     }
   ]
