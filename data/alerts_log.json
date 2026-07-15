@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T23:00:05.673491+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "L.A. Mayor Bass will face either Spencer Pratt or Nithya Raman in Nov. 3 runoff - Los Angeles Times",
-        "candidate_tickers": [
-          "BASSvsPRATT",
-          "BASSvsRAMAN",
-          "LAMAYOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T23:00:42.801345+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "06210d2b24c9",
-        "score": 72,
-        "category": "Tecnología",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T23:02:08.837708+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9074f02cdae6",
-        "score": 86,
-        "category": "política",
-        "title": "Il faudra, un jour, faire le Nuremberg du wokisme.",
-        "candidate_tickers": [
-          "WOK",
-          "NUREMBERG",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T23:02:10.941950+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28191,6 +28147,48 @@
           "SamNeill",
           "JurassicPark",
           "ThePiano"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T15:57:56.859304+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d9f4f0893dfc",
+        "score": 88,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMMUELL",
+          "JURASSICPAIN",
+          "PIANOPLAYERNOMORE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T15:58:48.625581+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridad/Política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL",
+          "LIVESTREAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T15:59:59.152224+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "meme de Twitter",
+        "title": "Grok",
+        "candidate_tickers": [
+          "GROK",
+          "ELONGROK"
         ]
       }
     }
