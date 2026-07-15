@@ -1,34 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T06:55:15.535609+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d8874747f5f7",
-        "score": 85,
-        "category": "ciencia ficción, tecnología",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELONMUSKYES",
-          "YESFROMELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T06:55:37.696826+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "tech",
-        "title": "x.com/i/article/206200131550…",
-        "candidate_tickers": [
-          "XCOM",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T06:55:48.872243+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28201,6 +28173,38 @@
           "JURASSICPARK",
           "THEPIANO",
           "NEILL78"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T22:18:03.812395+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d77ac89abfdb",
+        "score": 80,
+        "category": "Política Internacional",
+        "title": "ENGLAND 🏴󠁧󠁢󠁥󠁮󠁧󠁿 VS ARGENTINA 🇦🇷: YOUR PICK?",
+        "candidate_tickers": [
+          "TRUMPINCOFFIN",
+          "IRANVSUSA",
+          "TRUMPVSIRAN",
+          "COFFINTRUMP",
+          "IRANBILLBOARD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T22:19:33.286126+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0fdaa35c6b2c",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
+        "candidate_tickers": [
+          "ARGVSENG",
+          "ARGWIN",
+          "MUNDIAL2026"
         ]
       }
     }

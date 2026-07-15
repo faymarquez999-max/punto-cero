@@ -1,165 +1,6 @@
 {
   "watches": [
     {
-      "id": "4e220c2ad3ea",
-      "fingerprint": "4e220c2ad3ea",
-      "narrative_summary": "Filtración de datos de Apple iPhone 18 Pro, incluyendo lista de proveedores y fotos, a través de una fuga de datos en Tata.",
-      "why_memeable": "La combinación de la marca Apple, el interés en el nuevo iPhone y la naturaleza inesperada de la fuga de datos crean un escenario propenso a la viralidad.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "LEAK18",
-        "TATALEAK",
-        "APPLEGATE",
-        "IPHONE18",
-        "DATADUMP"
-      ],
-      "key_terms_for_dex_search": [
-        "Apple",
-        "iPhone 18 Pro",
-        "Tata",
-        "data leak",
-        "supplier list"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T19:10:25.305603+00:00",
-      "expires_at": "2026-07-02T19:10:25.305603+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 92011.0,
-        "liquidity_usd": 38193.32,
-        "price_usd": 9.203e-05,
-        "volume_h24": 34882.95,
-        "volume_h1": 1065.93,
-        "volume_m5": 67.34,
-        "price_change_5m": 0.44,
-        "price_change_1h": 8.75,
-        "price_change_24h": 35.89,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 43,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T19:13:52.467691+00:00"
-    },
-    {
-      "id": "580412b84a10",
-      "fingerprint": "580412b84a10",
-      "narrative_summary": "Elon Musk confirma que la vida es verdadera",
-      "why_memeable": "La simplicidad y la claridad de la afirmación hacen que sea fácilmente compartible y recordable.",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSKTRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "verdadero",
-        "nitter"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-29T19:11:07.611866+00:00",
-      "expires_at": "2026-07-01T19:11:07.611866+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ghniy",
-        "name": "The True Believer",
-        "mint": "53sY8B9pTo1FXeYQZqidYKbpNbZADJ7CrRDwzdqHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13039.0,
-        "liquidity_usd": 9033.77,
-        "price_usd": 1.304e-05,
-        "volume_h24": 779249.45,
-        "volume_h1": 2435.0,
-        "volume_m5": 134.19,
-        "price_change_5m": -4.42,
-        "price_change_1h": -7.69,
-        "price_change_24h": -56.59,
-        "txns_h1_buys": 60,
-        "txns_h1_sells": 57,
-        "created_ts": 1782707065000,
-        "pair_created_at": 1782707065000,
-        "url": "https://dexscreener.com/solana/depkbm4zk7ce2xyjg96sfpghyran7cbewghzc1iunjhs",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUE in THE TRUE BELIEVER",
-        "safety_score": 7791,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T19:13:53.774539+00:00"
-    },
-    {
       "id": "ee5617c0d9fd",
       "fingerprint": "ee5617c0d9fd",
       "narrative_summary": "Elon Musk publica 'Correct' en Twitter, generando gran interés",
@@ -11419,7 +11260,105 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d77ac89abfdb",
+      "fingerprint": "d77ac89abfdb",
+      "narrative_summary": "Tensión entre Estados Unidos e Irán, con Trump advirtiendo a Teherán que se comporte y la instalación de un cartel en Irán mostrando a Trump en un ataúd.",
+      "why_memeable": "La situación política tensa y la imagen impactante del cartel con Trump en un ataúd ofrecen un alto potencial memético.",
+      "category": "Política Internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPINCOFFIN",
+        "IRANVSUSA",
+        "TRUMPVSIRAN",
+        "COFFINTRUMP",
+        "IRANBILLBOARD"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Irán",
+        "Estados Unidos",
+        "Tensión política",
+        "Cartel",
+        "Ataúd"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-15T22:18:03.421613+00:00",
+      "expires_at": "2026-07-18T22:18:03.421613+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "ENGLAND 🏴󠁧󠁢󠁥󠁮󠁧󠁿 VS ARGENTINA 🇦🇷: YOUR PICK?",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0fdaa35c6b2c",
+      "fingerprint": "0fdaa35c6b2c",
+      "narrative_summary": "Argentina sorprende a Inglaterra en la final del Mundial 2026",
+      "why_memeable": "La sorpresa y el giro inesperado en el partido de fútbol",
+      "category": "Deportes",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "ARGVSENG",
+        "ARGWIN",
+        "MUNDIAL2026"
+      ],
+      "key_terms_for_dex_search": [
+        "ARGvsENG",
+        "ARGwin",
+        "Mundial2026",
+        "fútbol",
+        "sorpresa",
+        "golpe"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T22:19:32.833154+00:00",
+      "expires_at": "2026-07-17T22:19:32.833154+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-15T19:59:40.190586+00:00"
+  "last_updated": "2026-07-15T22:19:32.833154+00:00"
 }
