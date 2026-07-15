@@ -1,139 +1,6 @@
 {
   "watches": [
     {
-      "id": "ab1d6924411c",
-      "fingerprint": "ab1d6924411c",
-      "narrative_summary": "Un tiroteo en una fan zone del Mundial en California ha dejado un muerto y un herido grave.",
-      "why_memeable": "La narrativa tiene un núcleo claro y emocionalmente cargado, lo que la hace fácilmente compartible y memorable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUNDIAL",
-        "TIROTEO",
-        "FANZONE"
-      ],
-      "key_terms_for_dex_search": [
-        "Mundial",
-        "Tiroteo",
-        "FanZone",
-        "California"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-29T09:27:05.499301+00:00",
-      "expires_at": "2026-07-01T09:27:05.499301+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Un muerto y un herido grave en un tiroteo en una fan zone del Mundial en California - Diario AS",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-01T17:27:50.096273+00:00"
-    },
-    {
-      "id": "fcaab9d7d6c6",
-      "fingerprint": "fcaab9d7d6c6",
-      "narrative_summary": "Donald Trump hace un comentario polémico sobre la 'izquierda radical' y varios eventos relacionados con la Corte Suprema y la política internacional",
-      "why_memeable": "El comentario de Trump y los eventos relacionados tienen un alto potencial de generar memes y discusiones en línea debido a su naturaleza polémica y polarizante",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "LEFTSCUM",
-        "SCOTUS",
-        "POLARIZED",
-        "TRUMP2024"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Izquierda Radical",
-        "Corte Suprema",
-        "Política",
-        "Polarización"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T16:58:09.922773+00:00",
-      "expires_at": "2026-07-02T16:58:09.922773+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "The Orange Bull",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 132910.0,
-        "liquidity_usd": 29482.77,
-        "price_usd": 0.0001329,
-        "volume_h24": 471963.48,
-        "volume_h1": 471963.48,
-        "volume_m5": 25731.2,
-        "price_change_5m": -13.84,
-        "price_change_1h": 285.0,
-        "price_change_24h": 285.0,
-        "txns_h1_buys": 4583,
-        "txns_h1_sells": 3115,
-        "created_ts": 1782852698000,
-        "pair_created_at": 1782852698000,
-        "url": "https://dexscreener.com/solana/3dtmw4l5ky1xsqiyiiwhsr5zgyajfyansaxlle9i2toy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TRUMP==TRUMP",
-        "safety_score": 14342,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-06-30T21:23:07.171567+00:00"
-    },
-    {
       "id": "93c9ea2fc37c",
       "fingerprint": "93c9ea2fc37c",
       "narrative_summary": "Lauryn Hill es honrada, Janet Jackson impresiona a Teyana Taylor y Druski hace historia en los BET Awards 2026.",
@@ -9836,7 +9703,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "6116bf8f0f7e",
@@ -9881,7 +9748,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "263a5892dda8",
@@ -10043,7 +9910,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "10e66fef0861",
@@ -10088,7 +9955,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "e1d6fe5c8532",
@@ -10126,13 +9993,14 @@
       "started_at": "2026-07-13T07:47:21.665639+00:00",
       "expires_at": "2026-07-15T07:47:21.665639+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Link marines held 9 years for this",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-15T10:32:09.869110+00:00"
     },
     {
       "id": "cf0e70d4ad0e",
@@ -10179,7 +10047,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "4c700c9346aa",
@@ -10224,7 +10092,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "85bd18feab77",
@@ -10267,7 +10135,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "dbab66f4857d",
@@ -10312,7 +10180,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "7313936acdf6",
@@ -10359,7 +10227,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "fec28eec3ad7",
@@ -10475,7 +10343,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "1c76d39e6f69",
@@ -10521,7 +10389,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "2c33f05742a3",
@@ -10565,7 +10433,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0fa74a3cc962",
@@ -10608,7 +10476,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "32a9074c7b6c",
@@ -10652,7 +10520,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "d663acc7869f",
@@ -10698,7 +10566,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "c397bb42edd5",
@@ -10818,7 +10686,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "7f27f3129862",
@@ -10933,7 +10801,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "4c63e443b03b",
@@ -10979,7 +10847,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f86c5377320f",
@@ -11029,7 +10897,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a40cd0f39826",
@@ -11146,7 +11014,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b87d0d0d6f69",
@@ -11192,7 +11060,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9677fea854c4",
@@ -11231,13 +11099,40 @@
       "started_at": "2026-07-15T03:44:46.327545+00:00",
       "expires_at": "2026-07-18T03:44:46.327545+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ZOOMER",
+        "name": "ZOOMER",
+        "mint": "2DgktxmKE9jvNKipF1R7JBgsHv1FJJcys8VCTqYpksyJ",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 100598.0,
+        "liquidity_usd": 30097.97,
+        "price_usd": 0.0001011,
+        "volume_h24": 5171.41,
+        "volume_h1": 243.93,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -1.78,
+        "price_change_24h": 2.84,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 2,
+        "created_ts": 1754581565000,
+        "pair_created_at": 1754581565000,
+        "url": "https://dexscreener.com/solana/2eanfkpx8tldjck8ffwf77ujbct7xfpbqejfqdpjrfxp",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ZOOMER in ZOOMER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Zoomer literally hit midlife crisis as soon as they leave the colleges.",
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-07-15T10:36:51.841746+00:00"
     },
     {
       "id": "ca65f28a7299",
@@ -11287,7 +11182,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "05a123e4a895",
@@ -11335,7 +11230,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9d594b99d043",
@@ -11382,7 +11277,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6adee851d202",
@@ -11428,7 +11323,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "60dd8e35aac0",
@@ -11470,8 +11365,123 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "72d5d4be4cab",
+      "fingerprint": "72d5d4be4cab",
+      "narrative_summary": "Fallece el actor neozelandés Sam Neill a los 78 años después de una batalla contra el cáncer.",
+      "why_memeable": "La muerte de un actor famoso y la mención a una batalla contra el cáncer crean un núcleo emotivo y fácil de compartir.",
+      "category": "Celebridad",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "THEPIANO"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "The Piano",
+        "muerte",
+        "cáncer"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T10:32:55.096217+00:00",
+      "expires_at": "2026-07-18T10:32:55.096217+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "195b6465f7db",
+      "fingerprint": "195b6465f7db",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención y especulación",
+      "why_memeable": "Frase corta y única de Elon Musk, figura top, que genera debate y especulación",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "xcancel",
+        "true"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-15T10:34:34.177817+00:00",
+      "expires_at": "2026-07-17T10:34:34.177817+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 318348.0,
+        "liquidity_usd": 98051.05,
+        "price_usd": 0.0003184,
+        "volume_h24": 19308.76,
+        "volume_h1": 231.8,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.72,
+        "price_change_24h": -2.96,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-15T10:36:58.034789+00:00"
     }
   ],
-  "last_updated": "2026-07-15T06:07:27.158292+00:00"
+  "last_updated": "2026-07-15T10:36:58.034810+00:00"
 }
