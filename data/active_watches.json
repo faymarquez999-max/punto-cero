@@ -1,345 +1,6 @@
 {
   "watches": [
     {
-      "id": "7414566aa03b",
-      "fingerprint": "7414566aa03b",
-      "narrative_summary": "Elon Musk publica un tweet con la palabra 'Yes' y recibe mucha atención",
-      "why_memeable": "La simplicidad de la palabra 'Yes' y la velocidad con la que se viralizó",
-      "category": "Tendencias en Twitter",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "YES",
-        "TWEET"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 1,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-28T22:51:53.924457+00:00",
-      "expires_at": "2026-07-05T22:51:53.924457+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26586.0,
-        "liquidity_usd": 26828.61,
-        "price_usd": 2.658e-05,
-        "volume_h24": 343189.65,
-        "volume_h1": 343189.65,
-        "volume_m5": 37138.47,
-        "price_change_5m": -9.21,
-        "price_change_1h": 321.0,
-        "price_change_24h": 321.0,
-        "txns_h1_buys": 2876,
-        "txns_h1_sells": 643,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-30T06:26:35.874396+00:00"
-    },
-    {
-      "id": "f2cd935c7d42",
-      "fingerprint": "f2cd935c7d42",
-      "narrative_summary": "Elon Musk es acusado de ser un fascista por sugerir que podría \"solucionar el hambre en el mundo\" con 3 billones de dólares, pero MacKenzie Bezos ha gastado 26 billones de dólares y no ha logrado nada.",
-      "why_memeable": "La frase es corta, fácil de recordar y tiene un contenido polémico que puede generar debate.",
-      "category": "política y economía",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSKVSBEZOS",
-        "FASCISMODEMUSK",
-        "MACKENZIEBEZOS"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "MacKenzieBezos",
-        "hambre en el mundo",
-        "fascismo"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-28T23:57:15.269022+00:00",
-      "expires_at": "2026-06-30T23:57:15.269022+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 28438.0,
-        "liquidity_usd": 27753.73,
-        "price_usd": 2.843e-05,
-        "volume_h24": 344618.17,
-        "volume_h1": 344618.17,
-        "volume_m5": 38567.0,
-        "price_change_5m": -2.89,
-        "price_change_1h": 351.0,
-        "price_change_24h": 351.0,
-        "txns_h1_buys": 2880,
-        "txns_h1_sells": 647,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Everyone tells me that Elon Musk is a fascist because he could \"solve world hunger\" for a mere 3 billion dollars, but MacKenzie Bezos has burned through 26 billion dollars of her ex husband's money and accomplished absolutely nothing of not",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-06-30T06:26:39.130309+00:00"
-    },
-    {
-      "id": "ce891b063ece",
-      "fingerprint": "ce891b063ece",
-      "narrative_summary": "117 perros muertos encontrados en un refugio de animales en California, lo que desencadena una investigación",
-      "why_memeable": "La combinación de animales, injusticia y una imagen potencialmente impactante crea un escenario altamente memeable",
-      "category": "Noticias de animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DOGS117",
-        "CALIFUR",
-        "NO_KILL",
-        "ANIMALSHOCK"
-      ],
-      "key_terms_for_dex_search": [
-        "perros muertos",
-        "refugio de animales",
-        "California",
-        "investigación"
-      ],
-      "score": 93,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T09:22:23.511995+00:00",
-      "expires_at": "2026-07-02T09:22:23.511995+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "117 dogs found dead at California shelter as shocking investigation unfolds - The Independent",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-03T01:08:50.099278+00:00"
-    },
-    {
-      "id": "310f23a59a3d",
-      "fingerprint": "310f23a59a3d",
-      "narrative_summary": "Trump publica un cuadro extraño con George Washington y un robot, generando polémica y reacciones en la red.",
-      "why_memeable": "La combinación de Trump, George Washington y un robot es absurda y genera interés, además de la polémica y las reacciones en la red.",
-      "category": "política y sociedad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP_PAINTING",
-        "GEORGE_WASHINGTON_ROBOT",
-        "TRUMP_ROBOT_PAINTING"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "George Washington",
-        "robot",
-        "pintura",
-        "polémica"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T09:23:06.391847+00:00",
-      "expires_at": "2026-07-01T09:23:06.391847+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Trump posts bizarre painting of himself with George Washington and a robot - Yahoo News UK",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-01T17:27:50.096270+00:00"
-    },
-    {
-      "id": "524281f6ebf9",
-      "fingerprint": "524281f6ebf9",
-      "narrative_summary": "Rescate de un bebé de 18 días en Venezuela tras terremotos, inspirando esperanza en el país.",
-      "why_memeable": "La historia del bebé rescatado es un símbolo de esperanza en Venezuela después de los terremotos devastadores.",
-      "category": "rescate",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JUAN_DAVID",
-        "RESCATE_EN_VENEZUELA",
-        "ESPERANZA_EN_VENEZUELA"
-      ],
-      "key_terms_for_dex_search": [
-        "rescate",
-        "venezuela",
-        "terremotos",
-        "esperanza"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-29T09:26:20.637675+00:00",
-      "expires_at": "2026-07-01T09:26:20.637675+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "7",
-        "name": "Perros de Rescate",
-        "mint": "7D847evpLPubz1vHCsoTjJ6EHSUpmcTtXexNy51DJ7su",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 16193.0,
-        "liquidity_usd": 21910.95,
-        "price_usd": 1.619e-05,
-        "volume_h24": 238142.38,
-        "volume_h1": 238142.38,
-        "volume_m5": 102361.93,
-        "price_change_5m": 58.08,
-        "price_change_1h": 119.0,
-        "price_change_24h": 119.0,
-        "txns_h1_buys": 2207,
-        "txns_h1_sells": 1057,
-        "created_ts": 1782751948000,
-        "pair_created_at": 1782751948000,
-        "url": "https://dexscreener.com/solana/hxxgmumjuspiqf5wv3yowcyrdckvh5dhhqhjbbk2yjb7",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: RESCATE in PERROS DE RESCATE",
-        "safety_score": 11501,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T17:02:58.704976+00:00"
-    },
-    {
       "id": "ab1d6924411c",
       "fingerprint": "ab1d6924411c",
       "narrative_summary": "Un tiroteo en una fan zone del Mundial en California ha dejado un muerto y un herido grave.",
@@ -9533,14 +9194,15 @@
       "started_at": "2026-07-12T04:04:38.797097+00:00",
       "expires_at": "2026-07-15T04:04:38.797097+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Typhoon Bavi batters east China, Taiwan reports 134 injured - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 21,
+      "expired_at": "2026-07-15T06:02:46.295240+00:00"
     },
     {
       "id": "445f084c34cc",
@@ -10174,7 +9836,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "6116bf8f0f7e",
@@ -10219,7 +9881,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "263a5892dda8",
@@ -10258,14 +9920,15 @@
       "started_at": "2026-07-13T04:07:32.232769+00:00",
       "expires_at": "2026-07-15T04:07:32.232769+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "At least 27 killed, eight critically injured in Bangkok bar fire",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-15T06:02:46.295256+00:00"
     },
     {
       "id": "09978f103e23",
@@ -10380,7 +10043,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "10e66fef0861",
@@ -10425,7 +10088,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "e1d6fe5c8532",
@@ -10469,7 +10132,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "cf0e70d4ad0e",
@@ -10516,7 +10179,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "4c700c9346aa",
@@ -10561,7 +10224,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "85bd18feab77",
@@ -10604,7 +10267,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "dbab66f4857d",
@@ -10649,7 +10312,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "7313936acdf6",
@@ -10696,7 +10359,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "fec28eec3ad7",
@@ -10812,7 +10475,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1c76d39e6f69",
@@ -10858,7 +10521,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "2c33f05742a3",
@@ -10902,7 +10565,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "0fa74a3cc962",
@@ -10945,7 +10608,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "32a9074c7b6c",
@@ -10989,7 +10652,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d663acc7869f",
@@ -11035,7 +10698,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c397bb42edd5",
@@ -11155,7 +10818,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7f27f3129862",
@@ -11270,7 +10933,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4c63e443b03b",
@@ -11316,7 +10979,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f86c5377320f",
@@ -11366,7 +11029,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a40cd0f39826",
@@ -11483,7 +11146,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b87d0d0d6f69",
@@ -11529,7 +11192,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9677fea854c4",
@@ -11574,8 +11237,241 @@
       "cluster_sources": [
         "4chan"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "ca65f28a7299",
+      "fingerprint": "ca65f28a7299",
+      "narrative_summary": "El congresista Thomas Massie ha sido criticado por un viejo apoyo de Donald Trump, quien ahora lo considera el peor congresista de la historia del país.",
+      "why_memeable": "La narrativa combina un tema político controvertido con una figura pública conocida, lo que puede generar un fuerte engagement y discusión en las redes sociales.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MASSIE",
+        "TRUMP",
+        "CONGRESS",
+        "SCANDAL",
+        "POLITICS"
+      ],
+      "key_terms_for_dex_search": [
+        "Thomas Massie",
+        "Donald Trump",
+        "Congreso",
+        "Política",
+        "Escándalo"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-15T06:02:47.796508+00:00",
+      "expires_at": "2026-07-18T06:02:47.796508+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "05a123e4a895",
+      "fingerprint": "05a123e4a895",
+      "narrative_summary": "Se encontraron 117 perros muertos en un refugio de animales en California, muchos con heridas de bala.",
+      "why_memeable": "La combinación de la injusticia hacia los animales y la imagen impactante de los perros muertos crea un escenario con alto potencial memético.",
+      "category": "noticias de animales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DEADDOGS",
+        "ANIMALABUSE",
+        "CALIFORNIA",
+        "REFUGIO",
+        "PERROS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros muertos",
+        "refugio de animales",
+        "California",
+        "abuso animal"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T06:02:49.847044+00:00",
+      "expires_at": "2026-07-18T06:02:49.847044+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "9d594b99d043",
+      "fingerprint": "9d594b99d043",
+      "narrative_summary": "España derrota a Francia en la final del Mundial, con un resultado aplastante.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un gran impacto emocional. La imagen de la anaconda es icónica y se puede relacionar con la victoria de España.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ANACONDA",
+        "ESPANA",
+        "FRANCIA",
+        "MUNDIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "ANACONDA",
+        "ESPANA",
+        "FRANCIA",
+        "MUNDIAL",
+        "FINAL"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T06:05:24.964462+00:00",
+      "expires_at": "2026-07-17T06:05:24.964462+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Spain’s anaconda grip crushes French World Cup dream - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6adee851d202",
+      "fingerprint": "6adee851d202",
+      "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años debido a una batalla contra el cáncer.",
+      "why_memeable": "La muerte de un actor famoso y la conexión con películas icónicas como 'Jurassic Park' y 'The Piano' hacen que sea fácilmente compartible y recordable.",
+      "category": "Muerte de un actor famoso",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "THEPIANO",
+        "CANCERBATTLE"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "The Piano",
+        "cáncer"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 2,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-15T06:05:54.745178+00:00",
+      "expires_at": "2026-07-17T06:05:54.745178+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "60dd8e35aac0",
+      "fingerprint": "60dd8e35aac0",
+      "narrative_summary": "Elon Musk confirma la verdad de un tuit",
+      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk hacen que sea fácil de compartir y recordar.",
+      "category": "Noticias de tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "TRUE",
+        "TECNOLOGIA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T06:07:27.158292+00:00",
+      "expires_at": "2026-07-17T06:07:27.158292+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-15T03:44:46.327545+00:00"
+  "last_updated": "2026-07-15T06:07:27.158292+00:00"
 }

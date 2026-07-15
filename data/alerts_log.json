@@ -1,94 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T02:17:38.307753+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6d3132cea17b",
-        "score": 88,
-        "category": "Noticias internacionales / Conflicto",
-        "title": "Russia launches massive overnight attack on Ukraine",
-        "candidate_tickers": [
-          "RUSIAATACA",
-          "UCRANIAENPELIGRO",
-          "ATAQUEMASIVO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T02:18:10.582241+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "75ae8b4f4dce",
-        "score": 88,
-        "category": "negocios",
-        "title": "Paramount Seeks EU Green Light for $110 Billion Warner Deal - Bloomberg.com",
-        "candidate_tickers": [
-          "PARAMOUNT",
-          "WARNERBROS",
-          "DEAL",
-          "UE",
-          "GREENLIGHT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T07:18:42.357618+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "209cf0d4b612",
-        "score": 80,
-        "category": "Deportes y finanzas",
-        "title": "WHAT",
-        "candidate_tickers": [
-          "BITCOINHA",
-          "KNICKSBROKEN",
-          "WHATISGOINGON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T07:19:19.150210+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ca0efc7bfcd1",
-        "score": 88,
-        "category": "monedas de meme",
-        "title": "June 2026 - Politico",
-        "candidate_tickers": [
-          "MEME2026",
-          "MEMEINVEST",
-          "MEMEBUY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T07:19:47.089006+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Tecnología y celebridades",
-        "title": "Yes, they did",
-        "candidate_tickers": [
-          "YES",
-          "THEY DID"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T07:20:37.352950+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología",
-        "title": "Exactly right",
-        "candidate_tickers": [
-          "XRIGHTR",
-          "RIGHTON"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T07:21:26.706803+00:00",
       "kind": "shadow",
       "payload": {
@@ -28191,6 +28103,100 @@
           "ZOOMERCRISIS",
           "MIDLIFEZOOM",
           "COLLEGEDROPOUT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:02:48.352774+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ca65f28a7299",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMP",
+          "CONGRESS",
+          "SCANDAL",
+          "POLITICS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:02:50.297978+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "05a123e4a895",
+        "score": 88,
+        "category": "noticias de animales",
+        "title": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.",
+        "candidate_tickers": [
+          "DEADDOGS",
+          "ANIMALABUSE",
+          "CALIFORNIA",
+          "REFUGIO",
+          "PERROS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:04:18.622432+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Supreme Court justices detail security risks and weigh in on ethics in rare congressional testimony - AP News",
+        "candidate_tickers": [
+          "SCOTUS",
+          "BarrettKagan",
+          "CapitolHill"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:05:25.549947+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9d594b99d043",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Spain’s anaconda grip crushes French World Cup dream - Reuters",
+        "candidate_tickers": [
+          "ANACONDA",
+          "ESPANA",
+          "FRANCIA",
+          "MUNDIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:05:55.306100+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6adee851d202",
+        "score": 80,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "THEPIANO",
+          "CANCERBATTLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T06:07:27.632650+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "60dd8e35aac0",
+        "score": 80,
+        "category": "Noticias de tecnología y celebridades",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK"
         ]
       }
     }
