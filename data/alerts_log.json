@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T23:02:10.941950+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b3912e09490a",
-        "ticker": "DICKBUTT",
-        "mint": "2fnMFnr62CmsKC6vusGronbJR8gMrCMptXdQMEu9aK4G",
-        "mc": 37804.0
-      }
-    },
-    {
-      "ts": "2026-06-03T23:02:24.236440+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "739bba8cd043",
-        "ticker": "IRAN",
-        "mint": "4j79iERfEm69NwSbobXRh2cEg4Ft5K8wSBrsFdw6UPJw",
-        "mc": 114406.0
-      }
-    },
-    {
-      "ts": "2026-06-03T23:02:27.019417+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "06210d2b24c9",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 379793.0
-      }
-    },
-    {
-      "ts": "2026-06-04T01:49:14.760036+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Good Starship highlights video",
-        "candidate_tickers": [
-          "Starship",
-          "GoodShip",
-          "Ship",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T01:49:36.379023+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9060be5dad49",
-        "score": 80,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T01:51:00.589352+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "Tecnología y celebridades",
-        "title": "Grok Imagine on Vercel",
-        "candidate_tickers": [
-          "GROK",
-          "VERCEL",
-          "ELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T01:51:38.558332+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28189,6 +28115,92 @@
         "candidate_tickers": [
           "GROK",
           "ELONGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:27:43.586812+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bafda03af69f",
+        "score": 78,
+        "category": "Política y conspiración",
+        "title": "Mahmoud Khalil sues Trump officials and private groups over alleged deportation conspiracy - Jurist.org",
+        "candidate_tickers": [
+          "KHALILVSTRUMP",
+          "CONSPIRACIÓNDEPORTACIÓN",
+          "MAHMOUDKHALIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:28:22.778943+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "023d7b010437",
+        "score": 90,
+        "category": "negocios",
+        "title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
+        "candidate_tickers": [
+          "STRIPEPAYPAL",
+          "ADVENTPAYPAL",
+          "STRIPEADVENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:29:31.707407+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC",
+        "candidate_tickers": [
+          "BuffettVsGates",
+          "EpsteinScandal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:30:10.340978+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muerte de un actor conocido",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SamNeil",
+          "JurassicPark",
+          "ThePiano",
+          "Neill78"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:31:01.470797+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "XCancel",
+          "TrumpLive"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T17:31:29.289716+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "28589e0d96ea",
+        "score": 74,
+        "category": "Celebridad y entretenimiento",
+        "title": "Ariana Grande impersonates ‘Harry Potter’ characters for r.e.m. beauty.",
+        "candidate_tickers": [
+          "ARIANAGRANDEHP",
+          "HPBEAUTY",
+          "GRANDEMAGIC"
         ]
       }
     }
