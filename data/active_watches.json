@@ -1,93 +1,6 @@
 {
   "watches": [
     {
-      "id": "c477773e9464",
-      "fingerprint": "c477773e9464",
-      "narrative_summary": "Declaraciones polémicas de Trump sobre la izquierda radical y la situación política en Estados Unidos",
-      "why_memeable": "La narrativa combina elementos polémicos y controvertidos que pueden generar un fuerte impacto emocional y ser fácilmente compartidos en redes sociales",
-      "category": "Política",
-      "matched_archetype": "polarizing_figure_drama",
-      "candidate_tickers": [
-        "TRUMP22",
-        "LEFTVSRIGHT",
-        "POLARIZED",
-        "MAGA2024",
-        "RADICALLEFT"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Izquierda Radical",
-        "Política",
-        "Estados Unidos",
-        "Polarización"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T19:10:23.523010+00:00",
-      "expires_at": "2026-07-02T19:10:23.523010+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "The Orange Bull",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 119643.0,
-        "liquidity_usd": 28076.12,
-        "price_usd": 0.0001196,
-        "volume_h24": 473768.58,
-        "volume_h1": 473768.58,
-        "volume_m5": 27536.31,
-        "price_change_5m": -22.44,
-        "price_change_1h": 246.0,
-        "price_change_24h": 246.0,
-        "txns_h1_buys": 4589,
-        "txns_h1_sells": 3117,
-        "created_ts": 1782852698000,
-        "pair_created_at": 1782852698000,
-        "url": "https://dexscreener.com/solana/3dtmw4l5ky1xsqiyiiwhsr5zgyajfyansaxlle9i2toy",
-        "source": "dexscreener",
-        "match_score": 83.3,
-        "match_reason": "ticker close: TRUMP~TRUMP22 (83.33333333333334%)",
-        "safety_score": 14342,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-06-30T21:23:09.038664+00:00"
-    },
-    {
       "id": "4e220c2ad3ea",
       "fingerprint": "4e220c2ad3ea",
       "narrative_summary": "Filtración de datos de Apple iPhone 18 Pro, incluyendo lista de proveedores y fotos, a través de una fuga de datos en Tata.",
@@ -11458,7 +11371,55 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "322f73de5f7a",
+      "fingerprint": "322f73de5f7a",
+      "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años después de una batalla contra el cáncer.",
+      "why_memeable": "La muerte de un actor famoso y la conexión con películas icónicas como 'Jurassic Park' y 'The Piano' hacen que sea fácil de compartir y recordar.",
+      "category": "Muerte de un actor famoso",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "THEPIANO",
+        "NEILL78"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "The Piano",
+        "muerte",
+        "cáncer",
+        "actor"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-07-15T19:59:40.190586+00:00",
+      "expires_at": "2026-07-17T19:59:40.190586+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-15T18:43:00.407206+00:00"
+  "last_updated": "2026-07-15T19:59:40.190586+00:00"
 }

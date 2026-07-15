@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T06:54:25.956273+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eff379b3b0d3",
-        "score": 90,
-        "category": "noticias de emergencia",
-        "title": "Police locked in negotiations with man in Bakersfield holding hostages - AP News",
-        "candidate_tickers": [
-          "BAKERSFIELDHOSTAGE",
-          "HOSTAGEDRAMA",
-          "BAKERSFIELDSIEGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T06:54:54.663071+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "42c2e2177e4f",
-        "score": 76,
-        "category": "Tecnología y celebridades",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T06:55:15.535609+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28201,6 +28172,36 @@
         "ticker": "RIPTRUMP",
         "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
         "mc": 195590.0
+      }
+    },
+    {
+      "ts": "2026-07-15T19:58:11.590414+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "política",
+        "title": "*US MILITARY PLANNERS EXAMINED POSSIBILITY OF CUBA RAID: CBS",
+        "candidate_tickers": [
+          "CubaRaid",
+          "USvsCuba",
+          "CubaIncursion"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T19:59:40.805304+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "322f73de5f7a",
+        "score": 91,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "THEPIANO",
+          "NEILL78"
+        ]
       }
     }
   ]
