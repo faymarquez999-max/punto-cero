@@ -1,100 +1,6 @@
 {
   "watches": [
     {
-      "id": "56018ab6893b",
-      "fingerprint": "56018ab6893b",
-      "narrative_summary": "Pakistan confirma operación terrestre y ataques a lo largo de la frontera afgana, eliminando a 29 militantes",
-      "why_memeable": "La narrativa tiene un título claro y conciso, y se centra en un evento específico y dramático",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PAKISTAN",
-        "AFGANISTAN",
-        "OPERACION TERRESTRE"
-      ],
-      "key_terms_for_dex_search": [
-        "PAKISTAN",
-        "AFGANISTAN",
-        "OPERACION TERRESTRE",
-        "MILITANTES"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T22:48:47.227392+00:00",
-      "expires_at": "2026-06-30T22:48:47.227392+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "PAKISTAN CONFIRMS GROUND OPERATION AND STRIKES ALONG AFGHAN BORDER, ELIMINATING 29 MILITANTS - AP",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-30T22:54:18.104325+00:00"
-    },
-    {
-      "id": "afc1217867e5",
-      "fingerprint": "afc1217867e5",
-      "narrative_summary": "Israel dañó sitios patrimoniales en el sur de Líbano, según el ministro - Reuters",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Líbano, lo que hace que sea fácil de compartir y recordar.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAEL",
-        "LÍBANO",
-        "DAÑOS",
-        "PATRIMONIO"
-      ],
-      "key_terms_for_dex_search": [
-        "israel",
-        "líbano",
-        "daños",
-        "patrimonio"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-28T22:50:01.772781+00:00",
-      "expires_at": "2026-06-30T22:50:01.772781+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-06-30T22:54:18.104329+00:00"
-    },
-    {
       "id": "7414566aa03b",
       "fingerprint": "7414566aa03b",
       "narrative_summary": "Elon Musk publica un tweet con la palabra 'Yes' y recibe mucha atención",
@@ -9461,14 +9367,15 @@
       "started_at": "2026-07-12T00:15:35.227692+00:00",
       "expires_at": "2026-07-15T00:15:35.227692+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit - NBC News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-15T03:40:22.469476+00:00"
     },
     {
       "id": "2cec96918e8e",
@@ -9633,7 +9540,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "445f084c34cc",
@@ -10267,7 +10174,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "6116bf8f0f7e",
@@ -10312,7 +10219,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "263a5892dda8",
@@ -10358,7 +10265,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "09978f103e23",
@@ -10473,7 +10380,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "10e66fef0861",
@@ -10518,7 +10425,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "e1d6fe5c8532",
@@ -10562,7 +10469,7 @@
       "cluster_sources": [
         "4chan"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "cf0e70d4ad0e",
@@ -10609,7 +10516,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "4c700c9346aa",
@@ -10654,7 +10561,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "85bd18feab77",
@@ -10697,7 +10604,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "dbab66f4857d",
@@ -10742,7 +10649,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "7313936acdf6",
@@ -10789,7 +10696,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "fec28eec3ad7",
@@ -10905,7 +10812,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1c76d39e6f69",
@@ -10951,7 +10858,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "2c33f05742a3",
@@ -10995,7 +10902,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0fa74a3cc962",
@@ -11038,7 +10945,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "32a9074c7b6c",
@@ -11082,7 +10989,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d663acc7869f",
@@ -11128,7 +11035,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c397bb42edd5",
@@ -11248,7 +11155,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7f27f3129862",
@@ -11363,7 +11270,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4c63e443b03b",
@@ -11409,7 +11316,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f86c5377320f",
@@ -11459,7 +11366,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a40cd0f39826",
@@ -11576,8 +11483,99 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
+    },
+    {
+      "id": "b87d0d0d6f69",
+      "fingerprint": "b87d0d0d6f69",
+      "narrative_summary": "El actor Sam Neill, conocido por sus papeles en 'Jurassic Park' y 'The Piano', ha fallecido a los 78 años después de una batalla contra el cáncer.",
+      "why_memeable": "La muerte de un actor famoso y la asociación con películas icónicas como 'Jurassic Park' y 'The Piano' hacen que la narrativa sea memeable.",
+      "category": "Celebridades",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "THEPIANO",
+        "CANCER"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "The Piano",
+        "Cancer"
+      ],
+      "score": 71,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-15T03:40:37.241369+00:00",
+      "expires_at": "2026-07-17T03:40:37.241369+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "9677fea854c4",
+      "fingerprint": "9677fea854c4",
+      "narrative_summary": "Un grupo de jóvenes (zoomers) experimentan una crisis de mediana edad tan pronto como dejan la universidad.",
+      "why_memeable": "La narrativa es memeable porque es una observación irónica y absurda sobre la transición de la juventud a la edad adulta.",
+      "category": "humor y observación social",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "ZOOMERCRISIS",
+        "MIDLIFEZOOM",
+        "COLLEGEDROPOUT"
+      ],
+      "key_terms_for_dex_search": [
+        "zoomer",
+        "crisis",
+        "midlife",
+        "colleges",
+        "humor"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 5
+      },
+      "started_at": "2026-07-15T03:44:46.327545+00:00",
+      "expires_at": "2026-07-18T03:44:46.327545+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Zoomer literally hit midlife crisis as soon as they leave the colleges.",
+      "cluster_sources": [
+        "4chan"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-14T22:20:33.618552+00:00"
+  "last_updated": "2026-07-15T03:44:46.327545+00:00"
 }

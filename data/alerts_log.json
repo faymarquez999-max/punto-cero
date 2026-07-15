@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T02:13:31.630666+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f9e4c51cf79e",
-        "score": 80,
-        "category": "política",
-        "title": "U.S. SUPREME COURT ALLOWS ALABAMA TO USE A CONGRESSIONAL MAP FAVORING REPUBLICANS FOR THE 2026 MIDTERM ELECTIONS.",
-        "candidate_tickers": [
-          "ALABAMA",
-          "TRUMP",
-          "REPUBLICANOS",
-          "VOTO",
-          "SUPREMACIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T02:16:09.966110+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7c294c5a08cb",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "Iran's IRGC attacks US Fifth Fleet headquarters, airbase, local media reports - Reuters",
-        "candidate_tickers": [
-          "IRGC",
-          "FIFTHFLEET",
-          "IRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T02:17:11.529228+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
-        "candidate_tickers": [
-          "COLOMBIA",
-          "FRAUDE",
-          "ELECCIONES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T02:17:38.307753+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28193,6 +28147,50 @@
           "ESPANA",
           "FRANCIA",
           "MBAPPE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T03:40:37.790545+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b87d0d0d6f69",
+        "score": 71,
+        "category": "Celebridades",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "THEPIANO",
+          "CANCER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T03:41:30.696983+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T03:44:46.830230+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9677fea854c4",
+        "score": 72,
+        "category": "humor y observación social",
+        "title": "Zoomer literally hit midlife crisis as soon as they leave the colleges.",
+        "candidate_tickers": [
+          "ZOOMERCRISIS",
+          "MIDLIFEZOOM",
+          "COLLEGEDROPOUT"
         ]
       }
     }
