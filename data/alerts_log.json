@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T07:21:26.706803+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "noticias locales",
-        "title": "Bizarre planning fail leaves 50-metre fence cutting through council garden: 'Makes no sense' - Yahoo News New Zealand",
-        "candidate_tickers": [
-          "FenceFail",
-          "GardenGate",
-          "CouncilCut"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T07:21:38.501231+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7c294c5a08cb",
-        "ticker": "IRAN",
-        "mint": "8rx2yx6gFLWJMvqiMoaxVgS7Li4NXKM2yPLbrRKGrDDT",
-        "mc": 192079.0
-      }
-    },
-    {
-      "ts": "2026-06-03T07:21:43.317251+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "209cf0d4b612",
-        "ticker": "FINALS",
-        "mint": "27TYCzK2YYEYcAvpRGAcjofrK2gLgXwgeUpJS95npump",
-        "mc": 36208.0
-      }
-    },
-    {
-      "ts": "2026-06-03T12:19:02.977092+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "674a9fd3857e",
-        "score": 89,
-        "category": "Tecnología y Futuro",
-        "title": "True",
-        "candidate_tickers": [
-          "AI_SANITY",
-          "MARCUSONAI",
-          "SUBSTACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T12:20:30.080496+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias internacionales",
-        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-        "candidate_tickers": [
-          "UkrDrone",
-          "PutinHacked",
-          "StPetersburgUnderAttack"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T12:21:15.867558+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bb70d453c541",
-        "score": 88,
-        "category": "Política y conflicto",
-        "title": "Live updates: Iran targets Kuwait and Bahrain as US conducts new strikes in latest test of peace talks - CNN",
-        "candidate_tickers": [
-          "IRANVSEEUU",
-          "GOLFOPÉRSICO",
-          "TREGUAENPELIGRO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T12:22:30.303924+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28197,6 +28119,97 @@
         "candidate_tickers": [
           "TRUE",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:34:32.593376+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a64017670d09",
+        "score": 80,
+        "category": "Política Internacional",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPVSIRAN",
+          "MASSIEGATE",
+          "IRANCRISIS",
+          "TRUMPWARS",
+          "GEOPOLITICS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:34:47.333482+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e822af7792ec",
+        "score": 88,
+        "category": "salud",
+        "title": "True",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "OMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:35:56.982112+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0be0666d780f",
+        "score": 70,
+        "category": "Accidentes y tragedias",
+        "title": "Alcatraz boat rescue: 1 killed, 3 missing after boat sinks in San Francisco Bay; SFFD rescue underway - ABC7 Bay Area",
+        "candidate_tickers": [
+          "SANFRANCISCODOGS",
+          "ALCATRAZTRAGEDY",
+          "REFUGIOANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:38:27.253736+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da4c96b909b2",
+        "score": 82,
+        "category": "política internacional",
+        "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
+        "candidate_tickers": [
+          "IRANVSUSA",
+          "BLOCKADE2024",
+          "TRUMPVSIRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:39:05.443261+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "economía",
+        "title": "Gold slips as oil rally keeps inflation, rate outlook on investors' radar - Reuters",
+        "candidate_tickers": [
+          "ORO",
+          "PETRÓLEO",
+          "INFLACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T08:39:36.385368+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0f8ebc602dc1",
+        "score": 70,
+        "category": "Celebridad fallecida",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILLSLASTROAR",
+          "JURASSICPAIN",
+          "THEPIANOPLAYERDIES"
         ]
       }
     }
