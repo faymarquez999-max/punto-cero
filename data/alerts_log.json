@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-03T22:57:26.308701+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "739bba8cd043",
-        "score": 74,
-        "category": "política internacional",
-        "title": "When the country needed a serious principled political party on the “right”, I launched @_AdvanceUK .",
-        "candidate_tickers": [
-          "TRUMP_IRAN",
-          "VIOLENCIA_EN_EL_REINO_UNIDO",
-          "POLITICA_INTERNACIONAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-03T22:57:41.360259+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "OPENAI'S ALTMAN SPOKE TO LAWMAKERS ON THE NEXT PHASE OF MODELS - SEMAFOR.",
-        "candidate_tickers": [
-          "ALTMAN",
-          "OPENAI",
-          "MODELS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-03T22:59:25.424992+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28194,6 +28165,34 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 318348.0
+      }
+    },
+    {
+      "ts": "2026-07-15T12:08:55.310589+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "af8c5a0360ef",
+        "score": 80,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIEVSTRUMP",
+          "TRUMPENDORSESMASSIE",
+          "MASSIEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T12:10:57.621962+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología",
+        "title": "Ancient times",
+        "candidate_tickers": [
+          "AncientTimes",
+          "ElonMusk"
+        ]
       }
     }
   ]
