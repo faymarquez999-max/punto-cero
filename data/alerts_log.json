@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T01:51:38.558332+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fd98a9ba7843",
-        "score": 82,
-        "category": "Muerte por sobredosis",
-        "title": "Fact: he died of 11ng/ml Fentanyl.",
-        "candidate_tickers": [
-          "FENTANYL",
-          "11NGML",
-          "DEAD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T01:52:16.537114+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9060be5dad49",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 353965.0
-      }
-    },
-    {
-      "ts": "2026-06-04T06:52:32.581864+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ea7f5860c014",
-        "score": 80,
-        "category": "Finanzas y Tecnología",
-        "title": "SpaceX",
-        "candidate_tickers": [
-          "SPACEX",
-          "MUSK",
-          "DEBUT",
-          "VALOR"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T06:54:25.956273+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28202,6 +28161,46 @@
           "HPBEAUTY",
           "GRANDEMAGIC"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-15T18:41:54.717859+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política y gobiernos",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "Massie",
+          "Trump",
+          "Clemency",
+          "RKelly"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T18:43:00.839696+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f8c2ccac853b",
+        "score": 90,
+        "category": "negocios",
+        "title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
+        "candidate_tickers": [
+          "STRIPEPAYPAL",
+          "PAYPALADVENT",
+          "STRIPEADVENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-15T18:47:22.189764+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ca65f28a7299",
+        "ticker": "RIPTRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "mc": 195590.0
       }
     }
   ]

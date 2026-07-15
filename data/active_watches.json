@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "61e0fa62bd5b",
-      "fingerprint": "61e0fa62bd5b",
-      "narrative_summary": "Elon Musk confirma la verdad, generando un gran interés en la comunidad",
-      "why_memeable": "La respuesta 'True' de Elon Musk es corta, repetible y compartible sin contexto",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSKTRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "xcancel"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 7,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-29T17:01:11.873434+00:00",
-      "expires_at": "2026-07-06T17:01:11.873434+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Elon",
-        "name": "The White Bull",
-        "mint": "H86Mm1QWCW5XrA4TQaQcCLfwG8u1xjQ2RupigorYpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 18756.0,
-        "liquidity_usd": 10405.71,
-        "price_usd": 1.876e-05,
-        "volume_h24": 100507.28,
-        "volume_h1": 2114.04,
-        "volume_m5": 269.42,
-        "price_change_5m": 0.34,
-        "price_change_1h": -10.84,
-        "price_change_24h": 12.3,
-        "txns_h1_buys": 27,
-        "txns_h1_sells": 17,
-        "created_ts": 1781624619000,
-        "pair_created_at": 1781624619000,
-        "url": "https://dexscreener.com/solana/7epr63vdigaukghjcugz682as238296yfxybj2685nz6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-29T17:03:05.283946+00:00"
-    },
-    {
       "id": "c477773e9464",
       "fingerprint": "c477773e9464",
       "narrative_summary": "Declaraciones polémicas de Trump sobre la izquierda radical y la situación política en Estados Unidos",
@@ -10040,13 +9970,14 @@
       "started_at": "2026-07-13T18:08:06.930529+00:00",
       "expires_at": "2026-07-15T18:08:06.930529+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Former Philly Proud Boys leader Zach Rehl's seditious conspiracy case was dismissed by a federal judge - Inquirer.com",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-15T18:41:41.440485+00:00"
     },
     {
       "id": "85bd18feab77",
@@ -10083,13 +10014,14 @@
       "started_at": "2026-07-13T18:10:23.793721+00:00",
       "expires_at": "2026-07-15T18:10:23.793721+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Viral pup Jonah gets VIP treatment at LoanDepot Park - FOX 13 Tampa Bay",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-15T18:41:41.440497+00:00"
     },
     {
       "id": "dbab66f4857d",
@@ -11481,7 +11413,52 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "f8c2ccac853b",
+      "fingerprint": "f8c2ccac853b",
+      "narrative_summary": "Stripe y Advent ofrecen comprar a PayPal por más de $53 mil millones",
+      "why_memeable": "La narrativa tiene un título claro y un enlace a la fuente, lo que la hace fácilmente compartible y recordable",
+      "category": "negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "STRIPEPAYPAL",
+        "PAYPALADVENT",
+        "STRIPEADVENT"
+      ],
+      "key_terms_for_dex_search": [
+        "Stripe",
+        "PayPal",
+        "Advent",
+        "oferta de compra"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-15T18:43:00.407206+00:00",
+      "expires_at": "2026-07-17T18:43:00.407206+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-15T15:57:56.457023+00:00"
+  "last_updated": "2026-07-15T18:43:00.407206+00:00"
 }
