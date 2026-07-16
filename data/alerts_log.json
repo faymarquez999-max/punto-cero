@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T05:05:17.467353+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "13413ca04e59",
-        "ticker": "PRATT",
-        "mint": "6bXmxW5MFMDxv48aUsVtqoqUgrwHFha92PupSXapump",
-        "mc": 67082.0
-      }
-    },
-    {
       "ts": "2026-06-05T05:05:23.461258+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28229,6 +28219,21 @@
         "ticker": "POINTLESS",
         "mint": "D4pi5eJNqT5mCzQcxAGfMavgVYLspfYkAQKKvQ8Xpump",
         "mc": 23717.0
+      }
+    },
+    {
+      "ts": "2026-07-16T20:35:34.126112+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4eaacbdd2b24",
+        "score": 78,
+        "category": "Noticias de actualidad",
+        "title": "Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News",
+        "candidate_tickers": [
+          "SALTICE",
+          "ICEABATE",
+          "FBIVISTA"
+        ]
       }
     }
   ]

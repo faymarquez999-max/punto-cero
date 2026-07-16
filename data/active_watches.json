@@ -1,88 +1,6 @@
 {
   "watches": [
     {
-      "id": "dc3b36936cd7",
-      "fingerprint": "dc3b36936cd7",
-      "narrative_summary": "La narrativa gira en torno a la disminución de muertes en África después de que se cortó la financiación de USAID, lo que ha generado un debate sobre la influencia de la ayuda exterior en la política y la estabilidad de los países africanos.",
-      "why_memeable": "La narrativa combina elementos de controversia política, ayuda exterior y consecuencias inesperadas, lo que la hace atractiva para la creación de memes y la discusión en línea.",
-      "category": "Política y ayuda exterior",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AIDCUT",
-        "AFRICARES",
-        "USAFUNDS",
-        "LEFTFAIL",
-        "TRUMPCHANGE"
-      ],
-      "key_terms_for_dex_search": [
-        "USAID",
-        "África",
-        "ayuda exterior",
-        "política",
-        "Trump"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-06-30T06:22:04.236555+00:00",
-      "expires_at": "2026-07-03T06:22:04.236555+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "USAID",
-        "name": "USAID",
-        "mint": "6P8ixuqGZpfyHAxyxbU4a31vsMiFiCQjBzVV58gPpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 15597.0,
-        "liquidity_usd": 16492.42,
-        "price_usd": 1.56e-05,
-        "volume_h24": 22257.07,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 14.72,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1738517148000,
-        "pair_created_at": 1738517148000,
-        "url": "https://dexscreener.com/solana/j3und1eu6ywnknpg5tc7ps4gcewic2xtj1zpfmnwcpme",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: USAID in USAID",
-        "safety_score": 2167,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T06:27:05.159589+00:00"
-    },
-    {
       "id": "0eb482132e13",
       "fingerprint": "0eb482132e13",
       "narrative_summary": "Una filtración de datos en Tata Electronics expone información confidencial sobre el iPhone 18 Pro, incluyendo una lista de proveedores y fotos.",
@@ -11100,7 +11018,52 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-16T19:31:27.057037+00:00"
+    },
+    {
+      "id": "4eaacbdd2b24",
+      "fingerprint": "4eaacbdd2b24",
+      "narrative_summary": "Un agente de la FBI vio sal en la van de un hombre que fue abatido por ICE en Houston, según un abogado de la familia - NBC News",
+      "why_memeable": "La narrativa tiene un título claro y un contenido que puede ser compartido fácilmente",
+      "category": "Noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SALTICE",
+        "ICEABATE",
+        "FBIVISTA"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "FBI",
+        "abate",
+        "salt"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-16T20:35:33.451799+00:00",
+      "expires_at": "2026-07-18T20:35:33.451799+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-16T19:31:27.057054+00:00"
+  "last_updated": "2026-07-16T20:35:33.451799+00:00"
 }
