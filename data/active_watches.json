@@ -1,211 +1,6 @@
 {
   "watches": [
     {
-      "id": "cd5718cc5c10",
-      "fingerprint": "cd5718cc5c10",
-      "narrative_summary": "Putin admite escasez de combustible causada por ataques ucranianos",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una frase memeable ('Putin admite escasez de combustible')",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PUTINSCARCE",
-        "RUSSIAFUEL",
-        "UKRAINEATTACK"
-      ],
-      "key_terms_for_dex_search": [
-        "Putin",
-        "escasez de combustible",
-        "ataques ucranianos",
-        "Rusia",
-        "Ucrania"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T23:41:02.159566+00:00",
-      "expires_at": "2026-07-01T23:41:02.159566+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-02T07:53:08.034798+00:00"
-    },
-    {
-      "id": "6cdffacfdc4a",
-      "fingerprint": "6cdffacfdc4a",
-      "narrative_summary": "Elon Musk confirma que 'True' en una publicación viral en Twitter.",
-      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen fácilmente compartible y repetible.",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "True",
-        "Twitter"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-06-29T23:41:51.536398+00:00",
-      "expires_at": "2026-07-01T23:41:51.536398+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25597.0,
-        "liquidity_usd": 26337.61,
-        "price_usd": 2.559e-05,
-        "volume_h24": 348460.11,
-        "volume_h1": 348460.11,
-        "volume_m5": 42408.94,
-        "price_change_5m": -12.59,
-        "price_change_1h": 306.0,
-        "price_change_24h": 306.0,
-        "txns_h1_buys": 2888,
-        "txns_h1_sells": 652,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T06:26:56.900554+00:00"
-    },
-    {
-      "id": "4b0b6f76e7dc",
-      "fingerprint": "4b0b6f76e7dc",
-      "narrative_summary": "Elon Musk publica 'Yup' en su cuenta de Twitter, generando mucha atención y engagement.",
-      "why_memeable": "La simplicidad y brevedad de la publicación hacen que sea fácilmente compartible y recordable.",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "YUP",
-        "TWEET"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-29T23:42:19.953878+00:00",
-      "expires_at": "2026-07-01T23:42:19.953878+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25597.0,
-        "liquidity_usd": 26337.61,
-        "price_usd": 2.559e-05,
-        "volume_h24": 348460.11,
-        "volume_h1": 348460.11,
-        "volume_m5": 42408.94,
-        "price_change_5m": -12.59,
-        "price_change_1h": 306.0,
-        "price_change_24h": 306.0,
-        "txns_h1_buys": 2888,
-        "txns_h1_sells": 652,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T06:26:58.005689+00:00"
-    },
-    {
       "id": "aa673aae3ad8",
       "fingerprint": "aa673aae3ad8",
       "narrative_summary": "Listas de los mejores monedas memes para invertir en 2026",
@@ -8998,13 +8793,14 @@
       "started_at": "2026-07-13T07:45:35.295944+00:00",
       "expires_at": "2026-07-16T07:45:35.295944+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Home secretary to set out plan to deport Rochdale grooming gang leader",
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-16T11:22:29.955861+00:00"
     },
     {
       "id": "10e66fef0861",
@@ -9043,13 +8839,14 @@
       "started_at": "2026-07-13T07:46:31.213468+00:00",
       "expires_at": "2026-07-16T07:46:31.213468+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "At least 27 killed, 22 critically injured in Bangkok bar fire",
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-16T11:22:29.955873+00:00"
     },
     {
       "id": "e1d6fe5c8532",
@@ -9277,7 +9074,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "7313936acdf6",
@@ -9481,14 +9278,15 @@
       "started_at": "2026-07-14T10:23:53.231972+00:00",
       "expires_at": "2026-07-16T10:23:53.231972+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-16T11:22:29.955878+00:00"
     },
     {
       "id": "2c33f05742a3",
@@ -9525,14 +9323,15 @@
       "started_at": "2026-07-14T10:24:29.852876+00:00",
       "expires_at": "2026-07-16T10:24:29.852876+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-16T11:22:29.955880+00:00"
     },
     {
       "id": "0fa74a3cc962",
@@ -9569,13 +9368,14 @@
       "started_at": "2026-07-14T10:25:34.477308+00:00",
       "expires_at": "2026-07-16T10:25:34.477308+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Literally true",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-16T11:22:29.955883+00:00"
     },
     {
       "id": "32a9074c7b6c",
@@ -9613,13 +9413,14 @@
       "started_at": "2026-07-14T10:26:17.837681+00:00",
       "expires_at": "2026-07-16T10:26:17.837681+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The woke mob had turned Twitter into Wormtongue to the World",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-16T11:22:29.955885+00:00"
     },
     {
       "id": "d663acc7869f",
@@ -9665,7 +9466,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "c397bb42edd5",
@@ -9785,7 +9586,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "7f27f3129862",
@@ -9900,7 +9701,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "4c63e443b03b",
@@ -9946,7 +9747,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "f86c5377320f",
@@ -9996,7 +9797,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "a40cd0f39826",
@@ -10113,7 +9914,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "b87d0d0d6f69",
@@ -10159,7 +9960,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "9677fea854c4",
@@ -10356,7 +10157,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "9d594b99d043",
@@ -10403,7 +10204,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "6adee851d202",
@@ -10449,7 +10250,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "60dd8e35aac0",
@@ -10491,7 +10292,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "72d5d4be4cab",
@@ -10537,7 +10338,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "195b6465f7db",
@@ -10652,7 +10453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f8c2ccac853b",
@@ -10697,7 +10498,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "322f73de5f7a",
@@ -10745,7 +10546,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d77ac89abfdb",
@@ -10796,7 +10597,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0fdaa35c6b2c",
@@ -10843,7 +10644,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7b58362f392f",
@@ -10961,7 +10762,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "71099b496c94",
@@ -11007,7 +10808,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1b80b2c062e0",
@@ -11053,7 +10854,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8137acc8726f",
@@ -11173,7 +10974,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "620bfa1c1805",
@@ -11219,7 +11020,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bf9119ed9633",
@@ -11265,8 +11066,171 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "1879e5412eb4",
+      "fingerprint": "1879e5412eb4",
+      "narrative_summary": "El ejército estadounidense intenta detener un tanque de petróleo inutilizado que se dirige hacia un puerto iraní en el Golfo Pérsico.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre el ejército estadounidense y el tanque de petróleo inutilizado, lo que la hace fácil de capturar en una frase.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TANKERIRAN",
+        "GULFOFPEACE",
+        "USVSIRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Golfo Pérsico",
+        "tanque de petróleo",
+        "Ejército estadounidense",
+        "Irán"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T11:23:08.426789+00:00",
+      "expires_at": "2026-07-18T11:23:08.426789+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. MILITARY: DISABLED UNLADEN OIL TANKER ATTEMPTING TO SAIL TOWARD AN IRANIAN PORT IN THE ARABIAN GULF",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "cd771d1402e2",
+      "fingerprint": "cd771d1402e2",
+      "narrative_summary": "Más de 100 demócratas de la Cámara de Representantes votan para cortar la ayuda a Israel en un cambio significativo.",
+      "why_memeable": "La narrativa es memeable debido a la sorpresa y la tensión generadas por la votación de los demócratas.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAELAIDCUT",
+        "DEMOCRATASVSISRAEL",
+        "CAMBIOENLACÁMARA"
+      ],
+      "key_terms_for_dex_search": [
+        "Israel",
+        "ayuda",
+        "demócratas",
+        "Cámara de Representantes",
+        "votación"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T11:24:25.492066+00:00",
+      "expires_at": "2026-07-18T11:24:25.492066+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "In seismic shift, more than 100 House Democrats vote to end Israel aid - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "5a911e93f033",
+      "fingerprint": "5a911e93f033",
+      "narrative_summary": "Elon Musk afirma que discutir con personas controladas por algoritmos (NPCs) es inútil.",
+      "why_memeable": "La frase es corta, fácil de recordar y tiene un impacto emocional.",
+      "category": "Tecnología y sociedad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "NPC",
+        "ARGUING",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "NPC",
+        "ARGUING"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T11:26:22.483022+00:00",
+      "expires_at": "2026-07-18T11:26:22.483022+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 321689.0,
+        "liquidity_usd": 97652.67,
+        "price_usd": 0.0003217,
+        "volume_h24": 12650.18,
+        "volume_h1": 695.45,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 2.74,
+        "price_change_24h": 4.17,
+        "txns_h1_buys": 8,
+        "txns_h1_sells": 2,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Arguing with NPCs is pointless",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-16T11:27:40.133793+00:00"
     }
   ],
-  "last_updated": "2026-07-16T07:06:26.044711+00:00"
+  "last_updated": "2026-07-16T11:27:40.133811+00:00"
 }

@@ -1,77 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T17:03:33.375209+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "32645234d7a4",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 353565.0
-      }
-    },
-    {
-      "ts": "2026-06-04T19:35:20.330836+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Deportes",
-        "title": "FIFA unveils Netflix World Cup game timed for 2026 tournament kickoff - Reuters",
-        "candidate_tickers": [
-          "FIFAxNETFLIX",
-          "MESSIxNETFLIX",
-          "RONALDOxNETFLIX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T21:18:58.500209+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "finanzas",
-        "title": "SpaceX IPO info",
-        "candidate_tickers": [
-          "SPACEX",
-          "MUSK",
-          "IPO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T21:20:54.203556+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a0c864fa2408",
-        "score": 79,
-        "category": "maltrato animal",
-        "title": "How misinformation about student's murder sent two people into hiding",
-        "candidate_tickers": [
-          "MALTRATOANIMAL",
-          "PERROSVIVOS",
-          "ANIMALMUERTO",
-          "ACUSADO",
-          "MALTRATO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T21:21:31.185939+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c48f4b94a142",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Revelación impactante: el «arrogante» Arne Slot arremetió personalmente contra estos 5 jugadores en el vestuario del Liverpool - Goal.com",
-        "candidate_tickers": [
-          "ARNESLOT",
-          "LIVERPOOL",
-          "IRAOLA",
-          "PELEAENELVESTUARIO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T21:23:21.026475+00:00",
       "kind": "shadow",
       "payload": {
@@ -28236,6 +28165,75 @@
           "HUMO",
           "INCENDIO"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-16T11:23:09.052423+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1879e5412eb4",
+        "score": 84,
+        "category": "Noticias internacionales",
+        "title": "U.S. MILITARY: DISABLED UNLADEN OIL TANKER ATTEMPTING TO SAIL TOWARD AN IRANIAN PORT IN THE ARABIAN GULF",
+        "candidate_tickers": [
+          "TANKERIRAN",
+          "GULFOFPEACE",
+          "USVSIRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T11:24:26.112023+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cd771d1402e2",
+        "score": 82,
+        "category": "política internacional",
+        "title": "In seismic shift, more than 100 House Democrats vote to end Israel aid - Politico",
+        "candidate_tickers": [
+          "ISRAELAIDCUT",
+          "DEMOCRATASVSISRAEL",
+          "CAMBIOENLACÁMARA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T11:26:23.147053+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5a911e93f033",
+        "score": 84,
+        "category": "Tecnología y sociedad",
+        "title": "Arguing with NPCs is pointless",
+        "candidate_tickers": [
+          "NPC",
+          "ARGUING",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T11:27:01.846242+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Defensa y seguridad",
+        "title": "KUWAIT AIRE DEFENCES RESPONDING TO 'HOSTILE DRONE THREATS' - KUWAITI ARMY",
+        "candidate_tickers": [
+          "KUWAIT",
+          "DRONE",
+          "DEFENCES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T11:27:40.139754+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5a911e93f033",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 321689.0
       }
     }
   ]
