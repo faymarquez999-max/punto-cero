@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T22:59:38.660328+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4944db5a7239",
-        "score": 79,
-        "category": "Tecnología",
-        "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "JACKCLARK",
-          "AIBRAKE",
-          "TECHWARNING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T23:00:17.891871+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes",
-        "title": "History-making qualifier Chwalinska sets up Andreeva French Open final",
-        "candidate_tickers": [
-          "Chwalinska",
-          "Andreeva",
-          "FrenchOpen"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T23:01:25.305100+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Muerte de una figura cultural",
-        "title": "Marjane Satrapi, the author of ‘Persepolis,’ dies at 56",
-        "candidate_tickers": [
-          "Persepolis",
-          "MarjaneSatrapi",
-          "56anos"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T00:18:15.552860+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Tecnología",
-        "title": "Starlink V3 satellites have >10X bandwidth of V2 and there’ll be >10X launched, which means >100X more bandwidth.",
-        "candidate_tickers": [
-          "StarlinkV3",
-          "ElonMuskViral",
-          "BandaAnchaViral"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T00:18:47.519833+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "13413ca04e59",
-        "score": 70,
-        "category": "política",
-        "title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
-        "candidate_tickers": [
-          "TRUMP_VOTE",
-          "VOTEARAMA",
-          "DEMOCRATS_VERSUS_TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T00:19:59.706345+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Kennedy Center Tells Staff to Immediately Remove Trump’s Name From Documents - The New York Times",
-        "candidate_tickers": [
-          "TrumpBanned",
-          "KennedyCenterScandal",
-          "TrumpNameRemoved"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T00:20:25.857626+00:00",
       "kind": "shadow",
       "payload": {
@@ -28228,6 +28141,102 @@
           "KINSTONSHOOTING",
           "17YEAROLDCONSPIRACY",
           "ANIMALCRUELTY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:16:45.869530+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ededb0f3feb3",
+        "score": 89,
+        "category": "Crueldad animal",
+        "title": "OH MY GOSH!",
+        "candidate_tickers": [
+          "PERROSMUERTOS",
+          "RESCATEANIMAL",
+          "CRUELDADANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:17:22.967272+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "080a3d827df3",
+        "score": 78,
+        "category": "política",
+        "title": "HOUTHIS THREATEN SAUDI OIL FACILITIES",
+        "candidate_tickers": [
+          "HOUTHI",
+          "SAUDI",
+          "PETRÓLEO",
+          "GUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:18:03.868665+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "de0f3d00db06",
+        "score": 89,
+        "category": "política",
+        "title": "IRAN TELLS YEMEN'S HOUTHIS TO CLOSE BAB EL-MANDEB GATEWAY TO THE RED SEA IF U.S. HITS POWER NETWORK, SOURCES SAY",
+        "candidate_tickers": [
+          "IRANGATE",
+          "BABELMANDEB",
+          "ENERGYCHOKEPOINT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:18:35.871426+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b1c2aa38bd7f",
+        "score": 88,
+        "category": "política",
+        "title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
+        "candidate_tickers": [
+          "ZELENSKY",
+          "UCRANIA",
+          "PROTESTAS",
+          "MINISTRO DE DEFENSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:21:25.212337+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e611a5fdacf0",
+        "score": 91,
+        "category": "Política y conspiración",
+        "title": "Epstein linked to Israeli ‘deep state’, US intel, says Vance: What we know",
+        "candidate_tickers": [
+          "EPSTEIN",
+          "VANCE",
+          "ISRAEL",
+          "ESTADOS UNIDOS",
+          "DEEP STATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T15:22:01.036337+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9f0ef714a6da",
+        "score": 89,
+        "category": "política",
+        "title": "Zelenskiy's dismissal of Ukraine's defence chief triggers political crisis and protests - Reuters",
+        "candidate_tickers": [
+          "ZELENSKIY",
+          "UCRANIA",
+          "CRISIS POLÍTICA",
+          "PROTESTAS",
+          "JEFE DE DEFENSA"
         ]
       }
     }
