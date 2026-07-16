@@ -1,174 +1,6 @@
 {
   "watches": [
     {
-      "id": "461d58ab63db",
-      "fingerprint": "461d58ab63db",
-      "narrative_summary": "Iran aumenta la tensión sobre el control del estrecho de Hormuz antes de nuevas negociaciones",
-      "why_memeable": "La narrativa tiene un núcleo claro (Iran, Hormuz, negociaciones) y un contexto emocional (tensión, amenaza)",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HORMUZ",
-        "ESTRECHO_DE_HORMUZ",
-        "IRAN_NEGOCIACIONES"
-      ],
-      "key_terms_for_dex_search": [
-        "HORMUZ",
-        "IRAN",
-        "NEGOCIACIONES",
-        "ESTRECHO_DE_HORMUZ"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-06-30T01:55:34.815653+00:00",
-      "expires_at": "2026-07-02T01:55:34.815653+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "3vMDgqSWQFJje5HpnbRZRLEEtK2a1mjWJu2azNkPLcSv",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 369662.0,
-        "liquidity_usd": 110014.51,
-        "price_usd": 3.696e-06,
-        "volume_h24": 3506492.44,
-        "volume_h1": 3243522.84,
-        "volume_m5": 290589.18,
-        "price_change_5m": 4.56,
-        "price_change_1h": 62.97,
-        "price_change_24h": 113.0,
-        "txns_h1_buys": 9701,
-        "txns_h1_sells": 4898,
-        "created_ts": 1782878173000,
-        "pair_created_at": 1782878173000,
-        "url": "https://dexscreener.com/solana/9dh1aifsrkezzgh1fsox1kd7zmlohee6zc6dgavgdz7y",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IRAN in IRAN",
-        "safety_score": 28999,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Iran Ratchets Up Talk of Controlling Hormuz Ahead of New Talks - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-01T05:03:56.791763+00:00"
-    },
-    {
-      "id": "4d0905517e9f",
-      "fingerprint": "4d0905517e9f",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención",
-      "why_memeable": "Frase breve y directa de Elon Musk, figura polarizante",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "true",
-        "twitter"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-30T01:56:16.492443+00:00",
-      "expires_at": "2026-07-02T01:56:16.492443+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 329730.0,
-        "liquidity_usd": 96939.02,
-        "price_usd": 0.0003298,
-        "volume_h24": 116027.82,
-        "volume_h1": 5962.16,
-        "volume_m5": 77.69,
-        "price_change_5m": -0.78,
-        "price_change_1h": -5.93,
-        "price_change_24h": 12.42,
-        "txns_h1_buys": 77,
-        "txns_h1_sells": 27,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T06:27:02.510946+00:00"
-    },
-    {
       "id": "dc3b36936cd7",
       "fingerprint": "dc3b36936cd7",
       "narrative_summary": "La narrativa gira en torno a la disminución de muertes en África después de que se cortó la financiación de USAID, lo que ha generado un debate sobre la influencia de la ayuda exterior en la política y la estabilidad de los países africanos.",
@@ -8902,7 +8734,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "7313936acdf6",
@@ -9415,7 +9247,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "7f27f3129862",
@@ -9577,7 +9409,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "f86c5377320f",
@@ -9627,7 +9459,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "a40cd0f39826",
@@ -9744,7 +9576,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "b87d0d0d6f69",
@@ -9790,7 +9622,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "9677fea854c4",
@@ -9987,7 +9819,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "9d594b99d043",
@@ -10034,7 +9866,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6adee851d202",
@@ -10080,7 +9912,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "60dd8e35aac0",
@@ -10122,7 +9954,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "72d5d4be4cab",
@@ -10168,7 +10000,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "195b6465f7db",
@@ -10283,7 +10115,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f8c2ccac853b",
@@ -10328,7 +10160,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "322f73de5f7a",
@@ -10376,7 +10208,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d77ac89abfdb",
@@ -10427,7 +10259,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "0fdaa35c6b2c",
@@ -10474,7 +10306,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7b58362f392f",
@@ -10592,7 +10424,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "71099b496c94",
@@ -10638,7 +10470,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1b80b2c062e0",
@@ -10684,7 +10516,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8137acc8726f",
@@ -10804,7 +10636,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "620bfa1c1805",
@@ -10850,7 +10682,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bf9119ed9633",
@@ -10896,7 +10728,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1879e5412eb4",
@@ -10943,7 +10775,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cd771d1402e2",
@@ -10989,7 +10821,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5a911e93f033",
@@ -11106,7 +10938,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "67a8afd8702e",
@@ -11149,8 +10981,126 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "e958ddbc50f9",
+      "fingerprint": "e958ddbc50f9",
+      "narrative_summary": "Trump y Elon Musk tienen una disputa pública, con Trump acusando a Musk de estar involucrado en archivos de Epstein.",
+      "why_memeable": "La disputa entre Trump y Musk es un tema interesante y controvertido que puede generar mucha atención y debate.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSMUSK",
+        "MUSKVSTRUMP",
+        "TRUMPVSELON"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "ELON MUSK",
+        "DISPUTA",
+        "ARCHIVOS DE EPSTEIN"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-07-16T19:26:37.341340+00:00",
+      "expires_at": "2026-07-18T19:26:37.341340+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "OH MY GOSH!",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "fabca0445fc4",
+      "fingerprint": "fabca0445fc4",
+      "narrative_summary": "Elon Musk compartió un pensamiento sobre la inutilidad de discutir con personajes no jugables (NPCs) en línea.",
+      "why_memeable": "La frase es breve, memorable y tiene un alto potencial de ser compartida.",
+      "category": "Tecnología y sociedad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "NPC",
+        "ARGUING",
+        "POINTLESS"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "npcs",
+        "arguing",
+        "pointless"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-16T19:30:56.848072+00:00",
+      "expires_at": "2026-07-18T19:30:56.848072+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "POINTLESS",
+        "name": "Pointless Coin",
+        "mint": "D4pi5eJNqT5mCzQcxAGfMavgVYLspfYkAQKKvQ8Xpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 23717.0,
+        "liquidity_usd": 13134.03,
+        "price_usd": 2.372e-05,
+        "volume_h24": 23342.61,
+        "volume_h1": 3076.42,
+        "volume_m5": 260.26,
+        "price_change_5m": 2.7,
+        "price_change_1h": 49.42,
+        "price_change_24h": -49.32,
+        "txns_h1_buys": 57,
+        "txns_h1_sells": 90,
+        "created_ts": 1783782343000,
+        "pair_created_at": 1783782343000,
+        "url": "https://dexscreener.com/solana/7p1ld2vwkrcdbxnhwak3fkdj7fcakubszmeaucgivngq",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: POINTLESS==POINTLESS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Arguing with NPCs is pointless",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-16T19:31:27.057037+00:00"
     }
   ],
-  "last_updated": "2026-07-16T16:52:42.516303+00:00"
+  "last_updated": "2026-07-16T19:31:27.057054+00:00"
 }

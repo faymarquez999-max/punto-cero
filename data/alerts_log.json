@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T05:02:32.044330+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Noticias de tecnología y justicia laboral",
-        "title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
-        "candidate_tickers": [
-          "KoreaAI",
-          "TechJusticia",
-          "MinistroDeTrabajo",
-          "JusticiaLaboral"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T05:03:54.298819+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cf714b416dc2",
-        "score": 88,
-        "category": "política",
-        "title": "Ivanka Trump and Jared Kushner’s Albanian resort plan sets off days of protests - The Washington Post",
-        "candidate_tickers": [
-          "IVANKA",
-          "KUSHNER",
-          "ALBANIA",
-          "RESORT",
-          "PROTESTAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T05:04:25.010918+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "72f6e5bf25fa",
-        "score": 74,
-        "category": "política",
-        "title": "Zelenskiy, in open letter, invites Putin to talks to end the war - Reuters",
-        "candidate_tickers": [
-          "ZELENSKIY",
-          "PUTIN",
-          "NEGOCIACIONES",
-          "GUERRAUCRANIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T05:05:17.467353+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28237,6 +28189,46 @@
           "MassieEndorsement",
           "TrumpVsWorstCongressman"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-16T19:26:37.726991+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e958ddbc50f9",
+        "score": 70,
+        "category": "política",
+        "title": "OH MY GOSH!",
+        "candidate_tickers": [
+          "TRUMPVSMUSK",
+          "MUSKVSTRUMP",
+          "TRUMPVSELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T19:30:57.349261+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fabca0445fc4",
+        "score": 82,
+        "category": "Tecnología y sociedad",
+        "title": "Arguing with NPCs is pointless",
+        "candidate_tickers": [
+          "NPC",
+          "ARGUING",
+          "POINTLESS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T19:31:27.064286+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fabca0445fc4",
+        "ticker": "POINTLESS",
+        "mint": "D4pi5eJNqT5mCzQcxAGfMavgVYLspfYkAQKKvQ8Xpump",
+        "mc": 23717.0
       }
     }
   ]
