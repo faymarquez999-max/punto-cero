@@ -1,110 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T13:55:40.445063+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4f7ef9e97032",
-        "score": 91,
-        "category": "noticias/actualidad",
-        "title": "Sherpa rescued after going missing on Everest with no food, oxygen - Reuters",
-        "candidate_tickers": [
-          "EVERESTRESCUE",
-          "SHERPASAVED",
-          "MOUNTEVEREST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T13:56:40.229211+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "72724c6e687e",
-        "score": 73,
-        "category": "Noticias y entretenimiento",
-        "title": "Scott Pelley fired from ‘60 Minutes,’ deepening turmoil at CBS News - AP News",
-        "candidate_tickers": [
-          "PELLEYFIRED",
-          "CBSNEWSTURBULENCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T13:57:22.473838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "64aa353032d2",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T13:58:04.728402+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bac537968c99",
-        "score": 80,
-        "category": "tech",
-        "title": "x.com/i/article/206200131550…",
-        "candidate_tickers": [
-          "XCOM",
-          "ELONMUSK",
-          "XCANCEL",
-          "DATEREPUBLICAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T17:00:26.542549+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Muerte de una autora de cómics",
-        "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi, author of ‘Persepolis,’ dies at 56 - AP News",
-        "candidate_tickers": [
-          "Persepolis",
-          "MarjaneSatrapi",
-          "Cómics"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T17:01:10.355302+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "368c7e976a55",
-        "score": 76,
-        "category": "política",
-        "title": "Ex-national security adviser John Bolton will plead guilty in classified information case: AP source - AP News",
-        "candidate_tickers": [
-          "BOLTONGUILTY",
-          "TRUMPSCANDAL",
-          "CLASSIFIEDINFO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T17:01:55.491128+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32645234d7a4",
-        "score": 83,
-        "category": "Celebridad/Política",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T17:03:33.375209+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28234,6 +28130,111 @@
           "SAMNEILL",
           "JURASSICPARK",
           "THEPIANO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:32:30.623745+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7d66731e7e84",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMP",
+          "ENDORSERGATE",
+          "CONGRESS",
+          "POLITICS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:32:44.997925+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología y redes sociales",
+        "title": "TikTok faces Ofcom investigation over child age checks",
+        "candidate_tickers": [
+          "TikTokGate",
+          "OfcomTikTok",
+          "TikTokMenores"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:33:14.340859+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "US military to start screening for testosterone deficiency, Hegseth says",
+        "candidate_tickers": [
+          "TestosteronaGobierno",
+          "SoldadosTestosterona",
+          "HegsethPolemica"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:33:52.614909+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "entretenimiento",
+        "title": "'Sanford and Son' Star Hal Williams Dead at 91",
+        "candidate_tickers": [
+          "HalWilliams",
+          "SanfordAndSon",
+          "FallecimientoActores"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:35:09.291045+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "988590f91470",
+        "score": 80,
+        "category": "Muerte de un actor famoso",
+        "title": "Desvelada la causa del fallecimiento del actor Sam Neill - Ultima Hora",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "NEILLMUERTE",
+          "FALLECIMIENTOSAMNEILL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:35:49.023551+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "565a404f61eb",
+        "score": 80,
+        "category": "política",
+        "title": "JD Vance’s Own Secret Service Agents Leak Jaw-Dropping Diva Demands - The Daily Beast",
+        "candidate_tickers": [
+          "JDVANCELEAKS",
+          "SECRETSERVICESCANDAL",
+          "VANCEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T09:36:58.137569+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a7c17e2a3398",
+        "score": 80,
+        "category": "Medio ambiente",
+        "title": "Toronto engulfed by wildfire smoke as US cities threatened",
+        "candidate_tickers": [
+          "TORONTO",
+          "FUEGO",
+          "HUMO",
+          "INCENDIO"
         ]
       }
     }
