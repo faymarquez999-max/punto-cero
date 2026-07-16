@@ -1,48 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T08:56:23.338684+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "475ddcfcdf5e",
-        "score": 74,
-        "category": "Tecnología y economía",
-        "title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
-        "candidate_tickers": [
-          "KOREATECH",
-          "MINISTRODETRABAJO",
-          "EXCESODEBENEFICIOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T08:57:46.931941+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "022f4c0abe46",
-        "score": 85,
-        "category": "celebridad",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T08:58:09.075507+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "corrupción",
-        "title": "Corruption",
-        "candidate_tickers": [
-          "CORRUPTION",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T08:58:30.644116+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28236,6 +28194,47 @@
           "EE.UU.",
           "ESTRECHO DE ORMUZ",
           "LÍNEA ROJA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T23:43:32.765123+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política y tecnología",
+        "title": "‘Love Island USA’ season 8 contestant Jen Terry signs with talent management company Motive.",
+        "candidate_tickers": [
+          "MUSKTERRY",
+          "TRUMPMUSK",
+          "EPSTEIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T23:44:22.029356+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "crimen animal",
+        "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
+        "candidate_tickers": [
+          "GatitoTorturado",
+          "SanFranciscoCrueldad"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T23:45:01.725251+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política",
+        "title": "Brazil readies 'tough' response to new Trump tariffs, sources say - Reuters",
+        "candidate_tickers": [
+          "BRZ",
+          "TRUMP",
+          "ARANCELES"
         ]
       }
     }
