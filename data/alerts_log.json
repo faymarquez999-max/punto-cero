@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T06:56:01.906699+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ea7f5860c014",
-        "ticker": "spaceX",
-        "mint": "7DkifRBYGVdbrkse2wmexqu5vzUaw5cZHEgDQW1hpump",
-        "mc": 14349.0
-      }
-    },
-    {
-      "ts": "2026-06-04T06:56:06.132813+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "42c2e2177e4f",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 344101.0
-      }
-    },
-    {
-      "ts": "2026-06-04T10:44:09.382404+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "928bba0e28d0",
-        "score": 80,
-        "category": "Finanzas y tecnología",
-        "title": "SpaceX",
-        "candidate_tickers": [
-          "SPACEX",
-          "MUSK",
-          "STARLINK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T10:46:52.644416+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2a17d0836e0b",
-        "score": 82,
-        "category": "Tecnología y celebridades",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T10:47:14.625369+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28210,6 +28160,62 @@
         "ticker": "RIPTRUMP",
         "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
         "mc": 179871.0
+      }
+    },
+    {
+      "ts": "2026-07-16T01:02:34.487079+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7b58362f392f",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "SpaceX shares slide below IPO price for the first time as blistering rally unravels - Reuters",
+        "candidate_tickers": [
+          "SPACEX",
+          "ELON",
+          "MUSK",
+          "SPACE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T01:03:37.373390+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "522146902285",
+        "score": 90,
+        "category": "política internacional",
+        "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant - Reuters",
+        "candidate_tickers": [
+          "ZAPNUKE",
+          "DRONUCRANIANO",
+          "INGENIEROJEFE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T01:04:39.833844+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "entertainment",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SamNeill",
+          "JurassicPark",
+          "ThePiano",
+          "CancerBattle"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T01:05:19.020172+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7b58362f392f",
+        "ticker": "AUGUR",
+        "mint": "6SkWURtM8HigcuLbTE4AzHMDfcNyTrHiCSJEH38Hpump",
+        "mc": 20536.0
       }
     }
   ]
