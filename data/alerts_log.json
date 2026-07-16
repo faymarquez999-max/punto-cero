@@ -1,33 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T05:05:23.461258+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cf714b416dc2",
-        "ticker": "KUSHNER",
-        "mint": "Fnb96Z9YAkgF5tNCjLsS2nQCaUYoGGKMoXkmgUoMpump",
-        "mc": 10391.0
-      }
-    },
-    {
-      "ts": "2026-06-05T08:53:14.548099+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "051b91a7176d",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "Vote them out",
-        "candidate_tickers": [
-          "TRUMPVSELON",
-          "COALGATE",
-          "UKRAINEAID",
-          "TRUMPPROBLEMS",
-          "MUSKTRUMPFEUD"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T08:53:49.397307+00:00",
       "kind": "shadow",
       "payload": {
@@ -28233,6 +28206,35 @@
           "SALTICE",
           "ICEABATE",
           "FBIVISTA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T21:43:11.067392+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "negocios",
+        "title": "Netflix earnings forecast disappoints investors, shares tumble - Reuters",
+        "candidate_tickers": [
+          "NETFLIX",
+          "PELIGRO",
+          "BAJO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T21:44:26.909635+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d2ea808cd2a5",
+        "score": 88,
+        "category": "Muerte de un actor",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEI1",
+          "JURASSICPAIN",
+          "THEPIANOTEARS"
         ]
       }
     }
