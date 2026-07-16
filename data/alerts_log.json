@@ -1,87 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T10:47:14.625369+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "abed663d4edf",
-        "score": 82,
-        "category": "política y controversia",
-        "title": "Southern Poverty Law Center is a criminal organization",
-        "candidate_tickers": [
-          "SPCL",
-          "SPLC",
-          "ELONVSPLC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T10:48:03.876983+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Celebridad/Política",
-        "title": "x.com/i/article/206200131550…",
-        "candidate_tickers": [
-          "XCOM",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T10:48:25.859680+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología y noticias de negocios",
-        "title": "Grok Imagine 1.5 at rank 1",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T10:48:58.292667+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d8874747f5f7",
-        "ticker": "ELONMUSK",
-        "mint": "Ad6dDqgik6FVAHMfsw5J88Rd2J4JTTDPdEuZ3PgTpump",
-        "mc": 75336.0
-      }
-    },
-    {
-      "ts": "2026-06-04T10:49:00.923470+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "928bba0e28d0",
-        "ticker": "SPCX",
-        "mint": "FcS3t2tzksjDSuVi5iuo7VR7gKQWSeihfUpkKu8mXpW4",
-        "mc": 81770.0
-      }
-    },
-    {
-      "ts": "2026-06-04T10:49:02.010290+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2a17d0836e0b",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 341593.0
-      }
-    },
-    {
-      "ts": "2026-06-04T10:49:03.439154+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "abed663d4edf",
-        "ticker": "DATA",
-        "mint": "BPsrLQMEtrdJq6xmNnuBQLsNUbms7q3BFZHq3TG3pump",
-        "mc": 70729.0
-      }
-    },
-    {
       "ts": "2026-06-04T13:54:01.158388+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28216,6 +28135,104 @@
         "ticker": "AUGUR",
         "mint": "6SkWURtM8HigcuLbTE4AzHMDfcNyTrHiCSJEH38Hpump",
         "mc": 20536.0
+      }
+    },
+    {
+      "ts": "2026-07-16T04:18:44.375996+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Cine",
+        "title": "Casi nadie podrá ver ‘La odisea’ de Christopher Nolan tal y como fue concebida por su director: hay un motivo - Diario AS",
+        "candidate_tickers": [
+          "LaOdisea",
+          "Nolan",
+          "CineExclusivo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:19:08.887528+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "71099b496c94",
+        "score": 74,
+        "category": "Noticias internacionales",
+        "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal - Al Jazeera",
+        "candidate_tickers": [
+          "KYIVUNDERFIRE",
+          "UKRAINERUSSIACONFLICT",
+          "DRONEDEAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:19:35.500378+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": " política y militares",
+        "title": "US military to start screening for testosterone deficiency, Hegseth says",
+        "candidate_tickers": [
+          "Hegseth",
+          "Testosterona",
+          "Fuerzas Armadas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:20:25.635430+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1b80b2c062e0",
+        "score": 91,
+        "category": "Celebridad",
+        "title": "'Jurassic Park' star Sam Neill's cause of death revealed - USA Today",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "FALLECIMIENTO",
+          "ACTOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:21:18.134288+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8137acc8726f",
+        "score": 72,
+        "category": "Deportes",
+        "title": "ARGENTINA TURN IT AROUND! 2–1",
+        "candidate_tickers": [
+          "ARGENTINA",
+          "TURNITAROUND",
+          "ARGENTINAFUTBOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:23:41.699164+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Desastres naturales",
+        "title": "El viento complica la extinción del incendio de Orés (Zaragoza), con \"potencial de crecimiento y destrucción\" - Ultima Hora",
+        "candidate_tickers": [
+          "IncendioZaragoza",
+          "OrésArdido",
+          "FuegoForestal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T04:24:09.279880+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8137acc8726f",
+        "ticker": "ARGENTINA",
+        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
+        "mc": 41101.0
       }
     }
   ]

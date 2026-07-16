@@ -1,171 +1,6 @@
 {
   "watches": [
     {
-      "id": "faa79f064415",
-      "fingerprint": "faa79f064415",
-      "narrative_summary": "Una mujer entra en trabajo de parto en el día de la boda de su hermana y envía un mensaje del hospital que deja a la novia en lágrimas.",
-      "why_memeable": "La narrativa tiene un núcleo emocional fuerte y puede ser capturada en una frase corta y memorable.",
-      "category": "Noticias de última hora",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LABORDAY",
-        "SISTERSWEDDING",
-        "BRIDEIN TEARS"
-      ],
-      "key_terms_for_dex_search": [
-        "laborday",
-        "sisterswedding",
-        "bridein tears"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T22:19:37.542567+00:00",
-      "expires_at": "2026-07-01T22:19:37.542567+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Woman Goes Into Labor on Sister's Wedding Day, Then Sends Message from Hospital that Leaves Bride in Tears (Exclusive) - People.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-02T07:53:08.034792+00:00"
-    },
-    {
-      "id": "b8c25e90478d",
-      "fingerprint": "b8c25e90478d",
-      "narrative_summary": "iPhone 18 Pro 'drop test' images y lista de partes incluidas en un ataque de ransomware.",
-      "why_memeable": "La narrativa tiene un título claro y una imagen visual que puede ser compartida fácilmente. Además, se trata de un evento sorprendente relacionado con Apple.",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "IPHONE18PRO",
-        "A20PRO",
-        "RANSOMWAREAPPLE"
-      ],
-      "key_terms_for_dex_search": [
-        "iPhone18Pro",
-        "A20Pro",
-        "Ransomware",
-        "Apple",
-        "Tecnología"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T22:20:23.357866+00:00",
-      "expires_at": "2026-07-01T22:20:23.357866+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 86503.0,
-        "liquidity_usd": 36754.3,
-        "price_usd": 8.652e-05,
-        "volume_h24": 27638.36,
-        "volume_h1": 54.83,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.92,
-        "price_change_24h": 50.01,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 2,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak - Macworld",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T01:58:38.525616+00:00"
-    },
-    {
-      "id": "db25c522691c",
-      "fingerprint": "db25c522691c",
-      "narrative_summary": "Escasez de combustible en Rusia debido a ataques ucranianos",
-      "why_memeable": "La narrativa tiene un núcleo claro (escasez de combustible) y es fácil de compartir",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAENFUEGO",
-        "COMBUSTIBLEENRUSIA",
-        "UCRANIAATACA"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "Combustible",
-        "Escasez",
-        "Ataque"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T22:21:33.914657+00:00",
-      "expires_at": "2026-07-01T22:21:33.914657+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Fuel shortages spread to more parts of Russia as Ukrainian attacks bite - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-02T07:53:08.034795+00:00"
-    },
-    {
       "id": "40717e56c9b5",
       "fingerprint": "40717e56c9b5",
       "narrative_summary": "Elon Musk publica un tweet con la palabra 'True' y alcanza un gran número de engagement",
@@ -9389,7 +9224,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "10e66fef0861",
@@ -9434,7 +9269,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "e1d6fe5c8532",
@@ -9662,7 +9497,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "7313936acdf6",
@@ -9826,7 +9661,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "1c76d39e6f69",
@@ -9872,7 +9707,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "2c33f05742a3",
@@ -9916,7 +9751,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "0fa74a3cc962",
@@ -9959,7 +9794,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "32a9074c7b6c",
@@ -10003,7 +9838,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "d663acc7869f",
@@ -10049,7 +9884,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "c397bb42edd5",
@@ -10169,7 +10004,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "7f27f3129862",
@@ -10284,7 +10119,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "4c63e443b03b",
@@ -10330,7 +10165,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "f86c5377320f",
@@ -10380,7 +10215,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "a40cd0f39826",
@@ -10497,7 +10332,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "b87d0d0d6f69",
@@ -10543,7 +10378,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "9677fea854c4",
@@ -10740,7 +10575,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9d594b99d043",
@@ -10787,7 +10622,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6adee851d202",
@@ -10833,7 +10668,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "60dd8e35aac0",
@@ -10875,7 +10710,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "72d5d4be4cab",
@@ -10921,7 +10756,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "195b6465f7db",
@@ -11036,7 +10871,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f8c2ccac853b",
@@ -11081,7 +10916,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "322f73de5f7a",
@@ -11129,7 +10964,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d77ac89abfdb",
@@ -11180,7 +11015,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0fdaa35c6b2c",
@@ -11227,7 +11062,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "7b58362f392f",
@@ -11345,8 +11180,170 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "71099b496c94",
+      "fingerprint": "71099b496c94",
+      "narrative_summary": "Kyiv está bajo ataque de misiles rusos después de que la UE y Ucrania firmen un acuerdo de drones.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto, lo que la hace fácilmente compartible y memorable.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KYIVUNDERFIRE",
+        "UKRAINERUSSIACONFLICT",
+        "DRONEDEAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Kyiv",
+        "Ucrania",
+        "Rusia",
+        "misiles",
+        "acuerdo de drones"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 4,
+        "velocity": 8
+      },
+      "started_at": "2026-07-16T04:19:08.510012+00:00",
+      "expires_at": "2026-07-18T04:19:08.510012+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "1b80b2c062e0",
+      "fingerprint": "1b80b2c062e0",
+      "narrative_summary": "Fallecimiento del actor Sam Neill, conocido por su papel en Jurassic Park.",
+      "why_memeable": "La combinación de la muerte de un actor famoso y su papel en una película icónica hace que sea fácilmente compartible y recordable.",
+      "category": "Celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "FALLECIMIENTO",
+        "ACTOR"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Fallecimiento",
+        "Jurassic Park",
+        "Actor"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T04:20:25.286349+00:00",
+      "expires_at": "2026-07-18T04:20:25.286349+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "'Jurassic Park' star Sam Neill's cause of death revealed - USA Today",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "8137acc8726f",
+      "fingerprint": "8137acc8726f",
+      "narrative_summary": "Argentina gana un partido importante con un resultado de 2-1",
+      "why_memeable": "La frase 'ARGENTINA TURN IT AROUND' es fácil de recordar y compartir",
+      "category": "Deportes",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "ARGENTINA",
+        "TURNITAROUND",
+        "ARGENTINAFUTBOL"
+      ],
+      "key_terms_for_dex_search": [
+        "argentina",
+        "futbol",
+        "turnaround"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 1,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T04:21:17.758401+00:00",
+      "expires_at": "2026-07-18T04:21:17.758401+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ARGENTINA",
+        "name": "Argentina",
+        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 41101.0,
+        "liquidity_usd": 17272.29,
+        "price_usd": 4.111e-05,
+        "volume_h24": 194277.49,
+        "volume_h1": 541.88,
+        "volume_m5": 40.81,
+        "price_change_5m": 0.29,
+        "price_change_1h": -2.61,
+        "price_change_24h": -0.93,
+        "txns_h1_buys": 13,
+        "txns_h1_sells": 74,
+        "created_ts": 1778586889000,
+        "pair_created_at": 1778586889000,
+        "url": "https://dexscreener.com/solana/9gwu31h99sdgotwmam4ufvwxunubwxjm32cw3besnjyu",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ARGENTINA==ARGENTINA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "ARGENTINA TURN IT AROUND! 2–1",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-16T04:24:09.272559+00:00"
     }
   ],
-  "last_updated": "2026-07-16T01:05:19.013953+00:00"
+  "last_updated": "2026-07-16T04:24:09.272594+00:00"
 }
