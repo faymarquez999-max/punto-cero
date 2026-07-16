@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T08:53:49.397307+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Muerte de la autora de Persepolis",
-        "title": "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
-        "candidate_tickers": [
-          "Marjane",
-          "Persepolis",
-          "Tristeza"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T08:55:05.676151+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "638dc0a53df0",
-        "score": 89,
-        "category": "política, protestas",
-        "title": "'Albania is not for sale', protesters say over Kushner-linked luxury resort near a protected wetland - Reuters",
-        "candidate_tickers": [
-          "ALBANIANOSALE",
-          "KUSHNERRESORT",
-          "PROTESTASALBANIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T08:56:23.338684+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28235,6 +28206,36 @@
           "SAMNEI1",
           "JURASSICPAIN",
           "THEPIANOTEARS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T22:42:41.088115+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "noticias de salud",
+        "title": "EXCLUSIVE: Pfizer suspends sales of Premarin vaginal cream in India, citing supply challenges - Reuters",
+        "candidate_tickers": [
+          "PFIZER",
+          "PREMARIN",
+          "INDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T22:43:58.945341+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cdd242c44146",
+        "score": 70,
+        "category": "política internacional",
+        "title": "US expands attacks on Iran, which calls Strait of Hormuz a ‘red line’ as it retaliates - AP News",
+        "candidate_tickers": [
+          "IRAN",
+          "EE.UU.",
+          "ESTRECHO DE ORMUZ",
+          "LÍNEA ROJA"
         ]
       }
     }
