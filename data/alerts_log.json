@@ -1,70 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T21:23:21.026475+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "President Trump says he will nominate Todd Blanche to serve as attorney general - AP News",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "BLANCHEfiscalGeneral",
-          "EPSTEINFALLOFTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T22:57:20.616581+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "07f790498a4a",
-        "score": 80,
-        "category": "política y justicia",
-        "title": "Ideological conditioning and two-tiered policing are glaring symptoms of civilizational decline. They must be rejected across the West.",
-        "candidate_tickers": [
-          "NOWAK",
-          "TWOTIER",
-          "POLICEFAIL",
-          "STARMER",
-          "MUSKDIVIDE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T22:57:56.308270+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1672ae47a8e9",
-        "score": 74,
-        "category": "conflicto internacional",
-        "title": "RUSSIA'S PUTIN: WHY WOULD RUSSIA ATTACK NATO?",
-        "candidate_tickers": [
-          "RUSIA",
-          "ISRAEL",
-          "LÍBANO",
-          "UCRANIA",
-          "HEZBOLLAH",
-          "CESEFIRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T22:58:26.921519+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "45eae999df9e",
-        "score": 74,
-        "category": "política",
-        "title": "TRUMP: BUILDING A PROMENADE ONTO THE LINCOLN MEMORIAL",
-        "candidate_tickers": [
-          "TRUMP_LINCOLN",
-          "PROMENADE_GATE",
-          "LINCOLN_TRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T22:59:38.660328+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28234,6 +28170,65 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 321689.0
+      }
+    },
+    {
+      "ts": "2026-07-16T13:07:07.711478+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Deportes",
+        "title": "ARGENTINA 1–1 ENGLAND",
+        "candidate_tickers": [
+          "ARGvsENG",
+          "ARGvsENG1-1",
+          "ARGvsENGFinal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T13:07:43.665588+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eb50826c8e81",
+        "score": 74,
+        "category": "tecnología y política",
+        "title": "GOOGLE REQUIRED TO OPEN UP TO AI, SEARCH ENGINE RIVALS UNDER EU-MANDATED CHANGES",
+        "candidate_tickers": [
+          "GOOG",
+          "AI",
+          "EU",
+          "GOOGLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T13:08:31.581185+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política internacional",
+        "title": "EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say - Reuters",
+        "candidate_tickers": [
+          "IranGate",
+          "MarRojo",
+          "Houthis"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T13:09:24.642064+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f3136dca6c4b",
+        "score": 88,
+        "category": "Noticias",
+        "title": "17-year-old facing conspiracy charges in Kinston shooting investigation - WIS News 10",
+        "candidate_tickers": [
+          "KINSTONSHOOTING",
+          "17YEAROLDCONSPIRACY",
+          "ANIMALCRUELTY"
+        ]
       }
     }
   ]
