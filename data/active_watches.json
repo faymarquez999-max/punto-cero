@@ -1,178 +1,6 @@
 {
   "watches": [
     {
-      "id": "aa673aae3ad8",
-      "fingerprint": "aa673aae3ad8",
-      "narrative_summary": "Listas de los mejores monedas memes para invertir en 2026",
-      "why_memeable": "La narrativa tiene un enfoque en la inversión en monedas memes, lo que la hace fácilmente compartible y recordable",
-      "category": "monedas memes",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XRP",
-        "MEMETORO",
-        "CHANGELLY",
-        "COINDCX",
-        "BINANCE"
-      ],
-      "key_terms_for_dex_search": [
-        "monedas memes",
-        "inversión",
-        "2026",
-        "XRP",
-        "MemeToro"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-30T01:53:38.611074+00:00",
-      "expires_at": "2026-07-03T01:53:38.611074+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214382.0,
-        "liquidity_usd": 134053.28,
-        "price_usd": 1.33,
-        "volume_h24": 85441.62,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -1.38,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 18246,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2550",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T01:58:50.338822+00:00"
-    },
-    {
-      "id": "6048925608b3",
-      "fingerprint": "6048925608b3",
-      "narrative_summary": "Se ha producido un data leak en Tata que contiene información confidencial sobre el proveedor de Apple iPhone 18 Pro.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase corta, y hay varias imágenes y detalles interesantes.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "TATALEAK",
-        "APPLEDATALEAK",
-        "IPHONE18PRO"
-      ],
-      "key_terms_for_dex_search": [
-        "TATA",
-        "APPLE",
-        "IPHONE18PRO",
-        "DATALEAK"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-06-30T01:54:08.466106+00:00",
-      "expires_at": "2026-07-03T01:54:08.466106+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 66059.0,
-        "liquidity_usd": 32047.75,
-        "price_usd": 6.607e-05,
-        "volume_h24": 13303.36,
-        "volume_h1": 154.33,
-        "volume_m5": 67.66,
-        "price_change_5m": -0.62,
-        "price_change_1h": -2.81,
-        "price_change_24h": -9.96,
-        "txns_h1_buys": 17,
-        "txns_h1_sells": 28,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T06:27:00.316462+00:00"
-    },
-    {
       "id": "461d58ab63db",
       "fingerprint": "461d58ab63db",
       "narrative_summary": "Iran aumenta la tensión sobre el control del estrecho de Hormuz antes de nuevas negociaciones",
@@ -9457,7 +9285,7 @@
       "started_at": "2026-07-14T14:07:54.336564+00:00",
       "expires_at": "2026-07-16T14:07:54.336564+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -9466,7 +9294,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-16T16:47:21.819423+00:00"
     },
     {
       "id": "c397bb42edd5",
@@ -9694,14 +9523,15 @@
       "started_at": "2026-07-14T15:50:55.165983+00:00",
       "expires_at": "2026-07-16T15:50:55.165983+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "After Lindsey Graham’s sudden death, conspiracy theories swirl online - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-07-16T16:47:21.819439+00:00"
     },
     {
       "id": "4c63e443b03b",
@@ -11230,7 +11060,97 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-16T11:27:40.133793+00:00"
+    },
+    {
+      "id": "a875ed8a4b42",
+      "fingerprint": "a875ed8a4b42",
+      "narrative_summary": "Protestas en ciudades ucranianas contra la remoción del ministro de defensa popular por parte de Zelensky",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto político, con un ministro de defensa popular siendo removido y causando protestas en varias ciudades.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FEDOROV",
+        "ZELENSKY",
+        "UCRANIA",
+        "PROTESTAS"
+      ],
+      "key_terms_for_dex_search": [
+        "Fedorov",
+        "Zelensky",
+        "Ucrania",
+        "Protestas",
+        "Ministro de Defensa"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T16:48:59.224035+00:00",
+      "expires_at": "2026-07-18T16:48:59.224035+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "67a8afd8702e",
+      "fingerprint": "67a8afd8702e",
+      "narrative_summary": "Elon Musk comparte su opinión sobre la inutilidad de discutir con entidades no personales (NPCs)",
+      "why_memeable": "El núcleo de la narrativa es una frase corta y memorable que puede ser capturada en una imagen o una palabra",
+      "category": "Tecnología y Cultura",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "NPC",
+        "ARGUING",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "NPC",
+        "ARGUING",
+        "ELONMUSK"
+      ],
+      "score": 85,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-16T16:52:42.516303+00:00",
+      "expires_at": "2026-07-18T16:52:42.516303+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Arguing with NPCs is pointless",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-16T11:27:40.133811+00:00"
+  "last_updated": "2026-07-16T16:52:42.516303+00:00"
 }

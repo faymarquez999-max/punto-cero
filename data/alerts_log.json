@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T00:20:25.857626+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-        "candidate_tickers": [
-          "HezbollahRechaza",
-          "PazEnLíbano",
-          "EEUUHezbollah"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T00:21:34.662201+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Desaparición de estudiante en Japón",
-        "title": "Another day passes with Auburn student still missing in Japan, parents say - NBC News",
-        "candidate_tickers": [
-          "AuburnMissing",
-          "JapónDesaparecido",
-          "EstudianteDesaparecido"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T00:22:21.592983+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bc9038f9f21c",
-        "score": 79,
-        "category": "Noticias",
-        "title": "Exclusive body camera video raises questions after Elwood Jones’ OVI charge is dismissed - WLWT",
-        "candidate_tickers": [
-          "ELWOODJONES",
-          "OVI",
-          "VIDEOEXCLUSIVO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T05:01:14.482966+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "76ee34e5e34a",
-        "score": 80,
-        "category": "Noticias insólitas",
-        "title": "Catholic archdiocese removes exorcist priest over UFO comments - Premier Christian News",
-        "candidate_tickers": [
-          "OVNIEXORCISTA",
-          "SACERDOTEOVNIS",
-          "CRUELDADANIMALUSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T05:01:48.564013+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "473a80eca071",
-        "score": 88,
-        "category": "Noticias de aventuras y supervivencia",
-        "title": "Missing Sherpa guide found alive on Everest after funeral rites had begun - The Guardian",
-        "candidate_tickers": [
-          "SHERPA",
-          "EVEREST",
-          "MIRACLE",
-          "ALIVE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T05:02:01.721880+00:00",
       "kind": "shadow",
       "payload": {
@@ -28237,6 +28163,79 @@
           "CRISIS POLÍTICA",
           "PROTESTAS",
           "JEFE DE DEFENSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T16:47:37.098760+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Noticias de animalitos",
+        "title": "IRAN'S FARS NEWS REPORTS U.S. MISSILES STRUCK SITES NEAR BANDAR ABBAS.",
+        "candidate_tickers": [
+          "PerrosMuertos",
+          "RefugioAnimal",
+          "California"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T16:48:59.701108+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a875ed8a4b42",
+        "score": 91,
+        "category": "Política",
+        "title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
+        "candidate_tickers": [
+          "FEDOROV",
+          "ZELENSKY",
+          "UCRANIA",
+          "PROTESTAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T16:51:19.286844+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "negocios",
+        "title": "Uber Agrees to Buy Delivery Hero in $14.8 Billion Deal - Bloomberg.com",
+        "candidate_tickers": [
+          "UberBuy",
+          "DeliveryHero",
+          "Glovo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T16:52:21.237904+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "With midterms on deck, Trump to deliver primetime speech on election security - Reuters",
+        "candidate_tickers": [
+          "TRUMP_CONSPIRACY",
+          "ELECTION_SECURITY",
+          "MIDTERMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T16:52:42.872736+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "67a8afd8702e",
+        "score": 85,
+        "category": "Tecnología y Cultura",
+        "title": "Arguing with NPCs is pointless",
+        "candidate_tickers": [
+          "NPC",
+          "ARGUING",
+          "ELONMUSK"
         ]
       }
     }
