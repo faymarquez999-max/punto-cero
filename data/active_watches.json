@@ -1,226 +1,6 @@
 {
   "watches": [
     {
-      "id": "40717e56c9b5",
-      "fingerprint": "40717e56c9b5",
-      "narrative_summary": "Elon Musk publica un tweet con la palabra 'True' y alcanza un gran número de engagement",
-      "why_memeable": "La simplicidad de la frase y la figura de Elon Musk la convierten en memeable",
-      "category": "Celebridad y red social",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "tweet"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-06-29T22:22:22.277023+00:00",
-      "expires_at": "2026-06-30T22:22:22.277023+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25597.0,
-        "liquidity_usd": 26337.61,
-        "price_usd": 2.559e-05,
-        "volume_h24": 348460.11,
-        "volume_h1": 348460.11,
-        "volume_m5": 42408.94,
-        "price_change_5m": -12.59,
-        "price_change_1h": 306.0,
-        "price_change_24h": 306.0,
-        "txns_h1_buys": 2888,
-        "txns_h1_sells": 652,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T06:26:54.136657+00:00"
-    },
-    {
-      "id": "34b1e925f272",
-      "fingerprint": "34b1e925f272",
-      "narrative_summary": "Elon Musk publica un breve mensaje 'Yup' que genera gran interés y participación en las redes sociales.",
-      "why_memeable": "La simplicidad y brevedad del mensaje hacen que sea fácilmente compartible y recordable.",
-      "category": "Celebridad en las redes sociales",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "MUSK",
-        "YUP"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 2,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T22:22:50.603905+00:00",
-      "expires_at": "2026-07-01T22:22:50.603905+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Elon",
-        "name": "The White Bull",
-        "mint": "H86Mm1QWCW5XrA4TQaQcCLfwG8u1xjQ2RupigorYpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 19240.0,
-        "liquidity_usd": 10560.55,
-        "price_usd": 1.924e-05,
-        "volume_h24": 50377.85,
-        "volume_h1": 897.84,
-        "volume_m5": 37.04,
-        "price_change_5m": -2.83,
-        "price_change_1h": -8.81,
-        "price_change_24h": -47.33,
-        "txns_h1_buys": 8,
-        "txns_h1_sells": 8,
-        "created_ts": 1781624619000,
-        "pair_created_at": 1781624619000,
-        "url": "https://dexscreener.com/solana/7epr63vdigaukghjcugz682as238296yfxybj2685nz6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T01:58:42.643261+00:00"
-    },
-    {
-      "id": "ca49443a9937",
-      "fingerprint": "ca49443a9937",
-      "narrative_summary": "Un hackeo de datos en Tata Electronics ha expuesto detalles confidenciales de un proveedor de Apple.",
-      "why_memeable": "La narrativa tiene un núcleo claro y un tema interesante que puede ser compartido fácilmente.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "TATA",
-        "APPLE",
-        "DATALEAK"
-      ],
-      "key_terms_for_dex_search": [
-        "TATA",
-        "APPLE",
-        "DATALEAK",
-        "HACKEO",
-        "PROVEEDOR"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 2,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-06-29T23:38:22.617694+00:00",
-      "expires_at": "2026-07-02T23:38:22.617694+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 86503.0,
-        "liquidity_usd": 36754.3,
-        "price_usd": 8.652e-05,
-        "volume_h24": 27638.36,
-        "volume_h1": 54.83,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.92,
-        "price_change_24h": 50.01,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 2,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: APPLE==APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Sensitive iPhone Supplier Details Were Part Of Last Week's Data Leak At Tata Electronics - Engadget",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T01:58:44.395503+00:00"
-    },
-    {
       "id": "cd5718cc5c10",
       "fingerprint": "cd5718cc5c10",
       "narrative_summary": "Putin admite escasez de combustible causada por ataques ucranianos",
@@ -9224,7 +9004,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "10e66fef0861",
@@ -9269,7 +9049,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "e1d6fe5c8532",
@@ -9497,7 +9277,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "7313936acdf6",
@@ -9655,13 +9435,14 @@
       "started_at": "2026-07-14T06:03:35.151316+00:00",
       "expires_at": "2026-07-16T06:03:35.151316+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The woke mob had turned Twitter into Wormtongue to the World",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-07-16T07:04:23.404457+00:00"
     },
     {
       "id": "1c76d39e6f69",
@@ -9707,7 +9488,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "2c33f05742a3",
@@ -9751,7 +9532,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "0fa74a3cc962",
@@ -9794,7 +9575,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "32a9074c7b6c",
@@ -9838,7 +9619,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "d663acc7869f",
@@ -9884,7 +9665,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "c397bb42edd5",
@@ -10004,7 +9785,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "7f27f3129862",
@@ -10119,7 +9900,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "4c63e443b03b",
@@ -10165,7 +9946,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "f86c5377320f",
@@ -10215,7 +9996,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "a40cd0f39826",
@@ -10332,7 +10113,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "b87d0d0d6f69",
@@ -10378,7 +10159,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "9677fea854c4",
@@ -10575,7 +10356,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "9d594b99d043",
@@ -10622,7 +10403,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6adee851d202",
@@ -10668,7 +10449,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "60dd8e35aac0",
@@ -10710,7 +10491,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "72d5d4be4cab",
@@ -10756,7 +10537,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "195b6465f7db",
@@ -10871,7 +10652,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f8c2ccac853b",
@@ -10916,7 +10697,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "322f73de5f7a",
@@ -10964,7 +10745,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d77ac89abfdb",
@@ -11015,7 +10796,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0fdaa35c6b2c",
@@ -11062,7 +10843,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "7b58362f392f",
@@ -11180,7 +10961,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "71099b496c94",
@@ -11226,7 +11007,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1b80b2c062e0",
@@ -11272,7 +11053,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8137acc8726f",
@@ -11343,7 +11124,149 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-16T04:24:09.272559+00:00"
+    },
+    {
+      "id": "41d3b0db99c7",
+      "fingerprint": "41d3b0db99c7",
+      "narrative_summary": "El congresista Thomas Massie es criticado por un viejo respaldo de Donald Trump, quien ahora lo considera el peor congresista en la historia del país. Trump endosa a Ed Gallrein, un patriota americano.",
+      "why_memeable": "La narrativa combina la figura polarizante de Trump con una crítica fuerte y un giro inesperado, lo que puede generar engagement y memes.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMASSIE",
+        "GALLREIN",
+        "BADCONGRESS",
+        "TRUMPFEUD",
+        "POLITICALENDORSE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Thomas Massie",
+        "Ed Gallrein",
+        "Política",
+        "Endoso"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-16T07:04:25.037423+00:00",
+      "expires_at": "2026-07-19T07:04:25.037423+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "620bfa1c1805",
+      "fingerprint": "620bfa1c1805",
+      "narrative_summary": "Pete Hegseth anuncia una nueva prueba de testosterona para tropas estadounidenses, generando reacciones divididas",
+      "why_memeable": "La narrativa es memeable debido a la sorpresa y la controversia generadas por la decisión de Hegseth",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HEGSETH",
+        "TESTOSTERONA",
+        "TROPAS",
+        "CONTROVERSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Hegseth",
+        "Testosterona",
+        "Tropas",
+        "Controversia"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T07:06:12.604048+00:00",
+      "expires_at": "2026-07-18T07:06:12.604048+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hegseth announces testosterone screening for US troops - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "bf9119ed9633",
+      "fingerprint": "bf9119ed9633",
+      "narrative_summary": "El actor Sam Neill, conocido por sus papeles en 'Jurassic Park' y 'The Piano', ha fallecido a los 78 años después de una batalla contra el cáncer.",
+      "why_memeable": "La narrativa es memeable debido a la muerte de un actor famoso y la conexión con películas icónicas.",
+      "category": "Muerte de un actor famoso",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "SAMNEILL",
+        "JURASSICPARK",
+        "THEPIANO"
+      ],
+      "key_terms_for_dex_search": [
+        "Sam Neill",
+        "Jurassic Park",
+        "The Piano",
+        "muerte",
+        "cáncer"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-16T07:06:26.044711+00:00",
+      "expires_at": "2026-07-18T07:06:26.044711+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-16T04:24:09.272594+00:00"
+  "last_updated": "2026-07-16T07:06:26.044711+00:00"
 }

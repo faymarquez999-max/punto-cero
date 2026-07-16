@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-04T13:54:01.158388+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "08dbed65cd8c",
-        "score": 70,
-        "category": "Política",
-        "title": "Southern Poverty Law Center is a criminal organization",
-        "candidate_tickers": [
-          "SPLC",
-          "CRIMINALORG",
-          "SOUTHERNPOVERTYLAWCENTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T13:54:34.589253+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d6465eedfc99",
-        "score": 88,
-        "category": "Finanzas/Tecnología",
-        "title": "SpaceX",
-        "candidate_tickers": [
-          "SPX",
-          "ELON",
-          "STARLINK",
-          "SPACEX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-04T13:55:08.984023+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2f5a2c2f31f7",
-        "score": 80,
-        "category": "muerte de una figura cultural",
-        "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
-        "candidate_tickers": [
-          "PERSÉPOLIS",
-          "MARJANESATRAPI",
-          "OSCAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-04T13:55:40.445063+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28233,6 +28187,54 @@
         "ticker": "ARGENTINA",
         "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
         "mc": 41101.0
+      }
+    },
+    {
+      "ts": "2026-07-16T07:04:25.455082+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "41d3b0db99c7",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "GALLREIN",
+          "BADCONGRESS",
+          "TRUMPFEUD",
+          "POLITICALENDORSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T07:06:13.044011+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "620bfa1c1805",
+        "score": 88,
+        "category": "política",
+        "title": "Hegseth announces testosterone screening for US troops - Reuters",
+        "candidate_tickers": [
+          "HEGSETH",
+          "TESTOSTERONA",
+          "TROPAS",
+          "CONTROVERSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T07:06:26.418655+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bf9119ed9633",
+        "score": 78,
+        "category": "Muerte de un actor famoso",
+        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
+        "candidate_tickers": [
+          "SAMNEILL",
+          "JURASSICPARK",
+          "THEPIANO"
+        ]
       }
     }
   ]
