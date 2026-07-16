@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T05:02:01.721880+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "ciencia, tecnología y salud",
-        "title": "Steven Spielberg believes we will discover aliens in our lifetime",
-        "candidate_tickers": [
-          "SpielbergAliens",
-          "EbolaCrisis",
-          "AlienInvasion"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T05:02:32.044330+00:00",
       "kind": "shadow",
       "payload": {
@@ -28236,6 +28222,20 @@
           "NPC",
           "ARGUING",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-16T17:58:45.126844+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TrumpVsMassie",
+          "MassieEndorsement",
+          "TrumpVsWorstCongressman"
         ]
       }
     }
