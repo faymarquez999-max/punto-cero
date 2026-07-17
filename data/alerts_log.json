@@ -1,96 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T21:17:39.834876+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "tech_or_product_surprise_or_failure",
-        "title": "Starlink",
-        "candidate_tickers": [
-          "STARLINK",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T22:44:30.403474+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "00ed4ba90754",
-        "ticker": "IAM",
-        "mint": "qyzQwsyTYhAEGvonp5mcDaRSFuesDH4pfyRymLfpump",
-        "mc": 26640.0
-      }
-    },
-    {
-      "ts": "2026-06-05T23:54:05.691142+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Muerte de un actor famoso y política internacional",
-        "title": "‘Buffy The Vampire Slayer’ and ‘Ted Lasso’ actor Anthony Head has died at the age of 72.",
-        "candidate_tickers": [
-          "AnthonyHead",
-          "PutinRechaza",
-          "ZelenskyyDesafio"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T23:58:46.451614+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "00ed4ba90754",
-        "ticker": "IAM",
-        "mint": "qyzQwsyTYhAEGvonp5mcDaRSFuesDH4pfyRymLfpump",
-        "mc": 26924.0
-      }
-    },
-    {
-      "ts": "2026-06-05T23:58:48.336362+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "be20b0c5bb26",
-        "ticker": "XAnimals",
-        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
-        "mc": 20380.0
-      }
-    },
-    {
-      "ts": "2026-06-06T04:07:59.702810+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f54105f27aff",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "*TRUMP: WOULDN'T MIND IF WARSH CUT INTEREST RATE",
-        "candidate_tickers": [
-          "TRUMPMUSK",
-          "EPSTEINGATE",
-          "TRUMPFEUD",
-          "MUSKTRUMP",
-          "TWITTERWARS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T04:08:22.671773+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "50ca5a9409e2",
-        "score": 80,
-        "category": "política internacional",
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire - BBC",
-        "candidate_tickers": [
-          "IRAN",
-          "GOLFO",
-          "CESEFUEGO",
-          "ATAQUES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T04:11:32.761286+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28261,6 +28171,107 @@
           "ElonMusk",
           "SpaceX"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:22:54.199264+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "25d2a6cce68c",
+        "score": 91,
+        "category": "política",
+        "title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been",
+        "candidate_tickers": [
+          "TRUMP_VOTES",
+          "VOTO_FRAUDE",
+          "ELECCIONES_2020"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:23:27.817606+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cfdcd850e6f0",
+        "score": 70,
+        "category": "Animales",
+        "title": "World Cup crowds brought record-breaking business to Seattle’s Pioneer Square. Will momentum last? - KIRO 7 News Seattle",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "RACÓNVIRAL",
+          "SEATTLERACÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:24:13.100274+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b19806cbf76a",
+        "score": 80,
+        "category": "actualidad, noticias",
+        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+        "candidate_tickers": [
+          "ICE",
+          "MAINE",
+          "COMPORTAMIENTO VIOLENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:24:50.153716+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a41deb6b21a0",
+        "score": 90,
+        "category": "Desastres naturales",
+        "title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat - Reuters",
+        "candidate_tickers": [
+          "TSUNAMI",
+          "TERREMOTO",
+          "MÉXICO",
+          "GUATEMALA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:25:25.401382+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bfa6d4ca24c4",
+        "score": 88,
+        "category": "noticias de actualidad",
+        "title": "LVMPD: ICE agents attempted to detain man seen in viral Harry Reid Airport video - ktnv.com",
+        "candidate_tickers": [
+          "ICE",
+          "HARRYREID",
+          "LVMPD",
+          "ARREST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:25:52.222405+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "California Dems seethe over Trump’s voter roll attack - Politico",
+        "candidate_tickers": [
+          "CALIFORNIA",
+          "TRUMP",
+          "VOTERROLL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T17:27:56.946803+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4eaacbdd2b24",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34387.0
       }
     }
   ]

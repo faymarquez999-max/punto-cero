@@ -1,325 +1,6 @@
 {
   "watches": [
     {
-      "id": "5fd6394d7adc",
-      "fingerprint": "5fd6394d7adc",
-      "narrative_summary": "AOC es acusada de mentir por Elon Musk en Twitter.",
-      "why_memeable": "La frase 'puppet' y 'flat-out lying' es fácilmente capturable en una imagen o una frase corta.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AOC_PUPPET",
-        "FLATOUT_LYING"
-      ],
-      "key_terms_for_dex_search": [
-        "aoc",
-        "puppet",
-        "lying",
-        "elonmusk"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-30T15:19:36.257730+00:00",
-      "expires_at": "2026-07-02T15:19:36.257730+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The AOC puppet is just flat-out lying",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-07-03T01:08:50.099294+00:00"
-    },
-    {
-      "id": "a9fc281b1f0f",
-      "fingerprint": "a9fc281b1f0f",
-      "narrative_summary": "Elon Musk publicó un tweet con la palabra 'Yup' que generó un gran interés y engagement en las redes sociales.",
-      "why_memeable": "La simplicidad de la frase y la sorpresa de que Elon Musk la publique hacen que sea fácilmente compartible y recordable.",
-      "category": "Tendencia viral en redes sociales",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "MUSK",
-        "YUP"
-      ],
-      "score": 83,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-30T15:19:57.604529+00:00",
-      "expires_at": "2026-07-01T15:19:57.604529+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "The Rich Bull",
-        "mint": "nasyKoskpFz77JHSYfDVMPz1xacFYbAKhKRpZ6xpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 31618.0,
-        "liquidity_usd": 12846.13,
-        "price_usd": 3.161e-05,
-        "volume_h24": 109286.4,
-        "volume_h1": 97.88,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.63,
-        "price_change_24h": -19.91,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 5,
-        "created_ts": 1782824109000,
-        "pair_created_at": 1782824109000,
-        "url": "https://dexscreener.com/solana/gj1hg9wg44qfrgznzedjxrnu8q9pmllqsh2nus8eucdu",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 76801,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T15:21:18.508806+00:00"
-    },
-    {
-      "id": "78c3f67185bf",
-      "fingerprint": "78c3f67185bf",
-      "narrative_summary": "Elon Musk tuitea 'Bingo' con 1.4 millones de engagement",
-      "why_memeable": "Frase corta y repetible, asociada a una figura pública",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "BINGO",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "BINGO",
-        "TECNOLOGIA"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-30T15:20:17.964131+00:00",
-      "expires_at": "2026-07-01T15:20:17.964131+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "BINGO",
-        "name": "BINGO Universe",
-        "mint": "JAD3fhtcxgUxYaEpqqoWu2i4dCTD56hMBAWHqp1ypump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 450350.0,
-        "liquidity_usd": 48315.29,
-        "price_usd": 0.0004503,
-        "volume_h24": 12251.44,
-        "volume_h1": 7.12,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.39,
-        "price_change_24h": -0.49,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 2,
-        "created_ts": 1735180849000,
-        "pair_created_at": 1735180849000,
-        "url": "https://dexscreener.com/solana/3pj26sj6zdnpv61e8lc5rgm7vnym1ns3efuw4ct486ym",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: BINGO==BINGO",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Bingo",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T15:21:20.133678+00:00"
-    },
-    {
-      "id": "2bbfee3c43e8",
-      "fingerprint": "2bbfee3c43e8",
-      "narrative_summary": "117 perros muertos encontrados en un refugio animal en California, muchos con heridas de bala.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un animal como víctima, lo que la hace fácil de compartir y recordar.",
-      "category": "Abuso animal",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERROS MUERTOS",
-        "REFUGIO ANIMAL",
-        "ABUSO ANIMAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Perros muertos",
-        "Refugio animal",
-        "Abuso animal"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-06-30T19:24:35.372658+00:00",
-      "expires_at": "2026-07-02T19:24:35.372658+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "117 dead dogs found at animal rescue, many with gunshot wounds as investigators probe for answers - Fox News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-07-03T01:08:50.099297+00:00"
-    },
-    {
-      "id": "4925496ec673",
-      "fingerprint": "4925496ec673",
-      "narrative_summary": "Elon Musk responde 'I will take that as a compliment' en una situación no especificada.",
-      "why_memeable": "La frase es corta, memorable y puede ser aplicada a diversas situaciones, lo que la hace fácilmente compartible y adaptable.",
-      "category": "Celebridad/Reacción viral",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "COMPLIMNT",
-        "TAKEIT",
-        "MUSKMODE"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "compliment",
-        "meme",
-        "viral quote"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-06-30T21:18:45.092506+00:00",
-      "expires_at": "2026-07-03T21:18:45.092506+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "ELON MUSK COIN",
-        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26070.0,
-        "liquidity_usd": 12688.72,
-        "price_usd": 2.607e-05,
-        "volume_h24": 5095.99,
-        "volume_h1": 889.32,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -23.07,
-        "price_change_24h": 30.81,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1745429357000,
-        "pair_created_at": 1745429357000,
-        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
-        "safety_score": 17025,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "I will take that as a compliment",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-06-30T22:58:19.810817+00:00"
-    },
-    {
       "id": "02bbaa9cbc22",
       "fingerprint": "02bbaa9cbc22",
       "narrative_summary": "Elon Musk anuncia el lanzamiento de SpaceXAI, generando interés y especulación en la comunidad",
@@ -8536,7 +8217,7 @@
       "started_at": "2026-07-14T15:50:15.050795+00:00",
       "expires_at": "2026-07-17T15:50:15.050795+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -8545,7 +8226,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-17T17:22:39.403337+00:00"
     },
     {
       "id": "7f27f3129862",
@@ -8700,14 +8382,15 @@
       "started_at": "2026-07-14T15:52:36.265502+00:00",
       "expires_at": "2026-07-17T15:52:36.265502+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Warren Buffett stops Gates Foundation donations following Epstein revelations - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-17T17:22:39.403349+00:00"
     },
     {
       "id": "f86c5377320f",
@@ -9410,14 +9093,15 @@
       "started_at": "2026-07-15T15:57:56.457023+00:00",
       "expires_at": "2026-07-17T15:57:56.457023+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-17T17:22:39.403354+00:00"
     },
     {
       "id": "f8c2ccac853b",
@@ -10809,7 +10493,237 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "25d2a6cce68c",
+      "fingerprint": "25d2a6cce68c",
+      "narrative_summary": "Trump afirma que 250.000 no ciudadanos están registrados para votar en Estados Unidos.",
+      "why_memeable": "La narrativa tiene un arquetipo de 'conspiración' y 'injusticia', y se puede capturar en una frase corta.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_VOTES",
+        "VOTO_FRAUDE",
+        "ELECCIONES_2020"
+      ],
+      "key_terms_for_dex_search": [
+        "trump",
+        "voto",
+        "elecciones",
+        "fraude",
+        "china"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T17:22:53.564509+00:00",
+      "expires_at": "2026-07-19T17:22:53.564509+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "cfdcd850e6f0",
+      "fingerprint": "cfdcd850e6f0",
+      "narrative_summary": "Un racón llamado Jimothy se hace viral en Seattle debido a su apariencia única.",
+      "why_memeable": "La historia es simple y fácil de entender, con una imagen icónica del racón.",
+      "category": "Animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "JIMOTHY",
+        "RACÓNVIRAL",
+        "SEATTLERACÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "Jimothy",
+        "Racón",
+        "Seattle",
+        "Viral"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 5
+      },
+      "started_at": "2026-07-17T17:23:27.268461+00:00",
+      "expires_at": "2026-07-20T17:23:27.268461+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "World Cup crowds brought record-breaking business to Seattle’s Pioneer Square. Will momentum last? - KIRO 7 News Seattle",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b19806cbf76a",
+      "fingerprint": "b19806cbf76a",
+      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento según la familia y registros.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase.",
+      "category": "actualidad, noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICE",
+        "MAINE",
+        "COMPORTAMIENTO VIOLENTO"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "Maine",
+        "comportamiento violento"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T17:24:12.426893+00:00",
+      "expires_at": "2026-07-19T17:24:12.426893+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a41deb6b21a0",
+      "fingerprint": "a41deb6b21a0",
+      "narrative_summary": "Un terremoto fuerte golpea la costa mexicana cerca de Guatemala, generando una amenaza de tsunami.",
+      "why_memeable": "La narrativa cuenta con un evento dramático y una amenaza inminente, lo que la hace fácilmente compartible y recordable.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TSUNAMI",
+        "TERREMOTO",
+        "MÉXICO",
+        "GUATEMALA"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "tsunami",
+        "mexico",
+        "guatemala"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T17:24:49.481413+00:00",
+      "expires_at": "2026-07-20T17:24:49.481413+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bfa6d4ca24c4",
+      "fingerprint": "bfa6d4ca24c4",
+      "narrative_summary": "Agentes de ICE intentan detener a un hombre en el aeropuerto de Las Vegas, en un incidente que ha causado conmoción",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable",
+      "category": "noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICE",
+        "HARRYREID",
+        "LVMPD",
+        "ARREST"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "arrest",
+        "Las Vegas",
+        "Harry Reid",
+        "LVMPD"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T17:25:24.769003+00:00",
+      "expires_at": "2026-07-19T17:25:24.769003+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "LVMPD: ICE agents attempted to detain man seen in viral Harry Reid Airport video - ktnv.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-17T14:21:57.353795+00:00"
+  "last_updated": "2026-07-17T17:25:24.769003+00:00"
 }
