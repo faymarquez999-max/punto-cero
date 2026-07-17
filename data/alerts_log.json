@@ -1,71 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T17:40:23.040063+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c52eabaedbe4",
-        "ticker": "BITCOIN",
-        "mint": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
-        "mc": 128984.0
-      }
-    },
-    {
-      "ts": "2026-06-05T19:29:02.005181+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b4d649fe1b5d",
-        "score": 83,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSKYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T19:31:30.069647+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b4d649fe1b5d",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 313147.0
-      }
-    },
-    {
-      "ts": "2026-06-05T21:13:18.387374+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "00ed4ba90754",
-        "score": 88,
-        "category": "finanzas",
-        "title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
-        "candidate_tickers": [
-          "META",
-          "SHARE",
-          "BILLION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T21:13:57.652784+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Celebridad",
-        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
-        "candidate_tickers": [
-          "AnthonyHead",
-          "Buffy",
-          "TedLasso",
-          "Muerte"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T21:14:48.636984+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28259,6 +28194,74 @@
           "TRUMPVULNERABILIDADES",
           "ELECCIONES2025",
           "VULNERABILIDADESELECCIONALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T12:40:38.041922+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f8e79c9987c7",
+        "score": 70,
+        "category": "Política y celebridades",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL",
+          "RETRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T12:41:11.688307+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "To understand more about Starship",
+        "candidate_tickers": [
+          "STARSHIP",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T12:41:53.300487+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "tech",
+        "title": "Try Grok",
+        "candidate_tickers": [
+          "GROK",
+          "TRYGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T12:42:35.966307+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Tecnología",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T12:42:58.498987+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "40b4e6d0e951",
+        "score": 70,
+        "category": "Tendencia viral en Twitter",
+        "title": "This is messed up",
+        "candidate_tickers": [
+          "MUSK",
+          "XCANCEL"
         ]
       }
     }
