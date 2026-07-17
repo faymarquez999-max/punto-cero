@@ -1,167 +1,6 @@
 {
   "watches": [
     {
-      "id": "953fbe6ec0cb",
-      "fingerprint": "953fbe6ec0cb",
-      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok' que ha generado mucha atención en redes sociales.",
-      "why_memeable": "La frase 'Grok' es fácil de recordar y compartir, y tiene un tono absurdo que atrae la atención.",
-      "category": "meme de Elon Musk",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "GROKING"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "ELON MUSK",
-        "MEME"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 10,
-        "velocity": 9
-      },
-      "started_at": "2026-07-01T05:03:46.288301+00:00",
-      "expires_at": "2026-07-03T05:03:46.288301+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "ELON MUSK COIN",
-        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 24447.0,
-        "liquidity_usd": 12251.5,
-        "price_usd": 2.445e-05,
-        "volume_h24": 5272.55,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 22.66,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1745429357000,
-        "pair_created_at": 1745429357000,
-        "url": "https://dexscreener.com/solana/b8xsnb3r6kyskrjmz2twyu2znydsonbuxjxmzsnckjrc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
-        "safety_score": 17008,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Grok",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-01T05:04:07.445227+00:00"
-    },
-    {
-      "id": "26c7d8c1e392",
-      "fingerprint": "26c7d8c1e392",
-      "narrative_summary": "Trump hace declaraciones polémicas sobre la izquierda radical y la situación en Estados Unidos, generando una gran cantidad de engagement en las redes sociales.",
-      "why_memeable": "La narrativa es memeable debido a la naturaleza polémica y provocativa de las declaraciones de Trump, que pueden ser resumidas en frases cortas y compartidas sin contexto.",
-      "category": "política",
-      "matched_archetype": "polarizing_figure_drama",
-      "candidate_tickers": [
-        "TRUMP22",
-        "LEFTSCUM",
-        "MAGA2024",
-        "TRUMPWARS",
-        "RADICALLEFT"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "izquierda radical",
-        "política",
-        "Estados Unidos",
-        "MAGA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-01T08:56:07.849142+00:00",
-      "expires_at": "2026-07-04T08:56:07.849142+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "The American Bull",
-        "mint": "zoyjnKBGyujR13aBfXoz96g5NxH946n47fJuk3Cpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 24135.0,
-        "liquidity_usd": 12495.31,
-        "price_usd": 2.413e-05,
-        "volume_h24": 587358.11,
-        "volume_h1": 587358.11,
-        "volume_m5": 8863.17,
-        "price_change_5m": 27.15,
-        "price_change_1h": -30.28,
-        "price_change_24h": -30.28,
-        "txns_h1_buys": 8439,
-        "txns_h1_sells": 6544,
-        "created_ts": 1783140194000,
-        "pair_created_at": 1783140194000,
-        "url": "https://dexscreener.com/solana/7bpx9ka7btajm7oxdpebdner8gms1cxrnrk7t7nic2kj",
-        "source": "dexscreener",
-        "match_score": 83.3,
-        "match_reason": "ticker close: TRUMP~TRUMP22 (83.33333333333334%)",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "matched_at": "2026-07-04T05:30:54.797260+00:00"
-    },
-    {
       "id": "d5cc71dd4483",
       "fingerprint": "d5cc71dd4483",
       "narrative_summary": "Chris Brown condenado a pagar $13M a una empleada doméstica después de que su perro la atacara",
@@ -8111,14 +7950,15 @@
       "started_at": "2026-07-14T22:20:33.618552+00:00",
       "expires_at": "2026-07-17T22:20:33.618552+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Video: T. Rex Skeleton Sells for Record-Breaking $50.1 Million - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-07-17T23:12:22.353267+00:00"
     },
     {
       "id": "b87d0d0d6f69",
@@ -8848,14 +8688,15 @@
       "started_at": "2026-07-15T22:19:32.833154+00:00",
       "expires_at": "2026-07-17T22:19:32.833154+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-17T23:12:22.353277+00:00"
     },
     {
       "id": "7b58362f392f",
@@ -10774,7 +10615,102 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "392c185e606e",
+      "fingerprint": "392c185e606e",
+      "narrative_summary": "Declassified documents show over 250,000 non-citizens are illegally registered to vote in four states, sparking controversy and debate.",
+      "why_memeable": "The narrative combines elements of controversy, politics, and potential scandal, making it attention-grabbing and shareable.",
+      "category": "politics",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VOTE",
+        "FRAUD",
+        "TRUMP",
+        "DECCLASS",
+        "VOTEGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "voter fraud",
+        "declassified documents",
+        "Trump",
+        "election controversy"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-17T23:12:23.609375+00:00",
+      "expires_at": "2026-07-20T23:12:23.609375+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0631ceb275d6",
+      "fingerprint": "0631ceb275d6",
+      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento, según familiares y registros.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'villano' (el oficial de ICE), lo que la hace fácilmente compartible y recordable.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICE",
+        "MAINE",
+        "OFICIAL VIOLENTO",
+        "INJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "Maine",
+        "Oficial violento",
+        "Injusticia"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 5,
+        "visual": 2,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 3,
+        "velocity": 8
+      },
+      "started_at": "2026-07-17T23:13:57.940100+00:00",
+      "expires_at": "2026-07-20T23:13:57.940100+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-17T22:13:10.721690+00:00"
+  "last_updated": "2026-07-17T23:13:57.940100+00:00"
 }

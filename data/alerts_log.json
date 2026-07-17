@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T09:42:08.570002+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política y conspiración",
-        "title": "Former Epstein prison guard says her life was upended by conspiracy theories and threats after his death - ABC News - Breaking News, Latest News and Videos",
-        "candidate_tickers": [
-          "Epstein",
-          "Conspiración",
-          "Amenazas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T09:42:49.800055+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política",
-        "title": "President Trump says he will nominate Todd Blanche to serve as attorney general - AP News",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "BLANCHEfiscal",
-          "EPSTEINFALLOUT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:14:15.699889+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ef40f061e30a",
-        "score": 91,
-        "category": "crimen y violencia",
-        "title": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at k",
-        "candidate_tickers": [
-          "SUDANESEKILLER",
-          "RAPEINSWEDEN",
-          "MIGRANTMURDER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:14:47.333418+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "340ff5460d79",
-        "score": 79,
-        "category": "conflicto en Medio Oriente",
-        "title": "Lebanon says three soldiers killed in Israeli attack on car",
-        "candidate_tickers": [
-          "LEBANON",
-          "ISRAEL",
-          "HEZBOLLAH",
-          "CONFLICTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:15:24.167740+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0c3022e4f20d",
-        "score": 76,
-        "category": "política",
-        "title": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks - AP News",
-        "candidate_tickers": [
-          "PUTINVSZELENSKYY",
-          "UCRANIAVSRUSIA",
-          "SANPETERSBURGOATACADO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T11:15:53.815702+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28279,6 +28205,76 @@
           "PROMIS",
           "MUSK"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-17T23:12:24.129843+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "392c185e606e",
+        "score": 80,
+        "category": "politics",
+        "title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been",
+        "candidate_tickers": [
+          "VOTE",
+          "FRAUD",
+          "TRUMP",
+          "DECCLASS",
+          "VOTEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T23:13:58.560213+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0631ceb275d6",
+        "score": 70,
+        "category": "Noticias",
+        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+        "candidate_tickers": [
+          "ICE",
+          "MAINE",
+          "OFICIAL VIOLENTO",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T23:14:32.572459+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Deportes",
+        "title": "Herbert leads British Open golf, equals record lowest score at a major",
+        "candidate_tickers": [
+          "Herbert",
+          "BritishOpen",
+          "Golf"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T23:16:49.856154+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y Negocios",
+        "title": "As promised",
+        "candidate_tickers": [
+          "XCancel",
+          "ElonPromesa"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T23:17:46.439045+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cfdcd850e6f0",
+        "ticker": "Jimothy",
+        "mint": "A3NqdmPtu9Qa6nRqcZWJ969ePUWNA1Fb4SgmQ7Ldpump",
+        "mc": 20492.0
       }
     }
   ]
