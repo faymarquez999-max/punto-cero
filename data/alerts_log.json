@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T07:28:33.358192+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "259ea91591be",
-        "score": 80,
-        "category": "noticias de espacio",
-        "title": "Lorde opened her Gov Ball set with a new song:",
-        "candidate_tickers": [
-          "LEAK",
-          "SPACE",
-          "EVAC",
-          "NASA",
-          "ISS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T07:28:46.766454+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "40267fdaf68a",
-        "score": 78,
-        "category": "Finanzas/Tecnología",
-        "title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
-        "candidate_tickers": [
-          "SPACEX",
-          "META",
-          "ANTHROPIC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T07:29:58.954284+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias y eventos virales",
-        "title": "What’s new at World Cup 2026? From match ball sensors to AI and robot dogs",
-        "candidate_tickers": [
-          "WORLD CUP 2026",
-          "VIDEOS VIRALES",
-          "ANIMALES FUTBOLISTAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T07:30:32.591017+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1d4efb98dd3e",
-        "score": 89,
-        "category": "noticias de actualidad",
-        "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-        "candidate_tickers": [
-          "SCREWWORM",
-          "TEXASCATTLE",
-          "CANADABAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T07:30:57.585279+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ed815c717c4c",
-        "score": 80,
-        "category": "crímenes y justicia",
-        "title": "After actor James Handy’s stabbing death, his girlfriend’s son is charged with murder - AP News",
-        "candidate_tickers": [
-          "JAMESHANDY",
-          "ACTORASASINATO",
-          "MUERTEENCRÍMEN"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T07:32:00.098306+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28264,6 +28188,76 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 31515.0
+      }
+    },
+    {
+      "ts": "2026-07-17T19:52:05.312821+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9fcd6485a9b4",
+        "score": 80,
+        "category": "Política y controversia",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMPFEUD",
+          "CONGRESSCLASH",
+          "POLITICALPOT",
+          "TRUMPBACKFIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T19:53:25.290891+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "crimen y justicia",
+        "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
+        "candidate_tickers": [
+          "NowakMother",
+          "CuchillaDelCrimen",
+          "Injusticia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T19:54:51.420442+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1b52b776ead9",
+        "score": 76,
+        "category": "política",
+        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+        "candidate_tickers": [
+          "ICE_BADGE",
+          "MAINESHOOTING",
+          "AGENTE_VIOLENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T19:56:52.108125+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Celebridades",
+        "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+        "candidate_tickers": [
+          "BrendaFricker",
+          "MyLeftFoot",
+          "HomeAlone2"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T19:57:32.791101+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1b52b776ead9",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34415.0
       }
     }
   ]
