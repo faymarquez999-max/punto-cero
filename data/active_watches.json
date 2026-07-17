@@ -1,94 +1,6 @@
 {
   "watches": [
     {
-      "id": "6ded21f629b3",
-      "fingerprint": "6ded21f629b3",
-      "narrative_summary": "El empresario chino Guo Wengui se exilia y recibe 30 años de prisión en EE. UU. por fraude.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'exilio', lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GUOWENGUI",
-        "SELFEXILEDBILLIONAIRE",
-        "FRAUDCONVICTION"
-      ],
-      "key_terms_for_dex_search": [
-        "Guo Wengui",
-        "self-exiled",
-        "billionaire",
-        "fraud conviction",
-        "prison"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-06-30T15:18:52.801907+00:00",
-      "expires_at": "2026-07-03T15:18:52.801907+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CONVICTION",
-        "name": "CONVICTION",
-        "mint": "DQ1zRnAiy4bjhiWgDvoaQhyGGqjJFb1aVyF3BpCHbonk",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 12592.0,
-        "liquidity_usd": 8230.86,
-        "price_usd": 1.259e-05,
-        "volume_h24": 85674.27,
-        "volume_h1": 49.74,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 2.49,
-        "price_change_24h": -70.0,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1782796601000,
-        "pair_created_at": 1782796601000,
-        "url": "https://dexscreener.com/solana/gs1fvhnwub5okpjdazdfwqv48nycszsp3mzs6j8l1hwk",
-        "source": "dexscreener",
-        "match_score": 80.0,
-        "match_reason": "ticker close: CONVICTION~FRAUDCONVICTION (80.0%)",
-        "safety_score": 15945,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Self-exiled Chinese billionaire Guo Wengui gets 30 years in US prison for fraud conviction - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T15:21:15.762015+00:00"
-    },
-    {
       "id": "5fd6394d7adc",
       "fingerprint": "5fd6394d7adc",
       "narrative_summary": "AOC es acusada de mentir por Elon Musk en Twitter.",
@@ -10851,7 +10763,53 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "66f8c9ce54db",
+      "fingerprint": "66f8c9ce54db",
+      "narrative_summary": "Apple supera a NVIDIA para convertirse en la empresa más valiosa del mundo",
+      "why_memeable": "Frase corta y fácil de recordar, con un tema de interés general",
+      "category": "Finanzas/Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AAPLSURPASANVIDIA",
+        "APPLENVIDIA",
+        "AAPL"
+      ],
+      "key_terms_for_dex_search": [
+        "AAPL",
+        "NVIDIA",
+        "Apple",
+        "valuable",
+        "company"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T14:21:57.353795+00:00",
+      "expires_at": "2026-07-19T14:21:57.353795+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "APPLE SURPASSES NVIDIA TO BECOME WORLD'S MOST VALUABLE COMPANY $AAPL $NVDA",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-17T12:42:57.968801+00:00"
+  "last_updated": "2026-07-17T14:21:57.353795+00:00"
 }

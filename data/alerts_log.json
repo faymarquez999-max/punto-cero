@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T21:14:48.636984+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be20b0c5bb26",
-        "score": 80,
-        "category": "Abuso animal y fraude",
-        "title": "Three Knox Co. Sheriff’s Office employees file for retirement while facing charges in theft conspiracy case - WVLT",
-        "candidate_tickers": [
-          "KNOXCOSCANDAL",
-          "ANIMALABUSE",
-          "FRAUDECONSPIRACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T21:16:13.008839+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a3700b9d5ace",
-        "score": 70,
-        "category": "Desastres naturales y accidentes",
-        "title": "Dozens die of thirst in Sahara desert after truck breakdown - Reuters",
-        "candidate_tickers": [
-          "SAHARADESIERTO",
-          "TRUCKBREAKDOWN",
-          "MUERTOSPORSED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T21:17:26.850273+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7774078c5fbe",
-        "score": 83,
-        "category": "Absurdidad y misterio",
-        "title": "🤔",
-        "candidate_tickers": [
-          "XCANCEL",
-          "ELONMUSK",
-          "CANT"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T21:17:39.834876+00:00",
       "kind": "shadow",
       "payload": {
@@ -28262,6 +28217,49 @@
         "candidate_tickers": [
           "MUSK",
           "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T14:20:59.435732+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 53,
+        "category": "Tecnología y Derechos de Autor",
+        "title": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice - Reuters",
+        "candidate_tickers": [
+          "GOOG",
+          "INDO",
+          "COPYRIGHT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T14:21:58.032838+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "66f8c9ce54db",
+        "score": 84,
+        "category": "Finanzas/Tecnología",
+        "title": "APPLE SURPASSES NVIDIA TO BECOME WORLD'S MOST VALUABLE COMPANY $AAPL $NVDA",
+        "candidate_tickers": [
+          "AAPLSURPASANVIDIA",
+          "APPLENVIDIA",
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T14:24:14.916281+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Tecnología",
+        "title": "To understand more about Starship",
+        "candidate_tickers": [
+          "Starship",
+          "ElonMusk",
+          "SpaceX"
         ]
       }
     }
