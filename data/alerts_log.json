@@ -1,39 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T12:22:21.730670+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "corrupción",
-        "title": "Corruption",
-        "candidate_tickers": [
-          "CORRUPTION",
-          "ELON_MUSK_CORRUPTION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T12:22:34.760405+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "022f4c0abe46",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 350675.0
-      }
-    },
-    {
-      "ts": "2026-06-05T12:22:35.810910+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bb510d34f785",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 350675.0
-      }
-    },
-    {
       "ts": "2026-06-05T12:22:37.129841+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28240,6 +28207,53 @@
           "SAMNEILL",
           "JURASSICPARK",
           "THEPIANO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T04:32:10.920678+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4e98917bb411",
+        "score": 88,
+        "category": "política",
+        "title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
+        "candidate_tickers": [
+          "ZELENSKY",
+          "UCRANIA",
+          "DRONES",
+          "MINISTRO DE DEFENSA",
+          "DESTITUCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T04:32:33.464226+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1dd54f27e646",
+        "score": 78,
+        "category": "política",
+        "title": "US hits more bridges in Iran in an expansion of its airstrike campaign - AP News",
+        "candidate_tickers": [
+          "IRANBRIDGES",
+          "EEUUATACA",
+          "IRANBOMBARDEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T04:33:10.900837+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2951538fa4ef",
+        "score": 79,
+        "category": "Noticias internacionales",
+        "title": "Philippines condemns Chinese media depicting it as monkey in AI video - BBC",
+        "candidate_tickers": [
+          "MONKEYS",
+          "RACIST_VIDEO",
+          "CHINA_MONKEY"
         ]
       }
     }
