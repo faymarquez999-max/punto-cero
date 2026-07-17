@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-05T15:36:49.891720+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3d442bc48f85",
-        "score": 88,
-        "category": "Guerra en Ucrania",
-        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-        "candidate_tickers": [
-          "UKRATK",
-          "PUTINSTRK",
-          "DRONEXP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-05T17:35:53.331403+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7e432032bcec",
-        "score": 74,
-        "category": "Política y celebridades",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP",
-          "TRUMPVSEPSTEIN"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-05T17:40:23.040063+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28260,6 +28230,35 @@
         "candidate_tickers": [
           "TESLAURU",
           "TESLAURUPE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T11:12:28.526592+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "candidate_tickers": [
+          "TRUMP_CHINA",
+          "CHINA_MEDDLED",
+          "ELECCIONES_2020"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T11:14:38.589233+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cbbe81dd01af",
+        "score": 73,
+        "category": "política",
+        "title": "The nation’s cartoonists on the week in politics - Politico",
+        "candidate_tickers": [
+          "TRUMPVULNERABILIDADES",
+          "ELECCIONES2025",
+          "VULNERABILIDADESELECCIONALES"
         ]
       }
     }
