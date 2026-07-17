@@ -1,85 +1,6 @@
 {
   "watches": [
     {
-      "id": "caf6249ae156",
-      "fingerprint": "caf6249ae156",
-      "narrative_summary": "Elon Musk publicó 'Bingo' en su cuenta de Twitter, generando una gran cantidad de engagement",
-      "why_memeable": "El tweet de Elon Musk es corto y fácil de compartir, lo que lo hace muy memeable",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "BINGO",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "bingo",
-        "twitter"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-30T06:26:04.065444+00:00",
-      "expires_at": "2026-07-02T06:26:04.065444+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "EMC",
-        "name": "ElonMuskCoin",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25597.0,
-        "liquidity_usd": 26337.61,
-        "price_usd": 2.559e-05,
-        "volume_h24": 348460.11,
-        "volume_h1": 348460.11,
-        "volume_m5": 42408.94,
-        "price_change_5m": -12.59,
-        "price_change_1h": 306.0,
-        "price_change_24h": 306.0,
-        "txns_h1_buys": 2888,
-        "txns_h1_sells": 652,
-        "created_ts": 1782797597000,
-        "pair_created_at": 1782797597000,
-        "url": "https://dexscreener.com/solana/7zxcrmmkvhpzcs1x6e2uo7hhpggvvdxahjzhzb86pyt4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKCOIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Bingo",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T06:27:16.125567+00:00"
-    },
-    {
       "id": "a3ac8b6a55da",
       "fingerprint": "a3ac8b6a55da",
       "narrative_summary": "Declaraciones polémicas de un político sobre temas sociales y políticos, generando gran controversia y división en la opinión pública.",
@@ -8897,7 +8818,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "7f27f3129862",
@@ -9059,7 +8980,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "f86c5377320f",
@@ -9109,7 +9030,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "a40cd0f39826",
@@ -9226,7 +9147,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "b87d0d0d6f69",
@@ -9470,7 +9391,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "9d594b99d043",
@@ -9510,14 +9431,15 @@
       "started_at": "2026-07-15T06:05:24.964462+00:00",
       "expires_at": "2026-07-17T06:05:24.964462+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Spain’s anaconda grip crushes French World Cup dream - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-17T07:01:52.570594+00:00"
     },
     {
       "id": "6adee851d202",
@@ -9556,14 +9478,15 @@
       "started_at": "2026-07-15T06:05:54.745178+00:00",
       "expires_at": "2026-07-17T06:05:54.745178+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-17T07:01:52.570612+00:00"
     },
     {
       "id": "60dd8e35aac0",
@@ -9599,13 +9522,14 @@
       "started_at": "2026-07-15T06:07:27.158292+00:00",
       "expires_at": "2026-07-17T06:07:27.158292+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-17T07:01:52.570616+00:00"
     },
     {
       "id": "72d5d4be4cab",
@@ -9651,7 +9575,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "195b6465f7db",
@@ -9766,7 +9690,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "f8c2ccac853b",
@@ -9811,7 +9735,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "322f73de5f7a",
@@ -9859,7 +9783,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "d77ac89abfdb",
@@ -9910,7 +9834,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0fdaa35c6b2c",
@@ -9957,7 +9881,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "7b58362f392f",
@@ -10075,7 +9999,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "71099b496c94",
@@ -10121,7 +10045,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1b80b2c062e0",
@@ -10167,7 +10091,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "8137acc8726f",
@@ -10287,7 +10211,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "620bfa1c1805",
@@ -10333,7 +10257,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "bf9119ed9633",
@@ -10379,7 +10303,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1879e5412eb4",
@@ -10426,7 +10350,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "cd771d1402e2",
@@ -10472,7 +10396,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5a911e93f033",
@@ -10589,7 +10513,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "67a8afd8702e",
@@ -10632,7 +10556,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e958ddbc50f9",
@@ -10679,7 +10603,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "fabca0445fc4",
@@ -10795,7 +10719,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d2ea808cd2a5",
@@ -10840,7 +10764,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4e98917bb411",
@@ -10888,7 +10812,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1dd54f27e646",
@@ -10933,7 +10857,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2951538fa4ef",
@@ -10980,8 +10904,54 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "76b688c6391c",
+      "fingerprint": "76b688c6391c",
+      "narrative_summary": "Zelensky destituye al ministro de Defensa popular, arquitecto del programa de drones de Ucrania.",
+      "why_memeable": "La destitución del ministro de Defensa y la mención a la programación de drones crean un núcleo memeable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ZELENSKY",
+        "UCRANIA",
+        "DRONES",
+        "MINISTRO DE DEFENSA"
+      ],
+      "key_terms_for_dex_search": [
+        "Zelensky",
+        "Ucrania",
+        "drones",
+        "ministro de Defensa"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-17T07:02:08.518300+00:00",
+      "expires_at": "2026-07-19T07:02:08.518300+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-17T04:33:10.386274+00:00"
+  "last_updated": "2026-07-17T07:02:08.518300+00:00"
 }
