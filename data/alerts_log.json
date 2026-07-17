@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T07:32:00.098306+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "80d71c305f5f",
-        "score": 83,
-        "category": "Tecnología",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "MUSKYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T07:32:32.629345+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "15d87d98b937",
-        "ticker": "Starlink",
-        "mint": "ms9pVdffSjYEH7azGQ2NxKY3vnAj73xpAsREv3vag3u",
-        "mc": 115442.0
-      }
-    },
-    {
-      "ts": "2026-06-06T07:32:35.010706+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "259ea91591be",
-        "ticker": "SPSC",
-        "mint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
-        "mc": 324454.0
-      }
-    },
-    {
-      "ts": "2026-06-06T07:32:36.385111+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "40267fdaf68a",
-        "ticker": "ANTH",
-        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
-        "mc": 23945.0
-      }
-    },
-    {
       "ts": "2026-06-06T07:32:37.627302+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28258,6 +28214,66 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 34415.0
+      }
+    },
+    {
+      "ts": "2026-07-17T21:04:58.893327+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da63d2b514cc",
+        "score": 89,
+        "category": "política",
+        "title": "TRUMP MEDIA PITCHED $100,000 MONTHLY FEE FOR FAST FEED OF PRESIDENT’S POSTS - FT",
+        "candidate_tickers": [
+          "TRUMP100K",
+          "TRUTHSOCIAL",
+          "TRUMPMEDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T21:05:26.449463+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a3077636ad71",
+        "score": 80,
+        "category": "Internacional",
+        "title": "IRAN'S SEMI-OFFICIAL TASNIM SAYS 'THAI-FLAGGED SHIP' TARGETED AFTER IGNORING WARNINGS AND TRYING TO PASS THROUGH STRAIT OF HORMUZ WITHOUT IRGC'S PERMISSION",
+        "candidate_tickers": [
+          "IRAN",
+          "IRGC",
+          "HORMUZ",
+          "TAI",
+          "AIRSTRIKE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T21:07:24.383928+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Trump endorses Darline Graham for Lindsay Graham's open Senate seat - Politico",
+        "candidate_tickers": [
+          "TRUMP_DARLINE",
+          "GRAHAM_ENDORSEMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T21:08:02.972070+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "24be5e7f50aa",
+        "score": 82,
+        "category": "Noticias de actualidad",
+        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+        "candidate_tickers": [
+          "ICE",
+          "MAINE",
+          "OFICIAL VIOLENTO"
+        ]
       }
     }
   ]

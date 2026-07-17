@@ -1,210 +1,6 @@
 {
   "watches": [
     {
-      "id": "879ad4925327",
-      "fingerprint": "879ad4925327",
-      "narrative_summary": "Una explosión en Mónaco ha herido a un magnate ucraniano con vínculos con Rusia.",
-      "why_memeable": "La combinación de una explosión, un magnate ucraniano y vínculos con Rusia crea un escenario intrigante y potencialmente viral.",
-      "category": "noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MONACOBLAST",
-        "UKRAINEOLIGARCH",
-        "RUSSIATIES"
-      ],
-      "key_terms_for_dex_search": [
-        "explosión",
-        "Mónaco",
-        "magnate ucraniano",
-        "Rusia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 8
-      },
-      "started_at": "2026-06-30T22:54:35.471579+00:00",
-      "expires_at": "2026-07-03T22:54:35.471579+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-03T23:47:18.539872+00:00"
-    },
-    {
-      "id": "e9a87a291910",
-      "fingerprint": "e9a87a291910",
-      "narrative_summary": "Elon Musk anuncia un nuevo proyecto llamado SpaceXAI, generando gran interés y especulación en las redes.",
-      "why_memeable": "La mención de Elon Musk y el nombre del proyecto 'SpaceXAI' son factores clave que contribuyen a su memeabilidad.",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "SPACEXAI",
-        "ELONMUSKAI"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceXAI",
-        "ElonMusk",
-        "AI",
-        "Tecnología",
-        "Ciencia"
-      ],
-      "score": 70,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-06-30T22:55:23.629765+00:00",
-      "expires_at": "2026-07-02T22:55:23.629765+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SpaceXAI",
-        "name": "SpaceXAI",
-        "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 68101.0,
-        "liquidity_usd": 23425.08,
-        "price_usd": 8.532e-05,
-        "volume_h24": 30577.19,
-        "volume_h1": 3.29,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.88,
-        "price_change_24h": 66.83,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 0,
-        "created_ts": 1778095069000,
-        "pair_created_at": 1778095069000,
-        "url": "https://dexscreener.com/solana/cofqqyax5k9ul45umemdmrxcgshldqaateexzktxnwwa",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: SPACEXAI==SPACEXAI",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceXAI",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-06-30T22:58:23.407349+00:00"
-    },
-    {
-      "id": "b61263253f53",
-      "fingerprint": "b61263253f53",
-      "narrative_summary": "Declaraciones polémicas de Donald Trump sobre la política de inmigración y género generan reacciones en las redes sociales y los medios de comunicación.",
-      "why_memeable": "La combinación de un tema polémico con la personalidad controvertida de Trump crea un caldo de cultivo para memes y reacciones virales.",
-      "category": "Política y Sociedad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP22",
-        "LEFTSCUM",
-        "OPENBORDERS",
-        "MENSSPORTS",
-        "TRANSRIGHTS"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Política",
-        "Inmigración",
-        "Género",
-        "Memes"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 7
-      },
-      "started_at": "2026-07-01T04:59:38.990519+00:00",
-      "expires_at": "2026-07-04T04:59:38.990519+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TRUMP",
-        "name": "The Orange Bull",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 19578.0,
-        "liquidity_usd": 10836.06,
-        "price_usd": 1.957e-05,
-        "volume_h24": 512158.06,
-        "volume_h1": 70.86,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.78,
-        "price_change_24h": -43.31,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 2,
-        "created_ts": 1782852698000,
-        "pair_created_at": 1782852698000,
-        "url": "https://dexscreener.com/solana/3dtmw4l5ky1xsqiyiiwhsr5zgyajfyansaxlle9i2toy",
-        "source": "dexscreener",
-        "match_score": 83.3,
-        "match_reason": "ticker close: TRUMP~TRUMP22 (83.33333333333334%)",
-        "safety_score": 14541,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcemen",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-01T05:04:02.093401+00:00"
-    },
-    {
       "id": "dd3486059693",
       "fingerprint": "dd3486059693",
       "narrative_summary": "La empresa Anthropic afirma que Estados Unidos levanta la prohibición de exportar sus herramientas de inteligencia artificial avanzadas.",
@@ -9073,14 +8869,15 @@
       "started_at": "2026-07-15T19:59:40.190586+00:00",
       "expires_at": "2026-07-17T19:59:40.190586+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-17T21:04:44.418843+00:00"
     },
     {
       "id": "d77ac89abfdb",
@@ -10865,7 +10662,148 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-17T19:57:32.783812+00:00"
+    },
+    {
+      "id": "da63d2b514cc",
+      "fingerprint": "da63d2b514cc",
+      "narrative_summary": "Trump Media pide $100,000 mensuales por acceso rápido a los posts del presidente en Truth Social",
+      "why_memeable": "La narrativa es memeable debido a la cantidad de dinero involucrado y la controversia generada por Trump",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP100K",
+        "TRUTHSOCIAL",
+        "TRUMPMEDIA"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "TRUTHSOCIAL",
+        "TRUMPMEDIA",
+        "$100000"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T21:04:58.503943+00:00",
+      "expires_at": "2026-07-19T21:04:58.503943+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "TRUMP MEDIA PITCHED $100,000 MONTHLY FEE FOR FAST FEED OF PRESIDENT’S POSTS - FT",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a3077636ad71",
+      "fingerprint": "a3077636ad71",
+      "narrative_summary": "Iran ataca a un barco con bandera tailandesa después de ignorar advertencias y tratar de pasar por el estrecho de Hormuz sin permiso de la IRGC",
+      "why_memeable": "La narrativa es memeable debido a la acción inesperada de la IRGC y la reacción de los medios internacionales",
+      "category": "Internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "IRGC",
+        "HORMUZ",
+        "TAI",
+        "AIRSTRIKE"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "IRGC",
+        "HORMUZ",
+        "TAI",
+        "AIRSTRIKE"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-17T21:05:26.050951+00:00",
+      "expires_at": "2026-07-19T21:05:26.050951+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "IRAN'S SEMI-OFFICIAL TASNIM SAYS 'THAI-FLAGGED SHIP' TARGETED AFTER IGNORING WARNINGS AND TRYING TO PASS THROUGH STRAIT OF HORMUZ WITHOUT IRGC'S PERMISSION",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "24be5e7f50aa",
+      "fingerprint": "24be5e7f50aa",
+      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento, según familiares y registros.",
+      "why_memeable": "La historia de un oficial de ICE con un historial de comportamiento violento es fácil de capturar en una frase y puede generar mucha emoción.",
+      "category": "Noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICE",
+        "MAINE",
+        "OFICIAL VIOLENTO"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "Maine",
+        "oficial violento",
+        "comportamiento violento"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T21:08:02.482626+00:00",
+      "expires_at": "2026-07-19T21:08:02.482626+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-17T19:57:32.783832+00:00"
+  "last_updated": "2026-07-17T21:08:02.482626+00:00"
 }
