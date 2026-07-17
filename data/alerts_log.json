@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T04:11:32.761286+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cfca49fa36f5",
-        "score": 85,
-        "category": "Tecnología y Política",
-        "title": "🤔",
-        "candidate_tickers": [
-          "CANT",
-          "THINK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T04:11:53.440564+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "15d87d98b937",
-        "score": 85,
-        "category": "Tecnología/Innovación",
-        "title": "Starlink",
-        "candidate_tickers": [
-          "STARLINK",
-          "BOLIVIACONNECTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T04:12:15.010472+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "61d4793e7e57",
-        "score": 86,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "ELONYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T04:12:32.729851+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "50ca5a9409e2",
-        "ticker": "IRAN",
-        "mint": "Pbgr3A3fp4mRsQjVr5KQRNkYMSkYG3Uih6yfg1okv7W",
-        "mc": 184056.0
-      }
-    },
-    {
-      "ts": "2026-06-06T04:12:35.154648+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cfca49fa36f5",
-        "ticker": "XAnimals",
-        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
-        "mc": 20001.0
-      }
-    },
-    {
       "ts": "2026-06-06T07:28:33.358192+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28272,6 +28210,60 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 34387.0
+      }
+    },
+    {
+      "ts": "2026-07-17T18:41:12.201670+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "As promised",
+        "candidate_tickers": [
+          "XCancel",
+          "XCancelE",
+          "XC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T18:43:18.293534+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4eaacbdd2b24",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 31515.0
+      }
+    },
+    {
+      "ts": "2026-07-17T18:43:26.662685+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "66f8c9ce54db",
+        "ticker": "NVDAx",
+        "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+        "mc": 203158.0
+      }
+    },
+    {
+      "ts": "2026-07-17T18:43:29.951056+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b19806cbf76a",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 31515.0
+      }
+    },
+    {
+      "ts": "2026-07-17T18:43:32.805439+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bfa6d4ca24c4",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 31515.0
       }
     }
   ]
