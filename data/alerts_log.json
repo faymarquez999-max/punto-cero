@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T07:32:37.627302+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1d4efb98dd3e",
-        "ticker": "Screwworm",
-        "mint": "D9msuWXNknQmyuvbL8EKejz8Vbps3CseiQDdBDr4pump",
-        "mc": 42668.0
-      }
-    },
-    {
-      "ts": "2026-06-06T09:38:03.499695+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ba47ee48f235",
-        "score": 86,
-        "category": "crimen y violencia",
-        "title": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at k",
-        "candidate_tickers": [
-          "SUDANESESTABBER",
-          "VIOLADORDESUECIA",
-          "MIGRANTEVIOLADOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T09:41:24.076138+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bc77213476d3",
-        "score": 90,
-        "category": "ciencia espacial",
-        "title": "Taiwan says Chinese coast guard, research ships near key S. China Sea islands - Reuters",
-        "candidate_tickers": [
-          "ISS_LEAK",
-          "DRAGON_REFUGIO",
-          "ASTRONAUTAS_EN_PELIGRO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T09:42:08.570002+00:00",
       "kind": "shadow",
       "payload": {
@@ -28273,6 +28233,51 @@
           "ICE",
           "MAINE",
           "OFICIAL VIOLENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T22:12:03.912946+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política y noticias",
+        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional - Reuters",
+        "candidate_tickers": [
+          "TRUMP_REVOKES_LICENCES",
+          "FCCvsTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T22:12:42.506460+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "046cb2ae2955",
+        "score": 79,
+        "category": "política",
+        "title": "U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz - NBC News",
+        "candidate_tickers": [
+          "HORMUZ",
+          "IRÁN",
+          "EE.UU.",
+          "ATAQUE AÉREO",
+          "PUENTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-17T22:13:11.286323+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db75f32d8c84",
+        "score": 70,
+        "category": "Tech y celebridades",
+        "title": "As promised",
+        "candidate_tickers": [
+          "ELONPROM",
+          "PROMIS",
+          "MUSK"
         ]
       }
     }

@@ -1,126 +1,6 @@
 {
   "watches": [
     {
-      "id": "dd3486059693",
-      "fingerprint": "dd3486059693",
-      "narrative_summary": "La empresa Anthropic afirma que Estados Unidos levanta la prohibición de exportar sus herramientas de inteligencia artificial avanzadas.",
-      "why_memeable": "La narrativa tiene un título claro y una frase atractiva, 'US lifts export ban on its advanced AI tools', que puede ser compartida y recordada fácilmente.",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "ANTHROPIC",
-        "AI",
-        "EXPORTBAN"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "AI",
-        "ExportBan",
-        "US",
-        "Tecnología"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-01T05:01:15.765958+00:00",
-      "expires_at": "2026-07-04T05:01:15.765958+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ANTH",
-        "name": "Anthropic",
-        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 129713.0,
-        "liquidity_usd": 28900.28,
-        "price_usd": 0.0001297,
-        "volume_h24": 10731.15,
-        "volume_h1": 129.74,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.0,
-        "price_change_24h": 17.97,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1780168240000,
-        "pair_created_at": 1780168240000,
-        "url": "https://dexscreener.com/solana/bmjrgxumzdnbhpxfbkezf2poc4fyuryunkfkeqbqratr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ANTHROPIC in ANTHROPIC",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-01T05:04:04.120977+00:00"
-    },
-    {
-      "id": "e4e36d860c12",
-      "fingerprint": "e4e36d860c12",
-      "narrative_summary": "US military envía 900 personal a Venezuela para respuesta a terremoto",
-      "why_memeable": "La frase '900 personal' es fácil de recordar y se puede capturar en una imagen",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "VENEZUELA900",
-        "TERREMOTO900",
-        "MILITAR900"
-      ],
-      "key_terms_for_dex_search": [
-        "venezuela",
-        "terremoto",
-        "militar",
-        "900",
-        "respuesta"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-01T05:02:03.765942+00:00",
-      "expires_at": "2026-07-03T05:02:03.765942+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-07-03T05:02:34.760169+00:00"
-    },
-    {
       "id": "953fbe6ec0cb",
       "fingerprint": "953fbe6ec0cb",
       "narrative_summary": "Elon Musk comparte un meme llamado 'Grok' que ha generado mucha atención en redes sociales.",
@@ -10803,7 +10683,98 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "046cb2ae2955",
+      "fingerprint": "046cb2ae2955",
+      "narrative_summary": "Los EE. UU. lanzan un ataque aéreo contra puentes clave en Irán, expandiendo su campaña en la batalla por Hormuz.",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HORMUZ",
+        "IRÁN",
+        "EE.UU.",
+        "ATAQUE AÉREO",
+        "PUENTES"
+      ],
+      "key_terms_for_dex_search": [
+        "Hormuz",
+        "Irán",
+        "EE.UU.",
+        "ataque aéreo",
+        "puentes"
+      ],
+      "score": 79,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T22:12:41.926237+00:00",
+      "expires_at": "2026-07-19T22:12:41.926237+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz - NBC News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "db75f32d8c84",
+      "fingerprint": "db75f32d8c84",
+      "narrative_summary": "Elon Musk mantiene su promesa, generando gran interés y debate.",
+      "why_memeable": "La frase 'As promised' es fácil de recordar y compartir, y tiene un impacto directo en la comunidad de Elon Musk.",
+      "category": "Tech y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ELONPROM",
+        "PROMIS",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "promesa",
+        "xcancel"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 1,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-17T22:13:10.721690+00:00",
+      "expires_at": "2026-07-19T22:13:10.721690+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "As promised",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-17T21:08:02.482626+00:00"
+  "last_updated": "2026-07-17T22:13:10.721690+00:00"
 }
