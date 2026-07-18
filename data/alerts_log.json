@@ -1,114 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T20:24:53.489307+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e99c5317e756",
-        "ticker": "IRAN",
-        "mint": "BwMQLyqzB7XwvmEmYhXGhEygph356GukQhBSbaaGQSjZ",
-        "mc": 239018.0
-      }
-    },
-    {
-      "ts": "2026-06-06T21:41:07.726821+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "83019ce863f9",
-        "score": 74,
-        "category": "justicia y penalización",
-        "title": "3-5 years for a throwing a traffic cone is wild when Hamid Safi, a Rochdale child rape gang member, only received 4 years.",
-        "candidate_tickers": [
-          "ROCHDALERAPE",
-          "INJUSTICIAROCHDALE",
-          "CONCHADETRAFFICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:41:34.253723+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bcc42c513f36",
-        "score": 70,
-        "category": "Política/Conflictos internacionales",
-        "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
-        "candidate_tickers": [
-          "ISRAELSPY",
-          "PENTAGONALERT",
-          "ESPIONAJEISRAEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:42:03.188863+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "economía",
-        "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters",
-        "candidate_tickers": [
-          "Screwworm",
-          "BeefBoom",
-          "MexicoVsTexas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:43:18.628086+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "93410bc2091c",
-        "score": 89,
-        "category": "Deportes",
-        "title": "Russian teen Mirra Andreeva says she had to overcome so many demons inside to win the French Open - AP News",
-        "candidate_tickers": [
-          "MIRRAWINS",
-          "DEMONESINTERNOS",
-          "FRENCHOPEN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:43:52.137645+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5c5d9aa81079",
-        "score": 88,
-        "category": "protesta social",
-        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-        "candidate_tickers": [
-          "CUCARACHA",
-          "GENZINDIA",
-          "PROTESTASOCIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:44:52.445651+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Democrat Xavier Becerra advances to general election in race for California governor - AP News",
-        "candidate_tickers": [
-          "Becerra",
-          "California",
-          "Gobernador"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T21:45:59.297168+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5ceb3346e6bc",
-        "ticker": "CBL",
-        "mint": "HENbwYB9roXganed9MFXm9kQ9YnhMb1cTHxeg44gpump",
-        "mc": 14582.0
-      }
-    },
-    {
       "ts": "2026-06-06T21:46:07.111385+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28288,6 +28180,118 @@
           "DRONESDEUCRANIA",
           "MOSCÚENLLAMAS"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:54:08.249608+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4068d7f836b7",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "MASSIEGATE",
+          "TRUMPFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:54:21.818171+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Try Grok 4.5",
+        "candidate_tickers": [
+          "TRUMPvsMUSK",
+          "MUSKvsTRUMP",
+          "TRUMPvsMUSKFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:54:47.992768+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6e24bd252fe5",
+        "score": 89,
+        "category": "Noticias internacionales",
+        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+        "candidate_tickers": [
+          "UCRANIAATACA",
+          "RUSIAATACADA",
+          "DRONESDEUCRANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:56:02.026309+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c3e3949e4280",
+        "score": 70,
+        "category": "conflicto internacional",
+        "title": "Kuwait Faces Intense Night of Iranian Attacks as Power Plant Hit - Bloomberg.com",
+        "candidate_tickers": [
+          "KUWAIT",
+          "IRÁN",
+          "ATAQUES",
+          "CONFLICTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:56:32.459921+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
+        "candidate_tickers": [
+          "TrumpSpeech",
+          "WhiteHouseDebate",
+          "ElectionsSpeech"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:58:32.367014+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad y contenido viral",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP_XCANCEL",
+          "XCANCEL_TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:58:47.904401+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0d5e76b386e8",
+        "score": 85,
+        "category": "Tecnología/Ciencia",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "MFD",
+          "MFDLUNA",
+          "ELONLUNA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T13:59:14.108310+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0d5e76b386e8",
+        "ticker": "Luna Bear",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "mc": 93589.0
       }
     }
   ]
