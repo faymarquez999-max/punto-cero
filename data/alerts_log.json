@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-07T08:34:52.967441+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y negocios",
-        "title": "Join Tesla if you want to solve real-world AI",
-        "candidate_tickers": [
-          "TESLA",
-          "AI",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T11:00:39.223449+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "51745e76b69d",
-        "score": 80,
-        "category": "Política",
-        "title": "Ukrainian Drones Target St. Petersburg After Putin Refuses Talks - Bloomberg.com",
-        "candidate_tickers": [
-          "PUTINVSVSZELENSKYY",
-          "UCRANIAVSRUSIA",
-          "DRONESDEUCRANIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T11:01:20.066930+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28308,6 +28279,35 @@
           "KHAMENEI",
           "TRUMP",
           "IRANVSUSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T22:03:36.680399+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Noticias de animal",
+        "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
+        "candidate_tickers": [
+          "PerrosMuertos",
+          "RescateDeAnimales",
+          "California"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T22:04:39.974182+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fc2a41ccab8a",
+        "score": 78,
+        "category": "Deportes",
+        "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
+        "candidate_tickers": [
+          "LAMINEYAMAL",
+          "MESSIYAMAL",
+          "COPAMUNDIAL2022"
         ]
       }
     }

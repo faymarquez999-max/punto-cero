@@ -1,49 +1,6 @@
 {
   "watches": [
     {
-      "id": "1151819ad77b",
-      "fingerprint": "1151819ad77b",
-      "narrative_summary": "Elon Musk confirma que algo es cierto, generando gran interés",
-      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen fácilmente compartible y repetible",
-      "category": "Celebridad/Política",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSKTRUE"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "True",
-        "xcancel"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 10,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-03T11:19:07.047706+00:00",
-      "expires_at": "2026-07-04T11:19:07.047706+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-04T16:19:50.869886+00:00"
-    },
-    {
       "id": "ea0078f841cb",
       "fingerprint": "ea0078f841cb",
       "narrative_summary": "Taiwán enfrenta un escenario de pesadilla con un posible bloqueo chino, terremoto, sabotaje e invasión.",
@@ -8559,14 +8516,15 @@
       "started_at": "2026-07-16T21:44:26.336418+00:00",
       "expires_at": "2026-07-18T21:44:26.336418+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-18T22:01:19.155648+00:00"
     },
     {
       "id": "4e98917bb411",
@@ -10676,7 +10634,53 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "fc2a41ccab8a",
+      "fingerprint": "fc2a41ccab8a",
+      "narrative_summary": "Un niño de 2 años llamado Lamine Yamal se convierte en viral después de que el jugador Lionel Messi lo empujara en una foto durante un partido de la Copa Mundial, mientras que las tormentas interrumpen los planes de entrenamiento de la final entre España y Argentina.",
+      "why_memeable": "La foto viral de Lionel Messi empujando a un niño de 2 años y las tormentas que interrumpen los planes de entrenamiento de la final de la Copa Mundial crean un meme potencialmente viral.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LAMINEYAMAL",
+        "MESSIYAMAL",
+        "COPAMUNDIAL2022"
+      ],
+      "key_terms_for_dex_search": [
+        "Lionel Messi",
+        "Lamine Yamal",
+        "Copa Mundial 2022",
+        "tormentas",
+        "final de la Copa Mundial"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T22:04:39.310433+00:00",
+      "expires_at": "2026-07-20T22:04:39.310433+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-18T21:02:59.707840+00:00"
+  "last_updated": "2026-07-18T22:04:39.310433+00:00"
 }
