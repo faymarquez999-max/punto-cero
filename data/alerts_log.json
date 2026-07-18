@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T11:15:53.815702+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "89cb93f3c937",
-        "score": 88,
-        "category": "política",
-        "title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
-        "candidate_tickers": [
-          "CUCARACHA",
-          "COCKROACHINDIA",
-          "GENZINDIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:16:36.470654+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8aab77968683",
-        "score": 73,
-        "category": "ciencia",
-        "title": "Taiwan says Chinese coast guard, research ships near key S. China Sea islands - Reuters",
-        "candidate_tickers": [
-          "ISS_LEAK",
-          "NASA_EMERGENCIA",
-          "AEROLÍNEA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:16:37.961788+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8d50bdbe5143",
-        "score": 80,
-        "category": "Celebridad y crimen",
-        "title": "Son of James Handy's girlfriend charged with actor's murder - Reuters",
-        "candidate_tickers": [
-          "HANDY",
-          "JAMESKILL",
-          "ACTORMURDER",
-          "SONOF"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:17:40.470012+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "tech",
-        "title": "𝕏 is strong in the east too. #1 social network of any kind in Japan.",
-        "candidate_tickers": [
-          "XSTRONG",
-          "JAPANX",
-          "X1"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T11:18:08.707022+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28275,6 +28215,50 @@
         "ticker": "Jimothy",
         "mint": "A3NqdmPtu9Qa6nRqcZWJ969ePUWNA1Fb4SgmQ7Ldpump",
         "mc": 20492.0
+      }
+    },
+    {
+      "ts": "2026-07-18T00:14:10.124144+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cf5dd5540965",
+        "score": 80,
+        "category": "salud",
+        "title": "don’t",
+        "candidate_tickers": [
+          "CICLOSPORA",
+          "NOSÉ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T00:18:44.947279+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cfdcd850e6f0",
+        "ticker": "Jimothy",
+        "mint": "A3NqdmPtu9Qa6nRqcZWJ969ePUWNA1Fb4SgmQ7Ldpump",
+        "mc": 25152.0
+      }
+    },
+    {
+      "ts": "2026-07-18T00:18:51.024682+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "24be5e7f50aa",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 33050.0
+      }
+    },
+    {
+      "ts": "2026-07-18T00:18:56.185891+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0631ceb275d6",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 33050.0
       }
     }
   ]
