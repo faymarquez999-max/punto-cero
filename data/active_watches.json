@@ -1,102 +1,6 @@
 {
   "watches": [
     {
-      "id": "6104f4b9f1f0",
-      "fingerprint": "6104f4b9f1f0",
-      "narrative_summary": "At least 13 people killed in large-scale Russian missile and drone strikes on Kyiv, with children among the casualties.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'villano' (Rusia), lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KYIV",
-        "ZELINSKY",
-        "RUSSIA",
-        "UKRAINE",
-        "MISSILESTRIKE"
-      ],
-      "key_terms_for_dex_search": [
-        "kyiv",
-        "zelensky",
-        "russia",
-        "ukraine",
-        "missile strike"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-07-02T07:54:44.725264+00:00",
-      "expires_at": "2026-07-04T07:54:44.725264+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-04T08:16:13.191430+00:00"
-    },
-    {
-      "id": "4956ed443e57",
-      "fingerprint": "4956ed443e57",
-      "narrative_summary": "El FBI emite un comunicado sobre la legitimidad de los mensajes de rescate de Nancy Guthrie",
-      "why_memeable": "La narrativa tiene un claro conflicto entre la legitimidad de los mensajes de rescate y la respuesta del FBI, lo que la hace fácilmente compartible y recordable.",
-      "category": "crimen y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GUTHRIE",
-        "FBI",
-        "RANSOM",
-        "KIDNAPPING"
-      ],
-      "key_terms_for_dex_search": [
-        "Guthrie",
-        "FBI",
-        "Ransom",
-        "Kidnapping"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-02T07:56:01.644604+00:00",
-      "expires_at": "2026-07-04T07:56:01.644604+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "FBI Issues Statement on Legitimacy of Nancy Guthrie Ransom Notes",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-04T08:16:13.191442+00:00"
-    },
-    {
       "id": "f8106dd77824",
       "fingerprint": "f8106dd77824",
       "narrative_summary": "Trump gana $1.4 mil millones en criptomonedas, principalmente a través de monedas meme",
@@ -8665,14 +8569,15 @@
       "started_at": "2026-07-16T16:48:59.224035+00:00",
       "expires_at": "2026-07-18T16:48:59.224035+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-18T18:31:42.315508+00:00"
     },
     {
       "id": "67a8afd8702e",
@@ -8709,13 +8614,14 @@
       "started_at": "2026-07-16T16:52:42.516303+00:00",
       "expires_at": "2026-07-18T16:52:42.516303+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Arguing with NPCs is pointless",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-18T18:31:42.315523+00:00"
     },
     {
       "id": "e958ddbc50f9",
@@ -10707,7 +10613,101 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "d94ea6751c33",
+      "fingerprint": "d94ea6751c33",
+      "narrative_summary": "El documental 'Melania' se estrena con un récord de $8 millones en taquilla, el mejor debut en una década.",
+      "why_memeable": "La narrativa tiene un título memorable y un número de taquilla impactante.",
+      "category": "Cine y entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MELANIA",
+        "TAQUILLA",
+        "CINE"
+      ],
+      "key_terms_for_dex_search": [
+        "Melania",
+        "Taquilla",
+        "Cine",
+        "Documental",
+        "Debut"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T18:33:00.027655+00:00",
+      "expires_at": "2026-07-20T18:33:00.027655+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "aa8bbcc74e1d",
+      "fingerprint": "aa8bbcc74e1d",
+      "narrative_summary": "El líder supremo de Irán ha emitido un mensaje crítico hacia Trump, acusándolo de que su firma es 'sin valor'.",
+      "why_memeable": "El mensaje crítico hacia Trump y la acusación de que su firma es 'sin valor' son ingredientes clave para convertir esta narrativa en un meme.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "TRUMP",
+        "LEADER",
+        "MESSAGE"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "TRUMP",
+        "LEADER",
+        "MESSAGE",
+        "CRITICA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T18:33:34.716711+00:00",
+      "expires_at": "2026-07-20T18:33:34.716711+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "MESSAGE FROM IRAN'S SUPREME LEADER TO BE RELEASED SHORTLY - IRAN'S STATE MEDIA",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-18T16:14:40.262087+00:00"
+  "last_updated": "2026-07-18T18:33:34.716711+00:00"
 }

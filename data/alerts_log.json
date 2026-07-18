@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-07T05:01:09.276839+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d81fa6788ac9",
-        "score": 80,
-        "category": "Noticias de violencia",
-        "title": "At this point the probability of the LINK being needed is low. Logically thinking there would be at least SOME buying pr",
-        "candidate_tickers": [
-          "OHIO",
-          "TOLEDO",
-          "SHOOTING",
-          "FESTIVAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T05:03:06.350140+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "17f8b63540fd",
-        "score": 70,
-        "category": "política internacional",
-        "title": "US eyes Iranian assets for Gulf allies' reconstruction, source says - Reuters",
-        "candidate_tickers": [
-          "IRANASSETS",
-          "GULFRECONSTRUCTION",
-          "USIRANDEAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T05:03:43.652036+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8ea87118f672",
-        "score": 78,
-        "category": "Noticias internacionales",
-        "title": "Missing US student found dead near Kyoto, Japan, mother says - Reuters",
-        "candidate_tickers": [
-          "#KYOTO",
-          "#JAPÓN",
-          "#ESTUDIANTEDESAPARECIDO",
-          "#TRAGEDIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T05:04:42.007486+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28308,6 +28261,52 @@
           "DRONES",
           "ATAQUES",
           "INCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T18:33:00.431120+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d94ea6751c33",
+        "score": 91,
+        "category": "Cine y entretenimiento",
+        "title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
+        "candidate_tickers": [
+          "MELANIA",
+          "TAQUILLA",
+          "CINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T18:33:35.114260+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aa8bbcc74e1d",
+        "score": 80,
+        "category": "política internacional",
+        "title": "MESSAGE FROM IRAN'S SUPREME LEADER TO BE RELEASED SHORTLY - IRAN'S STATE MEDIA",
+        "candidate_tickers": [
+          "IRAN",
+          "TRUMP",
+          "LEADER",
+          "MESSAGE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T18:34:09.272266+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias internacionales",
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "candidate_tickers": [
+          "IRAN",
+          "JORDAN",
+          "ATAQUE",
+          "SOLDADOS_ESTADOUNIDENSES"
         ]
       }
     }
