@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T19:01:37.417864+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cc32d6860648",
-        "score": 80,
-        "category": "política",
-        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-        "candidate_tickers": [
-          "COCKROACH",
-          "GENZ",
-          "INDIA",
-          "PROTESTA",
-          "EDUCACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T20:19:54.710151+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7e0fc7c859fc",
-        "score": 89,
-        "category": "Noticias financieras",
-        "title": "$META - *META WEIGHS RAISING TENS OF BILLIONS IN NEW SHARE SALE: FT",
-        "candidate_tickers": [
-          "META",
-          "$META"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T20:21:08.270695+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "noticias",
-        "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters",
-        "candidate_tickers": [
-          "Screwworm",
-          "BeefBoom",
-          "MexicoMeat",
-          "TexasTroubles"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T20:21:46.698388+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e99c5317e756",
-        "score": 80,
-        "category": "política internacional",
-        "title": "US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "DRONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T20:23:38.126674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d3c99739db5d",
-        "score": 89,
-        "category": "protestas y movimientos sociales",
-        "title": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital - The New York Times",
-        "candidate_tickers": [
-          "GENZINDIA",
-          "COCKROACHMOVEMENT",
-          "INDIAPROTEST"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T20:24:41.199948+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28272,6 +28196,83 @@
           "SlaveryExhibition",
           "WashingtonHome",
           "FederalGovernment"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T11:11:54.478444+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0bc3657a4cd4",
+        "score": 80,
+        "category": "Política y Medio Ambiente",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPSMOKE",
+          "CANADABURN",
+          "WILDFIREWAR",
+          "TRUMPVSCANADA",
+          "SMOKEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T11:12:08.574679+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cce60c67f382",
+        "score": 78,
+        "category": "política",
+        "title": "I have been briefed on the Record Cold Wave and Historic Winter Storm that will be hitting much of the United States this weekend. The Trump Administration is coordinating with State and Local Officia",
+        "candidate_tickers": [
+          "TRUMP",
+          "GREENCARD",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T11:13:30.490393+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "crímenes y violencia",
+        "title": "Can't wait! Grok 4.5 has been amazing already",
+        "candidate_tickers": [
+          "GatitoTorturado",
+          "ICE_Violencia",
+          "JusticiaParaVictimas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T11:14:22.864554+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Celebridades y eventos",
+        "title": "Tesla Diner is turning 1 on July 21st, so we're throwing a party",
+        "candidate_tickers": [
+          "TeslaDiner",
+          "CelebridadesEnFiesta",
+          "LionelMessi"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T11:15:36.577589+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "07ee1fdf924d",
+        "score": 88,
+        "category": "conflicto internacional",
+        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
+        "candidate_tickers": [
+          "RUSIA",
+          "UCRANIA",
+          "DRONES",
+          "INCENDIO",
+          "DEPÓSITO DE PETRÓLEO"
         ]
       }
     }
