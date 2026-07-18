@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-07T08:33:17.350910+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2c6d084067d3",
-        "score": 79,
-        "category": "política",
-        "title": "Ukraine hits St. Petersburg again after Putin rejects talks - DW",
-        "candidate_tickers": [
-          "UKRPUT",
-          "PUTINHIT",
-          "UKRATTACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T08:33:50.169674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0b6a9224a920",
-        "score": 88,
-        "category": "noticias",
-        "title": "Missing 20-year-old college student from Alabama found dead in Japan, family says - komonews.com",
-        "candidate_tickers": [
-          "OLLIA",
-          "OLLIADEAD",
-          "OLLIAJAPAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T08:34:05.287454+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "77a91551c424",
-        "score": 72,
-        "category": "Política y tecnología",
-        "title": "Such injustice!",
-        "candidate_tickers": [
-          "SUCH",
-          "INJUSTICE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T08:34:32.043063+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política",
-        "title": "This is the only way to save democracy in America",
-        "candidate_tickers": [
-          "XCANCEL",
-          "DEMOCRACIA",
-          "AMERICA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T08:34:52.967441+00:00",
       "kind": "shadow",
       "payload": {
@@ -28307,6 +28248,67 @@
         "ticker": "Luna Bear",
         "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
         "mc": 128679.0
+      }
+    },
+    {
+      "ts": "2026-07-18T21:00:27.322746+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db34b2ea1827",
+        "score": 78,
+        "category": "Política y celebridades",
+        "title": "Try Grok 4.5",
+        "candidate_tickers": [
+          "TRUMPVSMUSK",
+          "MUSKVSTRUMP",
+          "TRUMPMUSKDISPUTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T21:01:00.352343+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "309cfd427284",
+        "score": 79,
+        "category": "salud",
+        "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
+        "candidate_tickers": [
+          "TAYLORFARMS",
+          "LECHUGA_DE_HIELO",
+          "EPIDEMIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T21:02:33.431627+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fbdf0a3fcde4",
+        "score": 70,
+        "category": "Noticias de animales",
+        "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
+        "candidate_tickers": [
+          "PERROSMUERTOS",
+          "TUMBASMASIVAS",
+          "CALIFORNIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T21:03:00.099304+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9d60cbf5138f",
+        "score": 80,
+        "category": "Política",
+        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+        "candidate_tickers": [
+          "IRAN",
+          "KHAMENEI",
+          "TRUMP",
+          "IRANVSUSA"
+        ]
       }
     }
   ]
