@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T20:24:41.199948+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "340ff5460d79",
-        "ticker": "ISRAEL",
-        "mint": "53yRCUQQseABS4P4jY8sX7DPnkNVTWpfGD5jhw79v1jt",
-        "mc": 103005.0
-      }
-    },
-    {
-      "ts": "2026-06-06T20:24:45.900340+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5ceb3346e6bc",
-        "ticker": "CBL",
-        "mint": "HENbwYB9roXganed9MFXm9kQ9YnhMb1cTHxeg44gpump",
-        "mc": 29693.0
-      }
-    },
-    {
-      "ts": "2026-06-06T20:24:49.179927+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2ba6cc457ca6",
-        "ticker": "SpaceX",
-        "mint": "AQZiqxCJ5sgihKX7dX7G4SxaHBJopGnaEi15uQt9Afmm",
-        "mc": 106134.0
-      }
-    },
-    {
       "ts": "2026-06-06T20:24:53.489307+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28273,6 +28243,50 @@
           "DRONES",
           "INCENDIO",
           "DEPÓSITO DE PETRÓLEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T12:08:57.702039+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "noticias virales",
+        "title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
+        "candidate_tickers": [
+          "VIRALNEWS",
+          "NEWSWAVE",
+          "TRENDINGTICKER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T12:09:32.948263+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Politica Internacional",
+        "title": "U.S. MILITARY CONDUCTING STRIKES ON IRAN -CENTCOM",
+        "candidate_tickers": [
+          "IRAN",
+          "EUA",
+          "GUERRA",
+          "SÉPTIMA_NOCHE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T12:10:53.368853+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f8f77bc81c77",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
+        "candidate_tickers": [
+          "UCRANIAATACA",
+          "DRONESDEUCRANIA",
+          "MOSCÚENLLAMAS"
         ]
       }
     }

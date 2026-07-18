@@ -1,80 +1,6 @@
 {
   "watches": [
     {
-      "id": "c0e355263c1a",
-      "fingerprint": "c0e355263c1a",
-      "narrative_summary": "US levanta restricciones en modelos de IA poderosos de Anthropic",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. El término 'Anthropic' es un nombre de marca que puede ser fácilmente reconocido y recordado.",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "ANTHROPIC",
-        "FABLE",
-        "MYTHOS",
-        "IA"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "Fable",
-        "Mythos",
-        "IA",
-        "Tecnología"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-01T09:00:50.853749+00:00",
-      "expires_at": "2026-07-04T09:00:50.853749+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FABLE",
-        "name": "The Eagle and the Fox",
-        "mint": "HMSPnngim78o9t2KVfGBEg79NGS1s3c1AyRFu8z3pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 59051.0,
-        "liquidity_usd": 18750.59,
-        "price_usd": 5.905e-05,
-        "volume_h24": 439683.62,
-        "volume_h1": 30534.96,
-        "volume_m5": 351.38,
-        "price_change_5m": -0.36,
-        "price_change_1h": -15.44,
-        "price_change_24h": 80.34,
-        "txns_h1_buys": 358,
-        "txns_h1_sells": 290,
-        "created_ts": 1782960311000,
-        "pair_created_at": 1782960311000,
-        "url": "https://dexscreener.com/solana/d29jtbfbpmayqbhsvhckc5wbnqmf8ykcnaua5rqqs3vi",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: FABLE==FABLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-02T07:58:05.461061+00:00"
-    },
-    {
       "id": "db578d9f4806",
       "fingerprint": "db578d9f4806",
       "narrative_summary": "Dos personas escalan el Empire State Building y despliegan una pancarta de paz",
@@ -7887,7 +7813,7 @@
       "started_at": "2026-07-15T06:02:49.847044+00:00",
       "expires_at": "2026-07-18T06:02:49.847044+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.",
       "cluster_sources": [
@@ -7895,7 +7821,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-18T12:08:43.286536+00:00"
     },
     {
       "id": "9d594b99d043",
@@ -8072,14 +7999,15 @@
       "started_at": "2026-07-15T10:32:55.096217+00:00",
       "expires_at": "2026-07-18T10:32:55.096217+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-07-18T12:08:43.286549+00:00"
     },
     {
       "id": "195b6465f7db",
@@ -8547,14 +8475,15 @@
       "started_at": "2026-07-16T04:19:08.510012+00:00",
       "expires_at": "2026-07-18T04:19:08.510012+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-18T12:08:43.286553+00:00"
     },
     {
       "id": "1b80b2c062e0",
@@ -8593,14 +8522,15 @@
       "started_at": "2026-07-16T04:20:25.286349+00:00",
       "expires_at": "2026-07-18T04:20:25.286349+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "'Jurassic Park' star Sam Neill's cause of death revealed - USA Today",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-18T12:08:43.286556+00:00"
     },
     {
       "id": "8137acc8726f",
@@ -8759,14 +8689,15 @@
       "started_at": "2026-07-16T07:06:12.604048+00:00",
       "expires_at": "2026-07-18T07:06:12.604048+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Hegseth announces testosterone screening for US troops - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-18T12:08:43.286559+00:00"
     },
     {
       "id": "bf9119ed9633",
@@ -8805,14 +8736,15 @@
       "started_at": "2026-07-16T07:06:26.044711+00:00",
       "expires_at": "2026-07-18T07:06:26.044711+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-18T12:08:43.286561+00:00"
     },
     {
       "id": "1879e5412eb4",
@@ -8850,7 +8782,7 @@
       "started_at": "2026-07-16T11:23:08.426789+00:00",
       "expires_at": "2026-07-18T11:23:08.426789+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "U.S. MILITARY: DISABLED UNLADEN OIL TANKER ATTEMPTING TO SAIL TOWARD AN IRANIAN PORT IN THE ARABIAN GULF",
       "cluster_sources": [
@@ -8859,7 +8791,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-18T12:08:43.286564+00:00"
     },
     {
       "id": "cd771d1402e2",
@@ -8898,14 +8831,15 @@
       "started_at": "2026-07-16T11:24:25.492066+00:00",
       "expires_at": "2026-07-18T11:24:25.492066+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "In seismic shift, more than 100 House Democrats vote to end Israel aid - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-18T12:08:43.286567+00:00"
     },
     {
       "id": "5a911e93f033",
@@ -10701,7 +10635,54 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "f8f77bc81c77",
+      "fingerprint": "f8f77bc81c77",
+      "narrative_summary": "Ucrania ataca con drones a una planta de petróleo en Moscú, matando a siete trabajadores y provocando un incendio.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de David vs Goliath, con Ucrania atacando a Rusia, y un elemento de sorpresa y drama.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIAATACA",
+        "DRONESDEUCRANIA",
+        "MOSCÚENLLAMAS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Rusia",
+        "drones",
+        "ataque",
+        "petróleo",
+        "Moscú"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T12:10:52.647444+00:00",
+      "expires_at": "2026-07-20T12:10:52.647444+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-18T03:41:24.913583+00:00"
+  "last_updated": "2026-07-18T12:10:52.647444+00:00"
 }
