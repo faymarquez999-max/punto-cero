@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-07T05:04:42.007486+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "42f2467842b2",
-        "score": 88,
-        "category": "política, protesta social",
-        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-        "candidate_tickers": [
-          "CUCARACHAINDIA",
-          "GENZINDIA",
-          "CUCARACHAMOVIMIENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T05:05:31.345081+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "17f8b63540fd",
-        "ticker": "IRAN",
-        "mint": "9yFJgYqqbYAKgLLiiQLxX3P39eS4h4KgH4hvVM1worc3",
-        "mc": 195469.0
-      }
-    },
-    {
-      "ts": "2026-06-07T08:32:08.602219+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f9e31b98ce40",
-        "score": 88,
-        "category": "ciencia y tecnología",
-        "title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports - Reuters",
-        "candidate_tickers": [
-          "ISSLEAK",
-          "AIREESPACIAL",
-          "EVACUACIÓNESPACIAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T08:33:17.350910+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28308,6 +28268,45 @@
           "ATAQUE",
           "SOLDADOS_ESTADOUNIDENSES"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-18T19:49:36.379019+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters",
+        "candidate_tickers": [
+          "VenezuelaQuakes",
+          "EjércitoVenezolano",
+          "Confusión"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T19:51:02.141738+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3c6a8b8d2ef3",
+        "score": 72,
+        "category": "Cibernética y tecnología",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "LUNA",
+          "DRIVERS",
+          "MFMOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T19:54:22.475195+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3c6a8b8d2ef3",
+        "ticker": "Luna Bear",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "mc": 128679.0
       }
     }
   ]
