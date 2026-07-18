@@ -1,75 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T16:17:09.607956+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "Live Updates: U.S. and Iran trade another round of fire as Iranian official says talks are at a \"deadlock\" - CBS News",
-        "candidate_tickers": [
-          "USvIRAN",
-          "TRUMPvsIRAN",
-          "DEADLOCK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T17:39:27.210860+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "SpaceX has launched in 7 years almost as many satellites as every government and private company in the world did since the 50s",
-        "candidate_tickers": [
-          "SpaceX",
-          "Satélites",
-          "Tecnología"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T17:40:11.766132+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "483e1fc0c48c",
-        "score": 74,
-        "category": "política",
-        "title": "Hegseth, at D-Day event, says Europe faces 'invasion' of dangerous ideologies - Reuters",
-        "candidate_tickers": [
-          "HEGSETH",
-          "INVASIÓN",
-          "D-DAY",
-          "EUROPA",
-          "INMIGRACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T17:44:13.097553+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7774078c5fbe",
-        "ticker": "Canton",
-        "mint": "CDYNtaVfJ4uzPxW6VZLN5Ux758tnY9nngQF2sTSypump",
-        "mc": 10661.0
-      }
-    },
-    {
-      "ts": "2026-06-06T19:00:50.335460+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tenis",
-        "title": "A star is born as Andreeva eases into Grand Slam winners' club - Reuters",
-        "candidate_tickers": [
-          "AndreevaWins",
-          "GrandSlam",
-          "MirraAndreeva"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T19:01:37.417864+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28262,6 +28193,85 @@
           "LUNA",
           "DRIVERS",
           "MFMOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T09:49:18.043786+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2284eedbc763",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "BADCONGRESS",
+          "WORSTREP",
+          "TRUMPFEUD",
+          "POLARIZED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T09:50:50.687303+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3cd16f745439",
+        "score": 88,
+        "category": "Guerra y conflicto",
+        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
+        "candidate_tickers": [
+          "RUSIA",
+          "UCRANIA",
+          "DRONES",
+          "ATAQUE",
+          "MOSCÚ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T09:52:12.741289+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32ece9a0f922",
+        "score": 89,
+        "category": "crimen y animal",
+        "title": "Conman targeted the elderly to defraud them out of millions",
+        "candidate_tickers": [
+          "CONMANDOGS",
+          "PERROSMASIVO",
+          "DEFRAUDADOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T09:52:50.368949+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "acfd689f0253",
+        "score": 88,
+        "category": "conflicto internacional",
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "SÉPTIMA_NOCHE",
+          "ATAQUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T09:54:03.715287+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias",
+        "title": "Federal government replaces slavery exhibition at Washington’s home in Philadelphia - AP News",
+        "candidate_tickers": [
+          "SlaveryExhibition",
+          "WashingtonHome",
+          "FederalGovernment"
         ]
       }
     }
