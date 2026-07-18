@@ -1,154 +1,6 @@
 {
   "watches": [
     {
-      "id": "ea0078f841cb",
-      "fingerprint": "ea0078f841cb",
-      "narrative_summary": "Taiwán enfrenta un escenario de pesadilla con un posible bloqueo chino, terremoto, sabotaje e invasión.",
-      "why_memeable": "La combinación de factores geopolíticos y desastres naturales crea un escenario apocalíptico que puede generar interés y especulación.",
-      "category": "Geopolítica y conflicto",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TAIWAN",
-        "CHINA",
-        "INVASION",
-        "BLOCKADE",
-        "TWNCRISIS"
-      ],
-      "key_terms_for_dex_search": [
-        "Taiwán",
-        "China",
-        "invasión",
-        "bloqueo",
-        "crisis"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-03T13:17:41.489188+00:00",
-      "expires_at": "2026-07-06T13:17:41.489188+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XAnimals",
-        "name": "Animals In Crisis",
-        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25211.0,
-        "liquidity_usd": 14085.76,
-        "price_usd": 2.521e-05,
-        "volume_h24": 7983.93,
-        "volume_h1": 111.65,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -2.76,
-        "price_change_24h": 15.38,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 3,
-        "created_ts": 1778026313000,
-        "pair_created_at": 1778026313000,
-        "url": "https://dexscreener.com/solana/3ffvlyerpnrav7gax4qnyd3bu9txrnzodd1jhbscxxi6",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CRISIS in ANIMALS IN CRISIS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-04T17:43:06.023532+00:00"
-    },
-    {
-      "id": "b2cf749f05c5",
-      "fingerprint": "b2cf749f05c5",
-      "narrative_summary": "India investiga una fuga de datos de Tata que expuso secretos de iPhone de Apple",
-      "why_memeable": "La fuga de datos es un tema interesante y el hecho de que se expusieran secretos de iPhone puede ser chocante",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "TATALEAKS",
-        "IPHONESECRETS",
-        "APPLETATA"
-      ],
-      "key_terms_for_dex_search": [
-        "Tata",
-        "Apple",
-        "iPhone",
-        "fuga de datos",
-        "secretos"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-03T17:05:57.711090+00:00",
-      "expires_at": "2026-07-06T17:05:57.711090+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 97873.0,
-        "liquidity_usd": 41277.29,
-        "price_usd": 9.789e-05,
-        "volume_h24": 9643.01,
-        "volume_h1": 84.52,
-        "volume_m5": 6.07,
-        "price_change_5m": -0.14,
-        "price_change_1h": 0.93,
-        "price_change_24h": 4.35,
-        "txns_h1_buys": 24,
-        "txns_h1_sells": 0,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-03T21:26:44.161509+00:00"
-    },
-    {
       "id": "f2f59bb7fa3a",
       "fingerprint": "f2f59bb7fa3a",
       "narrative_summary": "Elon Musk confirma la verdad en una publicación en Twitter",
@@ -7546,7 +7398,7 @@
       "started_at": "2026-07-15T22:18:03.421613+00:00",
       "expires_at": "2026-07-18T22:18:03.421613+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "ENGLAND 🏴󠁧󠁢󠁥󠁮󠁧󠁿 VS ARGENTINA 🇦🇷: YOUR PICK?",
       "cluster_sources": [
@@ -7555,7 +7407,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-18T23:04:21.496277+00:00"
     },
     {
       "id": "0fdaa35c6b2c",
@@ -7936,7 +7789,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "620bfa1c1805",
@@ -8572,7 +8425,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "1dd54f27e646",
@@ -8617,7 +8470,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "2951538fa4ef",
@@ -8664,7 +8517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "76b688c6391c",
@@ -8710,7 +8563,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "f8e79c9987c7",
@@ -8753,7 +8606,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "40b4e6d0e951",
@@ -8795,7 +8648,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "66f8c9ce54db",
@@ -8941,7 +8794,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "cfdcd850e6f0",
@@ -9130,7 +8983,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "bfa6d4ca24c4",
@@ -9254,7 +9107,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1b52b776ead9",
@@ -9374,7 +9227,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a3077636ad71",
@@ -9423,7 +9276,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "24be5e7f50aa",
@@ -9543,7 +9396,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "db75f32d8c84",
@@ -9586,7 +9439,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "392c185e606e",
@@ -9635,7 +9488,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0631ceb275d6",
@@ -9751,7 +9604,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "63e848c404d4",
@@ -9798,7 +9651,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "82d3dcdd7766",
@@ -9839,7 +9692,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3761040bc999",
@@ -9880,7 +9733,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "2a461f0b425f",
@@ -9924,7 +9777,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f8f77bc81c77",
@@ -9971,7 +9824,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4068d7f836b7",
@@ -10018,7 +9871,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6e24bd252fe5",
@@ -10065,7 +9918,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c3e3949e4280",
@@ -10111,7 +9964,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0d5e76b386e8",
@@ -10233,7 +10086,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e0938889edfa",
@@ -10280,7 +10133,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d94ea6751c33",
@@ -10327,7 +10180,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "aa8bbcc74e1d",
@@ -10374,7 +10227,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3c6a8b8d2ef3",
@@ -10496,7 +10349,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "309cfd427284",
@@ -10540,7 +10393,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "fbdf0a3fcde4",
@@ -10586,7 +10439,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9d60cbf5138f",
@@ -10633,7 +10486,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "fc2a41ccab8a",
@@ -10672,15 +10525,164 @@
       "started_at": "2026-07-18T22:04:39.310433+00:00",
       "expires_at": "2026-07-20T22:04:39.310433+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MESSI",
+        "name": "Lionel Messi",
+        "mint": "62NGaqGP17rjPtqNjHrKXDnVzA5bsn8132ePa9T1pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 12225.0,
+        "liquidity_usd": 8789.72,
+        "price_usd": 1.222e-05,
+        "volume_h24": 5450.0,
+        "volume_h1": 145.37,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -0.29,
+        "price_change_24h": -5.5,
+        "txns_h1_buys": 10,
+        "txns_h1_sells": 3,
+        "created_ts": 1779288946000,
+        "pair_created_at": 1779288946000,
+        "url": "https://dexscreener.com/solana/hrbaw3pysjfampibjabjq6ghk3kj59phb8amttkbfeph",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: LIONEL MESSI in LIONEL MESSI",
+        "safety_score": 117601,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          }
+        ]
+      },
       "cluster_top_title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-18T23:09:01.045160+00:00"
+    },
+    {
+      "id": "17a8647b5058",
+      "fingerprint": "17a8647b5058",
+      "narrative_summary": "Elon Musk promociona Grok 4.5, un producto de x.ai/cli, con un alto nivel de interacción en las redes sociales.",
+      "why_memeable": "La narrativa es memeable debido a la promoción de un producto por parte de una figura pública influyente (Elon Musk) y la alta interacción en las redes sociales.",
+      "category": "Tecnología y productos",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "XAICLI"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "XAICLI",
+        "ELON MUSK"
+      ],
+      "score": 87,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-18T23:05:19.848912+00:00",
+      "expires_at": "2026-07-20T23:05:19.848912+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Try Grok 4.5",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "1924297ba091",
+      "fingerprint": "1924297ba091",
+      "narrative_summary": "Elon Musk anuncia la construcción de mass drivers en la luna",
+      "why_memeable": "La idea de construir mass drivers en la luna es absurda y genera interés",
+      "category": "espacio",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "LUNA",
+        "DRIVERS",
+        "MFMOON"
+      ],
+      "key_terms_for_dex_search": [
+        "drivers",
+        "luna",
+        "elonmusk"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-07-18T23:06:14.894937+00:00",
+      "expires_at": "2026-07-21T23:06:14.894937+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Luna Bear",
+        "name": "Luna",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 137784.0,
+        "liquidity_usd": 29377.43,
+        "price_usd": 0.000138,
+        "volume_h24": 41001.89,
+        "volume_h1": 1336.2,
+        "volume_m5": 56.81,
+        "price_change_5m": 0.17,
+        "price_change_1h": 1.81,
+        "price_change_24h": 133.0,
+        "txns_h1_buys": 25,
+        "txns_h1_sells": 21,
+        "created_ts": 1783687517000,
+        "pair_created_at": 1783687517000,
+        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: LUNA in LUNA",
+        "safety_score": 2298,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Mass drivers on the mf Moon!!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-18T23:09:02.641986+00:00"
     }
   ],
-  "last_updated": "2026-07-18T22:04:39.310433+00:00"
+  "last_updated": "2026-07-18T23:09:02.642004+00:00"
 }

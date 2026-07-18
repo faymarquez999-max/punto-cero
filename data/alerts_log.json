@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-07T11:01:20.066930+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "62df04628134",
-        "score": 80,
-        "category": "política",
-        "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-        "candidate_tickers": [
-          "IRANWAR",
-          "EEUUVSIRAN",
-          "GOLIATHVSDAVID"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T15:57:46.678503+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d5dd165834fa",
-        "score": 74,
-        "category": "política",
-        "title": "The reason ID is banned in California (and New York) elections is to enable large-scale fraud.",
-        "candidate_tickers": [
-          "ID_BANNED",
-          "FRAUDE_ELECTORAL",
-          "CALIFORNIA_NY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T17:27:38.545476+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5fd1bd9baeb0",
-        "score": 80,
-        "category": "política",
-        "title": "The reason ID is banned in California (and New York) elections is to enable large-scale fraud.",
-        "candidate_tickers": [
-          "TRUMPFEUD",
-          "MUSKLEAK",
-          "CALIFRAUD",
-          "EPSTEINFILE",
-          "TRUMPMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T17:31:39.981527+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Trump says he never promised ‘no new wars’ - Politico",
-        "candidate_tickers": [
-          "TRUMP",
-          "GUERRAS",
-          "POLITICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-07T17:32:36.483426+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ce5f0fb9eaf2",
-        "score": 84,
-        "category": "Tecnología y noticias",
-        "title": "They are disappearing",
-        "candidate_tickers": [
-          "THEYAREDIS",
-          "DISAP",
-          "XCEL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T20:20:57.103621+00:00",
       "kind": "shadow",
       "payload": {
@@ -28309,6 +28233,69 @@
           "MESSIYAMAL",
           "COPAMUNDIAL2022"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-18T23:05:20.296139+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "17a8647b5058",
+        "score": 87,
+        "category": "Tecnología y productos",
+        "title": "Try Grok 4.5",
+        "candidate_tickers": [
+          "GROK",
+          "XAICLI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T23:05:45.744062+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología/Entretenimiento",
+        "title": "Robot fights are fun 😂",
+        "candidate_tickers": [
+          "ROBOT",
+          "ROBOTFIGHTS",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T23:06:15.260024+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1924297ba091",
+        "score": 84,
+        "category": "espacio",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "LUNA",
+          "DRIVERS",
+          "MFMOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T23:09:01.051916+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fc2a41ccab8a",
+        "ticker": "MESSI",
+        "mint": "62NGaqGP17rjPtqNjHrKXDnVzA5bsn8132ePa9T1pump",
+        "mc": 12225.0
+      }
+    },
+    {
+      "ts": "2026-07-18T23:09:02.649431+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1924297ba091",
+        "ticker": "Luna Bear",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "mc": 137784.0
       }
     }
   ]
