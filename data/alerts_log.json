@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T12:53:14.378015+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología/Social Media",
-        "title": "𝕏 is strong in the east too. #1 social network of any kind in Japan.",
-        "candidate_tickers": [
-          "X",
-          "XAN",
-          "XELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T12:53:36.830458+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "683998e4aed5",
-        "score": 70,
-        "category": "Tecnología y negocios",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "ELONYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T14:55:18.218829+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c2edbbc09e3b",
-        "ticker": "Cockroach",
-        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
-        "mc": 13385.0
-      }
-    },
-    {
-      "ts": "2026-06-06T16:14:48.978264+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2ba6cc457ca6",
-        "score": 80,
-        "category": "Política y Tecnología",
-        "title": "SpaceX was less than 10 people back then. We didn’t even have office furniture.",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPVSILON",
-          "SPACEFEUD",
-          "TECHPOLITICS",
-          "MUSKTRUMPWAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T16:16:09.422992+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "168ae4542bfc",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Teenager Andreeva beats Chwalinska at French Open for first Grand Slam title",
-        "candidate_tickers": [
-          "ANDREEVAGANA",
-          "MIRRAANDREEVA",
-          "FRENCHOPEN2026",
-          "ANDREEVACHWALINSKA",
-          "TÍTULODEGRANDSLAM"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T16:17:09.607956+00:00",
       "kind": "shadow",
       "payload": {
@@ -28263,6 +28191,77 @@
         "candidate_tickers": [
           "TRUMPSONDEO",
           "SONDEOTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T08:04:46.179615+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología",
+        "title": "Grok 4.5 is only 1.5T parameters.",
+        "candidate_tickers": [
+          "Grok4.5",
+          "Grok45",
+          "Grok"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T08:05:23.301903+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "humor y sorpresa",
+        "title": "I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEAK performance",
+        "candidate_tickers": [
+          "PeakPerformanceShirt",
+          "ShortSleeveShirt"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T08:06:07.478054+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bfdb68790eaa",
+        "score": 86,
+        "category": "política",
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "candidate_tickers": [
+          "USVSIRAN",
+          "SÉPTIMANOCHE",
+          "ATAQUESEEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T08:07:06.210960+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "23061ebcbf30",
+        "score": 78,
+        "category": "Tecnología y celebridades",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSKYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T08:08:03.522256+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Tecnología",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "LUNA",
+          "DRIVERS",
+          "MFMOON"
         ]
       }
     }
