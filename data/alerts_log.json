@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T21:46:07.111385+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e99c5317e756",
-        "ticker": "IRAN",
-        "mint": "BBUgRLDWCCHfw57jUSXHSdNDxo46k8CGQo2yHitGTTXR",
-        "mc": 42229.0
-      }
-    },
-    {
-      "ts": "2026-06-06T21:46:09.118745+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d3c99739db5d",
-        "ticker": "Cockroach",
-        "mint": "4cFbnXEs4im1qrBEzjJ2R1Mpb9HZgUw9eU6i7ZFgpump",
-        "mc": 14513.0
-      }
-    },
-    {
-      "ts": "2026-06-06T22:48:45.459975+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5bbf595034fe",
-        "score": 79,
-        "category": "política",
-        "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-        "candidate_tickers": [
-          "HEGSETH",
-          "DÍA D",
-          "INVASIÓN",
-          "MIGRANTES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T22:49:54.471462+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28292,6 +28256,48 @@
         "ticker": "Luna Bear",
         "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
         "mc": 93589.0
+      }
+    },
+    {
+      "ts": "2026-07-18T15:03:18.548563+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Noticias de última hora",
+        "title": "Try Grok 4.5",
+        "candidate_tickers": [
+          "TRYGROK",
+          "NEWSSTACK",
+          "BREAKINGNEWS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T15:06:23.740675+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T15:06:46.549976+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c006eecf5f75",
+        "score": 85,
+        "category": "Tecnología / Innovación",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "MASSDRIVERS",
+          "MOONBOOST",
+          "LUNAROCK"
+        ]
       }
     }
   ]
