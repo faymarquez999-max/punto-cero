@@ -1,238 +1,6 @@
 {
   "watches": [
     {
-      "id": "399a9e590bfb",
-      "fingerprint": "399a9e590bfb",
-      "narrative_summary": "Russia aprobó entrenamiento militar secreto de China a nivel superior, según fuentes",
-      "why_memeable": "La narrativa tiene un título impactante y un tema controvertido que puede generar debate",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIA",
-        "CHINA",
-        "ENTRENAMIENTO MILITAR",
-        "SEGURIDAD NACIONAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "China",
-        "entrenamiento militar",
-        "seguridad nacional"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-01T08:58:13.801959+00:00",
-      "expires_at": "2026-07-03T08:58:13.801959+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FIREMAN",
-        "name": "China Out of Tibet",
-        "mint": "CaKASCpnnmZgEUb6hHexi3KXaQYxEaxtKWmvBbA7r3rn",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 30253.0,
-        "liquidity_usd": 29342.06,
-        "price_usd": 3.025e-05,
-        "volume_h24": 119714.0,
-        "volume_h1": 119714.0,
-        "volume_m5": 59830.57,
-        "price_change_5m": 174.0,
-        "price_change_1h": 324.0,
-        "price_change_24h": 324.0,
-        "txns_h1_buys": 2636,
-        "txns_h1_sells": 554,
-        "created_ts": 1783040488000,
-        "pair_created_at": 1783040488000,
-        "url": "https://dexscreener.com/solana/fjcahnk1r7e9e4zjsy7yrvvqpox6zbtmhzzfcbwgml4y",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CHINA in CHINA OUT OF TIBET",
-        "safety_score": 23800,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low Amount of holders",
-            "level": "warn",
-            "description": "Not many holders are holding the token"
-          },
-          {
-            "name": "High holder correlation",
-            "level": "warn",
-            "description": "The top users hold similar supply amounts"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-03T01:13:28.666704+00:00"
-    },
-    {
-      "id": "8992a22166a5",
-      "fingerprint": "8992a22166a5",
-      "narrative_summary": "Se encuentran 117 perros muertos en un refugio animal en California, lo que genera un escándalo y preocupación por el abuso animal.",
-      "why_memeable": "La narrativa combina un evento impactante (muerte de 117 perros) con un tema sensible (abuso animal) y una ubicación específica (California).",
-      "category": "abuso animal",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERROMUERTO",
-        "ABUSOANIMAL",
-        "REFUGIOTRÁGICO"
-      ],
-      "key_terms_for_dex_search": [
-        "perro muerto",
-        "abuso animal",
-        "refugio"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-01T08:58:56.382281+00:00",
-      "expires_at": "2026-07-04T08:58:56.382281+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Venezuelans search more earthquake ruins as attention turns to humanitarian crisis - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-04T10:30:07.390365+00:00"
-    },
-    {
-      "id": "4ad1c9b5dc4f",
-      "fingerprint": "4ad1c9b5dc4f",
-      "narrative_summary": "Unos 117 perros muertos se encuentran en un refugio animal en California",
-      "why_memeable": "La noticia es impactante y tiene un componente visual (imagen de los perros muertos) que puede ser compartido fácilmente",
-      "category": "noticias de animales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PERROSMUERTOS",
-        "REFUGIOANIMAL",
-        "CALIFORNIA"
-      ],
-      "key_terms_for_dex_search": [
-        "perros muertos",
-        "refugio animal",
-        "California"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-01T08:59:38.150272+00:00",
-      "expires_at": "2026-07-03T08:59:38.150272+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Grief and optimism clash in scramble to locate survivors 4 days after Venezuela earthquakes - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "expired_at": "2026-07-03T11:14:03.738503+00:00"
-    },
-    {
-      "id": "6719a5d2383c",
-      "fingerprint": "6719a5d2383c",
-      "narrative_summary": "Ucrania ataca refinerías de petróleo en Rusia, causando una crisis de combustible en verano",
-      "why_memeable": "La narrativa tiene un título claro y una frase que resume el evento, lo que la hace fácilmente compartible y recordable",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIA",
-        "UCRANIA",
-        "DRONE",
-        "CRISIS DE COMBUSTIBLE"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "Drone",
-        "Crisis de combustible",
-        "Ataque",
-        "Refinerías"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-01T09:00:16.915792+00:00",
-      "expires_at": "2026-07-03T09:00:16.915792+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "expired_at": "2026-07-03T11:14:03.738506+00:00"
-    },
-    {
       "id": "c0e355263c1a",
       "fingerprint": "c0e355263c1a",
       "narrative_summary": "US levanta restricciones en modelos de IA poderosos de Anthropic",
@@ -8127,7 +7895,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "9d594b99d043",
@@ -8311,7 +8079,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "195b6465f7db",
@@ -8573,7 +8341,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "0fdaa35c6b2c",
@@ -8732,14 +8500,15 @@
       "started_at": "2026-07-16T01:03:36.695682+00:00",
       "expires_at": "2026-07-18T01:03:36.695682+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-18T03:37:58.568944+00:00"
     },
     {
       "id": "71099b496c94",
@@ -8785,7 +8554,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "1b80b2c062e0",
@@ -8831,7 +8600,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "8137acc8726f",
@@ -8951,7 +8720,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "620bfa1c1805",
@@ -8997,7 +8766,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "bf9119ed9633",
@@ -9043,7 +8812,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "1879e5412eb4",
@@ -9090,7 +8859,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "cd771d1402e2",
@@ -9136,7 +8905,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "5a911e93f033",
@@ -9253,7 +9022,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "67a8afd8702e",
@@ -9296,7 +9065,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "e958ddbc50f9",
@@ -9343,7 +9112,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "fabca0445fc4",
@@ -9531,7 +9300,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "4e98917bb411",
@@ -9579,7 +9348,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1dd54f27e646",
@@ -9624,7 +9393,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "2951538fa4ef",
@@ -9671,7 +9440,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "76b688c6391c",
@@ -9717,7 +9486,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f8e79c9987c7",
@@ -9760,7 +9529,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "40b4e6d0e951",
@@ -9802,7 +9571,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "66f8c9ce54db",
@@ -9948,7 +9717,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cfdcd850e6f0",
@@ -10137,7 +9906,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "bfa6d4ca24c4",
@@ -10261,7 +10030,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1b52b776ead9",
@@ -10381,7 +10150,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a3077636ad71",
@@ -10430,7 +10199,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "24be5e7f50aa",
@@ -10550,7 +10319,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "db75f32d8c84",
@@ -10593,7 +10362,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "392c185e606e",
@@ -10642,7 +10411,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0631ceb275d6",
@@ -10758,8 +10527,181 @@
         "google_news",
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "63e848c404d4",
+      "fingerprint": "63e848c404d4",
+      "narrative_summary": "El expresidente de EE.UU., Donald Trump, critica al congresista Thomas Massie y anuncia su apoyo a Ed Gallrein.",
+      "why_memeable": "La narrativa es memeable debido a la naturaleza polarizante y absurda de las declaraciones de Trump.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMASSIE",
+        "GALLREIN",
+        "TRUMPFEUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Massie",
+        "Gallrein",
+        "Endorsement"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-18T03:37:59.693886+00:00",
+      "expires_at": "2026-07-21T03:37:59.693886+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "82d3dcdd7766",
+      "fingerprint": "82d3dcdd7766",
+      "narrative_summary": "Elon Musk recuerda a sus seguidores no olvidar algo importante",
+      "why_memeable": "La frase 'don’t forget' es fácil de recordar y fácil de compartir",
+      "category": "memes de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "DONTFORGET",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "dontforget"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-18T03:38:56.584748+00:00",
+      "expires_at": "2026-07-19T03:38:56.584748+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "don’t",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "3761040bc999",
+      "fingerprint": "3761040bc999",
+      "narrative_summary": "Elon Musk confirma 'sí' a algo importante",
+      "why_memeable": "La respuesta simple y directa de Elon Musk es altamente memeable",
+      "category": "Celebridad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YES",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "yes"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T03:39:25.112637+00:00",
+      "expires_at": "2026-07-25T03:39:25.112637+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2a461f0b425f",
+      "fingerprint": "2a461f0b425f",
+      "narrative_summary": "Un hombre es acusado de crueldad animal después de que se descubrió un posible entierro masivo de perros en una santuario animal en California.",
+      "why_memeable": "La narrativa tiene un núcleo claro de crueldad animal y un entierro masivo de perros, lo que la hace fácilmente compartible y recordable.",
+      "category": "Crueldad animal y entierro masivo de perros",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOGSOFJUSTICE",
+        "ANIMALABUSE",
+        "PERROENTIERRO"
+      ],
+      "key_terms_for_dex_search": [
+        "crueldad animal",
+        "entierro masivo",
+        "perros",
+        "santuario animal"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-18T03:41:24.913583+00:00",
+      "expires_at": "2026-07-21T03:41:24.913583+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Sting video | Police charge Mifflin County man with multiple felonies following online sting video - WGAL",
+      "cluster_sources": [
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-18T00:18:56.180070+00:00"
+  "last_updated": "2026-07-18T03:41:24.913583+00:00"
 }

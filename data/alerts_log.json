@@ -1,86 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T11:18:08.707022+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6b4b9aeb9678",
-        "score": 80,
-        "category": "Tecnología y celebridades",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELONYES",
-          "YESMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:18:29.932572+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "18d4eed86613",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Try Tesla FSD",
-        "candidate_tickers": [
-          "TRYFSD",
-          "TESLAFSD",
-          "ELONFSD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T11:19:08.725487+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8aab77968683",
-        "ticker": "SPSC",
-        "mint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
-        "mc": 323304.0
-      }
-    },
-    {
-      "ts": "2026-06-06T11:19:11.522586+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "18d4eed86613",
-        "ticker": "Tesla",
-        "mint": "JEJdWphzMGsEYfKymBAtbeVpajaQC7R51fGmP3Rhf2Ma",
-        "mc": 130270.0
-      }
-    },
-    {
-      "ts": "2026-06-06T12:48:37.434872+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fd2aa49a8bbd",
-        "score": 90,
-        "category": "crimen y violencia",
-        "title": "23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at k",
-        "candidate_tickers": [
-          "SUDANESEKILLER",
-          "VIOLADORDESUECIA",
-          "ASESINODE19AÑOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T12:49:15.254179+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5ceb3346e6bc",
-        "score": 88,
-        "category": "accidentes inesperados",
-        "title": "Horse killed, Vermont driver uninjured after vehicle collides with escaped animal Friday night - Yahoo News Canada",
-        "candidate_tickers": [
-          "CABALLOVERMONT",
-          "ACCIDENTEINESPERADO",
-          "VERMONTSHOCKER"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T12:50:34.174721+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28259,6 +28179,91 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 33050.0
+      }
+    },
+    {
+      "ts": "2026-07-18T03:38:00.327664+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "63e848c404d4",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "GALLREIN",
+          "TRUMPFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T03:38:28.771448+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMPXCANCEL",
+          "XCANCELTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T03:38:57.145245+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "82d3dcdd7766",
+        "score": 82,
+        "category": "memes de Elon Musk",
+        "title": "don’t",
+        "candidate_tickers": [
+          "DONTFORGET",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T03:39:25.601598+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3761040bc999",
+        "score": 83,
+        "category": "Celebridad",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T03:40:34.384117+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Desastres naturales",
+        "title": "18 de julio: El día que no fue uno más - Ultima Hora",
+        "candidate_tickers": [
+          "IncendioZaragoza",
+          "FuegoAragón",
+          "DesastreNaturaleza"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T03:41:25.434675+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a461f0b425f",
+        "score": 74,
+        "category": "Crueldad animal y entierro masivo de perros",
+        "title": "Sting video | Police charge Mifflin County man with multiple felonies following online sting video - WGAL",
+        "candidate_tickers": [
+          "DOGSOFJUSTICE",
+          "ANIMALABUSE",
+          "PERROENTIERRO"
+        ]
       }
     }
   ]
