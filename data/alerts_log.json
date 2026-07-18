@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T22:49:54.471462+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "36d50157af45",
-        "score": 88,
-        "category": "protesta social",
-        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-        "candidate_tickers": [
-          "CUCARACHAGENZ",
-          "PROTESTAINDIA",
-          "CUCARACHASOCIEDAD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T22:50:37.840568+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c78e7217b2c5",
-        "score": 74,
-        "category": "Tecnología y salud",
-        "title": "Humanity is disappearing 😔 wsj.com/health/wellness/us-f…",
-        "candidate_tickers": [
-          "HUMDIS",
-          "DISAPEAR",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T22:52:34.469567+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "228809c5d05d",
-        "score": 83,
-        "category": "Política y sociedad",
-        "title": "Such injustice!",
-        "candidate_tickers": [
-          "SJW",
-          "SUCHINJUSTICE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-07T00:17:36.181899+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28297,6 +28252,51 @@
           "MASSDRIVERS",
           "MOONBOOST",
           "LUNAROCK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T16:14:19.401687+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9a9e982042de",
+        "score": 74,
+        "category": "Noticias y actualidad",
+        "title": "Try Grok 4.5",
+        "candidate_tickers": [
+          "TRUMP",
+          "MUSK",
+          "NEWS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T16:14:40.849344+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e0938889edfa",
+        "score": 91,
+        "category": "Noticias impactantes y absurdas",
+        "title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
+        "candidate_tickers": [
+          "PISCINASURPRISE",
+          "HERMANASALVAMOS",
+          "LONERODEPISCINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T16:15:56.142912+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "atletismo",
+        "title": "Britain's Kerr breaks 27-year mile world record in London",
+        "candidate_tickers": [
+          "KERR",
+          "RECORD",
+          "MILLA",
+          "LONDRES"
         ]
       }
     }
