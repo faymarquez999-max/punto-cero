@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-06T12:50:34.174721+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c86afd52ae09",
-        "score": 89,
-        "category": "Noticias internacionales",
-        "title": "Palestinian baby shot dead by Israeli troops in occupied West Bank - The Guardian",
-        "candidate_tickers": [
-          "BABY_PALESTINO",
-          "ISRAELI_VIOLENCE",
-          "INJUSTICIA_EN_LA_CUENCA_OCCIDENTAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T12:51:41.116306+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c2edbbc09e3b",
-        "score": 88,
-        "category": "Movimientos sociales",
-        "title": "India's viral 'Cockroach' youth group stages first major protest - Reuters",
-        "candidate_tickers": [
-          "COCKROACH",
-          "INDIAPROTEST",
-          "MODIPROTEST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T12:52:11.640781+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9f5b31aab29e",
-        "score": 70,
-        "category": "crimen y justicia",
-        "title": "Son of James Handy's girlfriend charged with actor's murder - Reuters",
-        "candidate_tickers": [
-          "HANDYMURDER",
-          "ASESINATOHANDY",
-          "JUSTICIAPARAHANDY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-06T12:52:32.562773+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Good Starship highlights video",
-        "candidate_tickers": [
-          "GoodShip",
-          "StarshipHighlights"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-06T12:53:14.378015+00:00",
       "kind": "shadow",
       "payload": {
@@ -28263,6 +28205,64 @@
           "DOGSOFJUSTICE",
           "ANIMALABUSE",
           "PERROENTIERRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T05:57:41.370594+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política internacional",
+        "title": "As I was saying yesterday. The Chinese are slowly giving the news to trading partners. No more dollars. You want to buy",
+        "candidate_tickers": [
+          "DólarYuan",
+          "NoMasDólares",
+          "YuanSwap"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T05:59:36.242912+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "43af09c614c0",
+        "score": 70,
+        "category": "conflicto internacional",
+        "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
+        "candidate_tickers": [
+          "IRAN",
+          "EE.UU.",
+          "BOMBARDEO",
+          "IRAN-EE.UU."
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T06:00:43.023218+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1044c1e3e447",
+        "score": 88,
+        "category": "Muerte y hospitalización de actores famosos",
+        "title": "Doctors failed to spot my hidden condition for so long I was left permanently disabled",
+        "candidate_tickers": [
+          "ERICDANE",
+          "CATHERINEOHARA",
+          "90DAYFIANCÉ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-18T06:01:08.842339+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "TRUMPSONDEO",
+          "SONDEOTRUMP"
         ]
       }
     }
