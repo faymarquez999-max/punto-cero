@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-08T20:42:53.736194+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b2f69bd224b8",
-        "score": 80,
-        "category": "Política",
-        "title": "US Justice Department says it moved to strip citizenship from 17 naturalized people - Reuters",
-        "candidate_tickers": [
-          "DENATURALIZACIÓN",
-          "DEPARTAMENTO DE JUSTICIA",
-          "CIUDADANÍA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T20:43:37.181858+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6881221f408c",
-        "score": 80,
-        "category": "política",
-        "title": "Roberto Sanchez overtakes Keiko Fujimori in Peru presidential race - Reuters",
-        "candidate_tickers": [
-          "SANCHEZ",
-          "FUJIMORI",
-          "PERU",
-          "ELECCIONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T22:23:11.878756+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "fraude en plataformas",
-        "title": "The level of fraud here is mind-blowing",
-        "candidate_tickers": [
-          "MINDBLOWING",
-          "FRAUDLEVEL",
-          "ELONMUSKFRAUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T22:23:39.875963+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9ebf601ee066",
-        "score": 74,
-        "category": "crítica a la sociedad",
-        "title": "The system is rotten",
-        "candidate_tickers": [
-          "SYSROT",
-          "ROTTSYS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T22:24:03.625492+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bf65d232885b",
-        "score": 70,
-        "category": "meme en Twitter",
-        "title": "Wow xcancel.com/i/grok/share/52ed880e9…",
-        "candidate_tickers": [
-          "WOW",
-          "XCANCEL",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T23:51:42.888289+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política y corrupción",
-        "title": "Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy",
-        "candidate_tickers": [
-          "VotaciónFraud",
-          "CorrupciónEnEleccion"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-08T23:52:08.811678+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28264,6 +28177,90 @@
           "CHINA_MOONSHOT",
           "AI_BREAKTHROUGH"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:43:02.184960+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5bbdba23906c",
+        "score": 80,
+        "category": "Noticias de celebridades",
+        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking - Reuters",
+        "candidate_tickers": [
+          "TATEBROS",
+          "TATETWINS",
+          "JUSTICETATE",
+          "TATEARREST",
+          "BROTHERSTATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:43:44.761538+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "incidentes de fugue de gas",
+        "title": "Byram Fire Department responds to gas leak on P Holmes Drive - WLBT",
+        "candidate_tickers": [
+          "ByramGas",
+          "FugueByram",
+          "GasLeakMisisipi"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:44:49.369730+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Tecnología y entretenimiento",
+        "title": "Robot fights are fun 😂",
+        "candidate_tickers": [
+          "ROBOTFIGHTS",
+          "FUNBOTS",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:45:11.940814+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4b10b3156e23",
+        "score": 82,
+        "category": "Cibernética y tecnología",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "MOONDRIVERS",
+          "MASSMOON",
+          "ELONMOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:46:56.067352+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Noticias de California",
+        "title": "Breaking: New wildfire reported in Los Angeles County on July 19 - Sacramento Bee",
+        "candidate_tickers": [
+          "CALIFORNIA_WILDFIRES",
+          "FIRE_ALERT",
+          "CALIFORNIA_FIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T12:48:02.829354+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5bbdba23906c",
+        "ticker": "Tatesjail",
+        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
+        "mc": 20270.0
       }
     }
   ]

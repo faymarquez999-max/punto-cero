@@ -1,137 +1,6 @@
 {
   "watches": [
     {
-      "id": "b161e0df4742",
-      "fingerprint": "b161e0df4742",
-      "narrative_summary": "Los tres hijos del líder iraní asesinado Khamenei asisten al funeral en lugar de su sucesor.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica, lo que la hace fácilmente compartible y repetible.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KHAMENEI",
-        "IRAN",
-        "FUNERAL",
-        "SUCESOR"
-      ],
-      "key_terms_for_dex_search": [
-        "Khamenei",
-        "Iran",
-        "Funeral",
-        "Sucesor"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-05T23:49:50.978267+00:00",
-      "expires_at": "2026-07-07T23:49:50.978267+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MojtabaKhamenei",
-        "name": "Mojtaba Khamenei",
-        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10351.0,
-        "liquidity_usd": 17639.84,
-        "price_usd": 1.035e-05,
-        "volume_h24": 178031.78,
-        "volume_h1": 145129.66,
-        "volume_m5": 11842.25,
-        "price_change_5m": 12.34,
-        "price_change_1h": 14.82,
-        "price_change_24h": 42.65,
-        "txns_h1_buys": 1238,
-        "txns_h1_sells": 1428,
-        "created_ts": 1783307408000,
-        "pair_created_at": 1783307408000,
-        "url": "https://dexscreener.com/solana/9txjvuywmajzscrjacrr3kvhqz2h8vnax3evbua3je2r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: KHAMENEI in MOJTABA KHAMENEI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-06T04:18:16.895669+00:00"
-    },
-    {
-      "id": "43d40e5f92f4",
-      "fingerprint": "43d40e5f92f4",
-      "narrative_summary": "La senadora demócrata de Michigan, Mallory McMorrow, ha abandonado su candidatura para el Senado de EE. UU.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'política' y 'candidatura' que se puede capturar en una frase corta",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MCMORROWOUT",
-        "MICHIGANSENATE",
-        "DEMOCRATDROPSOUT"
-      ],
-      "key_terms_for_dex_search": [
-        "Mallory McMorrow",
-        "Michigan Senate",
-        "demócrata",
-        "candidatura",
-        "Senado de EE. UU."
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-05T23:52:26.671896+00:00",
-      "expires_at": "2026-07-07T23:52:26.671896+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Michigan Democrat Mallory McMorrow ends bid for US Senate - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-07-08T04:37:36.958924+00:00"
-    },
-    {
       "id": "b36f9be3973c",
       "fingerprint": "b36f9be3973c",
       "narrative_summary": "Taylor Swift se casa con Travis Kelce y su bouquet se cae en la ceremonia.",
@@ -7674,7 +7543,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "2951538fa4ef",
@@ -7806,13 +7675,14 @@
       "started_at": "2026-07-17T12:40:37.511742+00:00",
       "expires_at": "2026-07-19T12:40:37.511742+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-19T12:42:47.264663+00:00"
     },
     {
       "id": "40b4e6d0e951",
@@ -8027,7 +7897,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "cfdcd850e6f0",
@@ -8216,7 +8086,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "bfa6d4ca24c4",
@@ -8340,7 +8210,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "1b52b776ead9",
@@ -8460,7 +8330,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "a3077636ad71",
@@ -8509,7 +8379,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "24be5e7f50aa",
@@ -8629,7 +8499,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "db75f32d8c84",
@@ -8748,7 +8618,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0631ceb275d6",
@@ -8864,7 +8734,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "63e848c404d4",
@@ -8911,7 +8781,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "82d3dcdd7766",
@@ -8994,7 +8864,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "2a461f0b425f",
@@ -9038,7 +8908,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f8f77bc81c77",
@@ -9085,7 +8955,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "4068d7f836b7",
@@ -9132,7 +9002,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "6e24bd252fe5",
@@ -9179,7 +9049,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c3e3949e4280",
@@ -9225,7 +9095,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0d5e76b386e8",
@@ -9421,7 +9291,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d94ea6751c33",
@@ -9468,7 +9338,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "aa8bbcc74e1d",
@@ -9515,7 +9385,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "3c6a8b8d2ef3",
@@ -9708,7 +9578,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "fbdf0a3fcde4",
@@ -9754,7 +9624,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "9d60cbf5138f",
@@ -9801,7 +9671,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "fc2a41ccab8a",
@@ -10157,7 +10027,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ac0140647bcd",
@@ -10360,7 +10230,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "20083df6e682",
@@ -10479,7 +10349,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "53f4f3ccd498",
@@ -10526,7 +10396,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f36c40434b89",
@@ -10640,7 +10510,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "65ce7e1228c0",
@@ -10759,7 +10629,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2c2d14128f59",
@@ -10807,7 +10677,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "751a1efcdb5a",
@@ -10853,7 +10723,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "69fa1139c752",
@@ -10900,8 +10770,137 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "5bbdba23906c",
+      "fingerprint": "5bbdba23906c",
+      "narrative_summary": "Andrew y Tristan Tate arrestados en EE. UU. por cargos de violación y tráfico",
+      "why_memeable": "La noticia tiene un alto impacto emocional debido a la gravedad de los cargos y la notoriedad de los hermanos Tate",
+      "category": "Noticias de celebridades",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TATEBROS",
+        "TATETWINS",
+        "JUSTICETATE",
+        "TATEARREST",
+        "BROTHERSTATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Tate brothers",
+        "arrest",
+        "rape",
+        "trafficking",
+        "celebrity news"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T12:43:01.695729+00:00",
+      "expires_at": "2026-07-22T12:43:01.695729+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tatesjail",
+        "name": "Tates arrested",
+        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 20270.0,
+        "liquidity_usd": 10598.2,
+        "price_usd": 2.027e-05,
+        "volume_h24": 224403.1,
+        "volume_h1": 3076.55,
+        "volume_m5": 40.99,
+        "price_change_5m": -2.07,
+        "price_change_1h": -36.91,
+        "price_change_24h": -35.75,
+        "txns_h1_buys": 443,
+        "txns_h1_sells": 71,
+        "created_ts": 1784426601000,
+        "pair_created_at": 1784426601000,
+        "url": "https://dexscreener.com/solana/77wchudba8atqsj2etubmempvqkbzfrwlaw8v3krfqrj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ARREST in TATES ARRESTED",
+        "safety_score": 4112,
+        "safety_risks": [
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
+      "cluster_top_title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-19T12:48:02.823110+00:00"
+    },
+    {
+      "id": "4b10b3156e23",
+      "fingerprint": "4b10b3156e23",
+      "narrative_summary": "Elon Musk anuncia la construcción de 'drivers de masa' en la luna",
+      "why_memeable": "El título y la idea de 'drivers de masa' son fáciles de capturar y compartir",
+      "category": "Cibernética y tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "MOONDRIVERS",
+        "MASSMOON",
+        "ELONMOON"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "Moon",
+        "drivers",
+        "masa"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T12:45:11.472830+00:00",
+      "expires_at": "2026-07-22T12:45:11.472830+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mass drivers on the mf Moon!!",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-19T10:47:54.051317+00:00"
+  "last_updated": "2026-07-19T12:48:02.823135+00:00"
 }
