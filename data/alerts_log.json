@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-08T18:16:30.890784+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5eda9d29eeab",
-        "score": 85,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:16:44.376463+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "806695406e8b",
-        "score": 80,
-        "category": "política y medios",
-        "title": "Choice of narrative is the biggest lie of the legacy media",
-        "candidate_tickers": [
-          "LEGACY",
-          "NARRATIVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T20:39:21.872713+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "Tecnología",
-        "title": "SPACEX IS SAID TO PLAN CLOSING IPO BOOKS WEDNESDAY POST-CLOSE",
-        "candidate_tickers": [
-          "SPACEX",
-          "IPO",
-          "WEDNESDAY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T20:39:57.845967+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8477aa6832e0",
-        "score": 88,
-        "category": "Noticias de negocios y política",
-        "title": "ALIBABA GROUP NAMED IN PENTAGON NOTICE ON MILITARY FIRMS IN US",
-        "candidate_tickers": [
-          "ALIBABA",
-          "BAIDU",
-          "PENTAGON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T20:41:52.128528+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "80cb0151a3eb",
-        "score": 70,
-        "category": "Desastres naturales",
-        "title": "Southern Philippines hit by 7.8-magnitude earthquake",
-        "candidate_tickers": [
-          "PHILIPPINESQUAKE",
-          "DIGOSDESASTRE",
-          "TERREMOTOFILIPINAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-08T20:42:53.736194+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28264,6 +28191,79 @@
         "ticker": "Luna Bear",
         "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
         "mc": 142080.0
+      }
+    },
+    {
+      "ts": "2026-07-19T11:46:09.068347+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fda4ec67a456",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMPFEUD",
+          "CONGRESSCLASH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T11:47:24.236258+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2750ad99210e",
+        "score": 88,
+        "category": "Noticias de crimen y justicia",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
+        "candidate_tickers": [
+          "TATEBROTHERS",
+          "ARRESTOSTATE",
+          "VIOLACIÓNTATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T11:48:04.945803+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "34c9fc9a84c0",
+        "score": 90,
+        "category": "Guerra en Ucrania",
+        "title": "Russia pounds Kyiv in major ballistic missile attack - Reuters",
+        "candidate_tickers": [
+          "KYIVUNDERATTACK",
+          "RUSIAATACAUCRANIA",
+          "MISSILESBALISTICOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T11:48:55.827250+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "22f8f3fae462",
+        "score": 88,
+        "category": "salud",
+        "title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
+        "candidate_tickers": [
+          "TAYLORFARMSLETTY",
+          "CYCLOSPORAOUTBREAK",
+          "LETTUCEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T11:49:32.281884+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Tecnología",
+        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
+        "candidate_tickers": [
+          "CHINA_MOONSHOT",
+          "AI_BREAKTHROUGH"
+        ]
       }
     }
   ]
