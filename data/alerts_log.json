@@ -1,89 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T08:09:14.902051+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "19fc5dae2ea5",
-        "ticker": "KEKIUS",
-        "mint": "Cxtd4j9mVysEoE8JRiiyhPoqa59mfU6JW58jy34GPump",
-        "mc": 184363.0
-      }
-    },
-    {
-      "ts": "2026-06-09T11:36:47.535181+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aee0fc40df5f",
-        "score": 74,
-        "category": "Deportes",
-        "title": "Elecciones Real Madrid, en directo: votaciones, resultado y última hora de Florentino Pérez, Enrique Riquelme y el ganador a la presidencia hoy - ABC",
-        "candidate_tickers": [
-          "REALMADRID",
-          "FLORENTINOPEREZ",
-          "ENRIQUERIQUELME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T11:37:22.195786+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "Ariana Grande and Ethan Slater split after three years",
-        "candidate_tickers": [
-          "IranMundial",
-          "ArbitroSomali",
-          "FútbolMundial"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T11:38:41.983090+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8c027b2fb6a4",
-        "score": 89,
-        "category": "Noticias",
-        "title": "Anita Manning's auction house criticised for offering human remains",
-        "candidate_tickers": [
-          "ANITAMANNING",
-          "CASADESUBASTAS",
-          "RESTOSHUMANOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T14:12:45.900517+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ca13649dd6f6",
-        "score": 70,
-        "category": "política",
-        "title": "🚨BREAKING: A petition demanding the officers who arrested Henry Nowak are prosecuted has just hit 200k signatures",
-        "candidate_tickers": [
-          "NOWAKPETITION",
-          "JUSTICIAPARAHENRY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T14:13:12.704906+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "82bf957fabb7",
-        "score": 90,
-        "category": "fraude electoral",
-        "title": "🚨 HOLY SMOKES. Governor candidate Steve Hilton just revealed the stunning reality of California fraud: They ALLOW mail-in ballots to BACKDATE by HAND so they can be counted late, and not invalid",
-        "candidate_tickers": [
-          "CALIFORNIA_FRAUD",
-          "STEVE_HILTON",
-          "MAIL_IN_BALLOTS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T14:15:52.700188+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28264,6 +28181,93 @@
         "ticker": "Luna Bear",
         "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
         "mc": 146326.0
+      }
+    },
+    {
+      "ts": "2026-07-19T16:33:02.238164+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7944766b1244",
+        "score": 78,
+        "category": "meteorología",
+        "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
+        "candidate_tickers": [
+          "CICLÓNFL",
+          "HURACÁNEEUU",
+          "FLORIDACICLÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T16:33:33.746963+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "53f3a9c1c3d0",
+        "score": 78,
+        "category": "Celebridad",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59 - BBC",
+        "candidate_tickers": [
+          "TATE",
+          "RAPE",
+          "ARREST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T16:34:12.525555+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Muerte de un actor famoso y conexión con un juego",
+        "title": "El inmortal Christopher Lambert nos deja un impactante mensaje final en «Celsius 232» - Gamereactor",
+        "candidate_tickers": [
+          "Lambert232",
+          "CelsiusLambert",
+          "LambertFallece"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T16:35:36.488031+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1ba55368e8ef",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "MASSDRIVERS",
+          "MOONDRIVERS",
+          "ELONLUNA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T16:35:51.492857+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política",
+        "title": "Olive Garden implemented the SAVE America Act more quickly than the US Senate.",
+        "candidate_tickers": [
+          "SAVEAmerica",
+          "OliveGardenWins",
+          "SenadoLento"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T16:36:12.749515+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Gold rush",
+        "candidate_tickers": [
+          "GOLD",
+          "RUSH",
+          "ELON"
+        ]
       }
     }
   ]
