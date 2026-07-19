@@ -1,364 +1,6 @@
 {
   "watches": [
     {
-      "id": "f2f59bb7fa3a",
-      "fingerprint": "f2f59bb7fa3a",
-      "narrative_summary": "Elon Musk confirma la verdad en una publicación en Twitter",
-      "why_memeable": "La frase 'True' es corta y fácil de compartir, y la confirmación de Elon Musk la hace viral",
-      "category": "Celebridad y drama",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "xcancel"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 9
-      },
-      "started_at": "2026-07-03T17:07:23.207842+00:00",
-      "expires_at": "2026-07-05T17:07:23.207842+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-05T18:41:30.495318+00:00"
-    },
-    {
-      "id": "bc137961ed75",
-      "fingerprint": "bc137961ed75",
-      "narrative_summary": "La estrella de la NFL Travis Kelce se sintió decepcionado al no poder entregar una pulsera de amistad que hizo con su número a Taylor Swift durante su gira Eras Tour.",
-      "why_memeable": "La historia es fácil de entender y tiene un elemento de decepción y humor, lo que la hace compartible y memeable.",
-      "category": "entretenimiento",
-      "matched_archetype": "celebridad_en_situación_inesperada",
-      "candidate_tickers": [
-        "KELCE4TAY",
-        "TAYLORSWIFTED",
-        "NFLFANBOY",
-        "ERASTOURFAIL"
-      ],
-      "key_terms_for_dex_search": [
-        "Travis Kelce",
-        "Taylor Swift",
-        "Eras Tour",
-        "NFL",
-        "celebridad"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-03T23:47:20.337461+00:00",
-      "expires_at": "2026-07-06T23:47:20.337461+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "LojakPaul",
-        "name": "The Top Influencer",
-        "mint": "HS4DWjgJ2h51PCnhh95saqgLQ21Zps6VABK1vi9gpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 343884.0,
-        "liquidity_usd": 64845.7,
-        "price_usd": 0.0003438,
-        "volume_h24": 9204670.84,
-        "volume_h1": 293938.72,
-        "volume_m5": 20676.56,
-        "price_change_5m": 8.36,
-        "price_change_1h": 1.3,
-        "price_change_24h": -82.54,
-        "txns_h1_buys": 1531,
-        "txns_h1_sells": 1193,
-        "created_ts": 1782965480000,
-        "pair_created_at": 1782965480000,
-        "url": "https://dexscreener.com/solana/bfvhuy3y2fuvzqzuppyyhsaoh8ciydvaxj25zystwuru",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: NFL in THE TOP INFLUENCER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "NFL star Travis Kelce reveals he made a friendship bracelet with his number on it when he attended Taylor Swift’s Eras Tour, but left disappointed because he didn’t get to hand it to her.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-04T01:29:28.864701+00:00"
-    },
-    {
-      "id": "6615f859d275",
-      "fingerprint": "6615f859d275",
-      "narrative_summary": "Se descubrieron masas de restos de perros en un refugio de animales en California",
-      "why_memeable": "La narrativa es memeable debido a la gravedad de la situación y la sorpresa de encontrar restos de perros en un refugio de animales",
-      "category": "noticias de animales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PERROSDECALIFORNIA",
-        "REFUGIODEANIMALES",
-        "MASASDEPERROS"
-      ],
-      "key_terms_for_dex_search": [
-        "perros",
-        "refugio",
-        "California",
-        "masas",
-        "restos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-03T23:47:34.461223+00:00",
-      "expires_at": "2026-07-05T23:47:34.461223+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "England-Mexico kick-off unchanged after Fifa U-turn",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-05T23:49:06.257011+00:00"
-    },
-    {
-      "id": "039f37deca9f",
-      "fingerprint": "039f37deca9f",
-      "narrative_summary": "Taylor Swift y Travis Kelce se casan en una boda real en el Madison Square Garden con seguridad estricta.",
-      "why_memeable": "La boda de Taylor Swift y Travis Kelce es un evento viral con una gran carga emocional y un impacto cultural significativo.",
-      "category": "Celebridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TAYLORSWIFT",
-        "TRAVISKELCE",
-        "BODAREAL",
-        "MADISONSQUAREGARDEN"
-      ],
-      "key_terms_for_dex_search": [
-        "TaylorSwift",
-        "TravisKelce",
-        "BodaReal",
-        "MadisonSquareGarden"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-03T23:49:24.205371+00:00",
-      "expires_at": "2026-07-05T23:49:24.205371+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Taylor Swift and Travis Kelce's wedding day arrives with Madison Square Garden under tight security - CBS News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-06T04:13:09.168320+00:00"
-    },
-    {
-      "id": "5d432beaa209",
-      "fingerprint": "5d432beaa209",
-      "narrative_summary": "Taylor Swift y Travis Kelce se casaron en una ceremonia oficiada por Adam Sandler.",
-      "why_memeable": "La unión de dos figuras públicas conocidas en un evento inesperado y la participación de Adam Sandler como oficiante crean un escenario único y atractivo para la creación de memes.",
-      "category": "Celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "SWIFTIE",
-        "KELCELOVE",
-        "TAYTRAV",
-        "SWIFTKELCE",
-        "ADAMOFFICIATES"
-      ],
-      "key_terms_for_dex_search": [
-        "Taylor Swift",
-        "Travis Kelce",
-        "Adam Sandler",
-        "Celebrity Wedding",
-        "Meme"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-04T05:27:22.534173+00:00",
-      "expires_at": "2026-07-07T05:27:22.534173+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-07T05:47:21.077909+00:00"
-    },
-    {
-      "id": "7578233cd480",
-      "fingerprint": "7578233cd480",
-      "narrative_summary": "NASA lanza misión robótica para salvar telescopio que cae hacia la Tierra",
-      "why_memeable": "La combinación de un telescopio en peligro, una misión de rescate robótica y la amenaza de caer hacia la Tierra crea un escenario emocionante y absurdo",
-      "category": "espacio y tecnología",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "RESCUENASA",
-        "TELESCOPEDOWN",
-        "SPACERESQ",
-        "NASAQUEST"
-      ],
-      "key_terms_for_dex_search": [
-        "NASA",
-        "telescopio",
-        "misión robótica",
-        "caer hacia la Tierra"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-04T05:27:31.766278+00:00",
-      "expires_at": "2026-07-07T05:27:31.766278+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "NASA launches robotic mission to save telescope falling back to Earth",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-07T05:47:21.077913+00:00"
-    },
-    {
-      "id": "6754f8318a17",
-      "fingerprint": "6754f8318a17",
-      "narrative_summary": "Taylor Swift se casa con Travis Kelce en una ceremonia estrellada en Nueva York",
-      "why_memeable": "La boda de Taylor Swift y Travis Kelce es un evento estrellado que puede ser capturado en una frase simple y compartida fácilmente",
-      "category": "Celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TAYLORSWIFTTRAVISKELCE",
-        "SWIFTKELCEWEDDING",
-        "BODATAYLORSWIFT"
-      ],
-      "key_terms_for_dex_search": [
-        "Taylor Swift",
-        "Travis Kelce",
-        "boda",
-        "celebridades",
-        "Nueva York"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-04T10:31:47.042051+00:00",
-      "expires_at": "2026-07-06T10:31:47.042051+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony - DW.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-07T05:47:21.077915+00:00"
-    },
-    {
       "id": "1420e6904341",
       "fingerprint": "1420e6904341",
       "narrative_summary": "Muerte de Khamenei y funeral en Irán: miles de personas asisten a las ceremonias",
@@ -9686,13 +9328,14 @@
       "started_at": "2026-07-18T03:38:56.584748+00:00",
       "expires_at": "2026-07-19T03:38:56.584748+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "don’t",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-19T04:00:09.873192+00:00"
     },
     {
       "id": "3761040bc999",
@@ -10682,7 +10325,335 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-18T23:09:02.641986+00:00"
+    },
+    {
+      "id": "ab0ee8c7f6f0",
+      "fingerprint": "ab0ee8c7f6f0",
+      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien luego lo calificó como el peor congresista de la historia del país. Trump endosó a Ed Gallrein, un patriota estadounidense.",
+      "why_memeable": "La narrativa es memeable debido a la fuerte carga emocional y la polarización que genera, así como la simplicidad de la historia y la velocidad con la que se está propagando.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MASSIE",
+        "TRUMP",
+        "GALLREIN",
+        "CONGRESS",
+        "PATRIOT"
+      ],
+      "key_terms_for_dex_search": [
+        "Thomas Massie",
+        "Donald Trump",
+        "Ed Gallrein",
+        "Congresista",
+        "Patriota"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-19T04:00:11.219189+00:00",
+      "expires_at": "2026-07-22T04:00:11.219189+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5d4f9fadc36b",
+      "fingerprint": "5d4f9fadc36b",
+      "narrative_summary": "Inglaterra gana el tercer lugar en la Copa Mundial de la FIFA contra Francia en un partido emocionante con 10 goles",
+      "why_memeable": "El partido tiene un resultado inesperado y emocionante, con un total de 10 goles, lo que puede generar memes y bromas sobre el resultado y la emoción del partido",
+      "category": "Deportes",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "WCUP",
+        "ENGFRA",
+        "GOALFEST"
+      ],
+      "key_terms_for_dex_search": [
+        "Copa Mundial",
+        "Inglaterra",
+        "Francia",
+        "partido emocionante",
+        "10 goles"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-19T04:00:13.284902+00:00",
+      "expires_at": "2026-07-22T04:00:13.284902+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ac0140647bcd",
+      "fingerprint": "ac0140647bcd",
+      "narrative_summary": "Los hermanos Tate, conocidos influencers, fueron arrestados en Miami por cargos de violación y tráfico sexual.",
+      "why_memeable": "La noticia combina la fama de los hermanos Tate con cargos graves y controvertidos, lo que genera una mezcla de shock, indignación y fascinación.",
+      "category": "Celebridad y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TATEBROS",
+        "JUSTICETATE",
+        "TATEARREST",
+        "INFLUENCERDOWN"
+      ],
+      "key_terms_for_dex_search": [
+        "Tate brothers",
+        "arrest",
+        "rape",
+        "sex trafficking",
+        "influencers"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T04:00:14.984307+00:00",
+      "expires_at": "2026-07-22T04:00:14.984307+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "627459691208",
+      "fingerprint": "627459691208",
+      "narrative_summary": "La rivalidad entre Elon Musk y Donald Trump se intensifica con acusaciones y declaraciones polémicas",
+      "why_memeable": "La combinación de dos figuras públicas prominentes y la naturaleza absurda de sus declaraciones y acusaciones",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TRUMPFEUD",
+        "ELONVSDONALD",
+        "MUSKTRUMPWAR"
+      ],
+      "key_terms_for_dex_search": [
+        "Musk",
+        "Trump",
+        "feud",
+        "celebrity drama",
+        "politics"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T04:00:36.684511+00:00",
+      "expires_at": "2026-07-22T04:00:36.684511+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "New EU border system tripling time at passport control, airport boss says",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "89de1ee3fa86",
+      "fingerprint": "89de1ee3fa86",
+      "narrative_summary": "Un gigantesco pastel para niños venezolanos desplazados por terremotos que han dejado más de 5000 muertos.",
+      "why_memeable": "La historia es fácil de capturar en una imagen icónica y tiene un impacto emocional fuerte.",
+      "category": "ayuda humanitaria",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VENEZUELA_AID",
+        "CAKE_FOR_VICTIMS",
+        "TERREMOTOS_VENEZUELA"
+      ],
+      "key_terms_for_dex_search": [
+        "venezuela",
+        "terremotos",
+        "ayuda humanitaria",
+        "pastel"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T04:03:17.120584+00:00",
+      "expires_at": "2026-07-22T04:03:17.120584+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "20083df6e682",
+      "fingerprint": "20083df6e682",
+      "narrative_summary": "Un agente de ICE en Maine tiene un historial de comportamiento violento y ha disparado a un conductor, según su familia y registros.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase que se puede capturar en una sola oración.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICE",
+        "MAINE",
+        "AGENTE VIOLENTO",
+        "DISPARO"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "Maine",
+        "agente violento",
+        "disparo",
+        "injusticia"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T04:04:41.865835+00:00",
+      "expires_at": "2026-07-21T04:04:41.865835+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "86969ef02eb3",
+      "fingerprint": "86969ef02eb3",
+      "narrative_summary": "Trump amenaza a Canadá por el humo de incendios forestales que ahoga a las ciudades de EE. UU.",
+      "why_memeable": "La narrativa tiene un título claro y un tema controvertido que puede ser compartido fácilmente.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSCANADA",
+        "HUMODEINCENDIOS",
+        "AMENAZADETRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Canadá",
+        "humo de incendios",
+        "amenaza"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T04:05:06.318369+00:00",
+      "expires_at": "2026-07-21T04:05:06.318369+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump threatens Canada over wildfire smoke choking U.S. cities - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-18T23:09:02.642004+00:00"
+  "last_updated": "2026-07-19T04:05:06.318369+00:00"
 }
