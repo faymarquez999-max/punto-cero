@@ -1,126 +1,6 @@
 {
   "watches": [
     {
-      "id": "7bc7fe2a0bad",
-      "fingerprint": "7bc7fe2a0bad",
-      "narrative_summary": "Zendaya botchó sus líneas en el primer día de filmación de 'The Odyssey' debido a que 'mi boca estaba congelada'.",
-      "why_memeable": "La narrativa tiene un momento viral absurdo y una figura de Hollywood (Zendaya) involucrada.",
-      "category": "Celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "ZENDAYAFROZEN",
-        "ODYSSEYMISTAKE",
-        "FROZENMOUTH"
-      ],
-      "key_terms_for_dex_search": [
-        "Zendaya",
-        "Odyssey",
-        "Frozen",
-        "Mistake"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-07T05:48:17.945367+00:00",
-      "expires_at": "2026-07-09T05:48:17.945367+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Odyssey",
-        "name": "Woke Odyssey Memes",
-        "mint": "7yDRPZ8aDGbdvWWWV2f1haxmGmEPHgDmJH5mydQQpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 36394.0,
-        "liquidity_usd": 15192.09,
-        "price_usd": 3.639e-05,
-        "volume_h24": 5579.0,
-        "volume_h1": 874.64,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.61,
-        "price_change_24h": -4.79,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 16,
-        "created_ts": 1778693088000,
-        "pair_created_at": 1778693088000,
-        "url": "https://dexscreener.com/solana/69c6xkduk1rlwbaj1vjppsgh2t9szs1dhfgefboteewc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ODYSSEY in WOKE ODYSSEY MEMES",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Why Zendaya Botched Her Lines on First Day of ‘The Odyssey’ Filming: “My Mouth Was Just Frozen”",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-07T05:52:02.134114+00:00"
-    },
-    {
-      "id": "5642f9fb1023",
-      "fingerprint": "5642f9fb1023",
-      "narrative_summary": "Zelensky solicitará a Nato sistemas de defensa aérea después de intensos ataques rusos",
-      "why_memeable": "La narrativa tiene un claro conflicto (Rusia vs Ucrania) y un claro llamado a la acción (Zelensky pide ayuda a Nato)",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ZELENSKY",
-        "NATO",
-        "RUSSIA",
-        "ZELENSKYVSRUSSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "zelensky",
-        "nato",
-        "russia",
-        "ataques",
-        "defensa aérea"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-07T05:49:14.482162+00:00",
-      "expires_at": "2026-07-09T05:49:14.482162+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-09T07:46:35.753077+00:00"
-    },
-    {
       "id": "dff07f115b85",
       "fingerprint": "dff07f115b85",
       "narrative_summary": "Joey Chestnut gana el título de Mustard Belt comiendo 66 hot dogs en el concurso de Nathan's Famous.",
@@ -6912,7 +6792,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "2951538fa4ef",
@@ -7456,7 +7336,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "bfa6d4ca24c4",
@@ -7580,7 +7460,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "1b52b776ead9",
@@ -7991,7 +7871,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "0631ceb275d6",
@@ -8107,7 +7987,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "63e848c404d4",
@@ -8154,7 +8034,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "82d3dcdd7766",
@@ -8237,7 +8117,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "2a461f0b425f",
@@ -8281,7 +8161,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "f8f77bc81c77",
@@ -8328,7 +8208,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "4068d7f836b7",
@@ -8375,7 +8255,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "6e24bd252fe5",
@@ -8422,7 +8302,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "c3e3949e4280",
@@ -8468,7 +8348,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "0d5e76b386e8",
@@ -8664,7 +8544,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "d94ea6751c33",
@@ -8703,15 +8583,47 @@
       "started_at": "2026-07-18T18:33:00.027655+00:00",
       "expires_at": "2026-07-20T18:33:00.027655+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CINEMA",
+        "name": "CINEMA",
+        "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 74723.0,
+        "liquidity_usd": 29523.65,
+        "price_usd": 7.475e-05,
+        "volume_h24": 12423.08,
+        "volume_h1": 3609.65,
+        "volume_m5": 3381.65,
+        "price_change_5m": 41.08,
+        "price_change_1h": 42.71,
+        "price_change_24h": 67.61,
+        "txns_h1_buys": 36,
+        "txns_h1_sells": 19,
+        "created_ts": 1761204212000,
+        "pair_created_at": 1761204212000,
+        "url": "https://dexscreener.com/solana/g72gaiixxksh82pnuuoh7ge49lqatgkcevzefmaf3r51",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CINE in CINEMA",
+        "safety_score": 7201,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          }
+        ]
+      },
       "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
       "cluster_sources": [
         "breaking_news",
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10,
+      "matched_at": "2026-07-19T23:20:33.865604+00:00"
     },
     {
       "id": "aa8bbcc74e1d",
@@ -8758,7 +8670,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "3c6a8b8d2ef3",
@@ -8951,7 +8863,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "fbdf0a3fcde4",
@@ -8997,7 +8909,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "9d60cbf5138f",
@@ -9044,7 +8956,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "fc2a41ccab8a",
@@ -9400,7 +9312,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "ac0140647bcd",
@@ -9603,7 +9515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "20083df6e682",
@@ -9722,7 +9634,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "53f4f3ccd498",
@@ -9769,7 +9681,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "f36c40434b89",
@@ -9883,7 +9795,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "65ce7e1228c0",
@@ -10077,7 +9989,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "751a1efcdb5a",
@@ -10123,7 +10035,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "69fa1139c752",
@@ -10170,7 +10082,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5bbdba23906c",
@@ -10299,7 +10211,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "dee14f7655ef",
@@ -10347,7 +10259,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6ddc6b9e6e58",
@@ -10393,7 +10305,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "1f9767300210",
@@ -10515,7 +10427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b98a00d7cf81",
@@ -10704,7 +10616,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "53f3a9c1c3d0",
@@ -10824,7 +10736,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1d94bafdf531",
@@ -10863,15 +10775,141 @@
       "started_at": "2026-07-19T21:05:04.094217+00:00",
       "expires_at": "2026-07-22T21:05:04.094217+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TATE",
+        "name": "Rapist Coin",
+        "mint": "6ke1Spo4n6H2j3FRjAkusngLv6ovm9mibgPa9wHSpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 26654.0,
+        "liquidity_usd": 13103.31,
+        "price_usd": 2.665e-05,
+        "volume_h24": 607429.6,
+        "volume_h1": 1794.09,
+        "volume_m5": 165.4,
+        "price_change_5m": -3.87,
+        "price_change_1h": -17.49,
+        "price_change_24h": 305.0,
+        "txns_h1_buys": 30,
+        "txns_h1_sells": 17,
+        "created_ts": 1783183526000,
+        "pair_created_at": 1783183526000,
+        "url": "https://dexscreener.com/solana/6gajaf19varhafqryc9slylss19jkte1glynmszyrpi",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TATE==TATE",
+        "safety_score": 21601,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          }
+        ]
+      },
       "cluster_top_title": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-19T23:20:46.124152+00:00"
+    },
+    {
+      "id": "42f842ccd78f",
+      "fingerprint": "42f842ccd78f",
+      "narrative_summary": "Hallazgo de fosas comunes con perros muertos en un refugio animal en California",
+      "why_memeable": "La combinación de animales, injusticia y la imagen potencial de fosas comunes crea un impacto emocional fuerte",
+      "category": "noticias de animales",
+      "matched_archetype": "animal_at_the_center_of_story",
+      "candidate_tickers": [
+        "DOGS",
+        "ANIMALS",
+        "CALI",
+        "REFUGIO",
+        "PERROS"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "refugio",
+        "California",
+        "animales",
+        "noticias"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-19T23:15:46.189099+00:00",
+      "expires_at": "2026-07-22T23:15:46.189099+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Twin earthquakes strike Peru killing at least five",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "6e3bfb507f49",
+      "fingerprint": "6e3bfb507f49",
+      "narrative_summary": "Los influencers Andrew y Tristan Tate fueron arrestados en Miami por cargos de violación y tráfico. ",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'influencers en problemas' y un título que llama la atención.",
+      "category": "celebridad",
+      "matched_archetype": "influencers_in_trouble",
+      "candidate_tickers": [
+        "TATEBROTHERS",
+        "INFLUENCERSENPROBLEMA",
+        "VIOLACIÓNENMIAMI"
+      ],
+      "key_terms_for_dex_search": [
+        "AndrewTate",
+        "TristanTate",
+        "Violación",
+        "tráfico",
+        "Miami"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T23:17:01.625983+00:00",
+      "expires_at": "2026-07-21T23:17:01.625983+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-19T21:05:04.094217+00:00"
+  "last_updated": "2026-07-19T23:20:46.124168+00:00"
 }

@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T19:29:42.702039+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ca13649dd6f6",
-        "ticker": "HENRY",
-        "mint": "HfAFNsnjmbWMMRkwNeUUoHJ8V6UnUGFzkpu3Seajpump",
-        "mc": 257340.0
-      }
-    },
-    {
-      "ts": "2026-06-09T19:29:45.136691+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5a640f6b31bd",
-        "ticker": "UATF",
-        "mint": "HxPcU4D11Vn63sTBGr45s9mRZGu5CcbNjy3u1fVBpump",
-        "mc": 104346.0
-      }
-    },
-    {
-      "ts": "2026-06-09T19:29:47.040308+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "81bdf40b8abb",
-        "ticker": "SBF",
-        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
-        "mc": 182738.0
-      }
-    },
-    {
-      "ts": "2026-06-09T21:22:42.818388+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ed4bd24ce764",
-        "score": 80,
-        "category": "Política y conflicto",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMP",
-          "IRAN",
-          "USA",
-          "POLITICS",
-          "CONFLICT"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T21:22:56.467361+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28270,6 +28223,58 @@
         "ticker": "CINEMA",
         "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
         "mc": 52361.0
+      }
+    },
+    {
+      "ts": "2026-07-19T23:15:46.595797+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "42f842ccd78f",
+        "score": 80,
+        "category": "noticias de animales",
+        "title": "Twin earthquakes strike Peru killing at least five",
+        "candidate_tickers": [
+          "DOGS",
+          "ANIMALS",
+          "CALI",
+          "REFUGIO",
+          "PERROS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T23:17:02.030986+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6e3bfb507f49",
+        "score": 91,
+        "category": "celebridad",
+        "title": "Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post",
+        "candidate_tickers": [
+          "TATEBROTHERS",
+          "INFLUENCERSENPROBLEMA",
+          "VIOLACIÓNENMIAMI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T23:20:33.876919+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d94ea6751c33",
+        "ticker": "CINEMA",
+        "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
+        "mc": 74723.0
+      }
+    },
+    {
+      "ts": "2026-07-19T23:20:46.130878+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1d94bafdf531",
+        "ticker": "TATE",
+        "mint": "6ke1Spo4n6H2j3FRjAkusngLv6ovm9mibgPa9wHSpump",
+        "mc": 26654.0
       }
     }
   ]
