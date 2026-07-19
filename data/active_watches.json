@@ -1,278 +1,6 @@
 {
   "watches": [
     {
-      "id": "1420e6904341",
-      "fingerprint": "1420e6904341",
-      "narrative_summary": "Muerte de Khamenei y funeral en Irán: miles de personas asisten a las ceremonias",
-      "why_memeable": "La muerte de un líder supremo y el funeral en Irán es un evento significativo y emotivo que puede ser capturado en una frase o imagen.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KHAMENEI",
-        "IRÁN",
-        "FUNERAL",
-        "MILES DE PERSONAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Khamenei",
-        "Irán",
-        "funeral",
-        "miles de personas",
-        "política"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-04T10:32:26.927199+00:00",
-      "expires_at": "2026-07-06T10:32:26.927199+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MojtabaKhamenei",
-        "name": "Mojtaba Khamenei",
-        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10351.0,
-        "liquidity_usd": 17639.84,
-        "price_usd": 1.035e-05,
-        "volume_h24": 178031.78,
-        "volume_h1": 145129.66,
-        "volume_m5": 11842.25,
-        "price_change_5m": 12.34,
-        "price_change_1h": 14.82,
-        "price_change_24h": 42.65,
-        "txns_h1_buys": 1238,
-        "txns_h1_sells": 1428,
-        "created_ts": 1783307408000,
-        "pair_created_at": 1783307408000,
-        "url": "https://dexscreener.com/solana/9txjvuywmajzscrjacrr3kvhqz2h8vnax3evbua3je2r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: KHAMENEI in MOJTABA KHAMENEI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-06T04:18:10.464571+00:00"
-    },
-    {
-      "id": "4e85b2d48f4c",
-      "fingerprint": "4e85b2d48f4c",
-      "narrative_summary": "Elon Musk publicó 'True' en Twitter, generando gran interés y debate",
-      "why_memeable": "La simplicidad y claridad de la publicación de Elon Musk la hacen muy memeable",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "twitter"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 2,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-04T16:23:11.800161+00:00",
-      "expires_at": "2026-07-06T16:23:11.800161+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-07T05:47:21.077918+00:00"
-    },
-    {
-      "id": "e7579f2d0c01",
-      "fingerprint": "e7579f2d0c01",
-      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien luego criticó a Massie como el peor congresista de la historia del país.",
-      "why_memeable": "La narrativa combina un personaje político polarizante con un evento dramático y una crítica fuerte, lo que puede generar un meme o una discusión viral.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPMASSIE",
-        "BADREP",
-        "TRUMPFEUD",
-        "MASSIEGATE",
-        "TRUMPENDORSE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Massie",
-        "Congresista",
-        "Política",
-        "Meme"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-05T05:45:47.112922+00:00",
-      "expires_at": "2026-07-08T05:45:47.112922+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-08T07:18:43.137940+00:00"
-    },
-    {
-      "id": "36f074bf03b5",
-      "fingerprint": "36f074bf03b5",
-      "narrative_summary": "Taylor Swift se casó con detalles inusuales, incluyendo la participación de Adam Sandler y pañuelos con el tema de 'Blank Space'",
-      "why_memeable": "La combinación de una celebridad como Taylor Swift con detalles inusuales y la participación de otra celebridad como Adam Sandler, junto con el tema icónico de 'Blank Space', ofrece un rico terreno para la creación de memes",
-      "category": "Celebridad y Entretenimiento",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "SWIFTIE",
-        "BLANKSPACE",
-        "TAYLORSWIFT",
-        "ADAMSANDLER",
-        "SWIFTWEDDING"
-      ],
-      "key_terms_for_dex_search": [
-        "Taylor Swift",
-        "Adam Sandler",
-        "Blank Space",
-        "Celebridad",
-        "Boda"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 7
-      },
-      "started_at": "2026-07-05T05:45:48.792965+00:00",
-      "expires_at": "2026-07-08T05:45:48.792965+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs - The Hollywood Reporter",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-08T07:18:43.137953+00:00"
-    },
-    {
-      "id": "15ad0cecd745",
-      "fingerprint": "15ad0cecd745",
-      "narrative_summary": "Marines held captive for 9 años por un link en internet",
-      "why_memeable": "La frase 'keeeeeeeeeek' es memeable y la situación de los marines es absurda y polarizante",
-      "category": "internet",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LINK",
-        "KEEK",
-        "MARINES"
-      ],
-      "key_terms_for_dex_search": [
-        "marines",
-        "captor",
-        "link",
-        "keek"
-      ],
-      "score": 75,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-05T05:48:14.579102+00:00",
-      "expires_at": "2026-07-07T05:48:14.579102+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Link marines held 9 years for this",
-      "cluster_sources": [
-        "4chan"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-07T08:59:01.192702+00:00"
-    },
-    {
       "id": "ff7aef69ffc4",
       "fingerprint": "ff7aef69ffc4",
       "narrative_summary": "Muerte de Catherine O'Hara después de una breve enfermedad",
@@ -7422,7 +7150,7 @@
       "started_at": "2026-07-16T07:04:25.037423+00:00",
       "expires_at": "2026-07-19T07:04:25.037423+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -7431,7 +7159,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 17,
+      "expired_at": "2026-07-19T09:00:45.984051+00:00"
     },
     {
       "id": "620bfa1c1805",
@@ -8060,14 +7789,15 @@
       "started_at": "2026-07-17T04:32:10.361126+00:00",
       "expires_at": "2026-07-19T04:32:10.361126+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-19T09:00:45.984065+00:00"
     },
     {
       "id": "1dd54f27e646",
@@ -8152,14 +7882,15 @@
       "started_at": "2026-07-17T04:33:10.386274+00:00",
       "expires_at": "2026-07-19T04:33:10.386274+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Philippines condemns Chinese media depicting it as monkey in AI video - BBC",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-19T09:00:45.984069+00:00"
     },
     {
       "id": "76b688c6391c",
@@ -8198,14 +7929,15 @@
       "started_at": "2026-07-17T07:02:08.518300+00:00",
       "expires_at": "2026-07-19T07:02:08.518300+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-19T09:00:45.984071+00:00"
     },
     {
       "id": "f8e79c9987c7",
@@ -10653,7 +10385,228 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "53f4f3ccd498",
+      "fingerprint": "53f4f3ccd498",
+      "narrative_summary": "Los hermanos Andrew y Tristan Tate, influyentes en redes sociales, han sido arrestados en Miami por cargos de violación y tráfico sexual.",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés (arrestos de influyentes) y un contexto de controversia y polarización.",
+      "category": "Celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TATEBROTHERS",
+        "ANDREWTATE",
+        "TRISTANTATE",
+        "INFLUENCERSARRESTADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Tate",
+        "arrestados",
+        "violación",
+        "tráfico sexual",
+        "influencers"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-19T09:01:33.356539+00:00",
+      "expires_at": "2026-07-22T09:01:33.356539+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f36c40434b89",
+      "fingerprint": "f36c40434b89",
+      "narrative_summary": "Recall de lechuga por brote de parásito Cyclospora en EE. UU.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'brote de enfermedad' y un nombre de parásito que se puede capturar fácilmente en una frase.",
+      "category": "Salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CYCLOSPORA",
+        "LECHUGATOXIC",
+        "PARÁSITOPELÍGRIMO"
+      ],
+      "key_terms_for_dex_search": [
+        "Cyclospora",
+        "lechuga",
+        "parásito",
+        "EE. UU."
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 7
+      },
+      "started_at": "2026-07-19T09:02:24.445824+00:00",
+      "expires_at": "2026-07-21T09:02:24.445824+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b65f21dd1cb3",
+      "fingerprint": "b65f21dd1cb3",
+      "narrative_summary": "Un usuario compartió un enlace a xcancel.com con un título relacionado con Donald Trump.",
+      "why_memeable": "El título es corto y se puede capturar en una frase, y el enlace a xcancel.com sugiere contenido interesante.",
+      "category": "Política/Actualidad",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "XCANCEL",
+        "TRUMPXCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "XCancel",
+        "Trump",
+        "xcancel.com"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-19T09:03:38.885492+00:00",
+      "expires_at": "2026-07-21T09:03:38.885492+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "65ce7e1228c0",
+      "fingerprint": "65ce7e1228c0",
+      "narrative_summary": "Elon Musk anuncia la construcción de 'mass drivers' en la luna",
+      "why_memeable": "La frase 'mass drivers on the mf Moon' es fácil de recordar y se puede capturar en una imagen",
+      "category": "Cibernética y tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "MOONDRIVERS",
+        "MASSMOON",
+        "ELONLUNAR"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "luna",
+        "drivers",
+        "masa"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-19T09:04:27.760598+00:00",
+      "expires_at": "2026-07-21T09:04:27.760598+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mass drivers on the mf Moon!!",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ab7615b54745",
+      "fingerprint": "ab7615b54745",
+      "narrative_summary": "Elon Musk anuncia una 'gold rush' en Twitter, generando gran interés y participación.",
+      "why_memeable": "La narrativa es simple y fácil de capturar en una frase ('gold rush')",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GOLDRUSH",
+        "ELONGOLD"
+      ],
+      "key_terms_for_dex_search": [
+        "gold",
+        "rush",
+        "elonmusk",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-19T09:05:10.798430+00:00",
+      "expires_at": "2026-07-21T09:05:10.798430+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Gold rush",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-19T04:05:06.318369+00:00"
+  "last_updated": "2026-07-19T09:05:10.798430+00:00"
 }
