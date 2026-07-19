@@ -1,32 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T16:53:10.441656+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "81bdf40b8abb",
-        "score": 80,
-        "category": "política",
-        "title": "JUST IN: 🇺🇸 FTX Founder Sam Bankman-Fried applies for pardon from President Trump.",
-        "candidate_tickers": [
-          "SBF",
-          "FTX",
-          "BANKMAN-FRIED",
-          "TRUMPPARDON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T16:57:29.003292+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ed0efa74702f",
-        "ticker": "Rise",
-        "mint": "CpFJrfYq32Wae2Bt36hEAUwzdyT29WwVLpZmYDF7pump",
-        "mc": 14896.0
-      }
-    },
-    {
       "ts": "2026-06-09T16:57:34.768782+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28267,6 +28241,30 @@
           "RACEFORCONGRESS",
           "ABOMINATIONBILL"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-19T18:44:02.926980+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "negocios",
+        "title": "Way more than a billion",
+        "candidate_tickers": [
+          "AAL",
+          "WAYMORE",
+          "BILLION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T18:47:50.771585+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "53f3a9c1c3d0",
+        "ticker": "Tatesjail",
+        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
+        "mc": 11122.0
       }
     }
   ]
