@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T19:29:25.749692+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ed0efa74702f",
-        "ticker": "Rise",
-        "mint": "CpFJrfYq32Wae2Bt36hEAUwzdyT29WwVLpZmYDF7pump",
-        "mc": 13556.0
-      }
-    },
-    {
-      "ts": "2026-06-09T19:29:29.564627+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9cdc38ee780e",
-        "ticker": "KAMA",
-        "mint": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
-        "mc": 217796.0
-      }
-    },
-    {
       "ts": "2026-06-09T19:29:42.702039+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28267,6 +28247,29 @@
           "Nolan",
           "DebutGlobal"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-19T22:14:34.699275+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "TRUMP",
+          "POLL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T22:17:51.177419+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d94ea6751c33",
+        "ticker": "CINEMA",
+        "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
+        "mc": 52361.0
       }
     }
   ]
