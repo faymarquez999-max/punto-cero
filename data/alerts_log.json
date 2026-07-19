@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T14:15:52.700188+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5a640f6b31bd",
-        "score": 78,
-        "category": "Celebridad y crimen",
-        "title": "Rob Reiner’s son Nick seeks money from trust parents left him for his defense in their killings - AP News",
-        "candidate_tickers": [
-          "NICKREINER",
-          "REINERMURDERS",
-          "TRUSTFUNDDRAMA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T16:53:10.441656+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28267,6 +28252,20 @@
           "GOLD",
           "RUSH",
           "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T17:41:04.068864+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Despite Trump's unpopularity, new poll shows tight race for Congress - USA Today",
+        "candidate_tickers": [
+          "TRUMP2026",
+          "RACEFORCONGRESS",
+          "ABOMINATIONBILL"
         ]
       }
     }
