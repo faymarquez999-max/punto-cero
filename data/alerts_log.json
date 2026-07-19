@@ -1,31 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T16:57:34.768782+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9cdc38ee780e",
-        "ticker": "KAMA",
-        "mint": "HnKkzR1YtFbUUxM6g3iVRS2RY68KHhGV7bNdfF1GCsJB",
-        "mc": 206232.0
-      }
-    },
-    {
-      "ts": "2026-06-09T19:26:17.835011+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6d0b345696c4",
-        "score": 91,
-        "category": "Animales",
-        "title": "New video of great white shark in Mediterranean goes viral",
-        "candidate_tickers": [
-          "TIBURONMEDITERRANEO",
-          "TIBURONVIRAL",
-          "MEDVIRAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T19:26:51.320105+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28265,6 +28240,30 @@
         "ticker": "Tatesjail",
         "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
         "mc": 11122.0
+      }
+    },
+    {
+      "ts": "2026-07-19T19:58:58.890010+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Política y celebridades",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MUSKvsTRUMP",
+          "TRUMPvsMUSK",
+          "ELONvsDONALD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T20:04:00.272739+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b98a00d7cf81",
+        "ticker": "fun",
+        "mint": "EF7mbVk39m5jqBGGbCbueMCBN93a3mFam7kKwuiUpump",
+        "mc": 11875.0
       }
     }
   ]
