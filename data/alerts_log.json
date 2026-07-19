@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-08T23:52:08.811678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2db2ba5f84f8",
-        "score": 88,
-        "category": " política",
-        "title": "Germany and France drop joint fighter jet project - Reuters",
-        "candidate_tickers": [
-          "FRANCIA",
-          "ALEMANIA",
-          "PROYECTO DE AVIÓN DE COMBATE",
-          "MACRON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T23:52:39.836492+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0f756d4dba69",
-        "score": 70,
-        "category": "política",
-        "title": "Roberto Sanchez overtakes Keiko Fujimori in Peru presidential race - Reuters",
-        "candidate_tickers": [
-          "SANCHEZ",
-          "FUJIMORI",
-          "PERU",
-          "PRESIDENCIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T04:13:18.240316+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "750886ba4acd",
-        "score": 91,
-        "category": "Desastres naturales",
-        "title": "A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami - AP News",
-        "candidate_tickers": [
-          "FILIPINASTERREMOTO",
-          "TSUNAMIFILIPINAS",
-          "DESASTRENATURAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T04:14:15.721651+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c02ad7a5c642",
-        "score": 82,
-        "category": "política",
-        "title": "The system is rotten",
-        "candidate_tickers": [
-          "SYSTEMISROTTEN",
-          "ELONVSSYSTEM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T04:14:30.117799+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e4572af5d647",
-        "score": 80,
-        "category": "Internet",
-        "title": "Wow xcancel.com/i/grok/share/52ed880e9…",
-        "candidate_tickers": [
-          "XCANCEL",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T04:14:45.306364+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d26fecd1ccec",
-        "ticker": "WERLD",
-        "mint": "DyMx8bQYFCw8Ng6qxT2zkNs9ijTm5W8wFoFj29v5pump",
-        "mc": 88196.0
-      }
-    },
-    {
       "ts": "2026-06-09T04:14:50.799663+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28261,6 +28176,89 @@
         "ticker": "Tatesjail",
         "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
         "mc": 20270.0
+      }
+    },
+    {
+      "ts": "2026-07-19T14:16:12.518216+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política y celebridades",
+        "title": "Every person living in a western nation needs to listen to every word of this",
+        "candidate_tickers": [
+          "BurnhamVsMusk",
+          "TrumpVsElon",
+          "MuskVsBurnham"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T14:17:22.945957+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dee14f7655ef",
+        "score": 90,
+        "category": "Celebridad/Influencia",
+        "title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
+        "candidate_tickers": [
+          "TATEBROTHERS",
+          "INFLUENCERSENCRISIS",
+          "EXTRADICIÓNDETATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T14:18:01.740235+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6ddc6b9e6e58",
+        "score": 88,
+        "category": "Noticias internacionales",
+        "title": "Russian missile attack on Kyiv kills 1 and exposes holes in air defenses - AP News",
+        "candidate_tickers": [
+          "KIEV",
+          "MISSILES",
+          "RUSSIA",
+          "ATTACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T14:18:37.887876+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Política/Actualidad",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "XCancel",
+          "TrumpLive"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T14:19:37.433093+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1f9767300210",
+        "score": 85,
+        "category": "espacio",
+        "title": "Mass drivers on the mf Moon!!",
+        "candidate_tickers": [
+          "LUNA",
+          "DRIVERS",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T14:20:42.605645+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1f9767300210",
+        "ticker": "Luna Bear",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "mc": 147487.0
       }
     }
   ]
