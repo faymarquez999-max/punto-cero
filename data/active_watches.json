@@ -1,81 +1,6 @@
 {
   "watches": [
     {
-      "id": "05ea12c1e770",
-      "fingerprint": "05ea12c1e770",
-      "narrative_summary": "Un fan japonés de la Copa Mundial se vuelve viral al documentar sus primeras experiencias estadounidenses en Las Vegas",
-      "why_memeable": "La combinación de la cultura japonesa y la estadounidense en un contexto inesperado, con un enfoque en las primeras experiencias del fan, ofrece un terreno fértil para la creación de memes y contenido viral",
-      "category": "cultural_exchange",
-      "matched_archetype": "bizarre_local_news_with_global_potential",
-      "candidate_tickers": [
-        "LASVEGAS",
-        "JAPANUSA",
-        "WORLDCUPFAN",
-        "FIRSTTIMELASVEGAS",
-        "JAPANESEINUSA"
-      ],
-      "key_terms_for_dex_search": [
-        "Japanese fan",
-        "World Cup",
-        "Las Vegas",
-        "American firsts",
-        "viral video"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-07T05:47:49.435579+00:00",
-      "expires_at": "2026-07-10T05:47:49.435579+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "WORLDCUP",
-        "name": "World Cup Coin",
-        "mint": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 445587.0,
-        "liquidity_usd": 89749.37,
-        "price_usd": 0.0004456,
-        "volume_h24": 56567.11,
-        "volume_h1": 4917.88,
-        "volume_m5": 204.21,
-        "price_change_5m": 0.89,
-        "price_change_1h": -6.51,
-        "price_change_24h": -21.83,
-        "txns_h1_buys": 85,
-        "txns_h1_sells": 25,
-        "created_ts": 1778531910000,
-        "pair_created_at": 1778531910000,
-        "url": "https://dexscreener.com/solana/etmhxtenfkmk85tacveebzdbv9htziwzdsddmshrp2wb",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: WORLD CUP in WORLD CUP COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Japanese World Cup fan goes viral documenting American firsts in Las Vegas - Live 5 News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-07-08T07:23:31.971497+00:00"
-    },
-    {
       "id": "7bc7fe2a0bad",
       "fingerprint": "7bc7fe2a0bad",
       "narrative_summary": "Zendaya botchó sus líneas en el primer día de filmación de 'The Odyssey' debido a que 'mi boca estaba congelada'.",
@@ -10897,7 +10822,53 @@
         "nitter"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "1d94bafdf531",
+      "fingerprint": "1d94bafdf531",
+      "narrative_summary": "Los hermanos Tate, influyentes en redes sociales, enfrentan cargos de violación y tráfico de personas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'Los hermanos Tate enfrentan cargos de violación y tráfico de personas'.",
+      "category": "Noticias de violación y tráfico de personas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TATE",
+        "VIOLACIÓN",
+        "TRÁFICO DE PERSONAS",
+        "INFLUENCERS EN REDES SOCIALES"
+      ],
+      "key_terms_for_dex_search": [
+        "Tate",
+        "violación",
+        "tráfico de personas",
+        "influencers en redes sociales"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-19T21:05:04.094217+00:00",
+      "expires_at": "2026-07-22T21:05:04.094217+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-19T20:04:00.253778+00:00"
+  "last_updated": "2026-07-19T21:05:04.094217+00:00"
 }

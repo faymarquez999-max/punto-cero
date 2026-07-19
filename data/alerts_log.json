@@ -1,33 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T19:26:51.320105+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "48507239018b",
-        "score": 70,
-        "category": "política",
-        "title": "Nithya Raman and Spencer Pratt locked in tight race to make runoff for Los Angeles mayor - AP News",
-        "candidate_tickers": [
-          "RAMANVSPRATT",
-          "SPENCERPRATTFAILS",
-          "NITHYARAMANMAYORAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T19:27:40.818755+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Tendencia en Twitter",
-        "title": "Enough.",
-        "candidate_tickers": [
-          "ENOUGH"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T19:29:25.749692+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28264,6 +28237,36 @@
         "ticker": "fun",
         "mint": "EF7mbVk39m5jqBGGbCbueMCBN93a3mFam7kKwuiUpump",
         "mc": 11875.0
+      }
+    },
+    {
+      "ts": "2026-07-19T21:05:04.879246+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1d94bafdf531",
+        "score": 70,
+        "category": "Noticias de violación y tráfico de personas",
+        "title": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News",
+        "candidate_tickers": [
+          "TATE",
+          "VIOLACIÓN",
+          "TRÁFICO DE PERSONAS",
+          "INFLUENCERS EN REDES SOCIALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T21:05:47.316049+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "entretenimiento",
+        "title": "‘The Odyssey’ Becomes Christopher Nolan’s Biggest Global Debut of All Time With $264 Million - Variety",
+        "candidate_tickers": [
+          "TheOdyssey",
+          "Nolan",
+          "DebutGlobal"
+        ]
       }
     }
   ]
