@@ -1,250 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-08T11:31:21.987797+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c0e92d79c5a3",
-        "score": 89,
-        "category": "Desastres naturales",
-        "title": "At least 32 dead after major earthquake strikes southern Philippines",
-        "candidate_tickers": [
-          "FILIPINASTERREMOTO",
-          "TERREMOTOFILIPINAS",
-          "DESASTREFILIPINAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T11:31:48.541638+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "Global stocks slide led by meltdown in South Korea - Financial Times",
-        "candidate_tickers": [
-          "XINPENGUIN",
-          "KIMJONGXILANDS",
-          "CHINASOUTHKOREA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T11:32:15.541108+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d26fecd1ccec",
-        "score": 74,
-        "category": "fútbol",
-        "title": "Ohio police drag away football pitch invader in pre-World Cup friendly",
-        "candidate_tickers": [
-          "PITCHINVADER",
-          "FÚTBOLMUNDIAL2026",
-          "OHIOPOLICE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T11:34:06.970804+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d62828677704",
-        "score": 74,
-        "category": "premios Tony",
-        "title": "John Lithgow and Lesley Manville lead Tony Award winners",
-        "candidate_tickers": [
-          "TONYAWARDS2026",
-          "JOHNLITHGOW",
-          "LESLEYMANVILLE",
-          "DEATHOFASALESMAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T11:34:46.001775+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8a37e50659c2",
-        "score": 88,
-        "category": "Política/Actualidad",
-        "title": "Fuming Trump, 79, Fires Off Ominous Late-Night Election Post - The Daily Beast",
-        "candidate_tickers": [
-          "TRUMPELECTION",
-          "FUMINGTRUMP",
-          "ELECTIONPOST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T11:35:24.873768+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a2fada14dbe0",
-        "score": 74,
-        "category": "política",
-        "title": "They Got Platner’s Endorsement for Maine Governor. What Did They Do With It? - The New York Times",
-        "candidate_tickers": [
-          "PLATNER",
-          "MAINE",
-          "GOBIERNO",
-          "FESTIVAL",
-          "DISPAROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T15:04:49.538827+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cd0e54fd6907",
-        "score": 70,
-        "category": "Tecnología",
-        "title": "$GOOGL $NVDA - GOOGLE AND NVIDIA CONSIDER INTEL AS BACKUP CHIP MANUFACTURER - THE INFORMATION",
-        "candidate_tickers": [
-          "GOOGL",
-          "NVDA",
-          "INTEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T15:05:36.206153+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "631f8e9e0ee0",
-        "score": 88,
-        "category": "ciencia ficción",
-        "title": "‘Disclosure Day’ and ‘Close Encounters of the Third Kind’ Connections That Have Fans Convinced Spielberg Is Pulling Off a Stealth Sequel - IMDb",
-        "candidate_tickers": [
-          "SPIELBERGALIENS",
-          "DISCLOSUREDAY",
-          "CLOSEENCOUNTERS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T15:06:11.111205+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ade846df7bea",
-        "score": 70,
-        "category": "política internacional",
-        "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-        "candidate_tickers": [
-          "XINPYNK",
-          "CHINANORTH",
-          "XIJINPING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T15:07:50.724293+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "02e4c289c19e",
-        "score": 78,
-        "category": "desastres naturales",
-        "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-        "candidate_tickers": [
-          "#FILIPINASTERREMOTO",
-          "#NIÑOSENPELÍCULA",
-          "#DERRUMBE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T15:08:47.581786+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "de5d99c4b724",
-        "score": 80,
-        "category": "política",
-        "title": "Armenian PM Nikol Pashinyan claims victory in election seen as test of Russia’s influence - AP News",
-        "candidate_tickers": [
-          "PASHINYAN",
-          "ARMENIA",
-          "RUSSIA",
-          "ELECCIONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:11:27.094951+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2f59f5188b71",
-        "score": 74,
-        "category": "Política y celebridades",
-        "title": "Today is National Best Friends Day.",
-        "candidate_tickers": [
-          "TRUMPVSMSK",
-          "MUSKTRUMP",
-          "TRUMPFEUD",
-          "ELONTRUMP",
-          "TRUMPNEWS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:12:11.678891+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "902850ced94d",
-        "score": 91,
-        "category": "Escándalo de poder y comportamiento explotatorio",
-        "title": "🚨WOW. Famous British DJ, Tom Zanetti, dedicates his performance to Henry Nowak in-front of thousands yesterday",
-        "candidate_tickers": [
-          "HENRYNOWAK",
-          "TOMZANETTI",
-          "DAVIDSULLIVAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:13:16.588269+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9235c3015da5",
-        "score": 88,
-        "category": "desastres naturales",
-        "title": "At least 35 dead after major earthquake strikes southern Philippines",
-        "candidate_tickers": [
-          "#FILIPINASTERREMOTO",
-          "#TERREMOTOFILIPINAS",
-          "#DESASTRENATURAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:13:55.586892+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b59c3e61f5d9",
-        "score": 80,
-        "category": "noticias de salud y ciencia",
-        "title": "A flesh-eating cattle parasite is spreading in Texas as new far-flung screwworm cases are found - AP News",
-        "candidate_tickers": [
-          "GUSANOSESCARABAJOS",
-          "PARÁSITOCARNÍVORO",
-          "TEXASALERTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-08T18:14:27.460398+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "actualidad politica",
-        "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-        "candidate_tickers": [
-          "StarmerBan",
-          "AppleGoogleBan",
-          "NudeImageBan"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-08T18:16:30.890784+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28326,6 +28082,188 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 26758.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:42:41.868523+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c2d14128f59",
+        "score": 80,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "WORSTCONGRESS",
+          "TRUMPENDORSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T10:43:24.000166+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "751a1efcdb5a",
+        "score": 89,
+        "category": "arresto de influenciadores",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
+        "candidate_tickers": [
+          "TATEBROTHERS",
+          "INFLUENCIADORESARRESTADOS",
+          "REDESSOCIALESCONTROVERSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T10:44:03.716721+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "69fa1139c752",
+        "score": 92,
+        "category": "Guerra y conflicto",
+        "title": "Russia launches major ballistic missile attack on Kyiv",
+        "candidate_tickers": [
+          "RUSIAATACAKYIV",
+          "KYIVUNDERATTACK",
+          "UCRANIAENGUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T10:44:47.255121+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "salud",
+        "title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
+        "candidate_tickers": [
+          "lechuga_toxic",
+          "TaylorFarms",
+          "cyclosporiasis"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T10:46:51.735028+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Robot fights are fun 😂",
+        "candidate_tickers": [
+          "ROBOTFIGHTS",
+          "ELONMUSKFIGHTS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:18.366792+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "40b4e6d0e951",
+        "ticker": "ELONCOIN",
+        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
+        "mc": 142442.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:24.125138+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "db75f32d8c84",
+        "ticker": "ELONCOIN",
+        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
+        "mc": 142442.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:31.231823+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9a9e982042de",
+        "ticker": "ELONCOIN",
+        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
+        "mc": 142442.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:35.315335+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "db34b2ea1827",
+        "ticker": "ELONCOIN",
+        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
+        "mc": 170179.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:39.144120+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "17a8647b5058",
+        "ticker": "ELONCOIN",
+        "mint": "4uSdUZjecQtSM1UCotocvBPftKuntAEjUBKMABRg8yM",
+        "mc": 68741.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:42.047174+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ab0ee8c7f6f0",
+        "ticker": "PATRIOTS",
+        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
+        "mc": 203056.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:44.994509+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ac0140647bcd",
+        "ticker": "Tatesjail",
+        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
+        "mc": 50855.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:46.376368+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "627459691208",
+        "ticker": "ELONCOIN",
+        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
+        "mc": 170179.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:48.798037+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "20083df6e682",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 26755.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:52.161623+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f36c40434b89",
+        "ticker": "CYCLOSPORA",
+        "mint": "9TnTx8Gx1t8aT7pMGbjwAEsrRjXPrMbFx2PKK2Etpump",
+        "mc": 16021.0
+      }
+    },
+    {
+      "ts": "2026-07-19T10:47:54.058812+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "65ce7e1228c0",
+        "ticker": "Luna Bear",
+        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
+        "mc": 142080.0
       }
     }
   ]
