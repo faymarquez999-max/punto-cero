@@ -7211,7 +7211,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "0631ceb275d6",
@@ -7375,7 +7375,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "82d3dcdd7766",
@@ -7458,7 +7458,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "2a461f0b425f",
@@ -7502,7 +7502,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "f8f77bc81c77",
@@ -7597,7 +7597,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "6e24bd252fe5",
@@ -7644,7 +7644,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "c3e3949e4280",
@@ -8208,7 +8208,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "fbdf0a3fcde4",
@@ -8659,7 +8659,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "ac0140647bcd",
@@ -8862,7 +8862,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "20083df6e682",
@@ -8981,7 +8981,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "53f4f3ccd498",
@@ -9021,14 +9021,46 @@
       "started_at": "2026-07-19T09:01:33.356539+00:00",
       "expires_at": "2026-07-22T09:01:33.356539+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tate",
+        "name": "Tate Terminal",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 132533.0,
+        "liquidity_usd": 40096.5,
+        "price_usd": 0.0001325,
+        "volume_h24": 5050.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -24.04,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1729779606000,
+        "pair_created_at": 1729779606000,
+        "url": "https://dexscreener.com/solana/waprp8qkzcfdy3aixs8uiphctt11uafcqwhzwpncqwp",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TATE in TATE TERMINAL",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Missing file metadata",
+            "level": "warn",
+            "description": "No file metadata found associated to this token"
+          }
+        ]
+      },
       "cluster_top_title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12,
+      "matched_at": "2026-07-20T23:12:21.743867+00:00"
     },
     {
       "id": "f36c40434b89",
@@ -9142,7 +9174,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "65ce7e1228c0",
@@ -9336,7 +9368,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "751a1efcdb5a",
@@ -9375,14 +9407,46 @@
       "started_at": "2026-07-19T10:43:23.614433+00:00",
       "expires_at": "2026-07-21T10:43:23.614433+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tate",
+        "name": "Tate Terminal",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 132533.0,
+        "liquidity_usd": 40096.5,
+        "price_usd": 0.0001325,
+        "volume_h24": 5050.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -24.04,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1729779606000,
+        "pair_created_at": 1729779606000,
+        "url": "https://dexscreener.com/solana/waprp8qkzcfdy3aixs8uiphctt11uafcqwhzwpncqwp",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TATE in TATE TERMINAL",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Missing file metadata",
+            "level": "warn",
+            "description": "No file metadata found associated to this token"
+          }
+        ]
+      },
       "cluster_top_title": "Tate brothers arrested in US as further UK charges take total to 59",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12,
+      "matched_at": "2026-07-20T23:12:24.794630+00:00"
     },
     {
       "id": "69fa1139c752",
@@ -9429,7 +9493,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "5bbdba23906c",
@@ -9558,7 +9622,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "dee14f7655ef",
@@ -9599,14 +9663,46 @@
       "started_at": "2026-07-19T14:17:22.571889+00:00",
       "expires_at": "2026-07-22T14:17:22.571889+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tate",
+        "name": "Tate Terminal",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 132533.0,
+        "liquidity_usd": 40096.5,
+        "price_usd": 0.0001325,
+        "volume_h24": 5050.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -24.04,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1729779606000,
+        "pair_created_at": 1729779606000,
+        "url": "https://dexscreener.com/solana/waprp8qkzcfdy3aixs8uiphctt11uafcqwhzwpncqwp",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TATE in TATE TERMINAL",
+        "safety_score": 501,
+        "safety_risks": [
+          {
+            "name": "Missing file metadata",
+            "level": "warn",
+            "description": "No file metadata found associated to this token"
+          }
+        ]
+      },
       "cluster_top_title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10,
+      "matched_at": "2026-07-20T23:12:28.170216+00:00"
     },
     {
       "id": "6ddc6b9e6e58",
@@ -9652,7 +9748,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "1f9767300210",
@@ -9774,7 +9870,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b98a00d7cf81",
@@ -9963,7 +10059,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "53f3a9c1c3d0",
@@ -10083,7 +10179,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1d94bafdf531",
@@ -10209,7 +10305,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6e3bfb507f49",
@@ -10255,7 +10351,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "2110597bbbed",
@@ -10303,7 +10399,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4734835735f7",
@@ -10345,7 +10441,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f3b5b57607cc",
@@ -10389,7 +10485,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "04d50969c6dd",
@@ -10435,7 +10531,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a6b6467aaec1",
@@ -10477,7 +10573,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0ba841616101",
@@ -10527,7 +10623,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3768c04d3eb2",
@@ -10573,7 +10669,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c39dd9b77d6d",
@@ -10620,7 +10716,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cac3801c7b2e",
@@ -10662,7 +10758,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "da0087983212",
@@ -10704,7 +10800,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ccfde153f0bc",
@@ -10754,7 +10850,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cd9008583505",
@@ -10798,8 +10894,8 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     }
   ],
-  "last_updated": "2026-07-20T15:22:07.890233+00:00"
+  "last_updated": "2026-07-20T23:12:28.170229+00:00"
 }

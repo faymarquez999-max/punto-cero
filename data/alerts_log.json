@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T00:02:01.456807+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eb0233dea21c",
-        "score": 89,
-        "category": "true crime",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUECRIME",
-          "HBOMAX",
-          "100PERCENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T00:02:47.830154+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "escándalos de abuso animal",
-        "title": "Mr. Ward Style: Northern California middle school teacher goes viral for incorporating fashion in his lessons - ABC7 Bay Area",
-        "candidate_tickers": [
-          "WardStyle",
-          "RefugioDeAnimales",
-          "AbusoAnimal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T00:03:59.650300+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be9469c2b0e0",
-        "score": 89,
-        "category": "noticias/actualidad",
-        "title": "A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast - The Washington Post",
-        "candidate_tickers": [
-          "BELFAST",
-          "VIOLENCIA",
-          "ANTIINMIGRANTE",
-          "REINO UNIDO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T00:04:34.505500+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d4efd5698de8",
-        "score": 88,
-        "category": "política",
-        "title": "Bill Gates testifies about his ties to Epstein, calls meeting him a ‘grave error in judgment’ - AP News",
-        "candidate_tickers": [
-          "GATESEPSTEIN",
-          "ERRORDEJUICIOGRAVE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-11T04:55:21.724634+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28281,6 +28222,49 @@
         "ticker": "Tate",
         "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
         "mc": 133844.0
+      }
+    },
+    {
+      "ts": "2026-07-20T23:07:40.428853+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Deportes",
+        "title": "The next World Cup in 2030 will be played in Uruguay, Argentina, Paraguay, Morocco, Portugal and Spain.",
+        "candidate_tickers": [
+          "MUNDIAL2030",
+          "URUGUAYARGENTINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T23:12:21.751139+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "53f4f3ccd498",
+        "ticker": "Tate",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "mc": 132533.0
+      }
+    },
+    {
+      "ts": "2026-07-20T23:12:24.802113+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "751a1efcdb5a",
+        "ticker": "Tate",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "mc": 132533.0
+      }
+    },
+    {
+      "ts": "2026-07-20T23:12:28.177228+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dee14f7655ef",
+        "ticker": "Tate",
+        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
+        "mc": 132533.0
       }
     }
   ]
