@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T14:07:40.031039+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "noticias",
-        "title": "For those impacted by the earthquake in the Philippines, Starlink Mobile is providing free connectivity to @enjoyGlobe customers in the affected regions.",
-        "candidate_tickers": [
-          "StarlinkHelps",
-          "FilipinasTerremoto",
-          "ConectividadGratis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T14:11:23.860728+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fe12ff4a8a23",
-        "score": 78,
-        "category": "true crime",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUECRIME",
-          "HBOMAX",
-          "100%POSITIVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T17:38:50.999426+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7b7133f19c80",
-        "score": 74,
-        "category": "Cine",
-        "title": "Steven Spielberg’s ‘Disclosure Day’: What the Critics Are Saying - IMDb",
-        "candidate_tickers": [
-          "DISCLOSUREDAY",
-          "SPIELBERGALIENS",
-          "ALIENBLOCKBUSTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T17:39:25.143685+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "76e7125421f8",
-        "score": 89,
-        "category": "Política",
-        "title": "Bill Gates declara al Congreso que Epstein intentó usar sus infidelidades para presionarle - EL PAÍS",
-        "candidate_tickers": [
-          "BILLGATESEPSTEIN",
-          "GATESEPSTEINCONTROVERSY"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-10T17:40:44.109126+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28300,6 +28242,61 @@
           "FUTBOL_AERIO",
           "ELON_MUSK_FUTBOL",
           "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T17:04:37.234746+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política y geopolítica",
+        "title": "IRAN SKEPTICAL OF U.S. INTENTIONS",
+        "candidate_tickers": [
+          "TRUMP_IRAN",
+          "IRAN_USA",
+          "GUERRA_IRAN_USA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T17:05:05.625786+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e47e79d1ca30",
+        "score": 74,
+        "category": "política",
+        "title": "STARMER STEPS DOWN",
+        "candidate_tickers": [
+          "STARMERDOWN",
+          "BURNHAMUP",
+          "LABOURSHOCK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T17:05:55.040591+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "POLL…",
+        "candidate_tickers": [
+          "TRUMP POLL",
+          "POLL TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T17:06:09.917084+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMPXCANCEL",
+          "XCancel"
         ]
       }
     }
