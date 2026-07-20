@@ -1,72 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T21:28:11.108312+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "287524033c14",
-        "score": 82,
-        "category": "Tecnología",
-        "title": "Enough.",
-        "candidate_tickers": [
-          "ENOUGH",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T23:04:08.809371+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "18b8f96a3a4f",
-        "score": 82,
-        "category": "Tecnología",
-        "title": "Enough.",
-        "candidate_tickers": [
-          "ENOUGH",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T23:04:34.046167+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política",
-        "title": "Only Restore Britain can save Britain.",
-        "candidate_tickers": [
-          "RestoreBritain",
-          "OnlyRestore"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T23:06:20.716343+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología y celebridades",
-        "title": "- Netherlands",
-        "candidate_tickers": [
-          "NORDIC",
-          "MUSKNORDIC",
-          "NORDIC4"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T01:40:07.907094+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8a37e50659c2",
-        "ticker": "KING",
-        "mint": "4u1xmmG794nNLg3qCFb8ZSek9BAcoNua1ZYcskZrpump",
-        "mc": 26849.0
-      }
-    },
-    {
       "ts": "2026-06-10T01:40:18.833823+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28274,6 +28208,83 @@
         "candidate_tickers": [
           "ELONSOCCER",
           "FÚTBOLXC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T07:44:09.754694+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0ba841616101",
+        "score": 80,
+        "category": "Geopolítica y conflicto",
+        "title": "Back then she was a young 55 year old with crazy ideas",
+        "candidate_tickers": [
+          "USIRAN",
+          "TRUMPWAR",
+          "MIDEASTCRISIS",
+          "IRANUS",
+          "GEOPOLITICS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T07:44:55.793174+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Finanzas",
+        "title": "Gold Falls as US-Iran Hostilities Keep Rate Hike Bets on Table - Bloomberg.com",
+        "candidate_tickers": [
+          "IRAN",
+          "USIRAN",
+          "GOLD",
+          "RATEHIKE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T07:45:33.617663+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3768c04d3eb2",
+        "score": 89,
+        "category": "Noticias de conflicto",
+        "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone - Al Jazeera",
+        "candidate_tickers": [
+          "IRANDRONE",
+          "SOLDADOASESINADO",
+          "GUERRACONIRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T07:46:15.320411+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c39dd9b77d6d",
+        "score": 78,
+        "category": "política",
+        "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised - Reuters",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "PETROLERO",
+          "ESTRECHO_DE_HORMUZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T07:48:05.762163+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cac3801c7b2e",
+        "score": 85,
+        "category": "fútbol, Elon Musk, absurdo",
+        "title": "xcancel.com/i/jf/soccer/league/mat…",
+        "candidate_tickers": [
+          "FÚTBOLFIASCO",
+          "ELONMUSKMEME"
         ]
       }
     }
