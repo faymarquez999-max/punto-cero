@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T21:26:09.992103+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e2a87f77483e",
-        "score": 88,
-        "category": "Deporte",
-        "title": "Karmelo Anthony found guilty of murder over Texas track meet stabbing - ABC News - Breaking News, Latest News and Videos",
-        "candidate_tickers": [
-          "KARMELOGUILTY",
-          "BALONCESTOASESINATO",
-          "TEXASTRACKMEET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T21:26:55.124406+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cb3660766fea",
-        "score": 88,
-        "category": "Muerte de una figura pública",
-        "title": "Identical twin given six months to live says leaving sister is 'unthinkable'",
-        "candidate_tickers": [
-          "CATHERINEOHARA",
-          "ACTRIZDECOMEDIA",
-          "MUERTEENBREVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T21:27:49.695781+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "SpaceX, OpenAI y Anthropic: ¿burbuja de IA o nuevo ciclo en Wall Street? - XTB.com",
-        "candidate_tickers": [
-          "OpenAI",
-          "IPO",
-          "Burbuja de IA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T21:28:11.108312+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28274,6 +28230,50 @@
           "XCANCEL",
           "MATLEAGUE",
           "ELONSOCCER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T04:28:12.274045+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "04d50969c6dd",
+        "score": 89,
+        "category": "noticias internacionales",
+        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+        "candidate_tickers": [
+          "UCRANIA",
+          "SOLDADOS",
+          "VIOLENCIA",
+          "RECLUTAMIENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T04:28:53.751720+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Troy Jackson on Track to Replace Platner as Maine Senate Nominee - Bloomberg.com",
+        "candidate_tickers": [
+          "TroyJackson",
+          "MaineSenate",
+          "Platner"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T04:29:09.119092+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a6b6467aaec1",
+        "score": 84,
+        "category": "fútbol, Elon Musk",
+        "title": "xcancel.com/i/jf/soccer/league/mat…",
+        "candidate_tickers": [
+          "ELONSOCCER",
+          "FÚTBOLXC"
         ]
       }
     }
