@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-09T21:22:56.467361+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f4e752d2b58b",
-        "score": 79,
-        "category": "Películas",
-        "title": "‘Disclosure Day’ debuts with a score of 89% on Rotten Tomatoes, based on 57 reviews.",
-        "candidate_tickers": [
-          "DISCLOSUREDAY",
-          "SPIELBERG89",
-          "ALIENBLOCKBUSTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T21:23:31.809403+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Negocios/Finanzas",
-        "title": "INVESTOR DEMAND FOR SPACEX IPO APPROACHES FOUR TIMES OVERSUBSCRIBED - SOURCES",
-        "candidate_tickers": [
-          "SPACEXIPO",
-          "IPO4X",
-          "SPACEX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-09T21:25:20.323735+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c6f2c3efebea",
-        "score": 89,
-        "category": "Maltrato animal",
-        "title": "Hertford County man charged after 3 dogs found dead, 7 emaciated outside home - WITN",
-        "candidate_tickers": [
-          "HERTFORDMAN",
-          "PERROSMUERTOS",
-          "MALTRATOANIMAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-09T21:26:09.992103+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28275,6 +28231,50 @@
         "ticker": "TATE",
         "mint": "6ke1Spo4n6H2j3FRjAkusngLv6ovm9mibgPa9wHSpump",
         "mc": 26654.0
+      }
+    },
+    {
+      "ts": "2026-07-20T00:18:05.153503+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2110597bbbed",
+        "score": 88,
+        "category": "Guerra y política",
+        "title": "Back then she was a young 55 year old with crazy ideas",
+        "candidate_tickers": [
+          "IRANWAR",
+          "USMILITARY",
+          "WARCASUALTIES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T00:20:23.814940+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4734835735f7",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOWELON",
+          "ELONWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T00:21:26.362825+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f3b5b57607cc",
+        "score": 85,
+        "category": "Deportes/Viral",
+        "title": "xcancel.com/i/jf/soccer/league/mat…",
+        "candidate_tickers": [
+          "XCANCEL",
+          "MATLEAGUE",
+          "ELONSOCCER"
+        ]
       }
     }
   ]
