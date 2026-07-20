@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T17:40:44.109126+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6af9fb9adc43",
-        "score": 73,
-        "category": "economía",
-        "title": "US consumer inflation breaks above 4% as Iran war raises energy prices - Reuters",
-        "candidate_tickers": [
-          "INFLACIÓN",
-          "IRÁN",
-          "EE.UU.",
-          "INFLACIÓN_DE_IRÁN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T17:41:43.544432+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3f470e4eb752",
-        "score": 80,
-        "category": "política internacional",
-        "title": "Only 11% of Europeans view US as ally, survey shows - Reuters",
-        "candidate_tickers": [
-          "EEUUALIADO",
-          "BLOCKADEIRAN",
-          "OPECOIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T17:42:24.558948+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "97f023599efd",
-        "score": 78,
-        "category": "Deportes",
-        "title": "Somali soccer referee denied entry to US for World Cup is welcomed home as a hero - AP News",
-        "candidate_tickers": [
-          "SOMALIREF",
-          "FUTBOLHERO",
-          "MUNDIALRECHAZO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T20:04:48.208085+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4c5ad7b585f5",
-        "score": 82,
-        "category": "Tecnología y Civilización",
-        "title": "Nothing else matters if civilization falls",
-        "candidate_tickers": [
-          "XCIVILIZATION",
-          "NOTHINGMATTERS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T20:05:16.600631+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "09568f1cf951",
-        "score": 82,
-        "category": "Tecnología/Política",
-        "title": "Millions must go.",
-        "candidate_tickers": [
-          "MILLIONS",
-          "GO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-10T20:05:38.647883+00:00",
       "kind": "shadow",
       "payload": {
@@ -28297,6 +28223,79 @@
         "candidate_tickers": [
           "TRUMPXCANCEL",
           "XCancel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T19:05:36.918216+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a520df387c9c",
+        "score": 80,
+        "category": "Cine y entretenimiento",
+        "title": "First look at Loki in ‘AVENGERS: DOOMSDAY.’",
+        "candidate_tickers": [
+          "LOKI",
+          "AVENGERS: DOOMSDAY",
+          "ROBERT DOWNEY JR.",
+          "DOCTOR DOOM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T19:07:49.221070+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Deportes",
+        "title": "Spain’s World Cup champions return home for royal welcome and parade through Madrid - AP News",
+        "candidate_tickers": [
+          "ESPANA_WINS",
+          "FUTBOL_VICTORIA",
+          "COPA_DEL_MUNDO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T19:08:36.660072+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Política y tecnología",
+        "title": "Pennsylvania’s 2020 election was 'absolutely secure,' Fetterman says - Politico",
+        "candidate_tickers": [
+          "MUSKTWEET",
+          "TWITTERFEUD",
+          "ELONVS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T19:09:40.717399+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política",
+        "title": "French lawmakers race to introduce an under-15 social media ban before the new school year - AP News",
+        "candidate_tickers": [
+          "FRANCE_BAN",
+          "SOCIAL_MEDIA_BAN",
+          "UNDER_15_BAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T19:10:05.711688+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32659360213a",
+        "score": 70,
+        "category": "Deportes, Fútbol, Muerte",
+        "title": "Kevin Keegan, Liverpool footballer who managed England and Newcastle United, dies aged 75",
+        "candidate_tickers": [
+          "KEEGAN75",
+          "FÚTBOLFALLECE",
+          "CÁNCERFÚTBOL"
         ]
       }
     }
