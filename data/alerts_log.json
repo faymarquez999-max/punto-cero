@@ -1,44 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T10:41:34.360424+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología",
-        "title": "IPO",
-        "candidate_tickers": [
-          "SPACEX",
-          "STARSHIP",
-          "MARS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T10:42:11.140207+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c9edd17803b8",
-        "ticker": "MAITIU",
-        "mint": "7Pk14rpgjCFDtSMbN9RKAp6wZUJ2YHQdAaniPfPhpump",
-        "mc": 111236.0
-      }
-    },
-    {
-      "ts": "2026-06-10T14:06:24.177234+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política",
-        "title": "They ruled Iryna’s killer is incompetent to stand trial.",
-        "candidate_tickers": [
-          "TRUMPvsIRAN",
-          "IRANvsTRUMP",
-          "TRUMPvsIRAN2026"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-10T14:07:40.031039+00:00",
       "kind": "shadow",
       "payload": {
@@ -28292,6 +28254,52 @@
           "BIG TECH",
           "PETRÓLEO",
           "FUTUROS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T15:19:56.174653+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ccfde153f0bc",
+        "score": 80,
+        "category": "Política y controversia",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMPED",
+          "BADREP",
+          "ENDORSEFAIL",
+          "POLARIZE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T15:20:41.181968+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política internacional",
+        "title": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
+        "candidate_tickers": [
+          "Houthis",
+          "Saudi Arabia",
+          "Blockade"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T15:22:08.295525+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cd9008583505",
+        "score": 82,
+        "category": "fútbol",
+        "title": "xcancel.com/i/jf/soccer/league/mat…",
+        "candidate_tickers": [
+          "FUTBOL_AERIO",
+          "ELON_MUSK_FUTBOL",
+          "XCANCEL"
         ]
       }
     }

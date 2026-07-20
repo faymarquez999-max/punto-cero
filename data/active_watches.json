@@ -1,97 +1,6 @@
 {
   "watches": [
     {
-      "id": "c48d2b3b3290",
-      "fingerprint": "c48d2b3b3290",
-      "narrative_summary": "Un incidente de hazmat en la 62nda calle de Pittsburgh provoca una respuesta de emergencia masiva.",
-      "why_memeable": "La narrativa tiene un núcleo claro (incidente de hazmat) y un contexto emocional (respuesta de emergencia).",
-      "category": "Emergencia y respuesta",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HAZMAT62",
-        "PITTSBURGHINCIDENTE",
-        "RESPUESTAEMERGENCIA"
-      ],
-      "key_terms_for_dex_search": [
-        "hazmat",
-        "emergencia",
-        "pittsburgh",
-        "incidente"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-07T22:38:04.012954+00:00",
-      "expires_at": "2026-07-09T22:38:04.012954+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘Large scale hazmat incident’ prompts massive emergency response on 62nd Street Bridge - Pittsburgh Post-Gazette",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-09T23:40:39.996432+00:00"
-    },
-    {
-      "id": "2c3956e85db4",
-      "fingerprint": "2c3956e85db4",
-      "narrative_summary": "Link marines held 9 años por esta razón",
-      "why_memeable": "La frase 'keeeeeeeeeek' es memeable y la noticia de marines detenidos es absurda y emocionalmente cargada",
-      "category": "Noticias de justicia y derechos humanos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LINK",
-        "KEEEEEEEEEK",
-        "MARINES9"
-      ],
-      "key_terms_for_dex_search": [
-        "Link",
-        "Marines",
-        "Keeeeeeeeek",
-        "Detención",
-        "Justicia"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-07T22:38:32.822120+00:00",
-      "expires_at": "2026-07-10T22:38:32.822120+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Link marines held 9 years for this",
-      "cluster_sources": [
-        "4chan"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-11T07:01:13.908089+00:00"
-    },
-    {
       "id": "9d8d2bc19fa1",
       "fingerprint": "9d8d2bc19fa1",
       "narrative_summary": "Elon Musk y Donald Trump en un conflicto verbal sobre la cobertura mediática",
@@ -6765,7 +6674,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "bfa6d4ca24c4",
@@ -6889,7 +6798,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "1b52b776ead9",
@@ -7300,7 +7209,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "0631ceb275d6",
@@ -7464,7 +7373,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "82d3dcdd7766",
@@ -7547,7 +7456,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "2a461f0b425f",
@@ -7591,7 +7500,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "f8f77bc81c77",
@@ -7631,14 +7540,15 @@
       "started_at": "2026-07-18T12:10:52.647444+00:00",
       "expires_at": "2026-07-20T12:10:52.647444+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-20T15:19:54.519652+00:00"
     },
     {
       "id": "4068d7f836b7",
@@ -7685,7 +7595,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "6e24bd252fe5",
@@ -7732,7 +7642,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "c3e3949e4280",
@@ -7771,14 +7681,15 @@
       "started_at": "2026-07-18T13:56:01.660201+00:00",
       "expires_at": "2026-07-20T13:56:01.660201+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Kuwait Faces Intense Night of Iranian Attacks as Power Plant Hit - Bloomberg.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-20T15:19:54.519661+00:00"
     },
     {
       "id": "0d5e76b386e8",
@@ -7974,7 +7885,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "d94ea6751c33",
@@ -8100,7 +8011,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "3c6a8b8d2ef3",
@@ -8293,7 +8204,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "fbdf0a3fcde4",
@@ -8339,7 +8250,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "9d60cbf5138f",
@@ -8386,7 +8297,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "fc2a41ccab8a",
@@ -8742,7 +8653,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "ac0140647bcd",
@@ -8945,7 +8856,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "20083df6e682",
@@ -9064,7 +8975,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "53f4f3ccd498",
@@ -9111,7 +9022,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "f36c40434b89",
@@ -9225,7 +9136,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "65ce7e1228c0",
@@ -9419,7 +9330,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "751a1efcdb5a",
@@ -9465,7 +9376,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "69fa1139c752",
@@ -9512,7 +9423,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "5bbdba23906c",
@@ -9641,7 +9552,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "dee14f7655ef",
@@ -9689,7 +9600,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "6ddc6b9e6e58",
@@ -9735,7 +9646,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "1f9767300210",
@@ -9857,7 +9768,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b98a00d7cf81",
@@ -10046,7 +9957,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "53f3a9c1c3d0",
@@ -10166,7 +10077,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1d94bafdf531",
@@ -10292,7 +10203,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6e3bfb507f49",
@@ -10338,7 +10249,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2110597bbbed",
@@ -10386,7 +10297,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4734835735f7",
@@ -10428,7 +10339,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f3b5b57607cc",
@@ -10472,7 +10383,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "04d50969c6dd",
@@ -10518,7 +10429,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a6b6467aaec1",
@@ -10560,7 +10471,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0ba841616101",
@@ -10610,7 +10521,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3768c04d3eb2",
@@ -10656,7 +10567,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c39dd9b77d6d",
@@ -10703,7 +10614,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cac3801c7b2e",
@@ -10745,7 +10656,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "da0087983212",
@@ -10787,8 +10698,102 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "ccfde153f0bc",
+      "fingerprint": "ccfde153f0bc",
+      "narrative_summary": "El congresista Thomas Massie es criticado por un viejo respaldo de Donald Trump, quien ahora lo considera el peor congresista en la historia del país.",
+      "why_memeable": "La narrativa combina la figura polarizante de Trump con una situación de injusticia percibida, lo que puede generar una fuerte carga emocional y resonancia cultural.",
+      "category": "Política y controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MASSIE",
+        "TRUMPED",
+        "BADREP",
+        "ENDORSEFAIL",
+        "POLARIZE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Massie",
+        "Congresista",
+        "Política",
+        "Controversia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-20T15:19:55.767722+00:00",
+      "expires_at": "2026-07-23T15:19:55.767722+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "cd9008583505",
+      "fingerprint": "cd9008583505",
+      "narrative_summary": "Elon Musk compartió un enlace a una página web que muestra a un equipo de fútbol jugando con una pelota que parece estar en el aire, generando mucha confusión y especulación en la comunidad.",
+      "why_memeable": "La imagen es absurda y generó mucha confusión, lo que la hace fácilmente compartible y memeable.",
+      "category": "fútbol",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "FUTBOL_AERIO",
+        "ELON_MUSK_FUTBOL",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "futbol",
+        "xcancel",
+        "elonmusk",
+        "absurdo"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-20T15:22:07.890233+00:00",
+      "expires_at": "2026-07-23T15:22:07.890233+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "xcancel.com/i/jf/soccer/league/mat…",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-20T10:37:06.978870+00:00"
+  "last_updated": "2026-07-20T15:22:07.890233+00:00"
 }
