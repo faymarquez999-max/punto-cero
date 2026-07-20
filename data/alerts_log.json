@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T20:05:38.647883+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "frase viral de Elon Musk",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "ELONEXACT",
-          "EXACTLY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T20:06:05.727545+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SPACEXIA",
-          "AI SAT",
-          "ELONIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T20:07:27.714102+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "religión",
-        "title": "La sorprendente conexión entre Hellín y la visita del Papa León XIV - El Digital de Albacete",
-        "candidate_tickers": [
-          "PapaLeón14",
-          "Hellín",
-          "Barcelona",
-          "AmorGuerra"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T22:21:16.226531+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "67b6798f64b9",
-        "score": 88,
-        "category": "política internacional",
-        "title": "US military says it’s striking ‘multiple targets’ in Iran in latest escalation of tensions - AP News",
-        "candidate_tickers": [
-          "IRAN",
-          "TENSION",
-          "INFLACIÓN",
-          "GUERRA",
-          "ESCALADA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-10T22:21:55.441866+00:00",
       "kind": "shadow",
       "payload": {
@@ -28296,6 +28237,63 @@
           "KEEGAN75",
           "FÚTBOLFALLECE",
           "CÁNCERFÚTBOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T20:45:55.050546+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Who's in the cabinet?",
+        "candidate_tickers": [
+          "AndyBurnham",
+          "ReinoUnido",
+          "nuevo primer ministro"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T20:47:57.741599+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Sen. Darline Graham will run for full term to replace brother Lindsey - Politico",
+        "candidate_tickers": [
+          "DarlineGraham",
+          "LindseyGraham",
+          "MainePolitics"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T20:48:54.641584+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "40bfa03583ad",
+        "score": 84,
+        "category": "Tecnología",
+        "title": "Try Grok 4.5!",
+        "candidate_tickers": [
+          "GROK",
+          "GROK45",
+          "TRYGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T20:49:35.583020+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y Ciencia",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
         ]
       }
     }
