@@ -1,40 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T01:40:18.833823+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "18b8f96a3a4f",
-        "ticker": "ENOUGH",
-        "mint": "b8mCYh9psBHCw5L5YZZTJgRuVcaDBd1zZD8TK1Cpump",
-        "mc": 10413.0
-      }
-    },
-    {
-      "ts": "2026-06-10T06:11:09.137980+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0ac7dd1e89a5",
-        "score": 70,
-        "category": "política",
-        "title": "Only Restore Britain can save Britain.",
-        "candidate_tickers": [
-          "RESTOREBRITAIN",
-          "ONLYRESTORE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T06:14:29.620817+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0ac7dd1e89a5",
-        "ticker": "BRITAIN",
-        "mint": "7tNviT7hyPL8ZBxd68rMZ12TMDyUXmeSpHQruzLepump",
-        "mc": 99595.0
-      }
-    },
-    {
       "ts": "2026-06-10T10:37:24.671115+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28285,6 +28251,47 @@
         "candidate_tickers": [
           "FÚTBOLFIASCO",
           "ELONMUSKMEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T10:35:58.988409+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "finanzas, riesgo, bolsa de valores",
+        "title": "'I couldn't breathe': South Korea's frenzied stock trading exposes margin loan risks - Reuters",
+        "candidate_tickers": [
+          "FUTRONIC",
+          "BKST",
+          "KRX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T10:37:07.442115+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da0087983212",
+        "score": 86,
+        "category": "Celebridad y contenido viral",
+        "title": "xcancel.com/i/jf/soccer/league/mat…",
+        "candidate_tickers": [
+          "XCANCEL",
+          "ELONMUSKSOCCER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T10:37:49.751579+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y redes sociales",
+        "title": "Try Grok 4.5!",
+        "candidate_tickers": [
+          "GROK",
+          "TRYGROK"
         ]
       }
     }
