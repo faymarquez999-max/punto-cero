@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-10T10:37:24.671115+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "afdb986c8015",
-        "score": 80,
-        "category": "política internacional",
-        "title": "We must stop harbouring those who wish to decapitate children.",
-        "candidate_tickers": [
-          "IRANUS",
-          "HELICOPTERDOWN",
-          "TRUMPSTRIKE",
-          "RETALIATION",
-          "APACHEHELICOPTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T10:38:09.312435+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Noticias de crímenes y violencia",
-        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-        "candidate_tickers": [
-          "SAfricaMassacre",
-          "JohannesburgoMasacre",
-          "SudáfricaNoticias"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T10:38:52.100279+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Deportes",
-        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-        "candidate_tickers": [
-          "SomaliaRef",
-          "CopaMundialInjusticia",
-          "ÁrbitroDenegado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T10:39:39.511503+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Deportes",
-        "title": "New York man’s high school yearbook prediction goes viral as Knicks reach 2026 NBA Finals - Audacy",
-        "candidate_tickers": [
-          "NYK",
-          "Knicks",
-          "NBA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-10T10:41:08.184305+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c9edd17803b8",
-        "score": 74,
-        "category": "Política y conflicto",
-        "title": "Anti-immigration protests break out in Belfast after knife attack",
-        "candidate_tickers": [
-          "BELFASTPROTESTS",
-          "ANTIIMMIGRATIONPROTESTS",
-          "KNIFEATTACK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-10T10:41:34.360424+00:00",
       "kind": "shadow",
       "payload": {
@@ -28292,6 +28218,80 @@
         "candidate_tickers": [
           "GROK",
           "TRYGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T12:58:40.679495+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "Massie",
+          "Trump",
+          "PerroMuerto"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T12:59:08.666942+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4c1ec3dafdcc",
+        "score": 80,
+        "category": " política",
+        "title": "HOUTHIS ANNOUNCES 'SEA NAVIGATION BAN' ON SAUDI ARABIA",
+        "candidate_tickers": [
+          "HOUTHIS",
+          "BLOQUEO NAVAL",
+          "ARABIA SAUDITA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T13:01:17.874785+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "410638b377b2",
+        "score": 79,
+        "category": "fútbol",
+        "title": "Spain 1 - 0 Argentina",
+        "candidate_tickers": [
+          "ESPVSARG",
+          "LAROJAGANÓ",
+          "MUNDIAL2023"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T13:03:10.211265+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "06a5a35ba841",
+        "score": 90,
+        "category": "política internacional",
+        "title": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News",
+        "candidate_tickers": [
+          "IRAN",
+          "US",
+          "GULF",
+          "BOMBING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-20T13:03:54.710292+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Finanzas",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings - Yahoo Finance",
+        "candidate_tickers": [
+          "BIG TECH",
+          "PETRÓLEO",
+          "FUTUROS"
         ]
       }
     }
