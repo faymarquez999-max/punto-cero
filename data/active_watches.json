@@ -1,204 +1,6 @@
 {
   "watches": [
     {
-      "id": "260014ba1d69",
-      "fingerprint": "260014ba1d69",
-      "narrative_summary": "Hallazgo de más de 100 perros muertos en un refugio para animales en California, con acusaciones de abuso.",
-      "why_memeable": "La combinación de la noticia impactante con la presencia de animales y la posibilidad de abuso genera una carga emocional fuerte y un potencial para la creación de memes.",
-      "category": "Noticias de animales",
-      "matched_archetype": "injusticia_con_villano_y_victima",
-      "candidate_tickers": [
-        "PERROS",
-        "ABUSO",
-        "REFUGIO",
-        "CALIFORNIA",
-        "ANIMALRES",
-        "PERROSMUERTOS"
-      ],
-      "key_terms_for_dex_search": [
-        "perros muertos",
-        "abuso animal",
-        "refugio california",
-        "noticias animales"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 9,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-08T04:37:39.691730+00:00",
-      "expires_at": "2026-07-11T04:37:39.691730+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Chainlink: Shocking details emerge about",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-11T07:01:13.908091+00:00"
-    },
-    {
-      "id": "1cce78006215",
-      "fingerprint": "1cce78006215",
-      "narrative_summary": "Nigel Farage anuncia su renuncia como diputado para desencadenar una elección por voto, lo que genera controversia y debate en el Reino Unido.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'David vs Goliath' y un elemento de sorpresa con la renuncia de Farage.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FARAGE",
-        "CLACTON",
-        "BY-ELECTION"
-      ],
-      "key_terms_for_dex_search": [
-        "Farage",
-        "Clacton",
-        "By-election",
-        "Reino Unido",
-        "política"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-08T04:39:07.680860+00:00",
-      "expires_at": "2026-07-10T04:39:07.680860+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-10T05:44:11.223617+00:00"
-    },
-    {
-      "id": "63ac44980910",
-      "fingerprint": "63ac44980910",
-      "narrative_summary": "Listas de los mejores monedas de meme para invertir en 2026, según diferentes fuentes",
-      "why_memeable": "La narrativa tiene un núcleo claro y repetible, con diferentes fuentes que comparten la misma información",
-      "category": "criptomonedas, meme coins",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XRP",
-        "MEMETORO",
-        "BEST MEME COINS",
-        "TOP 5 CRYPTO MEME COINS"
-      ],
-      "key_terms_for_dex_search": [
-        "XRP",
-        "MemeToro",
-        "Best Meme Coins",
-        "Top 5 Crypto Meme Coins",
-        "2026",
-        "criptomonedas",
-        "meme coins"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 2,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-08T04:39:49.526360+00:00",
-      "expires_at": "2026-07-10T04:39:49.526360+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214382.0,
-        "liquidity_usd": 134085.11,
-        "price_usd": 1.33,
-        "volume_h24": 103706.81,
-        "volume_h1": 20862.95,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -2.52,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 18229,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2551",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-08T07:23:55.975129+00:00"
-    },
-    {
       "id": "0c8a4c29d148",
       "fingerprint": "0c8a4c29d148",
       "narrative_summary": "Edificios de Nueva York evacuados debido a columnas que se están doblando en Midtown East; oficiales advierten de posible colapso",
@@ -8888,14 +8690,15 @@
       "started_at": "2026-07-19T04:05:06.318369+00:00",
       "expires_at": "2026-07-21T04:05:06.318369+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump threatens Canada over wildfire smoke choking U.S. cities - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-21T06:37:08.896642+00:00"
     },
     {
       "id": "53f4f3ccd498",
@@ -10900,7 +10703,143 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "19f5c4b83369",
+      "fingerprint": "19f5c4b83369",
+      "narrative_summary": "Andy Burnham se convierte en el séptimo primer ministro británico en una década después de que Starmer renuncie",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácilmente compartible, con un tema de cambio de liderazgo político",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ANDYBURNHAM",
+        "SÉPTIMOPM",
+        "RENUNCIASTARMER"
+      ],
+      "key_terms_for_dex_search": [
+        "AndyBurnham",
+        "SéptimoPM",
+        "RenunciaStarmer",
+        "política",
+        "ReinoUnido"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-21T06:37:24.779442+00:00",
+      "expires_at": "2026-07-24T06:37:24.779442+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "X is where all the real voices matter. You could never do this on Instagram.",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4d732659dcdd",
+      "fingerprint": "4d732659dcdd",
+      "narrative_summary": "Múltiples perros encontrados muertos en vehículos en estacionamientos de ciudades de EE. UU.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto contenido visual.",
+      "category": "Noticias de animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "PERROSMUERTOS",
+        "DOGSINCAR",
+        "ACCIDENTEANIMAL"
+      ],
+      "key_terms_for_dex_search": [
+        "perros",
+        "muertos",
+        "estacionamiento",
+        "EE.UU.",
+        "accidente"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 6
+      },
+      "started_at": "2026-07-21T06:39:14.178518+00:00",
+      "expires_at": "2026-07-24T06:39:14.178518+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "As many as 3 dogs found dead in car in downtown San Antonio parking lot, officials say - kens5.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4b3d25613f93",
+      "fingerprint": "4b3d25613f93",
+      "narrative_summary": "Elon Musk confirma la cancelación de Twitter con un simple 'sí'",
+      "why_memeable": "La simplicidad y la claridad de la respuesta de Elon Musk hacen que sea muy fácil de compartir y recordar.",
+      "category": "Tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "TWITTER"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "twitter",
+        "cancelación"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 0,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-21T06:42:21.770100+00:00",
+      "expires_at": "2026-07-23T06:42:21.770100+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-21T03:54:29.893234+00:00"
+  "last_updated": "2026-07-21T06:42:21.770100+00:00"
 }

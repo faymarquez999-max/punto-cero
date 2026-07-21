@@ -1,63 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T04:55:48.149217+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "25237092e807",
-        "score": 80,
-        "category": "Finanzas y Tecnología",
-        "title": "SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg",
-        "candidate_tickers": [
-          "MUSK",
-          "SPACEX",
-          "IPOFRENZY",
-          "MUSKFANS",
-          "SPACEXTOOMOON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T04:58:35.315306+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2f59f5188b71",
-        "ticker": "ELON",
-        "mint": "BqYJQ6hVYxYzGrSbUyXy52oP6aFduq1PRxUVSrFtuDgz",
-        "mc": 31769.0
-      }
-    },
-    {
-      "ts": "2026-06-11T04:58:47.992295+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "427c6e38e02a",
-        "ticker": "KNICKS",
-        "mint": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
-        "mc": 81025.0
-      }
-    },
-    {
-      "ts": "2026-06-11T04:58:49.865209+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "07ef6591ba06",
-        "ticker": "OPAI",
-        "mint": "3bGdt75UBdXcCenjdig26ZFQTSzWsKrvG8mFEbSJpump",
-        "mc": 32733.0
-      }
-    },
-    {
-      "ts": "2026-06-11T04:58:51.602742+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "25237092e807",
-        "ticker": "FU",
-        "mint": "6x61MPqUz19ktKsmfyejSGiU9L38uyzQL1Riv3ZXpump",
-        "mc": 14330.0
-      }
-    },
-    {
       "ts": "2026-06-11T13:07:45.506835+00:00",
       "kind": "shadow",
       "payload": {
@@ -28261,6 +28204,81 @@
         "candidate_tickers": [
           "GROK",
           "GROK4.5"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T06:37:25.219994+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "19f5c4b83369",
+        "score": 80,
+        "category": "política",
+        "title": "X is where all the real voices matter. You could never do this on Instagram.",
+        "candidate_tickers": [
+          "ANDYBURNHAM",
+          "SÉPTIMOPM",
+          "RENUNCIASTARMER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T06:39:14.630651+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4d732659dcdd",
+        "score": 80,
+        "category": "Noticias de animales",
+        "title": "As many as 3 dogs found dead in car in downtown San Antonio parking lot, officials say - kens5.com",
+        "candidate_tickers": [
+          "PERROSMUERTOS",
+          "DOGSINCAR",
+          "ACCIDENTEANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T06:41:02.381389+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "política internacional",
+        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
+        "candidate_tickers": [
+          "Houthis",
+          "Yemen",
+          "Irán",
+          "Saudi Arabia",
+          "Blockade"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T06:41:37.385122+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Deportes",
+        "title": "Messi says Argentina's defeat by Spain left immense pain - Reuters",
+        "candidate_tickers": [
+          "MessiPain",
+          "ArgentinaDerrota",
+          "DolorDeMessi"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T06:42:22.157020+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4b3d25613f93",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "TWITTER"
         ]
       }
     }
