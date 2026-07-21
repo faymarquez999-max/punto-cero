@@ -6618,7 +6618,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 22
+      "scan_attempts": 23
     },
     {
       "id": "2a461f0b425f",
@@ -7364,14 +7364,15 @@
       "started_at": "2026-07-18T21:00:59.949039+00:00",
       "expires_at": "2026-07-21T21:00:59.949039+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-07-21T23:36:10.294282+00:00"
     },
     {
       "id": "fbdf0a3fcde4",
@@ -7822,7 +7823,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "ac0140647bcd",
@@ -8025,7 +8026,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "20083df6e682",
@@ -8533,7 +8534,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "751a1efcdb5a",
@@ -8788,7 +8789,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "dee14f7655ef",
@@ -8914,7 +8915,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "1f9767300210",
@@ -9474,7 +9475,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "6e3bfb507f49",
@@ -9513,14 +9514,15 @@
       "started_at": "2026-07-19T23:17:01.625983+00:00",
       "expires_at": "2026-07-21T23:17:01.625983+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-21T23:36:10.294300+00:00"
     },
     {
       "id": "2110597bbbed",
@@ -9568,7 +9570,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "4734835735f7",
@@ -9610,7 +9612,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "f3b5b57607cc",
@@ -9654,7 +9656,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "04d50969c6dd",
@@ -9700,7 +9702,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "a6b6467aaec1",
@@ -9736,13 +9738,50 @@
       "started_at": "2026-07-20T04:29:08.682215+00:00",
       "expires_at": "2026-07-22T04:29:08.682215+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Official Elon Musk",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 93233.0,
+        "liquidity_usd": 26854.91,
+        "price_usd": 9.323e-05,
+        "volume_h24": 184304.76,
+        "volume_h1": 184304.76,
+        "volume_m5": 79607.87,
+        "price_change_5m": 40.86,
+        "price_change_1h": 100.0,
+        "price_change_24h": 100.0,
+        "txns_h1_buys": 1980,
+        "txns_h1_sells": 1369,
+        "created_ts": 1784676442000,
+        "pair_created_at": 1784676442000,
+        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "xcancel.com/i/jf/soccer/league/mat…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10,
+      "matched_at": "2026-07-21T23:41:02.130432+00:00"
     },
     {
       "id": "0ba841616101",
@@ -9792,7 +9831,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3768c04d3eb2",
@@ -9838,7 +9877,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c39dd9b77d6d",
@@ -9885,7 +9924,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "cac3801c7b2e",
@@ -9927,7 +9966,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "da0087983212",
@@ -9969,7 +10008,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "ccfde153f0bc",
@@ -10019,7 +10058,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "cd9008583505",
@@ -10063,7 +10102,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3069029a4bbc",
@@ -10111,7 +10150,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0ccdd75b442e",
@@ -10154,7 +10193,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "19f5c4b83369",
@@ -10201,7 +10240,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4d732659dcdd",
@@ -10247,7 +10286,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4b3d25613f93",
@@ -10363,7 +10402,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4dedfdd02ad6",
@@ -10405,7 +10444,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c072a923f827",
@@ -10441,13 +10480,50 @@
       "started_at": "2026-07-21T09:21:15.357138+00:00",
       "expires_at": "2026-07-23T09:21:15.357138+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Official Elon Musk",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 93094.0,
+        "liquidity_usd": 26854.97,
+        "price_usd": 9.309e-05,
+        "volume_h24": 192403.99,
+        "volume_h1": 192403.99,
+        "volume_m5": 72176.75,
+        "price_change_5m": 45.57,
+        "price_change_1h": 100.0,
+        "price_change_24h": 100.0,
+        "txns_h1_buys": 2036,
+        "txns_h1_sells": 1411,
+        "created_ts": 1784676442000,
+        "pair_created_at": 1784676442000,
+        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Grok Imagine ❣️",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-07-21T23:41:18.818459+00:00"
     },
     {
       "id": "a44756f624ed",
@@ -10491,7 +10567,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "08a70a4f75a3",
@@ -10604,7 +10680,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "bece76f87480",
@@ -10649,7 +10725,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b806554fb285",
@@ -10833,7 +10909,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9761337d37af",
@@ -10939,14 +11015,51 @@
       "started_at": "2026-07-21T20:01:09.756840+00:00",
       "expires_at": "2026-07-23T20:01:09.756840+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Official Elon Musk",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 93094.0,
+        "liquidity_usd": 26854.97,
+        "price_usd": 9.309e-05,
+        "volume_h24": 192403.99,
+        "volume_h1": 192403.99,
+        "volume_m5": 72176.75,
+        "price_change_5m": 45.57,
+        "price_change_1h": 100.0,
+        "price_change_24h": 100.0,
+        "txns_h1_buys": 2036,
+        "txns_h1_sells": 1411,
+        "created_ts": 1784676442000,
+        "pair_created_at": 1784676442000,
+        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Grok Imagine ❣️",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-21T23:41:25.008821+00:00"
     }
   ],
-  "last_updated": "2026-07-21T20:01:09.756840+00:00"
+  "last_updated": "2026-07-21T23:41:25.008838+00:00"
 }

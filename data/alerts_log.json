@@ -1,45 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T20:36:08.354127+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "humor absurdo",
-        "title": "Mom Goes Viral for Accidental NSFW 8th Birthday Cake - People.com",
-        "candidate_tickers": [
-          "NSFWcake",
-          "AccidentalCake",
-          "ViralMom"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T20:36:14.060107+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "30901d4a4794",
-        "ticker": "SPCX",
-        "mint": "26YRpwvWhTSBSAkQbhNP6AXBNrJe8uRxibAn7ZXXpump",
-        "mc": 23646.0
-      }
-    },
-    {
-      "ts": "2026-06-12T22:13:01.172549+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "82bde9153005",
-        "score": 84,
-        "category": "Noticias de criptomonedas",
-        "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
-        "candidate_tickers": [
-          "SBF",
-          "FRAUDMAN",
-          "CRYPTOFAIL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T22:13:50.421216+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28265,6 +28226,36 @@
           "INFLUENCERSARRESTADOS",
           "MIAMI"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-21T23:41:02.144525+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a6b6467aaec1",
+        "ticker": "ELON",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "mc": 93233.0
+      }
+    },
+    {
+      "ts": "2026-07-21T23:41:18.825753+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c072a923f827",
+        "ticker": "ELON",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "mc": 93094.0
+      }
+    },
+    {
+      "ts": "2026-07-21T23:41:25.015579+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3a1fa77e216f",
+        "ticker": "ELON",
+        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
+        "mc": 93094.0
       }
     }
   ]
