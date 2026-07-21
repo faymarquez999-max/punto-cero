@@ -1,103 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T22:11:16.280781+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Noticias",
-        "title": "Ryanair investigated over charging parents to sit with children",
-        "candidate_tickers": [
-          "Ryanair",
-          "RyanairGate",
-          "PadresVsRyanair"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T22:12:03.344158+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d39ddf608e01",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Mexico opens World Cup with passion, parties and protests - Reuters",
-        "candidate_tickers": [
-          "MEXICO",
-          "FUTBOL",
-          "PROTESTAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T22:12:33.759424+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters",
-        "candidate_tickers": [
-          "UKDEF",
-          "STARMER",
-          "MELONI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T22:12:59.508741+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b3f496d61edb",
-        "score": 80,
-        "category": "misterio",
-        "title": "US authorities investigate huge '8647' marking on grounds of National Mall in Washington - Reuters",
-        "candidate_tickers": [
-          "#NATIONALMALL",
-          "#8647",
-          "#WASHINGTON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T23:57:53.364436+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "50b462e31942",
-        "score": 88,
-        "category": "Tecnología",
-        "title": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters",
-        "candidate_tickers": [
-          "MUSKTRILLIONARIO",
-          "SPACEXIPO",
-          "BILLONARIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T23:58:17.620058+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
-        "candidate_tickers": [
-          "UKDEF",
-          "DEFMIN",
-          "HEALEY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T00:02:15.422155+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "50b462e31942",
-        "ticker": "SPACEXIPO",
-        "mint": "4Nvm9o7UfQgHaDu7YfvwNFi3UuSpqEukohhS1cBPpump",
-        "mc": 73349.0
-      }
-    },
-    {
       "ts": "2026-06-12T08:56:19.907077+00:00",
       "kind": "shadow",
       "payload": {
@@ -28267,6 +28170,98 @@
         "ticker": "YUKI",
         "mint": "3v2ekTxcn6voD4RDzhwaf5z1VXFxGBxoUKEWZRfBpump",
         "mc": 80302.0
+      }
+    },
+    {
+      "ts": "2026-07-21T12:59:36.985529+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bece76f87480",
+        "score": 70,
+        "category": "Negocios y Finanzas",
+        "title": "Novo Nordisk sues Eli Lilly, accusing it of false advertising - Reuters",
+        "candidate_tickers": [
+          "NORDISKVSLLY",
+          "ELIVSNORDISK",
+          "FALSEADS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T13:00:36.783138+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b806554fb285",
+        "score": 72,
+        "category": "política",
+        "title": "Charlie Kirk conspiracy theories are devoid of fact: Radio host | Katie Pavlich Tonight - NewsNation",
+        "candidate_tickers": [
+          "KIRK",
+          "CONSPIRACIÓN",
+          "NEWSNATION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T13:01:03.590346+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a27dd505f34c",
+        "score": 84,
+        "category": "tech",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSKYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T13:02:13.551924+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T13:02:34.484226+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 63,
+        "category": "política",
+        "title": "SIRENS SOUND IN BAHRAIN - INTERIOR MINISTRY",
+        "candidate_tickers": [
+          "BAHRAIN",
+          "SIRENAS",
+          "MINISTERIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T13:04:21.870598+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b806554fb285",
+        "ticker": "Kirkslop",
+        "mint": "8m5hzX9hprtWwPuVZL4daCZfggWYKc6fhSJDDpiqpump",
+        "mc": 62910.0
+      }
+    },
+    {
+      "ts": "2026-07-21T13:04:23.469458+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a27dd505f34c",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 271416.0
       }
     }
   ]
