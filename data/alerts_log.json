@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T18:20:30.137101+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ba6ce2cdc21c",
-        "score": 88,
-        "category": "política",
-        "title": "Exclusive: US military rushed to prepare ground mission to capture Iran’s uranium, but Trump paused it, sources say - CNN",
-        "candidate_tickers": [
-          "TRUMP_SUSPENDE",
-          "URANIO_DE_IRAN",
-          "MISION_DE_CAPTURA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T20:31:24.933262+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28265,6 +28250,20 @@
         "candidate_tickers": [
           "GROK",
           "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T21:23:59.985125+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f74493024839",
+        "score": 83,
+        "category": "Tecnología",
+        "title": "And Miami",
+        "candidate_tickers": [
+          "ANDMIAMI",
+          "ELONMUSKMIAMI"
         ]
       }
     }
