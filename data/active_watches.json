@@ -7202,7 +7202,7 @@
       "started_at": "2026-07-17T23:12:23.609375+00:00",
       "expires_at": "2026-07-20T23:12:23.609375+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
       "cluster_sources": [
@@ -7211,7 +7211,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-21T00:13:54.708979+00:00"
     },
     {
       "id": "0631ceb275d6",
