@@ -1,101 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T17:06:31.381753+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Finanzas/Tecnología",
-        "title": "SpaceX IPO draws more than $70 billion in retail orders, Bloomberg News reports - Reuters",
-        "candidate_tickers": [
-          "SPACX",
-          "IPO",
-          "BLOOMBERG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T17:07:09.223578+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3b6997de4867",
-        "score": 80,
-        "category": "clima",
-        "title": "El Nino is here and scientists fear it’ll be big, bad and costly with heat, floods, droughts, fires - AP News",
-        "candidate_tickers": [
-          "ELNINO",
-          "CLIMA",
-          "INUNDACIONES",
-          "SEQUÍAS",
-          "INCENDIOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T17:08:08.256918+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "meme de Elon Musk",
-        "title": "Based Grok 🤣🤣 xcancel.com/i/grok/share/32212cc49…",
-        "candidate_tickers": [
-          "GROK",
-          "BASEDGROK",
-          "ELONGROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T17:09:24.159407+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f3d4b8e8eccd",
-        "ticker": "MIM",
-        "mint": "89BZ5RU212yKr3iFdJHyn3ZsR37bS4s8TbmVb2yApump",
-        "mc": 339587.0
-      }
-    },
-    {
-      "ts": "2026-06-11T17:09:28.701117+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3b6997de4867",
-        "ticker": "ElNiño",
-        "mint": "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump",
-        "mc": 65746.0
-      }
-    },
-    {
-      "ts": "2026-06-11T19:49:44.720673+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "982902ae070a",
-        "score": 88,
-        "category": "política",
-        "title": "WTF 🤬: UK JUSTICE IS DEAD: Protestors Jailed Longer Than Black Illegal Migrant Rapist!",
-        "candidate_tickers": [
-          "UK_INJUSTICE",
-          "JUSTICE_IS_DEAD",
-          "PROTESTORS_VS_RAPIST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T19:53:20.632639+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "05a29aac9c07",
-        "score": 82,
-        "category": "Finanzas y Negocios",
-        "title": "SpaceX IPO draws more than $70 billion in retail orders, Bloomberg News reports - Reuters",
-        "candidate_tickers": [
-          "SPACEX",
-          "MUSK",
-          "IPO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-11T22:11:16.280781+00:00",
       "kind": "shadow",
       "payload": {
@@ -28268,6 +28173,100 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 278119.0
+      }
+    },
+    {
+      "ts": "2026-07-21T11:28:04.381241+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a44756f624ed",
+        "score": 74,
+        "category": "política",
+        "title": "KASH PATEL IS PLANNING A TRIP TO RUSSIA",
+        "candidate_tickers": [
+          "KASHRUSSIA",
+          "PATELRUSSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:29:23.511022+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "tecnología, recomendaciones",
+        "title": "Try Grok Build, it’s awesome! X.ai/cli",
+        "candidate_tickers": [
+          "GROK",
+          "XAICLI",
+          "TRYGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:29:51.433286+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:30:34.047882+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "08a70a4f75a3",
+        "score": 82,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:30:56.929098+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7838dd7433d7",
+        "score": 74,
+        "category": "eventos internacionales",
+        "title": "SIRENS SOUND IN BAHRAIN - INTERIOR MINISTRY",
+        "candidate_tickers": [
+          "BAHRAIN",
+          "SIRENAS",
+          "BAHRAINALERTA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:31:24.843885+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "política internacional",
+        "title": "TURKEY HOLDS UP NATO’S €27B FUEL PIPELINE REVAMP DEAL - POLITICO",
+        "candidate_tickers": [
+          "TURKEYBLOCKS",
+          "NATOPIPELINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T11:32:09.378773+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "08a70a4f75a3",
+        "ticker": "YUKI",
+        "mint": "3v2ekTxcn6voD4RDzhwaf5z1VXFxGBxoUKEWZRfBpump",
+        "mc": 80302.0
       }
     }
   ]
