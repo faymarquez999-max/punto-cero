@@ -1,54 +1,6 @@
 {
   "watches": [
     {
-      "id": "fbd19b10a3df",
-      "fingerprint": "fbd19b10a3df",
-      "narrative_summary": "Noticias variadas de política, violencia y escándalos en EE. UU.",
-      "why_memeable": "La combinación de noticias impactantes y la presencia de figuras políticas conocidas como Trump ofrecen un caldo de cultivo para la creación de memes",
-      "category": "Política y Escándalos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "GME",
-        "SCANDAL",
-        "USA"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Escándalo",
-        "Política",
-        "EE. UU."
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-09T07:46:37.071922+00:00",
-      "expires_at": "2026-07-12T07:46:37.071922+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "/GME/ - Comfy Monday After-hours and Late Night Edition",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-07-12T10:46:17.395113+00:00"
-    },
-    {
       "id": "98c200bf0c8c",
       "fingerprint": "98c200bf0c8c",
       "narrative_summary": "Link marines held 9 años por esta razón",
@@ -10952,7 +10904,49 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-21T15:17:42.122424+00:00"
+    },
+    {
+      "id": "3a1fa77e216f",
+      "fingerprint": "3a1fa77e216f",
+      "narrative_summary": "Elon Musk compartió un meme llamado 'Grok Imagine' que ha generado mucha atención en las redes sociales.",
+      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, y el hecho de que la compartió Elon Musk la hace más viral.",
+      "category": "meme compartido por una figura influyente",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "IMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "IMAGINE",
+        "ELON MUSK"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-07-21T20:01:09.756840+00:00",
+      "expires_at": "2026-07-23T20:01:09.756840+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine ❣️",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-21T15:17:42.122441+00:00"
+  "last_updated": "2026-07-21T20:01:09.756840+00:00"
 }

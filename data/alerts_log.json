@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T18:19:41.992200+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "53e430bfea7e",
-        "score": 74,
-        "category": "fraude criptográfico",
-        "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
-        "candidate_tickers": [
-          "SBF",
-          "BANKMANFRIED",
-          "FTX"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T18:20:30.137101+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28262,6 +28247,20 @@
       "payload": {
         "score": 60,
         "category": "meme de Twitter",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T20:01:10.382040+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3a1fa77e216f",
+        "score": 70,
+        "category": "meme compartido por una figura influyente",
         "title": "Grok Imagine ❣️",
         "candidate_tickers": [
           "GROK",
