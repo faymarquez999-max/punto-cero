@@ -1,34 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T15:53:02.878914+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "negocios",
-        "title": "“It is certainly hard to believe that a little company that started in a warehouse in El Segundo is now going public with the largest IPO ever.”",
-        "candidate_tickers": [
-          "IPO",
-          "ElSegundo",
-          "negocio"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T18:17:35.390653+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Arte y Cultura",
-        "title": "David Hockney, iconic British artist known for his colorful landscapes and pool scenes, dies at 88 - AP News",
-        "candidate_tickers": [
-          "Hockney88",
-          "DavidHockneyMuerte",
-          "ArtistaFamosoFallece"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T18:19:41.992200+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28267,6 +28239,33 @@
           "KAZOIL",
           "CPCSTOP",
           "PETROATTACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T18:05:55.309301+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "JUST IN - Trump declares that Netanyahu will not be arrested in the U.S. for any reason.",
+        "candidate_tickers": [
+          "TRUMPNETANYAHU",
+          "TRUMPDECLARA",
+          "NETANYAHUARRESTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T18:08:33.080613+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "meme de Twitter",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
         ]
       }
     }
