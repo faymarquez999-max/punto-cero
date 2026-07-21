@@ -1,69 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T12:29:50.071226+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9679a3604dc9",
-        "score": 73,
-        "category": "medio ambiente",
-        "title": "El Nino is here and scientists fear it’ll be big, bad and costly with heat, floods, droughts, fires - AP News",
-        "candidate_tickers": [
-          "ELNIÑO",
-          "CALOR",
-          "INUNDACIONES",
-          "SEQUÍAS",
-          "INCENDIOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:30:10.379605+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fff7031d37b8",
-        "score": 78,
-        "category": "Deportes",
-        "title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
-        "candidate_tickers": [
-          "KNICKS",
-          "SPURS",
-          "NBA",
-          "FINALS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:30:44.717685+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5661367fd01a",
-        "ticker": "ELON",
-        "mint": "8fiegpuKk3YqtSERRvrheDU5ryTZeZzGynkRfK5zpump",
-        "mc": 15495.0
-      }
-    },
-    {
-      "ts": "2026-06-12T12:30:47.303293+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9679a3604dc9",
-        "ticker": "ElNiño",
-        "mint": "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump",
-        "mc": 71492.0
-      }
-    },
-    {
-      "ts": "2026-06-12T12:30:49.560741+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fff7031d37b8",
-        "ticker": "KNICKS",
-        "mint": "A3F7JL4eEG9YvXkqfqvQimncGmGvArZgjVdHNqUrpump",
-        "mc": 58207.0
-      }
-    },
-    {
       "ts": "2026-06-12T15:53:02.878914+00:00",
       "kind": "shadow",
       "payload": {
@@ -28256,6 +28193,81 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 273156.0
+      }
+    },
+    {
+      "ts": "2026-07-21T16:48:52.172792+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "10f3a16a2cbd",
+        "score": 89,
+        "category": "Muerte de actriz joven en accidente de coche",
+        "title": "Kaylee Hottle has passed away in a car accident at age 18.",
+        "candidate_tickers": [
+          "KAYLEEHOTTLE",
+          "JIAGODZILLA",
+          "GODZILLAVSKONG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T16:49:37.878363+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c58b7abfd540",
+        "score": 82,
+        "category": "Política y Negocios",
+        "title": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
+        "candidate_tickers": [
+          "TRUMPVSMUSK",
+          "TRUMPVSELON",
+          "MUSKVSTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T16:50:15.226553+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Trump administration pauses $1 billion in Medicaid payments to California, Minnesota - Reuters",
+        "candidate_tickers": [
+          "TRUMP_MEDICAID",
+          "MEDICAID_PAUSED",
+          "CALIFORNIA_MEDICAID"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T16:50:46.895642+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "05514a0d4885",
+        "score": 89,
+        "category": "crimen y justicia",
+        "title": "Murdered ex-UK minister Widdecombe was struck on head with hammer 21 times, court told - Reuters",
+        "candidate_tickers": [
+          "WIDDECOMBE",
+          "MARTILLO",
+          "DEVON",
+          "ATAQUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T16:51:27.806490+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c8c4bc05ba7a",
+        "score": 73,
+        "category": "energía y política",
+        "title": "CPC stops accepting Kazakh oil due to attacks on tankers, sources say - Reuters",
+        "candidate_tickers": [
+          "KAZOIL",
+          "CPCSTOP",
+          "PETROATTACK"
+        ]
       }
     }
   ]
