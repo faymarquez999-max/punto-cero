@@ -1,95 +1,6 @@
 {
   "watches": [
     {
-      "id": "9d8d2bc19fa1",
-      "fingerprint": "9d8d2bc19fa1",
-      "narrative_summary": "Elon Musk y Donald Trump en un conflicto verbal sobre la cobertura mediática",
-      "why_memeable": "El conflicto entre dos figuras públicas prominentes y su opinión sobre la cobertura mediática es un tema interesante y polémico",
-      "category": "política y celebridades",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "MUSKVSTRUMP",
-        "TRUMPVSMUSK",
-        "MUSKVSMEDIA"
-      ],
-      "key_terms_for_dex_search": [
-        "elonn musk",
-        "donald trump",
-        "cobertura mediática",
-        "conflicto verbal"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-07T22:39:07.695564+00:00",
-      "expires_at": "2026-07-09T22:39:07.695564+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Harvard professor appointed by White House to lead UFO study group - Boston 25 News",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-09T23:40:39.996436+00:00"
-    },
-    {
-      "id": "bc591f24a6d6",
-      "fingerprint": "bc591f24a6d6",
-      "narrative_summary": "Gas leak forces evacuations in San Marco and other locations",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La imagen de un gas leak es icónica y evoca una respuesta emocional.",
-      "category": "Accidente y emergencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GASLEAK",
-        "SANMARCO",
-        "EVACUATION"
-      ],
-      "key_terms_for_dex_search": [
-        "gas leak",
-        "evacuation",
-        "San Marco"
-      ],
-      "score": 73,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-07T22:40:12.374287+00:00",
-      "expires_at": "2026-07-09T22:40:12.374287+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Gas leak forces San Marco businesses to evacuate - firstcoastnews.com",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-09T23:40:39.996439+00:00"
-    },
-    {
       "id": "260014ba1d69",
       "fingerprint": "260014ba1d69",
       "narrative_summary": "Hallazgo de más de 100 perros muertos en un refugio para animales en California, con acusaciones de abuso.",
@@ -7367,7 +7278,7 @@
       "started_at": "2026-07-18T03:37:59.693886+00:00",
       "expires_at": "2026-07-21T03:37:59.693886+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -7376,7 +7287,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-07-21T03:51:40.608945+00:00"
     },
     {
       "id": "82d3dcdd7766",
@@ -7497,13 +7409,14 @@
       "started_at": "2026-07-18T03:41:24.913583+00:00",
       "expires_at": "2026-07-21T03:41:24.913583+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sting video | Police charge Mifflin County man with multiple felonies following online sting video - WGAL",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-07-21T03:51:40.608961+00:00"
     },
     {
       "id": "f8f77bc81c77",
@@ -10896,7 +10809,98 @@
         "nitter"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "3069029a4bbc",
+      "fingerprint": "3069029a4bbc",
+      "narrative_summary": "Ucrania dispara 400 drones hacia Moscú mientras Zelenskyy lucha con protestas",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, lo que la hace memeable",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA",
+        "DRONES",
+        "MOSCÚ",
+        "ZELENSKYY",
+        "PROTESTAS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Drones",
+        "Moscú",
+        "Zelenskyy",
+        "Protestas"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-21T03:53:12.213155+00:00",
+      "expires_at": "2026-07-25T03:53:12.213155+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0ccdd75b442e",
+      "fingerprint": "0ccdd75b442e",
+      "narrative_summary": "Elon Musk promociona a Grok 4.5 como una herramienta eficiente y asequible para React.",
+      "why_memeable": "La narrativa es memeable debido a la repetición de la palabra 'Grok' y la promoción de Elon Musk.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROK4.5"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "GROK4.5",
+        "ELONMUSK",
+        "REACT"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-21T03:54:29.893234+00:00",
+      "expires_at": "2026-07-24T03:54:29.893234+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-20T23:12:28.170229+00:00"
+  "last_updated": "2026-07-21T03:54:29.893234+00:00"
 }

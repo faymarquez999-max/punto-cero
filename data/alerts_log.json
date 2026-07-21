@@ -1,40 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T04:55:21.724634+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "427c6e38e02a",
-        "score": 80,
-        "category": "Deportes",
-        "title": "The New York Knicks made the greatest comeback in NBA Finals history tonight after being down 29 points.",
-        "candidate_tickers": [
-          "KNICKS",
-          "NBAUPSET",
-          "REBOUNDKINGS",
-          "NYKCOMEBACK",
-          "SPURSSTUNNED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T04:55:30.530821+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "07ef6591ba06",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports - Reuters",
-        "candidate_tickers": [
-          "AIWAR",
-          "PRICECUT",
-          "OPENAI",
-          "ANTHROPIC",
-          "TECHBRAWL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-11T04:55:48.149217+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28265,6 +28231,37 @@
         "ticker": "Tate",
         "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
         "mc": 132533.0
+      }
+    },
+    {
+      "ts": "2026-07-21T03:53:12.560000+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3069029a4bbc",
+        "score": 88,
+        "category": "Política",
+        "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News",
+        "candidate_tickers": [
+          "UCRANIA",
+          "DRONES",
+          "MOSCÚ",
+          "ZELENSKYY",
+          "PROTESTAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T03:54:30.297939+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0ccdd75b442e",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "Grok",
+        "candidate_tickers": [
+          "GROK",
+          "GROK4.5"
+        ]
       }
     }
   ]
