@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T20:31:24.933262+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "30901d4a4794",
-        "score": 80,
-        "category": "Finanzas y Tecnología",
-        "title": "I love the incredible people of SpaceX beyond words",
-        "candidate_tickers": [
-          "MUSK",
-          "SPCX",
-          "TRILLION",
-          "SPACE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T20:33:34.990623+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "Celebridad",
-        "title": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement - The New York Times",
-        "candidate_tickers": [
-          "LivelyWins",
-          "BaldoniLoses",
-          "CelebJustice"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T20:36:08.354127+00:00",
       "kind": "shadow",
       "payload": {
@@ -28264,6 +28234,36 @@
         "candidate_tickers": [
           "ANDMIAMI",
           "ELONMUSKMIAMI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T22:33:37.751857+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "233a8aef2051",
+        "score": 79,
+        "category": "maltrato animal",
+        "title": "Ithaca man arrested after breaking into apartment in Lansing - New York State Police (.gov)",
+        "candidate_tickers": [
+          "ITHACAMAN",
+          "MALTRATOANIMAL",
+          "ARRESTADOPORMALTRATO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T22:34:11.683358+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32ebf9599f79",
+        "score": 89,
+        "category": "Celebridad",
+        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP - AP News",
+        "candidate_tickers": [
+          "TATE",
+          "INFLUENCERSARRESTADOS",
+          "MIAMI"
         ]
       }
     }
