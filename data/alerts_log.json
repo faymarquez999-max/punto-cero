@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T08:56:19.907077+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Cine y entretenimiento",
-        "title": "‘Disclosure Day’ Review: Loving the alien - Vanyaland",
-        "candidate_tickers": [
-          "AliensVsReligion",
-          "DisclosureDay",
-          "SpielbergVsAliens"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:27:07.756811+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5661367fd01a",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "AI disclosure labels don’t hurt ad performance: Here’s what the numbers say - Marketing Dive",
-        "candidate_tickers": [
-          "TRUMUSK",
-          "MUSKTRUMP",
-          "MARALAGO",
-          "TWITPOTUS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:27:28.244329+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política",
-        "title": "54% OF EVANGELICALS SAY TRUMP’S USE OF MILITARY IN IRAN NOT IN LINE WITH THEIR CHRISTIAN VALUES WHILE 41% SAY IT IS, ACCORDING TO REUTERS/IPSOS POLL",
-        "candidate_tickers": [
-          "TrumpVsEvangelicals",
-          "IranDeal",
-          "TrumpVsChurch"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:27:51.701709+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5288eb4b60e4",
-        "score": 70,
-        "category": "Celebridad",
-        "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-        "candidate_tickers": [
-          "TAYLORSWIFT",
-          "SONGWRITERSHALLOFFAME",
-          "21MINUTESPEECH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T12:29:32.733555+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Política",
-        "title": "Myanmar detains US businessman who wrote about military coup, sources say - Reuters",
-        "candidate_tickers": [
-          "Myanmar",
-          "Golpe Militar",
-          "Detención",
-          "Empresario Estadounidense"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T12:29:50.071226+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28262,6 +28188,74 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 271416.0
+      }
+    },
+    {
+      "ts": "2026-07-21T15:14:06.366331+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "31a6a4e3c259",
+        "score": 78,
+        "category": "animal_cruelty",
+        "title": "Agency Proposes Beefing Up Disclosure for Patent Challengers - Bloomberg Law News",
+        "candidate_tickers": [
+          "ANIMALCRUELTY",
+          "CADÁVERESDEANIMALES",
+          "INJUSTICIACONANIMALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T15:15:56.343073+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "negocios",
+        "title": "EXCLUSIVE Boeing asks US to intervene over record EU loan to Airbus - Reuters",
+        "candidate_tickers": [
+          "BOEINGvsAIRBUS",
+          "EUloan",
+          "AIRBUSvsBOEING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T15:16:27.877588+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9761337d37af",
+        "score": 74,
+        "category": "Celebridad",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T15:17:14.506508+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE",
+          "GROKIMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T15:17:42.129000+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9761337d37af",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 273156.0
       }
     }
   ]
