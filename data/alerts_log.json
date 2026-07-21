@@ -1,85 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-11T13:07:45.506835+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "crimen y justicia",
-        "title": "Police officer, 19, dies from crash injuries",
-        "candidate_tickers": [
-          "arrestado",
-          "oficina de correos",
-          "policía",
-          "violencia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T13:09:16.536218+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "92cc882ae727",
-        "score": 88,
-        "category": "política",
-        "title": "UK defence minister Healey quits, says PM Starmer's plans fail to keep country safe - Reuters",
-        "candidate_tickers": [
-          "HEALEY",
-          "STARMER",
-          "UKDEFENSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T13:10:26.000058+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e83310607020",
-        "score": 74,
-        "category": "economía y política",
-        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps-up energy costs - CNBC",
-        "candidate_tickers": [
-          "ECB",
-          "IRÁN",
-          "GUERRA",
-          "TASAS DE INTERÉS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T17:05:03.766693+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f3d4b8e8eccd",
-        "score": 80,
-        "category": "Política y tecnología",
-        "title": "Ellisons Sell Redstone Family’s Movie Theaters In $30 Million Deal",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "IRANET",
-          "TRUMPNET",
-          "MUSKIRAN",
-          "ELONTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-11T17:05:39.038489+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "60cd7f68090d",
-        "score": 78,
-        "category": "política",
-        "title": "Why defence funding deal offered to Healey wasn't enough to keep him",
-        "candidate_tickers": [
-          "HEALEY",
-          "DEFENSA",
-          "PRESUPUESTO",
-          "DIMITE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-11T17:06:31.381753+00:00",
       "kind": "shadow",
       "payload": {
@@ -28280,6 +28201,73 @@
           "ELON",
           "TWITTER"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-21T09:19:42.669633+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "XRP",
+          "SOL",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T09:20:04.454489+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ae872f695648",
+        "score": 80,
+        "category": "violencia y conflicto",
+        "title": "Man stabs tourists near the Acropolis in Athens, Greece - AP News",
+        "candidate_tickers": [
+          "ACROPOLISATTACK",
+          "ATENASATACA",
+          "TURISTASATACADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T09:20:19.029108+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4dedfdd02ad6",
+        "score": 74,
+        "category": "Tecnología/Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "MUSKYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T09:21:15.821398+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c072a923f827",
+        "score": 70,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-21T09:24:05.268684+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4b3d25613f93",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 278119.0
       }
     }
   ]
