@@ -1,38 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T12:20:20.411308+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "15d155c15fd6",
-        "score": 78,
-        "category": "Política y Medio Ambiente",
-        "title": "Exclusive: Tata's iPhone parts factory contaminated farmland water, India pollution body alleges - Reuters",
-        "candidate_tickers": [
-          "TATAPOLLUTES",
-          "IPHONETOXIC",
-          "INDIAWATERCONTAMINATION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T12:20:42.944840+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c740467cbea6",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China - Xataka",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "FABLE",
-          "MYTHOS",
-          "AI",
-          "ESTADOS UNIDOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T12:22:53.940066+00:00",
       "kind": "shadow",
       "payload": {
@@ -28259,6 +28227,34 @@
         "ticker": "MG",
         "mint": "YwQF6HvXzJXB1HweKot5TqUZAaUas8V4tRvRUfnpump",
         "mc": 10350.0
+      }
+    },
+    {
+      "ts": "2026-07-22T18:52:59.055766+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Celebridad tributa a joven con discapacidad después de nombramiento de comandante en jefe de Ucrania",
+        "title": "'Devastated' Millie Bobby Brown leads Kaylee Hottle tributes - BBC",
+        "candidate_tickers": [
+          "KayleeHottle",
+          "MillieBobbyBrown",
+          "Drapatyi"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T18:53:38.021347+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0052d7ca4cfc",
+        "score": 80,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP_XCANCEL",
+          "XCANCEL_GATE"
+        ]
       }
     }
   ]
