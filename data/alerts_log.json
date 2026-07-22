@@ -1,39 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T12:23:23.430038+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "68c7ce637756",
-        "score": 89,
-        "category": "arte y cultura",
-        "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
-        "candidate_tickers": [
-          "HOCKNEY",
-          "DIVERSIDADSEXUAL",
-          "ARTEREVOLUTIONARIO",
-          "LEGADOHOCKNEY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T12:23:49.585729+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes",
-        "title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
-        "candidate_tickers": [
-          "Knicks",
-          "Spurs",
-          "NBA",
-          "Finales",
-          "Rally",
-          "Ganar"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T12:24:12.270246+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28256,6 +28223,30 @@
           "SAUDI_NUCLEAR",
           "TRUMP_CONTROVERSY"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-22T23:48:24.760321+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "humor y entretenimiento",
+        "title": "No threat of violence against my life is going to stop me from pushing for the SAVE America Act.",
+        "candidate_tickers": [
+          "VIRALVIDEOS",
+          "VIDEOSDIVERTIDOS",
+          "PERSONASYANIMALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T23:52:48.931534+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "df86e9fdd969",
+        "ticker": "IRAN",
+        "mint": "CGV1MvKLLMxsxnuwAokM7uW8arMf4SXpvrtu1noBnVUR",
+        "mc": 211070.0
       }
     }
   ]
