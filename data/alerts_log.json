@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T10:45:56.009084+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fe4847ca0ed4",
-        "score": 80,
-        "category": "animal_cruelty",
-        "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
-        "candidate_tickers": [
-          "EDSHEERAN",
-          "DISCOVIRAL",
-          "ANIMALCRUELTY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T10:46:32.065012+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1ccf8ac02145",
-        "score": 80,
-        "category": "política",
-        "title": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters",
-        "candidate_tickers": [
-          "TRENDEARAGUA",
-          "TRUMPARAGUA",
-          "ARAGUAGANG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T10:47:19.075180+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d2c2978f97ba",
-        "score": 80,
-        "category": "política internacional",
-        "title": "Exclusive: Iran sealed uranium cache and placed mines amid fears of US operation to seize material - CNN",
-        "candidate_tickers": [
-          "IRANURANIO",
-          "MINASENALMACEN",
-          "EEUUOPERACION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T12:19:52.835623+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política internacional",
-        "title": "Pakistan PM says US-Iran peace deal signing expected within 24 hours - Reuters",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "PAKISTAN",
-          "TRATADO_DE_PAZ"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T12:20:20.411308+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28264,6 +28204,61 @@
         "ticker": "AORP",
         "mint": "4e4ALfasM5PJkYvHBKbyTLPDcCUpLrTWNbN5n7Ub1vFM",
         "mc": 26516.0
+      }
+    },
+    {
+      "ts": "2026-07-22T16:05:24.978101+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bae6e41e825d",
+        "score": 80,
+        "category": "Tecnología y seguridad",
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+        "candidate_tickers": [
+          "ROGUEAI",
+          "OPENATTACK",
+          "AIRENEGA",
+          "CYBERODD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T16:06:50.173792+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1fb099c49b99",
+        "score": 85,
+        "category": "Tecnología y Negocios",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T16:07:17.534861+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "163042539924",
+        "score": 70,
+        "category": "tech",
+        "title": "Exactly",
+        "candidate_tickers": [
+          "EXACTLY",
+          "ELONMUSK",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T16:09:40.228329+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7a470f4c87cb",
+        "ticker": "MG",
+        "mint": "YwQF6HvXzJXB1HweKot5TqUZAaUas8V4tRvRUfnpump",
+        "mc": 10350.0
       }
     }
   ]
