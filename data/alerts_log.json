@@ -1,74 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T22:15:09.196944+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5fd9a81100b8",
-        "score": 80,
-        "category": "política",
-        "title": "Judge upholds order to remove Trump's name from Kennedy Center - Axios",
-        "candidate_tickers": [
-          "TRUMP",
-          "KENNEDY_CENTER",
-          "JUDGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T22:15:50.961189+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SPACEX",
-          "AI SAT",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T22:16:40.798326+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y innovación",
-        "title": "Another 29 sats to orbit!",
-        "candidate_tickers": [
-          "Sat29",
-          "Orbit29",
-          "SatsToOrbit"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T22:17:54.269219+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "82bde9153005",
-        "ticker": "SBF",
-        "mint": "9Nuzd5BZMfeiP2TSXXGqYcrtqYEyFkGoEbm39CB3pump",
-        "mc": 178295.0
-      }
-    },
-    {
-      "ts": "2026-06-12T23:57:08.134601+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7d3c35b627fa",
-        "score": 80,
-        "category": "Tecnología y Negocios",
-        "title": "I love the incredible people of SpaceX beyond words",
-        "candidate_tickers": [
-          "SPCX",
-          "MUSK",
-          "BILLONARIO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T23:57:32.768172+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28255,6 +28187,81 @@
           "AI_HACK",
           "OPENAI_ESCAPE",
           "HUGGING_FACE_HACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T04:38:24.130302+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "entretenimiento",
+        "title": "It will",
+        "candidate_tickers": [
+          "DisclosureDay",
+          "Spielberg2024",
+          "ItWill"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T04:39:05.420187+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c4896be56301",
+        "score": 90,
+        "category": "política",
+        "title": "The Governor of New Jersey just admitted that 6,600 non-citizens were registered to vote due to a “software error”.",
+        "candidate_tickers": [
+          "NJERROR",
+          "VOTOFALSO",
+          "GOBERNADORDECEPCIONA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T04:39:51.656245+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "00bea8c1c9b9",
+        "score": 70,
+        "category": "política",
+        "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District - Politico",
+        "candidate_tickers": [
+          "TRUMPWINS",
+          "FEELYWINS",
+          "ARIZONAGOP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T04:41:55.408732+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ddba5c0053c7",
+        "score": 78,
+        "category": "política internacional",
+        "title": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News",
+        "candidate_tickers": [
+          "GAZAMURO",
+          "MURODETIERRA",
+          "ISRAELVSGAZA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T04:42:29.447127+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6b5cc0e0d19c",
+        "score": 91,
+        "category": "política",
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "candidate_tickers": [
+          "ZELENSKY",
+          "UCRANIA",
+          "FEDOROV",
+          "SYRSKYI"
         ]
       }
     }
