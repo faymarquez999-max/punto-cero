@@ -1,121 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T04:30:55.422150+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "be450c4d3187",
-        "ticker": "IRAN",
-        "mint": "5bjaV9rDyYXaHzwpSKfmHTpMZdTtyHZu1adBJH8aA6xK",
-        "mc": 303126.0
-      }
-    },
-    {
-      "ts": "2026-06-13T08:05:12.581531+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "352e9ef42dde",
-        "score": 88,
-        "category": "Finanzas y tecnología",
-        "title": "I love the incredible people of SpaceX beyond words",
-        "candidate_tickers": [
-          "ELON",
-          "SPACEX",
-          "BILLONARIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:05:49.258800+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d46a2400aa25",
-        "score": 90,
-        "category": "abuso animal",
-        "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
-        "candidate_tickers": [
-          "ABUSOANIMAL",
-          "TORTURAPERROS",
-          "CHINAABUSOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:06:26.650892+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Deportes",
-        "title": "US thrash Paraguay 4-1 for dream World Cup start - Reuters",
-        "candidate_tickers": [
-          "USMNT",
-          "FolarinBalogun",
-          "WorldCup"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:07:14.321585+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4823b83bbca0",
-        "score": 80,
-        "category": "política internacional",
-        "title": "Exclusive: Iran sealed uranium cache and placed mines amid fears of US operation to seize material - CNN",
-        "candidate_tickers": [
-          "IRAN",
-          "URANIO",
-          "EEUU",
-          "OPCION MILITAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:08:29.089178+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a751ed4e57a6",
-        "score": 78,
-        "category": "política",
-        "title": "US judge orders halt to Trump administration's 'censorship' of park exhibits - Reuters",
-        "candidate_tickers": [
-          "TRUMPCENSURA",
-          "PARQUESNACIONALES",
-          "CAMBIOCLIMÁTICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:08:30.113588+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "tecnología y política",
-        "title": "OpenAI under investigation by group of state attorneys general, source says - Reuters",
-        "candidate_tickers": [
-          "OPENAI",
-          "AIINVEST",
-          "TECHSCANDAL",
-          "INVESTIGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T08:08:54.944563+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Tecnología y espacio",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SpaceX",
-          "AI",
-          "Satélites",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T10:43:34.293230+00:00",
       "kind": "shadow",
       "payload": {
@@ -28263,6 +28148,127 @@
           "KAYLEEHOTTLE",
           "GODZILLAVSKONG",
           "ACTRIZFALLECE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:07:19.727024+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias de tecnología y política",
+        "title": "From MAGA Inc. building a huge cash stockpile for the US midterms to Citadel Securities' big investment in Crypto.com , here are the top crypto stories of the week reut.rs/45i4dpM",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:08:05.707670+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c84e954bd61d",
+        "score": 78,
+        "category": "crimen y justicia",
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "candidate_tickers": [
+          "EPSTEINSCOUT",
+          "MUERTEENPARÍS",
+          "SCOUTINGGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:08:45.644457+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fcdfd7ccfdf3",
+        "score": 78,
+        "category": "política",
+        "title": "What's behind India's 'cockroach' youth protests? reut.rs/3RSrTOt reut.rs/3RSrTOt",
+        "candidate_tickers": [
+          "COCKROACHINDIA",
+          "MODIPROTESTAS",
+          "INDIAPROTESTAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:09:20.889999+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "negocios",
+        "title": "Samsung in talks to invest in Mistral at 20 billion euro valuation, FT reports reut.rs/4fyQbVL reut.rs/4fyQbVL",
+        "candidate_tickers": [
+          "MISTRAL",
+          "SAMSUNG",
+          "INVEST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:10:05.406522+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "847715c13d71",
+        "score": 89,
+        "category": "Guerra y conflicto",
+        "title": "Ukraine recaptured 700 sq km of territory this year, outgoing top general says reut.rs/3T95Kff reut.rs/3T95Kff",
+        "candidate_tickers": [
+          "WILDBERRIES",
+          "UCRANIA",
+          "RUSIA",
+          "DRONES",
+          "KRASNODAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:10:31.275929+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3316a3ad96d2",
+        "score": 88,
+        "category": "Tecnología y defensa",
+        "title": "Companies race to deliver autonomous uncrewed fighter jets reut.rs/4vTks7S reut.rs/4vTks7S",
+        "candidate_tickers": [
+          "AUTONOMOUSFIGHTER",
+          "BAEBRONTANAX",
+          "FIGHTERJETRACING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:11:36.093674+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3668a9abcbed",
+        "score": 89,
+        "category": "Tecnología",
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "candidate_tickers": [
+          "AI_ROGUE",
+          "CYBERATTACK",
+          "OPENAI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T12:12:14.177807+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9ee14544b3d5",
+        "score": 89,
+        "category": "política internacional",
+        "title": "US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming - AP News",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "GUERRA",
+          "DIPLOMACIA"
         ]
       }
     }
