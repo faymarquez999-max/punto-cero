@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-12T22:13:50.421216+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a3cb807b20cc",
-        "score": 73,
-        "category": "negocios",
-        "title": "Roku is exploring strategic options, including a sale of the company, sources say - Reuters",
-        "candidate_tickers": [
-          "ROKU",
-          "SALE",
-          "ROKU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-12T22:14:26.508318+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "Freedom 250’s fair on National Mall highlights conservative groups - Politico",
-        "candidate_tickers": [
-          "Freedom250",
-          "ConservativeGroups",
-          "NationalMall"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-12T22:15:09.196944+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28256,6 +28227,35 @@
         "ticker": "ELON",
         "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
         "mc": 93094.0
+      }
+    },
+    {
+      "ts": "2026-07-22T01:11:31.908816+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "It’s been this way for years",
+        "candidate_tickers": [
+          "IRAN",
+          "TRUMP",
+          "GASTOSGUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T01:13:35.832838+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a52757254546",
+        "score": 90,
+        "category": "Tecnología",
+        "title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
+        "candidate_tickers": [
+          "AI_HACK",
+          "OPENAI_ESCAPE",
+          "HUGGING_FACE_HACK"
+        ]
       }
     }
   ]

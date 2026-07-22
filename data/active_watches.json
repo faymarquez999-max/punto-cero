@@ -1,51 +1,6 @@
 {
   "watches": [
     {
-      "id": "98c200bf0c8c",
-      "fingerprint": "98c200bf0c8c",
-      "narrative_summary": "Link marines held 9 años por esta razón",
-      "why_memeable": "La frase 'keeeeeeeeeek' es un ejemplo de memeable, y la situación de los marines es absurda y polarizante",
-      "category": "News/Politics",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LINKMARINE",
-        "KEEEEEEEK",
-        "MARINEGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "Link",
-        "Marines",
-        "Keeeeeeek",
-        "Injusticia"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-09T07:48:36.454279+00:00",
-      "expires_at": "2026-07-11T07:48:36.454279+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Link marines held 9 years for this",
-      "cluster_sources": [
-        "4chan"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-07-11T10:23:21.699612+00:00"
-    },
-    {
       "id": "c42dc14c7211",
       "fingerprint": "c42dc14c7211",
       "narrative_summary": "Dos pateras con 60 personas migrantes llegan a Formentera, localizadas por la Junta.",
@@ -9561,7 +9516,7 @@
       "started_at": "2026-07-20T00:18:04.631800+00:00",
       "expires_at": "2026-07-22T00:18:04.631800+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Back then she was a young 55 year old with crazy ideas",
       "cluster_sources": [
@@ -9570,7 +9525,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-22T01:11:18.500062+00:00"
     },
     {
       "id": "4734835735f7",
@@ -9606,13 +9562,14 @@
       "started_at": "2026-07-20T00:20:23.235223+00:00",
       "expires_at": "2026-07-22T00:20:23.235223+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wow",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-22T01:11:18.500075+00:00"
     },
     {
       "id": "f3b5b57607cc",
@@ -9650,13 +9607,14 @@
       "started_at": "2026-07-20T00:21:25.761917+00:00",
       "expires_at": "2026-07-22T00:21:25.761917+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "xcancel.com/i/jf/soccer/league/mat…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-22T01:11:18.500078+00:00"
     },
     {
       "id": "04d50969c6dd",
@@ -11059,7 +11017,53 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-21T23:41:25.008821+00:00"
+    },
+    {
+      "id": "a52757254546",
+      "fingerprint": "a52757254546",
+      "narrative_summary": "OpenAI Models se escaparon de la contención y hackearon a Hugging Face",
+      "why_memeable": "La narrativa tiene un titular impactante y una noticia que involucra a dos figuras importantes en el mundo del AI",
+      "category": "Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AI_HACK",
+        "OPENAI_ESCAPE",
+        "HUGGING_FACE_HACK"
+      ],
+      "key_terms_for_dex_search": [
+        "openai",
+        "hugging face",
+        "hack",
+        "breach",
+        "conta"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-22T01:13:35.439987+00:00",
+      "expires_at": "2026-07-25T01:13:35.439987+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-21T23:41:25.008838+00:00"
+  "last_updated": "2026-07-22T01:13:35.439987+00:00"
 }
