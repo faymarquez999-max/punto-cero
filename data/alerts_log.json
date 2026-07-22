@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T04:26:30.995762+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "42cab2cbdfff",
-        "score": 80,
-        "category": "noticias de celebridades",
-        "title": "The Papers: 'Starmer braced for exodus' and 'Giant of art'",
-        "candidate_tickers": [
-          "MUSK",
-          "TESLA",
-          "BILLION",
-          "TRILLION",
-          "SEC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T04:26:51.447434+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Viralidad y controversia",
-        "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
-        "candidate_tickers": [
-          "ViralidadEnCarolina",
-          "ControversiaEnLasRedes"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T04:27:27.241486+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be450c4d3187",
-        "score": 80,
-        "category": "noticias internacionales",
-        "title": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
-        "candidate_tickers": [
-          "DRONEDOWN",
-          "IRANDRONES",
-          "USVSIRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T04:28:04.847535+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "95092283d28c",
-        "score": 80,
-        "category": "política",
-        "title": "Trump says US military strike killed leader of Venezuela's Tren de Aragua gang - Reuters",
-        "candidate_tickers": [
-          "TRENDEARAGUA",
-          "TRUMPASESINA",
-          "ARAGUAGANG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T04:30:53.005382+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "42cab2cbdfff",
-        "ticker": "TRILLION",
-        "mint": "2sDCRhLKeUF7c1dG2cqQFuY2VZQqPVrZRSGxqy8Gpump",
-        "mc": 44575.0
-      }
-    },
-    {
       "ts": "2026-06-13T04:30:55.422150+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28259,6 +28189,81 @@
         "ticker": "Mouse",
         "mint": "3wwU3njdLCT3ebRUrTFeHwKG6zamiiCKwmpShSK2pump",
         "mc": 37432.0
+      }
+    },
+    {
+      "ts": "2026-07-22T10:05:20.560664+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District - Politico",
+        "candidate_tickers": [
+          "TrumpWins",
+          "FeelyWins",
+          "ArizonaGOP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T10:06:15.446694+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Celebridades y noticias de crueldad animal",
+        "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+        "candidate_tickers": [
+          "RebelWilson",
+          "CrueldadAnimal",
+          "Absuelto"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T10:06:49.437737+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "df86e9fdd969",
+        "score": 90,
+        "category": "política internacional",
+        "title": "US attacks Iran for 11th consecutive night - Al Jazeera",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "ATAQUE",
+          "ALJAZEERA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T10:07:59.840690+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a470f4c87cb",
+        "score": 73,
+        "category": "política",
+        "title": "Ukraine’s Zelenskyy fires his military chief after protests and names a replacement - AP News",
+        "candidate_tickers": [
+          "ZELENSKYY",
+          "UCRANIA",
+          "MILITAR",
+          "PROTESTAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T10:08:28.434414+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "94f4c95d179c",
+        "score": 91,
+        "category": "Celebridad",
+        "title": "Godzilla vs Kong actress Kaylee Hottle dies in crash at 18",
+        "candidate_tickers": [
+          "KAYLEEHOTTLE",
+          "GODZILLAVSKONG",
+          "ACTRIZFALLECE"
+        ]
       }
     }
   ]
