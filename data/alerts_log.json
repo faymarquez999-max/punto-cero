@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T12:22:53.940066+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política/actualidad",
-        "title": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
-        "candidate_tickers": [
-          "DronesIran",
-          "USvsIran",
-          "DronesAbajo"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T12:23:23.430038+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28254,6 +28240,21 @@
         "candidate_tickers": [
           "TRUMP_XCANCEL",
           "XCANCEL_GATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T22:46:02.399461+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aaac56b4404e",
+        "score": 91,
+        "category": "política internacional",
+        "title": "Dear @ZohranKMamdani , thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity.  Th",
+        "candidate_tickers": [
+          "TRUMP_SAUDI",
+          "SAUDI_NUCLEAR",
+          "TRUMP_CONTROVERSY"
         ]
       }
     }
