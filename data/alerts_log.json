@@ -1,48 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T10:43:34.293230+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política",
-        "title": "I love the incredible people of SpaceX beyond words",
-        "candidate_tickers": [
-          "TrumpReinstated",
-          "ElonReinstatesTrump",
-          "TwitterBanLift"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T10:44:25.715537+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias de crimen y justicia",
-        "title": "Acusan a cinco personas por formar una red de explotación sexual de mujeres migrantes radicada en Málaga - Ultima Hora",
-        "candidate_tickers": [
-          "MálagaRed",
-          "ExplotaciónSexual",
-          "Injusticia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T10:45:07.138623+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "Rumor Roundup: World Champion Oba Femi, Rhea Ripley plan, UFC White House, more! - Cageside Seats",
-        "candidate_tickers": [
-          "UFC",
-          "Trump",
-          "Casa Blanca"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T10:45:56.009084+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28270,6 +28228,42 @@
           "GUERRA",
           "DIPLOMACIA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-22T14:31:42.710111+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b3e0a4a058e7",
+        "score": 82,
+        "category": "política internacional",
+        "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+        "candidate_tickers": [
+          "SAUDI",
+          "NUCLEAR",
+          "DEAL",
+          "USA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-22T14:32:05.970447+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a52757254546",
+        "ticker": "HF",
+        "mint": "3rj59CcavzZ3i1AKf5yW3b4s9UCobvQdfgSrtgxapump",
+        "mc": 19734.0
+      }
+    },
+    {
+      "ts": "2026-07-22T14:32:14.712289+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b3e0a4a058e7",
+        "ticker": "AORP",
+        "mint": "4e4ALfasM5PJkYvHBKbyTLPDcCUpLrTWNbN5n7Ub1vFM",
+        "mc": 26516.0
       }
     }
   ]
