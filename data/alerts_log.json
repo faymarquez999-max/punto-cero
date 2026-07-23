@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-14T13:19:35.767817+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ca40f63b8bef",
-        "score": 78,
-        "category": "Política",
-        "title": "UK seizes Russian shadow fleet vessel in Channel - politico.eu",
-        "candidate_tickers": [
-          "RUSSIA",
-          "UK",
-          "SHADOWFLEET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T13:20:44.730191+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "política",
-        "title": "Trump's name poised to be removed from Kennedy Center after court denies last-minute move to keep it - AP News",
-        "candidate_tickers": [
-          "TRUMP_REMOVED",
-          "KENNEDY_CENTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T13:21:27.297684+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SPACEX",
-          "AI SATELLITE",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T13:22:08.829881+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridad/Política",
-        "title": "Did he stab someone ?",
-        "candidate_tickers": [
-          "DidHeStab",
-          "StabGate",
-          "ElonMuskMystery"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:24:17.555984+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política y celebridad",
-        "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-        "candidate_tickers": [
-          "TrudeauPerry",
-          "FútbolCanadiense",
-          "TrudeauNoFútbol"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:24:34.971960+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "29436a971133",
-        "score": 89,
-        "category": "Deportes",
-        "title": "Lewis Hamilton wins first grand prix for Ferrari",
-        "candidate_tickers": [
-          "FERRARIWIN",
-          "HAMWINS",
-          "BARCELONAGRAND"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-14T15:25:13.850519+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28222,6 +28137,95 @@
         "ticker": "Tesla",
         "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
         "mc": 21652.0
+      }
+    },
+    {
+      "ts": "2026-07-23T19:40:26.523335+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump: We don't need the Hormuz Strait",
+        "candidate_tickers": [
+          "MUSK",
+          "TRUMP",
+          "HORMUZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T19:40:47.112145+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dd2d7fcc3da7",
+        "score": 90,
+        "category": "animal escape",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTE",
+          "FLORIDA",
+          "ESCAPADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T19:41:33.869835+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política y guerra",
+        "title": "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war - AP News",
+        "candidate_tickers": [
+          "Houthis",
+          "Yemen",
+          "Irán",
+          "Guerra"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T19:42:15.116394+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología",
+        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs - Reuters",
+        "candidate_tickers": [
+          "ALPHABET",
+          "GOOGLE",
+          "AI",
+          "TECH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T19:43:04.424034+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Muerte de actores de Hollywood",
+        "title": "Children wounded in Israeli strike on Khan Younis",
+        "candidate_tickers": [
+          "CatherineOHara",
+          "EricDane",
+          "GoFundMe",
+          "Hollywood"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T19:44:13.582438+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ceb1c9355a30",
+        "score": 89,
+        "category": "crimen y justicia",
+        "title": "Minnesota man gets life in prison for assassinating Democratic lawmaker - Reuters",
+        "candidate_tickers": [
+          "MNMAN",
+          "ASSASSINO",
+          "PRISIÓNPERPETUA"
+        ]
       }
     }
   ]
