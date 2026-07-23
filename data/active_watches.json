@@ -1,433 +1,6 @@
 {
   "watches": [
     {
-      "id": "2cec96918e8e",
-      "fingerprint": "2cec96918e8e",
-      "narrative_summary": "Apple acusa a OpenAI de robo de secretos comerciales en un pleito",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: 'Apple sues OpenAI for trade secret theft'",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "APPLEVSOPENAI",
-        "OPENAIROBOTECH",
-        "APPLESUESOPENAI"
-      ],
-      "key_terms_for_dex_search": [
-        "Apple",
-        "OpenAI",
-        "pleito",
-        "secretos comerciales",
-        "ChatGPT"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-12T00:16:11.948741+00:00",
-      "expires_at": "2026-07-14T00:16:11.948741+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 45791.0,
-        "liquidity_usd": 27275.51,
-        "price_usd": 4.58e-05,
-        "volume_h24": 6742.44,
-        "volume_h1": 434.32,
-        "volume_m5": 197.28,
-        "price_change_5m": -1.66,
-        "price_change_1h": -0.54,
-        "price_change_24h": -15.43,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 15,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Apple sues OpenAI for trade secret theft - Axios",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-12T00:19:51.459932+00:00"
-    },
-    {
-      "id": "527903a5d21e",
-      "fingerprint": "527903a5d21e",
-      "narrative_summary": "EE.UU. lanza ataques contra Irán después de que este cerrara el Estrecho de Ormuz",
-      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre dos potencias, con un elemento de sorpresa y tensión",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "USVSIRAN",
-        "ESTRECHODEORMUZ",
-        "EEUUATACA"
-      ],
-      "key_terms_for_dex_search": [
-        "EEUU",
-        "Irán",
-        "EstrechoDeOrmuz",
-        "ataques"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T04:04:11.157170+00:00",
-      "expires_at": "2026-07-14T04:04:11.157170+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-14T06:02:46.629739+00:00"
-    },
-    {
-      "id": "2ee57affea65",
-      "fingerprint": "2ee57affea65",
-      "narrative_summary": "Typhoon Bavi batters east China, causando 134 heridos en Taiwán",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro arquetipo de catástrofe natural",
-      "category": "catástrofe natural",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BAVI",
-        "TYPHOONBAVI",
-        "CHINATYPHOON"
-      ],
-      "key_terms_for_dex_search": [
-        "Typhoon Bavi",
-        "China",
-        "Taiwán",
-        "heridos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-12T04:04:38.797097+00:00",
-      "expires_at": "2026-07-15T04:04:38.797097+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Typhoon Bavi batters east China, Taiwan reports 134 injured - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 21,
-      "expired_at": "2026-07-15T06:02:46.295240+00:00"
-    },
-    {
-      "id": "445f084c34cc",
-      "fingerprint": "445f084c34cc",
-      "narrative_summary": "Jude Bellingham, jugador de fútbol de Inglaterra, se vuelve viral después de su desempeño en el Mundial de la FIFA y sus venas prominentes.",
-      "why_memeable": "La combinación de un evento deportivo emocionante y una característica física única de un jugador hace que la narrativa sea fácilmente compartible y recordable.",
-      "category": "fútbol",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BELLINGHAM",
-        "JUDE",
-        "FÚTBOL",
-        "MUNDIAL",
-        "FIFA"
-      ],
-      "key_terms_for_dex_search": [
-        "Bellingham",
-        "Jude",
-        "fútbol",
-        "Mundial",
-        "FIFA",
-        "venas"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T04:08:45.845626+00:00",
-      "expires_at": "2026-07-14T04:08:45.845626+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "England’s Jude Bellingham, His FIFA World Cup Play And Veins Go Viral - Forbes",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-14T06:02:46.629752+00:00"
-    },
-    {
-      "id": "a5a0c6ae3e2a",
-      "fingerprint": "a5a0c6ae3e2a",
-      "narrative_summary": "Argentina logra un gol en el tiempo extra para derrotar a Suiza y avanzar a las semifinales de la Copa Mundial.",
-      "why_memeable": "La narrativa es memeable porque es un momento sorprendente y emocionante en el mundo del fútbol, con un gol en el tiempo extra que cambia el curso de la partida.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ARGENTINA",
-        "ARGENTINA_WC",
-        "ARGENTINA_GOL"
-      ],
-      "key_terms_for_dex_search": [
-        "ARGENTINA",
-        "WC",
-        "GOL",
-        "TIEMPO_EXTRA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T06:49:34.229824+00:00",
-      "expires_at": "2026-07-14T06:49:34.229824+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ARGENTINA",
-        "name": "Argentina",
-        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 17803.0,
-        "liquidity_usd": 11091.73,
-        "price_usd": 1.78e-05,
-        "volume_h24": 19722.33,
-        "volume_h1": 262.65,
-        "volume_m5": 26.03,
-        "price_change_5m": -1.06,
-        "price_change_1h": 10.35,
-        "price_change_24h": -5.75,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 5,
-        "created_ts": 1778586889000,
-        "pair_created_at": 1778586889000,
-        "url": "https://dexscreener.com/solana/9gwu31h99sdgotwmam4ufvwxunubwxjm32cw3besnjyu",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ARGENTINA==ARGENTINA"
-      },
-      "cluster_top_title": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-12T06:54:25.857685+00:00"
-    },
-    {
-      "id": "6852f73c8cf0",
-      "fingerprint": "6852f73c8cf0",
-      "narrative_summary": "Marines held por 9 años por una razón absurda",
-      "why_memeable": "La frase 'keeeeeeeeeek' es memeable y la situación es absurda",
-      "category": "Absurdos en el mundo real",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LINKKEEK",
-        "MARINES9AÑOS"
-      ],
-      "key_terms_for_dex_search": [
-        "marines",
-        "9 años",
-        "keeeeeeeeeek"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-12T06:52:26.892346+00:00",
-      "expires_at": "2026-07-14T06:52:26.892346+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Link marines held 9 years for this",
-      "cluster_sources": [
-        "4chan"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-14T10:21:44.372346+00:00"
-    },
-    {
-      "id": "e5e663873b82",
-      "fingerprint": "e5e663873b82",
-      "narrative_summary": "Lista de los mejores monedas meme para 2026",
-      "why_memeable": "La narrativa es sobre monedas meme, un tema popular y actual en el mundo de las criptomonedas.",
-      "category": "Criptomonedas",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XSG",
-        "XRP",
-        "MEMECOINS",
-        "CRYPTOMEME"
-      ],
-      "key_terms_for_dex_search": [
-        "meme",
-        "monedas",
-        "criptomonedas",
-        "2026",
-        "XSG",
-        "XRP"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T10:47:41.358826+00:00",
-      "expires_at": "2026-07-15T10:47:41.358826+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214383.0,
-        "liquidity_usd": 134151.7,
-        "price_usd": 1.33,
-        "volume_h24": 156372.08,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -2.81,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 18195,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2551",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-12T10:51:41.712884+00:00"
-    },
-    {
       "id": "55bf548f9f48",
       "fingerprint": "55bf548f9f48",
       "narrative_summary": "Apple acusa a OpenAI de robar secretos comerciales en un pleito",
@@ -8818,7 +8391,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "0ccdd75b442e",
@@ -8960,7 +8533,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "4d732659dcdd",
@@ -9006,7 +8579,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "4b3d25613f93",
@@ -9122,7 +8695,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "4dedfdd02ad6",
@@ -9633,7 +9206,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "9761337d37af",
@@ -9901,7 +9474,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "f3b88af75201",
@@ -9949,7 +9522,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "0130c9f5847d",
@@ -10230,7 +9803,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "b3e0a4a058e7",
@@ -10361,7 +9934,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "1fb099c49b99",
@@ -10587,13 +10160,14 @@
       "started_at": "2026-07-22T18:53:37.590307+00:00",
       "expires_at": "2026-07-23T18:53:37.590307+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-23T20:46:13.790591+00:00"
     },
     {
       "id": "1910f3013259",
@@ -10638,7 +10212,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b75b527aeb69",
@@ -10682,7 +10256,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a9571c488a6b",
@@ -10799,7 +10373,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "064ebdf33674",
@@ -10845,7 +10419,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3c951ba89491",
@@ -10890,7 +10464,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "019806b6c67f",
@@ -10932,7 +10506,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d27ec4eec27b",
@@ -11053,14 +10627,41 @@
       "started_at": "2026-07-23T12:07:25.929317+00:00",
       "expires_at": "2026-07-25T12:07:25.929317+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "oil",
+        "name": "saudi aramco",
+        "mint": "73Lg8CoAaiTTNyGBgURCtvWUKXaoXwVjyj4sroqhhzd9",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 29655.0,
+        "liquidity_usd": 11918.55,
+        "price_usd": 2.965e-05,
+        "volume_h24": 30075.29,
+        "volume_h1": 30075.29,
+        "volume_m5": 251.61,
+        "price_change_5m": -1.19,
+        "price_change_1h": -44.64,
+        "price_change_24h": -44.64,
+        "txns_h1_buys": 322,
+        "txns_h1_sells": 236,
+        "created_ts": 1784837643000,
+        "pair_created_at": 1784837643000,
+        "url": "https://dexscreener.com/solana/f55wthh5gddhm77xau8lq8wkihsqvssqgkujxubu2qhv",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: SAUDI in SAUDI ARAMCO",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-07-23T20:50:32.933098+00:00"
     },
     {
       "id": "83e7f7736488",
@@ -11107,7 +10708,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "652cd98b3ea9",
@@ -11157,7 +10758,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a41c9590c508",
@@ -11203,7 +10804,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e5a819886928",
@@ -11324,14 +10925,46 @@
       "started_at": "2026-07-23T16:18:15.210224+00:00",
       "expires_at": "2026-07-26T16:18:15.210224+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ANIMALS",
+        "name": "Animals Fund",
+        "mint": "Hthz6nkB37mAMMGmxQ3mstuT54gQ1Knv9dk8iB9fdoge",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 43919.0,
+        "liquidity_usd": 15928.81,
+        "price_usd": 4.492e-05,
+        "volume_h24": 5027.64,
+        "volume_h1": 1256.23,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -19.69,
+        "price_change_24h": 2.96,
+        "txns_h1_buys": 7,
+        "txns_h1_sells": 2,
+        "created_ts": 1764088418000,
+        "pair_created_at": 1764088418000,
+        "url": "https://dexscreener.com/solana/ggv8eznq3krkgo731qsyu7f64wdtfms7d8sy4f9ajzkd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ANIMAL in ANIMALS FUND",
+        "safety_score": 101,
+        "safety_risks": [
+          {
+            "name": "Mutable metadata",
+            "level": "warn",
+            "description": "Token metadata can be changed by the owner"
+          }
+        ]
+      },
       "cluster_top_title": "Cool",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-07-23T20:50:37.433217+00:00"
     },
     {
       "id": "783cd27b5a0f",
@@ -11377,7 +11010,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bf97abcb8b87",
@@ -11459,7 +11092,372 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-23T18:03:37.492928+00:00"
+    },
+    {
+      "id": "5711a7bcdb2d",
+      "fingerprint": "5711a7bcdb2d",
+      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, lo que generó una reacción en las redes sociales.",
+      "why_memeable": "La combinación de un político polarizante y una situación inesperada crea un caldo de cultivo para memes y discusiones.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MASSIE",
+        "TRUMP22",
+        "ENDORSEGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Thomas Massie",
+        "Trump",
+        "Endorsement",
+        "Congressman"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T20:46:15.198642+00:00",
+      "expires_at": "2026-07-26T20:46:15.198642+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a85db9c5b58d",
+      "fingerprint": "a85db9c5b58d",
+      "narrative_summary": "140 animales salvajes cautivos escaparon en Florida en 3 años, incluyendo un rinoceronte y canguros.",
+      "why_memeable": "La narrativa tiene un alto contenido de sorpresa y absurdo, lo que la hace fácilmente compartible y recordable.",
+      "category": "noticias",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "RINOCERONTEESCAPA",
+        "FLORIDACANGURO",
+        "ANIMALSALVAGIE"
+      ],
+      "key_terms_for_dex_search": [
+        "rinoceronte",
+        "canguro",
+        "Florida",
+        "animales salvajes"
+      ],
+      "score": 93,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T20:46:29.166512+00:00",
+      "expires_at": "2026-07-26T20:46:29.166512+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Cool",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "d998b5a2ed19",
+      "fingerprint": "d998b5a2ed19",
+      "narrative_summary": "La historia verdadera detrás de 'Una historia de amor tóxico' en la revista Time.",
+      "why_memeable": "La narrativa tiene un título atractivo y una descripción breve que sugiere una historia interesante.",
+      "category": "Historia verdadera y absurda",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "A_TOXIC_LOVE_STORY",
+        "TIME_MAGAZINE_EXPOSÉ",
+        "BIZARRE_TRUE_STORY"
+      ],
+      "key_terms_for_dex_search": [
+        "A_Toxic_Love_Story",
+        "Time_Magazine_Exposé",
+        "Bizarre_True_Story"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T20:46:43.199555+00:00",
+      "expires_at": "2026-07-25T20:46:43.199555+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "2c74b5501a0d",
+      "fingerprint": "2c74b5501a0d",
+      "narrative_summary": "Jesse Watters hace un comentario controvertido sobre las mujeres educadas en un programa de televisión.",
+      "why_memeable": "El comentario de Jesse Watters es un ejemplo de un memeable, ya que es una frase corta y controvertida que puede ser compartida fácilmente.",
+      "category": "Política/celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WATTERS",
+        "EDUCADAS",
+        "TIRADA"
+      ],
+      "key_terms_for_dex_search": [
+        "Watters",
+        "Educadas",
+        "Tirada",
+        "Controversia",
+        "Política"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T20:47:12.374586+00:00",
+      "expires_at": "2026-07-25T20:47:12.374586+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Jesse Watters Targets 'Highly Educated' Women In Bizarre Dating Tirade - Yahoo News Singapore",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "7e7e2737b099",
+      "fingerprint": "7e7e2737b099",
+      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas, generando una gran cantidad de interacción en las redes sociales.",
+      "why_memeable": "La narrativa es memeable debido a la frase 'FSD Supervised helps save lives' que puede ser capturada fácilmente y compartida.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "FSD",
+        "TESLA",
+        "SUPERVISED"
+      ],
+      "key_terms_for_dex_search": [
+        "FSD",
+        "Supervised",
+        "Tesla",
+        "save lives"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-07-23T20:48:51.374469+00:00",
+      "expires_at": "2026-07-25T20:48:51.374469+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FSD Supervised helps save lives",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "ec424d6593a7",
+      "fingerprint": "ec424d6593a7",
+      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando mucha atención y reacciones.",
+      "why_memeable": "La respuesta simple y breve de Elon Musk es fácilmente compartible y recordable.",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "yes",
+        "twitter"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-23T20:49:53.825108+00:00",
+      "expires_at": "2026-07-25T20:49:53.825108+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 32777.0,
+        "liquidity_usd": 19371.55,
+        "price_usd": 3.284e-05,
+        "volume_h24": 7290.71,
+        "volume_h1": 233.85,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -3.45,
+        "price_change_24h": 5.6,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 2,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T20:50:44.880679+00:00"
+    },
+    {
+      "id": "aa300ceb6438",
+      "fingerprint": "aa300ceb6438",
+      "narrative_summary": "Elon Musk comparte un simple 'Yeah' en Twitter, generando gran atención.",
+      "why_memeable": "El núcleo se puede capturar en una sola palabra ('Yeah') que es fácilmente compartible y repetible.",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YEAH",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "yeah"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T20:50:14.707906+00:00",
+      "expires_at": "2026-07-25T20:50:14.707906+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 243683.0,
+        "liquidity_usd": 85033.36,
+        "price_usd": 0.0002437,
+        "volume_h24": 6549.84,
+        "volume_h1": 3791.98,
+        "volume_m5": 12.26,
+        "price_change_5m": 1.04,
+        "price_change_1h": -6.53,
+        "price_change_24h": -13.12,
+        "txns_h1_buys": 14,
+        "txns_h1_sells": 7,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yeah",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T20:50:46.364533+00:00"
     }
   ],
-  "last_updated": "2026-07-23T18:03:37.492944+00:00"
+  "last_updated": "2026-07-23T20:50:46.364553+00:00"
 }

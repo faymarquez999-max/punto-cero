@@ -1,166 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-14T15:25:13.850519+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a5f4e44b9776",
-        "score": 88,
-        "category": "Noticias internacionales",
-        "title": "Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement - The New York Times",
-        "candidate_tickers": [
-          "IRAN",
-          "HEZBOLLAH",
-          "ISRAEL",
-          "PAZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:25:59.186316+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Deporte, entretenimiento",
-        "title": "Jalen Brunson Wants to Be on Law & Order SVU After Viral Moments with Mariska Hargitay, Knicks' Win - Bleacher Report",
-        "candidate_tickers": [
-          "JalenBrunson",
-          "LawAndOrderSVU",
-          "KnicksVictory"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:26:36.554298+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "Trump hosts White House cage fights amid war and political scrutiny - Reuters",
-        "candidate_tickers": [
-          "TrumpCageFights",
-          "CageFightsGate",
-          "WhiteHouseScandal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:27:07.172324+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32da291f14af",
-        "score": 88,
-        "category": "política",
-        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-        "candidate_tickers": [
-          "SMYRTOS",
-          "ROYALMARINES",
-          "ENGLISHCHANNEL",
-          "SHADOWFLEET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:28:01.021088+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "03b3a2c53e6c",
-        "score": 73,
-        "category": "conflicto internacional",
-        "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-        "candidate_tickers": [
-          "ISRAEL",
-          "HEZBOLLAH",
-          "BEIRUT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:28:31.924031+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cc7181866eb4",
-        "score": 74,
-        "category": "política internacional",
-        "title": "Taiwan’s spy agency launches webpage for Chinese nationals to report tips - Politico",
-        "candidate_tickers": [
-          "TAIWANSPY",
-          "CHINAREPORT",
-          "TAIWANLEAKS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:29:28.713464+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología/Innovación",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SpaceX",
-          "AI",
-          "Satellites"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T15:29:41.998495+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a5f4e44b9776",
-        "ticker": "IRAN",
-        "mint": "7yowtsWu41jPXMZqwp4PVv9ue1A34rKi6zzHQtkj3KDd",
-        "mc": 69920.0
-      }
-    },
-    {
-      "ts": "2026-06-14T16:59:50.247898+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bfb9c5936091",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Box Office: ‘Disclosure Day’ Launches to $93 Million Globally, ‘Michael’ Nears $950 Million Milestone - Variety",
-        "candidate_tickers": [
-          "KNICKS",
-          "NYK",
-          "NBA",
-          "CHAMPIONS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T17:00:17.948471+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "834dd83477c2",
-        "score": 86,
-        "category": "política internacional",
-        "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-        "candidate_tickers": [
-          "UKVSRUSSIA",
-          "TANQUEPETROLERO",
-          "UCRANIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T17:01:51.754251+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ce210203314d",
-        "score": 82,
-        "category": "Celebridad/Política",
-        "title": "Did he stab someone ?",
-        "candidate_tickers": [
-          "STAB",
-          "ELON",
-          "JOHNCLEESE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-14T17:03:01.797720+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28226,6 +28066,150 @@
           "ASSASSINO",
           "PRISIÓNPERPETUA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:46:15.729261+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5711a7bcdb2d",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMP22",
+          "ENDORSEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:46:29.714430+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a85db9c5b58d",
+        "score": 93,
+        "category": "noticias",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTEESCAPA",
+          "FLORIDACANGURO",
+          "ANIMALSALVAGIE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:46:43.678317+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d998b5a2ed19",
+        "score": 89,
+        "category": "Historia verdadera y absurda",
+        "title": "True",
+        "candidate_tickers": [
+          "A_TOXIC_LOVE_STORY",
+          "TIME_MAGAZINE_EXPOSÉ",
+          "BIZARRE_TRUE_STORY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:47:12.882693+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c74b5501a0d",
+        "score": 73,
+        "category": "Política/celebridad",
+        "title": "Jesse Watters Targets 'Highly Educated' Women In Bizarre Dating Tirade - Yahoo News Singapore",
+        "candidate_tickers": [
+          "WATTERS",
+          "EDUCADAS",
+          "TIRADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:48:51.926577+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7e7e2737b099",
+        "score": 70,
+        "category": "Tecnología",
+        "title": "FSD Supervised helps save lives",
+        "candidate_tickers": [
+          "FSD",
+          "TESLA",
+          "SUPERVISED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:49:54.401446+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ec424d6593a7",
+        "score": 70,
+        "category": "Tecnología/Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:50:15.343648+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aa300ceb6438",
+        "score": 70,
+        "category": "Celebridad",
+        "title": "Yeah",
+        "candidate_tickers": [
+          "YEAH",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T20:50:32.939676+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "41c890ddac17",
+        "ticker": "oil",
+        "mint": "73Lg8CoAaiTTNyGBgURCtvWUKXaoXwVjyj4sroqhhzd9",
+        "mc": 29655.0
+      }
+    },
+    {
+      "ts": "2026-07-23T20:50:37.440248+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0dbdce78cdb3",
+        "ticker": "ANIMALS",
+        "mint": "Hthz6nkB37mAMMGmxQ3mstuT54gQ1Knv9dk8iB9fdoge",
+        "mc": 43919.0
+      }
+    },
+    {
+      "ts": "2026-07-23T20:50:44.887291+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ec424d6593a7",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 32777.0
+      }
+    },
+    {
+      "ts": "2026-07-23T20:50:46.401186+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aa300ceb6438",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 243683.0
       }
     }
   ]
