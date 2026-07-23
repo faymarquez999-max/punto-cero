@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T16:08:46.306121+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política y actualidad",
-        "title": "I love the incredible people of SpaceX beyond words",
-        "candidate_tickers": [
-          "TRUMPDOWN",
-          "KENNEDYFREE",
-          "SPACEXLOVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T16:12:15.841015+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Deportes",
-        "title": "Villa, Butragueño y el desafío de Oyarzabal - Ultima Hora",
-        "candidate_tickers": [
-          "VillaDesafio",
-          "ButragueñoDesafio",
-          "OyarzabalDesafio"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T16:13:14.298073+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "84a21928a373",
-        "score": 82,
-        "category": "noticias de incendios forestales en California",
-        "title": "Breaking: Norton Fire reported in Humboldt County on June 13 - Sacramento Bee",
-        "candidate_tickers": [
-          "CALIFORNIA_FIRE",
-          "HUMBOLDT_COUNTY_FIRE",
-          "LOS_ANGELES_COUNTY_FIRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T16:13:20.013801+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c740467cbea6",
-        "ticker": "ANTH",
-        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
-        "mc": 15442.0
-      }
-    },
-    {
-      "ts": "2026-06-13T16:13:22.069809+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8f7026149a23",
-        "ticker": "PARQ",
-        "mint": "VtwGKv7dcpY7aFb8H7MvZfEtUAKwtsHcXSkejCAparq",
-        "mc": 244055.0
-      }
-    },
-    {
-      "ts": "2026-06-13T17:51:23.996144+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ccea76816dd8",
-        "score": 70,
-        "category": "Política Internacional",
-        "title": "Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms - CNBC",
-        "candidate_tickers": [
-          "CHINAVSPENTAGON",
-          "TECHWARS",
-          "BEIJINGDISSATISFIED"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T19:49:27.551850+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28244,6 +28166,90 @@
           "ZeroStories",
           "LowStories"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:39:51.094832+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "064ebdf33674",
+        "score": 91,
+        "category": "animal",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTE",
+          "CANGURO",
+          "FLORIDA",
+          "ESCAPADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:40:26.097828+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3c951ba89491",
+        "score": 88,
+        "category": "Política",
+        "title": "Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News",
+        "candidate_tickers": [
+          "UCRANIA",
+          "EJÉRCITO",
+          "MINISTRO DE DEFENSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:41:00.570117+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "accidentes y emergencias",
+        "title": "Louvre reopens Apollo Gallery after a brazen heist, but no jewels are on display - AP News",
+        "candidate_tickers": [
+          "DALLASLEAK",
+          "GASLEAKDALLAS",
+          "EVACUACION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:42:21.491464+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "019806b6c67f",
+        "score": 80,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:43:03.952419+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d27ec4eec27b",
+        "score": 70,
+        "category": "Tecnología y Automoción",
+        "title": "FSD Supervised helps save lives",
+        "candidate_tickers": [
+          "FSD",
+          "TESLA",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T07:44:28.094734+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a9571c488a6b",
+        "ticker": "Daddy",
+        "mint": "43umuHnRhznVSYVFHDjJJmNL2aKBV9ih7hrWyL8fpump",
+        "mc": 13361.0
       }
     }
   ]

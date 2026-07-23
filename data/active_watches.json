@@ -1,218 +1,6 @@
 {
   "watches": [
     {
-      "id": "6ff16de0e2c2",
-      "fingerprint": "6ff16de0e2c2",
-      "narrative_summary": "Ann Widdecombe, ex-diputada británica, asesinada en su hogar en Devon.",
-      "why_memeable": "La narrativa tiene un claro tema de muerte y asesinato, lo que la hace fácilmente compartible y recordable.",
-      "category": "Asesinato de ex-diputada británica",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "WIDDECOMBE",
-        "ASESINATO",
-        "DEVON"
-      ],
-      "key_terms_for_dex_search": [
-        "Ann Widdecombe",
-        "asesinato",
-        "Devon",
-        "muerte"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-11T07:01:57.320050+00:00",
-      "expires_at": "2026-07-14T07:01:57.320050+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ann Widdecombe murder probe: What we know so far",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-14T10:21:44.372341+00:00"
-    },
-    {
-      "id": "3d6a138d2cde",
-      "fingerprint": "3d6a138d2cde",
-      "narrative_summary": "Un entrenador de animales en California es condenado a 12 años de prisión por matar a 11 perros.",
-      "why_memeable": "La historia es fácil de entender y tiene un claro núcleo (un entrenador condenado por matar a perros).",
-      "category": "Noticias de crimen y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERROCONDENADO",
-        "ENTRENADORDEPERROS",
-        "JUSTICIAPARAPERROS"
-      ],
-      "key_terms_for_dex_search": [
-        "perros",
-        "entrenador",
-        "condenado",
-        "justicia"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-11T07:03:18.484908+00:00",
-      "expires_at": "2026-07-13T07:03:18.484908+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-13T07:45:31.427381+00:00"
-    },
-    {
-      "id": "4733ba4d2326",
-      "fingerprint": "4733ba4d2326",
-      "narrative_summary": "Elon Musk se salva de una demanda de $150 millones con un pago de $1.5 millones, mientras que la administración de Trump no revela quién está pagando por la gasolina a bajo precio.",
-      "why_memeable": "La narrativa tiene un núcleo claro y un conflicto entre dos figuras públicas, lo que la hace fácil de compartir y recordar.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "TRUMP",
-        "GASOLINA"
-      ],
-      "key_terms_for_dex_search": [
-        "MUSK",
-        "TRUMP",
-        "GASOLINA",
-        "DEMANDA",
-        "PAGO"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-11T07:04:04.182366+00:00",
-      "expires_at": "2026-07-13T07:04:04.182366+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The gas is cheap. The Trump administration isn’t saying who’s paying for it. - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-13T07:45:31.427384+00:00"
-    },
-    {
-      "id": "9a3354feedee",
-      "fingerprint": "9a3354feedee",
-      "narrative_summary": "Apple acusa a OpenAI de robo de secretos comerciales",
-      "why_memeable": "La narrativa tiene un núcleo claro (Apple vs OpenAI) y un elemento de sorpresa (robo de secretos comerciales)",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "APPLEVSOPENAI",
-        "OPENAIROBODESECRETOS",
-        "APPLESUEDSOPENAI"
-      ],
-      "key_terms_for_dex_search": [
-        "apple",
-        "openai",
-        "trade secrets",
-        "robo",
-        "secretos comerciales"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-11T07:04:38.592337+00:00",
-      "expires_at": "2026-07-15T07:04:38.592337+00:00",
-      "duration_hours": 96,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ROBO",
-        "name": "robo",
-        "mint": "EC1TMMg4shn1XrYNy5Y5a98LT6kjNcFtgnav11jSpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 39673.0,
-        "liquidity_usd": 18908.44,
-        "price_usd": 3.968e-05,
-        "volume_h24": 8425.28,
-        "volume_h1": 55.93,
-        "volume_m5": 8.45,
-        "price_change_5m": -0.33,
-        "price_change_1h": -1.59,
-        "price_change_24h": 1.62,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 5,
-        "created_ts": 1777233247000,
-        "pair_created_at": 1777233247000,
-        "url": "https://dexscreener.com/solana/eyzfvhdckauujvedfpzovkcqvnaucp5xn6jftqtqpwcb",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ROBO in ROBO",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-11T15:33:15.237794+00:00"
-    },
-    {
       "id": "afd55eddef03",
       "fingerprint": "afd55eddef03",
       "narrative_summary": "Trump reanuda la guerra contra Irán, causando preocupación y conflicto en la región.",
@@ -5823,7 +5611,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 32
+      "scan_attempts": 33
     },
     {
       "id": "2a461f0b425f",
@@ -9046,7 +8834,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "3768c04d3eb2",
@@ -9277,7 +9065,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "cd9008583505",
@@ -9321,7 +9109,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "3069029a4bbc",
@@ -9369,7 +9157,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "0ccdd75b442e",
@@ -9412,7 +9200,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "19f5c4b83369",
@@ -9459,7 +9247,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "4d732659dcdd",
@@ -9505,7 +9293,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "4b3d25613f93",
@@ -9621,7 +9409,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "4dedfdd02ad6",
@@ -9663,7 +9451,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "c072a923f827",
@@ -9786,7 +9574,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "08a70a4f75a3",
@@ -9899,7 +9687,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "bece76f87480",
@@ -9944,7 +9732,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "b806554fb285",
@@ -10128,7 +9916,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "9761337d37af",
@@ -10396,7 +10184,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "f3b88af75201",
@@ -10444,7 +10232,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "0130c9f5847d",
@@ -10725,7 +10513,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b3e0a4a058e7",
@@ -10856,7 +10644,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1fb099c49b99",
@@ -10898,7 +10686,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "163042539924",
@@ -10941,7 +10729,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "0052d7ca4cfc",
@@ -10984,7 +10772,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1910f3013259",
@@ -11029,7 +10817,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b75b527aeb69",
@@ -11073,7 +10861,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a9571c488a6b",
@@ -11114,14 +10902,38 @@
       "started_at": "2026-07-23T05:00:32.992992+00:00",
       "expires_at": "2026-07-25T05:00:32.992992+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Daddy",
+        "name": "Elon Musk",
+        "mint": "43umuHnRhznVSYVFHDjJJmNL2aKBV9ih7hrWyL8fpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13361.0,
+        "liquidity_usd": 8309.95,
+        "price_usd": 1.336e-05,
+        "volume_h24": 9670.3,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -68.42,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1784744056000,
+        "pair_created_at": 1784744056000,
+        "url": "https://dexscreener.com/solana/9duhafbdt8ng6lrntyzimu6wtbeoslhxrz7brybyeje4",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in ELON MUSK"
+      },
       "cluster_top_title": "French lawmakers approve a sweeping social media ban for children under 15 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T07:44:28.087746+00:00"
     },
     {
       "id": "4acf1d4ef07e",
@@ -11166,8 +10978,186 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "064ebdf33674",
+      "fingerprint": "064ebdf33674",
+      "narrative_summary": "140 animales salvajes cautivos escaparon en Florida en 3 años, incluyendo un rinoceronte y canguros.",
+      "why_memeable": "La narrativa es fácil de entender y tiene un núcleo claro: animales salvajes escapando en Florida.",
+      "category": "animal",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RINOCERONTE",
+        "CANGURO",
+        "FLORIDA",
+        "ESCAPADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "rinoceronte",
+        "canguro",
+        "Florida",
+        "escapados"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T07:39:50.616477+00:00",
+      "expires_at": "2026-07-25T07:39:50.616477+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Cool",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "3c951ba89491",
+      "fingerprint": "3c951ba89491",
+      "narrative_summary": "El ministro de Defensa de Ucrania es despedido y se produce una transformación repentina en el ejército.",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso que permite capturar la esencia del evento.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA",
+        "EJÉRCITO",
+        "MINISTRO DE DEFENSA"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Ejército",
+        "Ministro de Defensa",
+        "Despedido"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T07:40:25.698689+00:00",
+      "expires_at": "2026-07-25T07:40:25.698689+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "019806b6c67f",
+      "fingerprint": "019806b6c67f",
+      "narrative_summary": "El presidente Trump comparte un enlace en xcancel.com con un alto nivel de engagement",
+      "why_memeable": "La narrativa es memeable porque es un enlace compartido por un figura pública polarizante con un alto nivel de engagement",
+      "category": "política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMP",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "XCANCEL",
+        "POLÍTICA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T07:42:21.021059+00:00",
+      "expires_at": "2026-07-25T07:42:21.021059+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "d27ec4eec27b",
+      "fingerprint": "d27ec4eec27b",
+      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas, generando gran interés en las redes.",
+      "why_memeable": "La narrativa es memeable debido a la frase 'FSD Supervised helps save lives', que es fácil de recordar y compartir.",
+      "category": "Tecnología y Automoción",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "FSD",
+        "TESLA",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "FSD",
+        "Tesla",
+        "ElonMusk",
+        "supervised",
+        "save lives"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T07:43:03.601640+00:00",
+      "expires_at": "2026-07-25T07:43:03.601640+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FSD Supervised helps save lives",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-23T05:01:05.902215+00:00"
+  "last_updated": "2026-07-23T07:44:28.087767+00:00"
 }
