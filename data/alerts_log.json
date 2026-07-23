@@ -1,138 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T23:54:01.437286+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b7c039fba771",
-        "score": 74,
-        "category": "Animales, Injusticia, Rescate",
-        "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-        "candidate_tickers": [
-          "PERRITOSDEGAZA",
-          "RESCATEDEPERROS",
-          "INJUSTICIAANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T04:53:36.771940+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "797585361e8a",
-        "score": 82,
-        "category": "Viralidad y entretenimiento",
-        "title": "A 100-Year-Old Man’s Dance Video Went Viral, but His Origin Story Is Even Better - VICE",
-        "candidate_tickers": [
-          "DANCE100",
-          "VIRALGRAN",
-          "BAILEVIEJO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T04:56:05.727549+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "internet culture",
-        "title": "You MUST post in this thread if you are waging rn",
-        "candidate_tickers": [
-          "WAGE",
-          "WAGING",
-          "4CHAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T08:47:46.595234+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "271633db77db",
-        "score": 82,
-        "category": "salud",
-        "title": "Postpartum Mom Who ‘Never Smoked’ Learns She Has Rare Stage 4 Lung Cancer (Exclusive) - People.com",
-        "candidate_tickers": [
-          "CANCER_MOM",
-          "POSTPARTUM_CANCER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T08:48:45.781135+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Deportes",
-        "title": "«No me lo explico»: la sorprendente opinión de Mats Hummels sobre la estrella del PSG, Achraf Hakimi - Goal.com",
-        "candidate_tickers": [
-          "HummelsHakimi",
-          "PSGHummels"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T11:20:45.896487+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7c8bb0da2609",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "British forces intercept Russian shadow fleet tanker in the Channel - Reuters",
-        "candidate_tickers": [
-          "RUSIA",
-          "TANQUE",
-          "INTERCEPTAR",
-          "CANAL",
-          "FUERZAS BRITÁNICAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T11:22:54.563739+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Marvin Fire reported in Placer County on June 14 - Sacramento Bee",
-        "candidate_tickers": [
-          "MarvinFire",
-          "PlacerCountyFire",
-          "CaliforniaWildfires"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T13:18:21.731081+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c11dacf409f9",
-        "score": 90,
-        "category": "conflicto internacional",
-        "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-        "candidate_tickers": [
-          "ISRAEL",
-          "HEZBOLLAH",
-          "BEBUT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T13:18:58.330824+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eec7131cb5e7",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Knicks fans celebrate throughout NYC after first title in 53 years - ESPN",
-        "candidate_tickers": [
-          "KNICKS53",
-          "NBA53",
-          "NYCCELEBRA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-14T13:19:35.767817+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28248,6 +28116,112 @@
           "Tesla",
           "Supervised"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-23T17:59:21.076657+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "783cd27b5a0f",
+        "score": 89,
+        "category": "Animales salvajes cautivos en Florida",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTECANGURO",
+          "FLORIDAWILDESCAPE",
+          "ANIMALESSALVAJESCAUTIVOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T18:00:29.514441+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bf97abcb8b87",
+        "score": 84,
+        "category": "Tecnología y Automoción",
+        "title": "FSD Supervised helps save lives",
+        "candidate_tickers": [
+          "FSD",
+          "FSDSUPERVISED",
+          "TESLASAVES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T18:01:34.498221+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tendencias en Twitter",
+        "title": "Yeah",
+        "candidate_tickers": [
+          "YEAH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T18:02:04.212513+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "noticias internacionales",
+        "title": "EXPLOSION HEARD IN IRAN'S QESHM ISLAND -STATE BROADCASTER IRIB",
+        "candidate_tickers": [
+          "Qeshm",
+          "IRIB",
+          "IranExplosion"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T18:02:53.089473+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3761040bc999",
+        "ticker": "𝕏",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "mc": 95184.0
+      }
+    },
+    {
+      "ts": "2026-07-23T18:02:57.211624+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0ccdd75b442e",
+        "ticker": "𝕏",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "mc": 95184.0
+      }
+    },
+    {
+      "ts": "2026-07-23T18:03:14.536307+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1fb099c49b99",
+        "ticker": "𝕏",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "mc": 95184.0
+      }
+    },
+    {
+      "ts": "2026-07-23T18:03:16.666401+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "163042539924",
+        "ticker": "𝕏",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "mc": 95184.0
+      }
+    },
+    {
+      "ts": "2026-07-23T18:03:37.498949+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bf97abcb8b87",
+        "ticker": "Tesla",
+        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
+        "mc": 21652.0
       }
     }
   ]

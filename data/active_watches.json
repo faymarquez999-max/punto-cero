@@ -1,98 +1,6 @@
 {
   "watches": [
     {
-      "id": "ef77779e5d2a",
-      "fingerprint": "ef77779e5d2a",
-      "narrative_summary": "Un entrenador de animales es condenado después de que 11 perros mueran bajo su cuidado.",
-      "why_memeable": "La historia tiene un claro arquetipo de injusticia con un villano y víctimas, lo que la hace fácilmente memeable.",
-      "category": "Noticias de animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERRONARDO",
-        "CUIDADOCANINO",
-        "PERROPROBLEMA"
-      ],
-      "key_terms_for_dex_search": [
-        "perros",
-        "muerte",
-        "entrenador",
-        "condena"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T00:15:11.628928+00:00",
-      "expires_at": "2026-07-14T00:15:11.628928+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Animal trainer sentenced after 11 dogs die in his care - WKRC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-14T03:40:37.471996+00:00"
-    },
-    {
-      "id": "547aa7eeff7a",
-      "fingerprint": "547aa7eeff7a",
-      "narrative_summary": "Rep. Ro Khanna fue detenido por colonos israelíes durante una visita a la Cuenca Occidental.",
-      "why_memeable": "La narrativa tiene un núcleo claro y se puede capturar en una frase corta. El hecho de que un político estadounidense sea detenido por colonos israelíes es un escándalo que puede generar mucha atención.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KHANNADETENIDO",
-        "CUENCAOCCIDENTAL",
-        "ISRAELDETIENE"
-      ],
-      "key_terms_for_dex_search": [
-        "Ro Khanna",
-        "Cuenca Occidental",
-        "detenido",
-        "israelíes"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T00:15:35.227692+00:00",
-      "expires_at": "2026-07-15T00:15:35.227692+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit - NBC News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 20,
-      "expired_at": "2026-07-15T03:40:22.469476+00:00"
-    },
-    {
       "id": "2cec96918e8e",
       "fingerprint": "2cec96918e8e",
       "narrative_summary": "Apple acusa a OpenAI de robo de secretos comerciales en un pleito",
@@ -5303,13 +5211,65 @@
       "started_at": "2026-07-18T03:39:25.112637+00:00",
       "expires_at": "2026-07-25T03:39:25.112637+00:00",
       "duration_hours": 168,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "𝕏",
+        "name": "ElonMuskRocketDogeInu42069",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 95184.0,
+        "liquidity_usd": 20796.56,
+        "price_usd": 9.518e-05,
+        "volume_h24": 1318498.3,
+        "volume_h1": 1199716.64,
+        "volume_m5": 84609.2,
+        "price_change_5m": -18.43,
+        "price_change_1h": 13.23,
+        "price_change_24h": 1218.0,
+        "txns_h1_buys": 3011,
+        "txns_h1_sells": 1779,
+        "created_ts": 1784825750000,
+        "pair_created_at": 1784825750000,
+        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
+        "safety_score": 30078,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 36
+      "scan_attempts": 37,
+      "matched_at": "2026-07-23T18:02:53.082108+00:00"
     },
     {
       "id": "2a461f0b425f",
@@ -8858,7 +8818,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "0ccdd75b442e",
@@ -8895,13 +8855,65 @@
       "started_at": "2026-07-21T03:54:29.893234+00:00",
       "expires_at": "2026-07-24T03:54:29.893234+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "𝕏",
+        "name": "ElonMuskRocketDogeInu42069",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 95184.0,
+        "liquidity_usd": 20796.56,
+        "price_usd": 9.518e-05,
+        "volume_h24": 1318498.3,
+        "volume_h1": 1199716.64,
+        "volume_m5": 84609.2,
+        "price_change_5m": -18.43,
+        "price_change_1h": 13.23,
+        "price_change_24h": 1218.0,
+        "txns_h1_buys": 3011,
+        "txns_h1_sells": 1779,
+        "created_ts": 1784825750000,
+        "pair_created_at": 1784825750000,
+        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
+        "safety_score": 30078,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Grok",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19,
+      "matched_at": "2026-07-23T18:02:57.205083+00:00"
     },
     {
       "id": "19f5c4b83369",
@@ -8948,7 +8960,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "4d732659dcdd",
@@ -8994,7 +9006,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "4b3d25613f93",
@@ -9110,7 +9122,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "4dedfdd02ad6",
@@ -9621,7 +9633,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "9761337d37af",
@@ -9889,7 +9901,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "f3b88af75201",
@@ -9937,7 +9949,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "0130c9f5847d",
@@ -10218,7 +10230,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "b3e0a4a058e7",
@@ -10349,7 +10361,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "1fb099c49b99",
@@ -10385,13 +10397,65 @@
       "started_at": "2026-07-22T16:06:49.541832+00:00",
       "expires_at": "2026-07-24T16:06:49.541832+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "𝕏",
+        "name": "ElonMuskRocketDogeInu42069",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 95184.0,
+        "liquidity_usd": 20796.56,
+        "price_usd": 9.518e-05,
+        "volume_h24": 1318498.3,
+        "volume_h1": 1199716.64,
+        "volume_m5": 84609.2,
+        "price_change_5m": -18.43,
+        "price_change_1h": 13.23,
+        "price_change_24h": 1218.0,
+        "txns_h1_buys": 3011,
+        "txns_h1_sells": 1779,
+        "created_ts": 1784825750000,
+        "pair_created_at": 1784825750000,
+        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
+        "safety_score": 29989,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12,
+      "matched_at": "2026-07-23T18:03:14.530427+00:00"
     },
     {
       "id": "163042539924",
@@ -10428,13 +10492,65 @@
       "started_at": "2026-07-22T16:07:16.959624+00:00",
       "expires_at": "2026-07-24T16:07:16.959624+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "𝕏",
+        "name": "ElonMuskRocketDogeInu42069",
+        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 95184.0,
+        "liquidity_usd": 20796.56,
+        "price_usd": 9.518e-05,
+        "volume_h24": 1318498.3,
+        "volume_h1": 1199716.64,
+        "volume_m5": 84609.2,
+        "price_change_5m": -18.43,
+        "price_change_1h": 13.23,
+        "price_change_24h": 1218.0,
+        "txns_h1_buys": 3011,
+        "txns_h1_sells": 1779,
+        "created_ts": 1784825750000,
+        "pair_created_at": 1784825750000,
+        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
+        "safety_score": 29989,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Exactly",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12,
+      "matched_at": "2026-07-23T18:03:16.659497+00:00"
     },
     {
       "id": "0052d7ca4cfc",
@@ -10477,7 +10593,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "1910f3013259",
@@ -10522,7 +10638,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b75b527aeb69",
@@ -10566,7 +10682,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a9571c488a6b",
@@ -10683,7 +10799,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "064ebdf33674",
@@ -10729,7 +10845,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "3c951ba89491",
@@ -10774,7 +10890,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "019806b6c67f",
@@ -10816,7 +10932,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d27ec4eec27b",
@@ -10944,7 +11060,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "83e7f7736488",
@@ -10991,7 +11107,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "652cd98b3ea9",
@@ -11041,7 +11157,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a41c9590c508",
@@ -11087,7 +11203,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e5a819886928",
@@ -11215,8 +11331,135 @@
         "google_news",
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "783cd27b5a0f",
+      "fingerprint": "783cd27b5a0f",
+      "narrative_summary": "140 animales salvajes cautivos se han escapado en Florida en 3 años, incluyendo un rinoceronte y canguros.",
+      "why_memeable": "La narrativa es memeable porque es absurda y fácil de compartir. La imagen de un rinoceronte y canguros escapados es icónica y puede ser compartida fácilmente.",
+      "category": "Animales salvajes cautivos en Florida",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "RINOCERONTECANGURO",
+        "FLORIDAWILDESCAPE",
+        "ANIMALESSALVAJESCAUTIVOS"
+      ],
+      "key_terms_for_dex_search": [
+        "rinoceronte",
+        "canguro",
+        "Florida",
+        "animales salvajes cautivos",
+        "escape"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T17:59:20.401025+00:00",
+      "expires_at": "2026-07-27T17:59:20.401025+00:00",
+      "duration_hours": 96,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Cool",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
       "scan_attempts": 1
+    },
+    {
+      "id": "bf97abcb8b87",
+      "fingerprint": "bf97abcb8b87",
+      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas",
+      "why_memeable": "El título es breve y captura la esencia de la noticia, y la participación de Elon Musk aumenta la viralidad",
+      "category": "Tecnología y Automoción",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "FSD",
+        "FSDSUPERVISED",
+        "TESLASAVES"
+      ],
+      "key_terms_for_dex_search": [
+        "FSD",
+        "Tesla",
+        "Supervised",
+        "SaveLives"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T18:00:28.955038+00:00",
+      "expires_at": "2026-07-25T18:00:28.955038+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Tesla",
+        "name": "Tesla",
+        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 21652.0,
+        "liquidity_usd": 33104.91,
+        "price_usd": 2.165e-05,
+        "volume_h24": 3247796.09,
+        "volume_h1": 793338.82,
+        "volume_m5": 54639.52,
+        "price_change_5m": -5.57,
+        "price_change_1h": 10.44,
+        "price_change_24h": 230.0,
+        "txns_h1_buys": 695,
+        "txns_h1_sells": 696,
+        "created_ts": 1784815261000,
+        "pair_created_at": 1784815261000,
+        "url": "https://dexscreener.com/solana/hn7q1y9sbc1q5rkpdkfmqwifktsm3mbbi6v2ksb1cn5p",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TESLA in TESLA",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
+      "cluster_top_title": "FSD Supervised helps save lives",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T18:03:37.492928+00:00"
     }
   ],
-  "last_updated": "2026-07-23T16:18:15.210224+00:00"
+  "last_updated": "2026-07-23T18:03:37.492944+00:00"
 }
