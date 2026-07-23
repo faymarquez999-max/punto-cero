@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-14T17:03:01.797720+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bca80171a072",
-        "score": 82,
-        "category": "Celebridad",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWMUSK",
-          "MUSKWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T17:03:08.681457+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ccea76816dd8",
-        "ticker": "SWIFT",
-        "mint": "9yAEwDQPrhLiZaKHeyU5q9GYmBLKtxvywjbqSJYqUvv6",
-        "mc": 81913.0
-      }
-    },
-    {
-      "ts": "2026-06-14T17:03:18.586533+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "cc7181866eb4",
-        "ticker": "SWIFT",
-        "mint": "9yAEwDQPrhLiZaKHeyU5q9GYmBLKtxvywjbqSJYqUvv6",
-        "mc": 81913.0
-      }
-    },
-    {
-      "ts": "2026-06-14T17:03:21.181965+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ce210203314d",
-        "ticker": "STABLE",
-        "mint": "4AjvPXMn8YZG9saAVJvcWspg73oTFf2JmU4in4Xgpump",
-        "mc": 110538.0
-      }
-    },
-    {
-      "ts": "2026-06-14T18:23:07.915359+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f77748300a98",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-        "candidate_tickers": [
-          "ISRAEL",
-          "HEZBOLLAH",
-          "BEIRUT",
-          "ATTACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T18:23:34.933012+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3af64d2cbdc3",
-        "score": 88,
-        "category": "política internacional",
-        "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
-        "candidate_tickers": [
-          "RUSSIA",
-          "UK",
-          "BUQUEPETROLERO",
-          "CANALDELMANCHA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-14T18:24:44.666042+00:00",
       "kind": "shadow",
       "payload": {
@@ -28210,6 +28134,87 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 243683.0
+      }
+    },
+    {
+      "ts": "2026-07-23T21:50:49.050227+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "economía",
+        "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
+        "candidate_tickers": [
+          "$100",
+          "petróleo",
+          "Brent",
+          "Tesla",
+          "Alphabet"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T21:51:36.336432+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "10eef742e152",
+        "score": 72,
+        "category": "Tecnología/Entretenimiento",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T21:51:59.578014+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3e781846330f",
+        "score": 84,
+        "category": "Tecnología/Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T21:52:21.002113+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "humor/entretenimiento",
+        "title": "Banger 😂",
+        "candidate_tickers": [
+          "BANGER",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T21:52:47.182055+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "316607dca2cf",
+        "score": 80,
+        "category": "Tecnología y celebridades",
+        "title": "Yeah",
+        "candidate_tickers": [
+          "YEAH",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T21:54:31.282846+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "316607dca2cf",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 253662.0
       }
     }
   ]

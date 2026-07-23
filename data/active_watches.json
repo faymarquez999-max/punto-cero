@@ -1,171 +1,6 @@
 {
   "watches": [
     {
-      "id": "55bf548f9f48",
-      "fingerprint": "55bf548f9f48",
-      "narrative_summary": "Apple acusa a OpenAI de robar secretos comerciales en un pleito",
-      "why_memeable": "El pleito entre Apple y OpenAI tiene un núcleo claro y fácil de compartir",
-      "category": "tech",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "APPLEVSOPENAI",
-        "OPENAISTEALING",
-        "APPLELAWSUIT"
-      ],
-      "key_terms_for_dex_search": [
-        "APPLE",
-        "OPENAI",
-        "pleito",
-        "secretos comerciales"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T10:49:03.593704+00:00",
-      "expires_at": "2026-07-14T10:49:03.593704+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Apple",
-        "name": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 47425.0,
-        "liquidity_usd": 27826.92,
-        "price_usd": 4.743e-05,
-        "volume_h24": 8585.78,
-        "volume_h1": 0.97,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.2,
-        "price_change_24h": -14.84,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 0,
-        "created_ts": 1777912988000,
-        "pair_created_at": 1777912988000,
-        "url": "https://dexscreener.com/solana/4akhvqwzj2b4ewdfxyiypgbfocklkkhmvbea18ypllum",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: APPLE in APPLE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-12T10:51:43.269554+00:00"
-    },
-    {
-      "id": "510b19ff0f31",
-      "fingerprint": "510b19ff0f31",
-      "narrative_summary": "Fat Leonard, un fugitivo, revela cómo escapó de los EE. UU. utilizando un muñeco de Elvis y un jet Gulfstream.",
-      "why_memeable": "La combinación de un muñeco de Elvis, un jet Gulfstream y la fuga de un fugitivo es absurda y fácil de recordar.",
-      "category": "fugitivo, muñeco de Elvis, jet Gulfstream",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "ELVISJET",
-        "FATLEONARD",
-        "FUGADEELVIS"
-      ],
-      "key_terms_for_dex_search": [
-        "Fat Leonard",
-        "muñeco de Elvis",
-        "jet Gulfstream",
-        "fuga",
-        "EE. UU."
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T10:50:31.047277+00:00",
-      "expires_at": "2026-07-14T10:50:31.047277+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "An Elvis dummy and a Gulfstream jet: Fat Leonard reveals how he fled the U.S. - The Washington Post",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-14T14:07:33.955338+00:00"
-    },
-    {
-      "id": "8938de856c2b",
-      "fingerprint": "8938de856c2b",
-      "narrative_summary": "Muere el ex-emir de Qatar, Hamad bin Khalifa Al Thani, a los 74 años",
-      "why_memeable": "La muerte de un líder político importante y la reacción de los medios de comunicación pueden generar un meme interesante",
-      "category": "política",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "QATAR",
-        "HAMAD BIN KHALIFA AL THANI",
-        "EX-EMIR"
-      ],
-      "key_terms_for_dex_search": [
-        "Qatar",
-        "Hamad bin Khalifa Al Thani",
-        "ex-emir",
-        "muerte",
-        "política"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 2,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-12T13:44:06.379801+00:00",
-      "expires_at": "2026-07-14T13:44:06.379801+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Muere el exemir de Qatar, Hamad bin Khalifa Al Thani, a los 74 años - ABC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-14T14:07:33.955344+00:00"
-    },
-    {
       "id": "3656a311c83b",
       "fingerprint": "3656a311c83b",
       "narrative_summary": "Iran cierra el Estrecho de Ormuz y Estados Unidos lanza ataques contra Irán",
@@ -8391,7 +8226,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "0ccdd75b442e",
@@ -8533,7 +8368,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "4d732659dcdd",
@@ -8579,7 +8414,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "4b3d25613f93",
@@ -8695,7 +8530,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "4dedfdd02ad6",
@@ -9206,7 +9041,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "9761337d37af",
@@ -9474,7 +9309,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "f3b88af75201",
@@ -9522,7 +9357,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "0130c9f5847d",
@@ -9803,7 +9638,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "b3e0a4a058e7",
@@ -9934,7 +9769,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "1fb099c49b99",
@@ -10212,7 +10047,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b75b527aeb69",
@@ -10256,7 +10091,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a9571c488a6b",
@@ -10373,7 +10208,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "064ebdf33674",
@@ -10419,7 +10254,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3c951ba89491",
@@ -10464,7 +10299,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "019806b6c67f",
@@ -10506,7 +10341,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d27ec4eec27b",
@@ -10708,7 +10543,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "652cd98b3ea9",
@@ -10758,7 +10593,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a41c9590c508",
@@ -10804,7 +10639,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e5a819886928",
@@ -11010,7 +10845,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "bf97abcb8b87",
@@ -11138,7 +10973,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a85db9c5b58d",
@@ -11183,7 +11018,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d998b5a2ed19",
@@ -11227,7 +11062,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2c74b5501a0d",
@@ -11273,7 +11108,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7e7e2737b099",
@@ -11317,7 +11152,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ec424d6593a7",
@@ -11457,7 +11292,160 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-23T20:50:46.364533+00:00"
+    },
+    {
+      "id": "10eef742e152",
+      "fingerprint": "10eef742e152",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención",
+      "why_memeable": "La simplicidad y la claridad de la publicación hacen que sea fácilmente compartible y recordable",
+      "category": "Tecnología/Entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "twitter"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 2,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T21:51:35.892789+00:00",
+      "expires_at": "2026-07-30T21:51:35.892789+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "3e781846330f",
+      "fingerprint": "3e781846330f",
+      "narrative_summary": "Elon Musk confirma 'Yes' en una publicación en Twitter, generando una gran cantidad de interacción",
+      "why_memeable": "La simplicidad de la respuesta 'Yes' y la importancia de la fuente (Elon Musk) hacen que sea fácilmente compartible y recordable",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YESMUSK",
+        "ELONYES"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "yes",
+        "twitter"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-23T21:51:59.199372+00:00",
+      "expires_at": "2026-07-25T21:51:59.199372+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "316607dca2cf",
+      "fingerprint": "316607dca2cf",
+      "narrative_summary": "Elon Musk publica 'Yeah' en Twitter, generando gran interés y participación",
+      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácil de compartir y recordar",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YEAH",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "MUSK",
+        "YEAH"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 10,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T21:52:46.786788+00:00",
+      "expires_at": "2026-07-25T21:52:46.786788+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 253662.0,
+        "liquidity_usd": 86743.51,
+        "price_usd": 0.0002537,
+        "volume_h24": 7677.09,
+        "volume_h1": 1151.57,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 4.1,
+        "price_change_24h": -9.86,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 2,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yeah",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T21:54:31.274336+00:00"
     }
   ],
-  "last_updated": "2026-07-23T20:50:46.364553+00:00"
+  "last_updated": "2026-07-23T21:54:31.274348+00:00"
 }
