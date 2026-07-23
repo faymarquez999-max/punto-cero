@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T19:49:27.551850+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "53adce1e3de6",
-        "score": 70,
-        "category": "entretenimiento",
-        "title": "Colman Domingo on Working With Steven Spielberg on ‘Disclosure Day’ and Believing in Aliens: ‘It Can’t Just Be Us’ - Variety",
-        "candidate_tickers": [
-          "DISCLOSUREDAY",
-          "SPIELBERGWINS",
-          "ALIENMOVIE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T19:51:41.848244+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Royal Family",
-        "title": "La sorprendente razón por la que el rey Carlos III celebra dos cumpleaños al año - La Razón",
-        "candidate_tickers": [
-          "ReyCarlosIIICumpleanos",
-          "DosCumpleañosRey",
-          "CarlosIIICumpleaños"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T19:52:21.631887+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fc3e8ce10892",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg.com",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "FABLE5",
-          "MYTHOS5"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T19:53:05.549868+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2627e9686fc0",
-        "score": 79,
-        "category": "noticias",
-        "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
-        "candidate_tickers": [
-          "EDSHEERANDISCOVERS",
-          "SECONDHANDSTORE",
-          "MUSICMYSTERY"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T21:25:22.052942+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28250,6 +28191,69 @@
         "ticker": "Daddy",
         "mint": "43umuHnRhznVSYVFHDjJJmNL2aKBV9ih7hrWyL8fpump",
         "mc": 13361.0
+      }
+    },
+    {
+      "ts": "2026-07-23T10:09:34.049344+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bbbda290681b",
+        "score": 89,
+        "category": "animal",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTEESCAPA",
+          "FLORIDAWILD",
+          "CANGUROSLIBRES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T10:10:44.083557+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1962d32d87ab",
+        "score": 90,
+        "category": "accidentes absurdos",
+        "title": "Animal lover run over by own car while saving cat on hill",
+        "candidate_tickers": [
+          "GATOSALVADOR",
+          "AUTOMÓVILGATO",
+          "COLINATRÁGICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T10:11:30.896629+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1900fc9f034",
+        "score": 88,
+        "category": "memecoins y tecnología",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "MEME",
+          "AGENT",
+          "AI",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T10:12:08.941622+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0395b99ad075",
+        "score": 70,
+        "category": "política",
+        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+        "candidate_tickers": [
+          "UCRANIA",
+          "EE.UU.",
+          "RUSIA",
+          "MANILA",
+          "GUERRA"
+        ]
       }
     }
   ]
