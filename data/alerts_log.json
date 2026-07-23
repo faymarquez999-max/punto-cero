@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T12:24:12.270246+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8f7026149a23",
-        "score": 82,
-        "category": "Política",
-        "title": "US judge orders halt to Trump administration's 'censorship' of park exhibits - Reuters",
-        "candidate_tickers": [
-          "TRUMP_CENSURA",
-          "JUEZ_DE_TRUMP",
-          "PARQUE_CENSURADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T12:24:47.902700+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "negocios",
-        "title": "A look at the SpaceX IPO by the numbers - AP News",
-        "candidate_tickers": [
-          "SPACEX",
-          "IPO",
-          "MILLENARIOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T12:25:17.683617+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28247,6 +28218,35 @@
         "ticker": "IRAN",
         "mint": "CGV1MvKLLMxsxnuwAokM7uW8arMf4SXpvrtu1noBnVUR",
         "mc": 211070.0
+      }
+    },
+    {
+      "ts": "2026-07-23T01:20:54.545814+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1910f3013259",
+        "score": 93,
+        "category": "ciencia",
+        "title": "Strange Milky Way planetary system leaves scientists puzzled - Reuters",
+        "candidate_tickers": [
+          "GALACTICSYSTEM",
+          "VÍALÁCTEA",
+          "PLANETASEXTRAÑOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T01:22:37.141548+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Tecnología",
+        "title": "Zero stories is a low number …",
+        "candidate_tickers": [
+          "XZERO",
+          "ELONMUSK",
+          "XCANCEL"
+        ]
       }
     }
   ]
