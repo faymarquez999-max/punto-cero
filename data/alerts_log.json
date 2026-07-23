@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T23:52:33.494290+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9915bbe87360",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Boston police officer goes viral after showing off soccer skills at World Cup Fan Fest - Boston 25 News",
-        "candidate_tickers": [
-          "BOSTONPOLICE",
-          "FÚTBOLVIRAL",
-          "OFICIALDEPOLICÍA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T23:53:16.243265+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3617870f47ba",
-        "score": 74,
-        "category": "política",
-        "title": "Trump's name has been removed from the Kennedy Center, a court filing says, as tarp remains up - CBS News",
-        "candidate_tickers": [
-          "TRUMP",
-          "KENNEDY",
-          "REMOVAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T23:54:01.437286+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28248,6 +28218,36 @@
         "ticker": "Tesla",
         "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
         "mc": 11677.0
+      }
+    },
+    {
+      "ts": "2026-07-23T16:18:15.954530+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0dbdce78cdb3",
+        "score": 91,
+        "category": "animal_injustice",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTE",
+          "CANGURO",
+          "FLORIDAWILD",
+          "ANIMALESCAPE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T16:18:49.562913+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología",
+        "title": "FSD Supervised helps save lives",
+        "candidate_tickers": [
+          "FSD",
+          "Tesla",
+          "Supervised"
+        ]
       }
     }
   ]
