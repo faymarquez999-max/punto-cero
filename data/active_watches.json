@@ -1,181 +1,6 @@
 {
   "watches": [
     {
-      "id": "373557eea12b",
-      "fingerprint": "373557eea12b",
-      "narrative_summary": "Typhoon Bavi se acerca a las islas japonesas, poniendo a la región en alerta",
-      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, lo que la hace fácilmente compartible",
-      "category": "clima",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TYPHOONBAVI",
-        "ALERTAJAPONESA",
-        "TIFÓNBAVI"
-      ],
-      "key_terms_for_dex_search": [
-        "TyphoonBavi",
-        "alerta",
-        "japonesa",
-        "clima"
-      ],
-      "score": 71,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-10T05:46:28.059524+00:00",
-      "expires_at": "2026-07-12T05:46:28.059524+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-12T06:49:18.293846+00:00"
-    },
-    {
-      "id": "ef7dbc61463b",
-      "fingerprint": "ef7dbc61463b",
-      "narrative_summary": "Israel compartió inteligencia con EE. UU. sobre un complot iraní para asesinar a Trump, según fuentes",
-      "why_memeable": "La narrativa tiene un núcleo claro y un título impactante, lo que la hace fácil de compartir y recordar",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRANPLOT",
-        "TRUMPASESINATO",
-        "ISRAELEEUU"
-      ],
-      "key_terms_for_dex_search": [
-        "Iran",
-        "Trump",
-        "asesinato",
-        "complot",
-        "Israel",
-        "EE.UU."
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-10T05:47:11.760754+00:00",
-      "expires_at": "2026-07-12T05:47:11.760754+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "FuMGatvkAZdDmvYmGBr5udXgmVRRYYddwLvs1Uzwmw1e",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 274991.0,
-        "liquidity_usd": 75206.17,
-        "price_usd": 2.749e-06,
-        "volume_h24": 1020542.33,
-        "volume_h1": 360646.13,
-        "volume_m5": 26040.33,
-        "price_change_5m": -4.34,
-        "price_change_1h": 19.06,
-        "price_change_24h": 133.0,
-        "txns_h1_buys": 1120,
-        "txns_h1_sells": 1137,
-        "created_ts": 1783652530000,
-        "pair_created_at": 1783652530000,
-        "url": "https://dexscreener.com/solana/enjb3fbrrngebzrb7gstcacnpynsa4ucsk4hutl24sa2",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IRAN in IRAN",
-        "safety_score": 11000,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          }
-        ]
-      },
-      "cluster_top_title": "Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say - CNN",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-10T05:49:23.445891+00:00"
-    },
-    {
-      "id": "22ad798b1e0b",
-      "fingerprint": "22ad798b1e0b",
-      "narrative_summary": "La disputa entre Elon Musk y Donald Trump ha escalado, con acusaciones sobre los archivos de Epstein.",
-      "why_memeable": "La combinación de dos figuras públicas polémicas y una acusación controvertida crea un escenario altamente memeable.",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "EPSTEINGATE",
-        "TRUMPFEUD",
-        "MUSKVSSTRUMP",
-        "DONALDVSELON"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Epstein",
-        "feud",
-        "celebrity drama"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-11T07:01:15.526042+00:00",
-      "expires_at": "2026-07-14T07:01:15.526042+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "/smg/ - stock market general",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-14T10:21:44.372327+00:00"
-    },
-    {
       "id": "6ff16de0e2c2",
       "fingerprint": "6ff16de0e2c2",
       "narrative_summary": "Ann Widdecombe, ex-diputada británica, asesinada en su hogar en Devon.",
@@ -9084,14 +8909,15 @@
       "started_at": "2026-07-20T04:28:11.817325+00:00",
       "expires_at": "2026-07-23T04:28:11.817325+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-23T04:57:37.421295+00:00"
     },
     {
       "id": "a6b6467aaec1",
@@ -11204,7 +11030,144 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "b75b527aeb69",
+      "fingerprint": "b75b527aeb69",
+      "narrative_summary": "Amish Shah gana la primaria demócrata en la carrera de la Cámara de Representantes de Arizona, en medio de un escándalo de infidelidad.",
+      "why_memeable": "El escándalo de infidelidad y la victoria de Amish Shah en la primaria demócrata en Arizona crean un contenido memeable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AMISHSHAH",
+        "ARIZONAPRIMARIA",
+        "ESCÁNDALODEINFIDELIDAD"
+      ],
+      "key_terms_for_dex_search": [
+        "AmishShah",
+        "ArizonaPrimaria",
+        "EscándaloDeInfidelidad"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 3,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 4,
+        "velocity": 5
+      },
+      "started_at": "2026-07-23T04:59:08.603717+00:00",
+      "expires_at": "2026-07-25T04:59:08.603717+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Amish Shah wins Dem primary in battleground Arizona House race - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a9571c488a6b",
+      "fingerprint": "a9571c488a6b",
+      "narrative_summary": "French lawmakers aprobó una amplia prohibición de redes sociales para niños menores de 15 años, mientras que Elon Musk amenaza con desafiar a los miembros del Congreso que voten por el proyecto de ley de Trump.",
+      "why_memeable": "El núcleo de la narrativa es la prohibición de redes sociales para niños menores de 15 años, lo que es un tema controvertido y polarizante. Además, la amenaza de Elon Musk de desafiar a los miembros del Congreso que voten por el proyecto de ley de Trump es un elemento adicional que agrega emoción y polarización.",
+      "category": "política y redes sociales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FRENCHBAN",
+        "ELONVSCONGRESS",
+        "SOCIALMEDIABAN"
+      ],
+      "key_terms_for_dex_search": [
+        "francia",
+        "redes sociales",
+        "prohibición",
+        "niños",
+        "Elon Musk",
+        "Congreso",
+        "proyecto de ley de Trump"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T05:00:32.992992+00:00",
+      "expires_at": "2026-07-25T05:00:32.992992+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "French lawmakers approve a sweeping social media ban for children under 15 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4acf1d4ef07e",
+      "fingerprint": "4acf1d4ef07e",
+      "narrative_summary": "OpenAI se culpa de un incidente de hacking que expuso riesgos en la carrera de IA.",
+      "why_memeable": "La narrativa es memeable porque involucra a una figura de la tecnología (OpenAI) y un incidente de hacking que expuso riesgos en la carrera de IA.",
+      "category": "Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OPENAI",
+        "IA",
+        "HACKING"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "IA",
+        "Hacking",
+        "Riesgos"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T05:01:05.902215+00:00",
+      "expires_at": "2026-07-26T05:01:05.902215+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-23T01:20:53.983785+00:00"
+  "last_updated": "2026-07-23T05:01:05.902215+00:00"
 }

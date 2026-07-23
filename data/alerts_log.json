@@ -1,96 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T12:25:17.683617+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c740467cbea6",
-        "ticker": "ANT",
-        "mint": "2zRJoY7uw5erDJ9Bu4GBYrndWqvf4YqBLupCqgbHpump",
-        "mc": 23370.0
-      }
-    },
-    {
-      "ts": "2026-06-13T14:42:48.289462+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "728b3db9d416",
-        "score": 73,
-        "category": "fútbol",
-        "title": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey - Reuters",
-        "candidate_tickers": [
-          "VAR",
-          "MUNDIAL",
-          "FÚTBOL",
-          "ESTADOS UNIDOS",
-          "PARAGUAY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T14:44:52.107869+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "04e768de54cf",
-        "score": 80,
-        "category": "Noticias",
-        "title": "Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery - The New York Times",
-        "candidate_tickers": [
-          "SLAVERYSIGNS",
-          "PARQUESNACIONALES",
-          "JUSTICIAHISTÓRICA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T14:46:08.750907+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología",
-        "title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China - Xataka",
-        "candidate_tickers": [
-          "Anthropic",
-          "Fable",
-          "Mythos",
-          "EE.UU.",
-          "China"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T14:46:40.418685+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c835ff223e1c",
-        "score": 70,
-        "category": "negocios",
-        "title": "Paramount Purchase of Warner Bros. Cleared by Justice Department - Bloomberg.com",
-        "candidate_tickers": [
-          "WARNERBROSPARAMOUNT",
-          "PARAMOUNTWARNER",
-          "JUSTICEDEPTAPPROVES",
-          "WARNERBROSSALE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T14:47:15.999074+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c1fdece36f5a",
-        "score": 90,
-        "category": "Deportes",
-        "title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
-        "candidate_tickers": [
-          "KNIKS",
-          "SPURS",
-          "NBA",
-          "FINALES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T16:08:46.306121+00:00",
       "kind": "shadow",
       "payload": {
@@ -28246,6 +28156,93 @@
           "XZERO",
           "ELONMUSK",
           "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T04:58:19.987795+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "EXCLUSIVE: Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say - Reuters",
+        "candidate_tickers": [
+          "INTL",
+          "AMD",
+          "CPU",
+          "CHINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T04:59:09.148135+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b75b527aeb69",
+        "score": 80,
+        "category": "política",
+        "title": "Amish Shah wins Dem primary in battleground Arizona House race - Politico",
+        "candidate_tickers": [
+          "AMISHSHAH",
+          "ARIZONAPRIMARIA",
+          "ESCÁNDALODEINFIDELIDAD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T04:59:46.523621+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Tecnología y Política",
+        "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
+        "candidate_tickers": [
+          "MuskPirate",
+          "ClaudeGate",
+          "ElonMuskPirate"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T05:00:33.545050+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a9571c488a6b",
+        "score": 88,
+        "category": "política y redes sociales",
+        "title": "French lawmakers approve a sweeping social media ban for children under 15 - AP News",
+        "candidate_tickers": [
+          "FRENCHBAN",
+          "ELONVSCONGRESS",
+          "SOCIALMEDIABAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T05:01:06.354422+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4acf1d4ef07e",
+        "score": 73,
+        "category": "Tecnología",
+        "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
+        "candidate_tickers": [
+          "OPENAI",
+          "IA",
+          "HACKING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T05:02:31.888278+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología",
+        "title": "Zero stories is a low number …",
+        "candidate_tickers": [
+          "ZeroStories",
+          "LowStories"
         ]
       }
     }
