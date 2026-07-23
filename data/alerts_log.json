@@ -1,104 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T21:27:30.511017+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "filosofía",
-        "title": "Pessimists sound smart.",
-        "candidate_tickers": [
-          "PESIMISTAS",
-          "OPTIMISTAS",
-          "SMART"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T21:29:47.997093+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7130ef816372",
-        "ticker": "ANTH",
-        "mint": "5ar4uHLz2xNsKeMapnsWpyzq2FNrBe6Ek5wyoQY4pump",
-        "mc": 14198.0
-      }
-    },
-    {
-      "ts": "2026-06-13T22:42:32.146755+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "06249b0d61da",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Brazil vs Morocco LIVE: Watch FIFA World Cup 2026 Group C TV stream, score, commentary, updates & stats - BBC",
-        "candidate_tickers": [
-          "BRAVSMOR",
-          "MUNDIAL2026",
-          "BRAVSMOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T22:43:14.992157+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "38ad91bd0a65",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "FABLE 5",
-          "MYTHOS 5",
-          "AI",
-          "EE. UU."
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T22:43:50.527446+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "entretenimiento",
-        "title": "Paramount Purchase of Warner Bros. Cleared by Justice Department - Bloomberg",
-        "candidate_tickers": [
-          "WarnerBros",
-          "Paramount",
-          "MegaMerger"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T22:44:52.253039+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y Ciencia",
-        "title": "SpaceX AI Satellites",
-        "candidate_tickers": [
-          "SPACEX_AI",
-          "AI_SATELLITE",
-          "MUSK_SATELLITE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T22:45:15.413097+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Filosofía y psicología",
-        "title": "Pessimists sound smart.",
-        "candidate_tickers": [
-          "PESIMISTAS",
-          "OPTIMISTAS",
-          "SOUND SMART"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T23:52:33.494290+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28252,6 +28154,100 @@
           "ROGUEAI",
           "WARNINGSHOT"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:36:55.597523+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "652cd98b3ea9",
+        "score": 80,
+        "category": "Política Internacional",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPISRAEL",
+          "SAUDINUKES",
+          "TRUMPNUKE",
+          "ISRAELDEAL",
+          "TRUMPSAUDI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:37:10.615715+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a41c9590c508",
+        "score": 92,
+        "category": "animal_injustice",
+        "title": "Cool",
+        "candidate_tickers": [
+          "RINOCERONTEFUGA",
+          "CANGUROSLIBRES",
+          "FLORIDAWILD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:37:32.226479+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "memecoins",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "MEME",
+          "MEME2026",
+          "MEMETORO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:40:05.607239+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMPXCANCEL",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:41:20.182534+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e5a819886928",
+        "score": 72,
+        "category": "Tecnología",
+        "title": "FSD Supervised helps save lives",
+        "candidate_tickers": [
+          "FSD",
+          "TESLA",
+          "SUPERVISED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T14:41:47.546006+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d27ec4eec27b",
+        "ticker": "Tesla",
+        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
+        "mc": 11677.0
+      }
+    },
+    {
+      "ts": "2026-07-23T14:41:54.063620+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e5a819886928",
+        "ticker": "Tesla",
+        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
+        "mc": 11677.0
       }
     }
   ]
