@@ -1,215 +1,6 @@
 {
   "watches": [
     {
-      "id": "3656a311c83b",
-      "fingerprint": "3656a311c83b",
-      "narrative_summary": "Iran cierra el Estrecho de Ormuz y Estados Unidos lanza ataques contra Irán",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro arquetipo de conflicto entre dos potencias",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRANVSUSA",
-        "ESTRECHODEORMUZ",
-        "ATAQUESCONTRAIRÁN"
-      ],
-      "key_terms_for_dex_search": [
-        "Estados Unidos",
-        "Irán",
-        "Estrecho de Ormuz",
-        "ataques"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T13:45:28.336545+00:00",
-      "expires_at": "2026-07-14T13:45:28.336545+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-14T14:07:33.955348+00:00"
-    },
-    {
-      "id": "fcf9690695f8",
-      "fingerprint": "fcf9690695f8",
-      "narrative_summary": "Erling Haaland's World Cup termina en un lugar impactante debido a una tarjeta roja absurda.",
-      "why_memeable": "La combinación de una tarjeta roja absurda y la importancia del Mundial de la FIFA hace que la narrativa sea memeable.",
-      "category": "fútbol",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HAALAND",
-        "TARJETA_ROJA",
-        "MUNDIAL_FIFA"
-      ],
-      "key_terms_for_dex_search": [
-        "Haaland",
-        "tarjeta_roja",
-        "Mundial_FIFA"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T13:46:10.333152+00:00",
-      "expires_at": "2026-07-14T13:46:10.333152+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HAALAND",
-        "name": "Erling Haaland",
-        "mint": "EYvkcWB5S4DFv7gJqR8D2W76U9n7kD3jvYcbSXdppump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 21122.0,
-        "liquidity_usd": 12942.54,
-        "price_usd": 2.112e-05,
-        "volume_h24": 741005.37,
-        "volume_h1": 380.76,
-        "volume_m5": 81.08,
-        "price_change_5m": 3.62,
-        "price_change_1h": 9.79,
-        "price_change_24h": -96.34,
-        "txns_h1_buys": 15,
-        "txns_h1_sells": 19,
-        "created_ts": 1782376965000,
-        "pair_created_at": 1782376965000,
-        "url": "https://dexscreener.com/solana/6g7tlasdmzdtak182uk6k6h8vd3ywfn3aq8zrutrn3dn",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: HAALAND==HAALAND",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Erling Haaland’s World Cup Ends In a Shocking Place - Time Magazine",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-12T14:50:32.604420+00:00"
-    },
-    {
-      "id": "47a48ed9991f",
-      "fingerprint": "47a48ed9991f",
-      "narrative_summary": "China's maritime claims in the South China Sea tienen no base, según un comunicado conjunto.",
-      "why_memeable": "La narrativa tiene un núcleo claro: China's maritime claims tienen no base. Es fácil de compartir y repetir.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CHINA_NO_BASE",
-        "MARITIME_CLAIMS"
-      ],
-      "key_terms_for_dex_search": [
-        "china",
-        "maritime",
-        "claims",
-        "no basis"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-12T13:46:43.419987+00:00",
-      "expires_at": "2026-07-14T13:46:43.419987+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "South China Sea joint statement says China's maritime claims have no basis - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-14T14:07:33.955353+00:00"
-    },
-    {
-      "id": "a0f00682f544",
-      "fingerprint": "a0f00682f544",
-      "narrative_summary": "Incendio en Los Gallardos, Almería, con 12 muertos y 23 personas desaparecidas.",
-      "why_memeable": "La narrativa cuenta con un evento dramático y trágico, lo que lo hace fácilmente compartible y recordable.",
-      "category": "Desastres naturales y accidentes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LOSGALLARDOS",
-        "INCENDIOALMERIA",
-        "DESASTREESPANA"
-      ],
-      "key_terms_for_dex_search": [
-        "Los Gallardos",
-        "incendio",
-        "Almería",
-        "desastre",
-        "muertos",
-        "desaparecidos"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-07-12T13:47:32.482407+00:00",
-      "expires_at": "2026-07-15T13:47:32.482407+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Última hora sobre el incendio en Los Gallardos (Almería), en directo: Juanma Moreno anuncia que el incendio está estabilizado - Onda Cero",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 20,
-      "expired_at": "2026-07-15T14:14:41.760427+00:00"
-    },
-    {
       "id": "6116bf8f0f7e",
       "fingerprint": "6116bf8f0f7e",
       "narrative_summary": "Alemania financia 50,000 drones de ataque para Ucrania, según una fuente",
@@ -8226,7 +8017,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 22
     },
     {
       "id": "0ccdd75b442e",
@@ -8368,7 +8159,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 22
     },
     {
       "id": "4d732659dcdd",
@@ -8414,7 +8205,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 22
     },
     {
       "id": "4b3d25613f93",
@@ -8530,7 +8321,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 21
+      "scan_attempts": 22
     },
     {
       "id": "4dedfdd02ad6",
@@ -9041,7 +8832,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "9761337d37af",
@@ -9309,7 +9100,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "f3b88af75201",
@@ -9357,7 +9148,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "0130c9f5847d",
@@ -9638,7 +9429,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "b3e0a4a058e7",
@@ -9769,7 +9560,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "1fb099c49b99",
@@ -10047,7 +9838,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "b75b527aeb69",
@@ -10091,7 +9882,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a9571c488a6b",
@@ -10208,7 +9999,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "064ebdf33674",
@@ -10254,7 +10045,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "3c951ba89491",
@@ -10299,7 +10090,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "019806b6c67f",
@@ -10341,7 +10132,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d27ec4eec27b",
@@ -10543,7 +10334,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "652cd98b3ea9",
@@ -10593,7 +10384,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a41c9590c508",
@@ -10639,7 +10430,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e5a819886928",
@@ -10845,7 +10636,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "bf97abcb8b87",
@@ -10973,7 +10764,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a85db9c5b58d",
@@ -11018,7 +10809,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d998b5a2ed19",
@@ -11062,7 +10853,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2c74b5501a0d",
@@ -11108,7 +10899,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "7e7e2737b099",
@@ -11152,7 +10943,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ec424d6593a7",
@@ -11333,7 +11124,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3e781846330f",
@@ -11375,7 +11166,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "316607dca2cf",
@@ -11445,7 +11236,236 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-23T21:54:31.274336+00:00"
+    },
+    {
+      "id": "6998c02217bd",
+      "fingerprint": "6998c02217bd",
+      "narrative_summary": "Un tiroteo policial en Madison, Wisconsin, deja a un hombre muerto y provoca protestas en la ciudad.",
+      "why_memeable": "La narrativa es memeable debido a la naturaleza dramática y conflictiva del evento.",
+      "category": "Noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MADISONSHOOTING",
+        "MADISONPROTEST",
+        "POLICESHOOTING"
+      ],
+      "key_terms_for_dex_search": [
+        "Madison",
+        "tiroteo policial",
+        "protestas",
+        "muerte"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T23:06:38.439028+00:00",
+      "expires_at": "2026-07-25T23:06:38.439028+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "As tensions rise in Madison after deadly police shooting, victim is identified - NBC News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "aaf14c087663",
+      "fingerprint": "aaf14c087663",
+      "narrative_summary": "Elon Musk envía un mensaje simple y viral en Twitter: 'Yup'",
+      "why_memeable": "La simplicidad y brevedad de la frase hacen que sea fácilmente compartible y recordable",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YUP",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "YUP",
+        "TWEET VIRAL"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-23T23:07:56.499849+00:00",
+      "expires_at": "2026-07-24T23:07:56.499849+00:00",
+      "duration_hours": 24,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 34902.0,
+        "liquidity_usd": 19998.08,
+        "price_usd": 3.497e-05,
+        "volume_h24": 7639.62,
+        "volume_h1": 248.75,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 6.5,
+        "price_change_24h": 12.45,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yup",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T23:10:21.361545+00:00"
+    },
+    {
+      "id": "2ffde966b0e2",
+      "fingerprint": "2ffde966b0e2",
+      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando gran interés y debate.",
+      "why_memeable": "La simplicidad y la brevedad de la publicación de Elon Musk la hacen altamente memeable.",
+      "category": "Tecnología/Entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "YES",
+        "TWEET",
+        "DEBATE"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-23T23:08:25.113530+00:00",
+      "expires_at": "2026-07-25T23:08:25.113530+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 34902.0,
+        "liquidity_usd": 19998.08,
+        "price_usd": 3.497e-05,
+        "volume_h24": 7639.62,
+        "volume_h1": 248.75,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 6.5,
+        "price_change_24h": 12.45,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-23T23:10:22.731465+00:00"
+    },
+    {
+      "id": "0b9d2eaaa7d6",
+      "fingerprint": "0b9d2eaaa7d6",
+      "narrative_summary": "Elon Musk defiende a Francia contra la corrupción política y el sistema globalista.",
+      "why_memeable": "Frase de Elon Musk que muestra su confianza en la gente francesa y su desconfianza en la política corrupta.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JESUISFRANCAIS",
+        "MUSKVSGLOBALISMO",
+        "CORRUPCIONPOLITICA"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "Francia",
+        "CorrupcionPolitica",
+        "Globalismo"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-23T23:09:31.731149+00:00",
+      "expires_at": "2026-07-25T23:09:31.731149+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Je suis Français.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-23T21:54:31.274348+00:00"
+  "last_updated": "2026-07-23T23:10:22.731483+00:00"
 }

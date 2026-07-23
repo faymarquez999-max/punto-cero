@@ -1,123 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-14T18:24:44.666042+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Celebridad",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOW",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T18:24:59.157404+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "74d3627ab592",
-        "score": 70,
-        "category": "Celebridad",
-        "title": "Did he stab someone ?",
-        "candidate_tickers": [
-          "ELONSTAB",
-          "STABMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:09:48.297806+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a114eb6465ba",
-        "score": 80,
-        "category": "Celebridad/Música",
-        "title": "Oliver Tree has reportedly died at the age of 32.",
-        "candidate_tickers": [
-          "TREE32",
-          "OLIVER",
-          "HELICOPTERCRASH",
-          "BRAZILTRAGEDY",
-          "MUSICIANLOST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:10:01.710568+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "52f348d6c1aa",
-        "score": 79,
-        "category": "Politica",
-        "title": "Sen. Mitch McConnell hospitalized, his team says - Politico",
-        "candidate_tickers": [
-          "MCCONNELLHOSPITALIZADO",
-          "MCCONNELLENELHOSPITAL",
-          "HOSPITALIZADOMCCONNELL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:10:32.279725+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e632fe74874",
-        "score": 89,
-        "category": "política internacional",
-        "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera",
-        "candidate_tickers": [
-          "RUSSIA",
-          "UK",
-          "CHANNEL",
-          "SHADOWFLEET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:11:35.531529+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a77fe69e257c",
-        "score": 72,
-        "category": "Tecnología y celebridades",
-        "title": "They will",
-        "candidate_tickers": [
-          "THEYWILL",
-          "ELONMUSK",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:12:24.822316+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2bff7798f3b3",
-        "score": 74,
-        "category": "Memes de Twitter",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOW",
-          "ELONWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T20:12:45.612531+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridad",
-        "title": "Did he stab someone ?",
-        "candidate_tickers": [
-          "DidHeStab",
-          "ElonMuskLeak"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-14T20:14:02.067008+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28215,6 +28098,114 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 253662.0
+      }
+    },
+    {
+      "ts": "2026-07-23T23:05:22.422442+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "economía",
+        "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
+        "candidate_tickers": [
+          "Brent",
+          "petróleo",
+          "Irán",
+          "tensiones"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:06:38.826998+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6998c02217bd",
+        "score": 80,
+        "category": "Noticias de actualidad",
+        "title": "As tensions rise in Madison after deadly police shooting, victim is identified - NBC News",
+        "candidate_tickers": [
+          "MADISONSHOOTING",
+          "MADISONPROTEST",
+          "POLICESHOOTING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:07:56.866620+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aaf14c087663",
+        "score": 82,
+        "category": "Tecnología y celebridades",
+        "title": "Yup",
+        "candidate_tickers": [
+          "YUP",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:08:25.505910+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ffde966b0e2",
+        "score": 80,
+        "category": "Tecnología/Entretenimiento",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:09:32.089195+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0b9d2eaaa7d6",
+        "score": 82,
+        "category": "Política",
+        "title": "Je suis Français.",
+        "candidate_tickers": [
+          "JESUISFRANCAIS",
+          "MUSKVSGLOBALISMO",
+          "CORRUPCIONPOLITICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:09:53.142163+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "celebridad",
+        "title": "Yep.  Nothing but love for @elonmusk !",
+        "candidate_tickers": [
+          "ELON",
+          "LOVE4ELON",
+          "MUSKMANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T23:10:21.368152+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aaf14c087663",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 34902.0
+      }
+    },
+    {
+      "ts": "2026-07-23T23:10:22.738102+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2ffde966b0e2",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 34902.0
       }
     }
   ]
