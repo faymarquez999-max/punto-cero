@@ -1,39 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-13T21:25:22.052942+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9ab070081afe",
-        "score": 88,
-        "category": "rescate animal, acusación de matar perros",
-        "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
-        "candidate_tickers": [
-          "PERROSACRIFICADO",
-          "RESCATEANIMALACUSADO",
-          "PERROSASESINADOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-13T21:26:04.981652+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7130ef816372",
-        "score": 88,
-        "category": "Tecnología y política",
-        "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "FABLE 5",
-          "MYTHOS 5",
-          "AI",
-          "EE. UU.",
-          "CHINA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-13T21:27:30.511017+00:00",
       "kind": "shadow",
       "payload": {
@@ -28253,6 +28220,37 @@
           "RUSIA",
           "MANILA",
           "GUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T12:07:26.396116+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "41c890ddac17",
+        "score": 82,
+        "category": "política internacional",
+        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+        "candidate_tickers": [
+          "TRUMPNUCLEAR",
+          "SAUDINUCLEAR",
+          "NUCLEARDEAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-23T12:08:04.234264+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "83e7f7736488",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' - AP News",
+        "candidate_tickers": [
+          "AI",
+          "OPENAI",
+          "ROGUEAI",
+          "WARNINGSHOT"
         ]
       }
     }
