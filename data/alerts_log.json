@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T22:39:25.813697+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f38301512106",
-        "score": 91,
-        "category": "Abuso infantil y violencia",
-        "title": "Teacher guilty of sexually abusing and murdering adopted baby",
-        "candidate_tickers": [
-          "DAVEY",
-          "VARLEY",
-          "ABUSO INFANTIL",
-          "ASESINATO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T22:39:54.557408+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a6d37f0df40a",
-        "score": 82,
-        "category": "tech",
-        "title": "This is nuts",
-        "candidate_tickers": [
-          "THIS_IS_NUTS",
-          "ELON_MUSK_NUTS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-15T22:40:36.224953+00:00",
       "kind": "shadow",
       "payload": {
@@ -28234,6 +28204,35 @@
         "candidate_tickers": [
           "MADNESS",
           "ELONMADNESS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T20:08:44.344343+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a6a5df674f23",
+        "score": 88,
+        "category": "Deportes",
+        "title": "LeBron James joining Philadelphia 76ers for title shot in 'last decision' - Reuters",
+        "candidate_tickers": [
+          "LBJ76ERS",
+          "LEBRONJOINS76ERS",
+          "LBJTO76ERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T20:11:21.204555+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridades y noticias",
+        "title": "Sean 'Diddy' Combs involved in prison fight, sent to solitary confinement: Source - ABC News - Breaking News, Latest News and Videos",
+        "candidate_tickers": [
+          "Diddy",
+          "Pelea en prisión",
+          "Aislamiento"
         ]
       }
     }
