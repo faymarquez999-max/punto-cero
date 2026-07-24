@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-14T20:14:02.067008+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a114eb6465ba",
-        "ticker": "Oliver",
-        "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
-        "mc": 44394.0
-      }
-    },
-    {
-      "ts": "2026-06-14T21:45:55.611455+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "657ebd96a8d7",
-        "score": 89,
-        "category": "accidentes aéreos",
-        "title": "Twelve people killed in Missouri plane crash, state highway patrol says - Reuters",
-        "candidate_tickers": [
-          "MISSOURICRASH",
-          "AVIÓNCAÍDO",
-          "12MUERTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T21:46:57.301245+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a37908724cb",
-        "score": 80,
-        "category": "Celebridad en Twitter",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOW",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-14T21:49:31.770261+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7a37908724cb",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 335707.0
-      }
-    },
-    {
       "ts": "2026-06-14T22:56:51.195846+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28206,6 +28156,65 @@
         "ticker": "MarsCoin",
         "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
         "mc": 34902.0
+      }
+    },
+    {
+      "ts": "2026-07-24T00:15:00.611970+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1275fea824d5",
+        "score": 86,
+        "category": "Política y Negocios",
+        "title": "The colors tonight took my breath away. The fully stacked Starship sits bathed in the light from its last sunset on Earth.",
+        "candidate_tickers": [
+          "TRUMPVSMUSK",
+          "MUSKVSTRUMP",
+          "TRUMPMUSKFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T00:17:02.881095+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1dd8ee616fd3",
+        "score": 89,
+        "category": "monedas de meme",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "MEME2026",
+          "MEMECOINS",
+          "RIPPLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T00:17:45.974160+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "66bd7d805a31",
+        "score": 88,
+        "category": "Noticias",
+        "title": "Man shot and killed by police in Madison, Wisconsin, sparking protests - CBS News",
+        "candidate_tickers": [
+          "MADISONSHOOTING",
+          "POLICÍAMATÓAHOMBRE",
+          "PROTESTASENWISCONSIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T00:20:05.057987+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Noticias financieras",
+        "title": "EXCLUSIVE: ECB considering several options to mitigate losses, sources say - Reuters",
+        "candidate_tickers": [
+          "ECB",
+          "PÉRDIDAS",
+          "MITIGAR"
+        ]
       }
     }
   ]
