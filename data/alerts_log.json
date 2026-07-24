@@ -1,96 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T05:47:12.356412+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "16384b92301b",
-        "ticker": "ElonMusk",
-        "mint": "ETDK2uZv8ffFnUvBZa4EVZAU4jYxJJLQaBot4sNG2BAf",
-        "mc": 80956.0
-      }
-    },
-    {
-      "ts": "2026-06-15T05:47:16.401133+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "53811e055732",
-        "ticker": "Oliver",
-        "mint": "BDjsFtoUrqsEqL2VKHq2EMGSq5Qntch3CRZHxR3mpump",
-        "mc": 37745.0
-      }
-    },
-    {
-      "ts": "2026-06-15T05:47:18.443320+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "95dfa9eb2c37",
-        "ticker": "VOLCANO",
-        "mint": "C8v4PHPeAmJdXnxJbUYR68sTrwKv3cPNxkeeMAPY4iwc",
-        "mc": 39943.0
-      }
-    },
-    {
-      "ts": "2026-06-15T11:38:06.344192+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "57cad8df0ce7",
-        "score": 80,
-        "category": "Tecnología y regulación",
-        "title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
-        "candidate_tickers": [
-          "TESLADECEP",
-          "AUTOENGANO",
-          "TSLAFSD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T11:38:27.207618+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b2586abb7e72",
-        "score": 80,
-        "category": "Noticias reales",
-        "title": "Eldest son of Norway’s crown princess sentenced to 4 years in prison for rape - AP News",
-        "candidate_tickers": [
-          "NOR4",
-          "ROYALRAPE",
-          "CROWNCRIME",
-          "PRINCE4",
-          "VIOLACIONREAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T11:39:20.319360+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Celebridad",
-        "title": "Time to get that volcano lair I’ve always wanted.",
-        "candidate_tickers": [
-          "VolcanoLair",
-          "ElonWantsLair",
-          "BBB"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T11:39:34.972025+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "05cd8294ecef",
-        "score": 85,
-        "category": "Tecnología/Política",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSKTWEET"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-15T16:35:56.768386+00:00",
       "kind": "shadow",
       "payload": {
@@ -28205,6 +28115,105 @@
           "SECRETSERVICESCANDAL",
           "JDVANCEGATE"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:16:09.000652+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e5da508eaf52",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "WORSTCONGRESS",
+          "TRUMPFEUD",
+          "MASSIEGATE",
+          "TRUMPTARIFS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:16:24.082416+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32cba724bcb5",
+        "score": 90,
+        "category": "juegos, anime",
+        "title": "Zero",
+        "candidate_tickers": [
+          "DRAGONBALLZERO",
+          "DLCSPARKINGZERO",
+          "ZEROLIMITBREAKING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:17:37.571758+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "49eb8b5348c0",
+        "score": 82,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:18:20.226818+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "190c0884d100",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Neuralink helping those who have lost their mind to body connection",
+        "candidate_tickers": [
+          "NEURALINK",
+          "MINDBODY",
+          "LOSTCONNECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:19:03.634375+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "74b4b311d3c8",
+        "score": 85,
+        "category": "Tecnología y futurismo",
+        "title": "Soon, this will happen to your town",
+        "candidate_tickers": [
+          "ELONMUSK",
+          "XCANCEL",
+          "TOWN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:19:50.261783+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "Yup",
+        "candidate_tickers": [
+          "YUP",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T11:20:13.685953+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "74b4b311d3c8",
+        "ticker": "FARM",
+        "mint": "yMJPZbnhoHib3ib8n8PfiVcp9yauk1vnaGKLx7epump",
+        "mc": 36367.0
       }
     }
   ]
