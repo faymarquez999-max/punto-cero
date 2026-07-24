@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T16:35:56.768386+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Deportes",
-        "title": "!@España - Cabo Verde hoy, en directo: previa y última hora del debut de la selección en el Mundial 2026 - cultura.gob.es",
-        "candidate_tickers": [
-          "ESPvsCV",
-          "EspañaMundial2026",
-          "CaboVerdeDebut"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T16:36:32.693785+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d151c03c83cf",
-        "score": 90,
-        "category": "Noticias internacionales",
-        "title": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly - Reuters",
-        "candidate_tickers": [
-          "ALQAQA",
-          "SPIDERMAN",
-          "HORMUZ",
-          "IRAN",
-          "EEUU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T16:36:34.513812+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "519d6a83e974",
-        "score": 80,
-        "category": "Noticias de celebridades y delitos",
-        "title": "Norwegian crown princess's son found guilty of two counts of rape",
-        "candidate_tickers": [
-          "RAPEPRINCE",
-          "NORWAYROYAL",
-          "METTEMARIT",
-          "MARIUSBORG",
-          "ROYALSHAME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T16:37:10.350396+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "85356f896b8b",
-        "score": 88,
-        "category": "tech",
-        "title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
-        "candidate_tickers": [
-          "TESLASCAM",
-          "FULLSELFDRIVINGLIE",
-          "AUTONOMOUSDECEPTION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T16:40:04.690151+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6ee0fc0f640c",
-        "score": 83,
-        "category": "política",
-        "title": "Unreal amount of investment to scam people into supporting mass migration",
-        "candidate_tickers": [
-          "SCAMMUSK",
-          "MIGRATIONSCAM",
-          "ELONSCAM"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-15T20:19:25.237577+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28214,6 +28136,80 @@
         "ticker": "FARM",
         "mint": "yMJPZbnhoHib3ib8n8PfiVcp9yauk1vnaGKLx7epump",
         "mc": 36367.0
+      }
+    },
+    {
+      "ts": "2026-07-24T12:52:33.579872+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6b9649307c9d",
+        "score": 89,
+        "category": "Juegos",
+        "title": "Zero",
+        "candidate_tickers": [
+          "DBS_ZERO",
+          "DLCLIMITBREAKING",
+          "DRAGONBALLSPARKING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T12:53:22.170777+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política internacional",
+        "title": "Trump Weighs Wider Iranian Attacks With Truce Still Elusive - Bloomberg.com",
+        "candidate_tickers": [
+          "TRUMPvsIRAN",
+          "IRANvsTRUMP",
+          "TRUMPattack"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T12:53:53.981066+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d8d3f2caf2d6",
+        "score": 74,
+        "category": "Desastres naturales",
+        "title": "Spain declares national emergency over wildfires",
+        "candidate_tickers": [
+          "FERRET",
+          "CAPFERRET",
+          "FIRESTORM",
+          "ESPANAEMERGENCY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T12:54:39.207965+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Política y Negocios",
+        "title": "US attacks Iran for 13th consecutive night",
+        "candidate_tickers": [
+          "Musk",
+          "Twitter",
+          "SEC",
+          "Lawsuit"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T12:55:56.667143+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Muertes de celebridades",
+        "title": "Independent autopsy of Nolan Wells finds ‘undetermined’ cause of death - AP News",
+        "candidate_tickers": [
+          "CelebDeath",
+          "MysteryIllness",
+          "StarPasses"
+        ]
       }
     }
   ]
