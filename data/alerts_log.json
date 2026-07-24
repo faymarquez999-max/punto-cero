@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T22:40:36.224953+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias de tecnología y negocios",
-        "title": "TESLA 🤝 AMERICAN-MADE",
-        "candidate_tickers": [
-          "TESLA",
-          "AMERICANMADE",
-          "USA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T00:21:09.092069+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6a00da9cbe47",
-        "score": 80,
-        "category": "accidente aéreo",
-        "title": "US Air Force B-52 bomber crashes in California; 8-member crew presumed dead - Reuters",
-        "candidate_tickers": [
-          "B52",
-          "CRASH",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T00:22:05.263265+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1fa58802b1b4",
-        "score": 79,
-        "category": "política",
-        "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-        "candidate_tickers": [
-          "NEWSOMINVESTIGADO",
-          "DOJVSNEWSOM",
-          "GAVINENRIESGO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T00:23:56.072578+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "negocios",
-        "title": "Fox to Buy Roku at $22 Billion Value in Streaming Video Push - Bloomberg",
-        "candidate_tickers": [
-          "FOX",
-          "ROKU",
-          "STREAMING"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-16T00:25:04.924950+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28233,6 +28175,66 @@
           "Diddy",
           "Pelea en prisión",
           "Aislamiento"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T21:33:42.737753+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e358bc74b01b",
+        "score": 80,
+        "category": "política",
+        "title": "ICC chief prosecutor removed from post over sexual misconduct allegations - AP News",
+        "candidate_tickers": [
+          "ICC",
+          "KARIMKHAN",
+          "FISCALÍAICC",
+          "MALCOMPORTAMIENTOSEXUAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T21:35:19.439500+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "61238de66e5b",
+        "score": 88,
+        "category": "Deporte",
+        "title": "LeBron James joining Philadelphia 76ers for title shot in 'last decision' - Reuters",
+        "candidate_tickers": [
+          "LBJ76",
+          "LEBRON76",
+          "LBJTO76ERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T21:36:06.085634+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "salud",
+        "title": "New US tariffs linked to claims of foreign forced labor dismay and anger trading partners - AP News",
+        "candidate_tickers": [
+          "Cyclospora",
+          "Diarrea",
+          "Parásitos",
+          "EE.UU."
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T21:36:46.543201+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política, negocios",
+        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote - AP News",
+        "candidate_tickers": [
+          "MuskLawsuit",
+          "TwitterScandal",
+          "ElonMuskProblems"
         ]
       }
     }
