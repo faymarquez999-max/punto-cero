@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T05:43:14.607768+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Brian Kemp endorses Burt Jones in Georgia’s gubernatorial runoff - Politico",
-        "candidate_tickers": [
-          "Kemp",
-          "Jones",
-          "Georgia",
-          "gubernatorial"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T05:44:04.693382+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "Starlink connecting schools on remote islands!",
-        "candidate_tickers": [
-          "STARLINK",
-          "ELON",
-          "ISLAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T05:44:20.233512+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "95dfa9eb2c37",
-        "score": 85,
-        "category": "Tecnología y celebridades",
-        "title": "Time to get that volcano lair I’ve always wanted.",
-        "candidate_tickers": [
-          "VOLCANOLAIR",
-          "BBB",
-          "BEYOND",
-          "ELONLAIR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T05:44:47.761244+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3d7a97376413",
-        "score": 70,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONTRUE",
-          "TRUEMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T05:47:05.772877+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a77fe69e257c",
-        "ticker": "ElonMusk",
-        "mint": "ETDK2uZv8ffFnUvBZa4EVZAU4jYxJJLQaBot4sNG2BAf",
-        "mc": 80956.0
-      }
-    },
-    {
       "ts": "2026-06-15T05:47:12.356412+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28199,6 +28129,82 @@
         "ticker": "OAI",
         "mint": "AYaooRNnetfAwh4Njmvbo1Ns1M1Go21zUgY9NMeVaz7R",
         "mc": 163714.0
+      }
+    },
+    {
+      "ts": "2026-07-24T09:14:10.337880+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Ciencia y tecnología",
+        "title": "CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models.",
+        "candidate_tickers": [
+          "KimiK3",
+          "CAISI",
+          "IAEEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T09:14:38.433933+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2d58ce79fe2a",
+        "score": 79,
+        "category": "Juegos",
+        "title": "Zero",
+        "candidate_tickers": [
+          "DBS",
+          "DBZ",
+          "DRAGONBALL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T09:16:47.626462+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5318dac6de50",
+        "score": 80,
+        "category": "guerra",
+        "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
+        "candidate_tickers": [
+          "UCRANIA",
+          "RUSIA",
+          "DRON",
+          "ALMACÉN",
+          "INCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T09:18:34.267198+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "33dec6fe12ac",
+        "score": 70,
+        "category": "Noticias de negocios y tecnología",
+        "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+        "candidate_tickers": [
+          "TECHTITAN",
+          "DIVORCIADODELOSMILLONES",
+          "EXWIFEWINS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T09:19:12.189993+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e199e3ac0ffc",
+        "score": 80,
+        "category": "Noticias políticas",
+        "title": "ICC prosecutor Karim Khan faces removal vote: What’s the case about?",
+        "candidate_tickers": [
+          "VANCELEAKS",
+          "SECRETSERVICESCANDAL",
+          "JDVANCEGATE"
+        ]
       }
     }
   ]
