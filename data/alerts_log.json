@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T20:23:51.435738+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "85356f896b8b",
-        "ticker": "DATA",
-        "mint": "BPsrLQMEtrdJq6xmNnuBQLsNUbms7q3BFZHq3TG3pump",
-        "mc": 26234.0
-      }
-    },
-    {
-      "ts": "2026-06-15T20:23:52.698069+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6ee0fc0f640c",
-        "ticker": "SCAM",
-        "mint": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
-        "mc": 194075.0
-      }
-    },
-    {
-      "ts": "2026-06-15T20:23:54.104998+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3e37acbc3d61",
-        "ticker": "HUNTER",
-        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
-        "mc": 79052.0
-      }
-    },
-    {
-      "ts": "2026-06-15T22:37:43.637945+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6f7aa9907522",
-        "score": 92,
-        "category": "política",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "VIRALCONGRESISTA",
-          "CONGRESISTAVIRAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T22:38:04.599899+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d438ec06a4fb",
-        "score": 74,
-        "category": "Accidentes de avión",
-        "title": "Eight feared dead after US Air Force B-52 bomber crashes in California",
-        "candidate_tickers": [
-          "B52CRASH",
-          "CALIFORNIACRASH",
-          "FUERZAAEREAEEUU"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-15T22:39:25.813697+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28223,6 +28163,78 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 257315.0
+      }
+    },
+    {
+      "ts": "2026-07-24T18:42:23.574515+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9edc7c327830",
+        "score": 88,
+        "category": "guerra, criptomonedas, Dogecoin",
+        "title": "This has my full support.",
+        "candidate_tickers": [
+          "DOGE",
+          "IRANWAR",
+          "CRYPTOCHAOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T18:43:01.509659+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8e5e1214caf3",
+        "score": 88,
+        "category": "Celebridad",
+        "title": "Chris Anne Boldt, mother of Ben Affleck and Casey Affleck, has died at the age of 83.",
+        "candidate_tickers": [
+          "CHRISANNEDIED",
+          "BENAFFLECKMOM",
+          "CASEYAFFLECKMOM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T18:45:03.533405+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "43f80de1833e",
+        "score": 70,
+        "category": "Deportes",
+        "title": "Breaking: LeBron James to the Philadelphia 76ers - Substack",
+        "candidate_tickers": [
+          "LEBRON76ERS",
+          "KINGJAMES76ERS",
+          "LBJ76ERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T18:46:15.824703+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Canada to mark Gordie Howe bridge opening without US after trade war deepens - Reuters",
+        "candidate_tickers": [
+          "GordieHowe",
+          "CanadaEEUU",
+          "PuenteGordieHowe"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T18:47:03.685879+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología y Negocios",
+        "title": "Madness",
+        "candidate_tickers": [
+          "MADNESS",
+          "ELONMADNESS"
+        ]
       }
     }
   ]
