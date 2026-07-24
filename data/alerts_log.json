@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-15T20:19:25.237577+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3e37acbc3d61",
-        "score": 79,
-        "category": "política",
-        "title": "Lmao. And there’s the plan. Right there. Laid bare in your face. Create the problem (stranger danger), sell the solution (more authoritative surveillance state), repeat forever. Everyone owes conspira",
-        "candidate_tickers": [
-          "NEWSOM",
-          "DOJ",
-          "TRUMP",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T20:19:49.839242+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0daeec341233",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "Nvidia to raise $25 billion, sources say, in first corporate bond sale in five years - Reuters",
-        "candidate_tickers": [
-          "NVIDIA",
-          "ILUVATAR",
-          "BYTEDANCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-15T20:20:38.538928+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a096fbf378fb",
-        "score": 88,
-        "category": "Deporte/Justicia",
-        "title": "Soccer Spanish striker Rafa Mir sentenced to 8 1/2 years in jail for sexual assault - Reuters",
-        "candidate_tickers": [
-          "RAFAMIR",
-          "FUTBOLISTACONDENADO",
-          "AGRESIONSEXUAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-15T20:21:06.597575+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28209,6 +28163,49 @@
           "CelebDeath",
           "MysteryIllness",
           "StarPasses"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T15:03:31.284076+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models.",
+        "candidate_tickers": [
+          "TRUMP",
+          "ANTHROPIC",
+          "FORCEDLABOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T15:05:21.711876+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "42684e0993ef",
+        "score": 90,
+        "category": "Juegos",
+        "title": "Zero",
+        "candidate_tickers": [
+          "DBZERO",
+          "DRAGONBALLZERO",
+          "SPARKINGZERO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T15:06:48.504991+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias de actualidad",
+        "title": "El delegado aboga por \"salvar vidas\" en el incendio y no caer en \"ninguna distracción\" por las polémicas políticas - Ultima Hora",
+        "candidate_tickers": [
+          "IncendiosMadrid",
+          "DelegadoSalvaVidas",
+          "PolémicaPolítica"
         ]
       }
     }
