@@ -1,53 +1,6 @@
 {
   "watches": [
     {
-      "id": "1c76d39e6f69",
-      "fingerprint": "1c76d39e6f69",
-      "narrative_summary": "Jon Stewart se burla de la foto de recuperación de Mitch McConnell",
-      "why_memeable": "La frase 'Jon Stewart se burla de la foto de recuperación de Mitch McConnell' es fácil de recordar y compartir, y tiene un claro núcleo de humor y crítica política.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JONVSMITCH",
-        "STEWARTVSMCCONNELL",
-        "MOCKINGMCCONNELL"
-      ],
-      "key_terms_for_dex_search": [
-        "JonStewart",
-        "MitchMcConnell",
-        "política",
-        "humor",
-        "crítica"
-      ],
-      "score": 90,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-14T10:23:53.231972+00:00",
-      "expires_at": "2026-07-16T10:23:53.231972+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-07-16T11:22:29.955878+00:00"
-    },
-    {
       "id": "2c33f05742a3",
       "fingerprint": "2c33f05742a3",
       "narrative_summary": "El actor Sam Neill, conocido por su papel en 'Jurassic Park', ha fallecido a los 78 años.",
@@ -11635,7 +11588,50 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "159d59b04606",
+      "fingerprint": "159d59b04606",
+      "narrative_summary": "Incendios forestales en España, más de 60.000 afectados",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, y la imagen de los incendios es icónica.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FUEGO",
+        "ESPANA",
+        "INCENDIOS"
+      ],
+      "key_terms_for_dex_search": [
+        "incendios",
+        "españa",
+        "fuego"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-24T22:44:33.738510+00:00",
+      "expires_at": "2026-07-26T22:44:33.738510+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Incendios en España hoy, última hora en directo: - RTVE.es",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-24T17:06:26.820704+00:00"
+  "last_updated": "2026-07-24T22:44:33.738510+00:00"
 }

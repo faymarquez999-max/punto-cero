@@ -1,63 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-16T00:25:04.924950+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "706ef97963c0",
-        "score": 79,
-        "category": "Política/Noticias",
-        "title": "Battleground Iowa House race takes bizarre turn with alleged RFK Jr. intervention - Politico",
-        "candidate_tickers": [
-          "RFKJR",
-          "IOWAHOUSE",
-          "BIZARRETURN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T00:25:31.079555+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Tecnología",
-        "title": "SpaceX IPO raised $10bn more than thought",
-        "candidate_tickers": [
-          "SPACEXSURPRISE",
-          "IPOBOOM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T06:13:04.085195+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a3ad4ad0b8c1",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "VIRALREP",
-          "MUSKED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T06:13:20.451145+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "crítica social",
-        "title": "They always use defensible excuses for the indefensible",
-        "candidate_tickers": [
-          "EXCUSE",
-          "DEFEND",
-          "MUSKED"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-16T06:13:47.265194+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28235,6 +28178,60 @@
           "MuskLawsuit",
           "TwitterScandal",
           "ElonMuskProblems"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T22:42:59.262870+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "tech",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOW",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T22:44:34.398766+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "159d59b04606",
+        "score": 82,
+        "category": "Desastres naturales",
+        "title": "Incendios en España hoy, última hora en directo: - RTVE.es",
+        "candidate_tickers": [
+          "FUEGO",
+          "ESPANA",
+          "INCENDIOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T22:44:58.541023+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Deportes",
+        "title": "Tony Romo arrested in Milwaukee on suspicion of operating under the influence - WISN",
+        "candidate_tickers": [
+          "TonyRomo",
+          "RomoArrestado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-24T22:46:29.120700+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "tech",
+        "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Yahoo",
+        "candidate_tickers": [
+          "OpenAIHack",
+          "AIAGENT"
         ]
       }
     }
