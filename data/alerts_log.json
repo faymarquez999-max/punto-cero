@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-16T11:40:32.450212+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6cebaade1fd6",
-        "score": 70,
-        "category": "noticias",
-        "title": "NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC",
-        "candidate_tickers": [
-          "NEET",
-          "TELEGRAM",
-          "FRAUDE",
-          "EXAMEN MÉDICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T11:40:39.820226+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "crítica social",
-        "title": "They always use defensible excuses for the indefensible",
-        "candidate_tickers": [
-          "EXCUSE",
-          "DEFEND",
-          "MUSKED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T11:40:58.041233+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1d96bcaaf2e0",
-        "score": 74,
-        "category": "meme",
-        "title": "Indeed 😂",
-        "candidate_tickers": [
-          "INDEED",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-16T16:17:23.944704+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28233,6 +28189,44 @@
           "IncendioAranjuez",
           "FuegoAranjuez"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-25T01:18:31.924068+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "tech",
+        "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+        "candidate_tickers": [
+          "OPENAIHACK",
+          "AIAGENT",
+          "HACKED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T01:18:52.503312+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ef2ebb74a202",
+        "score": 80,
+        "category": "Celebridad",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOW",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T01:23:06.523952+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ef2ebb74a202",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 252264.0
       }
     }
   ]
