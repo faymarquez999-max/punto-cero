@@ -1,77 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T05:12:35.461123+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "81d943c07ab4",
-        "ticker": "MESSI",
-        "mint": "5bWo9g4qsEviNcnPZEcemfmuCxqgh9n1xwpGA5Cypump",
-        "mc": 12174.0
-      }
-    },
-    {
-      "ts": "2026-06-17T10:08:44.772013+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "959fad982fe6",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "Just follow SpaceX if you want news about our company",
-        "candidate_tickers": [
-          "TRUMPLEAK",
-          "MUSKTWEET",
-          "POLITIFAIL",
-          "LEAKGATE",
-          "TRUMPFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T10:09:19.159978+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Finanzas",
-        "title": "El debut de Kevin Warsh pone a prueba el rumbo del par EUR/USD - XTB.com",
-        "candidate_tickers": [
-          "EURUSD",
-          "KevinWarsh",
-          "WarshDebut"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T10:10:09.146658+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5bf0aad24b01",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Messi sigue siendo 'D10S': hat trick histórico para igualar el récord de goles en mundiales en la victoria de Argentina - RTVE.es",
-        "candidate_tickers": [
-          "MESSI",
-          "D10S",
-          "HATTRICK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T10:11:33.305000+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "63800bcb7017",
-        "score": 80,
-        "category": "Celebridades",
-        "title": "Dramatic rescue after plane crashes onto Texas highway",
-        "candidate_tickers": [
-          "CATHERINEOHARA",
-          "ACCIDENTEAEREOTEXAS",
-          "CATHERINEOHARAFALLECIO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-17T10:12:39.180476+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28228,6 +28157,83 @@
         "candidate_tickers": [
           "TRUMP",
           "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T14:06:18.186350+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Celebridad",
+        "title": "What has happened to towns who did nothing to deserve it, like little Piddington village, will happen to all of Britain, unless there is fundamental political change.",
+        "candidate_tickers": [
+          "TRUMP_MUSK",
+          "MUSK_TRUMP",
+          "TRUMP_MUSK_REUNION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T14:07:35.107548+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e0c67f815176",
+        "score": 88,
+        "category": "conflicto en el Medio Oriente",
+        "title": "Israeli occupation forces raid Al-Mughayyir village in Ramallah district in the West Bank",
+        "candidate_tickers": [
+          "ALMU",
+          "MUG",
+          "RAMA",
+          "ISRAEL",
+          "PALESTINOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T14:09:16.376314+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "candidate_tickers": [
+          "TRUMPvsPRES",
+          "TRUMPvsMEDIA",
+          "TRUMPvsCORRESPONDIENTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T14:10:48.614540+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fc92589746fa",
+        "score": 74,
+        "category": "política",
+        "title": "India Education Minister Resigns in Bow to Youth Protest Demand - Bloomberg.com",
+        "candidate_tickers": [
+          "INDIA_PROTEST",
+          "MODI_DOWN",
+          "EDUCATION_MINISTER_RESIGNS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T14:11:29.561472+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db2c7d07d996",
+        "score": 78,
+        "category": "catástrofes naturales",
+        "title": "Firefighters battle to contain France and Spain wildfires as thousands more evacuated near Bordeaux - BBC",
+        "candidate_tickers": [
+          "FIRE",
+          "FRANCE",
+          "SPAIN",
+          "BORDEAUX",
+          "WILDFIRES"
         ]
       }
     }
