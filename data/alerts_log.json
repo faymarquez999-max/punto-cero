@@ -1,102 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T14:10:15.104223+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fc1391f128ba",
-        "ticker": "MUSK",
-        "mint": "CzHc1ugMNhim5JCJC8ebbp4k14jfrbZx1HNcMyEppump",
-        "mc": 47210.0
-      }
-    },
-    {
-      "ts": "2026-06-17T17:29:01.061883+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Finanzas",
-        "title": "Dow rises to record as oil ticks higher, traders await Fed rate decision: Live updates - CNBC",
-        "candidate_tickers": [
-          "DOW",
-          "PETRÓLEO",
-          "SNAP",
-          "FED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T17:30:17.347555+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "67aaa395326d",
-        "score": 78,
-        "category": "Tecnología y Política",
-        "title": "Telegram challenges India app ban, calls move unconstitutional",
-        "candidate_tickers": [
-          "TELEGRAMINDIA",
-          "INDIABLOCK",
-          "TELEGRAMDESAFÍA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T17:30:41.729734+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "economía",
-        "title": "Kevin Warsh set to lead his first Federal Reserve interest rate meeting. Here's what to expect. - CBS News",
-        "candidate_tickers": [
-          "Warsh",
-          "Reserva Federal",
-          "tasas de interés"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T17:31:28.766954+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dbaa5e06a940",
-        "score": 88,
-        "category": "Asesinato en serie",
-        "title": "Gilgo Beach Killer Rex Heuermann Sentenced to Life in Prison Without Parole",
-        "candidate_tickers": [
-          "REXHEUERMANN",
-          "GILGOBEACHKILLER",
-          "CADENAPERPETUA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T17:32:03.964429+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia - Al Jazeera",
-        "candidate_tickers": [
-          "G7",
-          "Ucrania",
-          "Rusia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T17:32:25.052721+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología/Ingeniería",
-        "title": "Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars",
-        "candidate_tickers": [
-          "SolarConscious",
-          "SunSentient"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-17T17:33:13.278073+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28232,6 +28136,98 @@
           "INCENDIOSESP",
           "FUEGOSALVA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:38:13.314160+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c2179990f6a",
+        "score": 88,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMP",
+          "WHCD",
+          "EPSTEIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:40:36.056841+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1fed69f3c2fb",
+        "score": 88,
+        "category": "Política y sociedad",
+        "title": "India Education Minister Resigns in Bow to Youth Protest Demand - Bloomberg.com",
+        "candidate_tickers": [
+          "COCKROACH",
+          "INDIAPROTESTS",
+          "EDUCATIONMINISTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:40:54.334315+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "animal_cruelty",
+        "title": "The Battle Over Al-Aqsa",
+        "candidate_tickers": [
+          "KittenKiller",
+          "AnimalCruelty",
+          "CaliforniaCrimes"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:41:32.768201+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Maine Democrats officially select Troy Jackson to replace Graham Platner - Politico",
+        "candidate_tickers": [
+          "TROYJACKSON",
+          "MAINEDEMOCRATS",
+          "GRAHAMPLATNER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:42:48.223154+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "conflicto internacional",
+        "title": "Houthis Claim Saudi Attack as US Ends Run of Iran Strikes - Bloomberg.com",
+        "candidate_tickers": [
+          "HOUTHIS",
+          "SAUDIATTACK",
+          "IRANSTRIKES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T17:43:00.850514+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7e7e2737b099",
+        "ticker": "TSLAx",
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "mc": 311704.0
+      }
+    },
+    {
+      "ts": "2026-07-25T17:43:31.854938+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4f868c9d3ae6",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
       }
     }
   ]

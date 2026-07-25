@@ -1,127 +1,6 @@
 {
   "watches": [
     {
-      "id": "0fdaa35c6b2c",
-      "fingerprint": "0fdaa35c6b2c",
-      "narrative_summary": "Argentina sorprende a Inglaterra en la final del Mundial 2026",
-      "why_memeable": "La sorpresa y el giro inesperado en el partido de fútbol",
-      "category": "Deportes",
-      "matched_archetype": "underdog_victory_or_redemption",
-      "candidate_tickers": [
-        "ARGVSENG",
-        "ARGWIN",
-        "MUNDIAL2026"
-      ],
-      "key_terms_for_dex_search": [
-        "ARGvsENG",
-        "ARGwin",
-        "Mundial2026",
-        "fútbol",
-        "sorpresa",
-        "golpe"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T22:19:32.833154+00:00",
-      "expires_at": "2026-07-17T22:19:32.833154+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-17T23:12:22.353277+00:00"
-    },
-    {
-      "id": "7b58362f392f",
-      "fingerprint": "7b58362f392f",
-      "narrative_summary": "SpaceX comparte caída por primera vez debajo del precio de IPO debido a una acelerada caída en la bolsa",
-      "why_memeable": "La caída de SpaceX es un tema interesante y fácil de compartir, especialmente con la participación de Elon Musk",
-      "category": "Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "SPACEX",
-        "ELON",
-        "MUSK",
-        "SPACE"
-      ],
-      "key_terms_for_dex_search": [
-        "SpaceX",
-        "caída",
-        "IPO",
-        "Elon Musk"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-07-16T01:02:33.914912+00:00",
-      "expires_at": "2026-07-18T01:02:33.914912+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "AUGUR",
-        "name": "TipOS",
-        "mint": "6SkWURtM8HigcuLbTE4AzHMDfcNyTrHiCSJEH38Hpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20536.0,
-        "liquidity_usd": 10788.58,
-        "price_usd": 2.054e-05,
-        "volume_h24": 252804.61,
-        "volume_h1": 35346.09,
-        "volume_m5": 2999.65,
-        "price_change_5m": -6.49,
-        "price_change_1h": -22.37,
-        "price_change_24h": -34.55,
-        "txns_h1_buys": 557,
-        "txns_h1_sells": 403,
-        "created_ts": 1784156075000,
-        "pair_created_at": 1784156075000,
-        "url": "https://dexscreener.com/solana/exvw9wxpr4tnmchukxgwmym4xytr3ytkwpqde35e9sew",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: IPO in TIPOS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "SpaceX shares slide below IPO price for the first time as blistering rally unravels - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-16T01:05:19.013934+00:00"
-    },
-    {
       "id": "522146902285",
       "fingerprint": "522146902285",
       "narrative_summary": "Un dron ucraniano mata al ingeniero jefe en la planta nuclear de Zaporizhzhia, según Rusia.",
@@ -11584,7 +11463,100 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "2c2179990f6a",
+      "fingerprint": "2c2179990f6a",
+      "narrative_summary": "Trump regresa a la cena de los periodistas con un tributo medido y ataques ácidos después de un tiroteo en abril.",
+      "why_memeable": "La frase de Trump sobre ser el 'peor congresista en la historia del país' es memeable y polarizante.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "WHCD",
+        "EPSTEIN"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "WHCD",
+        "EPSTEIN",
+        "política",
+        "memes"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T17:38:12.706712+00:00",
+      "expires_at": "2026-07-27T17:38:12.706712+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1fed69f3c2fb",
+      "fingerprint": "1fed69f3c2fb",
+      "narrative_summary": "El ministro de Educación de la India renuncia ante la presión de los jóvenes protestantes",
+      "why_memeable": "La narrativa tiene un título memorable y un término clave ('Cockroach') que puede ser utilizado para crear un meme. Además, la historia tiene un impacto emocional y cultural significativo.",
+      "category": "Política y sociedad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COCKROACH",
+        "INDIAPROTESTS",
+        "EDUCATIONMINISTER"
+      ],
+      "key_terms_for_dex_search": [
+        "Cockroach",
+        "India",
+        "protestas",
+        "ministro de Educación"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T17:40:35.470343+00:00",
+      "expires_at": "2026-07-28T17:40:35.470343+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "India Education Minister Resigns in Bow to Youth Protest Demand - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-25T12:13:09.468008+00:00"
+  "last_updated": "2026-07-25T17:40:35.470343+00:00"
 }
