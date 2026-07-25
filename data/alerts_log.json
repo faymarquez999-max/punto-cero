@@ -1,121 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T05:07:16.838064+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "81d943c07ab4",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Lionel Messi rewrites history books at record sixth World Cup",
-        "candidate_tickers": [
-          "MESSI6",
-          "ARGENTINA",
-          "WORLDCUP",
-          "GOATMESSI",
-          "RECORDMESSI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:07:41.612482+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cbef523436d9",
-        "score": 78,
-        "category": "noticias internacionales",
-        "title": "The Papers: ''Scary' clash in Channel' and 'Oh frigate!'",
-        "candidate_tickers": [
-          "RUSSWAR",
-          "CHANNELCLASH",
-          "WARSHIP",
-          "YACHTINCIDENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:07:55.081537+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4f00344444d3",
-        "score": 78,
-        "category": "política",
-        "title": "Trump Ally Collins Beats Kemp’s Pick for Senate in Georgia Race - Bloomberg.com",
-        "candidate_tickers": [
-          "TRUMPVSKEMP",
-          "COLLINSWIN",
-          "GEORGIASENATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:08:34.880678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fc056d06e244",
-        "score": 74,
-        "category": "crimen y violencia",
-        "title": "Partner of Florida woman mauled to death by dogs released on bond in animal neglect case - FOX 35 Orlando",
-        "candidate_tickers": [
-          "PERROSASESINOS",
-          "MATAZODEFLORIDA",
-          "AMORYPERROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:09:11.276372+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "clima y medio ambiente",
-        "title": "El Nino is here and scientists fear it’ll be big, bad and costly with heat, floods, droughts, fires - AP News",
-        "candidate_tickers": [
-          "ElNino",
-          "Clima",
-          "MedioAmbiente"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:11:08.311329+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump invokes Defense Production Act for munitions, supply chains - Reuters",
-        "candidate_tickers": [
-          "TRUMP_DEFENSE",
-          "MUNICIONES",
-          "Cadenas_Suministro"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:11:45.497910+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología",
-        "title": "Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027 - Bloomberg.com",
-        "candidate_tickers": [
-          "AppleAirPods",
-          "iPhone2027",
-          "FoldableiPhone"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T05:12:26.169023+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d438ec06a4fb",
-        "ticker": "Crashout",
-        "mint": "6JGSHS9GrE9uG8ix63w3DPMYHrgrJ6J4QyHbBhAepump",
-        "mc": 71622.0
-      }
-    },
-    {
       "ts": "2026-06-17T05:12:35.461123+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28220,6 +28105,129 @@
           "Alvarez",
           "Arsenal",
           "OfertaImpactante"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:08:06.416706+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b50db4c0c0ef",
+        "score": 79,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPVSMASSIE",
+          "MASSIEVSTRUMP",
+          "TRUMPENDORSE",
+          "MASSIEENDORSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:08:28.417246+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c4f573a43f7e",
+        "score": 88,
+        "category": "Tecnología/Aviación",
+        "title": "Flight 13 of Starship launch attempt in 10 minutes!",
+        "candidate_tickers": [
+          "STARSHIP",
+          "FLIGHT13",
+          "ELONMUSK",
+          "SPACEX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:09:16.290410+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f868c9d3ae6",
+        "score": 70,
+        "category": "memecoins",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "XRP",
+          "MEMECOIN",
+          "2026"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:09:55.045546+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b3b6682d6da3",
+        "score": 74,
+        "category": "desastres naturales",
+        "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+        "candidate_tickers": [
+          "FUEGO_FRANCIA",
+          "EVACUACIÓN_FRANCIA",
+          "FUEGO_EN_FRANCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:11:09.364754+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "538d3f139cd1",
+        "score": 88,
+        "category": "política",
+        "title": "Breaking news: President Trump ordered the installation of signs outside the Smithsonian National Museum of American History that warn of “inaccurate” exhibits and direct people to “accurate informati",
+        "candidate_tickers": [
+          "TRUMPVSHISTORIA",
+          "TRUMPVSAMERICA",
+          "TRUMPVSHISTORIADAMIERICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:11:50.968929+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5f4900e0febb",
+        "score": 70,
+        "category": "política",
+        "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News",
+        "candidate_tickers": [
+          "AMISHSHAH",
+          "AZPRIMARY",
+          "DEMESTABLISHMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:12:55.240204+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c7064c919d90",
+        "score": 89,
+        "category": "Tecnología y Negocios",
+        "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+        "candidate_tickers": [
+          "OPENAI",
+          "ANDURIL",
+          "HACKING",
+          "IA",
+          "EMPRESA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T12:13:09.918273+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "203cd239387f",
+        "score": 85,
+        "category": "política",
+        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+        "candidate_tickers": [
+          "TRUMP",
+          "XCANCEL"
         ]
       }
     }

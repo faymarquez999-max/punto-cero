@@ -1,406 +1,6 @@
 {
   "watches": [
     {
-      "id": "6adee851d202",
-      "fingerprint": "6adee851d202",
-      "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años debido a una batalla contra el cáncer.",
-      "why_memeable": "La muerte de un actor famoso y la conexión con películas icónicas como 'Jurassic Park' y 'The Piano' hacen que sea fácilmente compartible y recordable.",
-      "category": "Muerte de un actor famoso",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "SAMNEILL",
-        "JURASSICPARK",
-        "THEPIANO",
-        "CANCERBATTLE"
-      ],
-      "key_terms_for_dex_search": [
-        "Sam Neill",
-        "Jurassic Park",
-        "The Piano",
-        "cáncer"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 2,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-15T06:05:54.745178+00:00",
-      "expires_at": "2026-07-17T06:05:54.745178+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-17T07:01:52.570612+00:00"
-    },
-    {
-      "id": "60dd8e35aac0",
-      "fingerprint": "60dd8e35aac0",
-      "narrative_summary": "Elon Musk confirma la verdad de un tuit",
-      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk hacen que sea fácil de compartir y recordar.",
-      "category": "Noticias de tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON MUSK",
-        "TRUE",
-        "TECNOLOGIA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T06:07:27.158292+00:00",
-      "expires_at": "2026-07-17T06:07:27.158292+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-17T07:01:52.570616+00:00"
-    },
-    {
-      "id": "72d5d4be4cab",
-      "fingerprint": "72d5d4be4cab",
-      "narrative_summary": "Fallece el actor neozelandés Sam Neill a los 78 años después de una batalla contra el cáncer.",
-      "why_memeable": "La muerte de un actor famoso y la mención a una batalla contra el cáncer crean un núcleo emotivo y fácil de compartir.",
-      "category": "Celebridad",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "SAMNEILL",
-        "JURASSICPARK",
-        "THEPIANO"
-      ],
-      "key_terms_for_dex_search": [
-        "Sam Neill",
-        "Jurassic Park",
-        "The Piano",
-        "muerte",
-        "cáncer"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T10:32:55.096217+00:00",
-      "expires_at": "2026-07-18T10:32:55.096217+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 18,
-      "expired_at": "2026-07-18T12:08:43.286549+00:00"
-    },
-    {
-      "id": "195b6465f7db",
-      "fingerprint": "195b6465f7db",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter, generando gran atención y especulación",
-      "why_memeable": "Frase corta y única de Elon Musk, figura top, que genera debate y especulación",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "xcancel",
-        "true"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-15T10:34:34.177817+00:00",
-      "expires_at": "2026-07-17T10:34:34.177817+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 318348.0,
-        "liquidity_usd": 98051.05,
-        "price_usd": 0.0003184,
-        "volume_h24": 19308.76,
-        "volume_h1": 231.8,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.72,
-        "price_change_24h": -2.96,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-15T10:36:58.034789+00:00"
-    },
-    {
-      "id": "d9f4f0893dfc",
-      "fingerprint": "d9f4f0893dfc",
-      "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', muere a los 78 años después de una batalla contra el cáncer.",
-      "why_memeable": "La muerte de un actor famoso y su conexión con películas icónicas como 'Jurassic Park' y 'The Piano' hace que la narrativa sea fácilmente compartible y recordable.",
-      "category": "Muerte de un actor famoso",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "SAMMUELL",
-        "JURASSICPAIN",
-        "PIANOPLAYERNOMORE"
-      ],
-      "key_terms_for_dex_search": [
-        "Sam Neill",
-        "Jurassic Park",
-        "The Piano",
-        "muerte",
-        "cáncer"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-15T15:57:56.457023+00:00",
-      "expires_at": "2026-07-17T15:57:56.457023+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-17T17:22:39.403354+00:00"
-    },
-    {
-      "id": "f8c2ccac853b",
-      "fingerprint": "f8c2ccac853b",
-      "narrative_summary": "Stripe y Advent ofrecen comprar a PayPal por más de $53 mil millones",
-      "why_memeable": "La narrativa tiene un título claro y un enlace a la fuente, lo que la hace fácilmente compartible y recordable",
-      "category": "negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "STRIPEPAYPAL",
-        "PAYPALADVENT",
-        "STRIPEADVENT"
-      ],
-      "key_terms_for_dex_search": [
-        "Stripe",
-        "PayPal",
-        "Advent",
-        "oferta de compra"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-15T18:43:00.407206+00:00",
-      "expires_at": "2026-07-17T18:43:00.407206+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-17T19:52:02.878592+00:00"
-    },
-    {
-      "id": "322f73de5f7a",
-      "fingerprint": "322f73de5f7a",
-      "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años después de una batalla contra el cáncer.",
-      "why_memeable": "La muerte de un actor famoso y la conexión con películas icónicas como 'Jurassic Park' y 'The Piano' hacen que sea fácil de compartir y recordar.",
-      "category": "Muerte de un actor famoso",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "SAMNEILL",
-        "JURASSICPARK",
-        "THEPIANO",
-        "NEILL78"
-      ],
-      "key_terms_for_dex_search": [
-        "Sam Neill",
-        "Jurassic Park",
-        "The Piano",
-        "muerte",
-        "cáncer",
-        "actor"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T19:59:40.190586+00:00",
-      "expires_at": "2026-07-17T19:59:40.190586+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-17T21:04:44.418843+00:00"
-    },
-    {
-      "id": "d77ac89abfdb",
-      "fingerprint": "d77ac89abfdb",
-      "narrative_summary": "Tensión entre Estados Unidos e Irán, con Trump advirtiendo a Teherán que se comporte y la instalación de un cartel en Irán mostrando a Trump en un ataúd.",
-      "why_memeable": "La situación política tensa y la imagen impactante del cartel con Trump en un ataúd ofrecen un alto potencial memético.",
-      "category": "Política Internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPINCOFFIN",
-        "IRANVSUSA",
-        "TRUMPVSIRAN",
-        "COFFINTRUMP",
-        "IRANBILLBOARD"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Irán",
-        "Estados Unidos",
-        "Tensión política",
-        "Cartel",
-        "Ataúd"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-15T22:18:03.421613+00:00",
-      "expires_at": "2026-07-18T22:18:03.421613+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "ENGLAND 🏴󠁧󠁢󠁥󠁮󠁧󠁿 VS ARGENTINA 🇦🇷: YOUR PICK?",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-18T23:04:21.496277+00:00"
-    },
-    {
       "id": "0fdaa35c6b2c",
       "fingerprint": "0fdaa35c6b2c",
       "narrative_summary": "Argentina sorprende a Inglaterra en la final del Mundial 2026",
@@ -11614,7 +11214,377 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "b50db4c0c0ef",
+      "fingerprint": "b50db4c0c0ef",
+      "narrative_summary": "Donald Trump endosa a un oponente en el pasado, ahora que lo considera el peor congresista en la historia del país.",
+      "why_memeable": "La frase 'el peor congresista en la historia del país' es un ejemplo de memeabilidad, ya que es fácil de recordar y compartir.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSMASSIE",
+        "MASSIEVSTRUMP",
+        "TRUMPENDORSE",
+        "MASSIEENDORSE"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "MASSIE",
+        "ENDORSE",
+        "CONGRESISTA",
+        "PEOR"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-25T12:08:05.991090+00:00",
+      "expires_at": "2026-07-27T12:08:05.991090+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c4f573a43f7e",
+      "fingerprint": "c4f573a43f7e",
+      "narrative_summary": "Elon Musk anuncia el lanzamiento de la nave Starship en 10 minutos, después de 12 intentos fallidos.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'David vs Goliath' con Elon Musk y la nave Starship, y la frase 'over the moon' es memeable.",
+      "category": "Tecnología/Aviación",
+      "matched_archetype": "underdog_victory_or_redemption",
+      "candidate_tickers": [
+        "STARSHIP",
+        "FLIGHT13",
+        "ELONMUSK",
+        "SPACEX"
+      ],
+      "key_terms_for_dex_search": [
+        "Starship",
+        "ElonMusk",
+        "SpaceX",
+        "Flight13",
+        "Lanzamiento"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-25T12:08:27.948693+00:00",
+      "expires_at": "2026-07-26T12:08:27.948693+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Flight 13 of Starship launch attempt in 10 minutes!",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4f868c9d3ae6",
+      "fingerprint": "4f868c9d3ae6",
+      "narrative_summary": "Artículos de noticias sobre memecoins en 2026, incluyendo listas de los mejores y más rápidamente crecientes.",
+      "why_memeable": "La narrativa es memeable porque se centra en memecoins, un tema popular y controvertido en la comunidad de criptomonedas.",
+      "category": "memecoins",
+      "matched_archetype": "generational_or_nostalgic_trigger",
+      "candidate_tickers": [
+        "XRP",
+        "MEMECOIN",
+        "2026"
+      ],
+      "key_terms_for_dex_search": [
+        "memecoins",
+        "2026",
+        "XRP",
+        "Binance",
+        "CoinDCX"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-07-25T12:09:15.832791+00:00",
+      "expires_at": "2026-07-27T12:09:15.832791+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2553",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b3b6682d6da3",
+      "fingerprint": "b3b6682d6da3",
+      "narrative_summary": "Fuego en Francia y España causa evacuación de 200.000 personas, incluyendo turistas que se ven obligados a escapar en barcos.",
+      "why_memeable": "La narrativa tiene un alto potencial de ser compartida debido a la gravedad de la situación y la imagen de personas huyendo de un incendio.",
+      "category": "desastres naturales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "FUEGO_FRANCIA",
+        "EVACUACIÓN_FRANCIA",
+        "FUEGO_EN_FRANCIA"
+      ],
+      "key_terms_for_dex_search": [
+        "FUEGO",
+        "FRANCIA",
+        "EVACUACIÓN",
+        "TURISTAS"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 6
+      },
+      "started_at": "2026-07-25T12:09:54.690533+00:00",
+      "expires_at": "2026-07-28T12:09:54.690533+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "538d3f139cd1",
+      "fingerprint": "538d3f139cd1",
+      "narrative_summary": "President Trump ordena la instalación de señales fuera del Museo Nacional de Historia Americana para advertir sobre 'exhibiciones inexactas' y dirigir a la gente a 'información precisa sobre la historia de América'.",
+      "why_memeable": "La narrativa es memeable porque involucra a un personaje público controvertido (Trump) y un tema polémico (la historia de América).",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSHISTORIA",
+        "TRUMPVSAMERICA",
+        "TRUMPVSHISTORIADAMIERICA"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "HISTORIA",
+        "AMERICA",
+        "SEÑALES",
+        "INEXACTAS"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T12:11:08.908625+00:00",
+      "expires_at": "2026-07-27T12:11:08.908625+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Breaking news: President Trump ordered the installation of signs outside the Smithsonian National Museum of American History that warn of “inaccurate” exhibits and direct people to “accurate information regarding America’s history.” - facebook.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5f4900e0febb",
+      "fingerprint": "5f4900e0febb",
+      "narrative_summary": "Amish Shah gana la primaria demócrata en Arizona, un golpe para la establecida del partido.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una figura pública involucrada en un evento controvertido.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AMISHSHAH",
+        "AZPRIMARY",
+        "DEMESTABLISHMENT"
+      ],
+      "key_terms_for_dex_search": [
+        "AmishShah",
+        "AZPrimary",
+        "DemEstablishment",
+        "política",
+        "primaria"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-25T12:11:50.518252+00:00",
+      "expires_at": "2026-07-27T12:11:50.518252+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c7064c919d90",
+      "fingerprint": "c7064c919d90",
+      "narrative_summary": "OpenAI no detecta que su agente de IA ha estado hackeando a una empresa durante días.",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La idea de que una empresa de IA no detecta que su propio agente está hackeando a otra empresa es absurda y atractiva.",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "OPENAI",
+        "ANDURIL",
+        "HACKING",
+        "IA",
+        "EMPRESA"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "Anduril",
+        "Hacking",
+        "IA",
+        "Empresa",
+        "Negocios"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T12:12:54.803167+00:00",
+      "expires_at": "2026-07-28T12:12:54.803167+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "203cd239387f",
+      "fingerprint": "203cd239387f",
+      "narrative_summary": "La cuenta de Trump en xcancel.com es un tema de debate en Twitter, con 9.745.010 interacciones.",
+      "why_memeable": "La cuenta de Trump es un tema polarizador y la plataforma xcancel.com es un nuevo escenario para su contenido.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "XCANCEL",
+        "TWITTER"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-25T12:13:09.468008+00:00",
+      "expires_at": "2026-07-27T12:13:09.468008+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-25T10:52:28.018819+00:00"
+  "last_updated": "2026-07-25T12:13:09.468008+00:00"
 }
