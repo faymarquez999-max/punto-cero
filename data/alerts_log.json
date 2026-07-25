@@ -1,88 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T17:33:13.278073+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a66bdecc9163",
-        "ticker": "UFC250",
-        "mint": "8tWYMA3Et15V2yvYiVAGWbkhnrLcunt91BaWrB7pcg8u",
-        "mc": 409977.0
-      }
-    },
-    {
-      "ts": "2026-06-17T19:43:50.264015+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política y Libertad de Expresión",
-        "title": "Telegram challenges India block, saying it will hurt free speech rights - Reuters",
-        "candidate_tickers": [
-          "TelegramIndia",
-          "GaokaoLeaks",
-          "FreeSpeechBattle"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T21:51:21.021600+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - Sentinel Colorado",
-        "candidate_tickers": [
-          "Nvidia",
-          "Jensen",
-          "AI",
-          "Normas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T21:51:56.780024+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d34f89524b61",
-        "score": 70,
-        "category": "política",
-        "title": "Mason: Starmer remains defiant as leadership challenge inches closer",
-        "candidate_tickers": [
-          "STARMER",
-          "BURNHAM",
-          "LEADERSHIPCHALLENGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T21:52:42.799364+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7c52439ea5bd",
-        "score": 84,
-        "category": "muerte, justicia, tecnología",
-        "title": "Italian mother takes on Meta, TikTok after daughter's death - Reuters",
-        "candidate_tickers": [
-          "METAVSMADRE",
-          "TIKTOKVSMADRE",
-          "JUSTICIAPARAHIJA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T21:53:16.267532+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "Trump switches endorsement in Oklahoma House primary - Politico",
-        "candidate_tickers": [
-          "TRUMP_OKLAHOMA",
-          "ENDORSEMENT_SWITCH"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-17T21:54:14.675494+00:00",
       "kind": "shadow",
       "payload": {
@@ -28228,6 +28146,71 @@
         "ticker": "XRP",
         "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
         "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-07-25T18:46:12.677940+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3349b87b4b2e",
+        "score": 82,
+        "category": "Tecnología y espacio",
+        "title": "Flight 13 of Starship launch attempt in 10 minutes!",
+        "candidate_tickers": [
+          "STAR13",
+          "MUSKTO MARS",
+          "SPACEX13"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T18:47:59.819207+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7e7e2737b099",
+        "ticker": "TSLAx",
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "mc": 312210.0
+      }
+    },
+    {
+      "ts": "2026-07-25T18:48:23.022577+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4f868c9d3ae6",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-07-25T18:48:25.262125+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "538d3f139cd1",
+        "ticker": "AMERICA",
+        "mint": "AVA8YuCsD2YgUSpdv3Hb2cjpdf8XAhGwyXmchxwopump",
+        "mc": 37627.0
+      }
+    },
+    {
+      "ts": "2026-07-25T18:48:27.833595+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c7064c919d90",
+        "ticker": "OPENAI",
+        "mint": "5wEw5xYJX7WkiadE77V5M9YehWkPw2GgpTx1JNsVKwgm",
+        "mc": 75121.0
+      }
+    },
+    {
+      "ts": "2026-07-25T18:48:30.154473+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1fed69f3c2fb",
+        "ticker": "CJP",
+        "mint": "4tR7PbUjuB45RSb1TkXGpCKVTSEm6PRpTVdj6bYtpump",
+        "mc": 22334.0
       }
     }
   ]
