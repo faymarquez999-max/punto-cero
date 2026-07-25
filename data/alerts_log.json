@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T02:13:14.682050+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0e07d943a2eb",
-        "score": 72,
-        "category": "Noticias de accidentes y desastres",
-        "title": "Shelter-in-place order issued due to Boyle Heights building fire - ABC7 Los Angeles",
-        "candidate_tickers": [
-          "#BOYLEHEIGHTSFIRE",
-          "#SHELTERINPLACE",
-          "#AMONIALEAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T07:16:00.198712+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "noticias económicas",
-        "title": "Exclusive: Thailand revives $30 bln coast-to-coast corridor to rival Malacca Strait - Reuters",
-        "candidate_tickers": [
-          "THAILAND",
-          "MALACCA",
-          "CORRIDOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T07:16:43.874757+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dc18c1fb6e93",
-        "score": 78,
-        "category": "política",
-        "title": "Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post",
-        "candidate_tickers": [
-          "GOP",
-          "GEORGIA",
-          "REDISTRICTING",
-          "BLACK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-18T07:17:18.199029+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28218,6 +28173,53 @@
           "TRUMPVS",
           "MUSKVST",
           "TRUMPMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T23:18:13.397597+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d99457116107",
+        "score": 80,
+        "category": "noticias internacionales",
+        "title": "Any civilization that loses faith in the future will die.",
+        "candidate_tickers": [
+          "WILDFIRE",
+          "GAZAALERT",
+          "BERLINPRIDE",
+          "SPAINFLAMES",
+          "FRANCEBURN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T23:19:56.774142+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3f12f5173340",
+        "score": 88,
+        "category": "Política y Conflictos Internacionales",
+        "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+        "candidate_tickers": [
+          "IRAN_UKRAINA",
+          "CASPICO",
+          "ATAQUE_MAR_CASPIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T23:20:41.585527+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f9846e7f245",
+        "score": 88,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "MEMECOIN",
+          "AGENT",
+          "SOLANA"
         ]
       }
     }
