@@ -1,62 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-16T16:17:23.944704+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6fc9f0ae9eb8",
-        "score": 74,
-        "category": "economía",
-        "title": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation - AP News",
-        "candidate_tickers": [
-          "JAPAN_RATE",
-          "BOJ_RATE",
-          "INTEREST_RATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T16:17:59.295779+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b997c0ecba50",
-        "score": 84,
-        "category": "Noticias de violación y justicia",
-        "title": "The Rape Gang Inquiry Report. bit.ly/4uE5odw",
-        "candidate_tickers": [
-          "RAPEGANG",
-          "VIOLACIÓNREPORT",
-          "GANGINQUIRY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T16:18:18.244217+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "tech",
-        "title": "Made with Grok Imagine",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T16:19:24.492042+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Política y Sociedad",
-        "title": "SPLC = hateful , fraudulent enterprise",
-        "candidate_tickers": [
-          "SPLC",
-          "HATEFUL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-16T19:57:15.738038+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28227,6 +28171,64 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 252264.0
+      }
+    },
+    {
+      "ts": "2026-07-25T04:35:56.152206+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c53d696ee50e",
+        "score": 78,
+        "category": "Tecnología Espacial",
+        "title": "Starship as seen from Starlink satellites",
+        "candidate_tickers": [
+          "STARLNK",
+          "SPCSHP",
+          "ELONVIEW",
+          "SATELLITE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T04:36:09.631802+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e9153cce7a07",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Yikes",
+        "candidate_tickers": [
+          "YIKES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T04:36:38.687386+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a969423b1d91",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "The most incredible 60 seconds from today’s Starship flight.",
+        "candidate_tickers": [
+          "STARSHIP",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T04:38:10.295584+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "82dc3114240c",
+        "score": 74,
+        "category": "Desastres naturales",
+        "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España - BBC",
+        "candidate_tickers": [
+          "MADRIDINCENDIO",
+          "EVACUADOSMADRID",
+          "INCENDIOSESPANA"
+        ]
       }
     }
   ]
