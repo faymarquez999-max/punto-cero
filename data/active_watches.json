@@ -1,127 +1,6 @@
 {
   "watches": [
     {
-      "id": "8137acc8726f",
-      "fingerprint": "8137acc8726f",
-      "narrative_summary": "Argentina gana un partido importante con un resultado de 2-1",
-      "why_memeable": "La frase 'ARGENTINA TURN IT AROUND' es fácil de recordar y compartir",
-      "category": "Deportes",
-      "matched_archetype": "underdog_victory_or_redemption",
-      "candidate_tickers": [
-        "ARGENTINA",
-        "TURNITAROUND",
-        "ARGENTINAFUTBOL"
-      ],
-      "key_terms_for_dex_search": [
-        "argentina",
-        "futbol",
-        "turnaround"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 1,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-16T04:21:17.758401+00:00",
-      "expires_at": "2026-07-18T04:21:17.758401+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ARGENTINA",
-        "name": "Argentina",
-        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 41101.0,
-        "liquidity_usd": 17272.29,
-        "price_usd": 4.111e-05,
-        "volume_h24": 194277.49,
-        "volume_h1": 541.88,
-        "volume_m5": 40.81,
-        "price_change_5m": 0.29,
-        "price_change_1h": -2.61,
-        "price_change_24h": -0.93,
-        "txns_h1_buys": 13,
-        "txns_h1_sells": 74,
-        "created_ts": 1778586889000,
-        "pair_created_at": 1778586889000,
-        "url": "https://dexscreener.com/solana/9gwu31h99sdgotwmam4ufvwxunubwxjm32cw3besnjyu",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ARGENTINA==ARGENTINA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "ARGENTINA TURN IT AROUND! 2–1",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-16T04:24:09.272559+00:00"
-    },
-    {
-      "id": "41d3b0db99c7",
-      "fingerprint": "41d3b0db99c7",
-      "narrative_summary": "El congresista Thomas Massie es criticado por un viejo respaldo de Donald Trump, quien ahora lo considera el peor congresista en la historia del país. Trump endosa a Ed Gallrein, un patriota americano.",
-      "why_memeable": "La narrativa combina la figura polarizante de Trump con una crítica fuerte y un giro inesperado, lo que puede generar engagement y memes.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPMASSIE",
-        "GALLREIN",
-        "BADCONGRESS",
-        "TRUMPFEUD",
-        "POLITICALENDORSE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Thomas Massie",
-        "Ed Gallrein",
-        "Política",
-        "Endoso"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-16T07:04:25.037423+00:00",
-      "expires_at": "2026-07-19T07:04:25.037423+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 17,
-      "expired_at": "2026-07-19T09:00:45.984051+00:00"
-    },
-    {
       "id": "620bfa1c1805",
       "fingerprint": "620bfa1c1805",
       "narrative_summary": "Pete Hegseth anuncia una nueva prueba de testosterona para tropas estadounidenses, generando reacciones divididas",
@@ -8685,14 +8564,15 @@
       "started_at": "2026-07-23T20:46:43.199555+00:00",
       "expires_at": "2026-07-25T20:46:43.199555+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-07-25T21:07:22.064268+00:00"
     },
     {
       "id": "2c74b5501a0d",
@@ -8731,14 +8611,15 @@
       "started_at": "2026-07-23T20:47:12.374586+00:00",
       "expires_at": "2026-07-25T20:47:12.374586+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Jesse Watters Targets 'Highly Educated' Women In Bizarre Dating Tirade - Yahoo News Singapore",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-07-25T21:07:22.064281+00:00"
     },
     {
       "id": "7e7e2737b099",
@@ -11747,7 +11628,99 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "47c3f0fce4c1",
+      "fingerprint": "47c3f0fce4c1",
+      "narrative_summary": "El ministro de educación de India, Dharmendra Pradhan, renuncia después de semanas de protestas estudiantiles.",
+      "why_memeable": "La protesta de los estudiantes contra el ministro de educación es un tema memeable debido a la imagen de los estudiantes como \"cochinillas\" y la renuncia del ministro.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COCKROACHINDIA",
+        "PRADHANRESIGNS",
+        "INDIAPROTESTS"
+      ],
+      "key_terms_for_dex_search": [
+        "India",
+        "protestas",
+        "ministro",
+        "educación",
+        "Cockroach"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T21:08:02.707425+00:00",
+      "expires_at": "2026-07-27T21:08:02.707425+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "India’s education minister Dharmendra Pradhan has resigned following weeks of student protests.",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "facaa49054eb",
+      "fingerprint": "facaa49054eb",
+      "narrative_summary": "Más de 250.000 personas huyen de incendios forestales en Francia y España",
+      "why_memeable": "La narrativa tiene un tema claro (incendios forestales) y un número específico de personas afectadas (250.000).",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FIREFRANCE",
+        "FIRESPAIN",
+        "EMERGENCY"
+      ],
+      "key_terms_for_dex_search": [
+        "incendios forestales",
+        "Francia",
+        "España",
+        "desastres naturales"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-25T21:11:22.773781+00:00",
+      "expires_at": "2026-07-27T21:11:22.773781+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More than 250,000 flee wildfires in France and Spain",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-25T20:03:07.635681+00:00"
+  "last_updated": "2026-07-25T21:11:22.773781+00:00"
 }
