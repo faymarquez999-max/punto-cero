@@ -1,33 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T02:11:27.079717+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
-        "candidate_tickers": [
-          "MetaLeaves",
-          "AI4Work"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T02:12:33.071492+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "corrupción",
-        "title": "‘Caso Bestard’: cuando los hechos contradicen el relato - Ultima Hora",
-        "candidate_tickers": [
-          "Bestard",
-          "CasoBestard",
-          "CorrupciónEspana"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-18T02:13:14.682050+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28217,6 +28190,34 @@
           "FIREFRANCE",
           "FIRESPAIN",
           "EMERGENCY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T22:15:00.524258+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Música y política",
+        "title": "Katy Perry speaks out against the White House for using her song ‘Firework’ on a video of military strikes:",
+        "candidate_tickers": [
+          "KatyPerry",
+          "Firework",
+          "CasaBlanca"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T22:15:53.265250+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Unrivaled players share the albums that get them game-ready.",
+        "candidate_tickers": [
+          "TRUMPVS",
+          "MUSKVST",
+          "TRUMPMUSK"
         ]
       }
     }
