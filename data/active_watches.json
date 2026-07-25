@@ -1,180 +1,6 @@
 {
   "watches": [
     {
-      "id": "ca65f28a7299",
-      "fingerprint": "ca65f28a7299",
-      "narrative_summary": "El congresista Thomas Massie ha sido criticado por un viejo apoyo de Donald Trump, quien ahora lo considera el peor congresista de la historia del país.",
-      "why_memeable": "La narrativa combina un tema político controvertido con una figura pública conocida, lo que puede generar un fuerte engagement y discusión en las redes sociales.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MASSIE",
-        "TRUMP",
-        "CONGRESS",
-        "SCANDAL",
-        "POLITICS"
-      ],
-      "key_terms_for_dex_search": [
-        "Thomas Massie",
-        "Donald Trump",
-        "Congreso",
-        "Política",
-        "Escándalo"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-15T06:02:47.796508+00:00",
-      "expires_at": "2026-07-18T06:02:47.796508+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "RIPTRUMP",
-        "name": "RIP DONALD TRUMP",
-        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 179871.0,
-        "liquidity_usd": 33180.33,
-        "price_usd": 0.0001798,
-        "volume_h24": 7079.07,
-        "volume_h1": 14.46,
-        "volume_m5": 14.46,
-        "price_change_5m": -0.12,
-        "price_change_1h": -0.12,
-        "price_change_24h": 0.63,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 3,
-        "created_ts": 1775332817000,
-        "pair_created_at": 1775332817000,
-        "url": "https://dexscreener.com/solana/6joeefdteyxqwwovy5gptmdrjszvnnpbdtq7h8p5q2r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DONALD TRUMP in RIP DONALD TRUMP",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-15T23:24:13.979440+00:00"
-    },
-    {
-      "id": "05a123e4a895",
-      "fingerprint": "05a123e4a895",
-      "narrative_summary": "Se encontraron 117 perros muertos en un refugio de animales en California, muchos con heridas de bala.",
-      "why_memeable": "La combinación de la injusticia hacia los animales y la imagen impactante de los perros muertos crea un escenario con alto potencial memético.",
-      "category": "noticias de animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DEADDOGS",
-        "ANIMALABUSE",
-        "CALIFORNIA",
-        "REFUGIO",
-        "PERROS"
-      ],
-      "key_terms_for_dex_search": [
-        "perros muertos",
-        "refugio de animales",
-        "California",
-        "abuso animal"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T06:02:49.847044+00:00",
-      "expires_at": "2026-07-18T06:02:49.847044+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-18T12:08:43.286536+00:00"
-    },
-    {
-      "id": "9d594b99d043",
-      "fingerprint": "9d594b99d043",
-      "narrative_summary": "España derrota a Francia en la final del Mundial, con un resultado aplastante.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un gran impacto emocional. La imagen de la anaconda es icónica y se puede relacionar con la victoria de España.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANACONDA",
-        "ESPANA",
-        "FRANCIA",
-        "MUNDIAL"
-      ],
-      "key_terms_for_dex_search": [
-        "ANACONDA",
-        "ESPANA",
-        "FRANCIA",
-        "MUNDIAL",
-        "FINAL"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-15T06:05:24.964462+00:00",
-      "expires_at": "2026-07-17T06:05:24.964462+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Spain’s anaconda grip crushes French World Cup dream - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-17T07:01:52.570594+00:00"
-    },
-    {
       "id": "6adee851d202",
       "fingerprint": "6adee851d202",
       "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años debido a una batalla contra el cáncer.",
@@ -11648,7 +11474,147 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "029592a8f368",
+      "fingerprint": "029592a8f368",
+      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien ahora critica a Massie como el peor congresista en la historia del país.",
+      "why_memeable": "La narrativa combina la figura polarizante de Trump con una situación absurda y un giro inesperado, lo que puede generar un meme viral.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMASSIE",
+        "WORSTCONGRESS",
+        "TRUMPENDORSE",
+        "MASSIEGATE",
+        "TRUMPFEUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Massie",
+        "Congresista",
+        "Política",
+        "Meme"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-25T10:49:44.436954+00:00",
+      "expires_at": "2026-07-28T10:49:44.436954+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "47170fb5950e",
+      "fingerprint": "47170fb5950e",
+      "narrative_summary": "Elon Musk anuncia el intento de lanzamiento de Starship en 10 minutos.",
+      "why_memeable": "La narrativa tiene un título claro y una frase memorable.",
+      "category": "Tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "STARSHIP",
+        "FLIGHT13",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Starship",
+        "ElonMusk",
+        "launch"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-25T10:51:02.220332+00:00",
+      "expires_at": "2026-08-01T10:51:02.220332+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Flight 13 of Starship launch attempt in 10 minutes!",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0b0e3a1e4716",
+      "fingerprint": "0b0e3a1e4716",
+      "narrative_summary": "Elon Musk solicita a alguien que le muestre algo a Lenny Henry, generando un gran interés en la red social.",
+      "why_memeable": "La frase es corta, fácil de recordar y tiene un tono de humor absurdo.",
+      "category": "humor absurdo y cultura popular",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "LENNYHENRY",
+        "ELONMUSK",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "LennyHenry",
+        "ElonMusk",
+        "humor",
+        "absurdo",
+        "cultura",
+        "popular"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-25T10:52:28.018819+00:00",
+      "expires_at": "2026-07-27T10:52:28.018819+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Could somebody show this to Lenny Henry",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-25T09:20:34.877033+00:00"
+  "last_updated": "2026-07-25T10:52:28.018819+00:00"
 }

@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T00:00:20.415565+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política y tecnología",
-        "title": "It is humbling to consider that if we harness just 1 millionth of the Sun’s power for AI, that will be much more than a million times the intelligence of all of humanity",
-        "candidate_tickers": [
-          "TRUMPvsELON",
-          "SOLvsAI",
-          "ELONvsTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T00:02:55.619819+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "conflicto internacional",
-        "title": "''Scary' clash in Channel' and 'Oh frigate!'",
-        "candidate_tickers": [
-          "RUSSIAFRIGATE",
-          "YACHTCLASH",
-          "CHANNELCRISIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T00:04:35.027655+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b5177e6b275e",
-        "score": 89,
-        "category": "política internacional",
-        "title": "Tehran can immediately sell oil upon signing US-Iran deal, US official says - Reuters",
-        "candidate_tickers": [
-          "IRAN",
-          "PETRÓLEO",
-          "ACUERDO",
-          "EE.UU.",
-          "IRÁN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T00:05:08.624261+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "264bf4237518",
-        "score": 88,
-        "category": "Tecnología",
-        "title": "Snap Launches $2,195 Specs, Declaring Glasses the Next Computer - Bloomberg.com",
-        "candidate_tickers": [
-          "SNAPGAFAS",
-          "GAFASAR",
-          "REALIDADAUMENTADA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-17T05:07:16.838064+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28220,6 +28160,67 @@
         "ticker": "SPCX",
         "mint": "9y5nJ1nrfyUR4oUsM1xLTrJigTuvec6k4o9QWgcLspzE",
         "mc": 126610.0
+      }
+    },
+    {
+      "ts": "2026-07-25T10:49:45.045250+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "029592a8f368",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "WORSTCONGRESS",
+          "TRUMPENDORSE",
+          "MASSIEGATE",
+          "TRUMPFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T10:51:02.814532+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "47170fb5950e",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "Flight 13 of Starship launch attempt in 10 minutes!",
+        "candidate_tickers": [
+          "STARSHIP",
+          "FLIGHT13",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T10:52:28.634335+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0b0e3a1e4716",
+        "score": 85,
+        "category": "humor absurdo y cultura popular",
+        "title": "Could somebody show this to Lenny Henry",
+        "candidate_tickers": [
+          "LENNYHENRY",
+          "ELONMUSK",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T10:54:03.414862+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "fútbol",
+        "title": "La impactante oferta del Arsenal de Inglaterra por Julián Álvarez - Infobae",
+        "candidate_tickers": [
+          "Alvarez",
+          "Arsenal",
+          "OfertaImpactante"
+        ]
       }
     }
   ]
