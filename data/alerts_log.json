@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-16T20:00:40.515009+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ec6427294f77",
-        "score": 79,
-        "category": "Deportes",
-        "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait - The Guardian",
-        "candidate_tickers": [
-          "BIELSA",
-          "URUGUAY",
-          "MUNDIAL",
-          "FOTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T22:22:02.551620+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "91f929b86ade",
-        "score": 74,
-        "category": "Política y tecnología",
-        "title": "Censorship always comes with a “protect the children” lie",
-        "candidate_tickers": [
-          "MUSKFREE",
-          "CENSOR",
-          "KIDSLIE",
-          "ELONTRUTH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T22:22:15.707184+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "82a0260e9436",
-        "score": 72,
-        "category": "política, corrupción",
-        "title": "The politicians imprison people to hide their crimes",
-        "candidate_tickers": [
-          "PRISIONEROSDELAPOLÍTICA",
-          "CRÍMENESOCULTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T22:23:59.339923+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a66bdecc9163",
-        "score": 85,
-        "category": "seguridad",
-        "title": "Group planned to attack White House UFC event using snipers and drones, FBI says - BBC",
-        "candidate_tickers": [
-          "UFC",
-          "CASABLANCA",
-          "FBI",
-          "ATAQUE",
-          "DRONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T22:24:55.447968+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política",
-        "title": "Zapatero se sienta mañana ante el juez como investigado por el rescate de Plus Ultra y sus joyas incautadas - Ultima Hora",
-        "candidate_tickers": [
-          "Zapatero",
-          "PlusUltra",
-          "JoyasIncautadas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-16T22:26:05.303640+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a3ad4ad0b8c1",
-        "ticker": "MUSK",
-        "mint": "CzHc1ugMNhim5JCJC8ebbp4k14jfrbZx1HNcMyEppump",
-        "mc": 48626.0
-      }
-    },
-    {
       "ts": "2026-06-17T00:00:20.415565+00:00",
       "kind": "shadow",
       "payload": {
@@ -28222,6 +28135,91 @@
         "ticker": "SPCX",
         "mint": "9y5nJ1nrfyUR4oUsM1xLTrJigTuvec6k4o9QWgcLspzE",
         "mc": 116504.0
+      }
+    },
+    {
+      "ts": "2026-07-25T09:16:08.709086+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "026dcb6f7673",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMPEND",
+          "POLITIKAL",
+          "CONGRESSCLASH",
+          "ENDORSERGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T09:16:10.277426+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5bd60d068304",
+        "score": 80,
+        "category": "Tecnología y espacio",
+        "title": "Flight 13 of Starship launch attempt in 10 minutes!",
+        "candidate_tickers": [
+          "STAR13",
+          "MUSKTOOM",
+          "SPACEX13"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T09:17:13.176685+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7435ece6666c",
+        "score": 83,
+        "category": "humor",
+        "title": "Could somebody show this to Lenny Henry",
+        "candidate_tickers": [
+          "LENNYHENRY",
+          "SHOWTHIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T09:18:25.982322+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "767e8887d74a",
+        "score": 82,
+        "category": "Animales en la noticia",
+        "title": "Woman Discovers That a Bobcat Turned Her Attic into a ‘Den’ (Exclusive) - People.com",
+        "candidate_tickers": [
+          "BOBCATDEN",
+          "GATOMONTESDESVAN",
+          "DENDEBOBCAT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T09:19:00.000660+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "famosos y entretenimiento",
+        "title": "Eastern Rosellas! - Meet the seven-year-old behind viral song - BBC",
+        "candidate_tickers": [
+          "RosellaViral",
+          "CancionViral",
+          "NiñoCanta"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T09:20:34.884446+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5bd60d068304",
+        "ticker": "SPCX",
+        "mint": "9y5nJ1nrfyUR4oUsM1xLTrJigTuvec6k4o9QWgcLspzE",
+        "mc": 126610.0
       }
     }
   ]
