@@ -1,62 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-17T21:54:14.675494+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Telegram challenges India block, saying it will hurt free speech rights - Reuters",
-        "candidate_tickers": [
-          "TelegramIndia",
-          "IndiaBlock",
-          "LibertadDeExpresión"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T23:47:47.492432+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política y celebridades",
-        "title": "Epidemiologist answers 3 frequently asked questions about the Ebola outbreak - Medical News Today",
-        "candidate_tickers": [
-          "MuskMeetsTrump",
-          "TrumpMuskDinner"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T23:48:20.975323+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "25822b21e4ed",
-        "score": 89,
-        "category": "política",
-        "title": "BREAKING: Republicans Block Cortez Masto, Kaine Push to Demand Transparency into Human Rights Violations by Former President of Honduras - Senator Catherine Cortez Masto (.gov)",
-        "candidate_tickers": [
-          "CORTESZM",
-          "HONDURAS",
-          "DROGHS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-17T23:48:49.148762+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d64da40862cd",
-        "score": 78,
-        "category": "negocios",
-        "title": "Starbucks Korea to close stores early for mandatory history training after marketing row - AP News",
-        "candidate_tickers": [
-          "STARBUCKSSCANDAL",
-          "KOREAMARKETINGCONTROVERSY"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-17T23:50:57.108192+00:00",
       "kind": "shadow",
       "payload": {
@@ -28211,6 +28155,64 @@
         "ticker": "CJP",
         "mint": "4tR7PbUjuB45RSb1TkXGpCKVTSEm6PRpTVdj6bYtpump",
         "mc": 22334.0
+      }
+    },
+    {
+      "ts": "2026-07-25T20:02:04.720267+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Katy Perry speaks out against the White House for using her song ‘Firework’ on a video of military strikes:",
+        "candidate_tickers": [
+          "KatyPerryVsWhiteHouse",
+          "FireworkGaffe",
+          "WhiteHouseVsArtistas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T20:02:31.625980+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6258f39d1c5b",
+        "score": 74,
+        "category": "economía",
+        "title": ">The median home price in Usa is 6x the median income.   How do you reply without sounding mad?",
+        "candidate_tickers": [
+          "$6X",
+          "INJUSTICIA_INMOBILIARIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T20:03:08.278262+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "98c17e1c0050",
+        "score": 90,
+        "category": "política",
+        "title": "Zelenskiy: North Korea to supply Russia with new ballistic missile launchers",
+        "candidate_tickers": [
+          "ZELENSKIY",
+          "RUSIA",
+          "COREA DEL NORTE",
+          "MISILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-25T20:04:58.602841+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Democrats nominate Troy Jackson to replace Graham Platner in must-win Maine Senate race - NBC News",
+        "candidate_tickers": [
+          "TROYJACKSON",
+          "MAINESENATE",
+          "DEMOCRATS"
+        ]
       }
     }
   ]
