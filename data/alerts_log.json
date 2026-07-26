@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T23:07:39.533315+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News",
-        "candidate_tickers": [
-          "STARMER",
-          "BURNHAM",
-          "LABOUR",
-          "SHOWDOWN",
-          "FIGHT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T23:09:04.392775+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0b9101d15938",
-        "score": 90,
-        "category": "política",
-        "title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo - Reuters",
-        "candidate_tickers": [
-          "MELONIVSTRUMP",
-          "TRUMPMIENTE",
-          "ITALIAVSEEUU"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T23:09:54.602204+00:00",
       "kind": "shadow",
       "payload": {
@@ -28230,6 +28199,36 @@
         "ticker": "MIDTERMS26",
         "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
         "mc": 26322.0
+      }
+    },
+    {
+      "ts": "2026-07-26T23:47:40.890624+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6c0d9382e957",
+        "score": 80,
+        "category": "Noticias",
+        "title": "The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.",
+        "candidate_tickers": [
+          "BERLINPRIDE",
+          "ATAQUEBERLÍN",
+          "SOSPECHOSOMUERE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T23:49:31.214928+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "00444396950d",
+        "score": 80,
+        "category": "política",
+        "title": "Would you choose £50,000 over the chance of £1m?",
+        "candidate_tickers": [
+          "MUSKDILEMA",
+          "ELONMUSKDILEMA",
+          "MUSKDILEMA50000"
+        ]
       }
     }
   ]

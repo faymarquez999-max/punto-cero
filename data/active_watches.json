@@ -1,130 +1,6 @@
 {
   "watches": [
     {
-      "id": "9fcd6485a9b4",
-      "fingerprint": "9fcd6485a9b4",
-      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, quien luego criticó a Massie como el peor congresista en la historia del país.",
-      "why_memeable": "La narrativa combina una figura política polarizante con un evento dramático y una dosis de ironía, lo que la hace atractiva para la creación de memes.",
-      "category": "Política y controversia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MASSIE",
-        "TRUMPFEUD",
-        "CONGRESSCLASH",
-        "POLITICALPOT",
-        "TRUMPBACKFIRE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Massie",
-        "Congresista",
-        "Política",
-        "Controversia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-17T19:52:04.692991+00:00",
-      "expires_at": "2026-07-20T19:52:04.692991+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-20T21:53:32.418208+00:00"
-    },
-    {
-      "id": "1b52b776ead9",
-      "fingerprint": "1b52b776ead9",
-      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento, según familiares y registros.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' con un oficial de ICE involucrado en un tiroteo y un historial de comportamiento violento.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ICE_BADGE",
-        "MAINESHOOTING",
-        "AGENTE_VIOLENTO"
-      ],
-      "key_terms_for_dex_search": [
-        "ICE",
-        "tiroteo",
-        "oficial",
-        "comportamiento violento",
-        "Maine"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-17T19:54:50.774003+00:00",
-      "expires_at": "2026-07-19T19:54:50.774003+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ice",
-        "name": "ice bucket challenge",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 34415.0,
-        "liquidity_usd": 15217.32,
-        "price_usd": 3.441e-05,
-        "volume_h24": 35248.24,
-        "volume_h1": 726.53,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 9.19,
-        "price_change_24h": 38.12,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 24,
-        "created_ts": 1782963180000,
-        "pair_created_at": 1782963180000,
-        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ICE in ICE BUCKET CHALLENGE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-17T19:57:32.783812+00:00"
-    },
-    {
       "id": "da63d2b514cc",
       "fingerprint": "da63d2b514cc",
       "narrative_summary": "Trump Media pide $100,000 mensuales por acceso rápido a los posts del presidente en Truth Social",
@@ -11552,7 +11428,101 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "6c0d9382e957",
+      "fingerprint": "6c0d9382e957",
+      "narrative_summary": "Ataque en la Parada del Orgullo de Berlín: el sospechoso es asesinado por la policía",
+      "why_memeable": "La narrativa es memeable debido a la gravedad del ataque y la muerte del sospechoso",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BERLINPRIDE",
+        "ATAQUEBERLÍN",
+        "SOSPECHOSOMUERE"
+      ],
+      "key_terms_for_dex_search": [
+        "Berlin",
+        "Pride",
+        "ataque",
+        "sospechoso",
+        "muere",
+        "policía"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-26T23:47:40.350195+00:00",
+      "expires_at": "2026-07-28T23:47:40.350195+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "00444396950d",
+      "fingerprint": "00444396950d",
+      "narrative_summary": "Elon Musk tiene que elegir entre £50,000 y la posibilidad de ganar £1 millón en un juicio.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un elemento de elección difícil.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKDILEMA",
+        "ELONMUSKDILEMA",
+        "MUSKDILEMA50000"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "juicio",
+        "£50,000",
+        "£1 millón"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-07-26T23:49:30.690089+00:00",
+      "expires_at": "2026-07-28T23:49:30.690089+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Would you choose £50,000 over the chance of £1m?",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-26T21:47:35.179354+00:00"
+  "last_updated": "2026-07-26T23:49:30.690089+00:00"
 }
