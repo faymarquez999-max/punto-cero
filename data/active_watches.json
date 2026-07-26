@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "4eaacbdd2b24",
-      "fingerprint": "4eaacbdd2b24",
-      "narrative_summary": "Un agente de la FBI vio sal en la van de un hombre que fue abatido por ICE en Houston, según un abogado de la familia - NBC News",
-      "why_memeable": "La narrativa tiene un título claro y un contenido que puede ser compartido fácilmente",
-      "category": "Noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SALTICE",
-        "ICEABATE",
-        "FBIVISTA"
-      ],
-      "key_terms_for_dex_search": [
-        "ICE",
-        "FBI",
-        "abate",
-        "salt"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-16T20:35:33.451799+00:00",
-      "expires_at": "2026-07-18T20:35:33.451799+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ice",
-        "name": "ice bucket challenge",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 31515.0,
-        "liquidity_usd": 14549.02,
-        "price_usd": 3.151e-05,
-        "volume_h24": 34701.6,
-        "volume_h1": 551.06,
-        "volume_m5": 8.27,
-        "price_change_5m": -0.12,
-        "price_change_1h": -6.94,
-        "price_change_24h": 33.85,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 32,
-        "created_ts": 1782963180000,
-        "pair_created_at": 1782963180000,
-        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ICE in ICE BUCKET CHALLENGE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-17T18:43:18.285170+00:00"
-    },
-    {
       "id": "d2ea808cd2a5",
       "fingerprint": "d2ea808cd2a5",
       "narrative_summary": "Sam Neill, actor de 'Jurassic Park' y 'The Piano', fallece a los 78 años",
@@ -7633,7 +7561,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "a41c9590c508",
@@ -7679,7 +7607,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "e5a819886928",
@@ -7885,7 +7813,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "bf97abcb8b87",
@@ -8013,7 +7941,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "a85db9c5b58d",
@@ -8058,7 +7986,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "d998b5a2ed19",
@@ -8847,7 +8775,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "6ced6b318ca2",
@@ -8888,7 +8816,7 @@
       "started_at": "2026-07-24T06:34:32.936083+00:00",
       "expires_at": "2026-07-26T06:34:32.936083+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -8897,7 +8825,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-26T12:20:03.615239+00:00"
     },
     {
       "id": "a75a509db500",
@@ -8936,14 +8865,15 @@
       "started_at": "2026-07-24T06:34:47.894494+00:00",
       "expires_at": "2026-07-26T06:34:47.894494+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zero",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-26T12:20:03.615252+00:00"
     },
     {
       "id": "e5da508eaf52",
@@ -8993,7 +8923,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "32cba724bcb5",
@@ -9031,14 +8961,15 @@
       "started_at": "2026-07-24T11:16:23.680993+00:00",
       "expires_at": "2026-07-26T11:16:23.680993+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zero",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-26T12:20:03.615256+00:00"
     },
     {
       "id": "49eb8b5348c0",
@@ -9075,13 +9006,14 @@
       "started_at": "2026-07-24T11:17:37.182843+00:00",
       "expires_at": "2026-07-26T11:17:37.182843+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-26T12:20:03.615258+00:00"
     },
     {
       "id": "190c0884d100",
@@ -9119,13 +9051,14 @@
       "started_at": "2026-07-24T11:18:19.847052+00:00",
       "expires_at": "2026-07-26T11:18:19.847052+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Neuralink helping those who have lost their mind to body connection",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-26T12:20:03.615261+00:00"
     },
     {
       "id": "74b4b311d3c8",
@@ -9243,7 +9176,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "b063dacd0f0c",
@@ -9355,7 +9288,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "668b24c71bd3",
@@ -9471,7 +9404,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "159d59b04606",
@@ -9514,7 +9447,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6081e851ca15",
@@ -9713,7 +9646,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "e9153cce7a07",
@@ -9754,7 +9687,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a969423b1d91",
@@ -9797,7 +9730,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "82dc3114240c",
@@ -9841,7 +9774,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "11ff43645483",
@@ -9889,7 +9822,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "255b41f4cb9a",
@@ -10016,7 +9949,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "917893b87f3d",
@@ -10061,7 +9994,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "026dcb6f7673",
@@ -10111,7 +10044,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5bd60d068304",
@@ -10235,7 +10168,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "767e8887d74a",
@@ -10279,7 +10212,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "029592a8f368",
@@ -10329,7 +10262,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "47170fb5950e",
@@ -10373,7 +10306,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0b0e3a1e4716",
@@ -10419,7 +10352,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b50db4c0c0ef",
@@ -10468,7 +10401,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c4f573a43f7e",
@@ -10508,14 +10441,15 @@
       "started_at": "2026-07-25T12:08:27.948693+00:00",
       "expires_at": "2026-07-26T12:08:27.948693+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Flight 13 of Starship launch attempt in 10 minutes!",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-07-26T12:20:03.615268+00:00"
     },
     {
       "id": "4f868c9d3ae6",
@@ -10658,7 +10592,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "538d3f139cd1",
@@ -10777,7 +10711,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c7064c919d90",
@@ -10905,7 +10839,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2c2179990f6a",
@@ -10953,7 +10887,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "1fed69f3c2fb",
@@ -11069,7 +11003,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6258f39d1c5b",
@@ -11114,7 +11048,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "98c17e1c0050",
@@ -11161,7 +11095,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "47c3f0fce4c1",
@@ -11280,7 +11214,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d99457116107",
@@ -11331,7 +11265,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3f12f5173340",
@@ -11378,7 +11312,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4f9846e7f245",
@@ -11423,7 +11357,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4c2952e96a64",
@@ -11472,7 +11406,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "bf72c5acfdd6",
@@ -11518,7 +11452,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "636866dd6aea",
@@ -11564,7 +11498,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1d15da0569f3",
@@ -11609,7 +11543,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d1831460ab01",
@@ -11656,7 +11590,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "773ef940c2e2",
@@ -11701,8 +11635,53 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "59fdfb996b34",
+      "fingerprint": "59fdfb996b34",
+      "narrative_summary": "Ucrania ataca barcos iraníes en el Mar Caspio, Teherán acusa a Kiev de 'acto hostil y criminal'",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable ('acto hostil y criminal')",
+      "category": "conflicto internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA_IRAN",
+        "MAR_CASPIO",
+        "GUERRA_UCRANIA"
+      ],
+      "key_terms_for_dex_search": [
+        "UCRANIA",
+        "IRAN",
+        "MAR_CASPIO",
+        "GUERRA_UCRANIA"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T12:22:16.497730+00:00",
+      "expires_at": "2026-07-28T12:22:16.497730+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' - CNBC",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-26T04:51:35.796264+00:00"
+  "last_updated": "2026-07-26T12:22:16.497730+00:00"
 }

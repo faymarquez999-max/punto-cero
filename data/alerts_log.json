@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T22:38:09.941256+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies - The Washington Post",
-        "candidate_tickers": [
-          "Hegseth",
-          "NATO",
-          "Europa",
-          "reducciones de tropas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T22:38:55.265967+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Cine y entretenimiento",
-        "title": "FULL DISCLOSURE: Spielberg’s ‘Disclosure Day’ is stuck in orbit - News On 6",
-        "candidate_tickers": [
-          "DisclosureDay",
-          "Spielberg",
-          "Empatia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T22:39:41.018669+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d8b3b536db9b",
-        "score": 88,
-        "category": "Guerra, Ucrania, Rusia",
-        "title": "Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters",
-        "candidate_tickers": [
-          "UCRANIAATACA",
-          "MOSCUQUEMADO",
-          "REFINERIAABLAZE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-18T22:40:50.652937+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28233,6 +28189,48 @@
           "MUSK",
           "TWITTER",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T12:22:16.860118+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "59fdfb996b34",
+        "score": 88,
+        "category": "conflicto internacional",
+        "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' - CNBC",
+        "candidate_tickers": [
+          "UCRANIA_IRAN",
+          "MAR_CASPIO",
+          "GUERRA_UCRANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T12:23:32.694947+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias internacionales",
+        "title": "Rescuers scour South China Sea for 17 missing after Vietnamese vessel sinks - Reuters",
+        "candidate_tickers": [
+          "mar_de_china",
+          "rescatistas",
+          "barco_vietnamita"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T12:25:08.115025+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y Negocios",
+        "title": "It’s time.",
+        "candidate_tickers": [
+          "ITSTIME",
+          "ELON_GOES"
         ]
       }
     }
