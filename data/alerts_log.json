@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T20:41:33.548698+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fcf17d346512",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
-      "ts": "2026-06-18T20:41:41.157450+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f3c31f4c1074",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 63800.0
-      }
-    },
-    {
-      "ts": "2026-06-18T20:41:46.316009+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4308bc10269c",
-        "ticker": "KANE",
-        "mint": "63ovonhirjczCgLwVhvpVnPmJPZ3x5tNA4ULZzgdpump",
-        "mc": 19224.0
-      }
-    },
-    {
-      "ts": "2026-06-18T22:37:02.365338+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "939d799cb7bd",
-        "score": 80,
-        "category": "Política y Entretenimiento",
-        "title": "Chicago Throws a Party for the Obama Presidential Center’s Star-Studded Opening",
-        "candidate_tickers": [
-          "OBAMA",
-          "HILLARY",
-          "MICHELLE",
-          "NOBEL",
-          "LAUGH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T22:37:33.821490+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a725905e5053",
-        "score": 80,
-        "category": "Criptomonedas",
-        "title": "/XSG/ XRP Schizo General #2548",
-        "candidate_tickers": [
-          "XRP",
-          "SUI",
-          "MEME"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-18T22:38:09.941256+00:00",
       "kind": "shadow",
       "payload": {
@@ -28213,6 +28151,88 @@
           "MARDECHINA",
           "SINKINGSHIP",
           "RESCUETEAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T11:12:30.326633+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "be5f48ebc612",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "BADCONGRESS",
+          "TRUMPENDORSE",
+          "MASSIEGATE",
+          "POLITICALSENDFU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T11:13:51.935190+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "criptomonedas",
+        "title": "Crypto update: #Bitcoin 64351.00 +0.06% #Ether 1878.70 +0.43% #BitcoinCash 209.86 +0.22% #EOS 0.1295 +0% #Litecoin 47.00 +1.1% #Stellar 0.1783 -0% #Dogecoin 0.0732 +0.97% #Uniswap 3.6609 -0.43% #Chain",
+        "candidate_tickers": [
+          "BTC",
+          "ETH",
+          "BCH",
+          "EOS",
+          "LTC",
+          "XLM",
+          "DOGE",
+          "UNI",
+          "LINK",
+          "DOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T11:15:34.927240+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd6267cfeb40",
+        "score": 74,
+        "category": "Desastres naturales",
+        "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News",
+        "candidate_tickers": [
+          "WILDFIRESBORDEAUX",
+          "BURDEOSINCENDIOS",
+          "250KDESPLAZADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T11:16:04.168743+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "82e7d4ad56f5",
+        "score": 80,
+        "category": "Política",
+        "title": "COVID-19 spending at center of alleged conspiracy - Honolulu Star-Advertiser",
+        "candidate_tickers": [
+          "SYLVIALUKE",
+          "CONSPIRACIONDESOBORNO",
+          "HAWAIIGOBIERNO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T11:17:28.462487+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política y tecnología",
+        "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "ELONMUSK"
         ]
       }
     }
