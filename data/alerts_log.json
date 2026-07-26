@@ -1,106 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T13:56:40.657919+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "830521ca0ac6",
-        "score": 73,
-        "category": "Animales y personajes inusuales",
-        "title": "Gary the snail 🐌 and the beginning. @boringcompany",
-        "candidate_tickers": [
-          "GARYTHESNAIL",
-          "SNAILMUSK",
-          "BORINGSNAIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T13:58:55.498467+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4733a2160381",
-        "score": 72,
-        "category": "Deportes",
-        "title": "How DR Congo's viral World Cup leopard suits became a global sensation - KHOU",
-        "candidate_tickers": [
-          "LEOPARD_CONGO",
-          "MUNDIAL_2026",
-          "LEOPARDOS_DEL_CONGO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T16:37:36.932367+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Política y Controversia",
-        "title": "Fauci committed so many evil crimes",
-        "candidate_tickers": [
-          "Fauci",
-          "FauciCrimes"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T16:38:02.997922+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tendencias en Twitter",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T16:39:30.345271+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "Noticias",
-        "title": "NYPD officer shot during standoff with barricaded suspect in Bedford-Stuyvesant, Brooklyn; suspect dead - ABC7 New York",
-        "candidate_tickers": [
-          "NYPD",
-          "Cop",
-          "Dead",
-          "Bedford-Stuyvesant"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T16:41:08.384508+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "accidente de tráfico",
-        "title": "Breaking: Mother dead after being hit by vehicle in Elkhart; 2-year-old hospitalized - WSBT",
-        "candidate_tickers": [
-          "elkhartcrash",
-          "madreatropellada",
-          "2yearoldhospitalizado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T16:41:35.687695+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b6c52aabc2e7",
-        "score": 73,
-        "category": "Celebridad",
-        "title": "Kerry Kennedy Recalls Brother RFK Jr’s Bizarre Stunt - The Mary Sue",
-        "candidate_tickers": [
-          "RFKJR",
-          "KERRYKENNEDY",
-          "RFKJRSTUNT"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T16:42:08.755231+00:00",
       "kind": "shadow",
       "payload": {
@@ -28238,6 +28138,108 @@
           "NORRISWINS",
           "HUNGARIANGP",
           "F1TRIUMPH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:24:57.511088+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1381933fffcf",
+        "score": 88,
+        "category": "Noticias de actualidad",
+        "title": "Peter is not correct about me in this case.",
+        "candidate_tickers": [
+          "PRIDE",
+          "BERLIN",
+          "TERROR",
+          "LGBT",
+          "BALLOUT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:25:11.202540+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dc75d02062f1",
+        "score": 74,
+        "category": "Tecnología y Negocios",
+        "title": "It’s time.",
+        "candidate_tickers": [
+          "TIME",
+          "ELON",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:25:24.626247+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e043610fafd5",
+        "score": 85,
+        "category": "imagen viral de Elon Musk",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:25:37.409145+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Tecnología",
+        "title": "/dream",
+        "candidate_tickers": [
+          "/dream",
+          "elonmusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:26:42.604276+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ba86ad3c0a27",
+        "score": 84,
+        "category": "Política y tecnología",
+        "title": "It’s unreal. We are committing Civilizational Seppuku.",
+        "candidate_tickers": [
+          "SEPPUKU",
+          "CIVILIZATIONAL",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:27:05.499242+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Cine y tecnología",
+        "title": "Blade Runner 2026",
+        "candidate_tickers": [
+          "BLDR2026",
+          "BLDR",
+          "RUNNER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T19:27:26.724800+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "accidente",
+        "title": "TASNIM NEWS AGENCY SAYS OIL TANKER EXPLODES AFTER HITTING NAVAL MINE IN STRAIT OF HORMUZ",
+        "candidate_tickers": [
+          "HORMUZ",
+          "PETROLERO",
+          "MINA"
         ]
       }
     }
