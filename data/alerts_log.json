@@ -1,74 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T05:32:03.467563+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6eade3cc1226",
-        "score": 73,
-        "category": "Deportes",
-        "title": "Canada star Ismael Kone suffers horrifying leg injury in World Cup vs. Qatar - USA Today",
-        "candidate_tickers": [
-          "KONELESION",
-          "MUNDIAL2026",
-          "LESIONENELMUNDIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T05:33:06.711941+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "At center opening, Obama denounces those who use power ‘to divvy up the spoils’ - The Washington Post",
-        "candidate_tickers": [
-          "OBAMA",
-          "DIVVY",
-          "SPOILS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T05:34:22.710636+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "10ad96d8ae8c",
-        "score": 88,
-        "category": "política",
-        "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-        "candidate_tickers": [
-          "IRAN_TRUMP",
-          "TRUMP_DESPE",
-          "IRAN_LEADER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T05:35:30.829768+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "accidente",
-        "title": "Central Park horse-drawn carriage rides paused after 18-year-old tourist killed - ABC7 New York",
-        "candidate_tickers": [
-          "CentralPark",
-          "CarruajeDeCaballos",
-          "TuristaMuerto"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T05:36:16.495528+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "452450cf5767",
-        "ticker": "IRAN",
-        "mint": "GQmqLKv9fqmWmEa362Fx6XtLE9NbThs4bdkLSVefwUju",
-        "mc": 118083.0
-      }
-    },
-    {
       "ts": "2026-06-19T10:08:21.617745+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28227,6 +28159,77 @@
         "ticker": "OPENAI",
         "mint": "6ZuANCe2B9ULsUW6SYros94C2H8TJsNdCSFQNHJ6cNN3",
         "mc": 11258.0
+      }
+    },
+    {
+      "ts": "2026-07-26T15:33:59.785220+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e8b7a775b4e8",
+        "score": 70,
+        "category": "política internacional",
+        "title": "TRUMP HALTS PLANNED IRAN STRIKES",
+        "candidate_tickers": [
+          "TRUMP_IRAN",
+          "IRAN_STRIKES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T15:34:56.069449+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0c719bb1230c",
+        "score": 79,
+        "category": "Deportes/Política",
+        "title": "Controversial Argentina World Cup banner gets new life in print",
+        "candidate_tickers": [
+          "ARGENTINA",
+          "MALVINAS",
+          "CONSPIRACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T15:37:13.835784+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "927a151a7ebb",
+        "score": 70,
+        "category": "Cultura y tecnología",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T15:37:29.387338+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a33dfaca3708",
+        "score": 83,
+        "category": "Tecnología",
+        "title": "Download Grok Build and type /tutorial X.ai/cli",
+        "candidate_tickers": [
+          "GROK",
+          "XAICLI",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T15:37:57.570953+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y celebridades",
+        "title": "/dream",
+        "candidate_tickers": [
+          "/dream",
+          "elonmuskdream"
+        ]
       }
     }
   ]
