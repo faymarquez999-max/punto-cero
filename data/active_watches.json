@@ -1,334 +1,6 @@
 {
   "watches": [
     {
-      "id": "cd771d1402e2",
-      "fingerprint": "cd771d1402e2",
-      "narrative_summary": "Más de 100 demócratas de la Cámara de Representantes votan para cortar la ayuda a Israel en un cambio significativo.",
-      "why_memeable": "La narrativa es memeable debido a la sorpresa y la tensión generadas por la votación de los demócratas.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAELAIDCUT",
-        "DEMOCRATASVSISRAEL",
-        "CAMBIOENLACÁMARA"
-      ],
-      "key_terms_for_dex_search": [
-        "Israel",
-        "ayuda",
-        "demócratas",
-        "Cámara de Representantes",
-        "votación"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-16T11:24:25.492066+00:00",
-      "expires_at": "2026-07-18T11:24:25.492066+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "In seismic shift, more than 100 House Democrats vote to end Israel aid - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-07-18T12:08:43.286567+00:00"
-    },
-    {
-      "id": "5a911e93f033",
-      "fingerprint": "5a911e93f033",
-      "narrative_summary": "Elon Musk afirma que discutir con personas controladas por algoritmos (NPCs) es inútil.",
-      "why_memeable": "La frase es corta, fácil de recordar y tiene un impacto emocional.",
-      "category": "Tecnología y sociedad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "NPC",
-        "ARGUING",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "NPC",
-        "ARGUING"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-16T11:26:22.483022+00:00",
-      "expires_at": "2026-07-18T11:26:22.483022+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 321689.0,
-        "liquidity_usd": 97652.67,
-        "price_usd": 0.0003217,
-        "volume_h24": 12650.18,
-        "volume_h1": 695.45,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 2.74,
-        "price_change_24h": 4.17,
-        "txns_h1_buys": 8,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Arguing with NPCs is pointless",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-16T11:27:40.133793+00:00"
-    },
-    {
-      "id": "a875ed8a4b42",
-      "fingerprint": "a875ed8a4b42",
-      "narrative_summary": "Protestas en ciudades ucranianas contra la remoción del ministro de defensa popular por parte de Zelensky",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto político, con un ministro de defensa popular siendo removido y causando protestas en varias ciudades.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FEDOROV",
-        "ZELENSKY",
-        "UCRANIA",
-        "PROTESTAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Fedorov",
-        "Zelensky",
-        "Ucrania",
-        "Protestas",
-        "Ministro de Defensa"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-16T16:48:59.224035+00:00",
-      "expires_at": "2026-07-18T16:48:59.224035+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-18T18:31:42.315508+00:00"
-    },
-    {
-      "id": "67a8afd8702e",
-      "fingerprint": "67a8afd8702e",
-      "narrative_summary": "Elon Musk comparte su opinión sobre la inutilidad de discutir con entidades no personales (NPCs)",
-      "why_memeable": "El núcleo de la narrativa es una frase corta y memorable que puede ser capturada en una imagen o una palabra",
-      "category": "Tecnología y Cultura",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "NPC",
-        "ARGUING",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "NPC",
-        "ARGUING",
-        "ELONMUSK"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-16T16:52:42.516303+00:00",
-      "expires_at": "2026-07-18T16:52:42.516303+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Arguing with NPCs is pointless",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-18T18:31:42.315523+00:00"
-    },
-    {
-      "id": "e958ddbc50f9",
-      "fingerprint": "e958ddbc50f9",
-      "narrative_summary": "Trump y Elon Musk tienen una disputa pública, con Trump acusando a Musk de estar involucrado en archivos de Epstein.",
-      "why_memeable": "La disputa entre Trump y Musk es un tema interesante y controvertido que puede generar mucha atención y debate.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSMUSK",
-        "MUSKVSTRUMP",
-        "TRUMPVSELON"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "ELON MUSK",
-        "DISPUTA",
-        "ARCHIVOS DE EPSTEIN"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-07-16T19:26:37.341340+00:00",
-      "expires_at": "2026-07-18T19:26:37.341340+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "OH MY GOSH!",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-18T19:48:54.345801+00:00"
-    },
-    {
-      "id": "fabca0445fc4",
-      "fingerprint": "fabca0445fc4",
-      "narrative_summary": "Elon Musk compartió un pensamiento sobre la inutilidad de discutir con personajes no jugables (NPCs) en línea.",
-      "why_memeable": "La frase es breve, memorable y tiene un alto potencial de ser compartida.",
-      "category": "Tecnología y sociedad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "NPC",
-        "ARGUING",
-        "POINTLESS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "npcs",
-        "arguing",
-        "pointless"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-16T19:30:56.848072+00:00",
-      "expires_at": "2026-07-18T19:30:56.848072+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "POINTLESS",
-        "name": "Pointless Coin",
-        "mint": "D4pi5eJNqT5mCzQcxAGfMavgVYLspfYkAQKKvQ8Xpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 23717.0,
-        "liquidity_usd": 13134.03,
-        "price_usd": 2.372e-05,
-        "volume_h24": 23342.61,
-        "volume_h1": 3076.42,
-        "volume_m5": 260.26,
-        "price_change_5m": 2.7,
-        "price_change_1h": 49.42,
-        "price_change_24h": -49.32,
-        "txns_h1_buys": 57,
-        "txns_h1_sells": 90,
-        "created_ts": 1783782343000,
-        "pair_created_at": 1783782343000,
-        "url": "https://dexscreener.com/solana/7p1ld2vwkrcdbxnhwak3fkdj7fcakubszmeaucgivngq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: POINTLESS==POINTLESS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Arguing with NPCs is pointless",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-16T19:31:27.057037+00:00"
-    },
-    {
       "id": "4eaacbdd2b24",
       "fingerprint": "4eaacbdd2b24",
       "narrative_summary": "Un agente de la FBI vio sal en la van de un hombre que fue abatido por ICE en Houston, según un abogado de la familia - NBC News",
@@ -7329,14 +7001,15 @@
       "started_at": "2026-07-23T01:20:53.983785+00:00",
       "expires_at": "2026-07-26T01:20:53.983785+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Strange Milky Way planetary system leaves scientists puzzled - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 22
+      "scan_attempts": 22,
+      "expired_at": "2026-07-26T04:46:06.217661+00:00"
     },
     {
       "id": "b75b527aeb69",
@@ -11751,7 +11424,285 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "4c2952e96a64",
+      "fingerprint": "4c2952e96a64",
+      "narrative_summary": "Trump y Musk están involucrados en una disputa pública con acusaciones y insultos.",
+      "why_memeable": "La disputa entre Trump y Musk es un tema viral y controvertido que puede generar memes y discusiones.",
+      "category": "Política y celebridades",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPMUSK",
+        "FEUD2025",
+        "TRUMPVSMSUK",
+        "MUSKTRUMPWAR"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "disputa",
+        "política",
+        "celebridades"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-26T04:46:07.638209+00:00",
+      "expires_at": "2026-07-29T04:46:07.638209+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Peter is not correct about me in this case.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bf72c5acfdd6",
+      "fingerprint": "bf72c5acfdd6",
+      "narrative_summary": "Elon Musk enfrenta una demanda por fraude de valores y llega a un acuerdo de $1.5 millones, lo que genera controversia y debate en línea.",
+      "why_memeable": "La combinación de la figura polarizante de Elon Musk, el tema del fraude y la cantidad significativa de dinero involucrada crean un escenario propenso a la viralidad y la creación de memes.",
+      "category": "noticias de negocios y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKSETTLE",
+        "TWTRFRAUD",
+        "ELONLAW"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "fraude",
+        "Twitter",
+        "demanda",
+        "acuerdo"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T04:46:18.568237+00:00",
+      "expires_at": "2026-07-29T04:46:18.568237+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Zillow Group (ZG) Faces Securities Fraud Lawsuit Over Redfin Disclosure Claims - simplywall.st",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "636866dd6aea",
+      "fingerprint": "636866dd6aea",
+      "narrative_summary": "Noticias sobre los mejores memecoins a invertir en 2026, incluyendo agentes de inteligencia artificial y tokens de Solana.",
+      "why_memeable": "La narrativa es memeable porque se centra en la inversión en memecoins, que es un tema popular y controvertido en la comunidad de criptomonedas.",
+      "category": "memecoins",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "MEMETORO",
+        "SOLANA",
+        "MEMECOIN"
+      ],
+      "key_terms_for_dex_search": [
+        "memecoins",
+        "inversión",
+        "2026",
+        "agentes de inteligencia artificial",
+        "tokens de Solana"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T04:46:32.226901+00:00",
+      "expires_at": "2026-07-29T04:46:32.226901+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2553",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1d15da0569f3",
+      "fingerprint": "1d15da0569f3",
+      "narrative_summary": "Incendios forestales en Francia obligan a evacuar a 200.000 personas en torno a Burdeos.",
+      "why_memeable": "La narrativa cuenta con un evento dramático, la evacuación masiva de personas debido a incendios forestales, lo que la hace memeable.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BURDEOSINCENDIOS",
+        "FRANCIAENFUEGO",
+        "EVACUADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "incendios forestales",
+        "evacuación",
+        "Burdeos",
+        "Francia"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T04:46:58.641155+00:00",
+      "expires_at": "2026-07-29T04:46:58.641155+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "French wildfires trigger mass evacuations around Bordeaux",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d1831460ab01",
+      "fingerprint": "d1831460ab01",
+      "narrative_summary": "Un trabajador muere durante la reconstrucción del Camp Nou de Barcelona debido a un incidente relacionado con un modelo de inteligencia artificial de OpenAI.",
+      "why_memeable": "La narrativa tiene un núcleo central simple y fácil de entender, y el contexto de la inteligencia artificial y la muerte del trabajador es emocionalmente impactante.",
+      "category": "Tecnología e Inteligencia Artificial",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AI_KILLS",
+        "OPENAI_TROUBLE",
+        "CAMP_NOU_TRAGEDY"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "AI",
+        "muerte",
+        "trabajador",
+        "Camp Nou",
+        "Barcelona"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 6,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T04:49:35.027766+00:00",
+      "expires_at": "2026-07-29T04:49:35.027766+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "773ef940c2e2",
+      "fingerprint": "773ef940c2e2",
+      "narrative_summary": "El Lt. Gov. de Hawái, Sylvia Luke, ha sido acusado de soborno.",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés (soborno) y un personaje público implicado.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SYLVIALUKE",
+        "HAWAIIGOV",
+        "SOBORNO"
+      ],
+      "key_terms_for_dex_search": [
+        "Sylvia Luke",
+        "Hawaii",
+        "soborno",
+        "acusado"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T04:51:35.796264+00:00",
+      "expires_at": "2026-07-28T04:51:35.796264+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-26T01:15:52.702187+00:00"
+  "last_updated": "2026-07-26T04:51:35.796264+00:00"
 }
