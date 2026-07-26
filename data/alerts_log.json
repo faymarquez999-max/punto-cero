@@ -1,123 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T22:40:50.652937+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "abc38738c9d7",
-        "score": 89,
-        "category": "crimen y justicia",
-        "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
-        "candidate_tickers": [
-          "COCODRILOZOO",
-          "NIÑOHERIDO",
-          "ARRESTOPOLICIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T22:41:21.279489+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "80941f588518",
-        "score": 71,
-        "category": "política",
-        "title": "Janeese Lewis George wins DC mayoral primary - Politico",
-        "candidate_tickers": [
-          "JANEES",
-          "LEWIS",
-          "DCMAYOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-18T22:42:03.475691+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política",
-        "title": "California billionaires tax qualifies for ballot, setting up costly fight - Politico",
-        "candidate_tickers": [
-          "Calibill",
-          "TaxFight",
-          "MillionairesTax"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T00:18:01.083039+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Noticias",
-        "title": "'Toddler critical' and 'cost of living hope'",
-        "candidate_tickers": [
-          "cocodrilo",
-          "zoológico",
-          "niño",
-          "asalto",
-          "viral"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T00:19:11.033712+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6875ffc1653c",
-        "score": 88,
-        "category": "Guerra, violencia, sorpresa",
-        "title": "Ukraine brings the war to Moscow as huge blasts shake refinery - Reuters",
-        "candidate_tickers": [
-          "UCRANIAATACA",
-          "MOSCUENLLAMAS",
-          "DRONESDEGUERRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T00:20:19.005179+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "juegos",
-        "title": "Rockstar Games confirma fecha de preventa de GTA 6 y las memecoins temáticas se disparan - Yahoo",
-        "candidate_tickers": [
-          "GTA6",
-          "GTA6PREVENDA",
-          "GTA6COVERART"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T00:20:49.066714+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Janeese Lewis George wins DC mayoral primary - Politico",
-        "candidate_tickers": [
-          "JANEESLEWIS",
-          "DCMAYOR",
-          "JANEESFORDC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T00:21:03.801623+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Política y votación",
-        "title": "They have imported voters to win",
-        "candidate_tickers": [
-          "VOTERS",
-          "IMPORTED",
-          "WIN"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T05:32:03.467563+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28232,6 +28115,118 @@
           "ITSTIME",
           "ELON_GOES"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:12:57.889608+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a72e16cba07c",
+        "score": 80,
+        "category": "Noticias de crímenes y abusos",
+        "title": "You can just talk to Grok Build",
+        "candidate_tickers": [
+          "ANIMALABUSE",
+          "JUSTICIAANIMAL",
+          "PROTECCIONANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:13:11.568544+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Música y celebridades",
+        "title": "2 years ago today, Ice Spice released ‘Y2K!’",
+        "candidate_tickers": [
+          "IceSpice",
+          "Y2K",
+          "Celebridad"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:15:12.137270+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9790bb5dedfd",
+        "score": 80,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "MEMETORO",
+          "MEMECOIN",
+          "AGENTMEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:16:20.588671+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a6eca6c94703",
+        "score": 82,
+        "category": "Deporte",
+        "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown - Al Jazeera",
+        "candidate_tickers": [
+          "JOSHUAFURY",
+          "PRENGAKNOCKOUT",
+          "BOXEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:17:01.287539+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b86b8a480394",
+        "score": 78,
+        "category": "accidente_maritimo",
+        "title": "Rescuers scour South China Sea for 17 missing after Vietnamese vessel sinks - Reuters",
+        "candidate_tickers": [
+          "CHINA",
+          "VIETNAM",
+          "MAR_DE_CHINA_MERIDIONAL",
+          "RESCATISTAS",
+          "BARCO_HUNDIDO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:17:14.776716+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y Negocios",
+        "title": "It’s time.",
+        "candidate_tickers": [
+          "XCancel",
+          "It'sTime"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:17:28.390069+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fdb5d2fe9dc1",
+        "score": 70,
+        "category": "Tecnología y entretenimiento",
+        "title": "Hardcore",
+        "candidate_tickers": [
+          "HARDCORE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T14:18:22.102482+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d1831460ab01",
+        "ticker": "OPENAI",
+        "mint": "6ZuANCe2B9ULsUW6SYros94C2H8TJsNdCSFQNHJ6cNN3",
+        "mc": 11258.0
       }
     }
   ]
