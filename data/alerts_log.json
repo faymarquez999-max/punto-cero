@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T16:42:08.755231+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Agresión sexual en grupo",
-        "title": "Tres detenidos por una presunta agresión sexual en grupo a una joven en las fiestas de Elda - Ultima Hora",
-        "candidate_tickers": [
-          "EldaAgresion",
-          "JusticiaParaElda",
-          "AgresionSexualElda"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T18:27:43.107864+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
-        "candidate_tickers": [
-          "PMunderPressure",
-          "LabourMPsVsPM",
-          "ExitTimetable"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T18:28:32.405174+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eb60e9142aa2",
-        "score": 91,
-        "category": "política",
-        "title": "Italy's Meloni says Trump 'totally invented' story that she begged him for photo - Reuters",
-        "candidate_tickers": [
-          "MELONI",
-          "TRUMP",
-          "ITALY",
-          "DEBATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T18:30:22.122782+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Política/Controversia",
-        "title": "Fauci committed so many evil crimes",
-        "candidate_tickers": [
-          "Fauci",
-          "Crimes",
-          "FauciCrimes"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T18:30:43.321716+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T20:20:48.592869+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6b5e6aefc1d8",
-        "score": 74,
-        "category": "Viral video de ataque a un joven negro en Lenoir County",
-        "title": "Dramatic rescue as fire rips through school in Japan",
-        "candidate_tickers": [
-          "VIRALATTACK",
-          "LENOIRCOUNTY",
-          "RACIALINJUSTICE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T20:21:27.768728+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28240,6 +28153,96 @@
           "HORMUZ",
           "PETROLERO",
           "MINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:34:23.505316+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6651aeac101f",
+        "score": 80,
+        "category": "Noticias de actualidad con alto impacto emocional",
+        "title": "Peter is not correct about me in this case.",
+        "candidate_tickers": [
+          "PRIDEATTACK",
+          "BERLINPRIDE",
+          "ANIMALCRUELTY",
+          "POLICEACTION",
+          "NEWSHOCK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:35:09.009948+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "331bc9cca31f",
+        "score": 88,
+        "category": "política internacional",
+        "title": "TASNIM NEWS AGENCY SAYS OIL TANKER EXPLODES AFTER HITTING NAVAL MINE IN STRAIT OF HORMUZ",
+        "candidate_tickers": [
+          "HORMUZ",
+          "IRAN",
+          "PETROLERO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:35:50.505299+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c9b0c403e1a8",
+        "score": 74,
+        "category": "desastres naturales",
+        "title": "Wildfires threaten Bordeaux as France and Spain battle blazes - Reuters",
+        "candidate_tickers": [
+          "BURDEOSENLLAMAS",
+          "FUEGOENBORDEAUX",
+          "WILDFIRESBORDEAUX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:37:35.431049+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Noticias de crímenes y delitos",
+        "title": "Splash Pad in Port Royal temporarily closed due water line leak - WTOC",
+        "candidate_tickers": [
+          "AnimalRescue",
+          "OperadorArrestado",
+          "AnimalesMuertos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:38:20.790616+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1354a2cafc7d",
+        "score": 79,
+        "category": "política",
+        "title": "How Republicans plan to conquer Troy Jackson - Politico",
+        "candidate_tickers": [
+          "TROYVSGRAHAM",
+          "JACKSONCONQUERED",
+          "POLÍTICADEMAINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T20:38:42.943682+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "tech",
+        "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
+        "candidate_tickers": [
+          "BIGTECH",
+          "AIREVOLT",
+          "TECHSLAM"
         ]
       }
     }
