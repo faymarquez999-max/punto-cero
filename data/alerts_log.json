@@ -1,23 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-18T07:17:18.199029+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b156d64be76b",
-        "score": 88,
-        "category": "crimen y justicia",
-        "title": "'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News",
-        "candidate_tickers": [
-          "GILGO",
-          "ASESINO",
-          "SERIAL",
-          "VICTIMAS",
-          "SENTENCIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-18T07:17:39.871070+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28221,6 +28204,16 @@
           "AGENT",
           "SOLANA"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-26T01:15:52.713942+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "47c3f0fce4c1",
+        "ticker": "CJP",
+        "mint": "4tR7PbUjuB45RSb1TkXGpCKVTSEm6PRpTVdj6bYtpump",
+        "mc": 20109.0
       }
     }
   ]
