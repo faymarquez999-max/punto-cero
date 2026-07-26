@@ -1,270 +1,6 @@
 {
   "watches": [
     {
-      "id": "cfdcd850e6f0",
-      "fingerprint": "cfdcd850e6f0",
-      "narrative_summary": "Un racón llamado Jimothy se hace viral en Seattle debido a su apariencia única.",
-      "why_memeable": "La historia es simple y fácil de entender, con una imagen icónica del racón.",
-      "category": "Animales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "JIMOTHY",
-        "RACÓNVIRAL",
-        "SEATTLERACÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "Jimothy",
-        "Racón",
-        "Seattle",
-        "Viral"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 4,
-        "polarizing": 2,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 5
-      },
-      "started_at": "2026-07-17T17:23:27.268461+00:00",
-      "expires_at": "2026-07-20T17:23:27.268461+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Jimothy",
-        "name": "Jimothy The Raccoon",
-        "mint": "A3NqdmPtu9Qa6nRqcZWJ969ePUWNA1Fb4SgmQ7Ldpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 25152.0,
-        "liquidity_usd": 11717.98,
-        "price_usd": 2.515e-05,
-        "volume_h24": 252641.49,
-        "volume_h1": 9211.16,
-        "volume_m5": 838.37,
-        "price_change_5m": -6.49,
-        "price_change_1h": 24.36,
-        "price_change_24h": -19.41,
-        "txns_h1_buys": 164,
-        "txns_h1_sells": 110,
-        "created_ts": 1784284194000,
-        "pair_created_at": 1784284194000,
-        "url": "https://dexscreener.com/solana/91kebrd1bczbbn2vhywlyk1q4nnavuuqvcavuyvb1uwa",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: JIMOTHY==JIMOTHY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "World Cup crowds brought record-breaking business to Seattle’s Pioneer Square. Will momentum last? - KIRO 7 News Seattle",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-18T00:18:44.941182+00:00"
-    },
-    {
-      "id": "b19806cbf76a",
-      "fingerprint": "b19806cbf76a",
-      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento según la familia y registros.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase.",
-      "category": "actualidad, noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ICE",
-        "MAINE",
-        "COMPORTAMIENTO VIOLENTO"
-      ],
-      "key_terms_for_dex_search": [
-        "ICE",
-        "Maine",
-        "comportamiento violento"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-17T17:24:12.426893+00:00",
-      "expires_at": "2026-07-19T17:24:12.426893+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ice",
-        "name": "ice bucket challenge",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 31515.0,
-        "liquidity_usd": 14549.02,
-        "price_usd": 3.151e-05,
-        "volume_h24": 34701.6,
-        "volume_h1": 551.06,
-        "volume_m5": 8.27,
-        "price_change_5m": -0.12,
-        "price_change_1h": -6.94,
-        "price_change_24h": 33.85,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 32,
-        "created_ts": 1782963180000,
-        "pair_created_at": 1782963180000,
-        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ICE==ICE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-17T18:43:29.945026+00:00"
-    },
-    {
-      "id": "a41deb6b21a0",
-      "fingerprint": "a41deb6b21a0",
-      "narrative_summary": "Un terremoto fuerte golpea la costa mexicana cerca de Guatemala, generando una amenaza de tsunami.",
-      "why_memeable": "La narrativa cuenta con un evento dramático y una amenaza inminente, lo que la hace fácilmente compartible y recordable.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TSUNAMI",
-        "TERREMOTO",
-        "MÉXICO",
-        "GUATEMALA"
-      ],
-      "key_terms_for_dex_search": [
-        "terremoto",
-        "tsunami",
-        "mexico",
-        "guatemala"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-17T17:24:49.481413+00:00",
-      "expires_at": "2026-07-20T17:24:49.481413+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 20,
-      "expired_at": "2026-07-20T21:53:32.418200+00:00"
-    },
-    {
-      "id": "bfa6d4ca24c4",
-      "fingerprint": "bfa6d4ca24c4",
-      "narrative_summary": "Agentes de ICE intentan detener a un hombre en el aeropuerto de Las Vegas, en un incidente que ha causado conmoción",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable",
-      "category": "noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ICE",
-        "HARRYREID",
-        "LVMPD",
-        "ARREST"
-      ],
-      "key_terms_for_dex_search": [
-        "ICE",
-        "arrest",
-        "Las Vegas",
-        "Harry Reid",
-        "LVMPD"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-17T17:25:24.769003+00:00",
-      "expires_at": "2026-07-19T17:25:24.769003+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ice",
-        "name": "ice bucket challenge",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 31515.0,
-        "liquidity_usd": 14549.02,
-        "price_usd": 3.151e-05,
-        "volume_h24": 34701.6,
-        "volume_h1": 551.06,
-        "volume_m5": 8.27,
-        "price_change_5m": -0.12,
-        "price_change_1h": -6.94,
-        "price_change_24h": 33.85,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 32,
-        "created_ts": 1782963180000,
-        "pair_created_at": 1782963180000,
-        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ICE==ICE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "LVMPD: ICE agents attempted to detain man seen in viral Harry Reid Airport video - ktnv.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-17T18:43:32.799521+00:00"
-    },
-    {
       "id": "9fcd6485a9b4",
       "fingerprint": "9fcd6485a9b4",
       "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, quien luego criticó a Massie como el peor congresista en la historia del país.",
@@ -7438,7 +7174,7 @@
       "started_at": "2026-07-23T20:46:15.198642+00:00",
       "expires_at": "2026-07-26T20:46:15.198642+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -7447,7 +7183,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-26T21:44:02.251110+00:00"
     },
     {
       "id": "a85db9c5b58d",
@@ -7485,14 +7222,15 @@
       "started_at": "2026-07-23T20:46:29.166512+00:00",
       "expires_at": "2026-07-26T20:46:29.166512+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Cool",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-07-26T21:44:02.251122+00:00"
     },
     {
       "id": "d998b5a2ed19",
@@ -8788,13 +8526,14 @@
       "started_at": "2026-07-24T17:01:43.211086+00:00",
       "expires_at": "2026-07-26T17:01:43.211086+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "My pronouns are …",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-26T21:44:02.251128+00:00"
     },
     {
       "id": "668b24c71bd3",
@@ -8904,13 +8643,14 @@
       "started_at": "2026-07-24T17:04:59.479839+00:00",
       "expires_at": "2026-07-26T17:04:59.479839+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home - AP News",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-26T21:44:02.251131+00:00"
     },
     {
       "id": "159d59b04606",
@@ -11630,7 +11370,188 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "7105c25ac3d9",
+      "fingerprint": "7105c25ac3d9",
+      "narrative_summary": "Ataque en el Berlin Pride y asesinato del sospechoso por la policía",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y es fácilmente compartible y recordable",
+      "category": "Noticias de actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BERLINPRIDE",
+        "ATAQUEBERLIN",
+        "PRIDEATTACK"
+      ],
+      "key_terms_for_dex_search": [
+        "Berlin",
+        "Pride",
+        "ataque",
+        "política",
+        "injusticia"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T21:45:34.411455+00:00",
+      "expires_at": "2026-07-28T21:45:34.411455+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Suspect in Berlin Pride attack shot dead by police - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5833d3a1b355",
+      "fingerprint": "5833d3a1b355",
+      "narrative_summary": "Wildfires amenazan a Bordeaux, Francia y España luchan contra incendios",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' con la amenaza de incendios y la evacuación de miles de personas.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BORDEAUXINCENDIO",
+        "FRANCIAENFUEGO",
+        "INCENDIOSESPAÑA"
+      ],
+      "key_terms_for_dex_search": [
+        "Bordeaux",
+        "incendio",
+        "Francia",
+        "España",
+        "evacuación"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-26T21:46:15.113790+00:00",
+      "expires_at": "2026-07-28T21:46:15.113790+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wildfires threaten Bordeaux as France and Spain battle blazes - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1440b63c3f23",
+      "fingerprint": "1440b63c3f23",
+      "narrative_summary": "Israeli settlers incendian mezquitas en la Cuenca Occidental después de un enfrentamiento mortal.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'violencia' que puede ser capturado en una frase corta.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "MEZQUITAS",
+        "INJUSTICIA",
+        "VIOLNCIA"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "mezquitas",
+        "injusticia",
+        "violencia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 4,
+        "velocity": 6
+      },
+      "started_at": "2026-07-26T21:46:56.458929+00:00",
+      "expires_at": "2026-07-29T21:46:56.458929+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israeli settlers set fire to West Bank mosques after deadly clash - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "263e6994b049",
+      "fingerprint": "263e6994b049",
+      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' que ha generado mucha atención.",
+      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, lo que la hace muy memeable.",
+      "category": "meme de Twitter",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "IMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "IMAGINE",
+        "ELON MUSK",
+        "MEME"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-26T21:47:35.179354+00:00",
+      "expires_at": "2026-07-28T21:47:35.179354+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-26T15:37:28.855774+00:00"
+  "last_updated": "2026-07-26T21:47:35.179354+00:00"
 }
