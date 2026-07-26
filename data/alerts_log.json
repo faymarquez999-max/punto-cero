@@ -1,58 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T10:11:09.046952+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "82c2d837f271",
-        "ticker": "GARY",
-        "mint": "GKFybgxAEXJgZyDvy3MoQtmFBic8QneMhkbRC4M7pump",
-        "mc": 23752.0
-      }
-    },
-    {
-      "ts": "2026-06-19T13:54:40.166578+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política británica",
-        "title": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News",
-        "candidate_tickers": [
-          "StarmerVsBurnham",
-          "BurnhamWins",
-          "LabourLeadership"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T13:55:25.849395+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2c0d62313a47",
-        "score": 70,
-        "category": "Celebridades y política",
-        "title": "Obama moved to tears by wife Michelle's speech",
-        "candidate_tickers": [
-          "OBAMALLORANDO",
-          "MICHELLEDESLUMBRANTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T13:55:50.971791+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "How Pulte’s new role is a win for CIA’s John Ratcliffe - Politico",
-        "candidate_tickers": [
-          "PulteWins",
-          "RatcliffeBeneficia",
-          "CIA_Pulte"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T13:56:40.657919+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28229,6 +28177,67 @@
           "MEZQUITAS",
           "CISJOR",
           "VIOLENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T17:49:15.631894+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política internacional",
+        "title": "Axios citing sources: Commander of U.S. Central Command recommended halting strikes around the Strait of Hormuz after they reached maximum effectiveness",
+        "candidate_tickers": [
+          "Hormuz",
+          "Estados Unidos",
+          "Irán",
+          "ataques",
+          "pausa"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T17:52:37.332702+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Criptomonedas y tokens",
+        "title": "/XSG/ XRP Schizo General #2553",
+        "candidate_tickers": [
+          "XRP",
+          "MemeToro",
+          "Solana"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T17:53:20.621650+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ca4ec94f2fd1",
+        "score": 88,
+        "category": "Noticias de actualidad",
+        "title": "Gatwick Airport left without running water after major outage",
+        "candidate_tickers": [
+          "GATWICK",
+          "CORTE DE AGUA",
+          "ANIMAL INVOLUCRADO",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T17:53:54.500621+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "28ad15886e07",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Norris wins his first grand prix of year in Hungary",
+        "candidate_tickers": [
+          "NORRISWINS",
+          "HUNGARIANGP",
+          "F1TRIUMPH"
         ]
       }
     }
