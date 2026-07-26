@@ -1,48 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T21:50:34.046047+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "504e55dc7e87",
-        "score": 80,
-        "category": " política, guerra",
-        "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News",
-        "candidate_tickers": [
-          "UCRANIA",
-          "MOSCÚ",
-          "DRONES",
-          "REFINERÍA",
-          "RUSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T21:51:18.018858+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f39b5ada4bac",
-        "score": 82,
-        "category": "Tecnología/Noticias",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONTRUTH",
-          "MUSKTURE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T21:54:29.663650+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f39b5ada4bac",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 32686.0
-      }
-    },
-    {
       "ts": "2026-06-19T23:07:39.533315+00:00",
       "kind": "shadow",
       "payload": {
@@ -28238,6 +28196,40 @@
         "ticker": "MIDTERMS26",
         "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
         "mc": 31857.0
+      }
+    },
+    {
+      "ts": "2026-07-26T22:46:28.684783+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política y tecnología",
+        "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+        "candidate_tickers": [
+          "Musk",
+          "Twitter",
+          "Scandal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-26T22:51:03.089474+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4f9846e7f245",
+        "ticker": "MIDTERMS26",
+        "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
+        "mc": 26322.0
+      }
+    },
+    {
+      "ts": "2026-07-26T22:51:07.933580+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "636866dd6aea",
+        "ticker": "MIDTERMS26",
+        "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
+        "mc": 26322.0
       }
     }
   ]
