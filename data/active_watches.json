@@ -1,173 +1,6 @@
 {
   "watches": [
     {
-      "id": "392c185e606e",
-      "fingerprint": "392c185e606e",
-      "narrative_summary": "Declassified documents show over 250,000 non-citizens are illegally registered to vote in four states, sparking controversy and debate.",
-      "why_memeable": "The narrative combines elements of controversy, politics, and potential scandal, making it attention-grabbing and shareable.",
-      "category": "politics",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "VOTE",
-        "FRAUD",
-        "TRUMP",
-        "DECCLASS",
-        "VOTEGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "voter fraud",
-        "declassified documents",
-        "Trump",
-        "election controversy"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-17T23:12:23.609375+00:00",
-      "expires_at": "2026-07-20T23:12:23.609375+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-21T00:13:54.708979+00:00"
-    },
-    {
-      "id": "0631ceb275d6",
-      "fingerprint": "0631ceb275d6",
-      "narrative_summary": "Un oficial de ICE en Maine tiene un historial de comportamiento violento, según familiares y registros.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'villano' (el oficial de ICE), lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ICE",
-        "MAINE",
-        "OFICIAL VIOLENTO",
-        "INJUSTICIA"
-      ],
-      "key_terms_for_dex_search": [
-        "ICE",
-        "Maine",
-        "Oficial violento",
-        "Injusticia"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 5,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 3,
-        "velocity": 8
-      },
-      "started_at": "2026-07-17T23:13:57.940100+00:00",
-      "expires_at": "2026-07-20T23:13:57.940100+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ice",
-        "name": "ice bucket challenge",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 33050.0,
-        "liquidity_usd": 14908.18,
-        "price_usd": 3.305e-05,
-        "volume_h24": 35424.78,
-        "volume_h1": 137.73,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.66,
-        "price_change_24h": 33.39,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 2,
-        "created_ts": 1782963180000,
-        "pair_created_at": 1782963180000,
-        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ICE==ICE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-18T00:18:56.180054+00:00"
-    },
-    {
-      "id": "cf5dd5540965",
-      "fingerprint": "cf5dd5540965",
-      "narrative_summary": "Ciclospora está extendiéndose y no se sabe mucho sobre ella. ¿Por qué?",
-      "why_memeable": "Frase corta y directa que puede ser compartida fácilmente",
-      "category": "salud",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CICLOSPORA",
-        "NOSÉ"
-      ],
-      "key_terms_for_dex_search": [
-        "Ciclospora",
-        "salud",
-        "misterio"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-18T00:14:09.539903+00:00",
-      "expires_at": "2026-07-20T00:14:09.539903+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "don’t",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-20T00:17:51.384438+00:00"
-    },
-    {
       "id": "63e848c404d4",
       "fingerprint": "63e848c404d4",
       "narrative_summary": "El expresidente de EE.UU., Donald Trump, critica al congresista Thomas Massie y anuncia su apoyo a Ed Gallrein.",
@@ -7746,7 +7579,7 @@
       "started_at": "2026-07-24T11:16:08.605775+00:00",
       "expires_at": "2026-07-27T11:16:08.605775+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -7755,7 +7588,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 15,
+      "expired_at": "2026-07-27T15:34:27.168228+00:00"
     },
     {
       "id": "32cba724bcb5",
@@ -9002,13 +8836,14 @@
       "started_at": "2026-07-25T09:17:12.601198+00:00",
       "expires_at": "2026-07-27T09:17:12.601198+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Could somebody show this to Lenny Henry",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-27T15:34:27.168245+00:00"
     },
     {
       "id": "767e8887d74a",
@@ -9186,13 +9021,14 @@
       "started_at": "2026-07-25T10:52:28.018819+00:00",
       "expires_at": "2026-07-27T10:52:28.018819+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Could somebody show this to Lenny Henry",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T15:34:27.168250+00:00"
     },
     {
       "id": "b50db4c0c0ef",
@@ -9232,7 +9068,7 @@
       "started_at": "2026-07-25T12:08:05.991090+00:00",
       "expires_at": "2026-07-27T12:08:05.991090+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -9241,7 +9077,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T15:34:27.168252+00:00"
     },
     {
       "id": "c4f573a43f7e",
@@ -9544,14 +9381,15 @@
       "started_at": "2026-07-25T12:11:50.518252+00:00",
       "expires_at": "2026-07-27T12:11:50.518252+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T15:34:27.168256+00:00"
     },
     {
       "id": "c7064c919d90",
@@ -9673,13 +9511,14 @@
       "started_at": "2026-07-25T12:13:09.468008+00:00",
       "expires_at": "2026-07-27T12:13:09.468008+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T15:34:27.168258+00:00"
     },
     {
       "id": "2c2179990f6a",
@@ -11592,7 +11431,139 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "0fe77504f2ea",
+      "fingerprint": "0fe77504f2ea",
+      "narrative_summary": "Nvidia anuncia $750 mil millones de dólares en acuerdos que reviven el miedo a la financiación circular de AI",
+      "why_memeable": "La narrativa tiene un título claro y un tema interesante que puede ser capturado en una frase corta",
+      "category": "Tecnología y Finanzas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NVDA",
+        "AI",
+        "FINANCE",
+        "CIRCULAR"
+      ],
+      "key_terms_for_dex_search": [
+        "NVDA",
+        "AI",
+        "FINANCE",
+        "CIRCULAR"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-27T15:36:23.036749+00:00",
+      "expires_at": "2026-07-30T15:36:23.036749+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing - Bloomberg",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "388f93bb9bd7",
+      "fingerprint": "388f93bb9bd7",
+      "narrative_summary": "Elon Musk comparte un meme 'Grok Imagine' con un gran éxito de engagement.",
+      "why_memeable": "La frase 'Grok Imagine' es breve y fácil de recordar, lo que la hace muy compartible y memeable.",
+      "category": "meme de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "IMAGINE",
+        "GROKIMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "IMAGINE",
+        "ELON MUSK"
+      ],
+      "score": 70,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-27T15:38:53.897521+00:00",
+      "expires_at": "2026-07-29T15:38:53.897521+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3da1f42bbd43",
+      "fingerprint": "3da1f42bbd43",
+      "narrative_summary": "Elon Musk rinde homenaje a VLOP en Twitter.",
+      "why_memeable": "La narrativa es simple y fácil de comprender, con un título claro y un enlace a la fuente.",
+      "category": "Tributos y homenajes en redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "VLOP",
+        "TRIBUTE"
+      ],
+      "key_terms_for_dex_search": [
+        "vlop",
+        "tribute",
+        "elonmusk",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-27T15:39:20.425095+00:00",
+      "expires_at": "2026-07-29T15:39:20.425095+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tribute to VLOP",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-27T09:04:48.799112+00:00"
+  "last_updated": "2026-07-27T15:39:20.425095+00:00"
 }

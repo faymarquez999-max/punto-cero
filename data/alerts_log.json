@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T06:09:47.302528+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c95f8da50c37",
-        "score": 88,
-        "category": "noticias",
-        "title": "LAPD releases bodycam video showing moments before officer shoots and kills dog during Knicks celebration in Canoga Park - ABC7 Los Angeles",
-        "candidate_tickers": [
-          "PERRO_SHOOT",
-          "LAPD_PERRO",
-          "CANOGA_PARK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T06:10:25.566885+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "MS NOW EXCLUSIVE: President Obama speaks as Presidential Center opens I FULL INTERVIEW - MS NOW",
-        "candidate_tickers": [
-          "OBAMA",
-          "DEMOCRACIA",
-          "CENTRO PRESIDENCIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T06:10:38.716015+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32d3edc3109a",
-        "score": 90,
-        "category": "Noticias internacionales",
-        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-        "candidate_tickers": [
-          "GAZA",
-          "ISRAEL",
-          "ONU",
-          "NIÑOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T06:10:54.822347+00:00",
       "kind": "shadow",
       "payload": {
@@ -28234,6 +28189,51 @@
           "MYANMAR",
           "JUNTA MILITAR",
           "ASESINATOS CIVILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T15:36:23.787877+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0fe77504f2ea",
+        "score": 78,
+        "category": "Tecnología y Finanzas",
+        "title": "Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing - Bloomberg",
+        "candidate_tickers": [
+          "NVDA",
+          "AI",
+          "FINANCE",
+          "CIRCULAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T15:38:54.640476+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "388f93bb9bd7",
+        "score": 70,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE",
+          "GROKIMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T15:39:21.001418+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3da1f42bbd43",
+        "score": 80,
+        "category": "Tributos y homenajes en redes sociales",
+        "title": "Tribute to VLOP",
+        "candidate_tickers": [
+          "VLOP",
+          "TRIBUTE"
         ]
       }
     }
