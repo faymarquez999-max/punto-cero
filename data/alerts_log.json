@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T23:09:54.602204+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Política",
-        "title": "Bob Hepburn social media videos: Retired Disney cast member's posts unexpectedly go viral - ABC7 Los Angeles",
-        "candidate_tickers": [
-          "MUSKvsTRUMP",
-          "TRUMPvsMUSK",
-          "MUSKvsEPSTEIN"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-19T23:10:02.391353+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28228,6 +28214,20 @@
           "MUSKDILEMA",
           "ELONMUSKDILEMA",
           "MUSKDILEMA50000"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T01:26:18.058782+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Deportes",
+        "title": "Breaking News from The Athletic: Tadej Pogacar won his fifth Tour de France title, tying the all-time men’s record. https://nyti.ms/4pI5Cj0 - facebook.com",
+        "candidate_tickers": [
+          "Pogacar",
+          "TourDeFrance",
+          "Ciclismo"
         ]
       }
     }
