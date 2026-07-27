@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-19T23:10:02.391353+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e48520dea004",
-        "score": 80,
-        "category": "Política",
-        "title": "Federal judge gives DOJ green light to turn Biden’s audio files over to the Heritage Foundation - Politico",
-        "candidate_tickers": [
-          "BIDENLEAK",
-          "DOJAUDIO",
-          "HERITAGEGATE",
-          "JOELEAKS",
-          "AUDIOGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T23:11:59.201362+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Política y conspiración",
-        "title": "Fauci committed so many evil crimes",
-        "candidate_tickers": [
-          "Fauci",
-          "FauciCrimes"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-19T23:12:40.984617+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T01:33:43.964146+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28228,6 +28185,50 @@
           "Pogacar",
           "TourDeFrance",
           "Ciclismo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T05:31:11.250215+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "afc3edfbaaa7",
+        "score": 80,
+        "category": "crimen y justicia",
+        "title": "Four men charged with murder after Leicester stabbing",
+        "candidate_tickers": [
+          "LEICESTERMURDER",
+          "ANIMALABANDONADO",
+          "ASESINATOENLEICESTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T05:31:47.589554+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Deportes",
+        "title": "49ers coach Kyle Shanahan hurt in a car crash, limited as training camp opens - AP News",
+        "candidate_tickers": [
+          "ShanahanCrash",
+          "49ersInjury",
+          "NFLInjury"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T05:33:59.605872+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "669412984eab",
+        "score": 80,
+        "category": "finanzas",
+        "title": "Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times",
+        "candidate_tickers": [
+          "CXMT",
+          "CHINA",
+          "CHIPMAKER"
         ]
       }
     }
