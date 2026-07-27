@@ -1,127 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T11:53:22.738041+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Accidente de tráfico con víctimas",
-        "title": "'People flew from their seats': Passengers describe how collision unfolded",
-        "candidate_tickers": [
-          "DumpTruckDrama",
-          "HenryCountyHorror",
-          "EricDaneDrama",
-          "PerroEnCuidado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T11:53:50.822561+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Accidente de tren",
-        "title": "What we know so far about train collision and emergency response",
-        "candidate_tickers": [
-          "TrenBedford",
-          "TrenEstrellado",
-          "BedfordCrash"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T11:54:16.517986+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "722179cbdcc9",
-        "score": 79,
-        "category": "Guerra y política",
-        "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-        "candidate_tickers": [
-          "RUSIAUCRANIA",
-          "MOSCÚATAQUE",
-          "GUERRACERCADECASA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:21:33.515678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2e84fa95b2dc",
-        "score": 80,
-        "category": "Política",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMPXMAS",
-          "RADICALLEFT",
-          "MAGA2024",
-          "TRUMPFEUD",
-          "XMASCHAOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:21:46.556202+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "fútbol",
-        "title": "Paraguay defeats Turkey at the World Cup.",
-        "candidate_tickers": [
-          "PARvTUR",
-          "ParaguayGanó",
-          "MundialDeFútbol"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:23:08.419689+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Celebridad en problemas legales",
-        "title": "Comedian Carlos Mencia faces 12 felony charges for failing to report more than $8M in earnings - AP News",
-        "candidate_tickers": [
-          "CarlosMencia",
-          "8M",
-          "FalsaDeclaración"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:24:16.868421+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9037e462814a",
-        "score": 82,
-        "category": "Salud",
-        "title": "Families storm Ebola treatment centre in DRC, remove patients",
-        "candidate_tickers": [
-          "EBOLA",
-          "DRC",
-          "EBOLAEVIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:24:18.346584+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7fd4dac59486",
-        "score": 80,
-        "category": "Historias de inspiración y salud",
-        "title": "These nuns spent a lifetime helping others. In their last years, who will help them? - NPR",
-        "candidate_tickers": [
-          "GERTIE",
-          "NUNSLIFE",
-          "CANCERDOGS",
-          "HELPINGHANDS",
-          "GERTIECARES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T14:25:27.103133+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28224,6 +28103,121 @@
         "ticker": "CXMT",
         "mint": "5cHpYUDsPWNokYBPgPmhH8GNwcTQ4GokK99vFtVyMUge",
         "mc": 138931.0
+      }
+    },
+    {
+      "ts": "2026-07-27T20:42:36.625597+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias",
+        "title": "Federal probe investigates viral video showing attack on sea lion - The Washington Post",
+        "candidate_tickers": [
+          "LionAttack",
+          "SeaLionKicked",
+          "FederalInvestigation"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:43:06.965765+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "DoJ urges supreme court to allow Trump order targeting mail-in voting - The Guardian",
+        "candidate_tickers": [
+          "TRUMP_VOTING",
+          "MAILIN_VOTING",
+          "DOJ_VS_TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:44:13.881383+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "76c81dacf843",
+        "score": 79,
+        "category": "Noticias de crimen y violencia",
+        "title": "15-year-old arrested in connection to Bite of Seattle shooting that killed 3, hurt 4 - KOMO",
+        "candidate_tickers": [
+          "SEATTLESHOOTING",
+          "FESTIVALDESEATTLE",
+          "TIROTEOENSEATTLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:44:48.493157+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd7686188845",
+        "score": 80,
+        "category": "Celebridad con diagnóstico médico inesperado",
+        "title": "Carly Simon reveals Parkinson's diagnosis",
+        "candidate_tickers": [
+          "CARLYSIMONPD",
+          "PARKINSONSSINGER",
+          "SIMONSINGSON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:45:50.170166+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f89a370a5c9f",
+        "score": 80,
+        "category": "Tecnología/Política",
+        "title": "I will not forget about Mars",
+        "candidate_tickers": [
+          "MARS",
+          "ELONMUSK",
+          "MARTEMEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:46:03.296923+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1bf1a194b49e",
+        "score": 82,
+        "category": "política",
+        "title": "Fauci smelled it and he also dealt it",
+        "candidate_tickers": [
+          "FAUCISMELLS",
+          "FAUCIDEALT",
+          "FAUCIGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:46:19.509301+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fedc288fd3cf",
+        "score": 82,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T20:46:39.421995+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Tecnología",
+        "title": "Extremely important point",
+        "candidate_tickers": [
+          "XPT",
+          "MUSK"
+        ]
       }
     }
   ]

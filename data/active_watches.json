@@ -1,298 +1,6 @@
 {
   "watches": [
     {
-      "id": "6e24bd252fe5",
-      "fingerprint": "6e24bd252fe5",
-      "narrative_summary": "Ucrania ataca almacenes de retail en Rusia, causando muertes y daños.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un componente de 'golpe inesperado'.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIAATACA",
-        "RUSIAATACADA",
-        "DRONESDEUCRANIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Rusia",
-        "ataque",
-        "drones",
-        "almacenes",
-        "retail"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T13:54:47.642695+00:00",
-      "expires_at": "2026-07-21T13:54:47.642695+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 20,
-      "expired_at": "2026-07-21T15:13:07.719759+00:00"
-    },
-    {
-      "id": "c3e3949e4280",
-      "fingerprint": "c3e3949e4280",
-      "narrative_summary": "Kuwait sufre ataques intensos de Irán después de que un centro de energía y agua fuera dañado.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Kuwait e Irán, lo que la hace fácilmente compartible y recordable.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KUWAIT",
-        "IRÁN",
-        "ATAQUES",
-        "CONFLICTO"
-      ],
-      "key_terms_for_dex_search": [
-        "Kuwait",
-        "Irán",
-        "ataques",
-        "conflicto"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T13:56:01.660201+00:00",
-      "expires_at": "2026-07-20T13:56:01.660201+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Kuwait Faces Intense Night of Iranian Attacks as Power Plant Hit - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-07-20T15:19:54.519661+00:00"
-    },
-    {
-      "id": "0d5e76b386e8",
-      "fingerprint": "0d5e76b386e8",
-      "narrative_summary": "Elon Musk anuncia la implementación de 'mass drivers' en la luna",
-      "why_memeable": "Frase corta y memorable, con elementos de ciencia ficción y sorpresa",
-      "category": "Tecnología/Ciencia",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "MFD",
-        "MFDLUNA",
-        "ELONLUNA"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "massdrivers",
-        "luna"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-18T13:58:47.495758+00:00",
-      "expires_at": "2026-07-20T13:58:47.495758+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 93589.0,
-        "liquidity_usd": 24039.72,
-        "price_usd": 9.376e-05,
-        "volume_h24": 30076.1,
-        "volume_h1": 255.74,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -4.04,
-        "price_change_24h": 154.0,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 14,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2784,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-18T13:59:14.102155+00:00"
-    },
-    {
-      "id": "9a9e982042de",
-      "fingerprint": "9a9e982042de",
-      "narrative_summary": "Noticias sobre Trump, Musk y otros temas de actualidad",
-      "why_memeable": "La narrativa es memeable debido a la presencia de figuras públicas y eventos de actualidad",
-      "category": "Noticias y actualidad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUMP",
-        "MUSK",
-        "NEWS"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "MUSK",
-        "NEWS",
-        "ACTUALIDAD"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 7,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T16:14:18.882717+00:00",
-      "expires_at": "2026-07-20T16:14:18.882717+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONCOIN",
-        "name": "ELON MUSK COIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 142442.0,
-        "liquidity_usd": 28251.28,
-        "price_usd": 0.0001424,
-        "volume_h24": 247057.4,
-        "volume_h1": 247057.4,
-        "volume_m5": 49195.93,
-        "price_change_5m": -13.78,
-        "price_change_1h": 346.0,
-        "price_change_24h": 346.0,
-        "txns_h1_buys": 2810,
-        "txns_h1_sells": 1750,
-        "created_ts": 1784456082000,
-        "pair_created_at": 1784456082000,
-        "url": "https://dexscreener.com/solana/9mp5p6z6fpsqddpju3e9ah4hoe8wuwwiigbu1xhpbfyy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in ELON MUSK COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Try Grok 4.5",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-19T10:47:31.224615+00:00"
-    },
-    {
-      "id": "e0938889edfa",
-      "fingerprint": "e0938889edfa",
-      "narrative_summary": "Una mujer ahorra $20,000 construyendo su propia piscina con un lonero de estanque después de recibir una cotización de cinco cifras. Mientras tanto, una niña de 5 años es diagnosticada con una rara enfermedad después de que sus padres notaron moretones en sus piernas. Su hermana menor la salva la vida.",
-      "why_memeable": "La narrativa cuenta dos historias impactantes y absurdas que generan interés y curiosidad. La construcción de la piscina con un lonero de estanque es una idea inesperada y atractiva, mientras que la historia de la niña con la enfermedad es conmovedora y sorprendente.",
-      "category": "Noticias impactantes y absurdas",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PISCINASURPRISE",
-        "HERMANASALVAMOS",
-        "LONERODEPISCINA"
-      ],
-      "key_terms_for_dex_search": [
-        "piscina",
-        "lonero",
-        "estanque",
-        "enfermedad",
-        "hermana",
-        "salva la vida"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T16:14:40.262087+00:00",
-      "expires_at": "2026-07-20T16:14:40.262087+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-07-20T21:53:32.418215+00:00"
-    },
-    {
       "id": "d94ea6751c33",
       "fingerprint": "d94ea6751c33",
       "narrative_summary": "El documental 'Melania' se estrena con un récord de $8 millones en taquilla, el mejor debut en una década.",
@@ -9399,7 +9107,7 @@
       "started_at": "2026-07-25T20:02:31.072680+00:00",
       "expires_at": "2026-07-27T20:02:31.072680+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": ">The median home price in Usa is 6x the median income.   How do you reply without sounding mad?",
       "cluster_sources": [
@@ -9407,7 +9115,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T20:41:23.655056+00:00"
     },
     {
       "id": "98c17e1c0050",
@@ -9447,14 +9156,15 @@
       "started_at": "2026-07-25T20:03:07.635681+00:00",
       "expires_at": "2026-07-27T20:03:07.635681+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zelenskiy: North Korea to supply Russia with new ballistic missile launchers",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-27T20:41:23.655068+00:00"
     },
     {
       "id": "47c3f0fce4c1",
@@ -11598,7 +11308,229 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "76c81dacf843",
+      "fingerprint": "76c81dacf843",
+      "narrative_summary": "Un adolescente de 15 años fue arrestado en conexión con el tiroteo en el Festival de Seattle que mató a 3 personas y hirió a 4.",
+      "why_memeable": "La historia tiene un componente de drama y violencia, lo que la hace fácilmente compartible y recordable.",
+      "category": "Noticias de crimen y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SEATTLESHOOTING",
+        "FESTIVALDESEATTLE",
+        "TIROTEOENSEATTLE"
+      ],
+      "key_terms_for_dex_search": [
+        "Seattle",
+        "Festival",
+        "Tiroteo",
+        "Arresto",
+        "Crimen"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-27T20:44:13.381581+00:00",
+      "expires_at": "2026-07-29T20:44:13.381581+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "15-year-old arrested in connection to Bite of Seattle shooting that killed 3, hurt 4 - KOMO",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "fd7686188845",
+      "fingerprint": "fd7686188845",
+      "narrative_summary": "La cantante Carly Simon ha sido diagnosticada con enfermedad de Parkinson y ha recibido tratamiento para el cáncer de piel.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable, 'Carly Simon ha sido diagnosticada con enfermedad de Parkinson'.",
+      "category": "Celebridad con diagnóstico médico inesperado",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "CARLYSIMONPD",
+        "PARKINSONSSINGER",
+        "SIMONSINGSON"
+      ],
+      "key_terms_for_dex_search": [
+        "CarlySimon",
+        "Parkinsons",
+        "cancer",
+        "diagnosis"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-27T20:44:48.058348+00:00",
+      "expires_at": "2026-07-30T20:44:48.058348+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Carly Simon reveals Parkinson's diagnosis",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f89a370a5c9f",
+      "fingerprint": "f89a370a5c9f",
+      "narrative_summary": "Elon Musk promete no olvidar sobre Marte",
+      "why_memeable": "Frase de Elon Musk, creador de memes, sobre Marte, un tema viral",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MARS",
+        "ELONMUSK",
+        "MARTEMEME"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "marte",
+        "memes",
+        "tecnología",
+        "política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-27T20:45:49.630152+00:00",
+      "expires_at": "2026-07-29T20:45:49.630152+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "I will not forget about Mars",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1bf1a194b49e",
+      "fingerprint": "1bf1a194b49e",
+      "narrative_summary": "Fauci se cree que olía algo y también lo manipuló.",
+      "why_memeable": "Frase corta y memorable con un núcleo claro ('Fauci smelled it and he also dealt it')",
+      "category": "política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "FAUCISMELLS",
+        "FAUCIDEALT",
+        "FAUCIGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "smelled",
+        "dealt",
+        "gate"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-27T20:46:02.885360+00:00",
+      "expires_at": "2026-07-29T20:46:02.885360+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Fauci smelled it and he also dealt it",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "fedc288fd3cf",
+      "fingerprint": "fedc288fd3cf",
+      "narrative_summary": "Elon Musk publica un tweet 'True' que genera gran atención y debate",
+      "why_memeable": "El tweet de Elon Musk es breve y fácil de compartir, lo que lo convierte en un meme potencial",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "TRUE",
+        "TWEET"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-27T20:46:19.106980+00:00",
+      "expires_at": "2026-08-03T20:46:19.106980+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-27T19:04:55.722423+00:00"
+  "last_updated": "2026-07-27T20:46:19.106980+00:00"
 }
