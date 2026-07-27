@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T14:25:27.103133+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f2d39ba8bb45",
-        "score": 80,
-        "category": "Desastres naturales y accidentes",
-        "title": "Tourist dies in Dominican Republic luxury resort fire - BBC",
-        "candidate_tickers": [
-          "DOMINICANREPUBLICFIRE",
-          "RESORTINCENDIO",
-          "TOURISTDIES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T14:26:06.088413+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Fauci committed so many evil crimes",
-        "candidate_tickers": [
-          "FauciCrimes",
-          "FauciEvil",
-          "FauciGuilty"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T14:26:42.835095+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28217,6 +28188,34 @@
         "candidate_tickers": [
           "XPT",
           "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T23:13:09.750087+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+        "candidate_tickers": [
+          "TRUMP",
+          "IRAN",
+          "SIMIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-27T23:15:43.366196+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología y seguridad",
+        "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters",
+        "candidate_tickers": [
+          "Nvidia",
+          "HuggingFace",
+          "IAsegura"
         ]
       }
     }
