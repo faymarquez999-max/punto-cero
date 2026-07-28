@@ -1,489 +1,6 @@
 {
   "watches": [
     {
-      "id": "17a8647b5058",
-      "fingerprint": "17a8647b5058",
-      "narrative_summary": "Elon Musk promociona Grok 4.5, un producto de x.ai/cli, con un alto nivel de interacción en las redes sociales.",
-      "why_memeable": "La narrativa es memeable debido a la promoción de un producto por parte de una figura pública influyente (Elon Musk) y la alta interacción en las redes sociales.",
-      "category": "Tecnología y productos",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "XAICLI"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "XAICLI",
-        "ELON MUSK"
-      ],
-      "score": 87,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-18T23:05:19.848912+00:00",
-      "expires_at": "2026-07-20T23:05:19.848912+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONCOIN",
-        "name": "ELON MUSK COIN",
-        "mint": "4uSdUZjecQtSM1UCotocvBPftKuntAEjUBKMABRg8yM",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 68741.0,
-        "liquidity_usd": 103735.61,
-        "price_usd": 6.874e-05,
-        "volume_h24": 519881.5,
-        "volume_h1": 519881.5,
-        "volume_m5": 252448.82,
-        "price_change_5m": 15.19,
-        "price_change_1h": 80.26,
-        "price_change_24h": 80.26,
-        "txns_h1_buys": 864,
-        "txns_h1_sells": 542,
-        "created_ts": 1784457370000,
-        "pair_created_at": 1784457370000,
-        "url": "https://dexscreener.com/solana/77sbyq5tn54ew6c7zqy5v8pwaacvkt8zzj4hm7m8nqfy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK COIN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Try Grok 4.5",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-19T10:47:39.137237+00:00"
-    },
-    {
-      "id": "1924297ba091",
-      "fingerprint": "1924297ba091",
-      "narrative_summary": "Elon Musk anuncia la construcción de mass drivers en la luna",
-      "why_memeable": "La idea de construir mass drivers en la luna es absurda y genera interés",
-      "category": "espacio",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "LUNA",
-        "DRIVERS",
-        "MFMOON"
-      ],
-      "key_terms_for_dex_search": [
-        "drivers",
-        "luna",
-        "elonmusk"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-07-18T23:06:14.894937+00:00",
-      "expires_at": "2026-07-21T23:06:14.894937+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 137784.0,
-        "liquidity_usd": 29377.43,
-        "price_usd": 0.000138,
-        "volume_h24": 41001.89,
-        "volume_h1": 1336.2,
-        "volume_m5": 56.81,
-        "price_change_5m": 0.17,
-        "price_change_1h": 1.81,
-        "price_change_24h": 133.0,
-        "txns_h1_buys": 25,
-        "txns_h1_sells": 21,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2298,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-18T23:09:02.641986+00:00"
-    },
-    {
-      "id": "ab0ee8c7f6f0",
-      "fingerprint": "ab0ee8c7f6f0",
-      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien luego lo calificó como el peor congresista de la historia del país. Trump endosó a Ed Gallrein, un patriota estadounidense.",
-      "why_memeable": "La narrativa es memeable debido a la fuerte carga emocional y la polarización que genera, así como la simplicidad de la historia y la velocidad con la que se está propagando.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MASSIE",
-        "TRUMP",
-        "GALLREIN",
-        "CONGRESS",
-        "PATRIOT"
-      ],
-      "key_terms_for_dex_search": [
-        "Thomas Massie",
-        "Donald Trump",
-        "Ed Gallrein",
-        "Congresista",
-        "Patriota"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-19T04:00:11.219189+00:00",
-      "expires_at": "2026-07-22T04:00:11.219189+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PATRIOTS",
-        "name": "The Patriots",
-        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 203056.0,
-        "liquidity_usd": 39185.54,
-        "price_usd": 0.0002707,
-        "volume_h24": 9845.67,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 7.12,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1782771659000,
-        "pair_created_at": 1782771659000,
-        "url": "https://dexscreener.com/solana/2gsskamszbf5zefajwfd26t8ekgpyax1axxqipprwnhv",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: PATRIOT in THE PATRIOTS",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T10:47:41.995950+00:00"
-    },
-    {
-      "id": "5d4f9fadc36b",
-      "fingerprint": "5d4f9fadc36b",
-      "narrative_summary": "Inglaterra gana el tercer lugar en la Copa Mundial de la FIFA contra Francia en un partido emocionante con 10 goles",
-      "why_memeable": "El partido tiene un resultado inesperado y emocionante, con un total de 10 goles, lo que puede generar memes y bromas sobre el resultado y la emoción del partido",
-      "category": "Deportes",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "WCUP",
-        "ENGFRA",
-        "GOALFEST"
-      ],
-      "key_terms_for_dex_search": [
-        "Copa Mundial",
-        "Inglaterra",
-        "Francia",
-        "partido emocionante",
-        "10 goles"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-19T04:00:13.284902+00:00",
-      "expires_at": "2026-07-22T04:00:13.284902+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 17,
-      "expired_at": "2026-07-22T07:26:59.168857+00:00"
-    },
-    {
-      "id": "ac0140647bcd",
-      "fingerprint": "ac0140647bcd",
-      "narrative_summary": "Los hermanos Tate, conocidos influencers, fueron arrestados en Miami por cargos de violación y tráfico sexual.",
-      "why_memeable": "La noticia combina la fama de los hermanos Tate con cargos graves y controvertidos, lo que genera una mezcla de shock, indignación y fascinación.",
-      "category": "Celebridad y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TATEBROS",
-        "JUSTICETATE",
-        "TATEARREST",
-        "INFLUENCERDOWN"
-      ],
-      "key_terms_for_dex_search": [
-        "Tate brothers",
-        "arrest",
-        "rape",
-        "sex trafficking",
-        "influencers"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T04:00:14.984307+00:00",
-      "expires_at": "2026-07-22T04:00:14.984307+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tatesjail",
-        "name": "Tates arrested",
-        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 50855.0,
-        "liquidity_usd": 16791.4,
-        "price_usd": 5.085e-05,
-        "volume_h24": 212742.84,
-        "volume_h1": 18587.95,
-        "volume_m5": 462.24,
-        "price_change_5m": 12.74,
-        "price_change_1h": -22.11,
-        "price_change_24h": 61.19,
-        "txns_h1_buys": 602,
-        "txns_h1_sells": 157,
-        "created_ts": 1784426601000,
-        "pair_created_at": 1784426601000,
-        "url": "https://dexscreener.com/solana/77wchudba8atqsj2etubmempvqkbzfrwlaw8v3krfqrj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ARREST in TATES ARRESTED",
-        "safety_score": 4141,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T10:47:44.987118+00:00"
-    },
-    {
-      "id": "627459691208",
-      "fingerprint": "627459691208",
-      "narrative_summary": "La rivalidad entre Elon Musk y Donald Trump se intensifica con acusaciones y declaraciones polémicas",
-      "why_memeable": "La combinación de dos figuras públicas prominentes y la naturaleza absurda de sus declaraciones y acusaciones",
-      "category": "Política y celebridades",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "TRUMPFEUD",
-        "ELONVSDONALD",
-        "MUSKTRUMPWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Musk",
-        "Trump",
-        "feud",
-        "celebrity drama",
-        "politics"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T04:00:36.684511+00:00",
-      "expires_at": "2026-07-22T04:00:36.684511+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONCOIN",
-        "name": "ELON MUSK COIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 170179.0,
-        "liquidity_usd": 30890.29,
-        "price_usd": 0.0001701,
-        "volume_h24": 252285.61,
-        "volume_h1": 252285.61,
-        "volume_m5": 44453.54,
-        "price_change_5m": 7.99,
-        "price_change_1h": 433.0,
-        "price_change_24h": 433.0,
-        "txns_h1_buys": 2847,
-        "txns_h1_sells": 1776,
-        "created_ts": 1784456082000,
-        "pair_created_at": 1784456082000,
-        "url": "https://dexscreener.com/solana/9mp5p6z6fpsqddpju3e9ah4hoe8wuwwiigbu1xhpbfyy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in ELON MUSK COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "New EU border system tripling time at passport control, airport boss says",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T10:47:46.368853+00:00"
-    },
-    {
-      "id": "89de1ee3fa86",
-      "fingerprint": "89de1ee3fa86",
-      "narrative_summary": "Un gigantesco pastel para niños venezolanos desplazados por terremotos que han dejado más de 5000 muertos.",
-      "why_memeable": "La historia es fácil de capturar en una imagen icónica y tiene un impacto emocional fuerte.",
-      "category": "ayuda humanitaria",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "VENEZUELA_AID",
-        "CAKE_FOR_VICTIMS",
-        "TERREMOTOS_VENEZUELA"
-      ],
-      "key_terms_for_dex_search": [
-        "venezuela",
-        "terremotos",
-        "ayuda humanitaria",
-        "pastel"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 9,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T04:03:17.120584+00:00",
-      "expires_at": "2026-07-22T04:03:17.120584+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 17,
-      "expired_at": "2026-07-22T07:26:59.168872+00:00"
-    },
-    {
       "id": "20083df6e682",
       "fingerprint": "20083df6e682",
       "narrative_summary": "Un agente de ICE en Maine tiene un historial de comportamiento violento y ha disparado a un conductor, según su familia y registros.",
@@ -7378,7 +6895,7 @@
       "started_at": "2026-07-25T07:07:11.748640+00:00",
       "expires_at": "2026-07-28T07:07:11.748640+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -7387,7 +6904,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-28T09:14:28.626882+00:00"
     },
     {
       "id": "255b41f4cb9a",
@@ -7780,7 +7298,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "029592a8f368",
@@ -7830,7 +7348,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "47170fb5950e",
@@ -7874,7 +7392,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "0b0e3a1e4716",
@@ -8162,7 +7680,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "538d3f139cd1",
@@ -8878,7 +8396,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "3f12f5173340",
@@ -9047,7 +8565,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "bf72c5acfdd6",
@@ -9238,7 +8756,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d1831460ab01",
@@ -9413,7 +8931,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "a72e16cba07c",
@@ -9459,7 +8977,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "9790bb5dedfd",
@@ -9577,7 +9095,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b86b8a480394",
@@ -9625,7 +9143,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "fdb5d2fe9dc1",
@@ -9740,7 +9258,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "0c719bb1230c",
@@ -9786,7 +9304,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "927a151a7ebb",
@@ -9829,7 +9347,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a33dfaca3708",
@@ -9873,7 +9391,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7105c25ac3d9",
@@ -9919,7 +9437,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5833d3a1b355",
@@ -9965,7 +9483,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1440b63c3f23",
@@ -10011,7 +9529,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "263e6994b049",
@@ -10130,7 +9648,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "00444396950d",
@@ -10248,7 +9766,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "669412984eab",
@@ -10460,7 +9978,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6e9aa7456011",
@@ -10594,7 +10112,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "388f93bb9bd7",
@@ -10707,7 +10225,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0b86fbfee01e",
@@ -10827,7 +10345,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3458b2aee8e0",
@@ -10873,7 +10391,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "888ecc307a9c",
@@ -10919,7 +10437,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "df9f1a269274",
@@ -11105,7 +10623,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "fd7686188845",
@@ -11150,7 +10668,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f89a370a5c9f",
@@ -11195,7 +10713,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1bf1a194b49e",
@@ -11460,7 +10978,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b3e499f0c58c",
@@ -11588,7 +11106,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8b2426571848",
@@ -11634,7 +11152,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a0fe556505fd",
@@ -11681,7 +11199,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5b41b75ccb28",
@@ -11792,8 +11310,398 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "cb42320b14b3",
+      "fingerprint": "cb42320b14b3",
+      "narrative_summary": "Elon Musk tuitea sobre su evolución de programador a constructor de cohetes y autos, generando reacciones en la comunidad",
+      "why_memeable": "La narrativa combina la figura de Elon Musk con una serie de logros y metas ambiciosas, lo que puede generar una gran cantidad de memes y reacciones en las redes sociales",
+      "category": "Tecnología y emprendimiento",
+      "matched_archetype": "novel",
+      "candidate_tickers": [
+        "MUSK",
+        "TESLA",
+        "SPACEX",
+        "NEURA",
+        "MARS"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Tesla",
+        "SpaceX",
+        "NeuraLink",
+        "Mars"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T09:14:31.659449+00:00",
+      "expires_at": "2026-07-31T09:14:31.659449+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "GNN",
+        "name": "Gh0st Neural Network",
+        "mint": "5EyGMW1wNxMj7YtVP54uBH6ktwpTNCvX9DDEnmcsHdev",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 114444.0,
+        "liquidity_usd": 28414.97,
+        "price_usd": 0.0001144,
+        "volume_h24": 15659.73,
+        "volume_h1": 681.06,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -5.11,
+        "price_change_24h": -23.4,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 2,
+        "created_ts": 1762534771000,
+        "pair_created_at": 1762534771000,
+        "url": "https://dexscreener.com/solana/ch5wftsmgt6mwqvlwjxdhrjlqdyz5scpds73gzeigdye",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: NEURA in GH0ST NEURAL NETWORK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "2002-2004: Software guy thinks he can build rockets and cars",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T09:17:46.318054+00:00"
+    },
+    {
+      "id": "974fd49e2497",
+      "fingerprint": "974fd49e2497",
+      "narrative_summary": "Elon Musk comparte algo divertido en Twitter",
+      "why_memeable": "La frase 'This is so funny' es corta y fácil de recordar, y el contexto de Elon Musk la hace más atractiva",
+      "category": "celebridad en redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "FUNNYMUSK",
+        "ELONLOL",
+        "MUSKMEME"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "funny",
+        "meme"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T09:14:33.349713+00:00",
+      "expires_at": "2026-07-30T09:14:33.349713+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "This is so funny 🤣🤣",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "c7e413bdcbfa",
+      "fingerprint": "c7e413bdcbfa",
+      "narrative_summary": "Elon Musk comparte 'actual footage' con una risa",
+      "why_memeable": "La combinación de la fama de Elon Musk y el misterio de 'actual footage' con una risa sugiere algo inesperado y potencialmente divertido",
+      "category": "Celebridad y tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKLAUGH",
+        "FOOTAGEFRENZY",
+        "ELONLOL"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON",
+        "FOOTAGE",
+        "LAUGH",
+        "MUSK"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T09:14:34.625794+00:00",
+      "expires_at": "2026-07-30T09:14:34.625794+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 232687.0,
+        "liquidity_usd": 81715.02,
+        "price_usd": 0.0002327,
+        "volume_h24": 9679.55,
+        "volume_h1": 56.22,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.09,
+        "price_change_24h": -8.53,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON in ELON COIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Actual footage 😂",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T09:17:48.778210+00:00"
+    },
+    {
+      "id": "fa27ba8c2904",
+      "fingerprint": "fa27ba8c2904",
+      "narrative_summary": "Elon Musk critica a la prensa tradicional y promueve la comunicación directa.",
+      "why_memeable": "La frase es breve, fácil de recordar y tiene un tono crítico hacia la prensa tradicional.",
+      "category": "política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MUSK",
+        "TRUTH",
+        "DIRECT"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "prensa tradicional",
+        "comunicación directa",
+        "verdad"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 1,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T09:14:47.970307+00:00",
+      "expires_at": "2026-07-30T09:14:47.970307+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "50ea328e91b6",
+      "fingerprint": "50ea328e91b6",
+      "narrative_summary": "Elon Musk menciona que en el lugar al que van, no hay datos de entrenamiento.",
+      "why_memeable": "Frase corta y absurda de Elon Musk que genera interés.",
+      "category": "Tecnología y Ciencia",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XCANCEL",
+        "WHEREWEAREGOING",
+        "NOTRAININGDATA"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "xcancel",
+        "datadriven",
+        "ai"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-28T09:15:14.442627+00:00",
+      "expires_at": "2026-07-30T09:15:14.442627+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Where we are going there is no training data",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "dac60670b6eb",
+      "fingerprint": "dac60670b6eb",
+      "narrative_summary": "Elon Musk confirma 'True' en una publicación en Twitter.",
+      "why_memeable": "La simplicidad de la palabra 'True' y la polarización de Elon Musk.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "TRUE",
+        "TECNOLOGIA"
+      ],
+      "score": 72,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-28T09:15:32.562142+00:00",
+      "expires_at": "2026-07-29T09:15:32.562142+00:00",
+      "duration_hours": 24,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 232687.0,
+        "liquidity_usd": 81715.02,
+        "price_usd": 0.0002327,
+        "volume_h24": 9679.55,
+        "volume_h1": 56.22,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.09,
+        "price_change_24h": -8.53,
+        "txns_h1_buys": 2,
+        "txns_h1_sells": 1,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T09:17:53.921132+00:00"
+    },
+    {
+      "id": "78ca37b3d7ee",
+      "fingerprint": "78ca37b3d7ee",
+      "narrative_summary": "Elon Musk hace un comentario absurdo sobre no tener síntomas siendo uno de ellos.",
+      "why_memeable": "La frase es corta, absurda y tiene un impacto visual gracias a los emojis.",
+      "category": "humor",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "NOTSYMP",
+        "ELONMUSK",
+        "COVID"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "not having symptoms",
+        "symptoms"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 9,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T09:17:11.455367+00:00",
+      "expires_at": "2026-07-30T09:17:11.455367+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "“Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-28T06:22:20.359683+00:00"
+  "last_updated": "2026-07-28T09:17:53.921149+00:00"
 }

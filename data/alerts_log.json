@@ -1,154 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T19:09:39.139875+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e0dfd976cee5",
-        "ticker": "AF1",
-        "mint": "9Bkg57gHutMceB5aaeUZ5q6cra4SWmuH1FbsAdV7nWjv",
-        "mc": 19959.0
-      }
-    },
-    {
-      "ts": "2026-06-20T19:09:41.984010+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4014030097b6",
-        "ticker": "AF1",
-        "mint": "9Bkg57gHutMceB5aaeUZ5q6cra4SWmuH1FbsAdV7nWjv",
-        "mc": 19959.0
-      }
-    },
-    {
-      "ts": "2026-06-20T19:09:46.700222+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fbb7f0c2c4e4",
-        "ticker": "AF1",
-        "mint": "9Bkg57gHutMceB5aaeUZ5q6cra4SWmuH1FbsAdV7nWjv",
-        "mc": 19959.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:44:46.196398+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Asmongold reacts to Pew Research's quiz revealing that 97% of r/politics users lean left with nearly half being the furthest left counted on the poll",
-        "candidate_tickers": [
-          "AsmongoldPew",
-          "PewResearch",
-          "97Percent"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:45:29.040870+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "274a85df628f",
-        "score": 80,
-        "category": "noticias de entretenimiento",
-        "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
-        "candidate_tickers": [
-          "UBISOFT",
-          "GUILLEMOT",
-          "CRASH",
-          "PLANE",
-          "GAMINGLEGEND"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:45:57.130328+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Trump acknowledges ‘real problems’ at reflecting pool after $14m makeover, blaming ‘vandalism’ - The Guardian",
-        "candidate_tickers": [
-          "TrumpVandalismo",
-          "FuenteDeAgua",
-          "RenovacionMillonaria"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:46:30.115143+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes",
-        "title": "Viral World Cup fan Freddy gets stranded at airport, airlines start bidding war to fly him to Canada - Fox News",
-        "candidate_tickers": [
-          "Freddy",
-          "Aerolíneas",
-          "Mundial",
-          "Varado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:47:03.957248+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e71a50929e48",
-        "score": 70,
-        "category": "conflicto internacional",
-        "title": "Russia says it repelled drone attack on oil refinery in Tyumen region - Reuters",
-        "candidate_tickers": [
-          "TYUMENDRONE",
-          "RUSIAATACA",
-          "REFINERIADEPETROLEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:47:25.566162+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "01e9daac0be8",
-        "score": 72,
-        "category": "ciencia-ficción, tecnología",
-        "title": "Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars",
-        "candidate_tickers": [
-          "SOLCONSCIENTE",
-          "CONCIENCIASOLAR",
-          "MUSKSOL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:47:46.870951+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eb69cd21aff0",
-        "score": 85,
-        "category": "Tecnología/Noticias",
-        "title": "Case closed",
-        "candidate_tickers": [
-          "CASECLOSED",
-          "CASECLOSED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:48:07.523542+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4c9ba5c2fe07",
-        "score": 86,
-        "category": "Celebridad/Politica",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWELON",
-          "WOWMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T20:48:28.731023+00:00",
       "kind": "shadow",
       "payload": {
@@ -28183,6 +28035,157 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 230366.0
+      }
+    },
+    {
+      "ts": "2026-07-28T09:14:32.069215+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cb42320b14b3",
+        "score": 80,
+        "category": "Tecnología y emprendimiento",
+        "title": "2002-2004: Software guy thinks he can build rockets and cars",
+        "candidate_tickers": [
+          "MUSK",
+          "TESLA",
+          "SPACEX",
+          "NEURA",
+          "MARS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:14:33.688680+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "974fd49e2497",
+        "score": 82,
+        "category": "celebridad en redes sociales",
+        "title": "This is so funny 🤣🤣",
+        "candidate_tickers": [
+          "FUNNYMUSK",
+          "ELONLOL",
+          "MUSKMEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:14:34.985357+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c7e413bdcbfa",
+        "score": 82,
+        "category": "Celebridad y tecnología",
+        "title": "Actual footage 😂",
+        "candidate_tickers": [
+          "MUSKLAUGH",
+          "FOOTAGEFRENZY",
+          "ELONLOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:14:48.353147+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fa27ba8c2904",
+        "score": 83,
+        "category": "política",
+        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+        "candidate_tickers": [
+          "MUSK",
+          "TRUTH",
+          "DIRECT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:15:01.676741+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "This is money",
+        "candidate_tickers": [
+          "MONEY",
+          "THISIS",
+          "MUSKMONEY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:15:14.808389+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "50ea328e91b6",
+        "score": 80,
+        "category": "Tecnología y Ciencia",
+        "title": "Where we are going there is no training data",
+        "candidate_tickers": [
+          "XCANCEL",
+          "WHEREWEAREGOING",
+          "NOTRAININGDATA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:15:32.943114+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dac60670b6eb",
+        "score": 72,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:17:11.872977+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "78ca37b3d7ee",
+        "score": 82,
+        "category": "humor",
+        "title": "“Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡",
+        "candidate_tickers": [
+          "NOTSYMP",
+          "ELONMUSK",
+          "COVID"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T09:17:46.328452+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cb42320b14b3",
+        "ticker": "GNN",
+        "mint": "5EyGMW1wNxMj7YtVP54uBH6ktwpTNCvX9DDEnmcsHdev",
+        "mc": 114444.0
+      }
+    },
+    {
+      "ts": "2026-07-28T09:17:48.788566+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c7e413bdcbfa",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 232687.0
+      }
+    },
+    {
+      "ts": "2026-07-28T09:17:53.931670+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dac60670b6eb",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 232687.0
       }
     }
   ]
