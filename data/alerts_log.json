@@ -1,31 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T14:27:00.383965+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9037e462814a",
-        "ticker": "Ebola",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "mc": 86995.0
-      }
-    },
-    {
-      "ts": "2026-06-20T16:03:07.406583+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a32cf272bf2",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Paraguay defeats Turkey at the World Cup.",
-        "candidate_tickers": [
-          "PARAGUAY",
-          "ALMIRÓN",
-          "TARJETAROSA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T16:03:25.658812+00:00",
       "kind": "shadow",
       "payload": {
@@ -28226,6 +28201,35 @@
           "CLANCYLINDSAY",
           "D4VD",
           "ASESINATOINFANTIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T03:45:22.400063+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4bbea340609c",
+        "score": 70,
+        "category": "política",
+        "title": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms - AP News",
+        "candidate_tickers": [
+          "TRUMPVOTES",
+          "MAILINVOTING",
+          "VOTOELECTORAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T03:46:02.340510+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "crimen y justicia",
+        "title": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
+        "candidate_tickers": [
+          "SeattleShooting",
+          "FestivalDeCrimen",
+          "BandaDelCrimen"
         ]
       }
     }
