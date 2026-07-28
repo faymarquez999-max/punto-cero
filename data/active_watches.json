@@ -1,373 +1,6 @@
 {
   "watches": [
     {
-      "id": "3c6a8b8d2ef3",
-      "fingerprint": "3c6a8b8d2ef3",
-      "narrative_summary": "Elon Musk anuncia la construcción de 'mass drivers' en la Luna",
-      "why_memeable": "Frase corta y memorable, con un elemento de sorpresa y absurdo",
-      "category": "Cibernética y tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "LUNA",
-        "DRIVERS",
-        "MFMOON"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "luna",
-        "drivers"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T19:51:01.634372+00:00",
-      "expires_at": "2026-07-20T19:51:01.634372+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 128679.0,
-        "liquidity_usd": 28355.19,
-        "price_usd": 0.0001289,
-        "volume_h24": 43768.45,
-        "volume_h1": 6294.56,
-        "volume_m5": 199.01,
-        "price_change_5m": -2.85,
-        "price_change_1h": -11.02,
-        "price_change_24h": 194.0,
-        "txns_h1_buys": 72,
-        "txns_h1_sells": 34,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2802,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-18T19:54:22.468413+00:00"
-    },
-    {
-      "id": "db34b2ea1827",
-      "fingerprint": "db34b2ea1827",
-      "narrative_summary": "Trump y Musk tienen una disputa pública después de una cena en Mar-a-Lago",
-      "why_memeable": "La disputa entre Trump y Musk es un tema de interés público y tiene un gran potencial para ser compartido y viralizado",
-      "category": "Política y celebridades",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVSMUSK",
-        "MUSKVSTRUMP",
-        "TRUMPMUSKDISPUTE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "disputa",
-        "Mar-a-Lago"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 6
-      },
-      "started_at": "2026-07-18T21:00:26.886778+00:00",
-      "expires_at": "2026-07-21T21:00:26.886778+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELONCOIN",
-        "name": "ELON MUSK COIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 170179.0,
-        "liquidity_usd": 30890.29,
-        "price_usd": 0.0001701,
-        "volume_h24": 252285.61,
-        "volume_h1": 252285.61,
-        "volume_m5": 44453.54,
-        "price_change_5m": 7.99,
-        "price_change_1h": 433.0,
-        "price_change_24h": 433.0,
-        "txns_h1_buys": 2847,
-        "txns_h1_sells": 1776,
-        "created_ts": 1784456082000,
-        "pair_created_at": 1784456082000,
-        "url": "https://dexscreener.com/solana/9mp5p6z6fpsqddpju3e9ah4hoe8wuwwiigbu1xhpbfyy",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in ELON MUSK COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Try Grok 4.5",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-19T10:47:35.308452+00:00"
-    },
-    {
-      "id": "309cfd427284",
-      "fingerprint": "309cfd427284",
-      "narrative_summary": "Taylor Farms recuerda en 27 estados después de que la lechuga de hielo se relacionara con una epidemia.",
-      "why_memeable": "La narrativa tiene un claro núcleo de interés (la lechuga de hielo y la epidemia) que se puede capturar en una frase corta.",
-      "category": "salud",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "TAYLORFARMS",
-        "LECHUGA_DE_HIELO",
-        "EPIDEMIA"
-      ],
-      "key_terms_for_dex_search": [
-        "TaylorFarms",
-        "lechuga_de_hielo",
-        "epidemia"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-18T21:00:59.949039+00:00",
-      "expires_at": "2026-07-21T21:00:59.949039+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 18,
-      "expired_at": "2026-07-21T23:36:10.294282+00:00"
-    },
-    {
-      "id": "fbdf0a3fcde4",
-      "fingerprint": "fbdf0a3fcde4",
-      "narrative_summary": "Más de 100 perros encontrados muertos en tumbas masivas en California",
-      "why_memeable": "La narrativa cuenta con un tema gráfico y un número significativo de muertes de perros, lo que la hace fácilmente compartible y recordable.",
-      "category": "Noticias de animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PERROSMUERTOS",
-        "TUMBASMASIVAS",
-        "CALIFORNIA"
-      ],
-      "key_terms_for_dex_search": [
-        "perros",
-        "muertos",
-        "tumbas",
-        "masivas",
-        "California"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 8,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-18T21:02:33.024318+00:00",
-      "expires_at": "2026-07-20T21:02:33.024318+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-20T21:53:32.418220+00:00"
-    },
-    {
-      "id": "9d60cbf5138f",
-      "fingerprint": "9d60cbf5138f",
-      "narrative_summary": "El líder supremo de Irán, Khamenei, acusa a Trump de violar el acuerdo y promete una respuesta firme si los ataques continúan.",
-      "why_memeable": "La narrativa tiene un claro antagonista (Trump) y un víctima (Irán) y un claro llamado a la acción (respuesta firme).",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "KHAMENEI",
-        "TRUMP",
-        "IRANVSUSA"
-      ],
-      "key_terms_for_dex_search": [
-        "Khamenei",
-        "Trump",
-        "Irán",
-        "acuerdo",
-        "ataques"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T21:02:59.707840+00:00",
-      "expires_at": "2026-07-20T21:02:59.707840+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-20T21:53:32.418223+00:00"
-    },
-    {
-      "id": "fc2a41ccab8a",
-      "fingerprint": "fc2a41ccab8a",
-      "narrative_summary": "Un niño de 2 años llamado Lamine Yamal se convierte en viral después de que el jugador Lionel Messi lo empujara en una foto durante un partido de la Copa Mundial, mientras que las tormentas interrumpen los planes de entrenamiento de la final entre España y Argentina.",
-      "why_memeable": "La foto viral de Lionel Messi empujando a un niño de 2 años y las tormentas que interrumpen los planes de entrenamiento de la final de la Copa Mundial crean un meme potencialmente viral.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LAMINEYAMAL",
-        "MESSIYAMAL",
-        "COPAMUNDIAL2022"
-      ],
-      "key_terms_for_dex_search": [
-        "Lionel Messi",
-        "Lamine Yamal",
-        "Copa Mundial 2022",
-        "tormentas",
-        "final de la Copa Mundial"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T22:04:39.310433+00:00",
-      "expires_at": "2026-07-20T22:04:39.310433+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MESSI",
-        "name": "Lionel Messi",
-        "mint": "62NGaqGP17rjPtqNjHrKXDnVzA5bsn8132ePa9T1pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 12225.0,
-        "liquidity_usd": 8789.72,
-        "price_usd": 1.222e-05,
-        "volume_h24": 5450.0,
-        "volume_h1": 145.37,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.29,
-        "price_change_24h": -5.5,
-        "txns_h1_buys": 10,
-        "txns_h1_sells": 3,
-        "created_ts": 1779288946000,
-        "pair_created_at": 1779288946000,
-        "url": "https://dexscreener.com/solana/hrbaw3pysjfampibjabjq6ghk3kj59phb8amttkbfeph",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LIONEL MESSI in LIONEL MESSI",
-        "safety_score": 117601,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-18T23:09:01.045160+00:00"
-    },
-    {
       "id": "17a8647b5058",
       "fingerprint": "17a8647b5058",
       "narrative_summary": "Elon Musk promociona Grok 4.5, un producto de x.ai/cli, con un alto nivel de interacción en las redes sociales.",
@@ -7568,13 +7201,14 @@
       "started_at": "2026-07-25T04:35:55.645357+00:00",
       "expires_at": "2026-07-28T04:35:55.645357+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Starship as seen from Starlink satellites",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-28T06:17:12.639057+00:00"
     },
     {
       "id": "e9153cce7a07",
@@ -7753,7 +7387,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "255b41f4cb9a",
@@ -7977,7 +7611,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "5bd60d068304",
@@ -8146,7 +7780,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "029592a8f368",
@@ -8196,7 +7830,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "47170fb5950e",
@@ -8240,7 +7874,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "0b0e3a1e4716",
@@ -8528,7 +8162,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "538d3f139cd1",
@@ -9244,7 +8878,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3f12f5173340",
@@ -9413,7 +9047,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "bf72c5acfdd6",
@@ -9452,14 +9086,41 @@
       "started_at": "2026-07-26T04:46:18.568237+00:00",
       "expires_at": "2026-07-29T04:46:18.568237+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Zillow Group (ZG) Faces Securities Fraud Lawsuit Over Redfin Disclosure Claims - simplywall.st",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-07-28T06:21:08.356520+00:00"
     },
     {
       "id": "636866dd6aea",
@@ -9577,7 +9238,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d1831460ab01",
@@ -9699,14 +9360,15 @@
       "started_at": "2026-07-26T04:51:35.796264+00:00",
       "expires_at": "2026-07-28T04:51:35.796264+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-07-28T06:17:12.639077+00:00"
     },
     {
       "id": "59fdfb996b34",
@@ -9751,7 +9413,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a72e16cba07c",
@@ -9797,7 +9459,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "9790bb5dedfd",
@@ -9915,7 +9577,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b86b8a480394",
@@ -9963,7 +9625,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fdb5d2fe9dc1",
@@ -9998,13 +9660,40 @@
       "started_at": "2026-07-26T14:17:27.883131+00:00",
       "expires_at": "2026-07-28T14:17:27.883131+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Hardcore",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-07-28T06:21:17.113570+00:00"
     },
     {
       "id": "e8b7a775b4e8",
@@ -10051,7 +9740,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0c719bb1230c",
@@ -10097,7 +9786,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "927a151a7ebb",
@@ -10140,7 +9829,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a33dfaca3708",
@@ -10184,7 +9873,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "7105c25ac3d9",
@@ -10230,7 +9919,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5833d3a1b355",
@@ -10276,7 +9965,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1440b63c3f23",
@@ -10322,7 +10011,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "263e6994b049",
@@ -10359,13 +10048,40 @@
       "started_at": "2026-07-26T21:47:35.179354+00:00",
       "expires_at": "2026-07-28T21:47:35.179354+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-07-28T06:21:28.782184+00:00"
     },
     {
       "id": "6c0d9382e957",
@@ -10414,7 +10130,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "00444396950d",
@@ -10452,14 +10168,41 @@
       "started_at": "2026-07-26T23:49:30.690089+00:00",
       "expires_at": "2026-07-28T23:49:30.690089+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Would you choose £50,000 over the chance of £1m?",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-07-28T06:21:32.492759+00:00"
     },
     {
       "id": "afc3edfbaaa7",
@@ -10505,7 +10248,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "669412984eab",
@@ -10634,8 +10377,34 @@
       "started_at": "2026-07-27T08:59:21.837932+00:00",
       "expires_at": "2026-07-30T08:59:21.837932+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "I don’t pay the protection money to the media",
       "cluster_sources": [
         "4chan",
@@ -10643,7 +10412,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-07-28T06:21:37.061913+00:00"
     },
     {
       "id": "7c4d23f946f6",
@@ -10690,7 +10460,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6e9aa7456011",
@@ -10824,7 +10594,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "388f93bb9bd7",
@@ -10861,13 +10631,40 @@
       "started_at": "2026-07-27T15:38:53.897521+00:00",
       "expires_at": "2026-07-29T15:38:53.897521+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-28T06:21:41.048118+00:00"
     },
     {
       "id": "3da1f42bbd43",
@@ -10910,7 +10707,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0b86fbfee01e",
@@ -10950,8 +10747,34 @@
       "started_at": "2026-07-27T17:26:32.191210+00:00",
       "expires_at": "2026-07-30T17:26:32.191210+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Diary",
+        "name": "The Fauci Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 285496.0,
+        "liquidity_usd": 42601.3,
+        "price_usd": 0.0003161,
+        "volume_h24": 1734970.27,
+        "volume_h1": 316074.12,
+        "volume_m5": 6434.49,
+        "price_change_5m": -7.89,
+        "price_change_1h": -19.31,
+        "price_change_24h": 951.0,
+        "txns_h1_buys": 1653,
+        "txns_h1_sells": 1618,
+        "created_ts": 1785189792000,
+        "pair_created_at": 1785189792000,
+        "url": "https://dexscreener.com/solana/fckrnwq3yws5jyfhxqsb2gs49m9extuqnfkqs9oa4xwo",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FAUCI in THE FAUCI DIARY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Turns out I was throttled in 2020 for opinions AGREEING with the bias of 10/12 scientists; Fauci and his ilk believe in different rules for the elites versus the rest of us.",
       "cluster_sources": [
         "4chan",
@@ -10959,7 +10782,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-28T06:21:45.272358+00:00"
     },
     {
       "id": "10a4c56ce0f7",
@@ -11003,7 +10827,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3458b2aee8e0",
@@ -11049,7 +10873,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "888ecc307a9c",
@@ -11095,7 +10919,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "df9f1a269274",
@@ -11133,13 +10957,40 @@
       "started_at": "2026-07-27T17:30:15.464137+00:00",
       "expires_at": "2026-07-30T17:30:15.464137+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MARS in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "I will not forget about Mars",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-28T06:21:53.219147+00:00"
     },
     {
       "id": "73c20bcca216",
@@ -11175,13 +11026,40 @@
       "started_at": "2026-07-27T19:03:04.980777+00:00",
       "expires_at": "2026-08-03T19:03:04.980777+00:00",
       "duration_hours": 168,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Diary",
+        "name": "The Fauci Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 285496.0,
+        "liquidity_usd": 42601.3,
+        "price_usd": 0.0003161,
+        "volume_h24": 1734970.27,
+        "volume_h1": 316074.12,
+        "volume_m5": 6434.49,
+        "price_change_5m": -7.89,
+        "price_change_1h": -19.31,
+        "price_change_24h": 951.0,
+        "txns_h1_buys": 1653,
+        "txns_h1_sells": 1618,
+        "created_ts": 1785189792000,
+        "pair_created_at": 1785189792000,
+        "url": "https://dexscreener.com/solana/fckrnwq3yws5jyfhxqsb2gs49m9extuqnfkqs9oa4xwo",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FAUCI in THE FAUCI DIARY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Fauci smelled it and he also dealt it",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-07-28T06:21:55.171462+00:00"
     },
     {
       "id": "76c81dacf843",
@@ -11227,7 +11105,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "fd7686188845",
@@ -11272,7 +11150,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f89a370a5c9f",
@@ -11317,7 +11195,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1bf1a194b49e",
@@ -11355,13 +11233,40 @@
       "started_at": "2026-07-27T20:46:02.885360+00:00",
       "expires_at": "2026-07-29T20:46:02.885360+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Diary",
+        "name": "The Fauci Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 285496.0,
+        "liquidity_usd": 42601.3,
+        "price_usd": 0.0003161,
+        "volume_h24": 1734970.27,
+        "volume_h1": 316074.12,
+        "volume_m5": 6434.49,
+        "price_change_5m": -7.89,
+        "price_change_1h": -19.31,
+        "price_change_24h": 951.0,
+        "txns_h1_buys": 1653,
+        "txns_h1_sells": 1618,
+        "created_ts": 1785189792000,
+        "pair_created_at": 1785189792000,
+        "url": "https://dexscreener.com/solana/fckrnwq3yws5jyfhxqsb2gs49m9extuqnfkqs9oa4xwo",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FAUCI in THE FAUCI DIARY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Fauci smelled it and he also dealt it",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T06:22:02.159964+00:00"
     },
     {
       "id": "fedc288fd3cf",
@@ -11397,13 +11302,40 @@
       "started_at": "2026-07-27T20:46:19.106980+00:00",
       "expires_at": "2026-08-03T20:46:19.106980+00:00",
       "duration_hours": 168,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T06:22:04.064930+00:00"
     },
     {
       "id": "77b369dab128",
@@ -11442,8 +11374,34 @@
       "started_at": "2026-07-28T00:15:09.022799+00:00",
       "expires_at": "2026-07-30T00:15:09.022799+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
       "cluster_sources": [
         "4chan",
@@ -11451,7 +11409,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T06:22:06.975014+00:00"
     },
     {
       "id": "f68fdbfcfb29",
@@ -11501,8 +11460,340 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "b3e499f0c58c",
+      "fingerprint": "b3e499f0c58c",
+      "narrative_summary": "Elon Musk y su relación con la prensa y la SEC, incluyendo un acuerdo de $1.5 millones sobre un caso de $150 millones.",
+      "why_memeable": "La combinación de Elon Musk, una figura muy conocida y polarizante, con un tema como la prensa y la SEC, ofrece un terreno fértil para memes y discusiones.",
+      "category": "Tecnología y Política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKSEC",
+        "TWTRSETTLE",
+        "ELONVSEC",
+        "MUSKTWEET",
+        "TESLASEC"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "SEC",
+        "Twitter",
+        "Settlement",
+        "Tesla"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T06:17:14.414084+00:00",
+      "expires_at": "2026-07-31T06:17:14.414084+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 28038.0,
+        "liquidity_usd": 17626.88,
+        "price_usd": 2.809e-05,
+        "volume_h24": 13447.75,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": 10.76,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T06:22:11.841164+00:00"
+    },
+    {
+      "id": "85f01d961463",
+      "fingerprint": "85f01d961463",
+      "narrative_summary": "Varios eventos virales capturan la atención, incluyendo un ataque en Berlín, un video viral de un robot chino, un oficial de policía golpeado en una pelea de bar, y la muerte de un cubo rojo en un zoológico de California.",
+      "why_memeable": "La combinación de eventos inesperados y la presencia de imágenes icónicas y frases cortas y repetibles.",
+      "category": "Noticias virales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "BERLINPRIDE",
+        "ROBOTFAIL",
+        "POLICEBRAWL",
+        "PANDAMONIUM",
+        "ANIMALTRAGEDY"
+      ],
+      "key_terms_for_dex_search": [
+        "Berlín",
+        "ataque",
+        "robot",
+        "policía",
+        "panda rojo",
+        "zoológico"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 7,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T06:17:16.463571+00:00",
+      "expires_at": "2026-07-31T06:17:16.463571+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Where we are going there is no training data",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "8b2426571848",
+      "fingerprint": "8b2426571848",
+      "narrative_summary": "Un tiroteo en un festival de comida cerca de la Needle de Seattle mata a 3 personas, lo que podría estar relacionado con una banda.",
+      "why_memeable": "La narrativa tiene un título chocante y una posible conexión con una banda, lo que la hace interesante para compartir.",
+      "category": "crimen y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SEATTLESHOOTOUT",
+        "FESTIVALDELAMUERTE",
+        "GANGRELATED"
+      ],
+      "key_terms_for_dex_search": [
+        "Seattle",
+        "tiroteo",
+        "festival",
+        "gang",
+        "muerte"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T06:18:45.575911+00:00",
+      "expires_at": "2026-07-30T06:18:45.575911+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "a0fe556505fd",
+      "fingerprint": "a0fe556505fd",
+      "narrative_summary": "Johnson & Johnson ofrece $5.5 mil millones para resolver demandas de cáncer de talco.",
+      "why_memeable": "La frase es corta y fácil de compartir, con un número grande de demandas y una cantidad significativa de dinero involucrada.",
+      "category": "Salud y Ley",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JJTALC",
+        "CANCERPOWDER",
+        "TALCGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "JJTalc",
+        "CancerPowder",
+        "TalcGate",
+        "Johnson & Johnson",
+        "Cáncer de talco",
+        "Demandas"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T06:19:21.551650+00:00",
+      "expires_at": "2026-07-30T06:19:21.551650+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "5b41b75ccb28",
+      "fingerprint": "5b41b75ccb28",
+      "narrative_summary": "Elon Musk comparte actual footage de algo que genera risa",
+      "why_memeable": "La frase 'actual footage' sugiere que se trata de algo inesperado y divertido, y la presencia de Elon Musk añade un toque de fama y polarización.",
+      "category": "humor y entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ELON",
+        "FOOTAGE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "footage",
+        "humor"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-28T06:20:19.367418+00:00",
+      "expires_at": "2026-07-30T06:20:19.367418+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "Elon Coin",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 230366.0,
+        "liquidity_usd": 81228.96,
+        "price_usd": 0.0002304,
+        "volume_h24": 9598.48,
+        "volume_h1": 957.91,
+        "volume_m5": 21.52,
+        "price_change_5m": -0.03,
+        "price_change_1h": 3.43,
+        "price_change_24h": -7.33,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 2,
+        "created_ts": 1769727906000,
+        "pair_created_at": 1769727906000,
+        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Actual footage 😂",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-28T06:22:20.359668+00:00"
+    },
+    {
+      "id": "fefc816a9e27",
+      "fingerprint": "fefc816a9e27",
+      "narrative_summary": "Elon Musk comparte una frase viral sobre dinero",
+      "why_memeable": "Frase breve y memorable de Elon Musk",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "THISISMONEY",
+        "MONEYMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "money",
+        "viral"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T06:20:32.856263+00:00",
+      "expires_at": "2026-07-30T06:20:32.856263+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "This is money",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-07-28T00:15:43.328147+00:00"
+  "last_updated": "2026-07-28T06:22:20.359683+00:00"
 }

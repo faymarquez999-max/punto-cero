@@ -1,301 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T16:03:25.658812+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Celebridades",
-        "title": "Dua Lipa and Callum Turner on their wedding day.",
-        "candidate_tickers": [
-          "DuaLipaBoda",
-          "CallumTurnerBoda",
-          "DuaLipaWeddingDress"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T16:05:26.558418+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Muerte de un cofundador de Ubisoft en un accidente de avión",
-        "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
-        "candidate_tickers": [
-          "UbisoftCrash",
-          "ClaudeGuillemot",
-          "AviónCrash"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T16:06:08.580561+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cdbb4d21a257",
-        "score": 88,
-        "category": "crimen y justicia",
-        "title": "'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News",
-        "candidate_tickers": [
-          "GILGOBEACH",
-          "ASESINOSERIAL",
-          "JUSTICIAPARAVICTIMAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T16:07:47.688655+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "política",
-        "title": "Talk of Starmer staying on to fight is fading - fast",
-        "candidate_tickers": [
-          "STARmerFADE",
-          "BURNHAMWIN",
-          "LABOURLEADERSHIP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:45:43.322739+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fd02b942a1ec",
-        "score": 79,
-        "category": "Celebridades",
-        "title": "Dua Lipa and Callum Turner on their wedding day.",
-        "candidate_tickers": [
-          "DUALIPABODA",
-          "CALLUMTURNER",
-          "DUALIPAWEDDING",
-          "CHANELHAUTECOUTURE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:47:01.213701+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "faa7a7edac0a",
-        "score": 80,
-        "category": "Política y corrupción",
-        "title": "Spanish premier Sanchez's wife must stand trial on corruption charges, judge rules - Reuters",
-        "candidate_tickers": [
-          "SANCHEZGATE",
-          "CORRUPTA",
-          "ESPANASCANDAL",
-          "SANCHEZTRIAL",
-          "POLITICOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:48:07.741026+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "98f73ff0e664",
-        "score": 82,
-        "category": "política",
-        "title": "Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico",
-        "candidate_tickers": [
-          "COTTONENLAJAULA",
-          "TRUMPVSCOTTON",
-          "COTTONENELOJODELHURACÁN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:48:47.261040+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e9f854bfa1e8",
-        "score": 80,
-        "category": "música",
-        "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash - Reuters",
-        "candidate_tickers": [
-          "UBISOFT",
-          "CLAUDEGUILLEMOT",
-          "AVIÓNCRASH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:49:18.545141+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "15650c200ee4",
-        "score": 90,
-        "category": "Tecnología",
-        "title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI - AP News",
-        "candidate_tickers": [
-          "$CURSOR",
-          "CURSOR",
-          "SPACEX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:49:47.749905+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b6f238710d7d",
-        "score": 74,
-        "category": "salud",
-        "title": "Ebola cases increase almost 40% in a week as death toll passes 200 - AP News",
-        "candidate_tickers": [
-          "EBOLA",
-          "MUERTE",
-          "EPIDEMIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:50:15.622275+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología y Espacio",
-        "title": "Starlink in Lesotho! 🇱🇸",
-        "candidate_tickers": [
-          "StarlinkLesotho",
-          "LesothoSat"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T17:50:56.413020+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "98f73ff0e664",
-        "ticker": "UNBROKEN",
-        "mint": "6WUbAGBQd51XFQ3gagp3vJRsaz2Euo4PsE7uYvTLpump",
-        "mc": 45554.0
-      }
-    },
-    {
-      "ts": "2026-06-20T17:51:00.545663+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "15650c200ee4",
-        "ticker": "CURSOR",
-        "mint": "De11yGf6sfyAzfcec9WZH4boquKqnQc8H5b3JUT6pump",
-        "mc": 42728.0
-      }
-    },
-    {
-      "ts": "2026-06-20T17:51:02.104304+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b6f238710d7d",
-        "ticker": "Ebola",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "mc": 82499.0
-      }
-    },
-    {
-      "ts": "2026-06-20T19:04:26.772492+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "Israel's Channel 15 on the army spokesperson: Our operations are based solely on operational considerations, as Hezbollah's infrastructure is extremely massive",
-        "candidate_tickers": [
-          "Hezbollah",
-          "Israel",
-          "Operaciones militares"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:05:06.369367+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e1df763e8912",
-        "score": 80,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XSG",
-          "XRP",
-          "MEMETORO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:07:07.785354+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "89acd25e64b3",
-        "score": 80,
-        "category": "política",
-        "title": "Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico",
-        "candidate_tickers": [
-          "COTTON",
-          "TRUMP",
-          "IRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:07:29.853616+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología y espacio",
-        "title": "Starlink in Lesotho! 🇱🇸",
-        "candidate_tickers": [
-          "StarlinkLesotho",
-          "LesothoSat",
-          "SatelliteLesotho"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:08:18.608868+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Política/Noticias",
-        "title": "Well, it worked with Charlie Kirk, didn’t it?",
-        "candidate_tickers": [
-          "CharlieKirk",
-          "ElonMusk",
-          "WellItWorked"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:08:40.861372+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b2bfce700e20",
-        "score": 80,
-        "category": "Celebridad/Politica",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWELON",
-          "ELONWOW",
-          "MUSKWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T19:09:02.179865+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d2a4c8862acf",
-        "score": 85,
-        "category": "Tecnología y celebridades",
-        "title": "Case closed",
-        "candidate_tickers": [
-          "CASECLOSED",
-          "ELONCASE",
-          "CASECLOSED"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-20T19:09:39.139875+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28231,6 +27936,253 @@
           "FestivalDeCrimen",
           "BandaDelCrimen"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:17:14.972459+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b3e499f0c58c",
+        "score": 80,
+        "category": "Tecnología y Política",
+        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+        "candidate_tickers": [
+          "MUSKSEC",
+          "TWTRSETTLE",
+          "ELONVSEC",
+          "MUSKTWEET",
+          "TESLASEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:17:16.963866+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "85f01d961463",
+        "score": 80,
+        "category": "Noticias virales",
+        "title": "Where we are going there is no training data",
+        "candidate_tickers": [
+          "BERLINPRIDE",
+          "ROBOTFAIL",
+          "POLICEBRAWL",
+          "PANDAMONIUM",
+          "ANIMALTRAGEDY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:17:30.455710+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "crimen y justicia",
+        "title": "In the last couple weeks, X has been joined by:",
+        "candidate_tickers": [
+          "LindsayClancy",
+          "juicio",
+          "asesinato",
+          "crimen"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:18:46.196828+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8b2426571848",
+        "score": 80,
+        "category": "crimen y violencia",
+        "title": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
+        "candidate_tickers": [
+          "SEATTLESHOOTOUT",
+          "FESTIVALDELAMUERTE",
+          "GANGRELATED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:19:22.054012+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a0fe556505fd",
+        "score": 88,
+        "category": "Salud y Ley",
+        "title": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera",
+        "candidate_tickers": [
+          "JJTALC",
+          "CANCERPOWDER",
+          "TALCGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:20:19.893318+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5b41b75ccb28",
+        "score": 74,
+        "category": "humor y entretenimiento",
+        "title": "Actual footage 😂",
+        "candidate_tickers": [
+          "ELON",
+          "FOOTAGE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:20:33.372930+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fefc816a9e27",
+        "score": 80,
+        "category": "Tecnología y Negocios",
+        "title": "This is money",
+        "candidate_tickers": [
+          "THISISMONEY",
+          "MONEYMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:08.363341+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bf72c5acfdd6",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:17.121884+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fdb5d2fe9dc1",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:28.789304+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "263e6994b049",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:32.499500+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "00444396950d",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:37.101594+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "01a5b6812834",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:41.055527+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "388f93bb9bd7",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:45.279378+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0b86fbfee01e",
+        "ticker": "Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "mc": 285496.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:53.226421+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "df9f1a269274",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:21:55.178651+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "73c20bcca216",
+        "ticker": "Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "mc": 285496.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:22:02.167028+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1bf1a194b49e",
+        "ticker": "Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "mc": 285496.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:22:04.072317+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "fedc288fd3cf",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:22:06.982009+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "77b369dab128",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:22:11.848345+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b3e499f0c58c",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 28038.0
+      }
+    },
+    {
+      "ts": "2026-07-28T06:22:20.366596+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5b41b75ccb28",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 230366.0
       }
     }
   ]
