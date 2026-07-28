@@ -1,152 +1,6 @@
 {
   "watches": [
     {
-      "id": "65ce7e1228c0",
-      "fingerprint": "65ce7e1228c0",
-      "narrative_summary": "Elon Musk anuncia la construcción de 'mass drivers' en la luna",
-      "why_memeable": "La frase 'mass drivers on the mf Moon' es fácil de recordar y se puede capturar en una imagen",
-      "category": "Cibernética y tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "MOONDRIVERS",
-        "MASSMOON",
-        "ELONLUNAR"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "luna",
-        "drivers",
-        "masa"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-19T09:04:27.760598+00:00",
-      "expires_at": "2026-07-21T09:04:27.760598+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 142080.0,
-        "liquidity_usd": 29971.44,
-        "price_usd": 0.0001423,
-        "volume_h24": 30057.83,
-        "volume_h1": 108.91,
-        "volume_m5": 51.02,
-        "price_change_5m": 0.56,
-        "price_change_1h": 1.17,
-        "price_change_24h": 61.33,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 1,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2299,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T10:47:54.051302+00:00"
-    },
-    {
-      "id": "ab7615b54745",
-      "fingerprint": "ab7615b54745",
-      "narrative_summary": "Elon Musk anuncia una 'gold rush' en Twitter, generando gran interés y participación.",
-      "why_memeable": "La narrativa es simple y fácil de capturar en una frase ('gold rush')",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GOLDRUSH",
-        "ELONGOLD"
-      ],
-      "key_terms_for_dex_search": [
-        "gold",
-        "rush",
-        "elonmusk",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-19T09:05:10.798430+00:00",
-      "expires_at": "2026-07-21T09:05:10.798430+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CRUSH",
-        "name": "Cube Crush",
-        "mint": "BCxPwtkp121xu9FkE9a3kPFq3Chi8ktMu8yrpoa5pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20068.0,
-        "liquidity_usd": 11001.14,
-        "price_usd": 2.006e-05,
-        "volume_h24": 8976.08,
-        "volume_h1": 183.35,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 8.27,
-        "price_change_24h": -45.97,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 1,
-        "created_ts": 1783452567000,
-        "pair_created_at": 1783452567000,
-        "url": "https://dexscreener.com/solana/9k62ckyygpanremd1unqjtf7dg3jr95t2cjs53msw4q3",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: RUSH in CUBE CRUSH",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Gold rush",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-07-19T15:33:51.287377+00:00"
-    },
-    {
       "id": "2c2d14128f59",
       "fingerprint": "2c2d14128f59",
       "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Donald Trump, quien luego criticó a Massie como el peor congresista en la historia del país.",
@@ -11701,7 +11555,96 @@
       ],
       "scan_attempts": 1,
       "matched_at": "2026-07-28T15:46:05.718189+00:00"
+    },
+    {
+      "id": "30b13e982d65",
+      "fingerprint": "30b13e982d65",
+      "narrative_summary": "FIFA considera vender una parte de la empresa a través de una nueva entidad de $20 mil millones, lo que provoca la ira de UEFA",
+      "why_memeable": "La narrativa tiene un título claro y un tema central que puede ser capturado en una frase corta.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FIFAVSUEFA",
+        "FIFASALE",
+        "UEFAVSFIFA"
+      ],
+      "key_terms_for_dex_search": [
+        "FIFA",
+        "UEFA",
+        "estafa",
+        "fútbol",
+        "deportes"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-28T17:13:56.995088+00:00",
+      "expires_at": "2026-07-30T17:13:56.995088+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FIFA mulls stake sale through new $20 billion entity, UEFA not happy - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2eeadd13b268",
+      "fingerprint": "2eeadd13b268",
+      "narrative_summary": "Elon Musk confirma la verdad de algo, generando gran interés y debate en la red social Nitter.",
+      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen fácilmente compartible y recordable.",
+      "category": "Tecnología y Ciencia",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "xcancel",
+        "true"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-28T17:15:36.855324+00:00",
+      "expires_at": "2026-07-30T17:15:36.855324+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-28T15:46:05.718206+00:00"
+  "last_updated": "2026-07-28T17:15:36.855324+00:00"
 }
