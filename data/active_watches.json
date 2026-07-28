@@ -6675,7 +6675,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "0b0e3a1e4716",
@@ -7680,7 +7680,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "3f12f5173340",
@@ -7849,7 +7849,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "bf72c5acfdd6",
@@ -8040,7 +8040,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "d1831460ab01",
@@ -8262,7 +8262,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "9790bb5dedfd",
@@ -8429,7 +8429,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "fdb5d2fe9dc1",
@@ -8591,7 +8591,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "927a151a7ebb",
@@ -8719,14 +8719,15 @@
       "started_at": "2026-07-26T21:45:34.411455+00:00",
       "expires_at": "2026-07-28T21:45:34.411455+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Suspect in Berlin Pride attack shot dead by police - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-28T22:46:04.407801+00:00"
     },
     {
       "id": "5833d3a1b355",
@@ -8765,14 +8766,15 @@
       "started_at": "2026-07-26T21:46:15.113790+00:00",
       "expires_at": "2026-07-28T21:46:15.113790+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wildfires threaten Bordeaux as France and Spain battle blazes - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-28T22:46:04.407813+00:00"
     },
     {
       "id": "1440b63c3f23",
@@ -8818,7 +8820,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "263e6994b049",
@@ -8937,7 +8939,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "00444396950d",
@@ -9055,7 +9057,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "669412984eab",
@@ -9267,7 +9269,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "6e9aa7456011",
@@ -9401,7 +9403,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "388f93bb9bd7",
@@ -9514,7 +9516,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "0b86fbfee01e",
@@ -9634,7 +9636,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "3458b2aee8e0",
@@ -9680,7 +9682,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "888ecc307a9c",
@@ -9726,7 +9728,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "df9f1a269274",
@@ -9912,7 +9914,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "fd7686188845",
@@ -9957,7 +9959,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f89a370a5c9f",
@@ -10002,7 +10004,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1bf1a194b49e",
@@ -10267,7 +10269,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b3e499f0c58c",
@@ -10395,7 +10397,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8b2426571848",
@@ -10441,7 +10443,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a0fe556505fd",
@@ -10488,7 +10490,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5b41b75ccb28",
@@ -10599,7 +10601,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cb42320b14b3",
@@ -10935,7 +10937,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dac60670b6eb",
@@ -11048,7 +11050,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "908afaa9549d",
@@ -11096,7 +11098,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "88a81f42c089",
@@ -11213,7 +11215,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "646cef13eda7",
@@ -11255,7 +11257,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4e36629651d1",
@@ -11372,7 +11374,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2eeadd13b268",
@@ -11554,7 +11556,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "fa51f76c35eb",
@@ -11604,7 +11606,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f2e322dd7660",

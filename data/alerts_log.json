@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-21T13:19:37.446911+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "POLL",
-          "MUSKvsTRUMP",
-          "POLLSTORM"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-21T15:21:10.107783+00:00",
       "kind": "shadow",
       "payload": {
@@ -28205,6 +28191,22 @@
           "ROBOTS",
           "AI",
           "CHINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T22:46:17.708715+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Where we are going there is no training data",
+        "candidate_tickers": [
+          "TRUMP",
+          "IRAN",
+          "ZELINSKY",
+          "NETANYAHU",
+          "GRAHAM"
         ]
       }
     }
