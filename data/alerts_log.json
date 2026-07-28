@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T20:49:31.351717+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "274a85df628f",
-        "ticker": "RIP Claude",
-        "mint": "ATLn4YvEahqusLTxpcyKHtrBYvJwPFoig5b5Q9RUT1Rd",
-        "mc": 18981.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:34.375787+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "01e9daac0be8",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 26734.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:35.761425+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "eb69cd21aff0",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 26734.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:37.340682+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4c9ba5c2fe07",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 26734.0
-      }
-    },
-    {
       "ts": "2026-06-20T21:58:23.500085+00:00",
       "kind": "shadow",
       "payload": {
@@ -28211,6 +28171,65 @@
         "candidate_tickers": [
           "ELONLOL",
           "FOOTAGEMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T13:20:21.954625+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "079a69ae0174",
+        "score": 88,
+        "category": "Noticias internacionales",
+        "title": "French patrol boat appears to fire gunshots in the Channel during MP's BBC interview",
+        "candidate_tickers": [
+          "FRENCHPATROL",
+          "CHANNELSHOTS",
+          "BBCINTERVIEW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T13:21:08.028037+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e7387f638de9",
+        "score": 70,
+        "category": "Accidentes de gas",
+        "title": "White phosphorus leaks at US air base in South Korea, Seoul says - Reuters",
+        "candidate_tickers": [
+          "WHITEPHOS",
+          "GASLEAK",
+          "K55"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T13:21:35.706590+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1decb0d8e31b",
+        "score": 89,
+        "category": "conflicto en Cisjordania",
+        "title": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+        "candidate_tickers": [
+          "PALESTINOSNOSEVAN",
+          "CISJORDANIAENLLAMAS",
+          "RESISTENCIAPALESTINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T13:22:07.808613+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "negocios",
+        "title": "Boeing posts larger-than-expected Q2 loss as Air Force One costs rise - Reuters",
+        "candidate_tickers": [
+          "BOEING",
+          "AIRFORCEONE",
+          "Q2LOSS"
         ]
       }
     }
