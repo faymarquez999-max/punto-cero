@@ -1,75 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-21T10:55:35.717116+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Good idea",
-        "candidate_tickers": [
-          "GOODIDEA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T10:56:17.764008+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Celebridad/Política",
-        "title": "Wild times ahead!",
-        "candidate_tickers": [
-          "WTA",
-          "WT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T13:16:03.117555+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a29397bd7d5",
-        "score": 70,
-        "category": "Abuso animal y muerte de un caballo de carga",
-        "title": "Disruption to last a week after fatal Bedford train crash",
-        "candidate_tickers": [
-          "CABALLOCENTRALPARK",
-          "ABUSOANIMAL",
-          "MUERTECABALLO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T13:16:40.521759+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-        "candidate_tickers": [
-          "VandalOlympian",
-          "PoolVandal",
-          "WashingtonVandal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T13:17:20.586764+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dad4622417cc",
-        "score": 80,
-        "category": "Celebridad, Crimen, A.I.",
-        "title": "Marilyn Monroe A.I. Recreation Proves Crime Scene Was Staged",
-        "candidate_tickers": [
-          "MARILYNMONROE",
-          "AI CRIME SCENE",
-          "CELEBRITYCRIME"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-21T13:19:37.446911+00:00",
       "kind": "shadow",
       "payload": {
@@ -28199,6 +28130,82 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 227183.0
+      }
+    },
+    {
+      "ts": "2026-07-28T21:47:05.502566+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9b828e035b50",
+        "score": 74,
+        "category": "entretenimiento",
+        "title": "‘SPIDER-MAN: BRAND NEW DAY’ debuts with 93% on Rotten Tomatoes.",
+        "candidate_tickers": [
+          "SPIDERMAN",
+          "BRANDNEWDAY",
+          "NEWSPIDERMAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T21:47:49.472109+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8d5bdd28e695",
+        "score": 88,
+        "category": "Rescate en la playa",
+        "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+        "candidate_tickers": [
+          "GUARDAVIDASHERO",
+          "RESCATE EN LA PLAYA",
+          "NIÑO SALVADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T21:48:20.963286+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política internacional",
+        "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+        "candidate_tickers": [
+          "Hormuz",
+          "Iran",
+          "Oman",
+          "Estrecho de Hormuz",
+          "Gulf"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T21:48:49.566234+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "68e3b6e3f62b",
+        "score": 88,
+        "category": "desastres naturales",
+        "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+        "candidate_tickers": [
+          "JAPANQUAKE",
+          "KUMAMOTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T21:49:26.253592+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7609f13d7df5",
+        "score": 80,
+        "category": "política",
+        "title": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
+        "candidate_tickers": [
+          "TRUMP",
+          "ROBOTS",
+          "AI",
+          "CHINA"
+        ]
       }
     }
   ]
