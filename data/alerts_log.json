@@ -1,70 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T20:48:28.731023+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y celebridades",
-        "title": "Time to return to sanity",
-        "candidate_tickers": [
-          "ReturnToSanity",
-          "SanityTime",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:20.969965+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e9f854bfa1e8",
-        "ticker": "RIP Claude",
-        "mint": "ATLn4YvEahqusLTxpcyKHtrBYvJwPFoig5b5Q9RUT1Rd",
-        "mc": 18981.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:23.771454+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e1df763e8912",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:25.339304+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "89acd25e64b3",
-        "ticker": "UNBROKEN",
-        "mint": "6WUbAGBQd51XFQ3gagp3vJRsaz2Euo4PsE7uYvTLpump",
-        "mc": 40413.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:27.490999+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b2bfce700e20",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 26771.0
-      }
-    },
-    {
-      "ts": "2026-06-20T20:49:29.209786+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d2a4c8862acf",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 26734.0
-      }
-    },
-    {
       "ts": "2026-06-20T20:49:31.351717+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28186,6 +28122,96 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 232687.0
+      }
+    },
+    {
+      "ts": "2026-07-28T11:30:56.849576+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "847a73afa29c",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+        "candidate_tickers": [
+          "TRUMPVSMSK",
+          "MUSKTRUMPFEUD",
+          "DEPORTMUSK",
+          "TRUMPFEAR",
+          "MUSKTRUMPWAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T11:31:37.015413+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "finanzas",
+        "title": "/smg/ - Stock Market General",
+        "candidate_tickers": [
+          "chip",
+          "rout",
+          "market",
+          "crash"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T11:32:16.970248+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "745aa0e714e0",
+        "score": 70,
+        "category": "política internacional",
+        "title": "Oman presented regional mechanism for Hormuz to Iran, source says - Reuters",
+        "candidate_tickers": [
+          "TRUMPHORMUZ",
+          "NETANYAHUTRUMP",
+          "HORMUZACCORD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T11:32:54.238265+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "desastres naturales",
+        "title": "Japan quake injures at least 50, disrupts power and travel - Reuters",
+        "candidate_tickers": [
+          "JapónTerremoto",
+          "DesastreNaturales",
+          "TerremotoImpactante"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T11:34:17.467470+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3ce08d129365",
+        "score": 80,
+        "category": "Negocios",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "candidate_tickers": [
+          "JNJ",
+          "POLVO PARA BEBÉS",
+          "DEMANDAS",
+          "MULTINACIONAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T11:36:25.538914+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "humor y tecnología",
+        "title": "Actual footage 😂",
+        "candidate_tickers": [
+          "ELONLOL",
+          "FOOTAGEMUSK"
+        ]
       }
     }
   ]
