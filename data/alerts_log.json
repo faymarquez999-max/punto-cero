@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-21T15:21:10.107783+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "clima y noticias",
-        "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
-        "candidate_tickers": [
-          "TaylorSwiftClima",
-          "ClimaExtremo38C",
-          "CostaTaylorSwift"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-21T15:22:18.980548+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28207,6 +28193,21 @@
           "ZELINSKY",
           "NETANYAHU",
           "GRAHAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T23:46:54.504007+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "12e9fb70427e",
+        "score": 70,
+        "category": "política",
+        "title": "Trump administration to end Medicare premium subsidy program - Reuters",
+        "candidate_tickers": [
+          "TRUMPMEDICARE",
+          "MEDICARESUBSIDY",
+          "GOBIERNODETRUMP"
         ]
       }
     }
