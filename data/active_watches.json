@@ -1,133 +1,6 @@
 {
   "watches": [
     {
-      "id": "d94ea6751c33",
-      "fingerprint": "d94ea6751c33",
-      "narrative_summary": "El documental 'Melania' se estrena con un récord de $8 millones en taquilla, el mejor debut en una década.",
-      "why_memeable": "La narrativa tiene un título memorable y un número de taquilla impactante.",
-      "category": "Cine y entretenimiento",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "MELANIA",
-        "TAQUILLA",
-        "CINE"
-      ],
-      "key_terms_for_dex_search": [
-        "Melania",
-        "Taquilla",
-        "Cine",
-        "Documental",
-        "Debut"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T18:33:00.027655+00:00",
-      "expires_at": "2026-07-20T18:33:00.027655+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CINEMA",
-        "name": "CINEMA",
-        "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 74723.0,
-        "liquidity_usd": 29523.65,
-        "price_usd": 7.475e-05,
-        "volume_h24": 12423.08,
-        "volume_h1": 3609.65,
-        "volume_m5": 3381.65,
-        "price_change_5m": 41.08,
-        "price_change_1h": 42.71,
-        "price_change_24h": 67.61,
-        "txns_h1_buys": 36,
-        "txns_h1_sells": 19,
-        "created_ts": 1761204212000,
-        "pair_created_at": 1761204212000,
-        "url": "https://dexscreener.com/solana/g72gaiixxksh82pnuuoh7ge49lqatgkcevzefmaf3r51",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CINE in CINEMA",
-        "safety_score": 7201,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "matched_at": "2026-07-19T23:20:33.865604+00:00"
-    },
-    {
-      "id": "aa8bbcc74e1d",
-      "fingerprint": "aa8bbcc74e1d",
-      "narrative_summary": "El líder supremo de Irán ha emitido un mensaje crítico hacia Trump, acusándolo de que su firma es 'sin valor'.",
-      "why_memeable": "El mensaje crítico hacia Trump y la acusación de que su firma es 'sin valor' son ingredientes clave para convertir esta narrativa en un meme.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "TRUMP",
-        "LEADER",
-        "MESSAGE"
-      ],
-      "key_terms_for_dex_search": [
-        "IRAN",
-        "TRUMP",
-        "LEADER",
-        "MESSAGE",
-        "CRITICA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-18T18:33:34.716711+00:00",
-      "expires_at": "2026-07-20T18:33:34.716711+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "MESSAGE FROM IRAN'S SUPREME LEADER TO BE RELEASED SHORTLY - IRAN'S STATE MEDIA",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-20T21:53:32.418218+00:00"
-    },
-    {
       "id": "3c6a8b8d2ef3",
       "fingerprint": "3c6a8b8d2ef3",
       "narrative_summary": "Elon Musk anuncia la construcción de 'mass drivers' en la Luna",
@@ -9411,14 +9284,15 @@
       "started_at": "2026-07-25T23:19:56.340053+00:00",
       "expires_at": "2026-07-27T23:19:56.340053+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-07-28T00:14:55.538679+00:00"
     },
     {
       "id": "4f9846e7f245",
@@ -11530,7 +11404,105 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "77b369dab128",
+      "fingerprint": "77b369dab128",
+      "narrative_summary": "Elon Musk se enfrenta a una demanda de la SEC y logra un acuerdo por $1.5 millones, lo que genera debate y polémica.",
+      "why_memeable": "La narrativa tiene un elemento de polémica y debate, lo que la hace fácilmente compartible y recordable.",
+      "category": "política y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "SEC",
+        "TWITTER"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "SEC",
+        "Twitter",
+        "demanda",
+        "acuerdo"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T00:15:09.022799+00:00",
+      "expires_at": "2026-07-30T00:15:09.022799+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f68fdbfcfb29",
+      "fingerprint": "f68fdbfcfb29",
+      "narrative_summary": "Lindsay Clancy, una madre de Massachusetts, va a juicio por el asesinato de sus tres hijos, mientras que el cantante D4vd está acusado de matar a una adolescente que estaba embarazada.",
+      "why_memeable": "La narrativa combina un tema de crimen y asesinato con un elemento de shock y sorpresa, lo que la hace fácilmente compartible y recordable.",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CLANCYLINDSAY",
+        "D4VD",
+        "ASESINATOINFANTIL"
+      ],
+      "key_terms_for_dex_search": [
+        "ClancyLindsay",
+        "D4vd",
+        "AsesinatoInfantil",
+        "crimen",
+        "juicio",
+        "shock",
+        "sorpresa"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-28T00:15:43.328147+00:00",
+      "expires_at": "2026-07-31T00:15:43.328147+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-27T20:46:19.106980+00:00"
+  "last_updated": "2026-07-28T00:15:43.328147+00:00"
 }

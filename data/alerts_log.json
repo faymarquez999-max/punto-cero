@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-20T14:26:42.835095+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "46a66d5dc7ad",
-        "ticker": "CHARMING",
-        "mint": "VmdfNPzd7A492TBQYp7QpUoBYv2HFpqaL9no3Sopump",
-        "mc": 265865.0
-      }
-    },
-    {
-      "ts": "2026-06-20T14:26:55.440322+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "91da873fd8e3",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
       "ts": "2026-06-20T14:27:00.383965+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28216,6 +28196,36 @@
           "Nvidia",
           "HuggingFace",
           "IAsegura"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T00:15:09.452825+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "77b369dab128",
+        "score": 88,
+        "category": "política y tecnología",
+        "title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-28T00:15:43.769021+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f68fdbfcfb29",
+        "score": 88,
+        "category": "crimen y justicia",
+        "title": "Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people.",
+        "candidate_tickers": [
+          "CLANCYLINDSAY",
+          "D4VD",
+          "ASESINATOINFANTIL"
         ]
       }
     }
