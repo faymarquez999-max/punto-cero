@@ -1,113 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-21T18:59:41.610892+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "84f639bd1580",
-        "score": 74,
-        "category": "salud",
-        "title": "Ebola cases increase almost 40% in a week as death toll passes 200 - AP News",
-        "candidate_tickers": [
-          "EBOLA",
-          "CONGO",
-          "ANDES",
-          "BUNDIBUGYO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T18:59:58.654407+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Noticias de emergencia",
-        "title": "Los Angeles warehouse fire prompts shelter-in-place orders due to hazardous air - AP News",
-        "candidate_tickers": [
-          "FUEGO",
-          "REFUGIO",
-          "LOS ANGELES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T19:00:26.998162+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0912dcdfd2de",
-        "score": 70,
-        "category": "Tecnología/Política",
-        "title": "Makes no sense",
-        "candidate_tickers": [
-          "NOSENSE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T19:00:50.113894+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL",
-          "SONDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T20:45:03.697898+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dafced153d81",
-        "score": 80,
-        "category": "Política Internacional",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMPWAR",
-          "IRANUS",
-          "POLITICS",
-          "TRUMPFEAR",
-          "IRANCRISIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T20:45:17.360852+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "62d6c6a80e3c",
-        "score": 90,
-        "category": "Guerra y Conflicto",
-        "title": "ZELENSKY SAYS UKRAINE STRUCK OIL DEPOT IN OCCUPIED CRIMEA AND OIL TRANSPORT FACILITY IN RUSSIA'S KRASNODAR REGION.",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "UKRAINE",
-          "RUSSIA",
-          "CRIMEA",
-          "PETRÓLEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-21T20:46:58.871338+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3655aae66eea",
-        "score": 79,
-        "category": "Celebridades/Eventos especiales",
-        "title": "William marks 44th birthday as royals celebrate Father's Day",
-        "candidate_tickers": [
-          "PAPA44",
-          "GUILLERMO44",
-          "DIADELPADRE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-21T22:07:20.592498+00:00",
       "kind": "shadow",
       "payload": {
@@ -28211,6 +28104,98 @@
         "ticker": "MarsCoin",
         "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
         "mc": 31497.0
+      }
+    },
+    {
+      "ts": "2026-07-29T10:22:15.481014+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "lobby política",
+        "title": "Data center questions deserve disclosure, discussion - North Dakota Monitor",
+        "candidate_tickers": [
+          "boomlobby",
+          "lobbyboom",
+          "dakotaboost"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T10:22:29.119455+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8144358caa40",
+        "score": 80,
+        "category": "Desastres naturales",
+        "title": "Extreme temperatures in France and Spain as wildfires leave areas looking like a ‘war zone’ - CNN",
+        "candidate_tickers": [
+          "FRANCE_WILDFIRES",
+          "EXTREME_TEMPERATURES",
+          "WILDFIRES_ZONA_DE_GUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T10:22:52.505607+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3486623079aa",
+        "score": 84,
+        "category": "Tecnología",
+        "title": "We’re sending a ship out to recover Starship",
+        "candidate_tickers": [
+          "STARSHIPRECOVERY",
+          "ELONRECOVERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T10:23:15.922342+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8cd606efc917",
+        "score": 85,
+        "category": "Space/Elon Musk",
+        "title": "Starship still floating in the ocean",
+        "candidate_tickers": [
+          "STARSHIP",
+          "FLOATINGSTARSHIP",
+          "OCEANSTARSHIP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T10:23:36.622553+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d8462c8db2b4",
+        "score": 85,
+        "category": "Celebridad",
+        "title": "(Not satire)",
+        "candidate_tickers": [
+          "NOTSATIRE",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T10:26:51.872464+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3486623079aa",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 30883.0
+      }
+    },
+    {
+      "ts": "2026-07-29T10:26:53.836026+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8cd606efc917",
+        "ticker": "MarsCoin",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "mc": 30883.0
       }
     }
   ]
