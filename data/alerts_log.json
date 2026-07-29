@@ -1,95 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T21:53:42.920611+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b0cafdaf28db",
-        "score": 70,
-        "category": "política",
-        "title": "Judge blocks Trump's use of revamped immigration database for voter checks - Reuters",
-        "candidate_tickers": [
-          "TRUMP",
-          "BANCO DE DATOS",
-          "INMIGRACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:55:05.393582+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "tech",
-        "title": "Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg.com",
-        "candidate_tickers": [
-          "Alphabet",
-          "AI",
-          "Star",
-          "Rival"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:55:47.256043+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "14c7550cb840",
-        "score": 78,
-        "category": "Noticias de justicia",
-        "title": "US Supreme Court restores conviction in 1979 Etan Patz missing-child case - Reuters",
-        "candidate_tickers": [
-          "ETANPATZ",
-          "TRIBUNALSUPREMO",
-          "DESAPARICION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:56:36.487472+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política y sociedad",
-        "title": "Elyria police reviewing viral arrest of teen at Juneteenth celebration - FOX 8 News",
-        "candidate_tickers": [
-          "Juneteenth",
-          "Elyria",
-          "arresto viral"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:57:15.251835+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0ebb756e160a",
-        "score": 88,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XRP",
-          "MEME",
-          "MONEY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T23:28:27.557646+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "029810999810",
-        "score": 88,
-        "category": "Debate sobre la seguridad de los leones salvajes",
-        "title": "True",
-        "candidate_tickers": [
-          "CHEETAHS",
-          "LEONESSALVAJES",
-          "NEVERKILLHUMANS"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-22T23:29:21.698060+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28250,6 +28161,99 @@
         "ticker": "IQD",
         "mint": "C5GuQ6ckEWoAt96e4GFCrZRCkcB2d9JkaJ8KYt28nfpY",
         "mc": 463218.0
+      }
+    },
+    {
+      "ts": "2026-07-29T20:40:27.784166+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9e29054eeebb",
+        "score": 80,
+        "category": "Celebridad/Música",
+        "title": "‘Once’ Oscar winner and Irish musician Glen Hansard dies in motorcycle crash - AP News",
+        "candidate_tickers": [
+          "GLEN",
+          "HANSARD",
+          "MOTO",
+          "OSCAR",
+          "MUSIC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T20:40:51.616198+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7c0b99f2b1fc",
+        "score": 89,
+        "category": "Noticias de emergencia",
+        "title": "Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris - AP News",
+        "candidate_tickers": [
+          "EUROPE_BURNS",
+          "FRANCE_INFERNO",
+          "BOMBEROS_MUERTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T20:41:31.607132+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f9807ff214fe",
+        "score": 90,
+        "category": "Política y tecnología",
+        "title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - AP News",
+        "candidate_tickers": [
+          "DUROV",
+          "TELEGRAM",
+          "RUSIACRACKDOWN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T20:42:03.421578+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1bef8d0aebb",
+        "score": 74,
+        "category": "política",
+        "title": "Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent",
+        "candidate_tickers": [
+          "NEWSOMSCANDAL",
+          "AIDEGATE",
+          "POLITICOSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T20:43:38.882924+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Desastres naturales y emergencias",
+        "title": "Última hora de los incendios forestales, en directo | El rápido avance de incendio de Zamora deja 12 pueblos evacuados, dos confinados y 950 desalojados - Diario Público",
+        "candidate_tickers": [
+          "FUEGO",
+          "EVACUADOS",
+          "MADRID",
+          "ÁVILA",
+          "INCENDIOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T20:44:31.764263+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ba6005ad8c1f",
+        "score": 85,
+        "category": "Noticias de interés humano",
+        "title": "'You did it!': Brothers go viral after emotional first solo haircut for man with autism - Gulf Coast News and Weather",
+        "candidate_tickers": [
+          "BROHAIRS",
+          "AUTISMOVIRAL",
+          "CORTEDEPELOEMOCIONAL"
+        ]
       }
     }
   ]
