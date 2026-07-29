@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T23:31:16.920762+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4b4729772903",
-        "score": 71,
-        "category": "fútbol, Copa del Mundo, DHS, error, sorpresa",
-        "title": "DHS’ bizarre post about the U.S. men’s World Cup advancement got it all wrong - Yahoo Sports",
-        "candidate_tickers": [
-          "DHS_ERR",
-          "COPA_ERR",
-          "MENSAJE_ERR"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-22T23:32:36.225469+00:00",
       "kind": "shadow",
       "payload": {
@@ -28251,6 +28236,21 @@
         "candidate_tickers": [
           "GROKIMAGINE",
           "GROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T22:44:43.715668+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8af9c99f609b",
+        "score": 88,
+        "category": "Acusaciones de agresión sexual",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "candidate_tickers": [
+          "JAREDLETO",
+          "ACUSACIONESLETO",
+          "LETOSEXUAL"
         ]
       }
     }
