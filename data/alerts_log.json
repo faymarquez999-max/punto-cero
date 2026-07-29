@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T23:29:21.698060+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "89e6d733dd21",
-        "score": 80,
-        "category": "Noticias de crímenes",
-        "title": "Video shows deadly shooting in Montreal, Canada",
-        "candidate_tickers": [
-          "MONTREALSHOOTING",
-          "TIROTEOCANADÁ",
-          "VÍCTIMASDEMONTREAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T23:29:58.006606+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Muerte de un personaje público influyente",
-        "title": "Alan Greenspan, longtime Fed chairman who inspired Jewish pride and antisemitic conspiracy theories, dies at 100 - Jewish Telegraphic Agency",
-        "candidate_tickers": [
-          "Greenspan",
-          "Fed",
-          "Reserva Federal",
-          "Muerte de Greenspan"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-22T23:31:16.920762+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28253,6 +28223,34 @@
           "BROHAIRS",
           "AUTISMOVIRAL",
           "CORTEDEPELOEMOCIONAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T21:44:19.997594+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "48ba42e236d1",
+        "score": 93,
+        "category": "Celebridad/Política",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "candidate_tickers": [
+          "JAREDLETO",
+          "ACUSACIONESSEXUALES",
+          "CONDUCTACRIMINAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T21:45:52.827281+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "celebridades",
+        "title": "Happy birthday Grok Imagine ❣️",
+        "candidate_tickers": [
+          "GROKIMAGINE",
+          "GROK"
         ]
       }
     }

@@ -1,57 +1,6 @@
 {
   "watches": [
     {
-      "id": "ccfde153f0bc",
-      "fingerprint": "ccfde153f0bc",
-      "narrative_summary": "El congresista Thomas Massie es criticado por un viejo respaldo de Donald Trump, quien ahora lo considera el peor congresista en la historia del país.",
-      "why_memeable": "La narrativa combina la figura polarizante de Trump con una situación de injusticia percibida, lo que puede generar una fuerte carga emocional y resonancia cultural.",
-      "category": "Política y controversia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MASSIE",
-        "TRUMPED",
-        "BADREP",
-        "ENDORSEFAIL",
-        "POLARIZE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Massie",
-        "Congresista",
-        "Política",
-        "Controversia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-20T15:19:55.767722+00:00",
-      "expires_at": "2026-07-23T15:19:55.767722+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-23T16:18:00.859278+00:00"
-    },
-    {
       "id": "cd9008583505",
       "fingerprint": "cd9008583505",
       "narrative_summary": "Elon Musk compartió un enlace a una página web que muestra a un equipo de fútbol jugando con una pelota que parece estar en el aire, generando mucha confusión y especulación en la comunidad.",
@@ -8643,14 +8592,15 @@
       "started_at": "2026-07-27T20:44:13.381581+00:00",
       "expires_at": "2026-07-29T20:44:13.381581+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "15-year-old arrested in connection to Bite of Seattle shooting that killed 3, hurt 4 - KOMO",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-29T21:42:15.988662+00:00"
     },
     {
       "id": "fd7686188845",
@@ -8734,13 +8684,14 @@
       "started_at": "2026-07-27T20:45:49.630152+00:00",
       "expires_at": "2026-07-29T20:45:49.630152+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "I will not forget about Mars",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-29T21:42:15.988675+00:00"
     },
     {
       "id": "1bf1a194b49e",
@@ -11535,7 +11486,53 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "48ba42e236d1",
+      "fingerprint": "48ba42e236d1",
+      "narrative_summary": "Actor Jared Leto enfrenta acusaciones de conducta sexual criminal de 10 mujeres que lo conocieron como adolescentes.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una carga emocional fuerte, lo que la hace fácil de compartir y recordar.",
+      "category": "Celebridad/Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JAREDLETO",
+        "ACUSACIONESSEXUALES",
+        "CONDUCTACRIMINAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Jared Leto",
+        "acusaciones",
+        "conducta criminal",
+        "celebridad",
+        "política"
+      ],
+      "score": 93,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T21:44:19.561516+00:00",
+      "expires_at": "2026-07-31T21:44:19.561516+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-29T20:44:31.181562+00:00"
+  "last_updated": "2026-07-29T21:44:19.561516+00:00"
 }
