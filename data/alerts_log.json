@@ -1,108 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T16:05:42.220650+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "noticias universitarias",
-        "title": "BREAKING: Alcohol sales coming to Jack Trice Stadium and Hilton Coliseum - Wide Right & Natty Lite",
-        "candidate_tickers": [
-          "IAlcohol",
-          "WideRight",
-          "NattyLite"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T19:41:21.491819+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aa4aeab27553",
-        "score": 90,
-        "category": "animalos",
-        "title": "True",
-        "candidate_tickers": [
-          "CHEETAHSNEVERKILL",
-          "WILDCHEETAHS",
-          "CHEETAHSVSHUMANS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T19:43:04.615474+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Noticias de actualidad",
-        "title": "Temperatures could hit 40C in UK as rare red heat warning issued",
-        "candidate_tickers": [
-          "CalorReinoUnido",
-          "RedAlerta",
-          "TemperaturasAltas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T19:43:48.321135+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política internacional",
-        "title": "Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war - AP News",
-        "candidate_tickers": [
-          "Vance",
-          "Iran",
-          "Guerra",
-          "Acuerdo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T19:45:39.983996+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b41d852f54a8",
-        "score": 70,
-        "category": "política británica",
-        "title": "Why did Starmer resign and what could happen next?",
-        "candidate_tickers": [
-          "STARMERRESIGNS",
-          "UKPOLITICSCRISIS",
-          "LABOURLEADER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:52:52.531931+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a5fd2082cde0",
-        "score": 80,
-        "category": "curiosidades de la naturaleza",
-        "title": "True",
-        "candidate_tickers": [
-          "CHEETAH",
-          "WILDCAT",
-          "TRUEFACT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T21:53:05.987754+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "Deportes",
-        "title": "Milestone Messi sends Argentina to World Cup knockout stage - Reuters",
-        "candidate_tickers": [
-          "Messi",
-          "Copa del Mundo 2026",
-          "Goles de Messi"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-22T21:53:42.920611+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28250,6 +28148,108 @@
           "BROOKFIELD",
           "KYURANIUM"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:39:10.004377+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "score": 80,
+        "category": "Política y Salud",
+        "title": "Because he would incriminate himself. grok.com/share/bGVnYWN5_2bf9…",
+        "candidate_tickers": [
+          "FAUCI5",
+          "COVIDLIES",
+          "SENATEHEARING",
+          "RANDPAUL",
+          "FIFTHAMENDMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:40:27.601707+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db80b9378f59",
+        "score": 90,
+        "category": "Crímenes y juicios",
+        "title": "Lindsay Clancy’s ex-husband testifies about day she killed their three children - The Guardian",
+        "candidate_tickers": [
+          "LINDSAYCLANCY",
+          "3CHILDRENMURDER",
+          "INJUSTICIAMATERNAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:41:07.992860+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5bbfcdbaa200",
+        "score": 91,
+        "category": "Política/Noticias",
+        "title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - AP News",
+        "candidate_tickers": [
+          "DUROV",
+          "TELEGRAM",
+          "TERRORISMO",
+          "RUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:41:33.430347+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6c2b11dde83b",
+        "score": 80,
+        "category": "Política",
+        "title": "Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent",
+        "candidate_tickers": [
+          "NEWSOMSCANDAL",
+          "AIDEGATES",
+          "POLITICOSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:42:01.489811+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cc5b08fd8ef7",
+        "score": 85,
+        "category": "Tecnología/Aviación",
+        "title": "What's mind-blowing is Starship is the size of a 35-story high-rise.",
+        "candidate_tickers": [
+          "STARSHIP35",
+          "RASCACIELOSESPACIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:42:30.472657+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8a27b7bf484e",
+        "score": 83,
+        "category": "política",
+        "title": "Like Amnesty, a once-great institution brought down by activists working within it.",
+        "candidate_tickers": [
+          "AMNESTY",
+          "ACTIVISTAS",
+          "INSTITUCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T19:44:32.775234+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f73267eb9854",
+        "ticker": "IQD",
+        "mint": "C5GuQ6ckEWoAt96e4GFCrZRCkcB2d9JkaJ8KYt28nfpY",
+        "mc": 463218.0
       }
     }
   ]

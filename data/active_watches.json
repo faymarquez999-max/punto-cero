@@ -1,316 +1,6 @@
 {
   "watches": [
     {
-      "id": "6e3bfb507f49",
-      "fingerprint": "6e3bfb507f49",
-      "narrative_summary": "Los influencers Andrew y Tristan Tate fueron arrestados en Miami por cargos de violación y tráfico. ",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'influencers en problemas' y un título que llama la atención.",
-      "category": "celebridad",
-      "matched_archetype": "influencers_in_trouble",
-      "candidate_tickers": [
-        "TATEBROTHERS",
-        "INFLUENCERSENPROBLEMA",
-        "VIOLACIÓNENMIAMI"
-      ],
-      "key_terms_for_dex_search": [
-        "AndrewTate",
-        "TristanTate",
-        "Violación",
-        "tráfico",
-        "Miami"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T23:17:01.625983+00:00",
-      "expires_at": "2026-07-21T23:17:01.625983+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-21T23:36:10.294300+00:00"
-    },
-    {
-      "id": "2110597bbbed",
-      "fingerprint": "2110597bbbed",
-      "narrative_summary": "Se han producido muertes de soldados estadounidenses en la guerra con Irán, lo que ha generado preocupación por una guerra más amplia.",
-      "why_memeable": "La narrativa tiene un alto contenido emocional y es fácil de compartir debido a la gravedad de la situación.",
-      "category": "Guerra y política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRANWAR",
-        "USMILITARY",
-        "WARCASUALTIES"
-      ],
-      "key_terms_for_dex_search": [
-        "Irán",
-        "guerra",
-        "muertes",
-        "soldados",
-        "EE. UU."
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-20T00:18:04.631800+00:00",
-      "expires_at": "2026-07-22T00:18:04.631800+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Back then she was a young 55 year old with crazy ideas",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-22T01:11:18.500062+00:00"
-    },
-    {
-      "id": "4734835735f7",
-      "fingerprint": "4734835735f7",
-      "narrative_summary": "Elon Musk publica un 'Wow' viral en Twitter.",
-      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácilmente compartible y memeable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOWELON",
-        "ELONWOW"
-      ],
-      "key_terms_for_dex_search": [
-        "WOW",
-        "ELONMUSK",
-        "TECNOLOGIA"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-20T00:20:23.235223+00:00",
-      "expires_at": "2026-07-22T00:20:23.235223+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-22T01:11:18.500075+00:00"
-    },
-    {
-      "id": "f3b5b57607cc",
-      "fingerprint": "f3b5b57607cc",
-      "narrative_summary": "Elon Musk comparte una noticia viral sobre la cancelación de un partido de fútbol en la liga de Mat",
-      "why_memeable": "La noticia viral, la participación de Elon Musk y la cancelación de un partido de fútbol",
-      "category": "Deportes/Viral",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "XCANCEL",
-        "MATLEAGUE",
-        "ELONSOCCER"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "Soccer",
-        "Viral",
-        "XCancel"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-20T00:21:25.761917+00:00",
-      "expires_at": "2026-07-22T00:21:25.761917+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "xcancel.com/i/jf/soccer/league/mat…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-22T01:11:18.500078+00:00"
-    },
-    {
-      "id": "04d50969c6dd",
-      "fingerprint": "04d50969c6dd",
-      "narrative_summary": "La lucha para reclutar soldados en Ucrania se vuelve violenta",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable",
-      "category": "noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "SOLDADOS",
-        "VIOLENCIA",
-        "RECLUTAMIENTO"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "soldados",
-        "violencia",
-        "reclutamiento"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-07-20T04:28:11.817325+00:00",
-      "expires_at": "2026-07-23T04:28:11.817325+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-23T04:57:37.421295+00:00"
-    },
-    {
-      "id": "a6b6467aaec1",
-      "fingerprint": "a6b6467aaec1",
-      "narrative_summary": "Elon Musk comparte un enlace a un sitio web (xcancel.com) con una imagen relacionada con la liga de fútbol.",
-      "why_memeable": "La narrativa es memeable debido a la participación de Elon Musk y la imagen relacionada con el fútbol, que es un tema popular.",
-      "category": "fútbol, Elon Musk",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "ELONSOCCER",
-        "FÚTBOLXC"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "fútbol",
-        "xcancel.com"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-20T04:29:08.682215+00:00",
-      "expires_at": "2026-07-22T04:29:08.682215+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Official Elon Musk",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 93233.0,
-        "liquidity_usd": 26854.91,
-        "price_usd": 9.323e-05,
-        "volume_h24": 184304.76,
-        "volume_h1": 184304.76,
-        "volume_m5": 79607.87,
-        "price_change_5m": 40.86,
-        "price_change_1h": 100.0,
-        "price_change_24h": 100.0,
-        "txns_h1_buys": 1980,
-        "txns_h1_sells": 1369,
-        "created_ts": 1784676442000,
-        "pair_created_at": 1784676442000,
-        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "xcancel.com/i/jf/soccer/league/mat…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "matched_at": "2026-07-21T23:41:02.130432+00:00"
-    },
-    {
       "id": "0ba841616101",
       "fingerprint": "0ba841616101",
       "narrative_summary": "Estados Unidos lanza ataques aéreos contra Irán en respuesta a la muerte de soldados estadounidenses",
@@ -7523,7 +7213,7 @@
       "started_at": "2026-07-26T14:12:57.406986+00:00",
       "expires_at": "2026-07-29T14:12:57.406986+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "You can just talk to Grok Build",
       "cluster_sources": [
@@ -7532,7 +7222,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-29T19:39:07.739438+00:00"
     },
     {
       "id": "9790bb5dedfd",
@@ -7692,14 +7383,15 @@
       "started_at": "2026-07-26T14:17:00.923656+00:00",
       "expires_at": "2026-07-29T14:17:00.923656+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Rescuers scour South China Sea for 17 missing after Vietnamese vessel sinks - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-07-29T19:39:07.739451+00:00"
     },
     {
       "id": "fdb5d2fe9dc1",
@@ -7854,14 +7546,15 @@
       "started_at": "2026-07-26T15:34:55.531831+00:00",
       "expires_at": "2026-07-29T15:34:55.531831+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Controversial Argentina World Cup banner gets new life in print",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-29T19:39:07.739454+00:00"
     },
     {
       "id": "927a151a7ebb",
@@ -8782,13 +8475,14 @@
       "started_at": "2026-07-27T15:39:20.425095+00:00",
       "expires_at": "2026-07-29T15:39:20.425095+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Tribute to VLOP",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-29T19:39:07.739459+00:00"
     },
     {
       "id": "0b86fbfee01e",
@@ -8901,14 +8595,15 @@
       "started_at": "2026-07-27T17:28:17.172635+00:00",
       "expires_at": "2026-07-29T17:28:17.172635+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Sentencing delayed for Clyde Township woman in animal cruelty case - Times Herald",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-29T19:39:07.739462+00:00"
     },
     {
       "id": "3458b2aee8e0",
@@ -8993,14 +8688,15 @@
       "started_at": "2026-07-27T17:29:19.964006+00:00",
       "expires_at": "2026-07-29T17:29:19.964006+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Drones attack Iran's neighbours as Tehran appears to test Trump's latest pause - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-29T19:39:07.739464+00:00"
     },
     {
       "id": "df9f1a269274",
@@ -11568,7 +11264,281 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "8aa775297c60",
+      "fingerprint": "8aa775297c60",
+      "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado de EE. UU. sobre los orígenes de COVID-19",
+      "why_memeable": "La situación es inusual y genera interés debido a la figura pública involucrada y la naturaleza controvertida del tema",
+      "category": "Política y Salud",
+      "matched_archetype": "injusticia_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCI5",
+        "COVIDLIES",
+        "SENATEHEARING",
+        "RANDPAUL",
+        "FIFTHAMENDMENT"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "Quinta Enmienda",
+        "Senado",
+        "COVID-19",
+        "Rand Paul"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T19:39:09.488017+00:00",
+      "expires_at": "2026-08-01T19:39:09.488017+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Because he would incriminate himself. grok.com/share/bGVnYWN5_2bf9…",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "db80b9378f59",
+      "fingerprint": "db80b9378f59",
+      "narrative_summary": "Ex-husband testifica sobre el día en que su esposa, Lindsay Clancy, mató a sus tres hijos.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y drama, con un ex-hombre testificando sobre la muerte de sus hijos.",
+      "category": "Crímenes y juicios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LINDSAYCLANCY",
+        "3CHILDRENMURDER",
+        "INJUSTICIAMATERNAL"
+      ],
+      "key_terms_for_dex_search": [
+        "LindsayClancy",
+        "3ChildrenMurder",
+        "InjusticiaMaternal",
+        "Crímenes",
+        "Juicios"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T19:40:26.981459+00:00",
+      "expires_at": "2026-07-31T19:40:26.981459+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Lindsay Clancy’s ex-husband testifies about day she killed their three children - The Guardian",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5bbfcdbaa200",
+      "fingerprint": "5bbfcdbaa200",
+      "narrative_summary": "Rusia acusa al CEO de Telegram de ayudar al terrorismo en su última represión digital",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima', y la frase 'aiding terrorism' es muy fácil de compartir y recordar.",
+      "category": "Política/Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DUROV",
+        "TELEGRAM",
+        "TERRORISMO",
+        "RUSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Durov",
+        "Telegram",
+        "Terrorismo",
+        "Rusia"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T19:41:07.468174+00:00",
+      "expires_at": "2026-07-31T19:41:07.468174+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6c2b11dde83b",
+      "fingerprint": "6c2b11dde83b",
+      "narrative_summary": "La asistente de Newsom que tuvo un affair mientras estaba casada con su gerente de campaña habla por primera vez.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica, lo que la hace fácil de compartir y recordar.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NEWSOMSCANDAL",
+        "AIDEGATES",
+        "POLITICOSCANDAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Newsom",
+        "affair",
+        "scandal",
+        "politico"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T19:41:32.772907+00:00",
+      "expires_at": "2026-07-31T19:41:32.772907+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Aide who had affair with Newsom while married to his campaign manager breaks silence - The Independent",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "cc5b08fd8ef7",
+      "fingerprint": "cc5b08fd8ef7",
+      "narrative_summary": "Elon Musk compara el tamaño del Starship con un rascacielos de 35 pisos.",
+      "why_memeable": "La frase es corta, fácil de recordar y tiene un tono absurdo.",
+      "category": "Tecnología/Aviación",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "STARSHIP35",
+        "RASCACIELOSESPACIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Starship",
+        "35story",
+        "rascacielos",
+        "espacial"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-29T19:42:01.023966+00:00",
+      "expires_at": "2026-07-31T19:42:01.023966+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "What's mind-blowing is Starship is the size of a 35-story high-rise.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8a27b7bf484e",
+      "fingerprint": "8a27b7bf484e",
+      "narrative_summary": "Amnesty, una institución grande, fue llevada abajo por activistas que trabajaban dentro de ella.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una estructura simple, lo que la hace fácilmente compartible y recordable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AMNESTY",
+        "ACTIVISTAS",
+        "INSTITUCIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "Amnesty",
+        "activistas",
+        "institución",
+        "política"
+      ],
+      "score": 83,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-29T19:42:29.902043+00:00",
+      "expires_at": "2026-07-31T19:42:29.902043+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Like Amnesty, a once-great institution brought down by activists working within it.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-29T10:26:53.825085+00:00"
+  "last_updated": "2026-07-29T19:42:29.902043+00:00"
 }
