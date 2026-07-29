@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T05:14:30.761397+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "meme de Elon Musk",
-        "title": "Works every time",
-        "candidate_tickers": [
-          "WorksEveryTime",
-          "ElonMuskMeme"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T05:14:50.380521+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ac3ff46ee397",
-        "ticker": "POOL",
-        "mint": "257nhfbcvhDi8E1VwLbdgN9nGeC2BzcChrSe89qapump",
-        "mc": 16441.0
-      }
-    },
-    {
-      "ts": "2026-06-22T05:14:56.016260+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1b30d6227209",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 14098.0
-      }
-    },
-    {
-      "ts": "2026-06-22T05:15:01.728787+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "120d6a136f3c",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 14098.0
-      }
-    },
-    {
       "ts": "2026-06-22T05:15:05.291713+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28213,6 +28170,65 @@
           "USban",
           "ChinaRobot",
           "RobotBan"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T16:42:15.049606+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "noticias de tecnología",
+        "title": "In Major NY Streaming Shift, DAZN Becoming Exclusive Home For YES And MSG Network Telecasts - deadline.com",
+        "candidate_tickers": [
+          "DAZN",
+          "YES",
+          "MSG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T16:42:43.933205+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "413fa0091812",
+        "score": 91,
+        "category": "celebridad/escándalo",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers - The Guardian",
+        "candidate_tickers": [
+          "JAREDLETOABUSO",
+          "LETOSEXUALABUSO",
+          "ABUSOJARED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T16:43:23.198930+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a0b7381cf5d2",
+        "score": 91,
+        "category": "política internacional",
+        "title": "US War With Iran Set to Drag On for Months Over Hormuz Deadlock - Bloomberg.com",
+        "candidate_tickers": [
+          "USVIRAN",
+          "HORMUZWAR",
+          "ESTRECHODEHORMUZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T16:44:09.998272+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cb62ddb7a179",
+        "score": 88,
+        "category": "crueldad animal",
+        "title": "Docs: Animal cruelty charges filed after 2 dead chihuahuas found inside apartment - Fox 59",
+        "candidate_tickers": [
+          "CHIHUAHUACRUELTY",
+          "CRUELTYCHIHUAHUA",
+          "ANIMALCRUELTY"
         ]
       }
     }
