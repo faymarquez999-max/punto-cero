@@ -1,40 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T23:32:36.225469+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política y tecnología",
-        "title": "Meloni slams Trump's claim she 'begged' for a photo with him as Italy's top diplomat cancels US trip - AP News",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "MELONIvsTRUMP",
-          "ACCESOa INTERNET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T23:33:30.510445+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "32d3edc3109a",
-        "ticker": "GEORGE",
-        "mint": "4NmagwMczqFMpGKVJXYiZ6jFmBtedrtKd8f7HSzGbonk",
-        "mc": 94944.0
-      }
-    },
-    {
-      "ts": "2026-06-22T23:33:31.996800+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fbb7f0c2c4e4",
-        "ticker": "TrumpLoner",
-        "mint": "6YqsppC6qjJ3Efgwt6wMef6YGDofAPzEP5egvdzvpump",
-        "mc": 274217.0
-      }
-    },
-    {
       "ts": "2026-06-23T01:35:34.579095+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28252,6 +28218,42 @@
           "ACUSACIONESLETO",
           "LETOSEXUAL"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-29T23:47:53.733173+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eee18e1b320d",
+        "score": 88,
+        "category": "Celebridad y crimen",
+        "title": "Salman Rushdie attacker convicted of terror offenses",
+        "candidate_tickers": [
+          "RUSHDIE",
+          "LETO",
+          "ABUSO",
+          "TERRORISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T23:52:20.262267+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f73267eb9854",
+        "ticker": "IQD",
+        "mint": "C5GuQ6ckEWoAt96e4GFCrZRCkcB2d9JkaJ8KYt28nfpY",
+        "mc": 296842.0
+      }
+    },
+    {
+      "ts": "2026-07-29T23:52:30.474009+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9e29054eeebb",
+        "ticker": "Oscar",
+        "mint": "74dRE9m75gKQzb9WVkNYBqNjUdkgfLzWyNxtvwUDpump",
+        "mc": 42832.0
       }
     }
   ]
