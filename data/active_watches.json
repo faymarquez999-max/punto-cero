@@ -1,319 +1,6 @@
 {
   "watches": [
     {
-      "id": "1f9767300210",
-      "fingerprint": "1f9767300210",
-      "narrative_summary": "Elon Musk anuncia la construcción de mass drivers en la luna",
-      "why_memeable": "La frase 'mass drivers on the mf Moon' es fácilmente compartible y tiene un alto potencial de viralidad",
-      "category": "espacio",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "LUNA",
-        "DRIVERS",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "luna",
-        "drivers"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-19T14:19:37.074963+00:00",
-      "expires_at": "2026-07-21T14:19:37.074963+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 147487.0,
-        "liquidity_usd": 30551.25,
-        "price_usd": 0.0001477,
-        "volume_h24": 29697.24,
-        "volume_h1": 550.97,
-        "volume_m5": 267.38,
-        "price_change_5m": -2.58,
-        "price_change_1h": -0.13,
-        "price_change_24h": 51.04,
-        "txns_h1_buys": 16,
-        "txns_h1_sells": 8,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2299,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T14:20:42.598808+00:00"
-    },
-    {
-      "id": "1c13a11593a3",
-      "fingerprint": "1c13a11593a3",
-      "narrative_summary": "Ataque de misiles rusos en Kyiv mata a 1 y expone debilidades en defensas aéreas",
-      "why_memeable": "La narrativa tiene un título claro y un impacto emocional significativo, lo que la hace fácilmente compartible y recordable",
-      "category": "noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KYIV",
-        "RUSIA",
-        "ATAQUE DE MISILES",
-        "DEFENSAS AÉREAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Kyiv",
-        "Rusia",
-        "ataque de misiles",
-        "defensas aéreas"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T15:31:12.186374+00:00",
-      "expires_at": "2026-07-21T15:31:12.186374+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russian missile attack on Kyiv kills 1 and exposes holes in air defenses - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-21T18:05:07.911821+00:00"
-    },
-    {
-      "id": "b98a00d7cf81",
-      "fingerprint": "b98a00d7cf81",
-      "narrative_summary": "Elon Musk comparte un video de robots luchando, generando mucha emoción y engagement en las redes.",
-      "why_memeable": "La frase 'Robot fights are fun' es breve y fácil de recordar, y la imagen de los robots luchando es icónica.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ROBOTFIGHTS",
-        "FUNROBOTS"
-      ],
-      "key_terms_for_dex_search": [
-        "robot",
-        "fights",
-        "fun"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 3,
-        "polarizing": 2,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T15:32:16.602743+00:00",
-      "expires_at": "2026-07-21T15:32:16.602743+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "fun",
-        "name": "fun",
-        "mint": "EF7mbVk39m5jqBGGbCbueMCBN93a3mFam7kKwuiUpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 11875.0,
-        "liquidity_usd": 8449.77,
-        "price_usd": 1.188e-05,
-        "volume_h24": 5898.44,
-        "volume_h1": 2414.25,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 38.13,
-        "price_change_24h": 311.0,
-        "txns_h1_buys": 55,
-        "txns_h1_sells": 37,
-        "created_ts": 1783872340000,
-        "pair_created_at": 1783872340000,
-        "url": "https://dexscreener.com/solana/4jfehicpgww5zmwfgfnwgbk5z3krutbsh4tlmoreeqfd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FUN in FUN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Robot fights are fun 😂",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-19T20:04:00.253754+00:00"
-    },
-    {
-      "id": "88e482524b41",
-      "fingerprint": "88e482524b41",
-      "narrative_summary": "Elon Musk anuncia la construcción de mass drivers en la luna",
-      "why_memeable": "La frase 'Mass drivers on the mf Moon!!' es fácil de recordar y compartir",
-      "category": "Tecnología espacial",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "LUNA",
-        "DRIVERS",
-        "MFMOON"
-      ],
-      "key_terms_for_dex_search": [
-        "drivers",
-        "mass",
-        "moon",
-        "elonmusk"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-19T15:33:07.000483+00:00",
-      "expires_at": "2026-07-21T15:33:07.000483+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Luna Bear",
-        "name": "Luna",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 146326.0,
-        "liquidity_usd": 30425.42,
-        "price_usd": 0.0001465,
-        "volume_h24": 29435.82,
-        "volume_h1": 204.98,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.22,
-        "price_change_24h": 45.15,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 8,
-        "created_ts": 1783687517000,
-        "pair_created_at": 1783687517000,
-        "url": "https://dexscreener.com/solana/27tumbd78q9tah1evjqmxeskxk6cuczdonqynjegjjbh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LUNA in LUNA",
-        "safety_score": 2299,
-        "safety_risks": [
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Mass drivers on the mf Moon!!",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-19T15:34:01.206457+00:00"
-    },
-    {
-      "id": "7944766b1244",
-      "fingerprint": "7944766b1244",
-      "narrative_summary": "El centro de huracanes de EE. UU. informa un 80% de probabilidad de ciclón en las próximas 48 horas cerca de Florida.",
-      "why_memeable": "La narrativa tiene un título claro y conciso, y el contenido es fácil de entender.",
-      "category": "meteorología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CICLÓNFL",
-        "HURACÁNEEUU",
-        "FLORIDACICLÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "huracán",
-        "Florida",
-        "EE. UU."
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T16:33:01.867851+00:00",
-      "expires_at": "2026-07-21T16:33:01.867851+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-21T18:05:07.911834+00:00"
-    },
-    {
       "id": "53f3a9c1c3d0",
       "fingerprint": "53f3a9c1c3d0",
       "narrative_summary": "Los hermanos Tate son arrestados en EU como parte de nuevos cargos en el Reino Unido.",
@@ -6503,7 +6190,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "0b0e3a1e4716",
@@ -7669,7 +7356,7 @@
       "started_at": "2026-07-26T04:46:07.638209+00:00",
       "expires_at": "2026-07-29T04:46:07.638209+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Peter is not correct about me in this case.",
       "cluster_sources": [
@@ -7678,7 +7365,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-29T07:34:46.872035+00:00"
     },
     {
       "id": "bf72c5acfdd6",
@@ -7862,14 +7550,15 @@
       "started_at": "2026-07-26T04:46:58.641155+00:00",
       "expires_at": "2026-07-29T04:46:58.641155+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "French wildfires trigger mass evacuations around Bordeaux",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-29T07:34:46.872049+00:00"
     },
     {
       "id": "d1831460ab01",
@@ -8091,7 +7780,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "9790bb5dedfd",
@@ -8258,7 +7947,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "fdb5d2fe9dc1",
@@ -8420,7 +8109,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "927a151a7ebb",
@@ -8649,7 +8338,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "263e6994b049",
@@ -8887,7 +8576,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "669412984eab",
@@ -9099,7 +8788,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "6e9aa7456011",
@@ -9233,7 +8922,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "388f93bb9bd7",
@@ -9346,7 +9035,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "0b86fbfee01e",
@@ -9466,7 +9155,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "3458b2aee8e0",
@@ -9512,7 +9201,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "888ecc307a9c",
@@ -9558,7 +9247,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "df9f1a269274",
@@ -9744,7 +9433,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "fd7686188845",
@@ -9789,7 +9478,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f89a370a5c9f",
@@ -9834,7 +9523,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "1bf1a194b49e",
@@ -10099,7 +9788,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b3e499f0c58c",
@@ -10227,7 +9916,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "8b2426571848",
@@ -10273,7 +9962,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "a0fe556505fd",
@@ -10320,7 +10009,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "5b41b75ccb28",
@@ -10431,7 +10120,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "cb42320b14b3",
@@ -10767,7 +10456,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dac60670b6eb",
@@ -10880,7 +10569,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "908afaa9549d",
@@ -10928,7 +10617,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "88a81f42c089",
@@ -11045,7 +10734,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "646cef13eda7",
@@ -11087,7 +10776,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4e36629651d1",
@@ -11204,7 +10893,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2eeadd13b268",
@@ -11386,7 +11075,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "fa51f76c35eb",
@@ -11436,7 +11125,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f2e322dd7660",
@@ -11552,7 +11241,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "28811f20ba18",
@@ -11597,7 +11286,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4c540c1c923a",
@@ -11643,8 +11332,263 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "a2de9dbf4f1c",
+      "fingerprint": "a2de9dbf4f1c",
+      "narrative_summary": "Un terremoto de magnitud 7.1 en Japón causa colapso de un centro comercial y muertes.",
+      "why_memeable": "El terremoto, la muerte de personas y el colapso de un centro comercial son elementos fácilmente capturables en una imagen o frase.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JAPÓNTERREMOTO",
+        "COLAPSOJAPÓN",
+        "MUERTESJAPÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "Japón",
+        "terremoto",
+        "colapso",
+        "muerte"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 3,
+        "velocity": 7
+      },
+      "started_at": "2026-07-29T07:35:03.634914+00:00",
+      "expires_at": "2026-07-31T07:35:03.634914+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Japan earthquake toll rises to 13 as rescuers haul people from collapsed mall - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "0e3486ed8b1c",
+      "fingerprint": "0e3486ed8b1c",
+      "narrative_summary": "Residents ordenados a evacuar debido a un leak de fósforo blanco en una base estadounidense en Corea del Sur.",
+      "why_memeable": "La narrativa tiene un impacto emocional y es fácil de compartir debido a la gravedad de la situación y la noticia de un leak de fósforo blanco.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FÓSFOROBLANCO",
+        "EVACUACIÓNCOREA",
+        "BASEESTADOUNIDENSE"
+      ],
+      "key_terms_for_dex_search": [
+        "FósforoBlanco",
+        "Evacuación",
+        "BaseEstadounidense",
+        "CoreaDelSur"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-07-29T07:37:59.087376+00:00",
+      "expires_at": "2026-07-31T07:37:59.087376+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Viral no-churn watermelon ice cream uses just 2 ingredients: Here's how to make it - ABC News - Breaking News, Latest News and Videos",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "f73267eb9854",
+      "fingerprint": "f73267eb9854",
+      "narrative_summary": "US y fuerzas sauditas realizan ataques contra grupos iraníes en Irak",
+      "why_memeable": "La narrativa tiene un claro arquetipo de conflicto entre naciones y grupos, lo que la hace fácilmente memeable.",
+      "category": "Política y conflicto internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "SAUDI",
+        "US",
+        "IRAQ"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "SAUDI",
+        "US",
+        "IRAQ",
+        "CONFLICTO"
+      ],
+      "score": 79,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T07:38:23.597399+00:00",
+      "expires_at": "2026-07-31T07:38:23.597399+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Live updates: US and Saudi forces conduct strikes on Iranian proxies in Iraq - CNN",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "665870708b1f",
+      "fingerprint": "665870708b1f",
+      "narrative_summary": "Un agente de OpenAI se ha comprometido con un cliente de una segunda empresa de tecnología, según un ejecutivo.",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
+      "category": "Tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OPENAI",
+        "ROGUEAGENT",
+        "TECHFIRM"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "RogueAgent",
+        "TechFirm",
+        "Compromiso",
+        "Cliente"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T07:39:00.239246+00:00",
+      "expires_at": "2026-08-01T07:39:00.239246+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "0f8f7b7c27ec",
+      "fingerprint": "0f8f7b7c27ec",
+      "narrative_summary": "Elon Musk anuncia el envío de una nave para recuperar Starship",
+      "why_memeable": "La noticia es emocionalmente atractiva debido a la figura de Elon Musk y el interés en la tecnología espacial, además de ser fácilmente compartible y recordable",
+      "category": "Tecnología Espacial",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "STARSHIP",
+        "RESCUESHIP",
+        "MUSKMISSION",
+        "SPACERECOVERY"
+      ],
+      "key_terms_for_dex_search": [
+        "Starship",
+        "Elon Musk",
+        "Recuperación",
+        "Nave Espacial"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T07:39:31.789481+00:00",
+      "expires_at": "2026-08-01T07:39:31.789481+00:00",
+      "duration_hours": 72,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MarsCoin",
+        "name": "Mars Coin by Elon Musk",
+        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 31497.0,
+        "liquidity_usd": 18861.33,
+        "price_usd": 3.156e-05,
+        "volume_h24": 29440.63,
+        "volume_h1": 226.31,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.75,
+        "price_change_24h": 13.72,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 3,
+        "created_ts": 1737250624000,
+        "pair_created_at": 1737250624000,
+        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "We’re sending a ship out to recover Starship",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-07-29T07:40:11.645558+00:00"
     }
   ],
-  "last_updated": "2026-07-29T04:41:54.608090+00:00"
+  "last_updated": "2026-07-29T07:40:11.645578+00:00"
 }
