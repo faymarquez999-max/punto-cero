@@ -1,133 +1,6 @@
 {
   "watches": [
     {
-      "id": "dee14f7655ef",
-      "fingerprint": "dee14f7655ef",
-      "narrative_summary": "Los hermanos Andrew y Tristan Tate, influenciadores de redes sociales, fueron arrestados en Miami y se busca su extradición a Reino Unido para enfrentar cargos de violación, tráfico sexual y agresión.",
-      "why_memeable": "La narrativa es memeable debido a la sorpresa y el shock causados por la noticia, así como la participación de figuras públicas y la controversia en torno a sus cargos.",
-      "category": "Celebridad/Influencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TATEBROTHERS",
-        "INFLUENCERSENCRISIS",
-        "EXTRADICIÓNDETATE"
-      ],
-      "key_terms_for_dex_search": [
-        "Tate",
-        "Influencers",
-        "Arresto",
-        "Extradición",
-        "Cargos",
-        "Violación",
-        "TráficoSexual"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T14:17:22.571889+00:00",
-      "expires_at": "2026-07-22T14:17:22.571889+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tate",
-        "name": "Tate Terminal",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 132533.0,
-        "liquidity_usd": 40096.5,
-        "price_usd": 0.0001325,
-        "volume_h24": 5050.75,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -24.04,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1729779606000,
-        "pair_created_at": 1729779606000,
-        "url": "https://dexscreener.com/solana/waprp8qkzcfdy3aixs8uiphctt11uafcqwhzwpncqwp",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TATE in TATE TERMINAL",
-        "safety_score": 501,
-        "safety_risks": [
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          }
-        ]
-      },
-      "cluster_top_title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "matched_at": "2026-07-20T23:12:28.170216+00:00"
-    },
-    {
-      "id": "6ddc6b9e6e58",
-      "fingerprint": "6ddc6b9e6e58",
-      "narrative_summary": "Un ataque de misiles rusos en Kiev mata a 1 persona y expone debilidades en las defensas aéreas",
-      "why_memeable": "La narrativa es memeable debido a la claridad y concisión de la información, así como la gravedad y urgencia del evento.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KIEV",
-        "MISSILES",
-        "RUSSIA",
-        "ATTACK"
-      ],
-      "key_terms_for_dex_search": [
-        "KIEV",
-        "MISSILES",
-        "RUSSIA",
-        "ATTACK"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-19T14:18:01.275519+00:00",
-      "expires_at": "2026-07-22T14:18:01.275519+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russian missile attack on Kyiv kills 1 and exposes holes in air defenses - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 16,
-      "expired_at": "2026-07-22T14:27:11.485693+00:00"
-    },
-    {
       "id": "1f9767300210",
       "fingerprint": "1f9767300210",
       "narrative_summary": "Elon Musk anuncia la construcción de mass drivers en la luna",
@@ -11680,7 +11553,98 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "28811f20ba18",
+      "fingerprint": "28811f20ba18",
+      "narrative_summary": "Un terremoto de 7.1 grados destruye partes de Japón, dejando al menos 13 muertos.",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés: un terremoto devastador en Japón con un número significativo de muertos.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JAPÓNTERREMOTO",
+        "TERREMOTO7.1",
+        "KUMAMOTO"
+      ],
+      "key_terms_for_dex_search": [
+        "Japón",
+        "terremoto",
+        "Kumamoto",
+        "muertos"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-07-29T04:38:51.209194+00:00",
+      "expires_at": "2026-07-31T04:38:51.209194+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Live updates: At least 13 people killed in Japan earthquake, prime minister says - CNN",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4c540c1c923a",
+      "fingerprint": "4c540c1c923a",
+      "narrative_summary": "Donald Trump y líderes mundiales asisten al funeral de Lindsey Graham.",
+      "why_memeable": "La frase 'Lindsey Graham era una fuerza en la política' es memeable y se puede capturar en una imagen.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "GRAHAM",
+        "FUNERAL",
+        "POLITICA"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "GRAHAM",
+        "FUNERAL",
+        "POLITICA"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-07-29T04:41:54.608090+00:00",
+      "expires_at": "2026-07-31T04:41:54.608090+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-28T23:46:54.109381+00:00"
+  "last_updated": "2026-07-29T04:41:54.608090+00:00"
 }
