@@ -1,124 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-22T05:15:05.291713+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "649837b124bf",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 14098.0
-      }
-    },
-    {
-      "ts": "2026-06-22T05:15:06.503800+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "095135787b5e",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 14098.0
-      }
-    },
-    {
-      "ts": "2026-06-22T10:52:01.356692+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias de violencia y tragedia",
-        "title": "Philippines: School shooting leaves three dead, seven wounded - BBC",
-        "candidate_tickers": [
-          "Filipinas",
-          "Tiroteo en escuela",
-          "Injusticia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T10:52:39.642141+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política internacional",
-        "title": "China targets US rare earth and other firms with export controls - Reuters",
-        "candidate_tickers": [
-          "ChinaVsUS",
-          "TierrasRaras",
-          "ExportControls"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T10:53:35.404406+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "543256e0d5c9",
-        "score": 85,
-        "category": "humor",
-        "title": "“Full access” 😂",
-        "candidate_tickers": [
-          "FULLACCESS",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T10:54:02.789183+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3ef276c52dff",
-        "score": 80,
-        "category": "meme de Elon Musk",
-        "title": "Works every time",
-        "candidate_tickers": [
-          "WORKSEVERYTIME",
-          "ELONMUSKMEME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T10:54:45.638940+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e689141857d3",
-        "score": 74,
-        "category": "Tecnología y vida en el siglo XXI",
-        "title": "We actually lived through this",
-        "candidate_tickers": [
-          "WALT",
-          "LIVED",
-          "THROUGH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-22T10:55:23.955280+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a2e97289f972",
-        "ticker": "HEAT",
-        "mint": "CpURwV8aPvTgm5txTASDz1apbFUNmBjGorb2qrqntA2i",
-        "mc": 107752.0
-      }
-    },
-    {
-      "ts": "2026-06-22T16:02:55.905050+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "46661c77a0a5",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "MUMBAI INDIA BASED CRED FOUNDER KUNAL SHAH APPOINTED GLOBAL CEO OF WHATSAPP IN LANDMARK META SHAKE-UP",
-        "candidate_tickers": [
-          "KUNALSHAH",
-          "WHATSAPPCEO",
-          "META",
-          "CRED",
-          "KUNALSHAHCEO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-22T16:05:42.220650+00:00",
       "kind": "shadow",
       "payload": {
@@ -28229,6 +28111,144 @@
           "CHIHUAHUACRUELTY",
           "CRUELTYCHIHUAHUA",
           "ANIMALCRUELTY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T17:59:47.189205+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b607cca1f5f8",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "Build apps from grok.com , iOS, and Android. With one prompt, turn an idea into a published product with its own domain.",
+        "candidate_tickers": [
+          "MUSKTRUMP",
+          "TRUMPWARS",
+          "MUSKVSTRUMP",
+          "EPSTEINGATE",
+          "TWITTERFEUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:00:01.189200+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b1952d0a2b8c",
+        "score": 74,
+        "category": "política",
+        "title": "Americans buried parents alone. Children lost years of childhood. Families watched businesses they had built over a lifetime disappear.",
+        "candidate_tickers": [
+          "FAUCINORESPONDE",
+          "FAUCICOVID",
+          "FAUCINOANSWER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:00:40.356333+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "49a586492c80",
+        "score": 89,
+        "category": "ciencia y tecnología",
+        "title": "Neuralink just shared that participants living with paralysis are now controlling a powered wheelchair using nothing but their thoughts. No joystick. Just intention.",
+        "candidate_tickers": [
+          "NEURALINK",
+          "PARÁLISIS",
+          "SILLA DE RUEDAS",
+          "TELEPATÍA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:02:08.456187+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "182c29ed8e1a",
+        "score": 80,
+        "category": "Muerte de un artista",
+        "title": "French producer and DJ Kavinsky, best known for the song ‘Nightcall’ in the movie ‘Drive,’ has died at the age of 50.",
+        "candidate_tickers": [
+          "KAVINSKY",
+          "NIGHTCALL",
+          "DRIVE",
+          "FALLECIDO",
+          "DJ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:02:37.071769+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fe643bb0f6bf",
+        "score": 91,
+        "category": "Celebridad/Abuso sexual",
+        "title": "4 women accuse U.S. actor Jared Leto of committing sexual offenses when they were teens; he denies it - CBS News",
+        "candidate_tickers": [
+          "LETOABUSO",
+          "JAREDLETOSCANDAL",
+          "ABUSOSEXUALLETO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:03:16.027027+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dbd8e849b9f9",
+        "score": 74,
+        "category": "Noticias de incendios forestales y accidentes",
+        "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+        "candidate_tickers": [
+          "CRETAINCENDIOS",
+          "BOMBEROSCRETA",
+          "INCENDIOSEUROPA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:03:47.906228+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a03e1c96341",
+        "score": 80,
+        "category": "animal_cruelty",
+        "title": "5 cats found dead inside sealed Berea tote, animal advocates seek justice - FOX 56 News",
+        "candidate_tickers": [
+          "GATOSMUERTOS",
+          "BOLSADELAMUERTE",
+          "JUSTICIAPARALOSGATOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:04:27.407635+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "gobierno",
+        "title": "EXCLUSIVE: US FTC suing Hims & Hers for sending user health info to Meta, Snap - Reuters",
+        "candidate_tickers": [
+          "HimsVsFTC",
+          "HersVsMeta",
+          "FTCsueHims"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-29T18:05:03.910859+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología",
+        "title": "NextEra, Brookfield plan $100 billion data center at US uranium site in Kentucky - Reuters",
+        "candidate_tickers": [
+          "NEXTERA",
+          "BROOKFIELD",
+          "KYURANIUM"
         ]
       }
     }
