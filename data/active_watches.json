@@ -8886,7 +8886,7 @@
       "started_at": "2026-07-26T23:47:40.350195+00:00",
       "expires_at": "2026-07-28T23:47:40.350195+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.",
       "cluster_sources": [
@@ -8895,7 +8895,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-07-29T01:15:13.969629+00:00"
     },
     {
       "id": "00444396950d",
