@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-23T01:36:33.416490+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3c6584e715c6",
-        "score": 89,
-        "category": "mundo natural",
-        "title": "True",
-        "candidate_tickers": [
-          "GUEPARDOS",
-          "VERDAD O MITO",
-          "NATURALEZA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T01:38:38.809565+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9056a9c0a6ed",
-        "score": 88,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XRP",
-          "MEMETORO",
-          "AI AGENT",
-          "TOP 5 FASTEST GROWING MEMECOINS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T01:39:32.763298+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "52d7d513e76d",
-        "score": 74,
-        "category": "Política",
-        "title": "“Robber” Khanna!",
-        "candidate_tickers": [
-          "KHANNA",
-          "ROBBERKHANNA",
-          "KHANNALADRÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T01:40:12.476269+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "625340bef320",
-        "score": 74,
-        "category": "política",
-        "title": "Ro Khanna attacking DOGE reminds me of Elon’s PayPal lesson:",
-        "candidate_tickers": [
-          "DOGE",
-          "ROKHANNA",
-          "ELON",
-          "PAYPAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T01:40:39.004182+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "32d3edc3109a",
-        "ticker": "GEORGE",
-        "mint": "4NmagwMczqFMpGKVJXYiZ6jFmBtedrtKd8f7HSzGbonk",
-        "mc": 88341.0
-      }
-    },
-    {
       "ts": "2026-06-23T01:40:41.101915+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28250,6 +28178,79 @@
         "ticker": "Fauci",
         "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
         "mc": 432340.0
+      }
+    },
+    {
+      "ts": "2026-07-30T04:25:36.463723+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "998ee3cfd104",
+        "score": 80,
+        "category": "escándalo político",
+        "title": "FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Processing EBT Cards For Drug & Alcohol Purchases As “EBT Cash” & “EBT Food”",
+        "candidate_tickers": [
+          "EBTFRAUD",
+          "NYCSCAM",
+          "GOVWASTE",
+          "CASHCART",
+          "FOODSTAMPFRAUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T04:27:13.682652+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Música y Premios Grammy",
+        "title": "Grammy CEO Harvey Mason Jr. responds to BTS’ decision to not submit their music for the 2027 awards, following the introduction of an Asian-focused category:",
+        "candidate_tickers": [
+          "BTS",
+          "Grammy",
+          "Asia",
+          "Premios"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T04:28:27.403889+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología y Política",
+        "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+        "candidate_tickers": [
+          "TelegramTakedown",
+          "AustraliaVsTelegram",
+          "ProTerrorMaterial"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T04:29:06.862488+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Celebridad",
+        "title": "Inside Jared Leto’s unsettling ‘cult’ on Mars Island years before actor’s sexual assault scandal - Page Six",
+        "candidate_tickers": [
+          "JaredLetoCult",
+          "CatherineOHaradeath"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T04:30:22.785460+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y Política",
+        "title": "Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology - theguardian.com",
+        "candidate_tickers": [
+          "xAI",
+          "nudificación",
+          "ElonMuskVsMinnesota"
+        ]
       }
     }
   ]
