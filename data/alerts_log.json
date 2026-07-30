@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-23T01:35:34.579095+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c8e3ab7e29bf",
-        "score": 80,
-        "category": "política",
-        "title": "Absolutely. This is a total lie.",
-        "candidate_tickers": [
-          "STARMER",
-          "RESIGN",
-          "UKPM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T01:36:07.883715+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "noticias de violencia y tragedias",
-        "title": "Multiculturalism is sold as neutral cultures peacefully coexisting side by side.",
-        "candidate_tickers": [
-          "violencia",
-          "tragedias",
-          "noticias"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-23T01:36:33.416490+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28254,6 +28225,31 @@
         "ticker": "Oscar",
         "mint": "74dRE9m75gKQzb9WVkNYBqNjUdkgfLzWyNxtvwUDpump",
         "mc": 42832.0
+      }
+    },
+    {
+      "ts": "2026-07-30T01:08:02.652562+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "610c55a50b18",
+        "score": 82,
+        "category": "política",
+        "title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
+        "candidate_tickers": [
+          "MODLEAK",
+          "AFGHANBREACH",
+          "DATABREACHUK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T01:13:23.057232+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 432340.0
       }
     }
   ]

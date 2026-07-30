@@ -1,55 +1,6 @@
 {
   "watches": [
     {
-      "id": "3069029a4bbc",
-      "fingerprint": "3069029a4bbc",
-      "narrative_summary": "Ucrania dispara 400 drones hacia Moscú mientras Zelenskyy lucha con protestas",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, lo que la hace memeable",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "DRONES",
-        "MOSCÚ",
-        "ZELENSKYY",
-        "PROTESTAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Drones",
-        "Moscú",
-        "Zelenskyy",
-        "Protestas"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-21T03:53:12.213155+00:00",
-      "expires_at": "2026-07-25T03:53:12.213155+00:00",
-      "duration_hours": 96,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 28,
-      "expired_at": "2026-07-25T04:35:53.058425+00:00"
-    },
-    {
       "id": "0ccdd75b442e",
       "fingerprint": "0ccdd75b442e",
       "narrative_summary": "Elon Musk promociona a Grok 4.5 como una herramienta eficiente y asequible para React.",
@@ -11598,7 +11549,52 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "610c55a50b18",
+      "fingerprint": "610c55a50b18",
+      "narrative_summary": "La MoD de Reino Unido sufrió un robo de datos en Afganistán que fue predecible, según una investigación.",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácilmente compartible.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MODLEAK",
+        "AFGHANBREACH",
+        "DATABREACHUK"
+      ],
+      "key_terms_for_dex_search": [
+        "MOD",
+        "Afganistán",
+        "robo de datos",
+        "injusticia"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-30T01:08:02.290076+00:00",
+      "expires_at": "2026-08-02T01:08:02.290076+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-29T23:52:30.462675+00:00"
+  "last_updated": "2026-07-30T01:08:02.290076+00:00"
 }
