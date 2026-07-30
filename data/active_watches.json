@@ -1,175 +1,6 @@
 {
   "watches": [
     {
-      "id": "ae872f695648",
-      "fingerprint": "ae872f695648",
-      "narrative_summary": "Un hombre ataca a turistas cerca del Acropolis en Atenas, Grecia",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'violencia', lo que la hace fácilmente compartible y recordable",
-      "category": "violencia y conflicto",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ACROPOLISATTACK",
-        "ATENASATACA",
-        "TURISTASATACADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Acropolis",
-        "Atenas",
-        "Grecia",
-        "violencia",
-        "turistas"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 9,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-21T09:20:03.998512+00:00",
-      "expires_at": "2026-07-24T09:20:03.998512+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Man stabs tourists near the Acropolis in Athens, Greece - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 24,
-      "expired_at": "2026-07-24T11:16:07.187880+00:00"
-    },
-    {
-      "id": "4dedfdd02ad6",
-      "fingerprint": "4dedfdd02ad6",
-      "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando gran interés y debate.",
-      "why_memeable": "La simplicidad y concisión de la publicación de Elon Musk hacen que sea altamente memeable.",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YESMUSK",
-        "MUSKYES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-21T09:20:18.576673+00:00",
-      "expires_at": "2026-07-23T09:20:18.576673+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 15,
-      "expired_at": "2026-07-23T12:06:03.106177+00:00"
-    },
-    {
-      "id": "c072a923f827",
-      "fingerprint": "c072a923f827",
-      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' que ha generado gran interés en la red social.",
-      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, lo que la hace muy memeable.",
-      "category": "meme de Elon Musk",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "IMAGINE",
-        "ELON MUSK"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-21T09:21:15.357138+00:00",
-      "expires_at": "2026-07-23T09:21:15.357138+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Official Elon Musk",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 93094.0,
-        "liquidity_usd": 26854.97,
-        "price_usd": 9.309e-05,
-        "volume_h24": 192403.99,
-        "volume_h1": 192403.99,
-        "volume_m5": 72176.75,
-        "price_change_5m": 45.57,
-        "price_change_1h": 100.0,
-        "price_change_24h": 100.0,
-        "txns_h1_buys": 2036,
-        "txns_h1_sells": 1411,
-        "created_ts": 1784676442000,
-        "pair_created_at": 1784676442000,
-        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Grok Imagine ❣️",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-21T23:41:18.818459+00:00"
-    },
-    {
       "id": "a44756f624ed",
       "fingerprint": "a44756f624ed",
       "narrative_summary": "Kash Patel, director del FBI, planea un viaje a Rusia, lo que genera preocupación y debate.",
@@ -9269,13 +9100,14 @@
       "started_at": "2026-07-28T09:15:14.442627+00:00",
       "expires_at": "2026-07-30T09:15:14.442627+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Where we are going there is no training data",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-30T10:02:47.092461+00:00"
     },
     {
       "id": "dac60670b6eb",
@@ -9382,13 +9214,14 @@
       "started_at": "2026-07-28T09:17:11.455367+00:00",
       "expires_at": "2026-07-30T09:17:11.455367+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "“Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-07-30T10:02:47.092474+00:00"
     },
     {
       "id": "908afaa9549d",
@@ -11523,7 +11356,142 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9355f7a62c1c",
+      "fingerprint": "9355f7a62c1c",
+      "narrative_summary": "Funcionarios de Nueva York procesan tarjetas EBT para comprar drogas y alcohol",
+      "why_memeable": "La historia tiene un componente de injusticia y corrupción que puede generar indignación y shock",
+      "category": "corrupción_gubernamental",
+      "matched_archetype": "injusticia_con_villano_y_victima",
+      "candidate_tickers": [
+        "EBTFRAUD",
+        "NYCCORRUPT",
+        "FOODSTAMPFRAUD"
+      ],
+      "key_terms_for_dex_search": [
+        "EBT",
+        "fraude",
+        "Nueva York",
+        "corrupción"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-30T10:02:48.496837+00:00",
+      "expires_at": "2026-08-02T10:02:48.496837+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Processing EBT Cards For Drug & Alcohol Purchases As “EBT Cash” & “EBT Food”",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "15d20fd924a4",
+      "fingerprint": "15d20fd924a4",
+      "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado, causando controversia.",
+      "why_memeable": "La narrativa cuenta con un personaje público (Fauci) que hace algo inusual (invocar la Quinta Enmienda) en un contexto controvertido (audiencia del Senado).",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCIINVOCA",
+        "QUINTAENMIENDA",
+        "FAUCICONTROVERSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "Quinta Enmienda",
+        "Senado",
+        "controversia"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-30T10:03:03.891559+00:00",
+      "expires_at": "2026-08-01T10:03:03.891559+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "47b027f9421c",
+      "fingerprint": "47b027f9421c",
+      "narrative_summary": "Elon Musk confirma la verdad de algo",
+      "why_memeable": "La simplicidad y la certeza de la afirmación de Elon Musk la hacen fácilmente memeable",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "TRUTH"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "TRUE",
+        "TECNOLOGIA"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-30T10:04:12.772924+00:00",
+      "expires_at": "2026-08-01T10:04:12.772924+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-30T07:21:33.341129+00:00"
+  "last_updated": "2026-07-30T10:04:12.772924+00:00"
 }

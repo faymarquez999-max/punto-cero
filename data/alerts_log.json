@@ -1,74 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-23T05:58:24.955778+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1cde0e90a3d4",
-        "score": 80,
-        "category": "Noticias de animales",
-        "title": "Bullying investigated after rare Philippines school shooting kills three",
-        "candidate_tickers": [
-          "#REFUGIODEANIMALES",
-          "#PERROSMUERTOS",
-          "#INJUSTICIAANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T05:59:12.610047+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1acf39ee1320",
-        "score": 89,
-        "category": "Crueldad animal",
-        "title": "Jay Man Convicted of Aggravated Animal Cruelty For Killing Kitten - NorthEscambia.com",
-        "candidate_tickers": [
-          "CRUELTYKITTEN",
-          "GATITOASESINADO",
-          "CRIMENANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T05:59:40.818865+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "ciberseguridad",
-        "title": "Five Eyes intelligence alliance warns of threats from new AI models",
-        "candidate_tickers": [
-          "FiveEyes",
-          "IA",
-          "Ciberseguridad"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T06:00:19.556967+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Política",
-        "title": "Asia shares slip as markets reprice Fed expectations, oil gains - Reuters",
-        "candidate_tickers": [
-          "Greenspan",
-          "Fed",
-          "BancoCentral"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T06:00:23.382933+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "32d3edc3109a",
-        "ticker": "GEORGE",
-        "mint": "4NmagwMczqFMpGKVJXYiZ6jFmBtedrtKd8f7HSzGbonk",
-        "mc": 96134.0
-      }
-    },
-    {
       "ts": "2026-06-23T06:00:24.830451+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28246,6 +28178,75 @@
         "ticker": "Fauci",
         "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
         "mc": 318820.0
+      }
+    },
+    {
+      "ts": "2026-07-30T10:02:49.066399+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9355f7a62c1c",
+        "score": 80,
+        "category": "corrupción_gubernamental",
+        "title": "FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Processing EBT Cards For Drug & Alcohol Purchases As “EBT Cash” & “EBT Food”",
+        "candidate_tickers": [
+          "EBTFRAUD",
+          "NYCCORRUPT",
+          "FOODSTAMPFRAUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T10:03:04.533118+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "15d20fd924a4",
+        "score": 88,
+        "category": "política",
+        "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
+        "candidate_tickers": [
+          "FAUCIINVOCA",
+          "QUINTAENMIENDA",
+          "FAUCICONTROVERSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T10:04:13.312070+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "47b027f9421c",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "TRUTH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T10:07:05.976789+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "crimen y justicia",
+        "title": "Bertie Co. Sheriff’s Office searching for breaking and entering suspect - KBTX News 3",
+        "candidate_tickers": [
+          "BertieCoSheriff",
+          "SospechosoDeRobo",
+          "SheriffDeBertie"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T10:08:07.714043+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 290962.0
       }
     }
   ]
