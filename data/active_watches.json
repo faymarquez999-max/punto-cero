@@ -1,266 +1,6 @@
 {
   "watches": [
     {
-      "id": "0ccdd75b442e",
-      "fingerprint": "0ccdd75b442e",
-      "narrative_summary": "Elon Musk promociona a Grok 4.5 como una herramienta eficiente y asequible para React.",
-      "why_memeable": "La narrativa es memeable debido a la repetición de la palabra 'Grok' y la promoción de Elon Musk.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "GROK4.5"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "GROK4.5",
-        "ELONMUSK",
-        "REACT"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-21T03:54:29.893234+00:00",
-      "expires_at": "2026-07-24T03:54:29.893234+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "𝕏",
-        "name": "ElonMuskRocketDogeInu42069",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 95184.0,
-        "liquidity_usd": 20796.56,
-        "price_usd": 9.518e-05,
-        "volume_h24": 1318498.3,
-        "volume_h1": 1199716.64,
-        "volume_m5": 84609.2,
-        "price_change_5m": -18.43,
-        "price_change_1h": 13.23,
-        "price_change_24h": 1218.0,
-        "txns_h1_buys": 3011,
-        "txns_h1_sells": 1779,
-        "created_ts": 1784825750000,
-        "pair_created_at": 1784825750000,
-        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
-        "safety_score": 30078,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Grok",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "matched_at": "2026-07-23T18:02:57.205083+00:00"
-    },
-    {
-      "id": "19f5c4b83369",
-      "fingerprint": "19f5c4b83369",
-      "narrative_summary": "Andy Burnham se convierte en el séptimo primer ministro británico en una década después de que Starmer renuncie",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácilmente compartible, con un tema de cambio de liderazgo político",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANDYBURNHAM",
-        "SÉPTIMOPM",
-        "RENUNCIASTARMER"
-      ],
-      "key_terms_for_dex_search": [
-        "AndyBurnham",
-        "SéptimoPM",
-        "RenunciaStarmer",
-        "política",
-        "ReinoUnido"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-21T06:37:24.779442+00:00",
-      "expires_at": "2026-07-24T06:37:24.779442+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "X is where all the real voices matter. You could never do this on Instagram.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 23,
-      "expired_at": "2026-07-24T11:16:07.187860+00:00"
-    },
-    {
-      "id": "4d732659dcdd",
-      "fingerprint": "4d732659dcdd",
-      "narrative_summary": "Múltiples perros encontrados muertos en vehículos en estacionamientos de ciudades de EE. UU.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto contenido visual.",
-      "category": "Noticias de animales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "PERROSMUERTOS",
-        "DOGSINCAR",
-        "ACCIDENTEANIMAL"
-      ],
-      "key_terms_for_dex_search": [
-        "perros",
-        "muertos",
-        "estacionamiento",
-        "EE.UU.",
-        "accidente"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 6
-      },
-      "started_at": "2026-07-21T06:39:14.178518+00:00",
-      "expires_at": "2026-07-24T06:39:14.178518+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "As many as 3 dogs found dead in car in downtown San Antonio parking lot, officials say - kens5.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 24,
-      "expired_at": "2026-07-24T11:16:07.187876+00:00"
-    },
-    {
-      "id": "4b3d25613f93",
-      "fingerprint": "4b3d25613f93",
-      "narrative_summary": "Elon Musk confirma la cancelación de Twitter con un simple 'sí'",
-      "why_memeable": "La simplicidad y la claridad de la respuesta de Elon Musk hacen que sea muy fácil de compartir y recordar.",
-      "category": "Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "TWITTER"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "twitter",
-        "cancelación"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 0,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-21T06:42:21.770100+00:00",
-      "expires_at": "2026-07-23T06:42:21.770100+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 278119.0,
-        "liquidity_usd": 92112.88,
-        "price_usd": 0.0002781,
-        "volume_h24": 19045.84,
-        "volume_h1": 444.22,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.09,
-        "price_change_24h": -9.14,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 3,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-21T09:24:05.262871+00:00"
-    },
-    {
       "id": "ae872f695648",
       "fingerprint": "ae872f695648",
       "narrative_summary": "Un hombre ataca a turistas cerca del Acropolis en Atenas, Grecia",
@@ -7638,14 +7378,15 @@
       "started_at": "2026-07-27T05:31:10.809444+00:00",
       "expires_at": "2026-07-30T05:31:10.809444+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Four men charged with murder after Leicester stabbing",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-07-30T07:17:57.723721+00:00"
     },
     {
       "id": "669412984eab",
@@ -9030,14 +8771,15 @@
       "started_at": "2026-07-28T06:18:45.575911+00:00",
       "expires_at": "2026-07-30T06:18:45.575911+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-30T07:17:57.723732+00:00"
     },
     {
       "id": "a0fe556505fd",
@@ -9077,14 +8819,15 @@
       "started_at": "2026-07-28T06:19:21.551650+00:00",
       "expires_at": "2026-07-30T06:19:21.551650+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-30T07:17:57.723736+00:00"
     },
     {
       "id": "5b41b75ccb28",
@@ -9189,13 +8932,14 @@
       "started_at": "2026-07-28T06:20:32.856263+00:00",
       "expires_at": "2026-07-30T06:20:32.856263+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "This is money",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-30T07:17:57.723740+00:00"
     },
     {
       "id": "cb42320b14b3",
@@ -11594,7 +11338,192 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f42f4fca554e",
+      "fingerprint": "f42f4fca554e",
+      "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado, generando controversia.",
+      "why_memeable": "La narrativa tiene un núcleo claro (Fauci y la Quinta Enmienda) y un contexto emocional (controversia y polémica).",
+      "category": "Política y Controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCI",
+        "QUINTAENMIENDA",
+        "SENADO",
+        "CONTROVERSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "QuintaEnmienda",
+        "Senado",
+        "Controversia",
+        "COVID-19"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-30T07:20:01.679950+00:00",
+      "expires_at": "2026-08-01T07:20:01.679950+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6c6e6100ec50",
+      "fingerprint": "6c6e6100ec50",
+      "narrative_summary": "Un terremoto en Japón daña un centro comercial Aeon, provocando un rescate en tiempo récord.",
+      "why_memeable": "La imagen de un centro comercial dañado por un terremoto es icónica y se puede capturar en una frase corta.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AEONMALL",
+        "TERREMOTOJAPÓN",
+        "RESCATEENTIEMPORÉCORD"
+      ],
+      "key_terms_for_dex_search": [
+        "Terremoto",
+        "Japón",
+        "AeonMall",
+        "Rescate"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-30T07:20:32.121490+00:00",
+      "expires_at": "2026-08-02T07:20:32.121490+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2b157e1b6a2c",
+      "fingerprint": "2b157e1b6a2c",
+      "narrative_summary": "El DOJ utiliza un tribunal inusual para deportar a la madre de un simpatizante convicto de ISIS.",
+      "why_memeable": "La narrativa tiene un núcleo claro y un título impactante que puede ser capturado en una frase.",
+      "category": "actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISIS_MOTHER",
+        "ALIEN_TERRORIST",
+        "DOJ_DEPORT"
+      ],
+      "key_terms_for_dex_search": [
+        "ISIS",
+        "DOJ",
+        "deport",
+        "alien",
+        "terrorist"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-30T07:21:00.576547+00:00",
+      "expires_at": "2026-08-02T07:21:00.576547+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5cb6644aa742",
+      "fingerprint": "5cb6644aa742",
+      "narrative_summary": "Spider-Man: Brand New Day busca hacer historia en la taquilla con su apertura espectacular",
+      "why_memeable": "La narrativa tiene un título memorable y un contexto visual con la presentación mundial del film",
+      "category": "entretenimiento",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "SPIDERMANBNDB",
+        "BNDB",
+        "SPIDERMANBRANDNEWDAY"
+      ],
+      "key_terms_for_dex_search": [
+        "Spider-Man",
+        "Brand New Day",
+        "taquilla",
+        "premiera",
+        "Zendaya",
+        "Tom Holland"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 8,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-07-30T07:21:33.341129+00:00",
+      "expires_at": "2026-08-01T07:21:33.341129+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘Spider-Man: Brand New Day’ Aims to Make Box Office History as It Targets High-Flying Opening - The Hollywood Reporter",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-30T01:08:02.290076+00:00"
+  "last_updated": "2026-07-30T07:21:33.341129+00:00"
 }
