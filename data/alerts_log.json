@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-23T21:23:35.352676+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f4b75815e482",
-        "score": 79,
-        "category": "noticias de tecnología y economía",
-        "title": "ISRAEL TO CONSIDER US IPO FOR DEFENSE GIANTS IAI AND RAFAEL",
-        "candidate_tickers": [
-          "IAI",
-          "RAFAEL",
-          "IPO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T21:26:48.696557+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump administration tried to force journalists to testify before federal grand jury in leak probe - NBC News",
-        "candidate_tickers": [
-          "TRUMPvsJOURNALISTAS",
-          "FORZAJOURNALISTAS",
-          "GobiernoDeTrump"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T21:27:25.430897+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "50ab596415ed",
-        "score": 88,
-        "category": "Crímenes",
-        "title": "Teen boy arrested on suspicion of murder after 14-year-old girl reported missing",
-        "candidate_tickers": [
-          "#ASESINATO",
-          "#ADOLESCENTEARRESTADO",
-          "#NIÑADESAPARECIDA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T21:28:01.984466+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ae145a65a40c",
-        "score": 73,
-        "category": "política internacional",
-        "title": "EU hosts Taliban officials for the first time in talks on deportations",
-        "candidate_tickers": [
-          "TALIBÁNEU",
-          "DEPORTACIONESEU",
-          "TALIBÁNENBRUSELAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T22:51:02.835340+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f2b9fdcaf3f2",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped.",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPBILL",
-          "ELONVSTRUMP",
-          "MUSKTAX",
-          "TRUMPMUSKFEUD"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-23T22:51:56.726877+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28288,6 +28212,84 @@
           "EBAYROACHES",
           "ROACHGATE",
           "EBAYSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T22:16:19.640190+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "543e80b64541",
+        "score": 89,
+        "category": "inmigración",
+        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+        "candidate_tickers": [
+          "CEUTA",
+          "MIGRANTES",
+          "INMIGRACIÓN",
+          "ÁFRICA",
+          "GOBIERNO ESPAÑOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T22:17:33.271043+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e200af975781",
+        "score": 89,
+        "category": "conflicto internacional",
+        "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News",
+        "candidate_tickers": [
+          "USVSIRAN",
+          "MISILESIRAN",
+          "CONFLICTO5MESES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T22:18:56.398111+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "64b5dd2d76d8",
+        "score": 88,
+        "category": "Deportes",
+        "title": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads - AP News",
+        "candidate_tickers": [
+          "FIFA",
+          "UEFA",
+          "GIANNI INFANTINO",
+          "BOICOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T22:19:26.123616+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b2a4f39c7086",
+        "score": 91,
+        "category": "Política/Seguridad",
+        "title": "Security camera shows ‘Russian missile’ exploding in Poland",
+        "candidate_tickers": [
+          "POLONIA",
+          "MISILRUSO",
+          "OTAN",
+          "POLONIARUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-30T22:19:58.328149+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "salud pública",
+        "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health - NPR",
+        "candidate_tickers": [
+          "Fauci",
+          "Efecto de enfriamiento",
+          "Salud pública"
         ]
       }
     }
