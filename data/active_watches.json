@@ -1,224 +1,6 @@
 {
   "watches": [
     {
-      "id": "4acf1d4ef07e",
-      "fingerprint": "4acf1d4ef07e",
-      "narrative_summary": "OpenAI se culpa de un incidente de hacking que expuso riesgos en la carrera de IA.",
-      "why_memeable": "La narrativa es memeable porque involucra a una figura de la tecnología (OpenAI) y un incidente de hacking que expuso riesgos en la carrera de IA.",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "OPENAI",
-        "IA",
-        "HACKING"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "IA",
-        "Hacking",
-        "Riesgos"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T05:01:05.902215+00:00",
-      "expires_at": "2026-07-26T05:01:05.902215+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OAI",
-        "name": "OpenAI",
-        "mint": "AYaooRNnetfAwh4Njmvbo1Ns1M1Go21zUgY9NMeVaz7R",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 163714.0,
-        "liquidity_usd": 234316.49,
-        "price_usd": 0.0001637,
-        "volume_h24": 46944978.47,
-        "volume_h1": 19072862.56,
-        "volume_m5": 752660.14,
-        "price_change_5m": 1.82,
-        "price_change_1h": 35.9,
-        "price_change_24h": 1338.0,
-        "txns_h1_buys": 12183,
-        "txns_h1_sells": 12187,
-        "created_ts": 1784868540000,
-        "pair_created_at": 1784868540000,
-        "url": "https://dexscreener.com/solana/drv9gyhsetfql5ptzgcw98zkq1vnocse3hpjrt27v7eq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "matched_at": "2026-07-24T06:38:29.802930+00:00"
-    },
-    {
-      "id": "064ebdf33674",
-      "fingerprint": "064ebdf33674",
-      "narrative_summary": "140 animales salvajes cautivos escaparon en Florida en 3 años, incluyendo un rinoceronte y canguros.",
-      "why_memeable": "La narrativa es fácil de entender y tiene un núcleo claro: animales salvajes escapando en Florida.",
-      "category": "animal",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RINOCERONTE",
-        "CANGURO",
-        "FLORIDA",
-        "ESCAPADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "rinoceronte",
-        "canguro",
-        "Florida",
-        "escapados"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T07:39:50.616477+00:00",
-      "expires_at": "2026-07-25T07:39:50.616477+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Cool",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 16,
-      "expired_at": "2026-07-25T09:16:06.586275+00:00"
-    },
-    {
-      "id": "3c951ba89491",
-      "fingerprint": "3c951ba89491",
-      "narrative_summary": "El ministro de Defensa de Ucrania es despedido y se produce una transformación repentina en el ejército.",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso que permite capturar la esencia del evento.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "EJÉRCITO",
-        "MINISTRO DE DEFENSA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Ejército",
-        "Ministro de Defensa",
-        "Despedido"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T07:40:25.698689+00:00",
-      "expires_at": "2026-07-25T07:40:25.698689+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 16,
-      "expired_at": "2026-07-25T09:16:06.586290+00:00"
-    },
-    {
-      "id": "019806b6c67f",
-      "fingerprint": "019806b6c67f",
-      "narrative_summary": "El presidente Trump comparte un enlace en xcancel.com con un alto nivel de engagement",
-      "why_memeable": "La narrativa es memeable porque es un enlace compartido por un figura pública polarizante con un alto nivel de engagement",
-      "category": "política",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMP",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "XCANCEL",
-        "POLÍTICA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T07:42:21.021059+00:00",
-      "expires_at": "2026-07-25T07:42:21.021059+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 16,
-      "expired_at": "2026-07-25T09:16:06.586294+00:00"
-    },
-    {
       "id": "d27ec4eec27b",
       "fingerprint": "d27ec4eec27b",
       "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas, generando gran interés en las redes.",
@@ -9589,14 +9371,15 @@
       "started_at": "2026-07-29T23:47:53.325331+00:00",
       "expires_at": "2026-07-31T23:47:53.325331+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Salman Rushdie attacker convicted of terror offenses",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-07-31T23:49:02.331841+00:00"
     },
     {
       "id": "610c55a50b18",
@@ -11075,7 +10858,181 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "5d63a45a5a2c",
+      "fingerprint": "5d63a45a5a2c",
+      "narrative_summary": "Elon Musk comparte un título 'Troubling' que ha generado una gran cantidad de interacción en la red social",
+      "why_memeable": "El título 'Troubling' es corto y se puede capturar fácilmente, lo que lo hace memeable",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TROUBLING",
+        "ELONTROUBLING"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Troubling",
+        "Tecnología"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-07-31T23:49:43.078975+00:00",
+      "expires_at": "2026-08-02T23:49:43.078975+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Troubling",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b27f39e43d1f",
+      "fingerprint": "b27f39e43d1f",
+      "narrative_summary": "Nigeria tuvo 4 millones de nacimientos más que toda la UE el año pasado",
+      "why_memeable": "La frase es corta y fácil de recordar, y el número de nacimientos es impactante",
+      "category": "Demografía",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "NIGERIA",
+        "EU",
+        "BIRTHS"
+      ],
+      "key_terms_for_dex_search": [
+        "nigeria",
+        "nacimientos",
+        "eu",
+        "demografia"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-07-31T23:49:56.762853+00:00",
+      "expires_at": "2026-08-02T23:49:56.762853+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Nigeria alone had 4 million more births than the entire EU last year! grok.com/share/bGVnYWN5_55b9…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2db882761c2e",
+      "fingerprint": "2db882761c2e",
+      "narrative_summary": "El top 0.1% pagó $440 mil millones en impuestos federales, mientras que el 80% más bajo pagó $350 mil millones.",
+      "why_memeable": "La narrativa es memeable porque compara el pago de impuestos de los ricos con el de los pobres, lo que genera una sensación de injusticia.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAXBILLIONAIRES",
+        "RICVSPOOR"
+      ],
+      "key_terms_for_dex_search": [
+        "impuestos",
+        "riqueza",
+        "desigualdad"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-31T23:51:33.150782+00:00",
+      "expires_at": "2026-08-03T23:51:33.150782+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The top 0.1% paid $440 billion in federal income taxes.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "854271cd8187",
+      "fingerprint": "854271cd8187",
+      "narrative_summary": "U.S. y Israel preparan un ataque a objetivos energéticos en Irán",
+      "why_memeable": "La narrativa tiene un claro núcleo de acción y conflicto entre dos países",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "ISRAEL",
+        "BOMBARD",
+        "CBS"
+      ],
+      "key_terms_for_dex_search": [
+        "iran",
+        "israel",
+        "ataque",
+        "energético",
+        "cbs"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T23:52:08.656071+00:00",
+      "expires_at": "2026-08-02T23:52:08.656071+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. AND ISRAEL ARE PREPARING TO BOMBARD ENERGY-RELATED TARGETS IN IRAN AS SOON AS THIS WEEKEND - CBS NEWS",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-31T22:41:11.729668+00:00"
+  "last_updated": "2026-07-31T23:52:08.656071+00:00"
 }

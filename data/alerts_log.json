@@ -1,97 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T23:17:38.953678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "65be13669058",
-        "score": 73,
-        "category": "Deportes",
-        "title": "Ronaldinho makes surprise return to football at 46",
-        "candidate_tickers": [
-          "RONALDINHO",
-          "FUTBOL46",
-          "RETIRADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T23:18:11.829538+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "65ad743bc3e8",
-        "score": 88,
-        "category": "fútbol",
-        "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
-        "candidate_tickers": [
-          "MADIBO",
-          "KONE",
-          "QATAR",
-          "CANADA",
-          "FIFA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T23:19:45.969375+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e18c4429e234",
-        "score": 84,
-        "category": "política",
-        "title": "US appeals court rejects Trump bid to force Michigan to hand over voter rolls - Reuters",
-        "candidate_tickers": [
-          "TRUMPVSVOTO",
-          "TRUMPVSMICHIGAN",
-          "VOTOVSTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T01:31:58.270297+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5dd0e66bc9f7",
-        "score": 91,
-        "category": "Desastres naturales",
-        "title": "Venezuela rocked by powerful back-to-back earthquakes - The Guardian",
-        "candidate_tickers": [
-          "#TERREMOTOSDEVENEZUELA",
-          "#CARACASDERRIBA",
-          "#DESASTRENATURAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T01:32:31.849388+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6a5ea7d0cb7b",
-        "score": 78,
-        "category": "desastres naturales",
-        "title": "Watch: Moment quake shakes Venezuela, causing widespread damage and evacuations",
-        "candidate_tickers": [
-          "TERREMOTO",
-          "VENEZUELA",
-          "SACUDIDO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T01:33:39.845091+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b1dbe1a2bbd0",
-        "score": 82,
-        "category": "Tecnología y redes sociales",
-        "title": "Try Grok",
-        "candidate_tickers": [
-          "TRY",
-          "GROK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-25T01:33:58.733339+00:00",
       "kind": "shadow",
       "payload": {
@@ -28291,6 +28200,93 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 214851.0
+      }
+    },
+    {
+      "ts": "2026-07-31T23:49:16.609795+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "This is essentially true.",
+        "candidate_tickers": [
+          "HAMAS",
+          "TRUMP",
+          "Gaza"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T23:49:30.241833+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Internacional",
+        "title": "Wow, the situation in Spain looks crazy!",
+        "candidate_tickers": [
+          "SPAINLOCO",
+          "LOCOESPANA",
+          "ESPAÑA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T23:49:43.518692+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5d63a45a5a2c",
+        "score": 84,
+        "category": "Tecnología",
+        "title": "Troubling",
+        "candidate_tickers": [
+          "TROUBLING",
+          "ELONTROUBLING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T23:49:57.204009+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b27f39e43d1f",
+        "score": 83,
+        "category": "Demografía",
+        "title": "Nigeria alone had 4 million more births than the entire EU last year! grok.com/share/bGVnYWN5_55b9…",
+        "candidate_tickers": [
+          "NIGERIA",
+          "EU",
+          "BIRTHS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T23:51:33.606343+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2db882761c2e",
+        "score": 84,
+        "category": "política",
+        "title": "The top 0.1% paid $440 billion in federal income taxes.",
+        "candidate_tickers": [
+          "TAXBILLIONAIRES",
+          "RICVSPOOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T23:52:09.081442+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "854271cd8187",
+        "score": 70,
+        "category": "política internacional",
+        "title": "U.S. AND ISRAEL ARE PREPARING TO BOMBARD ENERGY-RELATED TARGETS IN IRAN AS SOON AS THIS WEEKEND - CBS NEWS",
+        "candidate_tickers": [
+          "IRAN",
+          "ISRAEL",
+          "BOMBARD",
+          "CBS"
+        ]
       }
     }
   ]
