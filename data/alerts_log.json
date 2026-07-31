@@ -1,59 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-23T22:53:58.568350+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f8282680a107",
-        "score": 80,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-23T22:56:20.230064+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9d2b979c6663",
-        "ticker": "CaliFraud",
-        "mint": "39wKUzueHdG2nHGGk7rAPNuFkwTVLr4xqECjF1uopump",
-        "mc": 12616.0
-      }
-    },
-    {
-      "ts": "2026-06-24T00:08:05.514294+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política",
-        "title": "Última hora: Después de 30 dias de detención lxs compas secuestrados en Libia están en proceso de ser liberados - Kaos en la red",
-        "candidate_tickers": [
-          "CompasLiberados",
-          "LibiaSecuestro"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T00:09:49.783692+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a483e1295f8b",
-        "score": 72,
-        "category": "Tecnología y transporte",
-        "title": "First Southwest Airlines flight with Starlink!",
-        "candidate_tickers": [
-          "STARLINK",
-          "SOUTHWESTAIR",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T00:10:32.186947+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28291,6 +28238,67 @@
           "EBAY_ROACHES",
           "EBAY_PIG_GATE",
           "EBAY_LAWSUIT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T01:11:22.536553+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e3d97d5f5e5b",
+        "score": 88,
+        "category": "Política/Mundo",
+        "title": "Middle East crisis live: Trump claims breakthrough reached in Gaza disarmament; Hamas reportedly confirms deal - The Guardian",
+        "candidate_tickers": [
+          "TRUMP_GAZA",
+          "GAZA_DESARME",
+          "TRUMP_HAMAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T01:12:31.193436+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "953a407c7fc1",
+        "score": 70,
+        "category": "actualidad política",
+        "title": "Trump administration appeals to never-before-used court for deportation",
+        "candidate_tickers": [
+          "TRUMPDEPORTA",
+          "TRIBUNALINÉDITO",
+          "INMIGRANTEDEPORTADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T01:14:14.754524+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "794a8f924418",
+        "score": 90,
+        "category": "Deportes",
+        "title": "UEFA no sólo pone freno a Infantino sino que impediría su reelección - ESPN Deportes",
+        "candidate_tickers": [
+          "FIFA",
+          "UEFA",
+          "WORLDCUP",
+          "INFANTINO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T01:15:22.684806+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c41a5fe40d3f",
+        "score": 89,
+        "category": "noticias",
+        "title": "Father of Georgia school shooter sentenced to 15 years in prison - Reuters",
+        "candidate_tickers": [
+          "GEORGIA_SHOOTER",
+          "PAPA_DEL_ASESINO",
+          "CONDENADO"
         ]
       }
     }
