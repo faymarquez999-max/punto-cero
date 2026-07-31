@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T20:19:28.206406+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6cd99efda969",
-        "score": 70,
-        "category": "negocios",
-        "title": "Pfizer dismissed from US states' drug price-fixing lawsuit - Reuters",
-        "candidate_tickers": [
-          "PFIZER",
-          "FIJACIÓN DE PRECIOS",
-          "DEMANDAS DE LOS ESTADOS DE EE. UU."
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T20:20:08.743708+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Muertes inesperadas de figuras públicas",
-        "title": "Train passed red signal before fatal crash, says report",
-        "candidate_tickers": [
-          "OHARA",
-          "BUSCH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T20:21:12.537990+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a5ac1c55c5e0",
-        "score": 89,
-        "category": "Política",
-        "title": "Marjorie Taylor Greene joins Tucker Carlson in breaking with Republican party - The Guardian",
-        "candidate_tickers": [
-          "GREENEBREAKS",
-          "TAYLORGREENE",
-          "TUCKERCARLSON",
-          "REPUBLICANPARTY"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T21:52:36.045831+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28315,6 +28271,52 @@
           "OSO_FREMONT",
           "OSO_BLACK",
           "FREMONTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T20:12:35.104060+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5ab0a150e5dc",
+        "score": 74,
+        "category": "política y celebridades",
+        "title": "This is extremely important to understand.",
+        "candidate_tickers": [
+          "TRUMPVS",
+          "MUSKVSTUMP",
+          "TRUMPVSMUSK",
+          "MUSKVSTUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T20:13:09.025044+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Medio ambiente",
+        "title": "A new Colorado River plan requires water cuts for three states. Deeper cuts are still possible. - The Washington Post",
+        "candidate_tickers": [
+          "ColoradoRiver",
+          "AguaCortes",
+          "RíoColorado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T20:17:33.794179+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8f6e2d9d6e74",
+        "score": 80,
+        "category": "migración, fronteras, Ceuta",
+        "title": "What triggered the mass migrant crossings into Ceuta?",
+        "candidate_tickers": [
+          "CEUTA",
+          "MARRUECOS",
+          "FRONTERAS",
+          "MIGRACIÓN"
         ]
       }
     }
