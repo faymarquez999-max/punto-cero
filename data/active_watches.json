@@ -1,155 +1,6 @@
 {
   "watches": [
     {
-      "id": "9761337d37af",
-      "fingerprint": "9761337d37af",
-      "narrative_summary": "Elon Musk responde con un simple 'sí' a una pregunta",
-      "why_memeable": "La respuesta breve y directa de Elon Musk es fácilmente compartible y repetible",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "yes"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 3,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 1,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-21T15:16:27.438618+00:00",
-      "expires_at": "2026-07-23T15:16:27.438618+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 273156.0,
-        "liquidity_usd": 91135.78,
-        "price_usd": 0.0002732,
-        "volume_h24": 20939.13,
-        "volume_h1": 833.24,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.15,
-        "price_change_24h": -12.86,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 5,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-21T15:17:42.122424+00:00"
-    },
-    {
-      "id": "3a1fa77e216f",
-      "fingerprint": "3a1fa77e216f",
-      "narrative_summary": "Elon Musk compartió un meme llamado 'Grok Imagine' que ha generado mucha atención en las redes sociales.",
-      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, y el hecho de que la compartió Elon Musk la hace más viral.",
-      "category": "meme compartido por una figura influyente",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "IMAGINE",
-        "ELON MUSK"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-21T20:01:09.756840+00:00",
-      "expires_at": "2026-07-23T20:01:09.756840+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Official Elon Musk",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 93094.0,
-        "liquidity_usd": 26854.97,
-        "price_usd": 9.309e-05,
-        "volume_h24": 192403.99,
-        "volume_h1": 192403.99,
-        "volume_m5": 72176.75,
-        "price_change_5m": 45.57,
-        "price_change_1h": 100.0,
-        "price_change_24h": 100.0,
-        "txns_h1_buys": 2036,
-        "txns_h1_sells": 1411,
-        "created_ts": 1784676442000,
-        "pair_created_at": 1784676442000,
-        "url": "https://dexscreener.com/solana/6ujdvrywwepz4miatq5jjhihecxgq1qpe16nfebskjov",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in OFFICIAL ELON MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Grok Imagine ❣️",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-21T23:41:25.008821+00:00"
-    },
-    {
       "id": "a52757254546",
       "fingerprint": "a52757254546",
       "narrative_summary": "OpenAI Models se escaparon de la contención y hackearon a Hugging Face",
@@ -7449,14 +7300,15 @@
       "started_at": "2026-07-27T17:28:48.903255+00:00",
       "expires_at": "2026-07-30T17:28:48.903255+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab - Bloomberg",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-07-31T04:46:26.667314+00:00"
     },
     {
       "id": "888ecc307a9c",
@@ -7728,14 +7580,15 @@
       "started_at": "2026-07-27T20:44:48.058348+00:00",
       "expires_at": "2026-07-30T20:44:48.058348+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Carly Simon reveals Parkinson's diagnosis",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-31T04:46:26.667328+00:00"
     },
     {
       "id": "f89a370a5c9f",
@@ -8037,7 +7890,7 @@
       "started_at": "2026-07-28T00:15:43.328147+00:00",
       "expires_at": "2026-07-31T00:15:43.328147+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people.",
       "cluster_sources": [
@@ -8046,7 +7899,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-07-31T04:46:26.667332+00:00"
     },
     {
       "id": "b3e499f0c58c",
@@ -9151,14 +9005,15 @@
       "started_at": "2026-07-28T17:13:56.995088+00:00",
       "expires_at": "2026-07-30T17:13:56.995088+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FIFA mulls stake sale through new $20 billion entity, UEFA not happy - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-31T04:46:26.667336+00:00"
     },
     {
       "id": "2eeadd13b268",
@@ -9334,13 +9189,14 @@
       "started_at": "2026-07-28T18:54:05.415039+00:00",
       "expires_at": "2026-07-30T18:54:05.415039+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Humans for scale",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-07-31T04:46:26.667339+00:00"
     },
     {
       "id": "fa51f76c35eb",
@@ -9499,14 +9355,15 @@
       "started_at": "2026-07-28T23:46:54.109381+00:00",
       "expires_at": "2026-07-30T23:46:54.109381+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump administration to end Medicare premium subsidy program - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-07-31T04:46:26.667342+00:00"
     },
     {
       "id": "28811f20ba18",
@@ -9544,14 +9401,15 @@
       "started_at": "2026-07-29T04:38:51.209194+00:00",
       "expires_at": "2026-07-31T04:38:51.209194+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Live updates: At least 13 people killed in Japan earthquake, prime minister says - CNN",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-07-31T04:46:26.667344+00:00"
     },
     {
       "id": "4c540c1c923a",
@@ -9590,14 +9448,15 @@
       "started_at": "2026-07-29T04:41:54.608090+00:00",
       "expires_at": "2026-07-31T04:41:54.608090+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-07-31T04:46:26.667348+00:00"
     },
     {
       "id": "a2de9dbf4f1c",
@@ -11423,7 +11282,101 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e7c0fe373800",
+      "fingerprint": "e7c0fe373800",
+      "narrative_summary": "Anthropic afirma que su IA Claude hackeó tres organizaciones durante pruebas cibernéticas.",
+      "why_memeable": "La noticia combina la novedad de la IA con la preocupación por la seguridad cibernética, lo que puede generar interés y debate.",
+      "category": "Tecnología y seguridad cibernética",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "CLAUDE",
+        "HACKAI",
+        "CYBERTEST",
+        "ANTHROPIC",
+        "AIBREACH"
+      ],
+      "key_terms_for_dex_search": [
+        "IA",
+        "seguridad cibernética",
+        "hackeo",
+        "pruebas cibernéticas",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-31T04:46:57.893513+00:00",
+      "expires_at": "2026-08-03T04:46:57.893513+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "89f6f5cc1636",
+      "fingerprint": "89f6f5cc1636",
+      "narrative_summary": "Mandela Barnes, candidato demócrata a gobernador de Wisconsin, anuncia su retirada de la carrera.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'caída del candidato' y una frase fácil de recordar.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BARNESOUT",
+        "WISCONSINDROPS",
+        "MANDELABARNES"
+      ],
+      "key_terms_for_dex_search": [
+        "Mandela Barnes",
+        "Wisconsin",
+        "gubernatorial election",
+        "demócrata"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-31T04:50:11.206315+00:00",
+      "expires_at": "2026-08-02T04:50:11.206315+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mandela Barnes ends Democratic campaign for Wisconsin governor - Milwaukee Journal Sentinel",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-30T16:14:15.566340+00:00"
+  "last_updated": "2026-07-31T04:50:11.206315+00:00"
 }
