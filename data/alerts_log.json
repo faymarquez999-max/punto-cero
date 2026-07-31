@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T21:52:36.045831+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3b78e89b6f95",
-        "score": 80,
-        "category": "política",
-        "title": "Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post",
-        "candidate_tickers": [
-          "ADAMS",
-          "SOBORNO",
-          "NYC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T21:53:48.753530+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Accidentes de vehículos autónomos",
-        "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
-        "candidate_tickers": [
-          "TeslaCrash",
-          "AutopilotAccident",
-          "TeslaLawsuit"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T21:54:24.864221+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e2a785f0aa11",
-        "score": 70,
-        "category": "política",
-        "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-        "candidate_tickers": [
-          "MAMDANIWINS",
-          "CAMPPROISRAEL",
-          "PALESTINEEARTHQUAKE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T21:54:57.583361+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6c514621e24f",
-        "score": 80,
-        "category": "política",
-        "title": "Resultados elecciones Colombia 2026, en vivo | Delcy Rodríguez reconoce el triunfo de Abelardo de la Espriella: “Felicito al gobierno electo de Colombia” - EL PAÍS",
-        "candidate_tickers": [
-          "CEPEDA",
-          "ESPRIELLA",
-          "COLOMBIA2026",
-          "ELECCIONESCOLOMBIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T21:55:41.565423+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e62b0e5ca865",
-        "score": 70,
-        "category": "negocios",
-        "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian",
-        "candidate_tickers": [
-          "MUSKFALLS",
-          "TRILLONARIOCAÍDO",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T21:56:10.998734+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28318,6 +28243,78 @@
           "FRONTERAS",
           "MIGRACIÓN"
         ]
+      }
+    },
+    {
+      "ts": "2026-07-31T21:32:26.765924+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Noticias y rumores",
+        "title": "You will be alerted via 𝕏 messaging if there is something you interacted with and perhaps thought was true later turned out to be untrue or incompletely true",
+        "candidate_tickers": [
+          "TRUMPVS",
+          "MUSKVSTRUMP",
+          "CORTNEYCLENNY",
+          "ELONMUSKVSTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T21:33:04.308830+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ddbe83b75d2",
+        "score": 88,
+        "category": "política",
+        "title": "- ITALY SUSPENDS EU'S SCHENGEN FREE-TRAVEL REGIME WITH SPAIN AFTER CEUTA MIGRANT CRISIS - STATEMENT",
+        "candidate_tickers": [
+          "CEUTA",
+          "ITALIA",
+          "UE",
+          "SCHENGEN",
+          "MIGRACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T21:35:16.022788+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Accidentes y tragedias",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
+        "candidate_tickers": [
+          "AvalanchaPakistán",
+          "EscaladorUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T21:36:32.443559+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "11b8bca82739",
+        "score": 70,
+        "category": "política",
+        "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+        "candidate_tickers": [
+          "HAMAS",
+          "GAZA",
+          "ISRAEL",
+          "DESARME",
+          "RETIRADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T21:37:28.836163+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "665870708b1f",
+        "ticker": "OPENAI",
+        "mint": "9JkDVx5b6eoVucU4WXZb64Da7Boc2GsjtSTQxDUtHdT1",
+        "mc": 120098.0
       }
     }
   ]
