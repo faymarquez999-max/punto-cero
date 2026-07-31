@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T16:06:50.176254+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cac907b07f41",
-        "score": 91,
-        "category": "Noticias de tecnología y política",
-        "title": "\"Democracy\" is when the people vote for Brexit because they want less immigration, but they get exponentially more immigration as punishment.",
-        "candidate_tickers": [
-          "MUSK",
-          "TWITTER",
-          "ELON",
-          "SCAM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T16:08:05.702487+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "accidentes de tren",
-        "title": "Train passed red signal before fatal crash, says report",
-        "candidate_tickers": [
-          "TrainCrash",
-          "TrenRojo",
-          "AccidenteFATAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T16:08:26.965203+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL",
-          "SONDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T16:08:48.225027+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "da8816a0a659",
-        "score": 92,
-        "category": "Tecnología y redes sociales",
-        "title": "I warned you but you scoffed. You will regret your Suicidal Empathy.",
-        "candidate_tickers": [
-          "SUICIDALEMPATHY",
-          "EMPATHIASUICIDA",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T16:10:48.712330+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28308,6 +28249,65 @@
           "PETROL",
           "IRANWAR",
           "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T15:08:30.694497+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9521fd1e665e",
+        "score": 79,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "MAJE",
+          "TRUECRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T15:09:45.302972+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Deportes",
+        "title": "FIFA adviser on White House's World Cup panel resigns to protest Infantino private equity plan - AP News",
+        "candidate_tickers": [
+          "FIFA",
+          "Infantino",
+          "Mundial",
+          "Boicot"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T15:10:21.622051+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "483d469cc536",
+        "score": 70,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "MEME2026",
+          "RIP2026",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T15:11:04.981517+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d93f7e0b75a4",
+        "score": 80,
+        "category": "maltrato animal",
+        "title": "BCSO: Man accused of beating French bulldog, burying him in yard - MySA",
+        "candidate_tickers": [
+          "BULLDOGFRANCÉS",
+          "MALTRATOANIMAL",
+          "PATIOTRASERO"
         ]
       }
     }
