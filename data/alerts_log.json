@@ -1,61 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T18:18:43.915867+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Kennedy scion Jack Schlossberg loses to Micah Lasher in crowded New York City congressional primary - AP News",
-        "candidate_tickers": [
-          "Kennedy",
-          "Schlossberg",
-          "Lasher"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T18:19:06.664993+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y redes sociales",
-        "title": "Try Grok",
-        "candidate_tickers": [
-          "GROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T20:18:12.167837+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f1225f704e30",
-        "score": 78,
-        "category": "política",
-        "title": "Resultados elecciones Colombia 2026, en vivo | Delcy Rodríguez reconoce el triunfo de Abelardo de la Espriella: “Felicito al gobierno electo de Colombia” - EL PAÍS",
-        "candidate_tickers": [
-          "COLOMBIA2026",
-          "DELAESPRIELLA",
-          "DELCYRODRIGUEZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T20:18:48.389149+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say - Reuters",
-        "candidate_tickers": [
-          "TURKEY",
-          "NATO",
-          "MOTORES_DE_AVIÓN"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T20:19:28.206406+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28310,6 +28255,66 @@
           "CLAUDEHACKED",
           "ANTHROPICHACK",
           "AIHACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T18:43:50.738049+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "*TRUMP SAYS IRAN LIED DURING NEGOTIATIONS",
+        "candidate_tickers": [
+          "MUSKvsIRAN",
+          "MUSKvsTRUMP",
+          "MUSKvsWORLD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T18:44:18.884466+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "410024ca7c27",
+        "score": 80,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "MAJE",
+          "PATRAIX",
+          "TRUECRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T18:45:37.394887+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a22abf9c4605",
+        "score": 80,
+        "category": "política",
+        "title": "Italia suspende Schengen con España por crisis en Ceuta - dw.com",
+        "candidate_tickers": [
+          "CEUTA",
+          "SCHENGEN",
+          "ITALIA",
+          "ESPAÑA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T18:46:21.031388+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "04cf4e4bfc16",
+        "score": 89,
+        "category": "animal_involucrado",
+        "title": "Black bear breaking into homes in Fremont County prompts public safety alert - East Idaho News",
+        "candidate_tickers": [
+          "OSO_FREMONT",
+          "OSO_BLACK",
+          "FREMONTO"
         ]
       }
     }
