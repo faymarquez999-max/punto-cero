@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "a9571c488a6b",
-      "fingerprint": "a9571c488a6b",
-      "narrative_summary": "French lawmakers aprobó una amplia prohibición de redes sociales para niños menores de 15 años, mientras que Elon Musk amenaza con desafiar a los miembros del Congreso que voten por el proyecto de ley de Trump.",
-      "why_memeable": "El núcleo de la narrativa es la prohibición de redes sociales para niños menores de 15 años, lo que es un tema controvertido y polarizante. Además, la amenaza de Elon Musk de desafiar a los miembros del Congreso que voten por el proyecto de ley de Trump es un elemento adicional que agrega emoción y polarización.",
-      "category": "política y redes sociales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FRENCHBAN",
-        "ELONVSCONGRESS",
-        "SOCIALMEDIABAN"
-      ],
-      "key_terms_for_dex_search": [
-        "francia",
-        "redes sociales",
-        "prohibición",
-        "niños",
-        "Elon Musk",
-        "Congreso",
-        "proyecto de ley de Trump"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T05:00:32.992992+00:00",
-      "expires_at": "2026-07-25T05:00:32.992992+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Daddy",
-        "name": "Elon Musk",
-        "mint": "43umuHnRhznVSYVFHDjJJmNL2aKBV9ih7hrWyL8fpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13361.0,
-        "liquidity_usd": 8309.95,
-        "price_usd": 1.336e-05,
-        "volume_h24": 9670.3,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -68.42,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1784744056000,
-        "pair_created_at": 1784744056000,
-        "url": "https://dexscreener.com/solana/9duhafbdt8ng6lrntyzimu6wtbeoslhxrz7brybyeje4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in ELON MUSK"
-      },
-      "cluster_top_title": "French lawmakers approve a sweeping social media ban for children under 15 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-23T07:44:28.087746+00:00"
-    },
-    {
       "id": "4acf1d4ef07e",
       "fingerprint": "4acf1d4ef07e",
       "narrative_summary": "OpenAI se culpa de un incidente de hacking que expuso riesgos en la carrera de IA.",
@@ -9614,14 +9542,15 @@
       "started_at": "2026-07-29T21:44:19.561516+00:00",
       "expires_at": "2026-07-31T21:44:19.561516+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-07-31T22:40:00.932095+00:00"
     },
     {
       "id": "eee18e1b320d",
@@ -11101,7 +11030,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "6f2265e54d77",
+      "fingerprint": "6f2265e54d77",
+      "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía la investigación de hacking.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido emocional.",
+      "category": "Tecnología y hacking",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AI_ESCAPE",
+        "OPENAI_HACK",
+        "IA_CONTAINMENT"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "IA",
+        "hacking",
+        "contención"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T22:41:11.729668+00:00",
+      "expires_at": "2026-08-02T22:41:11.729668+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - reuters.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-31T21:36:31.881134+00:00"
+  "last_updated": "2026-07-31T22:41:11.729668+00:00"
 }
