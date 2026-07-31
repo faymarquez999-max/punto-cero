@@ -1,80 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-24T11:31:24.441357+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "37c41ee3c807",
-        "score": 88,
-        "category": "accidente",
-        "title": "Man falls to his death during rock concert at Madison Square Garden - AP News",
-        "candidate_tickers": [
-          "MSG",
-          "MADISONSQUAREGARDEN",
-          "CONCIERTODEROCK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T13:41:23.326315+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5348199a1b4d",
-        "score": 90,
-        "category": "Noticias y eventos",
-        "title": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed notthebee.com/t23da",
-        "candidate_tickers": [
-          "COPSHOT",
-          "RABBISHOOTING",
-          "MARXISTGUNMAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T13:41:57.491507+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Juegos",
-        "title": "‘GTA 6’ will cost $79.99 USD and the Ultimate Edition $99.99 USD.",
-        "candidate_tickers": [
-          "GTA6",
-          "GTA6Costo",
-          "GTA6Precio"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T13:43:15.638708+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f27899113a26",
-        "score": 70,
-        "category": "Política y Deportes",
-        "title": "EXCLUSIVE: ICC bureau says Khan should be fired for inappropriate sexual relationship - Reuters",
-        "candidate_tickers": [
-          "KHANFIRED",
-          "ICCSCANDAL",
-          "SEXUALABUSEINSPORTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-24T13:45:35.850758+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c5ea6cdf4a5b",
-        "score": 80,
-        "category": "políticas",
-        "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
-        "candidate_tickers": [
-          "MAMDANIWINS",
-          "DSA_DOMINATION",
-          "NYCPRIMARIES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-24T16:06:50.176254+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28309,6 +28235,79 @@
           "RAFAKROTIRI",
           "ESPIONAJEIRAN",
           "HOMBREBRITÁNICO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T12:33:51.515781+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "39ae4b26dd59",
+        "score": 76,
+        "category": "política y finanzas",
+        "title": "/GME/ - Allegory of the Crab Edition",
+        "candidate_tickers": [
+          "GME",
+          "ELONMUSK",
+          "TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T12:34:19.965793+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "finanzas",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "AAPL",
+          "Apple",
+          "TimCook",
+          "ChipPanic"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T12:34:42.498609+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7f44e06be133",
+        "score": 91,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "PATRAIX",
+          "MAJE",
+          "TRUECRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T12:35:29.154212+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Deportes",
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "candidate_tickers": [
+          "BurnhamFIFA",
+          "FIFAburnham",
+          "FIFAburnham2023"
+        ]
+      }
+    },
+    {
+      "ts": "2026-07-31T12:36:35.238789+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "economía",
+        "title": "UK petrol prices hit highest level since Iran war began",
+        "candidate_tickers": [
+          "PETROL",
+          "IRANWAR",
+          "MEMECOIN"
         ]
       }
     }
