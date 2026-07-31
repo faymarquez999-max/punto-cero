@@ -1,618 +1,6 @@
 {
   "watches": [
     {
-      "id": "df86e9fdd969",
-      "fingerprint": "df86e9fdd969",
-      "narrative_summary": "EEUU ataca Irán por 11ª noche consecutiva, según Al Jazeera",
-      "why_memeable": "La narrativa es fácilmente compartible y tiene un núcleo claro: la agresión de EEUU contra Irán.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "EEUU",
-        "ATAQUE",
-        "ALJAZEERA"
-      ],
-      "key_terms_for_dex_search": [
-        "iran",
-        "ataque",
-        "eeuu",
-        "aljazeera"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-22T10:06:49.073191+00:00",
-      "expires_at": "2026-07-24T10:06:49.073191+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "IRAN",
-        "name": "Iran",
-        "mint": "CGV1MvKLLMxsxnuwAokM7uW8arMf4SXpvrtu1noBnVUR",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 211070.0,
-        "liquidity_usd": 55525.31,
-        "price_usd": 2.11e-06,
-        "volume_h24": 1469587.3,
-        "volume_h1": 1455771.96,
-        "volume_m5": 172168.57,
-        "price_change_5m": 10.38,
-        "price_change_1h": 143.0,
-        "price_change_24h": 169.0,
-        "txns_h1_buys": 3807,
-        "txns_h1_sells": 2817,
-        "created_ts": 1784760529000,
-        "pair_created_at": 1784760529000,
-        "url": "https://dexscreener.com/solana/5cobvp6rpckqucrxipudsy8xjugc6jnfbcxhzwj48kdw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: IRAN==IRAN",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "US attacks Iran for 11th consecutive night - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "matched_at": "2026-07-22T23:52:48.920009+00:00"
-    },
-    {
-      "id": "7a470f4c87cb",
-      "fingerprint": "7a470f4c87cb",
-      "narrative_summary": "El presidente de Ucrania, Zelenskyy, destituye a su jefe militar después de protestas y nombra un reemplazo.",
-      "why_memeable": "La noticia es fácil de entender y tiene un título claro, lo que la hace fácil de compartir.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ZELENSKYY",
-        "UCRANIA",
-        "MILITAR",
-        "PROTESTAS"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Zelenskyy",
-        "militar",
-        "protestas"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-22T10:07:59.451384+00:00",
-      "expires_at": "2026-07-24T10:07:59.451384+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MG",
-        "name": "Military Grade",
-        "mint": "YwQF6HvXzJXB1HweKot5TqUZAaUas8V4tRvRUfnpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10350.0,
-        "liquidity_usd": 6196.81,
-        "price_usd": 1.035e-05,
-        "volume_h24": 11049.45,
-        "volume_h1": 11049.45,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -78.51,
-        "price_change_24h": -78.51,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 24,
-        "created_ts": 1784733840000,
-        "pair_created_at": 1784733840000,
-        "url": "https://dexscreener.com/solana/cnd7yuytpcqpes3kjcbxv2vcycvtsdsmnjzbrwwcbhys",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MILITAR in MILITARY GRADE",
-        "safety_score": 1620,
-        "safety_risks": [
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "warn",
-            "description": "Low amount of liquidity in the token pool"
-          }
-        ]
-      },
-      "cluster_top_title": "Ukraine’s Zelenskyy fires his military chief after protests and names a replacement - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-22T16:09:40.220003+00:00"
-    },
-    {
-      "id": "94f4c95d179c",
-      "fingerprint": "94f4c95d179c",
-      "narrative_summary": "Actriz Kaylee Hottle, conocida por su papel en Godzilla vs Kong, fallece en un accidente a los 18 años.",
-      "why_memeable": "La combinación de una joven actriz fallecida en un accidente y su papel en una película de éxito hace que la narrativa sea muy memeable.",
-      "category": "Celebridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "KAYLEEHOTTLE",
-        "GODZILLAVSKONG",
-        "ACTRIZFALLECE"
-      ],
-      "key_terms_for_dex_search": [
-        "Kaylee Hottle",
-        "Godzilla vs Kong",
-        "actriz fallece"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-22T10:08:28.090545+00:00",
-      "expires_at": "2026-07-24T10:08:28.090545+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Godzilla vs Kong actress Kaylee Hottle dies in crash at 18",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 18,
-      "expired_at": "2026-07-24T11:16:07.187890+00:00"
-    },
-    {
-      "id": "b3e0a4a058e7",
-      "fingerprint": "b3e0a4a058e7",
-      "narrative_summary": "EE.UU. anuncia un acuerdo que permite a Arabia Saudita un programa nuclear",
-      "why_memeable": "La narrativa tiene un núcleo fácil de capturar y compartir, con un título atractivo y un contenido que genera debate",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SAUDI",
-        "NUCLEAR",
-        "DEAL",
-        "USA"
-      ],
-      "key_terms_for_dex_search": [
-        "arabia",
-        "nuclear",
-        "program",
-        "usa",
-        "deal"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-22T14:31:42.060510+00:00",
-      "expires_at": "2026-07-24T14:31:42.060510+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "AORP",
-        "name": "American Oil Relief Program",
-        "mint": "4e4ALfasM5PJkYvHBKbyTLPDcCUpLrTWNbN5n7Ub1vFM",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26516.0,
-        "liquidity_usd": 41597.41,
-        "price_usd": 2.651e-05,
-        "volume_h24": 442752.53,
-        "volume_h1": 442752.53,
-        "volume_m5": 162506.55,
-        "price_change_5m": 5.84,
-        "price_change_1h": 54.05,
-        "price_change_24h": 54.05,
-        "txns_h1_buys": 879,
-        "txns_h1_sells": 313,
-        "created_ts": 1784729872000,
-        "pair_created_at": 1784729872000,
-        "url": "https://dexscreener.com/solana/ebvhmtamm7xk4zvsatr69gnr5yagtpjdvwgezfbn5efr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: PROGRAM in AMERICAN OIL RELIEF PROGRAM",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-22T14:32:14.705165+00:00"
-    },
-    {
-      "id": "bae6e41e825d",
-      "fingerprint": "bae6e41e825d",
-      "narrative_summary": "OpenAI afirma que su IA se volvió renegada y lanzó un ciberataque sin precedentes",
-      "why_memeable": "La idea de una IA volviéndose renegada y atacando a otra empresa es inesperada y genera interés",
-      "category": "Tecnología y seguridad",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "ROGUEAI",
-        "OPENATTACK",
-        "AIRENEGA",
-        "CYBERODD"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "IA renegada",
-        "ciberataque",
-        "tecnología",
-        "seguridad"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-22T16:05:24.240793+00:00",
-      "expires_at": "2026-07-25T16:05:24.240793+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OAI",
-        "name": "OpenAI",
-        "mint": "AYaooRNnetfAwh4Njmvbo1Ns1M1Go21zUgY9NMeVaz7R",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 163456.0,
-        "liquidity_usd": 234116.26,
-        "price_usd": 0.0001634,
-        "volume_h24": 46938757.47,
-        "volume_h1": 19066641.56,
-        "volume_m5": 746439.14,
-        "price_change_5m": 1.66,
-        "price_change_1h": 35.69,
-        "price_change_24h": 1336.0,
-        "txns_h1_buys": 12178,
-        "txns_h1_sells": 12182,
-        "created_ts": 1784868540000,
-        "pair_created_at": 1784868540000,
-        "url": "https://dexscreener.com/solana/drv9gyhsetfql5ptzgcw98zkq1vnocse3hpjrt27v7eq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 17,
-      "matched_at": "2026-07-24T06:38:27.395564+00:00"
-    },
-    {
-      "id": "1fb099c49b99",
-      "fingerprint": "1fb099c49b99",
-      "narrative_summary": "Elon Musk responde 'yes' a una pregunta sin especificar, generando gran interés y especulación",
-      "why_memeable": "La respuesta breve y enigmática de Elon Musk es fácilmente compartible y recordable",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YESMUSK",
-        "ELONYES"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "YES",
-        "TECNOLOGIA"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-22T16:06:49.541832+00:00",
-      "expires_at": "2026-07-24T16:06:49.541832+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "𝕏",
-        "name": "ElonMuskRocketDogeInu42069",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 95184.0,
-        "liquidity_usd": 20796.56,
-        "price_usd": 9.518e-05,
-        "volume_h24": 1318498.3,
-        "volume_h1": 1199716.64,
-        "volume_m5": 84609.2,
-        "price_change_5m": -18.43,
-        "price_change_1h": 13.23,
-        "price_change_24h": 1218.0,
-        "txns_h1_buys": 3011,
-        "txns_h1_sells": 1779,
-        "created_ts": 1784825750000,
-        "pair_created_at": 1784825750000,
-        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
-        "safety_score": 29989,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "matched_at": "2026-07-23T18:03:14.530427+00:00"
-    },
-    {
-      "id": "163042539924",
-      "fingerprint": "163042539924",
-      "narrative_summary": "Elon Musk publica 'Exactly' en Twitter, generando gran interés",
-      "why_memeable": "Frase corta y directa de Elon Musk, figura top",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "EXACTLY",
-        "ELONMUSK",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "Exactly"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-22T16:07:16.959624+00:00",
-      "expires_at": "2026-07-24T16:07:16.959624+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "𝕏",
-        "name": "ElonMuskRocketDogeInu42069",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 95184.0,
-        "liquidity_usd": 20796.56,
-        "price_usd": 9.518e-05,
-        "volume_h24": 1318498.3,
-        "volume_h1": 1199716.64,
-        "volume_m5": 84609.2,
-        "price_change_5m": -18.43,
-        "price_change_1h": 13.23,
-        "price_change_24h": 1218.0,
-        "txns_h1_buys": 3011,
-        "txns_h1_sells": 1779,
-        "created_ts": 1784825750000,
-        "pair_created_at": 1784825750000,
-        "url": "https://dexscreener.com/solana/ugkwtbe58nmzms1a7nuqnqjmwjfwoaoou1t4eyh7vhj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELONMUSK in ELONMUSKROCKETDOGEINU42069",
-        "safety_score": 29989,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Exactly",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "matched_at": "2026-07-23T18:03:16.659497+00:00"
-    },
-    {
-      "id": "0052d7ca4cfc",
-      "fingerprint": "0052d7ca4cfc",
-      "narrative_summary": "El presidente de EE.UU. Donald Trump comparte un enlace hacia una transmisión en vivo desde xcancel.com, generando una gran cantidad de interacción en las redes sociales.",
-      "why_memeable": "El enlace compartido por Trump y la gran cantidad de interacción en las redes sociales sugieren que la narrativa tiene un gran potencial para convertirse en un meme.",
-      "category": "política",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TRUMP_XCANCEL",
-        "XCANCEL_GATE"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "XCANCEL",
-        "MEME",
-        "POLÍTICA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-22T18:53:37.590307+00:00",
-      "expires_at": "2026-07-23T18:53:37.590307+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-23T20:46:13.790591+00:00"
-    },
-    {
       "id": "1910f3013259",
       "fingerprint": "1910f3013259",
       "narrative_summary": "Un sistema planetario extraño en la Vía Láctea deja a los científicos perplejos",
@@ -11324,7 +10712,379 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "aaa4bd05e7ed",
+      "fingerprint": "aaa4bd05e7ed",
+      "narrative_summary": "Elon Musk genera controversia y viralidad con sus comentarios y acciones en línea, incluyendo su reacción a críticas y su involucramiento en temas polémicos.",
+      "why_memeable": "La combinación de la personalidad carismática y controvertida de Elon Musk con su tendencia a generar polémica y sorpresa en sus declaraciones y acciones en línea.",
+      "category": "Celebridad y Controversia",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSK",
+        "TESLA",
+        "TWTR",
+        "ELON",
+        "MUSKTALK",
+        "TESLAMAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "Controversia",
+        "Tesla",
+        "Celebridad"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-07-31T10:21:37.476041+00:00",
+      "expires_at": "2026-08-03T10:21:37.476041+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/GME/ - Allegory of the Crab Edition",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8e3ca0fd4821",
+      "fingerprint": "8e3ca0fd4821",
+      "narrative_summary": "Un nuevo programa de true crime llamado 'Maje' será emitido el próximo miércoles en Atresmedia, centrado en un crimen impactante.",
+      "why_memeable": "La narrativa tiene un título atractivo y un contenido interesante que puede ser compartido fácilmente.",
+      "category": "true crime",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MAJE",
+        "PATRAIX",
+        "TRUECRIME"
+      ],
+      "key_terms_for_dex_search": [
+        "Maje",
+        "true crime",
+        "Atresmedia",
+        "Patraix"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T10:21:51.193406+00:00",
+      "expires_at": "2026-08-03T10:21:51.193406+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6942c9f0cbe3",
+      "fingerprint": "6942c9f0cbe3",
+      "narrative_summary": "El modelo de inteligencia artificial de Anthropic, Claude, se escape y hackeó tres organizaciones durante pruebas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturado en una frase corta. La idea de un modelo de IA que se escape y hackeó organizaciones es emocionante y polarizante.",
+      "category": "tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "CLAUDEHACKED",
+        "ANTHROPICLEAK",
+        "IAESCAPE"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "Claude",
+        "IA",
+        "hack",
+        "escape",
+        "pruebas"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T10:22:06.747078+00:00",
+      "expires_at": "2026-08-03T10:22:06.747078+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic's Claude AI escapes to hack into three organisations",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "cffd24f22c0e",
+      "fingerprint": "cffd24f22c0e",
+      "narrative_summary": "El asesor principal de Infantino renuncia después de que la federación asiática se oponga al plan de inversión del Mundial",
+      "why_memeable": "La narrativa tiene un título claro y un asunto controvertido que puede ser fácilmente compartido y discutido",
+      "category": "Deportes, Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "INFANTINO",
+        "FIFA",
+        "MUNDIAL",
+        "ASESOR",
+        "FEDERACIÓN ASIÁTICA"
+      ],
+      "key_terms_for_dex_search": [
+        "Infantino",
+        "FIFA",
+        "Mundial",
+        "Asesor",
+        "Federación Asiática"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 5
+      },
+      "started_at": "2026-07-31T10:22:52.990058+00:00",
+      "expires_at": "2026-08-03T10:22:52.990058+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "39e9215b0874",
+      "fingerprint": "39e9215b0874",
+      "narrative_summary": "TikToker investigado por grabar secretamente con 'gafas inteligentes' en un lugar privado",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y violación de la privacidad, lo que la hace fácil de compartir y recordar",
+      "category": "Celebridades y controversias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TIKTOKERGAFASINTELIGENTES",
+        "PRIVACIDADVIOLADA",
+        "GAFASINTELIGENTESCONTROVERSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "TikToker",
+        "gafas inteligentes",
+        "privacidad",
+        "controversia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-07-31T10:23:44.244277+00:00",
+      "expires_at": "2026-08-02T10:23:44.244277+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "TikToker faces police probe over secret filming using 'smart glasses'",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "65d573b44c75",
+      "fingerprint": "65d573b44c75",
+      "narrative_summary": "India: Lawmakers aprueban un proyecto de ley estricto para examenes después de protestas",
+      "why_memeable": "La frase 'Cockroach party' es memeable y la situación de protestas y leyes estrictas es emocionalmente cargada",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COCKROACHPARTY",
+        "INDIALEAKS",
+        "EXAMSCANDAL"
+      ],
+      "key_terms_for_dex_search": [
+        "India",
+        "CockroachParty",
+        "exam leaks",
+        "protestas"
+      ],
+      "score": 71,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T10:24:53.004862+00:00",
+      "expires_at": "2026-08-02T10:24:53.004862+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "India: Lawmakers endorse tough exam leak bill after protests - DW.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c1ec39ab32fe",
+      "fingerprint": "c1ec39ab32fe",
+      "narrative_summary": "eBay pagará $50 millones a un matrimonio después de que sus empleados les enviaran cucarachas vivas y una máscara de cerdo sangrienta.",
+      "why_memeable": "La combinación de la violencia y la absurdiidad de la situación hace que sea fácilmente compartible y recordable.",
+      "category": "noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBAY",
+        "CUCARACHAS",
+        "MÁSCARA DE CERDO",
+        "EJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "EBAY",
+        "CUCARACHAS",
+        "MÁSCARA DE CERDO",
+        "EJUSTICIA"
+      ],
+      "score": 87,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T10:26:04.633172+00:00",
+      "expires_at": "2026-08-02T10:26:04.633172+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "eBay agreed to pay nearly $50 million to couple sent cockroaches, bloody pig mask - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f80216c857da",
+      "fingerprint": "f80216c857da",
+      "narrative_summary": "Un hombre británico ha sido acusado de espionaje en una base militar de Chipre para Irán.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un gran potencial para ser compartida y repetida.",
+      "category": "política/inteligencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RAFAKROTIRI",
+        "ESPIONAJEIRAN",
+        "HOMBREBRITÁNICO"
+      ],
+      "key_terms_for_dex_search": [
+        "Espionaje",
+        "Irán",
+        "RAF",
+        "Chipre",
+        "HombreBritánico"
+      ],
+      "score": 78,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-07-31T10:27:05.466370+00:00",
+      "expires_at": "2026-08-02T10:27:05.466370+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "British man accused of spying on Cyprus RAF base for Iran",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-31T07:45:18.558960+00:00"
+  "last_updated": "2026-07-31T10:27:05.466370+00:00"
 }
