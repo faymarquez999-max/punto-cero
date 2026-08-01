@@ -1,413 +1,6 @@
 {
   "watches": [
     {
-      "id": "85089dadfbd2",
-      "fingerprint": "85089dadfbd2",
-      "narrative_summary": "LeBron James firma un contrato de 2 años con los Philadelphia 76ers",
-      "why_memeable": "La noticia es inesperada y genera sorpresa, lo que la hace memeable. La combinación de LeBron James y los 76ers es novedosa y puede generar humor y reacciones en las redes sociales.",
-      "category": "Deportes",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "LBJ76",
-        "KINGJAMESPHI",
-        "76ERSLBJ"
-      ],
-      "key_terms_for_dex_search": [
-        "LeBron James",
-        "76ers",
-        "contrato",
-        "NBA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-24T17:01:16.225142+00:00",
-      "expires_at": "2026-07-27T17:01:16.225142+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Tesla Earnings Call",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-27T17:25:42.088559+00:00"
-    },
-    {
-      "id": "b063dacd0f0c",
-      "fingerprint": "b063dacd0f0c",
-      "narrative_summary": "Elon Musk anuncia que algo inminente sucederá en cada pueblo",
-      "why_memeable": "Frase corta y directa de Elon Musk, con un tono de advertencia inminente",
-      "category": "Tecnología",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "XCANCEL",
-        "ELONMUSKTOWN"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "XCancel",
-        "town",
-        "happen"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-24T17:01:29.675040+00:00",
-      "expires_at": "2026-07-26T17:01:29.675040+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FARM",
-        "name": "FarmTown",
-        "mint": "yMJPZbnhoHib3ib8n8PfiVcp9yauk1vnaGKLx7epump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 35672.0,
-        "liquidity_usd": 19063.58,
-        "price_usd": 3.616e-05,
-        "volume_h24": 5883.31,
-        "volume_h1": 0.77,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.01,
-        "price_change_24h": -5.52,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1781660270000,
-        "pair_created_at": 1781660270000,
-        "url": "https://dexscreener.com/solana/frxrs52rlf45nywimjeoquh4g7crry7ny13fxn6t4dd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TOWN in FARMTOWN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Soon, this will happen to your town",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-24T17:06:24.860494+00:00"
-    },
-    {
-      "id": "aad54961559e",
-      "fingerprint": "aad54961559e",
-      "narrative_summary": "Elon Musk revela su identidad de género con una frase enigmática.",
-      "why_memeable": "La simplicidad de la frase y la sorpresa generada por la revelación la hacen memeable.",
-      "category": "Identidad de género y celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "ELONMUSKPRONOUNS",
-        "PRONOUNSELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "pronouns",
-        "identidad de género"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 10,
-        "velocity": 9
-      },
-      "started_at": "2026-07-24T17:01:43.211086+00:00",
-      "expires_at": "2026-07-26T17:01:43.211086+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "My pronouns are …",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-26T21:44:02.251128+00:00"
-    },
-    {
-      "id": "668b24c71bd3",
-      "fingerprint": "668b24c71bd3",
-      "narrative_summary": "Elon Musk publica un 'yup' con gran cantidad de engagement en Nitter.",
-      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácilmente compartible y recordable.",
-      "category": "Celebridad/Entretenimiento",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yup",
-        "nitter",
-        "engagement"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-24T17:01:57.759488+00:00",
-      "expires_at": "2026-07-26T17:01:57.759488+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 257315.0,
-        "liquidity_usd": 86220.21,
-        "price_usd": 0.0002573,
-        "volume_h24": 19961.26,
-        "volume_h1": 9.45,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.12,
-        "price_change_24h": -1.35,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-24T17:06:26.820686+00:00"
-    },
-    {
-      "id": "b04b2963af00",
-      "fingerprint": "b04b2963af00",
-      "narrative_summary": "Ucrania ataca el mayor mercado en línea de Rusia, dañando a pequeñas empresas y trayendo la guerra a casa",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima', y la frase 'Ucrania ataca el mayor mercado en línea de Rusia' es fácilmente compartible y recordable",
-      "category": "Guerra, política, economía",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANA",
-        "RUSIA",
-        "GUERRA",
-        "MARKET"
-      ],
-      "key_terms_for_dex_search": [
-        "UCRANA",
-        "RUSIA",
-        "GUERRA",
-        "MARKET",
-        "ECONOMIA"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-24T17:04:59.479839+00:00",
-      "expires_at": "2026-07-26T17:04:59.479839+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home - AP News",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-26T21:44:02.251131+00:00"
-    },
-    {
-      "id": "159d59b04606",
-      "fingerprint": "159d59b04606",
-      "narrative_summary": "Incendios forestales en España, más de 60.000 afectados",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, y la imagen de los incendios es icónica.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FUEGO",
-        "ESPANA",
-        "INCENDIOS"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios",
-        "españa",
-        "fuego"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-24T22:44:33.738510+00:00",
-      "expires_at": "2026-07-26T22:44:33.738510+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Incendios en España hoy, última hora en directo: - RTVE.es",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-26T22:45:42.135139+00:00"
-    },
-    {
-      "id": "6081e851ca15",
-      "fingerprint": "6081e851ca15",
-      "narrative_summary": "Un agente de AI de OpenAI pasó días hackeando a una empresa, pero fuentes dicen que OpenAI no se dio cuenta durante una semana.",
-      "why_memeable": "La combinación de inteligencia artificial, hacking y la falta de notificación de OpenAI durante una semana ofrece un alto potencial para la creación de memes.",
-      "category": "Tecnología y seguridad",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "HACKAI",
-        "OPENFAIL",
-        "AIBREACH",
-        "TECHLEAK",
-        "AIHACK"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "hacking",
-        "AI",
-        "seguridad",
-        "tecnología"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-24T23:47:51.391831+00:00",
-      "expires_at": "2026-07-27T23:47:51.391831+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "GHgxP7KLqzSrJFvhmHYDyuoSGZsoiWinGDKrHRJSiV1K",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 113326.0,
-        "liquidity_usd": 39024.69,
-        "price_usd": 1.133e-06,
-        "volume_h24": 2443921.83,
-        "volume_h1": 866726.96,
-        "volume_m5": 19647.75,
-        "price_change_5m": -0.11,
-        "price_change_1h": 7.35,
-        "price_change_24h": 51.87,
-        "txns_h1_buys": 3530,
-        "txns_h1_sells": 1122,
-        "created_ts": 1784956437000,
-        "pair_created_at": 1784956437000,
-        "url": "https://dexscreener.com/solana/geeauemwtbgjgyrz2zrppipri8m8btvd39hhnazj4dut",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI PRESTOCKS",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-07-25T07:11:25.936819+00:00"
-    },
-    {
       "id": "ef2ebb74a202",
       "fingerprint": "ef2ebb74a202",
       "narrative_summary": "Elon Musk publica 'Wow' en Twitter y recibe gran atención",
@@ -10586,7 +10179,322 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9d29d842e429",
+      "fingerprint": "9d29d842e429",
+      "narrative_summary": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan",
+      "why_memeable": "La narrativa tiene un claro núcleo de interés: un famoso escalador muere en una avalancha en Pakistán.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PURJA",
+        "AVALANCHA",
+        "PAKISTÁN"
+      ],
+      "key_terms_for_dex_search": [
+        "Purja",
+        "Avalancha",
+        "Pakistán",
+        "escalador",
+        "muerte"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T17:47:43.799212+00:00",
+      "expires_at": "2026-08-04T17:47:43.799212+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0493efc21d92",
+      "fingerprint": "0493efc21d92",
+      "narrative_summary": "Savannah Guthrie expresa su conmoción después de que se publiquen los mensajes de rescate de una madre secuestrada.",
+      "why_memeable": "La narrativa tiene un elemento de drama y conmoción, lo que la hace susceptible a ser compartida y recordada.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GUTHRIE",
+        "SECUESTRO",
+        "RANSOMNOTES"
+      ],
+      "key_terms_for_dex_search": [
+        "Guthrie",
+        "Secuestro",
+        "RansomNotes",
+        "Noticias internacionales"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 4,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T17:48:11.212477+00:00",
+      "expires_at": "2026-08-03T17:48:11.212477+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b73e9f3a6bfd",
+      "fingerprint": "b73e9f3a6bfd",
+      "narrative_summary": "Irán ha lanzado varios ataques cibernéticos contra empresas estadounidenses, figuras políticas y sistemas de agua.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y se puede visualizar con imágenes o gráficos.",
+      "category": "seguridad cibernética",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRANHACK",
+        "CYBERATTACK",
+        "HORMUZ"
+      ],
+      "key_terms_for_dex_search": [
+        "Irán",
+        "ataques cibernéticos",
+        "empresas estadounidenses",
+        "figuras políticas",
+        "sistemas de agua"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T17:48:47.057690+00:00",
+      "expires_at": "2026-08-04T17:48:47.057690+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more - CBS News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f0f9e0642bd2",
+      "fingerprint": "f0f9e0642bd2",
+      "narrative_summary": "Anthropic revela que sus modelos de IA fueron hackeados en 3 organizaciones durante pruebas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y la sorpresa y la gravedad del hackeo lo hacen memeable.",
+      "category": "Tecnología y seguridad",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ANTHROPICHACK",
+        "IAHACK",
+        "MODELOSHACKEADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "IA",
+        "hackeo",
+        "seguridad",
+        "modelos de IA"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T17:50:06.451403+00:00",
+      "expires_at": "2026-08-04T17:50:06.451403+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "359b4914232c",
+      "fingerprint": "359b4914232c",
+      "narrative_summary": "F-35B stealth fighter se estrella en California, piloto se salva",
+      "why_memeable": "El accidente de un avión de combate F-35B en California es un evento impactante que puede ser capturado en una frase corta y compartido fácilmente.",
+      "category": "Accidente aéreo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "F35",
+        "CRASH",
+        "MARINECORPS"
+      ],
+      "key_terms_for_dex_search": [
+        "F35",
+        "Crash",
+        "MarineCorps",
+        "Avión",
+        "Accidente"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T17:50:40.022885+00:00",
+      "expires_at": "2026-08-03T17:50:40.022885+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0b94e29016f1",
+      "fingerprint": "0b94e29016f1",
+      "narrative_summary": "Elon Musk anuncia que algo está cerca de la extinción, generando gran atención",
+      "why_memeable": "La frase es corta y fácil de recordar, con un impacto emocional alto",
+      "category": "Tecnología/Extinción",
+      "matched_archetype": "prophet_of_doom_warning",
+      "candidate_tickers": [
+        "EXTINCTION",
+        "EXTINCTIONROAD",
+        "EXTINCTIONNEAR"
+      ],
+      "key_terms_for_dex_search": [
+        "extinción",
+        "elonmusk",
+        "road"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-01T17:51:02.056987+00:00",
+      "expires_at": "2026-08-03T17:51:02.056987+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "They are far along the road to extinction",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9f449f9e7f39",
+      "fingerprint": "9f449f9e7f39",
+      "narrative_summary": "Elon Musk promociona Grok Build, una herramienta que puede hacer casi cualquier cosa que uno se pueda imaginar.",
+      "why_memeable": "La frase es corta y fácil de recordar, y tiene un toque de absurdo gracias a la afirmación de que puede hacer 'casi cualquier cosa'.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "XAICLI"
+      ],
+      "key_terms_for_dex_search": [
+        "Grok",
+        "Build",
+        "X.ai/cli",
+        "Elon Musk"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-01T17:51:22.764246+00:00",
+      "expires_at": "2026-08-04T17:51:22.764246+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Build can do almost anything you can think of X.ai/cli",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T16:38:59.017276+00:00"
+  "last_updated": "2026-08-01T17:51:22.764246+00:00"
 }

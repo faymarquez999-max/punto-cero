@@ -1,212 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-26T16:30:04.761636+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "economía",
-        "title": "VW weighs up to 100,000 job cuts, four plant closures in biggest overhaul yet, sources say - Reuters",
-        "candidate_tickers": [
-          "VW_cuts",
-          "VW_job_cuts",
-          "Volkswagen_transformación"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:16:39.857951+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "entretenimiento",
-        "title": "‘Stranger Things’ Stars Millie Bobby Brown, David Harbour Reunite for Netflix Spy Drama",
-        "candidate_tickers": [
-          "MillieBobbyBrown",
-          "DavidHarbour",
-          "StrangerThings",
-          "Netflix"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:17:26.637098+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e0903c10d316",
-        "score": 78,
-        "category": "Justicia y confrontación",
-        "title": "Sheriff’s office releases body-cam video after viral arrest at Augusta business - wrdw.com",
-        "candidate_tickers": [
-          "SHERIFF",
-          "AUGUSTA",
-          "BODYCAM",
-          "ARREST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:17:56.072607+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "clima",
-        "title": "Europe on high alert as killer heat set to move east and south - Reuters",
-        "candidate_tickers": [
-          "EUROPE_HEAT",
-          "CALOR_EXTREMO",
-          "EUROPA_EN_ALERTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:18:37.037190+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "159fc220803b",
-        "score": 88,
-        "category": "Noticias",
-        "title": "Kremlin says it will look into 'strange' video alleging army torture - Reuters",
-        "candidate_tickers": [
-          "KREMLIN",
-          "TORTURA",
-          "ARMADA",
-          "VIDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:18:57.420768+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL",
-          "SONDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T18:19:28.072893+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3c01fcfc6a01",
-        "score": 84,
-        "category": "política",
-        "title": "Soros is Magneto and his son is Mini Magneto",
-        "candidate_tickers": [
-          "SOROSMAGNETO",
-          "MINIMAGNETO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T20:19:03.618053+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "811ee5fa2bba",
-        "score": 89,
-        "category": "Accidente aéreo",
-        "title": "Small Plane Crashes Into Tallest Building in Beijing - The New York Times",
-        "candidate_tickers": [
-          "BEIJINGCRASH",
-          "AVIÓNESTRELLA",
-          "EDIFICIOMÁSALTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T20:19:28.785811+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "029a3b2e74e1",
-        "score": 74,
-        "category": "clima",
-        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-        "candidate_tickers": [
-          "HOTJUNE",
-          "RECORDBREAKER",
-          "HEATWAVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T21:48:39.798290+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología",
-        "title": "ELON MUSK GOT APPROVAL TO BUY STARTUP MESH, WHICH WAS FOUNDED BY EX-SPACEX ENGINEERS AND FOCUSES ON OPTICAL DATA CENTER COMMUNICATION TECH.",
-        "candidate_tickers": [
-          "MUSK_MESH",
-          "MUSK_ACQUISITION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T21:49:19.333920+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "HEZBOLLAH REJECTS US-BROKERED FRAMEWORK AGREEMENT – NY TIMES",
-        "candidate_tickers": [
-          "HEZ",
-          "LÍBANO",
-          "ACUERDO DE MARCO",
-          "RUBIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T21:50:00.884717+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "35c29a319ab7",
-        "score": 80,
-        "category": "tech",
-        "title": "APPLE'S VISION PRO AND SMART GLASSES LEADER IS HEADING TO OPENAI.",
-        "candidate_tickers": [
-          "APPLE_OPENAI",
-          "VISION_PRO_LEADER",
-          "SMART_GLASSES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T22:58:24.557080+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ceac26e79793",
-        "score": 82,
-        "category": "animal abuse",
-        "title": "Miranda's Rescue: Over 100 dogs found dead, many with bullet holes in them at Northern California rescue, investigators say - ABC7 Los Angeles",
-        "candidate_tickers": [
-          "MIRANDARESCUE",
-          "PERROSMUERTOS",
-          "ABUSOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T23:01:09.722871+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política internacional",
-        "title": "Israel, Lebanon sign initial agreement after US-mediated talks - Reuters",
-        "candidate_tickers": [
-          "ISRAEL",
-          "LÍBANO",
-          "ACUERDO",
-          "EEUU"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-26T23:02:13.159604+00:00",
       "kind": "shadow",
       "payload": {
@@ -28256,6 +28050,184 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 208789.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:47:44.169464+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9d29d842e429",
+        "score": 90,
+        "category": "Deportes",
+        "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+        "candidate_tickers": [
+          "PURJA",
+          "AVALANCHA",
+          "PAKISTÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:48:11.662320+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0493efc21d92",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+        "candidate_tickers": [
+          "GUTHRIE",
+          "SECUESTRO",
+          "RANSOMNOTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:48:47.447535+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b73e9f3a6bfd",
+        "score": 90,
+        "category": "seguridad cibernética",
+        "title": "A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more - CBS News",
+        "candidate_tickers": [
+          "IRANHACK",
+          "CYBERATTACK",
+          "HORMUZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:49:25.730719+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund - Reuters",
+        "candidate_tickers": [
+          "TrumpBlanche",
+          "AntiArma",
+          "FondoTrump"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:50:06.838575+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f0f9e0642bd2",
+        "score": 79,
+        "category": "Tecnología y seguridad",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "candidate_tickers": [
+          "ANTHROPICHACK",
+          "IAHACK",
+          "MODELOSHACKEADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:50:40.446438+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "359b4914232c",
+        "score": 89,
+        "category": "Accidente aéreo",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+        "candidate_tickers": [
+          "F35",
+          "CRASH",
+          "MARINECORPS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:51:02.465224+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0b94e29016f1",
+        "score": 82,
+        "category": "Tecnología/Extinción",
+        "title": "They are far along the road to extinction",
+        "candidate_tickers": [
+          "EXTINCTION",
+          "EXTINCTIONROAD",
+          "EXTINCTIONNEAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:51:23.142425+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9f449f9e7f39",
+        "score": 82,
+        "category": "Tecnología",
+        "title": "Grok Build can do almost anything you can think of X.ai/cli",
+        "candidate_tickers": [
+          "GROK",
+          "XAICLI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:10.901571+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 113786.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:16.687710+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 52813.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:20.447528+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd98558cbef2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 32859.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:24.235542+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bd481116e3f8",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208004.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:26.204115+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09afb37a2c93",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-08-01T17:52:28.620360+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aaa4bd05e7ed",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208004.0
       }
     }
   ]
