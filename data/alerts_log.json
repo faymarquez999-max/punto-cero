@@ -1,85 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-26T04:59:09.727195+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Tecnología",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "AIAIAI",
-          "AIRegulator"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:59:14.673678+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f2b9fdcaf3f2",
-        "ticker": "Elon Musk",
-        "mint": "2iJWDBhFnek5hkUjUDqaCMdfZCYA4DWcaCVSNusWw4n7",
-        "mc": 22125.0
-      }
-    },
-    {
-      "ts": "2026-06-26T04:59:22.241814+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "75eb98490741",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 289247.0
-      }
-    },
-    {
-      "ts": "2026-06-26T08:36:25.425844+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3ae5c087169d",
-        "score": 80,
-        "category": "Noticias de tecnología y ley",
-        "title": "Texas",
-        "candidate_tickers": [
-          "MUSKTX",
-          "TWTRCASE",
-          "TEXASLAW",
-          "ELONVSTWTR",
-          "MUSKLOSES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T08:38:36.077879+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "216fafab8721",
-        "score": 74,
-        "category": "política",
-        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-        "candidate_tickers": [
-          "TRUMPVSNPS",
-          "REFLECTINGPOOLGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T08:39:11.928767+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8531b57fe730",
-        "score": 78,
-        "category": "crimen animal",
-        "title": "WBRC Exclusive: Charges dropped in Homewood animal cruelty case - WBRC",
-        "candidate_tickers": [
-          "ANIMALESDESAPARECIDOS",
-          "CASOCALIFORNIANO",
-          "CRUELDADANIMAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-26T08:40:58.309427+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28271,6 +28192,92 @@
         "ticker": "Infantino",
         "mint": "HwjBSpxKFs6xWPGqYmmJT8ZumC4DsmTTtdXutvMBgiF",
         "mc": 10082.0
+      }
+    },
+    {
+      "ts": "2026-08-01T15:33:20.726515+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "665d0de0eb8d",
+        "score": 79,
+        "category": "muerte, avalancha, montañismo",
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "candidate_tickers": [
+          "PURJA",
+          "AVALANCHA",
+          "MONTAÑISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T15:34:02.366958+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7938871af8c3",
+        "score": 88,
+        "category": "política",
+        "title": "Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9 - CNN",
+        "candidate_tickers": [
+          "ZELENSKY",
+          "UCRANIA",
+          "RUSIA",
+          "BOMBA",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T15:34:41.271467+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "05faacae6c0f",
+        "score": 88,
+        "category": "Tecnología/Seguridad",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "candidate_tickers": [
+          "ANTHROPICHACKED",
+          "CLAUDEHACKED",
+          "AIMODELSHACKED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T15:35:13.572458+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Noticias de accidentes aéreos",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+        "candidate_tickers": [
+          "F35Crash",
+          "MarineCrash",
+          "AviónEstrellado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T15:35:34.956680+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ca3468d3c5ee",
+        "score": 70,
+        "category": "Tecnología y Medio Ambiente",
+        "title": "They are far along the road to extinction",
+        "candidate_tickers": [
+          "EXTINCTION",
+          "ROADTOEXTINCTION",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T15:36:27.845110+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 136556.0
       }
     }
   ]
