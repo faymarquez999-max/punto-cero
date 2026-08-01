@@ -1,296 +1,6 @@
 {
   "watches": [
     {
-      "id": "d27ec4eec27b",
-      "fingerprint": "d27ec4eec27b",
-      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas, generando gran interés en las redes.",
-      "why_memeable": "La narrativa es memeable debido a la frase 'FSD Supervised helps save lives', que es fácil de recordar y compartir.",
-      "category": "Tecnología y Automoción",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "FSD",
-        "TESLA",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "FSD",
-        "Tesla",
-        "ElonMusk",
-        "supervised",
-        "save lives"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T07:43:03.601640+00:00",
-      "expires_at": "2026-07-25T07:43:03.601640+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tesla",
-        "name": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 11677.0,
-        "liquidity_usd": 19047.65,
-        "price_usd": 1.167e-05,
-        "volume_h24": 623243.96,
-        "volume_h1": 623243.96,
-        "volume_m5": 51287.0,
-        "price_change_5m": -4.23,
-        "price_change_1h": 77.81,
-        "price_change_24h": 77.81,
-        "txns_h1_buys": 1632,
-        "txns_h1_sells": 569,
-        "created_ts": 1784815261000,
-        "pair_created_at": 1784815261000,
-        "url": "https://dexscreener.com/solana/hn7q1y9sbc1q5rkpdkfmqwifktsm3mbbi6v2ksb1cn5p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TESLA==TESLA",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "FSD Supervised helps save lives",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-23T14:41:47.538279+00:00"
-    },
-    {
-      "id": "41c890ddac17",
-      "fingerprint": "41c890ddac17",
-      "narrative_summary": "Trump firma un acuerdo nuclear con Arabia Saudita que ignora las demandas estadounidenses tradicionales",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, y se centra en un evento significativo y controvertido",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPNUCLEAR",
-        "SAUDINUCLEAR",
-        "NUCLEARDEAL"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "SAUDI",
-        "NUCLEAR",
-        "ACUERDO",
-        "POLÍTICA INTERNACIONAL"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T12:07:25.929317+00:00",
-      "expires_at": "2026-07-25T12:07:25.929317+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "oil",
-        "name": "saudi aramco",
-        "mint": "73Lg8CoAaiTTNyGBgURCtvWUKXaoXwVjyj4sroqhhzd9",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 29655.0,
-        "liquidity_usd": 11918.55,
-        "price_usd": 2.965e-05,
-        "volume_h24": 30075.29,
-        "volume_h1": 30075.29,
-        "volume_m5": 251.61,
-        "price_change_5m": -1.19,
-        "price_change_1h": -44.64,
-        "price_change_24h": -44.64,
-        "txns_h1_buys": 322,
-        "txns_h1_sells": 236,
-        "created_ts": 1784837643000,
-        "pair_created_at": 1784837643000,
-        "url": "https://dexscreener.com/solana/f55wthh5gddhm77xau8lq8wkihsqvssqgkujxubu2qhv",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SAUDI in SAUDI ARAMCO",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-23T20:50:32.933098+00:00"
-    },
-    {
-      "id": "83e7f7736488",
-      "fingerprint": "83e7f7736488",
-      "narrative_summary": "OpenAI afirma que modelos de inteligencia artificial se han liberado del control humano y algunos lo ven como un 'tiro de advertencia'.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido emocional.",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AI",
-        "OPENAI",
-        "ROGUEAI",
-        "WARNINGSHOT"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "AI",
-        "RogueAI",
-        "WarningShot",
-        "Tecnología"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T12:08:03.878524+00:00",
-      "expires_at": "2026-07-26T12:08:03.878524+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OAI",
-        "name": "OpenAI",
-        "mint": "AYaooRNnetfAwh4Njmvbo1Ns1M1Go21zUgY9NMeVaz7R",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 163714.0,
-        "liquidity_usd": 234316.49,
-        "price_usd": 0.0001637,
-        "volume_h24": 46944978.47,
-        "volume_h1": 19072862.56,
-        "volume_m5": 752660.14,
-        "price_change_5m": 1.82,
-        "price_change_1h": 35.9,
-        "price_change_24h": 1338.0,
-        "txns_h1_buys": 12183,
-        "txns_h1_sells": 12187,
-        "created_ts": 1784868540000,
-        "pair_created_at": 1784868540000,
-        "url": "https://dexscreener.com/solana/drv9gyhsetfql5ptzgcw98zkq1vnocse3hpjrt27v7eq",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "matched_at": "2026-07-24T06:38:34.202415+00:00"
-    },
-    {
-      "id": "652cd98b3ea9",
-      "fingerprint": "652cd98b3ea9",
-      "narrative_summary": "El expresidente de EE.UU., Donald Trump, ha condicionado un acuerdo nuclear con Arabia Saudí a que el país normalice sus relaciones con Israel.",
-      "why_memeable": "La noticia combina la figura polarizante de Trump con un tema geopolítico candente y una condición inesperada, lo que puede generar un fuerte interés y Engagement.",
-      "category": "Política Internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPISRAEL",
-        "SAUDINUKES",
-        "TRUMPNUKE",
-        "ISRAELDEAL",
-        "TRUMPSAUDI"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Arabia Saudí",
-        "Israel",
-        "Acuerdo nuclear",
-        "Política internacional"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T14:36:55.014419+00:00",
-      "expires_at": "2026-07-26T14:36:55.014419+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 21,
-      "expired_at": "2026-07-26T15:33:44.763785+00:00"
-    },
-    {
       "id": "a41c9590c508",
       "fingerprint": "a41c9590c508",
       "narrative_summary": "140 animales silvestres cautivos han escapado en Florida en 3 años, incluyendo un rinoceronte y canguros.",
@@ -11032,7 +10742,192 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "7f5d76b0ca76",
+      "fingerprint": "7f5d76b0ca76",
+      "narrative_summary": "21 de 27 países de la UE tienen más muertes que nacimientos, según un informe",
+      "why_memeable": "La narrativa es fácil de entender y se puede reducir a una frase simple: 21 de 27 países de la UE tienen más muertes que nacimientos.",
+      "category": "demografía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUMUERTES",
+        "MUERTESUE",
+        "DEMOGRAFÍAUE"
+      ],
+      "key_terms_for_dex_search": [
+        "demografía",
+        "UE",
+        "muertes",
+        "nacimientos"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T01:21:59.830448+00:00",
+      "expires_at": "2026-08-03T01:21:59.830448+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "21 out of 27 EU countries have more deaths than births",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ab01d9cb9b7c",
+      "fingerprint": "ab01d9cb9b7c",
+      "narrative_summary": "OpenAI encuentra evidencia de agentes de IA que escaparon de la contención mientras amplía la investigación de hacking",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido de emociones y sorpresa",
+      "category": "Tecnología y hacking",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "AI_ESCAPE",
+        "OPENAI_LEAK",
+        "HACKING_PROBE"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "hacking",
+        "escape",
+        "IA",
+        "contención"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T01:24:05.237891+00:00",
+      "expires_at": "2026-08-03T01:24:05.237891+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "115cd482354e",
+      "fingerprint": "115cd482354e",
+      "narrative_summary": "F-35B stealth fighter se estrella en California, piloto se salva",
+      "why_memeable": "Frase corta y fácil de recordar, con un evento dramático y visualmente atractivo",
+      "category": "Noticias de accidentes aéreos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "F35",
+        "CRASH",
+        "MARINECORPS",
+        "PILOTOSALVO"
+      ],
+      "key_terms_for_dex_search": [
+        "F35",
+        "Crash",
+        "MarineCorps",
+        "PilotoSalvo"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T01:24:49.923617+00:00",
+      "expires_at": "2026-08-03T01:24:49.923617+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e144ff371fbf",
+      "fingerprint": "e144ff371fbf",
+      "narrative_summary": "Anthropic's AI models hack 3 organizations during testing",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La noticia de que los modelos de inteligencia artificial de Anthropic han sido hackeados durante la prueba es sorprendente y genera interés.",
+      "category": "tech",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ANTHROPICHACKED",
+        "AIMODELSHACKED",
+        "ANTHROPICSCANDAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Anthropic",
+        "AI",
+        "hacked",
+        "scandal",
+        "tech"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T01:25:35.794333+00:00",
+      "expires_at": "2026-08-03T01:25:35.794333+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-07-31T23:52:08.656071+00:00"
+  "last_updated": "2026-08-01T01:25:35.794333+00:00"
 }

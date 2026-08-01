@@ -1,194 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-25T01:33:58.733339+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Starlink",
-        "candidate_tickers": [
-          "Starlink",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T01:35:49.933553+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d231be66f5d2",
-        "ticker": "WENDYS",
-        "mint": "9xRZgabPKGBteGgnsoMHpXrd3NpKZ1uaYwKTd3gLpump",
-        "mc": 28259.0
-      }
-    },
-    {
-      "ts": "2026-06-25T01:35:52.789852+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bb09d6b17658",
-        "ticker": "TRENCHES",
-        "mint": "3NMQuwg7WGqzqjqwUnR3Ciwo3AoVE39yYQnTqK49pump",
-        "mc": 63179.0
-      }
-    },
-    {
-      "ts": "2026-06-25T01:35:56.120903+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5dd0e66bc9f7",
-        "ticker": "VENEZUELA",
-        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
-        "mc": 10446.0
-      }
-    },
-    {
-      "ts": "2026-06-25T01:35:57.618714+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6a5ea7d0cb7b",
-        "ticker": "VENEZUELA",
-        "mint": "4Fg7opd6HG2ofRcLyN6BbRjCYUdAd6KsGQkTeUHgoDep",
-        "mc": 10446.0
-      }
-    },
-    {
-      "ts": "2026-06-25T05:50:54.599480+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "política internacional",
-        "title": "Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities - Reuters",
-        "candidate_tickers": [
-          "Taiwan",
-          "China",
-          "Guardia Costera",
-          "alianzas occidentales"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T05:51:18.866811+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e708c740905d",
-        "score": 74,
-        "category": "Tecnología y sociedad",
-        "title": "This is happening throughout the West",
-        "candidate_tickers": [
-          "XCANCEL",
-          "ELONMUSK",
-          "WEST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T05:52:09.771196+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "75eb98490741",
-        "score": 84,
-        "category": "Tecnología",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOW",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T05:52:53.800492+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "976caec3bd30",
-        "score": 82,
-        "category": "Social Justice",
-        "title": "Migrants film themselves beating French boy into coma (he died) notthebee.com/article/migran…",
-        "candidate_tickers": [
-          "MIGRATION",
-          "FRENCHBOY",
-          "COMABOY",
-          "NOTTHEBEE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T09:37:20.209382+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f056611e109d",
-        "score": 80,
-        "category": "Política",
-        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-        "candidate_tickers": [
-          "TRUMPWAR",
-          "IRANBILL",
-          "REPUBLICANDEMAND",
-          "WARFUNDS",
-          "TRUMPVSIRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T09:38:07.239185+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ee88958b5a46",
-        "score": 82,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XRP",
-          "MEMETORO",
-          "SOLANA",
-          "BINANCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T09:38:37.504912+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "EXCLUSIVE: Iraq to consider all options if OPEC quota not raised, has weighed exit, sources say - Reuters",
-        "candidate_tickers": [
-          "IRAQ_OPEC",
-          "EXIT_QUOTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T09:40:26.299435+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f4d2e6bcf834",
-        "score": 79,
-        "category": "Desastres naturales",
-        "title": "Magnitude 6.9 earthquake strikes northern Japan",
-        "candidate_tickers": [
-          "JAPÓNTERREMOTO",
-          "TERREMOTO6.9",
-          "DESASTRENATURALEZA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T09:41:41.569788+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Muerte y reacciones en la industria del cine",
-        "title": "Asa Butterfield, Jonny Lee Miller and Christine Tremarco Join BBC Beatles Drama ‘Hamburg Days’",
-        "candidate_tickers": [
-          "OHARA",
-          "CATHERINEOHARA",
-          "DEATHINHOLLYWOOD"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-25T12:09:26.655879+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28287,6 +28099,182 @@
           "BOMBARD",
           "CBS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:22:00.244153+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7f5d76b0ca76",
+        "score": 74,
+        "category": "demografía",
+        "title": "21 out of 27 EU countries have more deaths than births",
+        "candidate_tickers": [
+          "EUMUERTES",
+          "MUERTESUE",
+          "DEMOGRAFÍAUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:22:29.220405+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "monedas memes",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "MEME",
+          "MEMECOIN",
+          "RIPPLE",
+          "XRP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:23:03.183063+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Who is Greater Manchester's new Mayor Bev Craig?",
+        "candidate_tickers": [
+          "BevCraig",
+          "MayorGM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:23:41.348852+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "economía",
+        "title": "EXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters photo shows - Reuters",
+        "candidate_tickers": [
+          "Bessent",
+          "YenesJaponeses",
+          "CompraMillonaria"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:24:05.625948+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ab01d9cb9b7c",
+        "score": 90,
+        "category": "Tecnología y hacking",
+        "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+        "candidate_tickers": [
+          "AI_ESCAPE",
+          "OPENAI_LEAK",
+          "HACKING_PROBE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:24:50.319258+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "115cd482354e",
+        "score": 80,
+        "category": "Noticias de accidentes aéreos",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+        "candidate_tickers": [
+          "F35",
+          "CRASH",
+          "MARINECORPS",
+          "PILOTOSALVO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:25:36.203864+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e144ff371fbf",
+        "score": 80,
+        "category": "tech",
+        "title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+        "candidate_tickers": [
+          "ANTHROPICHACKED",
+          "AIMODELSHACKED",
+          "ANTHROPICSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:26:56.030277+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "música y tecnología",
+        "title": "Moonlight Sonata Starship",
+        "candidate_tickers": [
+          "MoonlightSonataStarship",
+          "StarshipSonata"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T01:26:58.419343+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "665870708b1f",
+        "ticker": "OPENAI",
+        "mint": "9JkDVx5b6eoVucU4WXZb64Da7Boc2GsjtSTQxDUtHdT1",
+        "mc": 176792.0
+      }
+    },
+    {
+      "ts": "2026-08-01T01:27:02.289724+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 126678.0
+      }
+    },
+    {
+      "ts": "2026-08-01T01:27:08.568531+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f42f4fca554e",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 126678.0
+      }
+    },
+    {
+      "ts": "2026-08-01T01:27:12.115353+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 181456.0
+      }
+    },
+    {
+      "ts": "2026-08-01T01:27:16.825818+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "47b027f9421c",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 230788.0
+      }
+    },
+    {
+      "ts": "2026-08-01T01:27:21.332202+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8a8d6269d6fe",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 126678.0
       }
     }
   ]
