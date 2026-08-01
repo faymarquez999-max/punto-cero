@@ -1,192 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-26T08:40:58.309427+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3ae5c087169d",
-        "ticker": "Elon Musk",
-        "mint": "2iJWDBhFnek5hkUjUDqaCMdfZCYA4DWcaCVSNusWw4n7",
-        "mc": 22979.0
-      }
-    },
-    {
-      "ts": "2026-06-26T11:37:22.640678+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Deportes",
-        "title": "Sophie Cunningham's viral pointing moment has become the internet's newest meme - Yahoo Sports",
-        "candidate_tickers": [
-          "SophieCunningham",
-          "BaloncestoMeme",
-          "PuntoDeSophie"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T11:39:22.529497+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Deportes",
-        "title": "Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch",
-        "candidate_tickers": [
-          "EGIPTO_IRAN",
-          "SALAH2026",
-          "EGIPTO_VS_IRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T11:40:03.456598+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4c0523500320",
-        "score": 78,
-        "category": "monedas memes",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XSG",
-          "XRP",
-          "MEMETORO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T13:55:39.481197+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dec6a3c1a5fd",
-        "score": 80,
-        "category": "desastres naturales",
-        "title": "MAGNITUDE 5.8 EARTHQUAKE STRIKES EASTERN HONSHU, JAPAN REGION - EMSC",
-        "candidate_tickers": [
-          "JAPANQUAKE",
-          "HONSHU5.8",
-          "TERREMOTOJAPON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T13:56:17.453487+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Cryptocurrency",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XRP",
-          "MemeCoin",
-          "CryptoMeme"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T13:57:39.143126+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32625899d030",
-        "score": 91,
-        "category": "animal_cruelty",
-        "title": "Microchips found in decomposing dogs at Northern California rescue, sheriff says - San Francisco Chronicle",
-        "candidate_tickers": [
-          "MICROCHIPSCANINE",
-          "CANINECRUELTY",
-          "REFUGIODERESCATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T13:58:08.111173+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5ad7fb9d0395",
-        "score": 74,
-        "category": "Noticias internacionales",
-        "title": "World aids rescue effort as Venezuela quake death toll hits 235 - Al Jazeera",
-        "candidate_tickers": [
-          "VENEZUELA",
-          "TERREMOTO",
-          "RESCATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T16:24:58.892211+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Política y tecnología",
-        "title": "Turkey has defeated the USA at the World Cup.",
-        "candidate_tickers": [
-          "MUSKTSLUMP",
-          "TRUMPvsMUSK",
-          "MUSKvsTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T16:26:25.619068+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Noticias internacionales",
-        "title": "EU ENERGY COMMISSIONER WARNS OF A MORE SERIOUS JET FUEL SUPPLY SITUATION IN EUROPE BY END OF SUMMER.",
-        "candidate_tickers": [
-          "EUenergy",
-          "combustibledeavión",
-          "crisisenergética"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T16:26:29.298134+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9d03a5059fa7",
-        "score": 80,
-        "category": "incidentes aéreos",
-        "title": "Texas",
-        "candidate_tickers": [
-          "LOWPASS",
-          "BOEING777",
-          "TEXASFLYBY",
-          "FAAPROBE",
-          "VIRALFLIGHT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T16:27:34.296140+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a73268f2e97d",
-        "score": 86,
-        "category": "accidente aéreo",
-        "title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters",
-        "candidate_tickers": [
-          "BEIJINGCRASH",
-          "AVIÓNCAEENEDIFICIO",
-          "CRASHENEDIFICIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T16:28:19.480175+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "criptomoneda",
-        "title": "/XSG/ XRP Schizo General #2549",
-        "candidate_tickers": [
-          "XRP",
-          "MemeToro",
-          "Solana"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-26T16:30:04.761636+00:00",
       "kind": "shadow",
       "payload": {
@@ -28278,6 +28092,170 @@
         "ticker": "Fauci",
         "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
         "mc": 136556.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:36:09.050902+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Secuestro",
+        "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+        "candidate_tickers": [
+          "Guthrie",
+          "Secuestro",
+          "RansomNotes"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:36:46.982817+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d01c86aa62f5",
+        "score": 90,
+        "category": "Noticias de accidentes y desastres",
+        "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+        "candidate_tickers": [
+          "NIRMALPURJA",
+          "AVALANCHEPAKISTAN",
+          "BROADPEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:37:29.899696+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a27449073467",
+        "score": 91,
+        "category": "noticias internacionales",
+        "title": "Russia Hits Kyiv With ‘Horrific’ Missile Barrage, Killing Nine - Bloomberg.com",
+        "candidate_tickers": [
+          "RUSIAATACAKIEV",
+          "KIEVATACADO",
+          "UCRANIARUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:37:54.995856+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "958485338a5b",
+        "score": 88,
+        "category": "Noticias de aviación y seguridad nacional",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+        "candidate_tickers": [
+          "F35",
+          "CRASH",
+          "PILOTOSALVO",
+          "MARINAUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:38:17.555087+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a2efe563a768",
+        "score": 84,
+        "category": "Tecnología",
+        "title": "Try @Grok Build X.ai/cli",
+        "candidate_tickers": [
+          "GROK",
+          "XAICLI",
+          "GROKBUILD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:38:45.065923+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fa307bcbc455",
+        "score": 72,
+        "category": "Tecnología y Medio Ambiente",
+        "title": "They are far along the road to extinction",
+        "candidate_tickers": [
+          "XCANCEL",
+          "EXTINCIÓN",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:38:59.541202+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f590f44a0aaf",
+        "score": 70,
+        "category": "Tendencia cultural",
+        "title": "Cool",
+        "candidate_tickers": [
+          "COOL",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:23.830998+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 128037.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:33.572443+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 55051.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:39.685399+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd98558cbef2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 33791.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:46.719654+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bd481116e3f8",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208789.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:50.157922+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09afb37a2c93",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-08-01T16:39:54.231936+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aaa4bd05e7ed",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208789.0
       }
     }
   ]
