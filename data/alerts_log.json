@@ -1,269 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-25T23:01:59.714757+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad y tecnología",
-        "title": "Texas",
-        "candidate_tickers": [
-          "TX",
-          "TEXAS",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:02:15.368459+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c418a0e24012",
-        "score": 87,
-        "category": "política y cultura popular",
-        "title": "Soros is Magneto and his son is Mini Magneto",
-        "candidate_tickers": [
-          "SOROSMAGNETO",
-          "MINIMAGNETO",
-          "XMENSOROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:02:43.043399+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a98806738afe",
-        "score": 74,
-        "category": "Sociedad",
-        "title": "Justice for Louis.",
-        "candidate_tickers": [
-          "JUSTICEFORLOUIS",
-          "LOUIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:04:01.452513+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5b173da12a3e",
-        "score": 74,
-        "category": "Desastres naturales",
-        "title": "España confirma dos muertos y 80 ciudadanos sin localizar tras los terremotos - Ultima Hora",
-        "candidate_tickers": [
-          "VENEZUELATERREMOTOS",
-          "DESASTREENVENEZUELA",
-          "TERREMOTOSENVENEZUELA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:05:04.698884+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Grand Rapids Police Chief responds after viral arrest video sparks debate - WZZM13.com",
-        "candidate_tickers": [
-          "GRPD",
-          "GrandRapids",
-          "viral_arrest"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:23:12.147072+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2fb6cfd92732",
-        "score": 70,
-        "category": "clima",
-        "title": "UK braced for hottest June night after 36.7C reached on warmest day of year",
-        "candidate_tickers": [
-          "HOTJUNE",
-          "UKHEATWAVE",
-          "RECORDTEMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:23:59.813285+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "290f0b85b698",
-        "score": 82,
-        "category": "Politica Internacional",
-        "title": "Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post",
-        "candidate_tickers": [
-          "IRANATACA",
-          "BARCODECARGA",
-          "ESTERCHODEORMUZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:24:38.032370+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política",
-        "title": "Trump notifies Congress of Turkey engine sale - Reuters",
-        "candidate_tickers": [
-          "TRUMP",
-          "EBOLA",
-          "CONGRESO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:26:00.918360+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2240c116d7d7",
-        "score": 90,
-        "category": "Animales",
-        "title": "Mother, daughter arrested after dogs found dead, malnourished in Smith County - KLTV.com",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "MADREHIJAARRESTADA",
-          "SMITHCOUNTY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:26:46.812381+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6425a332593e",
-        "score": 84,
-        "category": "celebrity",
-        "title": "Griffin and Xavier 20 years ago",
-        "candidate_tickers": [
-          "GRIFFINXAVIER",
-          "GRIFXAV"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:27:11.556086+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Texas",
-        "candidate_tickers": [
-          "TX",
-          "TEXAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T00:27:27.952397+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eaabbe21b642",
-        "score": 87,
-        "category": "política",
-        "title": "Soros is Magneto and his son is Mini Magneto",
-        "candidate_tickers": [
-          "SOROS",
-          "MAGNETO",
-          "MINIMAGNETO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:54:08.633741+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d39d6c9a6fe8",
-        "score": 80,
-        "category": "Noticias virales",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "ELEFANTE",
-          "ATACA",
-          "ORMUZ",
-          "SRI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:54:13.831136+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be31fcd40ec0",
-        "score": 80,
-        "category": "Noticias de actualidad y bienestar animal",
-        "title": "SpaceX rocket launches in 2026 are insanely brutal",
-        "candidate_tickers": [
-          "JUSTICIAANIMAL",
-          "CRUELDADZERO",
-          "ANIMALESUNIDOS",
-          "MALTRATOANIMAL",
-          "PROTECCIONANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:56:41.068957+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Chris Mason: The anatomy of the prime minister's downfall",
-        "candidate_tickers": [
-          "StarmerDown",
-          "KeirFalls"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:57:13.881559+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Celebridad",
-        "title": "Latest info on Taylor Swift and Travis Kelce wedding as rumor continues to build - cbs8.com",
-        "candidate_tickers": [
-          "TaylorSwiftWedding",
-          "TravisKelceTaylor",
-          "MadisonSquareGardenWedding"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:57:51.058639+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "tecnología",
-        "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom - The Guardian",
-        "candidate_tickers": [
-          "AppleCrisis",
-          "ChipBoom",
-          "iPadPrice",
-          "MacBookPrice"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T04:58:41.661885+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8676f52797dc",
-        "score": 70,
-        "category": "Política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL",
-          "ENCUESTA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-26T04:59:09.727195+00:00",
       "kind": "shadow",
       "payload": {
@@ -28321,6 +28058,219 @@
           "OPENAI_HACKING",
           "IA_CONTAINMENT"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:04:05.167607+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "migración",
+        "title": "Spanish Interior Minister: Things have returned to normal in Ceuta",
+        "candidate_tickers": [
+          "CeutaMigrantes",
+          "BarrerasDeContención",
+          "MigraciónEnCrisis"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:04:51.819678+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bca48c714779",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "candidate_tickers": [
+          "PURJA",
+          "AVALANCHA",
+          "PAKISTÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:06:17.836115+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "56034fef9e17",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
+        "candidate_tickers": [
+          "ANTHROPIC",
+          "AIHACK",
+          "LEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:06:46.842755+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Noticias de accidentes aéreos",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - apnews.com",
+        "candidate_tickers": [
+          "F35Crash",
+          "PilotoSalvo",
+          "AccidenteAereo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:06:48.513247+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3abcb23bd917",
+        "score": 74,
+        "category": "declaración de celebridad",
+        "title": "They are far along the road to extinction",
+        "candidate_tickers": [
+          "EXTIN",
+          "MUSKED",
+          "ROAD2EXT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:07:07.713329+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Imagine Video 1.5 improvements",
+        "candidate_tickers": [
+          "IMAGINE",
+          "VIDEO1.5"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:07:30.507063+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tendencia de Elon Musk",
+        "title": "Cool",
+        "candidate_tickers": [
+          "Cool",
+          "ElonMuskCool"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:03.152313+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "política",
+        "title": "🕐Annonce : ReplacementClock.org est en ligne !",
+        "candidate_tickers": [
+          "ReplacementClock",
+          "GrandRemplazo",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:05.824153+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 122336.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:15.110770+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 47899.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:20.527970+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd98558cbef2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 32880.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:26.617318+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e7c0fe373800",
+        "ticker": "ANTH",
+        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
+        "mc": 113024.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:29.969789+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bd481116e3f8",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208038.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:32.916805+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09afb37a2c93",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:34.655699+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "88fa800d4ddc",
+        "ticker": "ANTH",
+        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
+        "mc": 113024.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:36.785813+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aaa4bd05e7ed",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 208038.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:39.776897+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6942c9f0cbe3",
+        "ticker": "RSCAT",
+        "mint": "gwiPtzv51Mx3r5ioA8pr11NydtGAQy8jefCbS4zpump",
+        "mc": 81372.0
+      }
+    },
+    {
+      "ts": "2026-08-01T14:08:42.163157+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cffd24f22c0e",
+        "ticker": "Infantino",
+        "mint": "HwjBSpxKFs6xWPGqYmmJT8ZumC4DsmTTtdXutvMBgiF",
+        "mc": 10082.0
       }
     }
   ]

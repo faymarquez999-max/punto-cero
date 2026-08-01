@@ -1,190 +1,6 @@
 {
   "watches": [
     {
-      "id": "316607dca2cf",
-      "fingerprint": "316607dca2cf",
-      "narrative_summary": "Elon Musk publica 'Yeah' en Twitter, generando gran interés y participación",
-      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácil de compartir y recordar",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YEAH",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "MUSK",
-        "YEAH"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 10,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T21:52:46.786788+00:00",
-      "expires_at": "2026-07-25T21:52:46.786788+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 253662.0,
-        "liquidity_usd": 86743.51,
-        "price_usd": 0.0002537,
-        "volume_h24": 7677.09,
-        "volume_h1": 1151.57,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 4.1,
-        "price_change_24h": -9.86,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yeah",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-23T21:54:31.274336+00:00"
-    },
-    {
-      "id": "6998c02217bd",
-      "fingerprint": "6998c02217bd",
-      "narrative_summary": "Un tiroteo policial en Madison, Wisconsin, deja a un hombre muerto y provoca protestas en la ciudad.",
-      "why_memeable": "La narrativa es memeable debido a la naturaleza dramática y conflictiva del evento.",
-      "category": "Noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MADISONSHOOTING",
-        "MADISONPROTEST",
-        "POLICESHOOTING"
-      ],
-      "key_terms_for_dex_search": [
-        "Madison",
-        "tiroteo policial",
-        "protestas",
-        "muerte"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T23:06:38.439028+00:00",
-      "expires_at": "2026-07-25T23:06:38.439028+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "As tensions rise in Madison after deadly police shooting, victim is identified - NBC News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-25T23:17:58.289696+00:00"
-    },
-    {
-      "id": "aaf14c087663",
-      "fingerprint": "aaf14c087663",
-      "narrative_summary": "Elon Musk envía un mensaje simple y viral en Twitter: 'Yup'",
-      "why_memeable": "La simplicidad y brevedad de la frase hacen que sea fácilmente compartible y recordable",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YUP",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON MUSK",
-        "YUP",
-        "TWEET VIRAL"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T23:07:56.499849+00:00",
-      "expires_at": "2026-07-24T23:07:56.499849+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 34902.0,
-        "liquidity_usd": 19998.08,
-        "price_usd": 3.497e-05,
-        "volume_h24": 7639.62,
-        "volume_h1": 248.75,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 6.5,
-        "price_change_24h": 12.45,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 0,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yup",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-23T23:10:21.361545+00:00"
-    },
-    {
       "id": "2ffde966b0e2",
       "fingerprint": "2ffde966b0e2",
       "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando gran interés y debate.",
@@ -1884,14 +1700,15 @@
       "started_at": "2026-07-25T10:51:02.220332+00:00",
       "expires_at": "2026-08-01T10:51:02.220332+00:00",
       "duration_hours": 168,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Flight 13 of Starship launch attempt in 10 minutes!",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-08-01T14:03:17.275912+00:00"
     },
     {
       "id": "0b0e3a1e4716",
@@ -7397,14 +7214,15 @@
       "started_at": "2026-07-29T10:22:28.542159+00:00",
       "expires_at": "2026-08-01T10:22:28.542159+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Extreme temperatures in France and Spain as wildfires leave areas looking like a ‘war zone’ - CNN",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-01T14:03:17.275930+00:00"
     },
     {
       "id": "3486623079aa",
@@ -8534,14 +8352,15 @@
       "started_at": "2026-07-30T10:03:03.891559+00:00",
       "expires_at": "2026-08-01T10:03:03.891559+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T14:03:17.275937+00:00"
     },
     {
       "id": "47b027f9421c",
@@ -8578,13 +8397,14 @@
       "started_at": "2026-07-30T10:04:12.772924+00:00",
       "expires_at": "2026-08-01T10:04:12.772924+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T14:03:17.275939+00:00"
     },
     {
       "id": "f4d69cad4c26",
@@ -8623,14 +8443,15 @@
       "started_at": "2026-07-30T12:03:30.930132+00:00",
       "expires_at": "2026-08-01T12:03:30.930132+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israeli strikes kill at least four, including children, across Gaza Strip",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T14:03:17.275942+00:00"
     },
     {
       "id": "94ee0d23156c",
@@ -8713,14 +8534,15 @@
       "started_at": "2026-07-30T12:05:22.897946+00:00",
       "expires_at": "2026-08-01T12:05:22.897946+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Japan quake survivors battle thirst, heat as death toll rises to 25 - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T14:03:17.275944+00:00"
     },
     {
       "id": "8a8d6269d6fe",
@@ -8758,14 +8580,15 @@
       "started_at": "2026-07-30T12:07:50.181883+00:00",
       "expires_at": "2026-08-01T12:07:50.181883+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T14:03:17.275947+00:00"
     },
     {
       "id": "dd98558cbef2",
@@ -10696,7 +10519,140 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "bca48c714779",
+      "fingerprint": "bca48c714779",
+      "narrative_summary": "Famoso alpinista Nirmal Purja muere en avalancha en Pakistán",
+      "why_memeable": "La muerte de un famoso alpinista en una avalancha tiene un gran potencial para ser compartido y recordado",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PURJA",
+        "AVALANCHA",
+        "PAKISTÁN"
+      ],
+      "key_terms_for_dex_search": [
+        "Nirmal Purja",
+        "avalancha",
+        "Pakistán",
+        "alpinismo"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T14:04:51.269777+00:00",
+      "expires_at": "2026-08-03T14:04:51.269777+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "56034fef9e17",
+      "fingerprint": "56034fef9e17",
+      "narrative_summary": "Anthropic revela que sus modelos de IA han sido hackeados durante pruebas.",
+      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturado en una frase corta.",
+      "category": "Tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "AIHACK",
+        "LEAK"
+      ],
+      "key_terms_for_dex_search": [
+        "anthropic",
+        "ai",
+        "hack",
+        "leak"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T14:06:17.344401+00:00",
+      "expires_at": "2026-08-04T14:06:17.344401+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3abcb23bd917",
+      "fingerprint": "3abcb23bd917",
+      "narrative_summary": "Elon Musk declara que algo o alguien está cerca de la extinción",
+      "why_memeable": "La frase corta y directa de Elon Musk, junto con su gran audiencia, hace que esta declaración sea muy compartible y tenga un gran potencial de convertirse en un meme",
+      "category": "declaración de celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "EXTIN",
+        "MUSKED",
+        "ROAD2EXT"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "extinción",
+        "road to extinction"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T14:06:48.018031+00:00",
+      "expires_at": "2026-08-03T14:06:48.018031+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "They are far along the road to extinction",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T09:52:26.914043+00:00"
+  "last_updated": "2026-08-01T14:06:48.018031+00:00"
 }
