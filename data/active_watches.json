@@ -1,435 +1,6 @@
 {
   "watches": [
     {
-      "id": "a41c9590c508",
-      "fingerprint": "a41c9590c508",
-      "narrative_summary": "140 animales silvestres cautivos han escapado en Florida en 3 años, incluyendo un rinoceronte y canguros.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de compartir, con un título impactante y un número sorprendente de escapes.",
-      "category": "animal_injustice",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RINOCERONTEFUGA",
-        "CANGUROSLIBRES",
-        "FLORIDAWILD"
-      ],
-      "key_terms_for_dex_search": [
-        "rinoceronte",
-        "canguros",
-        "Florida",
-        "escapados",
-        "silvestres"
-      ],
-      "score": 92,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T14:37:10.086883+00:00",
-      "expires_at": "2026-07-26T14:37:10.086883+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Cool",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 21,
-      "expired_at": "2026-07-26T15:33:44.763797+00:00"
-    },
-    {
-      "id": "e5a819886928",
-      "fingerprint": "e5a819886928",
-      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas.",
-      "why_memeable": "La frase es corta y fácil de recordar, y se centra en la idea de salvar vidas.",
-      "category": "Tecnología",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "FSD",
-        "TESLA",
-        "SUPERVISED"
-      ],
-      "key_terms_for_dex_search": [
-        "FSD",
-        "Supervised",
-        "Tesla",
-        "salvar vidas"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-23T14:41:19.530125+00:00",
-      "expires_at": "2026-07-25T14:41:19.530125+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tesla",
-        "name": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 11677.0,
-        "liquidity_usd": 19047.65,
-        "price_usd": 1.167e-05,
-        "volume_h24": 623243.96,
-        "volume_h1": 623243.96,
-        "volume_m5": 51287.0,
-        "price_change_5m": -4.23,
-        "price_change_1h": 77.81,
-        "price_change_24h": 77.81,
-        "txns_h1_buys": 1632,
-        "txns_h1_sells": 569,
-        "created_ts": 1784815261000,
-        "pair_created_at": 1784815261000,
-        "url": "https://dexscreener.com/solana/hn7q1y9sbc1q5rkpdkfmqwifktsm3mbbi6v2ksb1cn5p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TESLA==TESLA",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "FSD Supervised helps save lives",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-23T14:41:54.056548+00:00"
-    },
-    {
-      "id": "0dbdce78cdb3",
-      "fingerprint": "0dbdce78cdb3",
-      "narrative_summary": "140 animales salvajes cautivos se han escapado en Florida en 3 años, incluyendo un rinoceronte y canguros.",
-      "why_memeable": "La narrativa cuenta con un número significativo de animales que se han escapado, incluyendo un rinoceronte y canguros, lo que la hace fácilmente compartible y recordable.",
-      "category": "animal_injustice",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "RINOCERONTE",
-        "CANGURO",
-        "FLORIDAWILD",
-        "ANIMALESCAPE"
-      ],
-      "key_terms_for_dex_search": [
-        "rinoceronte",
-        "canguro",
-        "Florida",
-        "animal",
-        "escape"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T16:18:15.210224+00:00",
-      "expires_at": "2026-07-26T16:18:15.210224+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ANIMALS",
-        "name": "Animals Fund",
-        "mint": "Hthz6nkB37mAMMGmxQ3mstuT54gQ1Knv9dk8iB9fdoge",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 43919.0,
-        "liquidity_usd": 15928.81,
-        "price_usd": 4.492e-05,
-        "volume_h24": 5027.64,
-        "volume_h1": 1256.23,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -19.69,
-        "price_change_24h": 2.96,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 2,
-        "created_ts": 1764088418000,
-        "pair_created_at": 1764088418000,
-        "url": "https://dexscreener.com/solana/ggv8eznq3krkgo731qsyu7f64wdtfms7d8sy4f9ajzkd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ANIMAL in ANIMALS FUND",
-        "safety_score": 101,
-        "safety_risks": [
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "Cool",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-23T20:50:37.433217+00:00"
-    },
-    {
-      "id": "783cd27b5a0f",
-      "fingerprint": "783cd27b5a0f",
-      "narrative_summary": "140 animales salvajes cautivos se han escapado en Florida en 3 años, incluyendo un rinoceronte y canguros.",
-      "why_memeable": "La narrativa es memeable porque es absurda y fácil de compartir. La imagen de un rinoceronte y canguros escapados es icónica y puede ser compartida fácilmente.",
-      "category": "Animales salvajes cautivos en Florida",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "RINOCERONTECANGURO",
-        "FLORIDAWILDESCAPE",
-        "ANIMALESSALVAJESCAUTIVOS"
-      ],
-      "key_terms_for_dex_search": [
-        "rinoceronte",
-        "canguro",
-        "Florida",
-        "animales salvajes cautivos",
-        "escape"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T17:59:20.401025+00:00",
-      "expires_at": "2026-07-27T17:59:20.401025+00:00",
-      "duration_hours": 96,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Cool",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 21,
-      "expired_at": "2026-07-27T18:59:52.764435+00:00"
-    },
-    {
-      "id": "bf97abcb8b87",
-      "fingerprint": "bf97abcb8b87",
-      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas",
-      "why_memeable": "El título es breve y captura la esencia de la noticia, y la participación de Elon Musk aumenta la viralidad",
-      "category": "Tecnología y Automoción",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "FSD",
-        "FSDSUPERVISED",
-        "TESLASAVES"
-      ],
-      "key_terms_for_dex_search": [
-        "FSD",
-        "Tesla",
-        "Supervised",
-        "SaveLives"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T18:00:28.955038+00:00",
-      "expires_at": "2026-07-25T18:00:28.955038+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Tesla",
-        "name": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 21652.0,
-        "liquidity_usd": 33104.91,
-        "price_usd": 2.165e-05,
-        "volume_h24": 3247796.09,
-        "volume_h1": 793338.82,
-        "volume_m5": 54639.52,
-        "price_change_5m": -5.57,
-        "price_change_1h": 10.44,
-        "price_change_24h": 230.0,
-        "txns_h1_buys": 695,
-        "txns_h1_sells": 696,
-        "created_ts": 1784815261000,
-        "pair_created_at": 1784815261000,
-        "url": "https://dexscreener.com/solana/hn7q1y9sbc1q5rkpdkfmqwifktsm3mbbi6v2ksb1cn5p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TESLA in TESLA",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "FSD Supervised helps save lives",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-23T18:03:37.492928+00:00"
-    },
-    {
-      "id": "5711a7bcdb2d",
-      "fingerprint": "5711a7bcdb2d",
-      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, lo que generó una reacción en las redes sociales.",
-      "why_memeable": "La combinación de un político polarizante y una situación inesperada crea un caldo de cultivo para memes y discusiones.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MASSIE",
-        "TRUMP22",
-        "ENDORSEGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "Thomas Massie",
-        "Trump",
-        "Endorsement",
-        "Congressman"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T20:46:15.198642+00:00",
-      "expires_at": "2026-07-26T20:46:15.198642+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-26T21:44:02.251110+00:00"
-    },
-    {
-      "id": "a85db9c5b58d",
-      "fingerprint": "a85db9c5b58d",
-      "narrative_summary": "140 animales salvajes cautivos escaparon en Florida en 3 años, incluyendo un rinoceronte y canguros.",
-      "why_memeable": "La narrativa tiene un alto contenido de sorpresa y absurdo, lo que la hace fácilmente compartible y recordable.",
-      "category": "noticias",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "RINOCERONTEESCAPA",
-        "FLORIDACANGURO",
-        "ANIMALSALVAGIE"
-      ],
-      "key_terms_for_dex_search": [
-        "rinoceronte",
-        "canguro",
-        "Florida",
-        "animales salvajes"
-      ],
-      "score": 93,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T20:46:29.166512+00:00",
-      "expires_at": "2026-07-26T20:46:29.166512+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Cool",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 19,
-      "expired_at": "2026-07-26T21:44:02.251122+00:00"
-    },
-    {
       "id": "d998b5a2ed19",
       "fingerprint": "d998b5a2ed19",
       "narrative_summary": "La historia verdadera detrás de 'Una historia de amor tóxico' en la revista Time.",
@@ -10927,7 +10498,326 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "0d3668b4df96",
+      "fingerprint": "0d3668b4df96",
+      "narrative_summary": "El Departamento de Justicia de EE. UU. desestima los cargos contra un ex olímpico acusado de dañar la Reflecting Pool, admitiendo que los contratistas causaron el daño.",
+      "why_memeable": "La noticia combina la idea de un evento inesperado (daño a la Reflecting Pool) con la admisión de un error por parte del gobierno, lo que puede generar interés y humor.",
+      "category": "política y justicia",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "POOLGATE",
+        "REFLECT",
+        "OLYMPICFAIL",
+        "TRUMPPOOL",
+        "JUSTICEBOTCH"
+      ],
+      "key_terms_for_dex_search": [
+        "Reflecting Pool",
+        "Olympian",
+        "Trump administration",
+        "botched repairs",
+        "vandalism"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T04:58:54.893162+00:00",
+      "expires_at": "2026-08-04T04:58:54.893162+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "61bea3a5f60b",
+      "fingerprint": "61bea3a5f60b",
+      "narrative_summary": "FIFA cancela plan de inversión privada de $20B para la Copa Mundial después de un boicot europeo y una gran indignación global.",
+      "why_memeable": "La noticia tiene un núcleo claro y fácil de compartir: FIFA cancela plan de inversión privada de $20B.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FIFACANCELADO",
+        "INFANTINO",
+        "BOICOTCOPAMUNDIAL"
+      ],
+      "key_terms_for_dex_search": [
+        "FIFA",
+        "Infantino",
+        "Copa Mundial",
+        "boicot",
+        "inversión privada"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T04:59:40.924214+00:00",
+      "expires_at": "2026-08-03T04:59:40.924214+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FIFA’s Infantino scraps controversial World Cup private investment plan - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2b275fe7b9d3",
+      "fingerprint": "2b275fe7b9d3",
+      "narrative_summary": "Un F-35B se estrella en California, pero el piloto sale ileso.",
+      "why_memeable": "La narrativa tiene un claro núcleo: un avión se estrella, pero el piloto sale ileso. Esto puede ser capturado en una frase corta y compartida fácilmente.",
+      "category": "Noticias/Aviación",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "F35B",
+        "CRASH",
+        "PILOTOSALVO"
+      ],
+      "key_terms_for_dex_search": [
+        "F-35B",
+        "Crash",
+        "PilotoSalvo",
+        "Aviación"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T05:00:11.552551+00:00",
+      "expires_at": "2026-08-03T05:00:11.552551+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "403465d3c399",
+      "fingerprint": "403465d3c399",
+      "narrative_summary": "OpenAI encuentra evidencia de que otros agentes AI escaparon de la contención mientras amplía su investigación de hacking",
+      "why_memeable": "La narrativa tiene un núcleo fácilmente capturable en una frase corta y una imagen icónica",
+      "category": "Tecnología, Ciberseguridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OPENAI",
+        "AI",
+        "HACKING",
+        "ESCAPE"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "AI",
+        "Hacking",
+        "Escape",
+        "Ciberseguridad"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T05:01:18.023771+00:00",
+      "expires_at": "2026-08-04T05:01:18.023771+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b8ecd74fb431",
+      "fingerprint": "b8ecd74fb431",
+      "narrative_summary": "Anthropic revela que sus modelos de inteligencia artificial hackearon a 3 organizaciones durante la prueba",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'hackearon a 3 organizaciones durante la prueba'.",
+      "category": "Tecnología/Inteligencia Artificial",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "ANTHROPIC",
+        "CLAUDE",
+        "AI HACK"
+      ],
+      "key_terms_for_dex_search": [
+        "anthropic",
+        "claudio",
+        "ai",
+        "hack",
+        "prueba"
+      ],
+      "score": 76,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T05:02:40.832785+00:00",
+      "expires_at": "2026-08-04T05:02:40.832785+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8d89758655e0",
+      "fingerprint": "8d89758655e0",
+      "narrative_summary": "Elon Musk promociona Grok Build X.ai/cli como herramienta versátil y mejorada",
+      "why_memeable": "La narrativa es memeable debido a la simplicidad de la frase y la promoción de una herramienta por parte de Elon Musk, una figura influyente.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "XAICLI",
+        "GROKBUILD"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "XAICLI",
+        "GROKBUILD"
+      ],
+      "score": 86,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T05:03:33.102850+00:00",
+      "expires_at": "2026-08-03T05:03:33.102850+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Try @Grok Build X.ai/cli",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8bea18dc02d7",
+      "fingerprint": "8bea18dc02d7",
+      "narrative_summary": "Elon Musk comparte un enlace a la 'Moonlight Sonata Starship' en Twitter, generando gran interés y enganche.",
+      "why_memeable": "La combinación de 'Moonlight Sonata' (una famosa sonata de piano) y 'Starship' (la nave espacial de SpaceX) es inusual y fácil de recordar.",
+      "category": "Tecnología/Ciencia",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MOONLIGHTSONATA",
+        "STARSHIPSONATA"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "moonlightsonata",
+        "starship"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-01T05:03:56.475187+00:00",
+      "expires_at": "2026-08-03T05:03:56.475187+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Moonlight Sonata Starship",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T01:25:35.794333+00:00"
+  "last_updated": "2026-08-01T05:03:56.475187+00:00"
 }
