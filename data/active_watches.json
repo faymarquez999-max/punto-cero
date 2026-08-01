@@ -1,194 +1,6 @@
 {
   "watches": [
     {
-      "id": "d998b5a2ed19",
-      "fingerprint": "d998b5a2ed19",
-      "narrative_summary": "La historia verdadera detrás de 'Una historia de amor tóxico' en la revista Time.",
-      "why_memeable": "La narrativa tiene un título atractivo y una descripción breve que sugiere una historia interesante.",
-      "category": "Historia verdadera y absurda",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "A_TOXIC_LOVE_STORY",
-        "TIME_MAGAZINE_EXPOSÉ",
-        "BIZARRE_TRUE_STORY"
-      ],
-      "key_terms_for_dex_search": [
-        "A_Toxic_Love_Story",
-        "Time_Magazine_Exposé",
-        "Bizarre_True_Story"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-23T20:46:43.199555+00:00",
-      "expires_at": "2026-07-25T20:46:43.199555+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-25T21:07:22.064268+00:00"
-    },
-    {
-      "id": "2c74b5501a0d",
-      "fingerprint": "2c74b5501a0d",
-      "narrative_summary": "Jesse Watters hace un comentario controvertido sobre las mujeres educadas en un programa de televisión.",
-      "why_memeable": "El comentario de Jesse Watters es un ejemplo de un memeable, ya que es una frase corta y controvertida que puede ser compartida fácilmente.",
-      "category": "Política/celebridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "WATTERS",
-        "EDUCADAS",
-        "TIRADA"
-      ],
-      "key_terms_for_dex_search": [
-        "Watters",
-        "Educadas",
-        "Tirada",
-        "Controversia",
-        "Política"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-23T20:47:12.374586+00:00",
-      "expires_at": "2026-07-25T20:47:12.374586+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Jesse Watters Targets 'Highly Educated' Women In Bizarre Dating Tirade - Yahoo News Singapore",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 14,
-      "expired_at": "2026-07-25T21:07:22.064281+00:00"
-    },
-    {
-      "id": "7e7e2737b099",
-      "fingerprint": "7e7e2737b099",
-      "narrative_summary": "Elon Musk anuncia que FSD Supervised ayuda a salvar vidas, generando una gran cantidad de interacción en las redes sociales.",
-      "why_memeable": "La narrativa es memeable debido a la frase 'FSD Supervised helps save lives' que puede ser capturada fácilmente y compartida.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "FSD",
-        "TESLA",
-        "SUPERVISED"
-      ],
-      "key_terms_for_dex_search": [
-        "FSD",
-        "Supervised",
-        "Tesla",
-        "save lives"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-07-23T20:48:51.374469+00:00",
-      "expires_at": "2026-07-25T20:48:51.374469+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TSLAx",
-        "name": "Tesla xStock",
-        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 312210.0,
-        "liquidity_usd": 1852851.64,
-        "price_usd": 312.2,
-        "volume_h24": 413806.29,
-        "volume_h1": 3498.48,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.09,
-        "price_change_24h": 0.98,
-        "txns_h1_buys": 14,
-        "txns_h1_sells": 2,
-        "created_ts": 1770810191000,
-        "pair_created_at": 1770810191000,
-        "url": "https://dexscreener.com/solana/8adabqktrs6hvmjyc6ezebgdiaxhlygridwkwwp1npff",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TESLA in TESLA XSTOCK",
-        "safety_score": 128525,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Permanent Control Enabled",
-            "level": "danger",
-            "description": "The token creator can permanently control all tokens"
-          },
-          {
-            "name": "Freeze Authority still enabled",
-            "level": "danger",
-            "description": "Tokens can be frozen and prevented from trading"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "FSD Supervised helps save lives",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 13,
-      "matched_at": "2026-07-25T18:47:59.812394+00:00"
-    },
-    {
       "id": "ec424d6593a7",
       "fingerprint": "ec424d6593a7",
       "narrative_summary": "Elon Musk publica un 'sí' en Twitter, generando mucha atención y reacciones.",
@@ -8745,14 +8557,15 @@
       "started_at": "2026-07-30T07:20:01.679950+00:00",
       "expires_at": "2026-08-01T07:20:01.679950+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T07:35:38.542486+00:00"
     },
     {
       "id": "6c6e6100ec50",
@@ -8883,14 +8696,15 @@
       "started_at": "2026-07-30T07:21:33.341129+00:00",
       "expires_at": "2026-08-01T07:21:33.341129+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘Spider-Man: Brand New Day’ Aims to Make Box Office History as It Targets High-Flying Opening - The Hollywood Reporter",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 0,
+      "expired_at": "2026-08-01T07:35:38.542504+00:00"
     },
     {
       "id": "9355f7a62c1c",
@@ -10817,7 +10631,145 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "65df2f8f0939",
+      "fingerprint": "65df2f8f0939",
+      "narrative_summary": "El Departamento de Justicia (DOJ) abandona cargos por dañar el estanque de reflexión, citando 'trabajo mal hecho' y contradiciendo a Trump.",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
+      "category": "Política/Justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "REFLECTINGPOOL",
+        "DOJ",
+        "TRUMP",
+        "ESTANQUE DE REFLEXIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "DOJ",
+        "Reflecting Pool",
+        "Trump",
+        "Justicia",
+        "Política"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T07:37:00.801015+00:00",
+      "expires_at": "2026-08-03T07:37:00.801015+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "995b9756ec3f",
+      "fingerprint": "995b9756ec3f",
+      "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía la investigación de hacking.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto potencial de viralidad debido a la combinación de tecnología avanzada y misterio.",
+      "category": "Tecnología",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "OPENAI",
+        "AI",
+        "HACKING",
+        "ESCAPE",
+        "CONTAINMENT"
+      ],
+      "key_terms_for_dex_search": [
+        "OpenAI",
+        "AI",
+        "hacking",
+        "escape",
+        "containment"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T07:39:18.330521+00:00",
+      "expires_at": "2026-08-04T07:39:18.330521+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d5f680e77c0f",
+      "fingerprint": "d5f680e77c0f",
+      "narrative_summary": "Elon Musk afirma que ciertas criaturas están cerca de la extinción",
+      "why_memeable": "La frase es breve y fácil de recordar, y el contexto de Elon Musk la hace más viral",
+      "category": "Tecnología y Medio Ambiente",
+      "matched_archetype": "prophet_of_doom_warning",
+      "candidate_tickers": [
+        "ROAD2EXT",
+        "EXTINCT",
+        "EXTINCTION"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "extinction",
+        "road"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T07:40:46.125596+00:00",
+      "expires_at": "2026-08-03T07:40:46.125596+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "They are far along the road to extinction",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T05:03:56.475187+00:00"
+  "last_updated": "2026-08-01T07:40:46.125596+00:00"
 }

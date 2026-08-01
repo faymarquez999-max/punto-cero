@@ -1,97 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-25T17:36:45.826408+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "221417939463",
-        "score": 90,
-        "category": "Investigación animal",
-        "title": "FBI exhumes dead animals at NorCal rescue that received dogs from Monterey County - KSBW",
-        "candidate_tickers": [
-          "ANIMALSFBI",
-          "FBIINVESTIGA",
-          "RESCATEANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T17:37:50.733809+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "caf755cc9996",
-        "score": 72,
-        "category": "tech",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "AIAIAI",
-          "AIREGULATOR",
-          "ELONMUSKAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T17:38:39.223536+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad",
-        "title": "Griffin and Xavier 20 years ago",
-        "candidate_tickers": [
-          "GriffinXavier",
-          "XX20"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T17:39:20.415891+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "The Overton Window right now",
-        "candidate_tickers": [
-          "Overton",
-          "Elon",
-          "Window"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T17:39:49.186290+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d8cd9ee9e746",
-        "score": 85,
-        "category": "Justicia y apoyo a una figura",
-        "title": "Justice for Louis.",
-        "candidate_tickers": [
-          "LOUIS",
-          "JUSTICEFORLOUIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T17:40:08.731379+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e5ced804d757",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 11957.0
-      }
-    },
-    {
-      "ts": "2026-06-25T17:40:11.228590+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a483e1295f8b",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 11957.0
-      }
-    },
-    {
       "ts": "2026-06-25T19:34:08.194452+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28274,6 +28183,107 @@
         "ticker": "Fauci",
         "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
         "mc": 161594.0
+      }
+    },
+    {
+      "ts": "2026-08-01T07:37:01.558919+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "65df2f8f0939",
+        "score": 88,
+        "category": "Política/Justicia",
+        "title": "DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post",
+        "candidate_tickers": [
+          "REFLECTINGPOOL",
+          "DOJ",
+          "TRUMP",
+          "ESTANQUE DE REFLEXIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:37:52.657504+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "noticias",
+        "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+        "candidate_tickers": [
+          "F35B",
+          "F35",
+          "Crash",
+          "Avión"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:38:36.077659+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y seguridad",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "candidate_tickers": [
+          "AnthropicHack",
+          "IAHack",
+          "ModelosHackeados"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:39:18.851096+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "995b9756ec3f",
+        "score": 89,
+        "category": "Tecnología",
+        "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+        "candidate_tickers": [
+          "OPENAI",
+          "AI",
+          "HACKING",
+          "ESCAPE",
+          "CONTAINMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:40:20.264075+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": " política",
+        "title": "EXCLUSIVE: Trump's powerful but unofficial Venezuela adviser leaves his role - Reuters",
+        "candidate_tickers": [
+          "TrumpVenezuela",
+          "AsesorDeTrump",
+          "VenezuelaAdviser"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:40:46.694815+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d5f680e77c0f",
+        "score": 83,
+        "category": "Tecnología y Medio Ambiente",
+        "title": "They are far along the road to extinction",
+        "candidate_tickers": [
+          "ROAD2EXT",
+          "EXTINCT",
+          "EXTINCTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T07:40:53.415945+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8aa775297c60",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 127634.0
       }
     }
   ]
