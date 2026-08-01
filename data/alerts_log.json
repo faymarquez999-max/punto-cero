@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T07:40:16.182004+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "83ef3882db55",
-        "score": 80,
-        "category": "Política y sociedad",
-        "title": "Restore Britain will abolish the entire asylum system.",
-        "candidate_tickers": [
-          "RESTORE",
-          "ASYLUM",
-          "REFUGE",
-          "BRIT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T07:40:50.303240+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Noticias y eventos",
-        "title": "\"GTA VI va a ser un titán de la industria\": Álvaro Daza analiza el videojuego que puede mover más que una superproducción de cine - Onda Cero",
-        "candidate_tickers": [
-          "GTA6",
-          "VenezuelaTerremotos",
-          "JuegosVI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T07:42:19.198035+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5e1ede567a6c",
-        "score": 80,
-        "category": "noticias de crimen y fraude",
-        "title": "Somali intelligence helps US arrest alleged ringleader of Minnesota fraud",
-        "candidate_tickers": [
-          "DOGSOFFRAUD",
-          "PERROSMUERTOS",
-          "FRAUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T07:44:10.506960+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política china",
-        "title": "China strips generals, ex-financial regulator, politburo member of lawmaker posts - Reuters",
-        "candidate_tickers": [
-          "CHINAREMOVE",
-          "CHINAGOVERNMENT",
-          "CHINAPOLITBURO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T07:45:28.792514+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28218,6 +28159,61 @@
         "ticker": "CALLDOG",
         "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
         "mc": 36732.0
+      }
+    },
+    {
+      "ts": "2026-08-01T22:15:57.273079+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "22ff9e536412",
+        "score": 89,
+        "category": "Historia",
+        "title": "They smashed babies against trees and murdered nearly 2 million Cambodians in under 4 years chasing a pure agrarian communist utopia with no cities, no money, and no private property.",
+        "candidate_tickers": [
+          "CAMBODIAGENOCIDE",
+          "CRÍMENESDECAMBOYA",
+          "MASACRESDECAMBOYA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T22:17:20.132743+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "21dac807100f",
+        "score": 88,
+        "category": "Noticias de crimen y violencia",
+        "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say - Reuters",
+        "candidate_tickers": [
+          "BOMBGIRL",
+          "MOSCOWBOMB",
+          "RESTAURANTTRAGEDY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T22:17:50.958731+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bcba508c2c1e",
+        "score": 88,
+        "category": "conflicto bélico",
+        "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "UCRANIAENPELIGA",
+          "MISILESBALISTICOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T22:20:23.047251+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 37534.0
       }
     }
   ]
