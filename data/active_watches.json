@@ -1,183 +1,6 @@
 {
   "watches": [
     {
-      "id": "11ff43645483",
-      "fingerprint": "11ff43645483",
-      "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, quien luego lo calificó como el peor congresista de la historia del país.",
-      "why_memeable": "La narrativa combina la figura polarizante de Trump con una situación inesperada y una crítica directa a un político, lo que puede generar engagement y memes.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPMASSIE",
-        "WORSTCONGRESS",
-        "TRUMPFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Thomas Massie",
-        "Congresista",
-        "Política",
-        "Meme"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T07:07:11.748640+00:00",
-      "expires_at": "2026-07-28T07:07:11.748640+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-28T09:14:28.626882+00:00"
-    },
-    {
-      "id": "255b41f4cb9a",
-      "fingerprint": "255b41f4cb9a",
-      "narrative_summary": "El lanzamiento del vuelo 13 de Starship de SpaceX está a punto de ocurrir en 10 minutos",
-      "why_memeable": "La combinación de la cuenta regresiva, el interés por la tecnología espacial y la figura de Elon Musk hacen que esta noticia sea muy atractiva y fácil de compartir",
-      "category": "Tecnología y espacio",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "STARSHIP",
-        "SPACEX",
-        "FLIGHT13",
-        "MOONSHOT"
-      ],
-      "key_terms_for_dex_search": [
-        "Starship",
-        "SpaceX",
-        "lanzamiento",
-        "vuelo 13",
-        "Elon Musk"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T07:07:13.439745+00:00",
-      "expires_at": "2026-07-27T07:07:13.439745+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "9y5nJ1nrfyUR4oUsM1xLTrJigTuvec6k4o9QWgcLspzE",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 116504.0,
-        "liquidity_usd": 39776.22,
-        "price_usd": 1.165e-06,
-        "volume_h24": 2521288.24,
-        "volume_h1": 483388.68,
-        "volume_m5": 239.45,
-        "price_change_5m": 0.29,
-        "price_change_1h": 6.68,
-        "price_change_24h": 55.84,
-        "txns_h1_buys": 3109,
-        "txns_h1_sells": 756,
-        "created_ts": 1784954861000,
-        "pair_created_at": 1784954861000,
-        "url": "https://dexscreener.com/solana/6x7yr6qfv8otunu7l8ntrmqwppkv2xldjxjybuukx6qe",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Flight 13 of Starship launch attempt in 10 minutes!",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T07:11:31.352801+00:00"
-    },
-    {
-      "id": "17b44d026552",
-      "fingerprint": "17b44d026552",
-      "narrative_summary": "Elon Musk pide a alguien que le muestre algo a Lenny Henry",
-      "why_memeable": "La frase es corta y fácil de compartir, y tiene un toque de humor absurdo gracias a la petición de Elon Musk",
-      "category": "humor",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "LENNYHENRY",
-        "SHOWTHISTOLENNY",
-        "ELONMUSKLENNY"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "lennyhenry",
-        "showthis"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-25T07:07:43.235924+00:00",
-      "expires_at": "2026-07-27T07:07:43.235924+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Could somebody show this to Lenny Henry",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-27T08:59:19.093049+00:00"
-    },
-    {
       "id": "917893b87f3d",
       "fingerprint": "917893b87f3d",
       "narrative_summary": "Video de ICE agentes deteniendo a una mujer en el aeropuerto de San Francisco va viral",
@@ -6675,14 +6498,15 @@
       "started_at": "2026-07-29T20:41:31.012427+00:00",
       "expires_at": "2026-08-01T20:41:31.012427+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-01T21:08:20.963497+00:00"
     },
     {
       "id": "a1bef8d0aebb",
@@ -6766,13 +6590,14 @@
       "started_at": "2026-07-29T20:44:31.181562+00:00",
       "expires_at": "2026-08-01T20:44:31.181562+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "'You did it!': Brothers go viral after emotional first solo haircut for man with autism - Gulf Coast News and Weather",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-01T21:08:20.963512+00:00"
     },
     {
       "id": "48ba42e236d1",
@@ -10482,7 +10307,153 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "8847159fa1f6",
+      "fingerprint": "8847159fa1f6",
+      "narrative_summary": "El presidente Trump denuncia la decisión del Departamento de Justicia de retirar los cargos por vandalismo en la piscina Reflecting Pool",
+      "why_memeable": "La noticia combina la figura polarizante de Trump con un evento inesperado y una dosis de drama, lo que puede generar un meme viral",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPPOOL",
+        "REFLECTGATE",
+        "POOLGATE",
+        "TRUMPVANDAL",
+        "JUSTICEFAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Reflecting Pool",
+        "vandalismo",
+        "Departamento de Justicia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T21:08:22.266902+00:00",
+      "expires_at": "2026-08-04T21:08:22.266902+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "aa0e5fe0c052",
+      "fingerprint": "aa0e5fe0c052",
+      "narrative_summary": "Fauci admite que la vacuna no detiene la propagación del virus, pero no quiere admitirlo públicamente para no debilitar su caso legal para las medidas de coerción.",
+      "why_memeable": "La narrativa es memeable porque implica una contradicción entre la verdad y la política, lo que es fácil de capturar en una frase o imagen.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCIGATE",
+        "VACCINESCANDAL",
+        "COERCIONCOVERUP"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "vaccine",
+        "mandates",
+        "coercion",
+        "coverup"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T21:08:36.724411+00:00",
+      "expires_at": "2026-08-03T21:08:36.724411+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Read this Fauci diary entry closely. Officials would not admit the vaccine was not stopping spread because it might weaken the legal case for mandates. That is not science. That is a cover-up to justify coercion.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d7e2e0b7d6a2",
+      "fingerprint": "d7e2e0b7d6a2",
+      "narrative_summary": "Explosión en un café en Moscú, 3 muertos y 15 heridos",
+      "why_memeable": "La narrativa tiene un claro núcleo de emoción y sorpresa, con un evento dramático y una foto potencialmente icónica",
+      "category": "crimen y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MOSCÚ",
+        "EXPLOSIÓN",
+        "CAFÉ",
+        "MUERTOS",
+        "HERIDOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Moscú",
+        "explosión",
+        "café",
+        "muertos",
+        "heridos"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T21:09:11.850702+00:00",
+      "expires_at": "2026-08-03T21:09:11.850702+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russian Interior Ministry: 3 people killed and 15 others injured in an explosion at a cafe in central Moscow",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T20:06:10.706896+00:00"
+  "last_updated": "2026-08-01T21:09:11.850702+00:00"
 }

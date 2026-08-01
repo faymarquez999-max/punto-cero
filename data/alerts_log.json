@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T04:36:04.447731+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dfaf48036132",
-        "score": 78,
-        "category": "humor/ironía",
-        "title": "30 year old man with 100k nw",
-        "candidate_tickers": [
-          "100KMAN",
-          "30YOMAN",
-          "NW100K"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T04:36:44.824549+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "What is the framework agreement signed by Israel and Lebanon?",
-        "candidate_tickers": [
-          "ISRLIB",
-          "ACUERDOLIBANO",
-          "ISRLIBANON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T07:40:13.211482+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "477a87770e90",
-        "score": 80,
-        "category": "Geopolítica y conflicto",
-        "title": "Meet Chauntyll Allen, a school board member at @SPPS_News .",
-        "candidate_tickers": [
-          "IRANUS",
-          "GOLFO",
-          "OMANCRISIS",
-          "IRANGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T07:40:14.840480+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6305b920f232",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "So many such stories that were suppressed by the legacy mainstream media …",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPFEUD",
-          "ELONVSTRUMP",
-          "EPSTEINGATE",
-          "MUSKVSALL"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T07:40:16.182004+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28221,6 +28159,65 @@
         "ticker": "Anthropic",
         "mint": "GZqm92VbXZFySDRYxvTBZgf1dko92H8S7meQmLrEbyMj",
         "mc": 375263.0
+      }
+    },
+    {
+      "ts": "2026-08-01T21:08:22.741786+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8847159fa1f6",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPPOOL",
+          "REFLECTGATE",
+          "POOLGATE",
+          "TRUMPVANDAL",
+          "JUSTICEFAIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T21:08:37.097027+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aa0e5fe0c052",
+        "score": 91,
+        "category": "política",
+        "title": "Read this Fauci diary entry closely. Officials would not admit the vaccine was not stopping spread because it might weaken the legal case for mandates. That is not science. That is a cover-up to justi",
+        "candidate_tickers": [
+          "FAUCIGATE",
+          "VACCINESCANDAL",
+          "COERCIONCOVERUP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T21:09:12.221435+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d7e2e0b7d6a2",
+        "score": 88,
+        "category": "crimen y violencia",
+        "title": "Russian Interior Ministry: 3 people killed and 15 others injured in an explosion at a cafe in central Moscow",
+        "candidate_tickers": [
+          "MOSCÚ",
+          "EXPLOSIÓN",
+          "CAFÉ",
+          "MUERTOS",
+          "HERIDOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T21:13:55.638548+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 36732.0
       }
     }
   ]
