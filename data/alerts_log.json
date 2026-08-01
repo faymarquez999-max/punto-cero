@@ -1,88 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-25T21:23:23.866383+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Celebridad",
-        "title": "Griffin and Xavier 20 years ago",
-        "candidate_tickers": [
-          "GriffinXavier",
-          "GriffinXavier20",
-          "ElonMuskGriffin"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T21:23:56.474963+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad",
-        "title": "Texas",
-        "candidate_tickers": [
-          "TX",
-          "TXMUSK",
-          "ELONTX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T21:24:17.872165+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2f81106a9760",
-        "score": 78,
-        "category": "Política y justicia social",
-        "title": "Justice for Louis.",
-        "candidate_tickers": [
-          "JUSTICEFORLOUIS",
-          "LOUISMEME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:09.561930+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e5ced804d757",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15139.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:10.972863+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a483e1295f8b",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15139.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:15.229973+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "da8816a0a659",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15139.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:20.095111+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b1dbe1a2bbd0",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15248.0
-      }
-    },
-    {
       "ts": "2026-06-25T21:25:21.235150+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28277,6 +28195,108 @@
         "ticker": "Fauci",
         "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
         "mc": 127048.0
+      }
+    },
+    {
+      "ts": "2026-08-01T11:09:26.637504+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política y seguridad nacional",
+        "title": "Iran: The Making of a War",
+        "candidate_tickers": [
+          "TRUMPvsIRAN",
+          "IRANATTACK",
+          "TRUMPWAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:11:18.665989+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8df082ff7e88",
+        "score": 88,
+        "category": "conflicto geopolítico",
+        "title": "Lithuanian embassy in Kyiv damaged in Russian missile attack - Reuters",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "KYIVBOMBED",
+          "LITUANIAENKYIV"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:11:45.282336+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ebd95e6f5360",
+        "score": 70,
+        "category": "fútbol",
+        "title": "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
+        "candidate_tickers": [
+          "LEWANDOWSKI",
+          "LIVERPOOL",
+          "IRAOLA",
+          "49ERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:12:36.614252+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Tecnología/Inteligencia Artificial",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "candidate_tickers": [
+          "ANTRP",
+          "HACKEDAI",
+          "AI Models"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:13:04.806104+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Accidente aéreo",
+        "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+        "candidate_tickers": [
+          "F35Crash",
+          "AviónEstrella",
+          "PilotoIleso"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:13:31.103732+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "tecnología",
+        "title": "Alphabet rolls back AI image generation in Google Earth over policy violations - Reuters",
+        "candidate_tickers": [
+          "OLLIA",
+          "AI_GEO",
+          "GOOG_EARTH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T11:14:08.696096+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "faac323d9eed",
+        "score": 70,
+        "category": "finanzas",
+        "title": "EXCLUSIVE: Bessent's 'to do' list: buy $5-10 billion worth of Japanese yen, Reuters photo shows - Reuters",
+        "candidate_tickers": [
+          "BESSENT",
+          "YEN",
+          "BILLION"
+        ]
       }
     }
   ]
