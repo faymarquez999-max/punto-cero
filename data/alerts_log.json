@@ -1,122 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T00:20:17.901272+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models - Reuters",
-        "candidate_tickers": [
-          "GPT5.6",
-          "OpenAI",
-          "IAFronteriza"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:21:15.798313+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "AIAIAI",
-          "AI Regulator"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:21:44.195646+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "01d2ba6f8abd",
-        "score": 82,
-        "category": "Política y tecnología",
-        "title": "Both can’t be true at the same time",
-        "candidate_tickers": [
-          "ELONMUSKPARADOJA",
-          "PARADOJAELON",
-          "MUSKTRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:22:47.219112+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c73e13914f69",
-        "score": 74,
-        "category": "Celebridad y redes sociales",
-        "title": "Karma",
-        "candidate_tickers": [
-          "KARMA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T04:32:07.416798+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "50efc2a1855f",
-        "score": 80,
-        "category": "Política Internacional",
-        "title": "John Bolton once called for Edward Snowden's execution. He even fantasized how, saying Snowden \"ought to swing from a tall oak tree.\"",
-        "candidate_tickers": [
-          "BOLTON",
-          "SNOWDEN",
-          "IRANUS",
-          "EXECUTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T04:32:55.107183+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e54301d39ceb",
-        "score": 78,
-        "category": "Desastres naturales",
-        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-        "candidate_tickers": [
-          "VENEZUELAEARTHQUAKE",
-          "TERREMOTOSVENEZUELA",
-          "RESCATEVENEZUELA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T04:33:46.118342+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b234d6437055",
-        "score": 78,
-        "category": "animal welfare",
-        "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-        "candidate_tickers": [
-          "DEADDOGSOFCAL",
-          "RESCUECRISIS",
-          "ANIMALABUSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T04:35:30.453068+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f01fdc762bf3",
-        "score": 89,
-        "category": "Accidente aéreo",
-        "title": "Small aircraft crashes into Beijing’s tallest building, videos show - The Washington Post",
-        "candidate_tickers": [
-          "BEIJINGCRASH",
-          "AVIÓNESTRELLA",
-          "EDIFICIOMASALTO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T04:36:04.447731+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28229,6 +28113,114 @@
           "BLANCHEVSTRUMP",
           "TRUMPFONDOANTIARMA"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:02:28.987836+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8179e8460d5b",
+        "score": 80,
+        "category": "Política y controversia",
+        "title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
+        "candidate_tickers": [
+          "TRUMPPOOL",
+          "REFLECTGATE",
+          "POOLGATE",
+          "TRUMPVANDAL",
+          "JUSTICEFAIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:04:16.130462+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aced966b0d22",
+        "score": 80,
+        "category": "fútbol, política",
+        "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
+        "candidate_tickers": [
+          "INFANTINO",
+          "UEFA",
+          "FIFA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:04:41.327172+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ba98d8087e9a",
+        "score": 89,
+        "category": "política",
+        "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+        "candidate_tickers": [
+          "CEUTA",
+          "BARRERA FLOTANTE",
+          "MIGRANTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:05:33.116473+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d825394b403b",
+        "score": 89,
+        "category": "Deportes",
+        "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
+        "candidate_tickers": [
+          "AVALANCHA",
+          "PAKISTÁN",
+          "ESCALADORES",
+          "MUERTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:06:11.108244+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0214f5748e67",
+        "score": 88,
+        "category": "Noticias de accidentes y catástrofes",
+        "title": "Three killed, 15 injured in Moscow explosion, TASS says - Reuters",
+        "candidate_tickers": [
+          "MOSCOWEXPLOSION",
+          "TASS",
+          "RUSSIANEWS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T20:07:56.282375+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 44565.0
+      }
+    },
+    {
+      "ts": "2026-08-01T20:08:04.516062+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd98558cbef2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 20890.0
+      }
+    },
+    {
+      "ts": "2026-08-01T20:08:06.656017+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e7c0fe373800",
+        "ticker": "Anthropic",
+        "mint": "GZqm92VbXZFySDRYxvTBZgf1dko92H8S7meQmLrEbyMj",
+        "mc": 375263.0
       }
     }
   ]

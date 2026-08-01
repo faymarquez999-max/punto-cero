@@ -1,252 +1,6 @@
 {
   "watches": [
     {
-      "id": "ef2ebb74a202",
-      "fingerprint": "ef2ebb74a202",
-      "narrative_summary": "Elon Musk publica 'Wow' en Twitter y recibe gran atención",
-      "why_memeable": "Frase corta y absurda de Elon Musk, figura top, que genera interés",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-25T01:18:51.882476+00:00",
-      "expires_at": "2026-07-26T01:18:51.882476+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 252264.0,
-        "liquidity_usd": 85492.51,
-        "price_usd": 0.0002523,
-        "volume_h24": 15773.59,
-        "volume_h1": 620.67,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.37,
-        "price_change_24h": -3.55,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 3,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T01:23:06.513733+00:00"
-    },
-    {
-      "id": "c53d696ee50e",
-      "fingerprint": "c53d696ee50e",
-      "narrative_summary": "Imagen de Starship capturada desde satélites Starlink",
-      "why_memeable": "La combinación de tecnología avanzada y la perspectiva única de la imagen la hacen muy compartible y memorable",
-      "category": "Tecnología Espacial",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "STARLNK",
-        "SPCSHP",
-        "ELONVIEW",
-        "SATELLITE"
-      ],
-      "key_terms_for_dex_search": [
-        "Starlink",
-        "Starship",
-        "Satélites",
-        "Espacio"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T04:35:55.645357+00:00",
-      "expires_at": "2026-07-28T04:35:55.645357+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Starship as seen from Starlink satellites",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-28T06:17:12.639057+00:00"
-    },
-    {
-      "id": "e9153cce7a07",
-      "fingerprint": "e9153cce7a07",
-      "narrative_summary": "Elon Musk comparte un 'Yikes' en Twitter, generando una gran cantidad de interacción",
-      "why_memeable": "La simplicidad de la frase 'Yikes' junto con la notoriedad de Elon Musk la convierten en un meme potencialmente viral",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YIKES"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yikes",
-        "twitter"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-25T04:36:09.168767+00:00",
-      "expires_at": "2026-07-27T04:36:09.168767+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Yikes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-27T05:29:39.436161+00:00"
-    },
-    {
-      "id": "a969423b1d91",
-      "fingerprint": "a969423b1d91",
-      "narrative_summary": "Elon Musk comparte un video emocionante de la Starship que parece haber tenido un momento increíble durante su vuelo.",
-      "why_memeable": "La frase 'incredible 60 seconds' es muy memeable y fácil de compartir.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "STARSHIP",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "starship",
-        "elonmusk",
-        "incredible",
-        "seconds"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T04:36:38.132013+00:00",
-      "expires_at": "2026-07-27T04:36:38.132013+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The most incredible 60 seconds from today’s Starship flight.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-27T05:29:39.436165+00:00"
-    },
-    {
-      "id": "82dc3114240c",
-      "fingerprint": "82dc3114240c",
-      "narrative_summary": "Incendios en Madrid y Ávila dejan a decenas de miles de personas evacuadas.",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y es fácil de capturar en una frase.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MADRIDINCENDIO",
-        "EVACUADOSMADRID",
-        "INCENDIOSESPANA"
-      ],
-      "key_terms_for_dex_search": [
-        "Madrid",
-        "incendio",
-        "evacuados",
-        "Espana"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T04:38:09.691938+00:00",
-      "expires_at": "2026-07-27T04:38:09.691938+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España - BBC",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-27T05:29:39.436168+00:00"
-    },
-    {
       "id": "11ff43645483",
       "fingerprint": "11ff43645483",
       "narrative_summary": "El congresista Thomas Massie publicó un viejo respaldo de Trump, quien luego lo calificó como el peor congresista de la historia del país.",
@@ -6521,7 +6275,7 @@
       "started_at": "2026-07-29T19:39:09.488017+00:00",
       "expires_at": "2026-08-01T19:39:09.488017+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Because he would incriminate himself. grok.com/share/bGVnYWN5_2bf9…",
       "cluster_sources": [
@@ -6530,7 +6284,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-01T20:02:27.051150+00:00"
     },
     {
       "id": "db80b9378f59",
@@ -10494,7 +10249,240 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "8179e8460d5b",
+      "fingerprint": "8179e8460d5b",
+      "narrative_summary": "Trump se opone a la decisión del Departamento de Justicia de retirar los cargos por daños al Reflecting Pool",
+      "why_memeable": "La combinación de Trump, una figura polarizante, y un evento controvertido como el daño al Reflecting Pool, ofrece un gran potencial para la creación de memes y contenido viral",
+      "category": "Política y controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPPOOL",
+        "REFLECTGATE",
+        "POOLGATE",
+        "TRUMPVANDAL",
+        "JUSTICEFAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Reflecting Pool",
+        "vandalismo",
+        "Departamento de Justicia",
+        "controversia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-01T20:02:28.496407+00:00",
+      "expires_at": "2026-08-04T20:02:28.496407+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "aced966b0d22",
+      "fingerprint": "aced966b0d22",
+      "narrative_summary": "UEFA declara pérdida de confianza en Gianni Infantino debido a un plan de equidad para el Mundial de Fútbol que fue rechazado.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre UEFA y Gianni Infantino, lo que la hace fácil de compartir y recordar.",
+      "category": "fútbol, política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "INFANTINO",
+        "UEFA",
+        "FIFA"
+      ],
+      "key_terms_for_dex_search": [
+        "Gianni Infantino",
+        "UEFA",
+        "FIFA",
+        "Mundial de Fútbol",
+        "equidad",
+        "confianza"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 0,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T20:04:15.591635+00:00",
+      "expires_at": "2026-08-03T20:04:15.591635+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ba98d8087e9a",
+      "fingerprint": "ba98d8087e9a",
+      "narrative_summary": "España instala barrera flotante en Ceuta después de una afluencia mortal de migrantes",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'barrera' que se puede capturar en una imagen",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CEUTA",
+        "BARRERA FLOTANTE",
+        "MIGRANTES"
+      ],
+      "key_terms_for_dex_search": [
+        "Ceuta",
+        "barrera flotante",
+        "migrantes",
+        "injusticia"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T20:04:40.941752+00:00",
+      "expires_at": "2026-08-03T20:04:40.941752+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d825394b403b",
+      "fingerprint": "d825394b403b",
+      "narrative_summary": "Todas las 10 escaladores que se llevaron por una avalancha en Pakistán han sido confirmadas muertas.",
+      "why_memeable": "La historia tiene un impacto emocional fuerte y es fácil de compartir.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AVALANCHA",
+        "PAKISTÁN",
+        "ESCALADORES",
+        "MUERTOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Avalancha",
+        "Pakistán",
+        "Escaladores",
+        "Muertos"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T20:05:32.560974+00:00",
+      "expires_at": "2026-08-03T20:05:32.560974+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0214f5748e67",
+      "fingerprint": "0214f5748e67",
+      "narrative_summary": "Explosión en Moscú deja tres muertos y 15 heridos",
+      "why_memeable": "La narrativa tiene un título claro y una descripción concisa, lo que la hace fácilmente compartible y recordable",
+      "category": "Noticias de accidentes y catástrofes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MOSCOWEXPLOSION",
+        "TASS",
+        "RUSSIANEWS"
+      ],
+      "key_terms_for_dex_search": [
+        "explosion",
+        "Moscow",
+        "TASS",
+        "Russia"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-01T20:06:10.706896+00:00",
+      "expires_at": "2026-08-03T20:06:10.706896+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Three killed, 15 injured in Moscow explosion, TASS says - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-01T17:51:22.764246+00:00"
+  "last_updated": "2026-08-01T20:06:10.706896+00:00"
 }
