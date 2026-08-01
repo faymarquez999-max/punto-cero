@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-26T23:02:13.159604+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Tecnología",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "AIAIAI",
-          "AIRegulator"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T23:02:34.804412+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "503467a503c8",
-        "score": 85,
-        "category": "política",
-        "title": "Both can’t be true at the same time",
-        "candidate_tickers": [
-          "ELONMUSKLIES",
-          "TRUTHVSELON",
-          "ELONVSREALITY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-26T23:02:56.320535+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eec2f912f214",
-        "score": 80,
-        "category": "Celebridad/Política",
-        "title": "Please watch.",
-        "candidate_tickers": [
-          "WATCHELON",
-          "PLEASEWATCH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:17:49.192418+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bb2db13683c9",
-        "score": 78,
-        "category": "política",
-        "title": "Good way to frame it.",
-        "candidate_tickers": [
-          "IRAN",
-          "TRUMP",
-          "CESEALFUEGO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:18:42.920817+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "45f6bf433927",
-        "score": 88,
-        "category": "abuso animal",
-        "title": "Bodies of 117 Dogs Are Found at ‘No-Kill’ Sanctuary in California, Sheriff Says - The New York Times",
-        "candidate_tickers": [
-          "117PERROSMUERTOS",
-          "REFUGIODECALIFORNIA",
-          "ABUSOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T00:19:15.141390+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "desastres naturales y mercado de valores",
-        "title": "Stock Market Today: Nasdaq Edges Higher; SpaceX in Focus — Live Updates - WSJ",
-        "candidate_tickers": [
-          "TERREMOTOS",
-          "VEN",
-          "MARKET",
-          "SPACEX"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T00:20:17.901272+00:00",
       "kind": "shadow",
       "payload": {
@@ -28228,6 +28141,94 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 208004.0
+      }
+    },
+    {
+      "ts": "2026-08-01T18:47:38.993853+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "medioambiental",
+        "title": "Oil leak spreads from a sanctioned tanker grounded off Oman, images show - Jacksonville Journal-Courier",
+        "candidate_tickers": [
+          "Petrolero",
+          "Omán",
+          "Derrame"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T18:48:20.196242+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b31e03075f59",
+        "score": 73,
+        "category": "política internacional",
+        "title": "In Trump Gaza deal, Hamas disarms, Israel withdraws. Neither wants to go first. - The Washington Post",
+        "candidate_tickers": [
+          "TRUMP_GAZA",
+          "HAMAS_ISRAEL",
+          "TRUMP_GAZA_DEAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T18:49:08.155513+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6a11aafa098a",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+        "candidate_tickers": [
+          "NIRMALPURJA",
+          "AVALANCHAPAKISTÁN",
+          "CLIMBINGTRAGEDY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T18:49:33.549935+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias",
+        "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+        "candidate_tickers": [
+          "RUINADOS",
+          "SAVANNAH",
+          "SECUESTRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T18:49:59.365593+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "30ba93c75db4",
+        "score": 88,
+        "category": "Política/Abuso de poder",
+        "title": "Democrats see a chance to flip a US House seat as abuse claims mount against Ohio Rep. Max Miller - AP News",
+        "candidate_tickers": [
+          "MAXMILLER",
+          "ABUSOCONGRESISTA",
+          "DEMOCRATAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T18:50:36.144272+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "794a1f0c7d3b",
+        "score": 80,
+        "category": "política",
+        "title": "Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund - Reuters",
+        "candidate_tickers": [
+          "TRUMPVSBLANCHE",
+          "BLANCHEVSTRUMP",
+          "TRUMPFONDOANTIARMA"
+        ]
       }
     }
   ]
