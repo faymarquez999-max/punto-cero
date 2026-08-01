@@ -1,88 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-25T21:25:21.235150+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e708c740905d",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15139.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:26.088039+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "caf755cc9996",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15248.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:27.211394+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d8cd9ee9e746",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15248.0
-      }
-    },
-    {
-      "ts": "2026-06-25T21:25:29.435518+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2f81106a9760",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 15248.0
-      }
-    },
-    {
-      "ts": "2026-06-25T23:00:43.667468+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f6d455768008",
-        "score": 82,
-        "category": "Noticias de animales",
-        "title": "Mother, daughter arrested after dogs found dead, malnourished in Smith County - KLTV.com",
-        "candidate_tickers": [
-          "DEADDOGS",
-          "MALNUTRIDOS",
-          "SMITHCOUNTY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:01:03.081766+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Celebridad",
-        "title": "Griffin and Xavier 20 years ago",
-        "candidate_tickers": [
-          "Griffin",
-          "Xavier",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-25T23:01:31.590772+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "Celebridad",
-        "title": "Well said",
-        "candidate_tickers": [
-          "WELL",
-          "WELLSAID"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-25T23:01:59.714757+00:00",
       "kind": "shadow",
       "payload": {
@@ -28296,6 +28214,112 @@
           "BESSENT",
           "YEN",
           "BILLION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:16:34.063847+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2e9124b08f33",
+        "score": 80,
+        "category": "Política y tecnología",
+        "title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
+        "candidate_tickers": [
+          "MUSKTRUMP",
+          "SPACEXSEC",
+          "TRUMPFEUD",
+          "MUSKFEUD",
+          "SPACEXMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:17:00.264504+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "28366372b1f1",
+        "score": 79,
+        "category": "política",
+        "title": "Spain says migrants in Ceuta have returned to Morocco",
+        "candidate_tickers": [
+          "CEUTA",
+          "MARRUECOS",
+          "MIGRANTES",
+          "ESPAÑA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:17:42.951940+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bd4ccbd9d035",
+        "score": 80,
+        "category": "noticias internacionales",
+        "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "UCRANIAENPELÍCULAS",
+          "MISILESBALÍSTICOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:20:21.332427+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a9e3e911dd63",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "candidate_tickers": [
+          "ANTHROPIC",
+          "HACKEOAI",
+          "IAHACKEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:20:54.482998+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Noticias de defensa",
+        "title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
+        "candidate_tickers": [
+          "F35Crash",
+          "F35B",
+          "Avión estrellado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:21:27.210755+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología y Política",
+        "title": "Alphabet rolls back AI image generation in Google Earth over policy violations - Reuters",
+        "candidate_tickers": [
+          "AI_Google",
+          "Google_Earth",
+          "Alphabet"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-01T12:21:58.798757+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "179ced54b165",
+        "score": 80,
+        "category": "Tecnología y hacking",
+        "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+        "candidate_tickers": [
+          "AI_ESCAPE",
+          "OPENAI_HACKING",
+          "IA_CONTAINMENT"
         ]
       }
     }
