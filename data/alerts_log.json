@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T08:10:30.844466+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b1f8c25758cf",
-        "ticker": "TrueX",
-        "mint": "CucxvPpWtprW28pE8SxGknVMuTiCAS21DQLftLxQCZKz",
-        "mc": 52140.0
-      }
-    },
-    {
-      "ts": "2026-06-28T08:10:37.852782+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "67d7c762515b",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 302675.0
-      }
-    },
-    {
-      "ts": "2026-06-28T08:10:39.608575+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fbaf1f196acf",
-        "ticker": "SOBAT",
-        "mint": "EW7cWbNmTgL7PLQNiJ6tBVC62SJzJXa2pFYJjDPPpump",
-        "mc": 213797.0
-      }
-    },
-    {
-      "ts": "2026-06-28T10:39:20.780136+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f5b7282eaced",
-        "score": 90,
-        "category": "Trading y Finanzas",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ZEROSUM",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-28T10:40:45.641545+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28128,6 +28083,65 @@
         "ticker": "CTO",
         "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
         "mc": 20643.0
+      }
+    },
+    {
+      "ts": "2026-08-02T22:14:28.395877+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "390b552f94bd",
+        "score": 88,
+        "category": "noticias de desastres naturales",
+        "title": "Wildfires force mass evacuations across the Pacific Northwest",
+        "candidate_tickers": [
+          "#WILDFIRESPNW",
+          "#EVACUACIONESPNW",
+          "#INCENDIOSFORESTALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T22:15:38.765636+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d30626a46e39",
+        "score": 90,
+        "category": "accidente",
+        "title": "Two firefighting helicopters collide while battling wildfire in Greece - Euronews.com",
+        "candidate_tickers": [
+          "GRECIAINCENDIO",
+          "HELICÓPTEROSCHOCAN",
+          "BOMBEROSGRECIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T22:16:49.843097+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a139e637dccc",
+        "score": 80,
+        "category": "política",
+        "title": "Ohio Rep. Marcy Kaptur hospitalized after hit-and-run accident - Politico",
+        "candidate_tickers": [
+          "KAPTURCRASH",
+          "MARCYKAPTUR",
+          "HITANDRUN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T22:18:50.520992+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Noticias de negocios y economía",
+        "title": "WestJet flight attendants go on strike after talks fall through, grounding flights - Reuters",
+        "candidate_tickers": [
+          "WESTJET",
+          "VUELOSCANCELADOS",
+          "HUELGAENAVIACIÓN"
+        ]
       }
     }
   ]
