@@ -1,224 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T11:43:45.464828+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c368b0fbf641",
-        "score": 88,
-        "category": "animal_crime",
-        "title": "Disturbing that a doctor, someone whose career is supposed to be healing people, would commit mass murder",
-        "candidate_tickers": [
-          "#PERROSMUERTOS",
-          "#SANTUARIODECALIFORNIA",
-          "#INJUSTICIAANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:44:05.678628+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "97e02c46f0ac",
-        "score": 73,
-        "category": "Política",
-        "title": "Restore Britain will abolish the entire asylum system.",
-        "candidate_tickers": [
-          "RESTOREBRITAIN",
-          "ABOLISHASYLUM",
-          "REFUGEECRISIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:45:34.959096+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Accidentes y noticias inusuales",
-        "title": "Child attack crocodile enclosure reopens to public",
-        "candidate_tickers": [
-          "Cocodrilos",
-          "Niño",
-          "Jaula",
-          "Reabrir"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:46:15.436285+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c0369b720a9e",
-        "score": 70,
-        "category": "Salud y seguridad",
-        "title": "Lightning causes fires and serious house damage",
-        "candidate_tickers": [
-          "VIRUSCRUCERO",
-          "SALUDENRIESGO",
-          "ANIMALESENCRUCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:46:46.698413+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Accidente aéreo",
-        "title": "Rare light aircraft crash in Beijing kills pilot, injures 13 people - Reuters",
-        "candidate_tickers": [
-          "BEIJINGCRASH",
-          "AVIONLIGEROCRASH",
-          "PILOTCRASH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:47:08.054058+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "France considers measures after Burkina Faso breaks off relations - Reuters",
-        "candidate_tickers": [
-          "BurkinaFaso",
-          "Francia",
-          "ruptura relaciones"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:47:28.186502+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e96cf35b2e26",
-        "score": 70,
-        "category": "Riqueza y edad",
-        "title": "30 year old man with 100k nw",
-        "candidate_tickers": [
-          "100KMAN",
-          "MILLIONAIREAT30"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T11:48:22.364902+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política internacional",
-        "title": "China strips generals, ex-financial regulator, politburo member of lawmaker posts - Reuters",
-        "candidate_tickers": [
-          "CHINAREVOKA",
-          "GENERALESS",
-          "POLITBURÓ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:00:35.232425+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política internacional",
-        "title": "Lebanon's Foreign Minister: The framework agreement with Israel embodies the victory of the diplomatic solution and the prioritization of the logic of the state and its institutions",
-        "candidate_tickers": [
-          "LEBANON",
-          "ISRAEL",
-          "ACUERDO_DE_MARCO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:02:20.125323+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9c243ef8d69a",
-        "score": 74,
-        "category": "clima y medio ambiente",
-        "title": "Germany braces for record-breaking temperatures as heatwave moves east - Al Jazeera",
-        "candidate_tickers": [
-          "ALEMANIACALOR",
-          "CALOREXTREMO",
-          "TEMPERATURASRÉCORD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:02:41.492836+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "96721f163dab",
-        "score": 82,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:03:07.904734+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "64256e124674",
-        "score": 84,
-        "category": "Tendencia cultural",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "ELON",
-          "EXACTLY",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:03:31.534836+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ac044845a3a9",
-        "score": 85,
-        "category": "Abuso sexual",
-        "title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afgh",
-        "candidate_tickers": [
-          "AFGHANABUSER",
-          "BALNEARIOABUSE",
-          "INMIGRANTEVIOLADOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T13:05:13.044341+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Deportes",
-        "title": "Kid goes viral for crying about being a Mets fan, wanting to switch to the Yankees: ‘I don’t want to be the worst’ - New York Post",
-        "candidate_tickers": [
-          "MetsCry",
-          "YankeesFan",
-          "KidMets"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:55:08.797777+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "accidentes aéreos",
-        "title": "Beijing investigating rare light aircraft crash which killed pilot, injured 13 - Reuters",
-        "candidate_tickers": [
-          "OLLIA",
-          "AVIÓN LIGERO",
-          "BEIJING CRASH"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T14:55:47.249679+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28210,6 +27992,173 @@
         "ticker": "DEPORT",
         "mint": "9kvcd8aey9AhirC1y4HRScKC3XMkAfj1SnxgQtbtpump",
         "mc": 20893.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:18:18.419777+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3369ec6b3629",
+        "score": 84,
+        "category": "Política y controversia",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "POOLGATE",
+          "TRUMPPOOL",
+          "MASSIEGATE",
+          "REFLECT",
+          "JUSTICELEAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T00:19:48.825076+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política y controversia",
+        "title": "Trump posts an F-22 Raptor fighter jet image on Truth Social platform",
+        "candidate_tickers": [
+          "TRUMP",
+          "F22",
+          "TruthSocial",
+          "Avión de combate"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T00:21:23.447973+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cc70248f2e61",
+        "score": 80,
+        "category": "política",
+        "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+        "candidate_tickers": [
+          "ELSAYEDWINS",
+          "AIPACATTACKS",
+          "PROGRESSIVESENATOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:07.458271+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2b157e1b6a2c",
+        "ticker": "CALLDOG",
+        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
+        "mc": 21281.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:11.154450+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dd98558cbef2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 26689.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:14.555694+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bd481116e3f8",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 206550.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:16.367686+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09afb37a2c93",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214384.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:19.156626+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "aaa4bd05e7ed",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 206550.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:28.235873+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f80216c857da",
+        "ticker": "WOC",
+        "mint": "3WjLscH2JsXLEFJZRA9z8ti8yRGxWGKbqymPd7UicRth",
+        "mc": 135947.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:30.126283+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2ddbe83b75d2",
+        "ticker": "CTO",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "mc": 26689.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:32.663438+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6f2265e54d77",
+        "ticker": "OPENAI",
+        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
+        "mc": 232930.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:37.147403+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ab01d9cb9b7c",
+        "ticker": "OPENAI",
+        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
+        "mc": 232919.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:43.257085+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "403465d3c399",
+        "ticker": "OPENAI",
+        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
+        "mc": 232919.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:47.997790+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "995b9756ec3f",
+        "ticker": "OPENAI",
+        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
+        "mc": 232919.0
+      }
+    },
+    {
+      "ts": "2026-08-02T00:23:49.760164+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d5f680e77c0f",
+        "ticker": "Rome",
+        "mint": "8ZeTmGGktvSwSSghx8btbTAVGdWogThKM4DQBJgRpump",
+        "mc": 44666.0
       }
     }
   ]
