@@ -1,103 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T14:55:47.249679+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c832b442a750",
-        "score": 88,
-        "category": "política",
-        "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian",
-        "candidate_tickers": [
-          "TPS",
-          "HAITI",
-          "EEUU",
-          "SUPREMACORTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:56:47.630239+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Bible stories are approved as required reading in Texas public schools - AP News",
-        "candidate_tickers": [
-          "BibleTX",
-          "TexasBible",
-          "BibleInSchools"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:57:10.949328+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d0d3a5b7b2dd",
-        "score": 83,
-        "category": "Tecnología",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "AIAIAI",
-          "AIREGULATOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:57:32.001838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9fc135283cb4",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "True",
-        "candidate_tickers": [
-          "TICKER_ELON",
-          "TICKER_TRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:57:52.284996+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aea8bf032a9d",
-        "score": 83,
-        "category": "Tecnología",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "ELON",
-          "EXACTLY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:58:17.991049+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f1ce16c58b82",
-        "score": 82,
-        "category": "Abusos sexuales y asesinatos de menores de edad",
-        "title": "Heute vor fünf Jahren, am 26. Juni 2021 fand man in Wien am frühen Morgen ein totes Mädchen auf der Straße. Leonie war gerade einmal 13 Jahre alt, als sie von drei Afghanen in einer Gemeindewohnung er",
-        "candidate_tickers": [
-          "LEONIE",
-          "AFGHANABUSER",
-          "BALNEARIOABUSO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T14:58:33.634510+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "96721f163dab",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 308997.0
-      }
-    },
-    {
       "ts": "2026-06-27T14:58:34.793913+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28159,6 +28062,90 @@
         "ticker": "Rome",
         "mint": "8ZeTmGGktvSwSSghx8btbTAVGdWogThKM4DQBJgRpump",
         "mc": 44666.0
+      }
+    },
+    {
+      "ts": "2026-08-02T04:09:53.675746+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "15803871ed3a",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMPFEUD",
+          "CONGRESSCLASH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T04:10:12.265970+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "19ba12c172d1",
+        "score": 74,
+        "category": "Entretenimiento y cultura pop",
+        "title": "Mattel teases a Whitney Houston Barbie doll.",
+        "candidate_tickers": [
+          "WHITNEYBARBIE",
+          "HOUSTONBARBIE",
+          "MATTWHIT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T04:11:59.573619+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Cine",
+        "title": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at ‘Practical Magic’ Screening",
+        "candidate_tickers": [
+          "SandraNicole",
+          "PracticalMagic2",
+          "Cinespia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T04:12:56.473897+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8d89758655e0",
+        "ticker": "Grok4.5",
+        "mint": "Cckosfmr5VUmV4rUjq97tds5NyemyTCPnd8DYxq9zCfn",
+        "mc": 288992.0
+      }
+    },
+    {
+      "ts": "2026-08-02T04:13:04.381606+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e62b5450f5d7",
+        "ticker": "OPENAI",
+        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
+        "mc": 314148.0
+      }
+    },
+    {
+      "ts": "2026-08-02T04:13:06.346577+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1d5d338e9983",
+        "ticker": "Grok4.5",
+        "mint": "Cckosfmr5VUmV4rUjq97tds5NyemyTCPnd8DYxq9zCfn",
+        "mc": 289690.0
+      }
+    },
+    {
+      "ts": "2026-08-02T04:13:08.560345+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bca48c714779",
+        "ticker": "PURJA",
+        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
+        "mc": 18473.0
       }
     }
   ]
