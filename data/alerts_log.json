@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T16:19:25.115053+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c2b6a393a1ee",
-        "score": 88,
-        "category": "Política",
-        "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian",
-        "candidate_tickers": [
-          "TPS",
-          "HAITI",
-          "SUPREMACORTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:35:02.995450+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política y escándalos",
-        "title": "Meet Chauntyll Allen, a school board member at @SPPS_News .",
-        "candidate_tickers": [
-          "ChauntyllAllen",
-          "DisneyGate",
-          "EscándaloEscolar"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:35:36.524134+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política",
-        "title": "U.S. VP VANCE ON IRAN: VIOLENCE WILL BE MET WITH VIOLENCE",
-        "candidate_tickers": [
-          "VP_VIOLENCE",
-          "IRAN_VIOLENCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:35:53.767773+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1033215461e5",
-        "score": 88,
-        "category": "política",
-        "title": "Restore Britain will abolish the entire asylum system.",
-        "candidate_tickers": [
-          "RESTOREBRITAIN",
-          "ABOLISHASYLUM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:36:11.011367+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "72e20713c9f1",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "*ANTHROPIC MOVES TOWARD DEAL WITH US TO LIFT CURBS ON AI MODELS",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "AI",
-          "DEAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:36:39.459774+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política internacional",
-        "title": "How is framework agreement with Lebanon viewed in Israel?",
-        "candidate_tickers": [
-          "ISRLIB",
-          "HEZZI",
-          "ACORDISRLIB"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T17:38:09.480677+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28164,6 +28079,95 @@
           "HEATWAVE",
           "INCENDIOSFORESTALES",
           "CALOREXTREMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:15:57.114799+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Celebridad",
+        "title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
+        "candidate_tickers": [
+          "ElonMuskMeetsTrump",
+          "TrumpMuskDinner"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:17:59.247594+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "71f2814dac67",
+        "score": 70,
+        "category": "Política y Conflictos",
+        "title": "Guerra de EE.UU. con Irán y situación en Medio Oriente, en vivo: ataques, noticias de Hamas, Gaza y más - cnnespanol.cnn.com",
+        "candidate_tickers": [
+          "IRAN",
+          "GAZA",
+          "HAMAS",
+          "EE.UU.",
+          "MEDIO ORIENTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:18:38.258364+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a05345e184ae",
+        "score": 90,
+        "category": "Noticias de terrorismo",
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "candidate_tickers": [
+          "MOSCOWBOMB",
+          "ATENTADOMOSCU",
+          "TERRORISMORUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:19:39.240810+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e18ae4b233aa",
+        "score": 89,
+        "category": "Noticias de crímenes",
+        "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says - The New York Times",
+        "candidate_tickers": [
+          "INANDOUT",
+          "IDAHOSHOOTING",
+          "BURGERATTACK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:20:15.312834+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1366479a12bb",
+        "score": 82,
+        "category": "Desastres naturales",
+        "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue - Reuters",
+        "candidate_tickers": [
+          "LANDSLIDE",
+          "CHINADESASTRE",
+          "GANSUDESASTRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T09:21:07.905439+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "entretenimiento",
+        "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
+        "candidate_tickers": [
+          "BrandNewDay",
+          "SpiderManBN",
+          "HollandBest"
         ]
       }
     }
