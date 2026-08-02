@@ -1,107 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T21:40:00.271138+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b1f8c25758cf",
-        "score": 82,
-        "category": "Celebridad",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T22:47:08.659593+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d963b88cc9f5",
-        "score": 78,
-        "category": "Política",
-        "title": "So many such stories that were suppressed by the legacy mainstream media …",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPMUSK",
-          "MUSKTRUMPALIANZA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T22:48:23.585230+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Deportes y política",
-        "title": "Panama vs England and Croatia vs Ghana have begun at the World Cup.",
-        "candidate_tickers": [
-          "WORLDCUP",
-          "TRUMP",
-          "DEPORTES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T22:49:03.351992+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ac71af8d4ee3",
-        "score": 73,
-        "category": "política",
-        "title": "Restore Britain will abolish the entire asylum system.",
-        "candidate_tickers": [
-          "RESTOREBRITAIN",
-          "ASILOABOLICIÓN",
-          "REINOUNIDO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T22:50:17.799800+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política",
-        "title": "GOP candidate with same name as senator can stay on Alaska ballot, judge rules - The Washington Post",
-        "candidate_tickers": [
-          "DanSullivan",
-          "AlaskaBallot",
-          "GOPConfusion"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T22:51:35.691613+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ad3e00bd746f",
-        "score": 74,
-        "category": "política",
-        "title": "House panel subpoenas Leon Black, escalating tactics in Epstein investigation - Politico",
-        "candidate_tickers": [
-          "MUSK",
-          "EPSTEIN",
-          "TWITTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T23:48:46.272504+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5a5f899d6af7",
-        "score": 89,
-        "category": "Política y tecnología",
-        "title": "So many such stories that were suppressed by the legacy mainstream media …",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP",
-          "ELONVSDONALD"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-28T04:27:35.488188+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28154,6 +28053,110 @@
         "ticker": "Claude",
         "mint": "EEhwuzjq15Uw4rAMJ9dDzbod6szYpV6WBwVCtgEmGXer",
         "mc": 42475.0
+      }
+    },
+    {
+      "ts": "2026-08-02T15:13:40.845911+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0e5eeb74e338",
+        "score": 73,
+        "category": "Política y geopolítica",
+        "title": "Italian Defense: European force intercepts tanker from Russia's \"Shadow Fleet\"",
+        "candidate_tickers": [
+          "TANKER",
+          "SHADOWFLEET",
+          "ITALIANDEFENSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:14:04.274149+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "crimen y policía",
+        "title": "Un hombre roba dos coches en el parking del aeropuerto de Palma aprovechando que estaban abiertos - Ultima Hora",
+        "candidate_tickers": [
+          "cochero",
+          "robo",
+          "aeropuerto"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:15:19.089211+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "crimen",
+        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+        "candidate_tickers": [
+          "FrenchBulldogMurder",
+          "ScottishWomanFound",
+          "GreekCrime"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:16:22.784802+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b99fcdc69d6c",
+        "score": 89,
+        "category": "Noticias de crimen y violencia",
+        "title": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant - WSJ",
+        "candidate_tickers": [
+          "INNSHOOTING",
+          "IDAHOMASSACRE",
+          "RESTAURANTEDETIROTEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:17:03.404196+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ab0bbf806561",
+        "score": 88,
+        "category": "desastres naturales",
+        "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
+        "candidate_tickers": [
+          "FERRYENLLAMAS",
+          "INDONESIAFERRY",
+          "FERRYFUEGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:17:38.421479+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5c3b95f25ac3",
+        "score": 71,
+        "category": "Deportes, accidentes, muerte",
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "candidate_tickers": [
+          "PURJA",
+          "AVALANCHA",
+          "MONTAÑISMO",
+          "PAKISTÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T15:18:09.568782+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "34db8be968ea",
+        "score": 80,
+        "category": "Deportes, Política, Desastres naturales",
+        "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes - The New York Times",
+        "candidate_tickers": [
+          "TERREMOTOS_VENEZUELA",
+          "FIFA_CRITICA",
+          "GIANNI_INFANTINO"
+        ]
       }
     }
   ]
