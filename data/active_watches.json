@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "1fed69f3c2fb",
-      "fingerprint": "1fed69f3c2fb",
-      "narrative_summary": "El ministro de Educación de la India renuncia ante la presión de los jóvenes protestantes",
-      "why_memeable": "La narrativa tiene un título memorable y un término clave ('Cockroach') que puede ser utilizado para crear un meme. Además, la historia tiene un impacto emocional y cultural significativo.",
-      "category": "Política y sociedad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "COCKROACH",
-        "INDIAPROTESTS",
-        "EDUCATIONMINISTER"
-      ],
-      "key_terms_for_dex_search": [
-        "Cockroach",
-        "India",
-        "protestas",
-        "ministro de Educación"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T17:40:35.470343+00:00",
-      "expires_at": "2026-07-28T17:40:35.470343+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CJP",
-        "name": "Cockroach Janta Party",
-        "mint": "4tR7PbUjuB45RSb1TkXGpCKVTSEm6PRpTVdj6bYtpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 22334.0,
-        "liquidity_usd": 12197.78,
-        "price_usd": 2.233e-05,
-        "volume_h24": 11497.89,
-        "volume_h1": 164.1,
-        "volume_m5": 73.27,
-        "price_change_5m": 1.19,
-        "price_change_1h": -0.49,
-        "price_change_24h": -58.11,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 2,
-        "created_ts": 1779099790000,
-        "pair_created_at": 1779099790000,
-        "url": "https://dexscreener.com/solana/a7hxejw7qmneembkgepuavpozptdthgtf7kbexu7t5sr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: COCKROACH in COCKROACH JANTA PARTY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "India Education Minister Resigns in Bow to Youth Protest Demand - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T18:48:30.147360+00:00"
-    },
-    {
       "id": "3349b87b4b2e",
       "fingerprint": "3349b87b4b2e",
       "narrative_summary": "Elon Musk anuncia el intento de lanzamiento del vuelo 13 de Starship en 10 minutos",
@@ -10688,7 +10616,53 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "024f79d28069",
+      "fingerprint": "024f79d28069",
+      "narrative_summary": "Sen. Bernie Moreno denuncia a su ex yerno, Rep. Max Miller, por acusaciones de abuso doméstico.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre dos figuras políticas con una relación familiar complicada, lo que genera interés y controversia.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MILLER",
+        "MORENO",
+        "ABUSODOMÉSTICO",
+        "POLÍTICA"
+      ],
+      "key_terms_for_dex_search": [
+        "Miller",
+        "Moreno",
+        "abuso doméstico",
+        "política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T20:02:17.977528+00:00",
+      "expires_at": "2026-08-04T20:02:17.977528+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Rep. Max Miller denounced by Sen. Bernie Moreno, his former father-in-law - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-02T14:05:41.160552+00:00"
+  "last_updated": "2026-08-02T20:02:17.977528+00:00"
 }

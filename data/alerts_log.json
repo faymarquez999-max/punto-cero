@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T04:31:14.274776+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "42324d08d3e4",
-        "ticker": "BENEFITS",
-        "mint": "Hrzay8wre3MtiQm2RcDBn3UpuRa2rj9q6YBnKFupump",
-        "mc": 251571.0
-      }
-    },
-    {
-      "ts": "2026-06-28T04:31:30.818597+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "30c61cbe4ab4",
-        "ticker": "ANTH",
-        "mint": "Cg2KJtCDYZHGMo7MhoE25uy4i8wBnoZzZvsSNo2Kpump",
-        "mc": 204207.0
-      }
-    },
-    {
-      "ts": "2026-06-28T04:31:31.989892+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6be5fae3a123",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 287959.0
-      }
-    },
-    {
-      "ts": "2026-06-28T04:31:41.045369+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2b4b8d7ca211",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 287959.0
-      }
-    },
-    {
       "ts": "2026-06-28T08:06:03.292638+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28153,6 +28113,52 @@
         "ticker": "RSCAT",
         "mint": "4yEjpyG5Caibe3zSM5mVzW9SAYBHYKSH9oT4n4P1pump",
         "mc": 18631.0
+      }
+    },
+    {
+      "ts": "2026-08-02T20:02:18.560022+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "024f79d28069",
+        "score": 80,
+        "category": "política",
+        "title": "Rep. Max Miller denounced by Sen. Bernie Moreno, his former father-in-law - Politico",
+        "candidate_tickers": [
+          "MILLER",
+          "MORENO",
+          "ABUSODOMÉSTICO",
+          "POLÍTICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T20:04:53.502320+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6942c9f0cbe3",
+        "ticker": "RSCAT",
+        "mint": "4yEjpyG5Caibe3zSM5mVzW9SAYBHYKSH9oT4n4P1pump",
+        "mc": 19659.0
+      }
+    },
+    {
+      "ts": "2026-08-02T20:05:16.759224+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "65df2f8f0939",
+        "ticker": "DOJO",
+        "mint": "AsV9yaw5JV6uVjypvLEEBz1se8Ak2WQaXs1dsb5VAJqc",
+        "mc": 36712.0
+      }
+    },
+    {
+      "ts": "2026-08-02T20:05:21.875599+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e62b5450f5d7",
+        "ticker": "OPENAI",
+        "mint": "7AnzUcf7kdwnzRUJV6mZeqyj8hrTCivZ9hBeKGKY3q9n",
+        "mc": 228049.0
       }
     }
   ]
