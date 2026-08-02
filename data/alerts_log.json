@@ -1,95 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T04:27:35.488188+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "34138eb29350",
-        "score": 80,
-        "category": "Política y Celebridades",
-        "title": "Potential name for the AI industry regulatory authority:",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPFEUD",
-          "MUSKVS",
-          "TRUMPWARS",
-          "ELONVSTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T04:27:37.045141+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a27c7e20c559",
-        "score": 80,
-        "category": "noticias de actualidad",
-        "title": "Family of 1-year-old boy fatally shot by Mississippi police say goodbye, as questions remain - NBC News",
-        "candidate_tickers": [
-          "JUSTICE4BABY",
-          "POLICEABUSE",
-          "MISSISSIPPI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T04:27:53.202532+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política",
-        "title": "Marjorie Taylor Greene Says It Is 'Awful' That 'No One Is Standing Up For Cancer Patients' After Bayer Scores Roundup Victory In Supreme Court - Yahoo",
-        "candidate_tickers": [
-          "Roundup",
-          "Bayer",
-          "Corte Suprema"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T04:28:06.030680+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Tecnología y Negocios",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T04:28:31.445063+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9ce36fe4b4e9",
-        "score": 82,
-        "category": "Tecnología",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T04:28:59.856849+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2b4b8d7ca211",
-        "score": 80,
-        "category": "Tecnología/Política",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-28T04:29:23.646311+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28156,6 +28067,96 @@
           "TERREMOTOS_VENEZUELA",
           "FIFA_CRITICA",
           "GIANNI_INFANTINO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:17:39.272585+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3e0de35fc473",
+        "score": 88,
+        "category": "Tecnología/Política",
+        "title": "True",
+        "candidate_tickers": [
+          "ELON",
+          "TRUE",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:18:39.668162+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "22aaa04231fd",
+        "score": 90,
+        "category": "crimen y violencia",
+        "title": "At least 3 dead in shooting at In-N-Out Burger in Idaho; suspect dead - NBC News",
+        "candidate_tickers": [
+          "INNOUTSHOOTING",
+          "IDAHOMASSACRE",
+          "BURGERBLOODBATH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:19:23.599918+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "16c392b9ae2e",
+        "score": 88,
+        "category": "actualidad internacional",
+        "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+        "candidate_tickers": [
+          "CEUTA",
+          "MIGRANTES",
+          "FRONTERA",
+          "MARRUECOS",
+          "CRISIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:20:02.582727+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
+        "candidate_tickers": [
+          "KashmirBoicot",
+          "PakistánElectoral"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:21:06.638063+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "82314c40b4a3",
+        "score": 91,
+        "category": "Deportes",
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "candidate_tickers": [
+          "NIRMALPURJA",
+          "AVALANCHAPAKISTÁN",
+          "ALPINISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T16:21:48.599493+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2da652e4f6b0",
+        "score": 86,
+        "category": "accidentes marítimos",
+        "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
+        "candidate_tickers": [
+          "FERRYINCENDIO",
+          "INDONESIAFERRY",
+          "FERRYTRAGEDY"
         ]
       }
     }
