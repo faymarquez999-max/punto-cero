@@ -6469,7 +6469,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "89f6f5cc1636",
@@ -6638,7 +6638,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "09afb37a2c93",
@@ -6902,7 +6902,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6942c9f0cbe3",
@@ -6942,14 +6942,56 @@
       "started_at": "2026-07-31T10:22:06.747078+00:00",
       "expires_at": "2026-08-03T10:22:06.747078+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "RSCAT",
+        "name": "RuneScape Cat",
+        "mint": "4yEjpyG5Caibe3zSM5mVzW9SAYBHYKSH9oT4n4P1pump",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 18591.0,
+        "liquidity_usd": 5851.4,
+        "price_usd": 1.859e-05,
+        "volume_h24": 308300.47,
+        "volume_h1": 17490.3,
+        "volume_m5": 1302.94,
+        "price_change_5m": 11.38,
+        "price_change_1h": -8.82,
+        "price_change_24h": -17.56,
+        "txns_h1_buys": 143,
+        "txns_h1_sells": 118,
+        "created_ts": 1785564523000,
+        "pair_created_at": 1785564523000,
+        "url": "https://dexscreener.com/solana/7brgfnaczo6u7pc3rafs46b91rnxbevomyp3ntuk8f3u",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ESCAPE in RUNESCAPE CAT",
+        "safety_score": 13601,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "High holder correlation",
+            "level": "warn",
+            "description": "The top users hold similar supply amounts"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Anthropic's Claude AI escapes to hack into three organisations",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-02T21:11:30.391694+00:00"
     },
     {
       "id": "cffd24f22c0e",
@@ -6997,7 +7039,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "39e9215b0874",
@@ -7334,7 +7376,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6f2265e54d77",
@@ -7458,7 +7500,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b27f39e43d1f",
@@ -7502,7 +7544,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2db882761c2e",
@@ -7544,7 +7586,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "854271cd8187",
@@ -7590,7 +7632,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7f5d76b0ca76",
@@ -7637,7 +7679,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ab01d9cb9b7c",
@@ -7766,7 +7808,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e144ff371fbf",
@@ -7812,7 +7854,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0d3668b4df96",
@@ -7862,7 +7904,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "61bea3a5f60b",
@@ -7908,7 +7950,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2b275fe7b9d3",
@@ -7953,7 +7995,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "403465d3c399",
@@ -8083,7 +8125,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8d89758655e0",
@@ -8126,7 +8168,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8bea18dc02d7",
@@ -8168,7 +8210,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "65df2f8f0939",
@@ -8215,7 +8257,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "995b9756ec3f",
@@ -8416,7 +8458,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bf2a2496c798",
@@ -8462,7 +8504,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e62b5450f5d7",
@@ -8500,14 +8542,51 @@
       "started_at": "2026-08-01T09:51:59.313543+00:00",
       "expires_at": "2026-08-04T09:51:59.313543+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "OPENAI",
+        "name": "OpenAI PreStocks",
+        "mint": "7AnzUcf7kdwnzRUJV6mZeqyj8hrTCivZ9hBeKGKY3q9n",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 256941.0,
+        "liquidity_usd": 37913.74,
+        "price_usd": 2.569e-06,
+        "volume_h24": 18466166.94,
+        "volume_h1": 1681679.66,
+        "volume_m5": 138414.12,
+        "price_change_5m": 4.81,
+        "price_change_1h": 10.37,
+        "price_change_24h": 249.0,
+        "txns_h1_buys": 1742,
+        "txns_h1_sells": 1371,
+        "created_ts": 1785665998000,
+        "pair_created_at": 1785665998000,
+        "url": "https://dexscreener.com/solana/ffxuxbtthucacedpsqfkqyxqpadqexomq9ed934hqmm5",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: OPENAI in OPENAI PRESTOCKS",
+        "safety_score": 11400,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-02T21:11:46.471127+00:00"
     },
     {
       "id": "1d5d338e9983",
@@ -8552,7 +8631,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bca48c714779",
@@ -8590,14 +8669,41 @@
       "started_at": "2026-08-01T14:04:51.269777+00:00",
       "expires_at": "2026-08-03T14:04:51.269777+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PURJA",
+        "name": "One Last Summit",
+        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13758.0,
+        "liquidity_usd": 8489.77,
+        "price_usd": 1.815e-05,
+        "volume_h24": 55816.16,
+        "volume_h1": 466.38,
+        "volume_m5": 19.84,
+        "price_change_5m": -1.48,
+        "price_change_1h": -7.67,
+        "price_change_24h": -54.45,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 13,
+        "created_ts": 1785608833000,
+        "pair_created_at": 1785608833000,
+        "url": "https://dexscreener.com/solana/36dt3fk5yyt5dpcoyqctiwtdmxwg9taikb1uewhcrufk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: PURJA==PURJA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-02T21:11:50.113033+00:00"
     },
     {
       "id": "56034fef9e17",
@@ -8642,7 +8748,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3abcb23bd917",
@@ -8685,7 +8791,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "665d0de0eb8d",
@@ -8723,14 +8829,41 @@
       "started_at": "2026-08-01T15:33:20.158168+00:00",
       "expires_at": "2026-08-04T15:33:20.158168+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PURJA",
+        "name": "One Last Summit",
+        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13758.0,
+        "liquidity_usd": 8489.77,
+        "price_usd": 1.815e-05,
+        "volume_h24": 55816.16,
+        "volume_h1": 466.38,
+        "volume_m5": 19.84,
+        "price_change_5m": -1.48,
+        "price_change_1h": -7.67,
+        "price_change_24h": -54.45,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 13,
+        "created_ts": 1785608833000,
+        "pair_created_at": 1785608833000,
+        "url": "https://dexscreener.com/solana/36dt3fk5yyt5dpcoyqctiwtdmxwg9taikb1uewhcrufk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: PURJA==PURJA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-02T21:11:52.734206+00:00"
     },
     {
       "id": "7938871af8c3",
@@ -8778,7 +8911,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "05faacae6c0f",
@@ -8824,7 +8957,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ca3468d3c5ee",
@@ -8867,7 +9000,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d01c86aa62f5",
@@ -8912,7 +9045,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a27449073467",
@@ -8957,7 +9090,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "958485338a5b",
@@ -9005,7 +9138,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a2efe563a768",
@@ -9049,7 +9182,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "fa307bcbc455",
@@ -9092,7 +9225,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f590f44a0aaf",
@@ -9134,7 +9267,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9d29d842e429",
@@ -9173,14 +9306,41 @@
       "started_at": "2026-08-01T17:47:43.799212+00:00",
       "expires_at": "2026-08-04T17:47:43.799212+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PURJA",
+        "name": "One Last Summit",
+        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13758.0,
+        "liquidity_usd": 8489.77,
+        "price_usd": 1.815e-05,
+        "volume_h24": 55816.16,
+        "volume_h1": 466.38,
+        "volume_m5": 19.84,
+        "price_change_5m": -1.48,
+        "price_change_1h": -7.67,
+        "price_change_24h": -54.45,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 13,
+        "created_ts": 1785608833000,
+        "pair_created_at": 1785608833000,
+        "url": "https://dexscreener.com/solana/36dt3fk5yyt5dpcoyqctiwtdmxwg9taikb1uewhcrufk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: PURJA==PURJA",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-02T21:11:59.805929+00:00"
     },
     {
       "id": "0493efc21d92",
@@ -9225,7 +9385,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b73e9f3a6bfd",
@@ -9271,7 +9431,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f0f9e0642bd2",
@@ -9317,7 +9477,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "359b4914232c",
@@ -9363,7 +9523,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "0b94e29016f1",
@@ -9406,7 +9566,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9f449f9e7f39",
@@ -9449,7 +9609,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8179e8460d5b",
@@ -9499,7 +9659,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "aced966b0d22",
@@ -9546,7 +9706,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ba98d8087e9a",
@@ -9584,14 +9744,41 @@
       "started_at": "2026-08-01T20:04:40.941752+00:00",
       "expires_at": "2026-08-03T20:04:40.941752+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CTO",
+        "name": "Ceuta Take Over",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 20643.0,
+        "liquidity_usd": 12600.43,
+        "price_usd": 2.148e-05,
+        "volume_h24": 43576.72,
+        "volume_h1": 767.9,
+        "volume_m5": 53.8,
+        "price_change_5m": 1.36,
+        "price_change_1h": -4.74,
+        "price_change_24h": -16.63,
+        "txns_h1_buys": 23,
+        "txns_h1_sells": 11,
+        "created_ts": 1785418693000,
+        "pair_created_at": 1785418693000,
+        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-02T21:12:12.036263+00:00"
     },
     {
       "id": "d825394b403b",
@@ -9637,7 +9824,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "0214f5748e67",
@@ -9682,7 +9869,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8847159fa1f6",
@@ -9731,7 +9918,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "aa0e5fe0c052",
@@ -10664,5 +10851,5 @@
       "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-02T20:02:17.977528+00:00"
+  "last_updated": "2026-08-02T21:12:12.036287+00:00"
 }
