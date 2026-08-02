@@ -1,124 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-27T17:38:09.480677+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aad286ddec76",
-        "score": 78,
-        "category": "política",
-        "title": "Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict - AP News",
-        "candidate_tickers": [
-          "MUSKVSTRUMP",
-          "IRANVSSENADO",
-          "ELONVSTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:39:06.751580+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Desastres naturales y salud pública",
-        "title": "Things to know about Venezuela’s powerful earthquakes - AP News",
-        "candidate_tickers": [
-          "VENEZUELA_EARTHQUAKES",
-          "CHIKUNGUNYA_EPIDEMIA",
-          "EBOLA_OUTBREAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:39:34.224530+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "40e30bbdd969",
-        "score": 91,
-        "category": "Deportes",
-        "title": "Russell claims controversial pole after Verstappen crash",
-        "candidate_tickers": [
-          "RUSSELLWINS",
-          "VERSTAPPENCRASH",
-          "F1POLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T17:40:07.746118+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d5175592a68a",
-        "score": 90,
-        "category": "Noticias Virales",
-        "title": "Bodycam shows driver offering armed police a lift mid-chase",
-        "candidate_tickers": [
-          "LIFTFORCOP",
-          "COPRIDE",
-          "VIRALLIFT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T18:57:10.507780+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "clima",
-        "title": "Germany records new all-time temperature high as Europe heatwave moves east - Al Jazeera",
-        "candidate_tickers": [
-          "AlemaniaCae",
-          "OlaDeCalor",
-          "RécordDeTemperatura"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T18:57:45.369980+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "30c61cbe4ab4",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "MYTHOS",
-          "IA",
-          "LIBERACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T18:58:11.485985+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-27T18:58:34.347217+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6be5fae3a123",
-        "score": 70,
-        "category": "Tecnología y celebridades",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-27T18:59:04.172056+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28168,6 +28050,120 @@
           "BrandNewDay",
           "SpiderManBN",
           "HollandBest"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:55:50.399113+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "83b0459ffe42",
+        "score": 90,
+        "category": "noticias de crimen y violencia",
+        "title": "A friend of mine said that we should welcome illegal immigrants, so long as they don’t live near her. She’s now a former friend. My mom used to say, you cannot argue with stupid or crazy people. Her q",
+        "candidate_tickers": [
+          "IDAHOSHOOTING",
+          "INMIGRANTESILEGALES",
+          "EXAMIGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:57:43.249740+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "accidente-mar",
+        "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
+        "candidate_tickers": [
+          "FERRYINDONESIA",
+          "FUEGOINDONESIA",
+          "FERRYDESESTAPESO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:58:13.563444+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "economía",
+        "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
+        "candidate_tickers": [
+          "OPECPLUS",
+          "CUOTA",
+          "PAUSA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:58:51.531654+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "014d205fc46a",
+        "score": 84,
+        "category": "Desastres naturales",
+        "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue - Reuters",
+        "candidate_tickers": [
+          "GANSUDESLIZAMIENTO",
+          "CHINALLUVIA",
+          "DESASTRENATURAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:59:18.770939+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "Trump says he wishes anti-weaponization fund wasn't dead, angering senators he needs to confirm Blanche - Politico",
+        "candidate_tickers": [
+          "TrumpVsBlanche",
+          "FondoAntiArmasMuere",
+          "BlancheNoConfirmada"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T10:59:52.967563+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muerte de un actor de 'Los Sopranos'",
+        "title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
+        "candidate_tickers": [
+          "VincentPastore",
+          "LosSopranos",
+          "ActorMuere"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T11:00:13.647103+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e1d099738992",
+        "score": 85,
+        "category": "Tecnología y redes sociales",
+        "title": "Made with Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T11:00:35.076394+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0b627decbd0f",
+        "score": 85,
+        "category": "Tendencia viral en Twitter",
+        "title": "Exactly",
+        "candidate_tickers": [
+          "EXACTLY",
+          "ELONMUSK"
         ]
       }
     }
