@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T10:40:45.641545+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fcb5ef11a4b1",
-        "score": 88,
-        "category": "accidente aéreo",
-        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower - The New York Times",
-        "candidate_tickers": [
-          "PEKÍNCRASH",
-          "PILOTOLOCO",
-          "RASCACIELOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T10:42:16.207172+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ebabb7a1706d",
-        "score": 76,
-        "category": "Sexual Übergriffe",
-        "title": "Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afgh",
-        "candidate_tickers": [
-          "AFGHANTÄTER",
-          "SCHWIMMBADSKANDAL",
-          "MÄDCHENOPFER"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-28T12:12:45.580421+00:00",
       "kind": "shadow",
       "payload": {
@@ -28141,6 +28111,37 @@
           "WESTJET",
           "VUELOSCANCELADOS",
           "HUELGAENAVIACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T23:17:38.712392+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d3a001566707",
+        "score": 82,
+        "category": "política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "CANCONTINUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-02T23:19:24.023705+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b1ac8c01160c",
+        "score": 70,
+        "category": "Política",
+        "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+        "candidate_tickers": [
+          "CEUTA",
+          "MIGRACIÓN",
+          "INJUSTICIA",
+          "CRISIS"
         ]
       }
     }

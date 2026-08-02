@@ -1,162 +1,6 @@
 {
   "watches": [
     {
-      "id": "47c3f0fce4c1",
-      "fingerprint": "47c3f0fce4c1",
-      "narrative_summary": "El ministro de educación de India, Dharmendra Pradhan, renuncia después de semanas de protestas estudiantiles.",
-      "why_memeable": "La protesta de los estudiantes contra el ministro de educación es un tema memeable debido a la imagen de los estudiantes como \"cochinillas\" y la renuncia del ministro.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "COCKROACHINDIA",
-        "PRADHANRESIGNS",
-        "INDIAPROTESTS"
-      ],
-      "key_terms_for_dex_search": [
-        "India",
-        "protestas",
-        "ministro",
-        "educación",
-        "Cockroach"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T21:08:02.707425+00:00",
-      "expires_at": "2026-07-27T21:08:02.707425+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CJP",
-        "name": "Cockroach Janta Party",
-        "mint": "4tR7PbUjuB45RSb1TkXGpCKVTSEm6PRpTVdj6bYtpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20109.0,
-        "liquidity_usd": 11589.78,
-        "price_usd": 2.011e-05,
-        "volume_h24": 14505.95,
-        "volume_h1": 6.14,
-        "volume_m5": 6.14,
-        "price_change_5m": 0.05,
-        "price_change_1h": 0.05,
-        "price_change_24h": -62.49,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1779099790000,
-        "pair_created_at": 1779099790000,
-        "url": "https://dexscreener.com/solana/a7hxejw7qmneembkgepuavpozptdthgtf7kbexu7t5sr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: COCKROACH in COCKROACH JANTA PARTY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "India’s education minister Dharmendra Pradhan has resigned following weeks of student protests.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-26T01:15:52.702178+00:00"
-    },
-    {
-      "id": "facaa49054eb",
-      "fingerprint": "facaa49054eb",
-      "narrative_summary": "Más de 250.000 personas huyen de incendios forestales en Francia y España",
-      "why_memeable": "La narrativa tiene un tema claro (incendios forestales) y un número específico de personas afectadas (250.000).",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FIREFRANCE",
-        "FIRESPAIN",
-        "EMERGENCY"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios forestales",
-        "Francia",
-        "España",
-        "desastres naturales"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T21:11:22.773781+00:00",
-      "expires_at": "2026-07-27T21:11:22.773781+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "UCOE",
-        "name": "U.S. Crude Oil Emergency",
-        "mint": "A3ZXMYuAXWbKtFBzAA1qxynCALTFo2VHmdc4n4QMpote",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 43295.0,
-        "liquidity_usd": 53321.65,
-        "price_usd": 4.329e-05,
-        "volume_h24": 6235090.64,
-        "volume_h1": 793585.49,
-        "volume_m5": 55147.72,
-        "price_change_5m": 0.75,
-        "price_change_1h": 11.52,
-        "price_change_24h": 439.0,
-        "txns_h1_buys": 1160,
-        "txns_h1_sells": 1160,
-        "created_ts": 1785115502000,
-        "pair_created_at": 1785115502000,
-        "url": "https://dexscreener.com/solana/mfxnamkwxrkx8barg174eg72zp57ghf1vzrttz7yw5f",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: EMERGENCY in U.S. CRUDE OIL EMERGENCY",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "More than 250,000 flee wildfires in France and Spain",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-27T09:04:36.836869+00:00"
-    },
-    {
       "id": "d99457116107",
       "fingerprint": "d99457116107",
       "narrative_summary": "Incendios forestales en Francia y España, y eventos de violencia en Berlín y Gaza",
@@ -10846,7 +10690,97 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d3a001566707",
+      "fingerprint": "d3a001566707",
+      "narrative_summary": "Elon Musk afirma que algo es cierto, pero ¿cómo puede ser posible?",
+      "why_memeable": "La frase 'True' es fácil de capturar y compartir, y la pregunta sobre la duración de la situación es intrigante.",
+      "category": "política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "CANCONTINUE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "cancontinue"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T23:17:38.236977+00:00",
+      "expires_at": "2026-08-05T23:17:38.236977+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "4chan",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b1ac8c01160c",
+      "fingerprint": "b1ac8c01160c",
+      "narrative_summary": "Ceuta lucha con el impacto de la inmigración después de que la mayoría de los migrantes abandonen la ciudad española.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un elemento de 'crisis migratoria' que puede ser capturado en una frase corta.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CEUTA",
+        "MIGRACIÓN",
+        "INJUSTICIA",
+        "CRISIS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ceuta",
+        "migración",
+        "injusticia",
+        "crisis"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T23:19:23.493428+00:00",
+      "expires_at": "2026-08-05T23:19:23.493428+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-02T22:16:49.468179+00:00"
+  "last_updated": "2026-08-02T23:19:23.493428+00:00"
 }
