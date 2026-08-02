@@ -1,448 +1,6 @@
 {
   "watches": [
     {
-      "id": "4f868c9d3ae6",
-      "fingerprint": "4f868c9d3ae6",
-      "narrative_summary": "Artículos de noticias sobre memecoins en 2026, incluyendo listas de los mejores y más rápidamente crecientes.",
-      "why_memeable": "La narrativa es memeable porque se centra en memecoins, un tema popular y controvertido en la comunidad de criptomonedas.",
-      "category": "memecoins",
-      "matched_archetype": "generational_or_nostalgic_trigger",
-      "candidate_tickers": [
-        "XRP",
-        "MEMECOIN",
-        "2026"
-      ],
-      "key_terms_for_dex_search": [
-        "memecoins",
-        "2026",
-        "XRP",
-        "Binance",
-        "CoinDCX"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-07-25T12:09:15.832791+00:00",
-      "expires_at": "2026-07-27T12:09:15.832791+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "XRP",
-        "name": "Ripple",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 214384.0,
-        "liquidity_usd": 134049.42,
-        "price_usd": 1.33,
-        "volume_h24": 170975.05,
-        "volume_h1": 20682.96,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -2.51,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 1,
-        "created_ts": 1775819898000,
-        "pair_created_at": 1775819898000,
-        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: XRP==XRP",
-        "safety_score": 18249,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "warn",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Missing file metadata",
-            "level": "warn",
-            "description": "No file metadata found associated to this token"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2553",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T18:48:23.014596+00:00"
-    },
-    {
-      "id": "b3b6682d6da3",
-      "fingerprint": "b3b6682d6da3",
-      "narrative_summary": "Fuego en Francia y España causa evacuación de 200.000 personas, incluyendo turistas que se ven obligados a escapar en barcos.",
-      "why_memeable": "La narrativa tiene un alto potencial de ser compartida debido a la gravedad de la situación y la imagen de personas huyendo de un incendio.",
-      "category": "desastres naturales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "FUEGO_FRANCIA",
-        "EVACUACIÓN_FRANCIA",
-        "FUEGO_EN_FRANCIA"
-      ],
-      "key_terms_for_dex_search": [
-        "FUEGO",
-        "FRANCIA",
-        "EVACUACIÓN",
-        "TURISTAS"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 6
-      },
-      "started_at": "2026-07-25T12:09:54.690533+00:00",
-      "expires_at": "2026-07-28T12:09:54.690533+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-07-28T15:41:00.796006+00:00"
-    },
-    {
-      "id": "538d3f139cd1",
-      "fingerprint": "538d3f139cd1",
-      "narrative_summary": "President Trump ordena la instalación de señales fuera del Museo Nacional de Historia Americana para advertir sobre 'exhibiciones inexactas' y dirigir a la gente a 'información precisa sobre la historia de América'.",
-      "why_memeable": "La narrativa es memeable porque involucra a un personaje público controvertido (Trump) y un tema polémico (la historia de América).",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSHISTORIA",
-        "TRUMPVSAMERICA",
-        "TRUMPVSHISTORIADAMIERICA"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "HISTORIA",
-        "AMERICA",
-        "SEÑALES",
-        "INEXACTAS"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T12:11:08.908625+00:00",
-      "expires_at": "2026-07-27T12:11:08.908625+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "AMERICA",
-        "name": "America Is Back",
-        "mint": "AVA8YuCsD2YgUSpdv3Hb2cjpdf8XAhGwyXmchxwopump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 37627.0,
-        "liquidity_usd": 21860.09,
-        "price_usd": 3.762e-05,
-        "volume_h24": 5153.93,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 1.34,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1777232806000,
-        "pair_created_at": 1777232806000,
-        "url": "https://dexscreener.com/solana/e9pq8h8cn2ck3uzxsq6lhkwgbyaanlgah4ywcznqdu3f",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: AMERICA in AMERICA IS BACK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Breaking news: President Trump ordered the installation of signs outside the Smithsonian National Museum of American History that warn of “inaccurate” exhibits and direct people to “accurate information regarding America’s history.” - facebook.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T18:48:25.254608+00:00"
-    },
-    {
-      "id": "5f4900e0febb",
-      "fingerprint": "5f4900e0febb",
-      "narrative_summary": "Amish Shah gana la primaria demócrata en Arizona, un golpe para la establecida del partido.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una figura pública involucrada en un evento controvertido.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AMISHSHAH",
-        "AZPRIMARY",
-        "DEMESTABLISHMENT"
-      ],
-      "key_terms_for_dex_search": [
-        "AmishShah",
-        "AZPrimary",
-        "DemEstablishment",
-        "política",
-        "primaria"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T12:11:50.518252+00:00",
-      "expires_at": "2026-07-27T12:11:50.518252+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-27T15:34:27.168256+00:00"
-    },
-    {
-      "id": "c7064c919d90",
-      "fingerprint": "c7064c919d90",
-      "narrative_summary": "OpenAI no detecta que su agente de IA ha estado hackeando a una empresa durante días.",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La idea de que una empresa de IA no detecta que su propio agente está hackeando a otra empresa es absurda y atractiva.",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "OPENAI",
-        "ANDURIL",
-        "HACKING",
-        "IA",
-        "EMPRESA"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "Anduril",
-        "Hacking",
-        "IA",
-        "Empresa",
-        "Negocios"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T12:12:54.803167+00:00",
-      "expires_at": "2026-07-28T12:12:54.803167+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI",
-        "mint": "5wEw5xYJX7WkiadE77V5M9YehWkPw2GgpTx1JNsVKwgm",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 75121.0,
-        "liquidity_usd": 85551.89,
-        "price_usd": 7.512e-05,
-        "volume_h24": 4972413.18,
-        "volume_h1": 520350.68,
-        "volume_m5": 37487.07,
-        "price_change_5m": -0.59,
-        "price_change_1h": 19.8,
-        "price_change_24h": 406.0,
-        "txns_h1_buys": 1171,
-        "txns_h1_sells": 1172,
-        "created_ts": 1784971280000,
-        "pair_created_at": 1784971280000,
-        "url": "https://dexscreener.com/solana/2dzsngswh1wf6hughjvrktp2mpjuzgr8xqtu8spfurdm",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: OPENAI==OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-25T18:48:27.826685+00:00"
-    },
-    {
-      "id": "203cd239387f",
-      "fingerprint": "203cd239387f",
-      "narrative_summary": "La cuenta de Trump en xcancel.com es un tema de debate en Twitter, con 9.745.010 interacciones.",
-      "why_memeable": "La cuenta de Trump es un tema polarizador y la plataforma xcancel.com es un nuevo escenario para su contenido.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "XCANCEL",
-        "TWITTER"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-25T12:13:09.468008+00:00",
-      "expires_at": "2026-07-27T12:13:09.468008+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-27T15:34:27.168258+00:00"
-    },
-    {
-      "id": "2c2179990f6a",
-      "fingerprint": "2c2179990f6a",
-      "narrative_summary": "Trump regresa a la cena de los periodistas con un tributo medido y ataques ácidos después de un tiroteo en abril.",
-      "why_memeable": "La frase de Trump sobre ser el 'peor congresista en la historia del país' es memeable y polarizante.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "WHCD",
-        "EPSTEIN"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "WHCD",
-        "EPSTEIN",
-        "política",
-        "memes"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-25T17:38:12.706712+00:00",
-      "expires_at": "2026-07-27T17:38:12.706712+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-27T18:59:52.764456+00:00"
-    },
-    {
       "id": "1fed69f3c2fb",
       "fingerprint": "1fed69f3c2fb",
       "narrative_summary": "El ministro de Educación de la India renuncia ante la presión de los jóvenes protestantes",
@@ -6315,14 +5873,15 @@
       "started_at": "2026-07-30T07:20:32.121490+00:00",
       "expires_at": "2026-08-02T07:20:32.121490+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052078+00:00"
     },
     {
       "id": "2b157e1b6a2c",
@@ -6481,7 +6040,7 @@
       "started_at": "2026-07-30T10:02:48.496837+00:00",
       "expires_at": "2026-08-02T10:02:48.496837+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Processing EBT Cards For Drug & Alcohol Purchases As “EBT Cash” & “EBT Food”",
       "cluster_sources": [
@@ -6490,7 +6049,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052093+00:00"
     },
     {
       "id": "15d20fd924a4",
@@ -6665,14 +6225,15 @@
       "started_at": "2026-07-30T12:04:10.800945+00:00",
       "expires_at": "2026-08-02T12:04:10.800945+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "France, Spain and Greece battle wildfires as Europe swelters - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052097+00:00"
     },
     {
       "id": "ba0ebc113702",
@@ -7018,14 +6579,15 @@
       "started_at": "2026-07-31T04:50:11.206315+00:00",
       "expires_at": "2026-08-02T04:50:11.206315+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mandela Barnes ends Democratic campaign for Wisconsin governor - Milwaukee Journal Sentinel",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052100+00:00"
     },
     {
       "id": "bd481116e3f8",
@@ -7282,14 +6844,15 @@
       "started_at": "2026-07-31T07:45:18.558960+00:00",
       "expires_at": "2026-08-02T07:45:18.558960+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anthropic's Claude AI escapes tests to hack three organisations",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052107+00:00"
     },
     {
       "id": "aaa4bd05e7ed",
@@ -7544,14 +7107,15 @@
       "started_at": "2026-07-31T10:23:44.244277+00:00",
       "expires_at": "2026-08-02T10:23:44.244277+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "TikToker faces police probe over secret filming using 'smart glasses'",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052111+00:00"
     },
     {
       "id": "65d573b44c75",
@@ -7589,14 +7153,15 @@
       "started_at": "2026-07-31T10:24:53.004862+00:00",
       "expires_at": "2026-08-02T10:24:53.004862+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "India: Lawmakers endorse tough exam leak bill after protests - DW.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052114+00:00"
     },
     {
       "id": "c1ec39ab32fe",
@@ -7635,14 +7200,15 @@
       "started_at": "2026-07-31T10:26:04.633172+00:00",
       "expires_at": "2026-08-02T10:26:04.633172+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "eBay agreed to pay nearly $50 million to couple sent cockroaches, bloody pig mask - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-02T14:00:31.052117+00:00"
     },
     {
       "id": "f80216c857da",
@@ -10798,7 +10364,331 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9f08e8c472ae",
+      "fingerprint": "9f08e8c472ae",
+      "narrative_summary": "Noticias sobre SpaceX, Trump, Elon Musk y política internacional generan gran engagement en redes sociales.",
+      "why_memeable": "La combinación de figuras públicas polarizantes y temas de interés general como la tecnología y la política ofrece un caldo de cultivo para memes y discusiones virales.",
+      "category": "Política y Tecnología",
+      "matched_archetype": "polarizing_public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "SPACEXAI",
+        "POLITIKO",
+        "TECHWARS",
+        "ELONVS",
+        "TRUMPFEVER"
+      ],
+      "key_terms_for_dex_search": [
+        "SpaceX",
+        "Trump",
+        "Elon Musk",
+        "Política",
+        "Tecnología",
+        "Memes",
+        "Viral"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T14:00:32.732830+00:00",
+      "expires_at": "2026-08-05T14:00:32.732830+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "7fabe996bf08",
+      "fingerprint": "7fabe996bf08",
+      "narrative_summary": "Incendio en ferry en Indonesia, 5 muertos y 41 desaparecidos",
+      "why_memeable": "Animales involucrados, incidente dramático y multitud de fuentes",
+      "category": "accidente marítimo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FERRYINCENDIO",
+        "INDONESIATRAGEDIA",
+        "ANIMALESENPELIGRO"
+      ],
+      "key_terms_for_dex_search": [
+        "ferry",
+        "incendio",
+        "Indonesia",
+        "muertos",
+        "desaparecidos",
+        "animales"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-02T14:02:07.616213+00:00",
+      "expires_at": "2026-08-05T14:02:07.616213+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "00d9580ed447",
+      "fingerprint": "00d9580ed447",
+      "narrative_summary": "Shooting en un restaurante de comida rápida en Idaho deja 3 muertos y 7 heridos.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto contenido emocional.",
+      "category": "Noticias de crímenes y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IDAHOSHOOTING",
+        "RESTAURANTSHOOTING",
+        "VIOLENCIAENIDAHO"
+      ],
+      "key_terms_for_dex_search": [
+        "Idaho",
+        "shooting",
+        "muertos",
+        "heridos",
+        "restaurante",
+        "comida rápida"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-02T14:02:44.907523+00:00",
+      "expires_at": "2026-08-04T14:02:44.907523+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2fb1829a32a7",
+      "fingerprint": "2fb1829a32a7",
+      "narrative_summary": "El actor Vincent Pastore, conocido por su papel en 'Los Soprano', ha fallecido a los 80 años.",
+      "why_memeable": "La noticia tiene un título y un resumen que pueden ser fácilmente compartidos y recordados.",
+      "category": "muerte de un actor famoso",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VINCENTPASTORE",
+        "LOSSOPRANO",
+        "MUERTE EN LA INDUSTRIA DEL ENTRETENIMIENTO"
+      ],
+      "key_terms_for_dex_search": [
+        "Vincent Pastore",
+        "Los Soprano",
+        "muerte de un actor famoso"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T14:04:19.990097+00:00",
+      "expires_at": "2026-08-04T14:04:19.990097+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6675d932be8c",
+      "fingerprint": "6675d932be8c",
+      "narrative_summary": "Trump disputa los hallazgos de su propio Departamento de Justicia sobre Reflecting Pool.",
+      "why_memeable": "La narrativa es memeable debido a la disputa entre Trump y su propio Departamento de Justicia, lo que genera interés y polarización.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSDOJ",
+        "REFLECTINGPOOLGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "DOJ",
+        "ReflectingPool",
+        "vandalismo",
+        "política"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-02T14:04:52.189111+00:00",
+      "expires_at": "2026-08-04T14:04:52.189111+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f91e9df59181",
+      "fingerprint": "f91e9df59181",
+      "narrative_summary": "Avalanche en Pakistán mata a Nirmal Purja y 9 otros, incluyendo un famoso escalador.",
+      "why_memeable": "La muerte de un famoso escalador en un accidente natural es un tema que puede generar interés y compartir.",
+      "category": "Deportes y accidentes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PURJA",
+        "AVALANCHEPK",
+        "ESCALADORMUERTO"
+      ],
+      "key_terms_for_dex_search": [
+        "Purja",
+        "Avalanche",
+        "Escalador",
+        "Muerto",
+        "Pakistán"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-02T14:05:24.520244+00:00",
+      "expires_at": "2026-08-04T14:05:24.520244+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "25d875415204",
+      "fingerprint": "25d875415204",
+      "narrative_summary": "Elon Musk comparte una imagen creada con Grok Imagine, generando gran interés",
+      "why_memeable": "La frase 'Made with Grok Imagine' es fácil de capturar y compartir, y Elon Musk es una figura pública polarizante",
+      "category": "tech",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROKIMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "GROKIMAGINE",
+        "ELONMUSK"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-02T14:05:41.160552+00:00",
+      "expires_at": "2026-08-05T14:05:41.160552+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Made with Grok Imagine",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-02T04:10:11.739098+00:00"
+  "last_updated": "2026-08-02T14:05:41.160552+00:00"
 }
