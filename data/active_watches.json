@@ -1,322 +1,6 @@
 {
   "watches": [
     {
-      "id": "3f12f5173340",
-      "fingerprint": "3f12f5173340",
-      "narrative_summary": "Iran acusa a Ucrania de atacar un barco comercial en el Mar Caspio, matando a un marinero y heriendo a otro.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: 'Iran acusa a Ucrania de atacar un barco comercial en el Mar Caspio'.",
-      "category": "Política y Conflictos Internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN_UKRAINA",
-        "CASPICO",
-        "ATAQUE_MAR_CASPIO"
-      ],
-      "key_terms_for_dex_search": [
-        "Iran",
-        "Ucrania",
-        "Mar Caspio",
-        "ataque",
-        "muerte",
-        "heridos"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T23:19:56.340053+00:00",
-      "expires_at": "2026-07-27T23:19:56.340053+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-28T00:14:55.538679+00:00"
-    },
-    {
-      "id": "4f9846e7f245",
-      "fingerprint": "4f9846e7f245",
-      "narrative_summary": "Artículos de noticias sobre los mejores memecoin para invertir en 2026, incluyendo agentes de inteligencia artificial y tokens de Solana.",
-      "why_memeable": "La narrativa tiene un claro enfoque en los memecoin, lo que la hace fácilmente compartible y recordable. Además, la mención de agentes de inteligencia artificial y tokens de Solana agrega un toque de interés y novedad.",
-      "category": "memecoin",
-      "matched_archetype": "generational_or_nostalgic_trigger",
-      "candidate_tickers": [
-        "MEMECOIN",
-        "AGENT",
-        "SOLANA"
-      ],
-      "key_terms_for_dex_search": [
-        "memecoin",
-        "agent",
-        "Solana",
-        "2026"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-25T23:20:41.217216+00:00",
-      "expires_at": "2026-07-27T23:20:41.217216+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MIDTERMS26",
-        "name": "Midterms 2026",
-        "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 27744.0,
-        "liquidity_usd": 12251.72,
-        "price_usd": 2.774e-05,
-        "volume_h24": 31214.68,
-        "volume_h1": 7.92,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.47,
-        "price_change_24h": 8.21,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1778883521000,
-        "pair_created_at": 1778883521000,
-        "url": "https://dexscreener.com/solana/37b6smtm4ek9m8v53vunc6tcbybbpuq27asnuwknlft2",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: 2026 in MIDTERMS 2026",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2553",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-27T09:04:40.485668+00:00"
-    },
-    {
-      "id": "4c2952e96a64",
-      "fingerprint": "4c2952e96a64",
-      "narrative_summary": "Trump y Musk están involucrados en una disputa pública con acusaciones y insultos.",
-      "why_memeable": "La disputa entre Trump y Musk es un tema viral y controvertido que puede generar memes y discusiones.",
-      "category": "Política y celebridades",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPMUSK",
-        "FEUD2025",
-        "TRUMPVSMSUK",
-        "MUSKTRUMPWAR"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "disputa",
-        "política",
-        "celebridades"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-26T04:46:07.638209+00:00",
-      "expires_at": "2026-07-29T04:46:07.638209+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Peter is not correct about me in this case.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-29T07:34:46.872035+00:00"
-    },
-    {
-      "id": "bf72c5acfdd6",
-      "fingerprint": "bf72c5acfdd6",
-      "narrative_summary": "Elon Musk enfrenta una demanda por fraude de valores y llega a un acuerdo de $1.5 millones, lo que genera controversia y debate en línea.",
-      "why_memeable": "La combinación de la figura polarizante de Elon Musk, el tema del fraude y la cantidad significativa de dinero involucrada crean un escenario propenso a la viralidad y la creación de memes.",
-      "category": "noticias de negocios y tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSKSETTLE",
-        "TWTRFRAUD",
-        "ELONLAW"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "fraude",
-        "Twitter",
-        "demanda",
-        "acuerdo"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T04:46:18.568237+00:00",
-      "expires_at": "2026-07-29T04:46:18.568237+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 28038.0,
-        "liquidity_usd": 17626.88,
-        "price_usd": 2.809e-05,
-        "volume_h24": 13447.75,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 10.76,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Zillow Group (ZG) Faces Securities Fraud Lawsuit Over Redfin Disclosure Claims - simplywall.st",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-07-28T06:21:08.356520+00:00"
-    },
-    {
-      "id": "636866dd6aea",
-      "fingerprint": "636866dd6aea",
-      "narrative_summary": "Noticias sobre los mejores memecoins a invertir en 2026, incluyendo agentes de inteligencia artificial y tokens de Solana.",
-      "why_memeable": "La narrativa es memeable porque se centra en la inversión en memecoins, que es un tema popular y controvertido en la comunidad de criptomonedas.",
-      "category": "memecoins",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "MEMETORO",
-        "SOLANA",
-        "MEMECOIN"
-      ],
-      "key_terms_for_dex_search": [
-        "memecoins",
-        "inversión",
-        "2026",
-        "agentes de inteligencia artificial",
-        "tokens de Solana"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T04:46:32.226901+00:00",
-      "expires_at": "2026-07-29T04:46:32.226901+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MIDTERMS26",
-        "name": "Midterms 2026",
-        "mint": "ERMS1vKBCQS5YMJCcFNP464RJyHuHwSLYdpsre5Cpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 27744.0,
-        "liquidity_usd": 12251.72,
-        "price_usd": 2.774e-05,
-        "volume_h24": 31214.68,
-        "volume_h1": 7.92,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.47,
-        "price_change_24h": 8.21,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1778883521000,
-        "pair_created_at": 1778883521000,
-        "url": "https://dexscreener.com/solana/37b6smtm4ek9m8v53vunc6tcbybbpuq27asnuwknlft2",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: 2026 in MIDTERMS 2026",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2553",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-07-27T09:04:44.044724+00:00"
-    },
-    {
       "id": "1d15da0569f3",
       "fingerprint": "1d15da0569f3",
       "narrative_summary": "Incendios forestales en Francia obligan a evacuar a 200.000 personas en torno a Burdeos.",
@@ -7327,7 +7011,7 @@
       "started_at": "2026-08-01T01:21:59.830448+00:00",
       "expires_at": "2026-08-03T01:21:59.830448+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "21 out of 27 EU countries have more deaths than births",
       "cluster_sources": [
@@ -7336,7 +7020,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T04:12:27.359798+00:00"
     },
     {
       "id": "ab01d9cb9b7c",
@@ -7458,14 +7143,15 @@
       "started_at": "2026-08-01T01:24:49.923617+00:00",
       "expires_at": "2026-08-03T01:24:49.923617+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T04:12:27.359809+00:00"
     },
     {
       "id": "e144ff371fbf",
@@ -7504,14 +7190,15 @@
       "started_at": "2026-08-01T01:25:35.794333+00:00",
       "expires_at": "2026-08-03T01:25:35.794333+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T04:12:27.359813+00:00"
     },
     {
       "id": "0d3668b4df96",
@@ -10779,7 +10466,227 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e8fde06406f2",
+      "fingerprint": "e8fde06406f2",
+      "narrative_summary": "Grok, una herramienta de análisis de video, puede analizar cualquier video.",
+      "why_memeable": "La narrativa es memeable debido a la simplicidad y la sorpresa de que una herramienta pueda analizar cualquier video.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "ANALIZAVIDEO"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "ANALIZAVIDEO",
+        "TECNOLOGIA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-03T04:12:56.545678+00:00",
+      "expires_at": "2026-08-06T04:12:56.545678+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok can analyze any video grok.com/share/bGVnYWN5_8013…",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9ad68d285f4b",
+      "fingerprint": "9ad68d285f4b",
+      "narrative_summary": "Elon Musk afirma que la estafa de seres humanos falsos es 10 veces peor en América y Europa",
+      "why_memeable": "Frase corta y memorable con un tema controvertido y polarizante",
+      "category": "Tecnología y Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAKEALIVE",
+        "HUMANFRAUD",
+        "ELONMUSKSCANDAL"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "FakeAlive",
+        "HumanFraud",
+        "Scandal",
+        "Tecnología",
+        "Política"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T04:13:34.925175+00:00",
+      "expires_at": "2026-08-05T04:13:34.925175+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The fake alive human fraud is 10 times worse in America & Europe",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "7f5114df47f8",
+      "fingerprint": "7f5114df47f8",
+      "narrative_summary": "Elon Musk hace una declaración provocativa sobre España y la situación en el oeste.",
+      "why_memeable": "La frase es corta y fácil de recordar, y la declaración de Elon Musk es provocativa y polémica.",
+      "category": "Celebridad y política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "SPAIN",
+        "WEST",
+        "STANDSTRONG"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "spain",
+        "situation",
+        "west",
+        "standstrong"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T04:13:48.265587+00:00",
+      "expires_at": "2026-08-05T04:13:48.265587+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Spain, I’ve come to assess the situation.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "dc4351544a08",
+      "fingerprint": "dc4351544a08",
+      "narrative_summary": "Elon Musk comparte un título sobre empatía suicida, generando gran atención en las redes.",
+      "why_memeable": "La frase es corta, repetible y se puede compartir sin contexto. La asociación con Elon Musk es un factor adicional.",
+      "category": "Tendencia en redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "SUICIDALEMPATHY",
+        "EMPATHYMUSK",
+        "SUICIDETWEETS"
+      ],
+      "key_terms_for_dex_search": [
+        "SuicidalEmpathy",
+        "ElonMusk",
+        "Empathy",
+        "SuicideTweets"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-03T04:15:03.441662+00:00",
+      "expires_at": "2026-08-05T04:15:03.441662+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Suicidal empathy",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f50009cd2af1",
+      "fingerprint": "f50009cd2af1",
+      "narrative_summary": "Elon Musk compara el avance de la inteligencia artificial con un tsunami supersonico.",
+      "why_memeable": "La frase es breve y capta la atención con la combinación de 'supersonic' y 'tsunami', lo que la hace fácilmente compartible y memorable.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "AI_TSUNAMI",
+        "SUPERTSUNAMI"
+      ],
+      "key_terms_for_dex_search": [
+        "AI",
+        "tsunami",
+        "supersonic",
+        "Elon Musk"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-03T04:15:18.456972+00:00",
+      "expires_at": "2026-08-05T04:15:18.456972+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AI is a supersonic tsunami",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-03T00:22:05.281060+00:00"
+  "last_updated": "2026-08-03T04:15:18.456972+00:00"
 }
