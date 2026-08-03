@@ -1,275 +1,6 @@
 {
   "watches": [
     {
-      "id": "1d15da0569f3",
-      "fingerprint": "1d15da0569f3",
-      "narrative_summary": "Incendios forestales en Francia obligan a evacuar a 200.000 personas en torno a Burdeos.",
-      "why_memeable": "La narrativa cuenta con un evento dramático, la evacuación masiva de personas debido a incendios forestales, lo que la hace memeable.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BURDEOSINCENDIOS",
-        "FRANCIAENFUEGO",
-        "EVACUADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios forestales",
-        "evacuación",
-        "Burdeos",
-        "Francia"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T04:46:58.641155+00:00",
-      "expires_at": "2026-07-29T04:46:58.641155+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "French wildfires trigger mass evacuations around Bordeaux",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-29T07:34:46.872049+00:00"
-    },
-    {
-      "id": "d1831460ab01",
-      "fingerprint": "d1831460ab01",
-      "narrative_summary": "Un trabajador muere durante la reconstrucción del Camp Nou de Barcelona debido a un incidente relacionado con un modelo de inteligencia artificial de OpenAI.",
-      "why_memeable": "La narrativa tiene un núcleo central simple y fácil de entender, y el contexto de la inteligencia artificial y la muerte del trabajador es emocionalmente impactante.",
-      "category": "Tecnología e Inteligencia Artificial",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AI_KILLS",
-        "OPENAI_TROUBLE",
-        "CAMP_NOU_TRAGEDY"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "AI",
-        "muerte",
-        "trabajador",
-        "Camp Nou",
-        "Barcelona"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 6,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 3,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T04:49:35.027766+00:00",
-      "expires_at": "2026-07-29T04:49:35.027766+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI",
-        "mint": "6ZuANCe2B9ULsUW6SYros94C2H8TJsNdCSFQNHJ6cNN3",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 11258.0,
-        "liquidity_usd": 18818.98,
-        "price_usd": 1.125e-05,
-        "volume_h24": 608700.96,
-        "volume_h1": 320543.81,
-        "volume_m5": 22591.84,
-        "price_change_5m": -3.96,
-        "price_change_1h": 3.67,
-        "price_change_24h": 70.2,
-        "txns_h1_buys": 1162,
-        "txns_h1_sells": 1459,
-        "created_ts": 1785068603000,
-        "pair_created_at": 1785068603000,
-        "url": "https://dexscreener.com/solana/cvbmxvxjbawaovx9feyn3rjmvdz9l2hxeqj7eusvxpvf",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-26T14:18:22.095809+00:00"
-    },
-    {
-      "id": "773ef940c2e2",
-      "fingerprint": "773ef940c2e2",
-      "narrative_summary": "El Lt. Gov. de Hawái, Sylvia Luke, ha sido acusado de soborno.",
-      "why_memeable": "La narrativa tiene un claro núcleo de interés (soborno) y un personaje público implicado.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SYLVIALUKE",
-        "HAWAIIGOV",
-        "SOBORNO"
-      ],
-      "key_terms_for_dex_search": [
-        "Sylvia Luke",
-        "Hawaii",
-        "soborno",
-        "acusado"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T04:51:35.796264+00:00",
-      "expires_at": "2026-07-28T04:51:35.796264+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Hawaii Lt. Gov. Sylvia Luke indicted on bribery charges - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-07-28T06:17:12.639077+00:00"
-    },
-    {
-      "id": "59fdfb996b34",
-      "fingerprint": "59fdfb996b34",
-      "narrative_summary": "Ucrania ataca barcos iraníes en el Mar Caspio, Teherán acusa a Kiev de 'acto hostil y criminal'",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable ('acto hostil y criminal')",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA_IRAN",
-        "MAR_CASPIO",
-        "GUERRA_UCRANIA"
-      ],
-      "key_terms_for_dex_search": [
-        "UCRANIA",
-        "IRAN",
-        "MAR_CASPIO",
-        "GUERRA_UCRANIA"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T12:22:16.497730+00:00",
-      "expires_at": "2026-07-28T12:22:16.497730+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' - CNBC",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-28T15:41:00.796011+00:00"
-    },
-    {
-      "id": "a72e16cba07c",
-      "fingerprint": "a72e16cba07c",
-      "narrative_summary": "Noticias sobre crímenes y abusos contra animales, incluyendo la muerte de cachorros y la tortura de un gatito.",
-      "why_memeable": "La narrativa es impactante y genera una fuerte carga emocional debido a la crueldad hacia los animales.",
-      "category": "Noticias de crímenes y abusos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANIMALABUSE",
-        "JUSTICIAANIMAL",
-        "PROTECCIONANIMAL"
-      ],
-      "key_terms_for_dex_search": [
-        "abuso animal",
-        "crímenes contra animales",
-        "justicia animal"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T14:12:57.406986+00:00",
-      "expires_at": "2026-07-29T14:12:57.406986+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "You can just talk to Grok Build",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 13,
-      "expired_at": "2026-07-29T19:39:07.739438+00:00"
-    },
-    {
       "id": "9790bb5dedfd",
       "fingerprint": "9790bb5dedfd",
       "narrative_summary": "Se discute sobre los mejores memecoin para invertir en junio de 2026, con un enfoque en agentes de inteligencia artificial.",
@@ -5799,14 +5530,15 @@
       "started_at": "2026-07-31T04:46:57.893513+00:00",
       "expires_at": "2026-08-03T04:46:57.893513+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anthropic says Claude AI hacked three organisations during cyber tests",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705507+00:00"
     },
     {
       "id": "89f6f5cc1636",
@@ -5975,7 +5707,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "09afb37a2c93",
@@ -6239,7 +5971,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6942c9f0cbe3",
@@ -6376,7 +6108,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "39e9215b0874",
@@ -6926,7 +6658,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "854271cd8187",
@@ -7248,7 +6980,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "61bea3a5f60b",
@@ -7287,14 +7019,15 @@
       "started_at": "2026-08-01T04:59:40.924214+00:00",
       "expires_at": "2026-08-03T04:59:40.924214+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FIFA’s Infantino scraps controversial World Cup private investment plan - Al Jazeera",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705526+00:00"
     },
     {
       "id": "2b275fe7b9d3",
@@ -7332,14 +7065,15 @@
       "started_at": "2026-08-01T05:00:11.552551+00:00",
       "expires_at": "2026-08-03T05:00:11.552551+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "US military says F-35B jet fighter crashes in California, pilot safe",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705530+00:00"
     },
     {
       "id": "403465d3c399",
@@ -7469,7 +7203,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8d89758655e0",
@@ -7506,13 +7240,14 @@
       "started_at": "2026-08-01T05:03:33.102850+00:00",
       "expires_at": "2026-08-03T05:03:33.102850+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Try @Grok Build X.ai/cli",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705533+00:00"
     },
     {
       "id": "8bea18dc02d7",
@@ -7548,13 +7283,14 @@
       "started_at": "2026-08-01T05:03:56.475187+00:00",
       "expires_at": "2026-08-03T05:03:56.475187+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Moonlight Sonata Starship",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705535+00:00"
     },
     {
       "id": "65df2f8f0939",
@@ -7594,14 +7330,15 @@
       "started_at": "2026-08-01T07:37:00.801015+00:00",
       "expires_at": "2026-08-03T07:37:00.801015+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T07:51:25.705538+00:00"
     },
     {
       "id": "995b9756ec3f",
@@ -7802,7 +7539,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "bf2a2496c798",
@@ -7848,7 +7585,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e62b5450f5d7",
@@ -7975,7 +7712,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "bca48c714779",
@@ -8092,7 +7829,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3abcb23bd917",
@@ -8135,7 +7872,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "665d0de0eb8d",
@@ -8255,7 +7992,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "05faacae6c0f",
@@ -8301,7 +8038,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ca3468d3c5ee",
@@ -8344,7 +8081,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d01c86aa62f5",
@@ -8389,7 +8126,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a27449073467",
@@ -8434,7 +8171,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "958485338a5b",
@@ -8482,7 +8219,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "a2efe563a768",
@@ -8526,7 +8263,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "fa307bcbc455",
@@ -8569,7 +8306,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f590f44a0aaf",
@@ -8611,7 +8348,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9d29d842e429",
@@ -8729,7 +8466,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b73e9f3a6bfd",
@@ -8775,7 +8512,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "f0f9e0642bd2",
@@ -8821,7 +8558,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "359b4914232c",
@@ -8867,7 +8604,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0b94e29016f1",
@@ -8904,13 +8641,40 @@
       "started_at": "2026-08-01T17:51:02.056987+00:00",
       "expires_at": "2026-08-03T17:51:02.056987+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FORK",
+        "name": "A Fork in the Road",
+        "mint": "EiQFPuw5zgXQpLk5XSqvMtKTWjf5xiLRZdHftseDpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 430706.0,
+        "liquidity_usd": 57199.59,
+        "price_usd": 0.0004308,
+        "volume_h24": 15592.66,
+        "volume_h1": 979.77,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 3.67,
+        "price_change_24h": -18.1,
+        "txns_h1_buys": 12,
+        "txns_h1_sells": 3,
+        "created_ts": 1733595228000,
+        "pair_created_at": 1733595228000,
+        "url": "https://dexscreener.com/solana/dgktgjlu5xpssliv4u6npsfc6vberkk4rusoxiiccrc1",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ROAD in A FORK IN THE ROAD",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "They are far along the road to extinction",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-03T07:55:34.958018+00:00"
     },
     {
       "id": "9f449f9e7f39",
@@ -8953,7 +8717,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8179e8460d5b",
@@ -9003,7 +8767,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "aced966b0d22",
@@ -9050,7 +8814,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ba98d8087e9a",
@@ -9168,7 +8932,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0214f5748e67",
@@ -9213,7 +8977,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8847159fa1f6",
@@ -9262,7 +9026,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "aa0e5fe0c052",
@@ -9310,7 +9074,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d7e2e0b7d6a2",
@@ -9359,7 +9123,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "22ff9e536412",
@@ -9407,7 +9171,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "21dac807100f",
@@ -9453,7 +9217,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "bcba508c2c1e",
@@ -9498,7 +9262,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f03c3fb3eb30",
@@ -9545,7 +9309,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b181f579b43d",
@@ -9590,7 +9354,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f529d73a6a78",
@@ -9636,7 +9400,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3369ec6b3629",
@@ -9686,7 +9450,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "cc70248f2e61",
@@ -9731,7 +9495,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "15803871ed3a",
@@ -9778,7 +9542,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "19ba12c172d1",
@@ -9822,7 +9586,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9f08e8c472ae",
@@ -9875,7 +9639,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7fabe996bf08",
@@ -9922,7 +9686,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "00d9580ed447",
@@ -9969,7 +9733,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "2fb1829a32a7",
@@ -10013,7 +9777,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6675d932be8c",
@@ -10058,7 +9822,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f91e9df59181",
@@ -10104,7 +9868,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "25d875415204",
@@ -10146,7 +9910,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "024f79d28069",
@@ -10686,7 +10450,233 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "66f7aa68b893",
+      "fingerprint": "66f7aa68b893",
+      "narrative_summary": "Elon Musk y Donald Trump están involucrados en noticias relacionadas con Twitter y acuerdos legales, generando controversia y debate en línea.",
+      "why_memeable": "La combinación de figuras públicas polarizantes como Elon Musk y Donald Trump, junto con la naturaleza controvertida de los acuerdos legales y las declaraciones en línea, crea un caldo de cultivo para memes y discusiones en línea.",
+      "category": "Política y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TWITLAW",
+        "ELONVTRUMP",
+        "TRUMPSETTLE",
+        "MUSKTWEET",
+        "TWITTERFEUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "Twitter",
+        "acuerdo legal",
+        "controversia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-03T07:51:28.929379+00:00",
+      "expires_at": "2026-08-06T07:51:28.929379+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "The fake alive human fraud is 10 times worse in America & Europe",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "15e79bbfcddf",
+      "fingerprint": "15e79bbfcddf",
+      "narrative_summary": "Una mujer británica tiene un bebé con intestinos fuera del cuerpo y se somete a una cirugía pionera en el útero.",
+      "why_memeable": "La historia de un bebé con una condición rara y una cirugía pionera es fácilmente compartible y recordable.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GASTROSCHISIS",
+        "BABYOUTSIDE",
+        "WOMB SURGERY"
+      ],
+      "key_terms_for_dex_search": [
+        "gastroschisis",
+        "cirugía",
+        "útero",
+        "bebé",
+        "condición rara"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T07:53:29.335702+00:00",
+      "expires_at": "2026-08-05T07:53:29.335702+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e1e09e4b3ff3",
+      "fingerprint": "e1e09e4b3ff3",
+      "narrative_summary": "Australia confirma primera muerte en masa de aves marinas debido a la gripe de las aves H5N1",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, lo que la hace fácilmente compartible y recordable",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "H5N1",
+        "AUSTRALIAGRIPE",
+        "AVESMARINAS"
+      ],
+      "key_terms_for_dex_search": [
+        "H5N1",
+        "Australia",
+        "aves marinas",
+        "gripe"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T07:54:19.046278+00:00",
+      "expires_at": "2026-08-06T07:54:19.046278+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Australia confirms first mass death of seabirds from H5N1 bird flu - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "61f93c00d6c7",
+      "fingerprint": "61f93c00d6c7",
+      "narrative_summary": "Elon Musk comparte un mensaje sobre empatía suicida, generando una gran reacción en las redes.",
+      "why_memeable": "La frase 'Suicidal empathy' es corta y fácil de recordar, y la reacción de Elon Musk es un tema interesante para discutir.",
+      "category": "Tendencias en redes sociales",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "SUICEMPATHY",
+        "ELONMUSKSUICIDAL"
+      ],
+      "key_terms_for_dex_search": [
+        "empathy",
+        "suicidal",
+        "elonmusk"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-03T07:54:47.506938+00:00",
+      "expires_at": "2026-08-05T07:54:47.506938+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Suicidal empathy",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b7ea26374614",
+      "fingerprint": "b7ea26374614",
+      "narrative_summary": "Elon Musk compara a la inteligencia artificial con un tsunami supersonico, generando una gran cantidad de interacción en las redes.",
+      "why_memeable": "La frase 'AI is a supersonic tsunami' es breve y fácil de recordar, y su significado es inmediatamente comprensible.",
+      "category": "Tecnología y Ciencia",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "AI_TSUNAMI",
+        "ELON_MUSK_AITSUNAMI"
+      ],
+      "key_terms_for_dex_search": [
+        "AI",
+        "tsunami",
+        "supersonico",
+        "Elon Musk"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-03T07:55:10.031161+00:00",
+      "expires_at": "2026-08-05T07:55:10.031161+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "AI is a supersonic tsunami",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-03T04:15:18.456972+00:00"
+  "last_updated": "2026-08-03T07:55:34.958039+00:00"
 }
