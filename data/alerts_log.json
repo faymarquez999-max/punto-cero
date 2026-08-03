@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T20:22:37.107734+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5ee00a2ba63a",
-        "score": 74,
-        "category": "Noticias de desastres naturales",
-        "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-        "candidate_tickers": [
-          "VENEZUELAQUAKE",
-          "RESCATEVENEZUELA",
-          "TERREMOTOSVENEZUELA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T20:23:20.258546+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f67f644038b6",
-        "score": 70,
-        "category": "accidente aéreo",
-        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-        "candidate_tickers": [
-          "PLANECRASH",
-          "AVIONESTRELLA",
-          "FRANCIADESASTRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T20:23:59.275838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b131795f0fbd",
-        "score": 74,
-        "category": "medio ambiente",
-        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C - BBC",
-        "candidate_tickers": [
-          "CALOREXTREMO",
-          "MUERTESPORCALOR",
-          "OMSCALOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T20:24:30.503246+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "monedas de meme, inversión, 2026",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "XRP",
-          "MemeToro",
-          "CoinDCX",
-          "ZebPay"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T21:43:31.763663+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a223ad2fddf1",
-        "score": 80,
-        "category": "conflicto internacional",
-        "title": "FOUR MONTHS AFTER U.S.-ISRAEL STRIKES ON IRAN, ISRAELI LEADERS WHO ONCE ENVISIONED A NEW GOLDEN ERA ARE NOW PREPARING TO STAND MORE INDEPENDENTLY AS TRUMP'S AMERICA FIRST APPROACH STRIPS ISRAEL OF ITS",
-        "candidate_tickers": [
-          "IRAN",
-          "US",
-          "ATTACK",
-          "CONFLICTO"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-28T21:44:02.786899+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28160,6 +28084,76 @@
           "huelga",
           "acuerdo salarial"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-03T16:43:54.473420+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPMASSIE",
+          "GALLREIN",
+          "WORSTCONGRESS",
+          "TRUMPENDORSE",
+          "MASSIEGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T16:44:42.612140+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d08c7a6182d2",
+        "score": 88,
+        "category": "Política y migración",
+        "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - reuters.com",
+        "candidate_tickers": [
+          "CEUTACRISIS",
+          "MIGRACIÓNESPAÑA",
+          "CONSPIRACIÓNISRAEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T16:45:19.174737+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4b2b4eb8edad",
+        "score": 74,
+        "category": " política internacional",
+        "title": "Denmark begins extended military conscription in response to Russia, Trump - reuters.com",
+        "candidate_tickers": [
+          "DENMARKRUSIA",
+          "CONSCRIPCIÓNDENMARK",
+          "TRUMPRUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T16:46:38.162367+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "581252147883",
+        "score": 82,
+        "category": "ironía",
+        "title": "Oh, the irony is too much …",
+        "candidate_tickers": [
+          "IRONIA",
+          "ELON_MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T16:49:25.760330+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9f08e8c472ae",
+        "ticker": "MEMES",
+        "mint": "6gCjN6Jbv9zyZd83v5T7rCqgGyrpwRoCozycsr6jpump",
+        "mc": 10331.0
       }
     }
   ]
