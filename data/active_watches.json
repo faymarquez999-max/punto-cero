@@ -1,169 +1,6 @@
 {
   "watches": [
     {
-      "id": "fdb5d2fe9dc1",
-      "fingerprint": "fdb5d2fe9dc1",
-      "narrative_summary": "Elon Musk comparte un enlace con el título 'Hardcore' en XCancel, generando una gran cantidad de interacción",
-      "why_memeable": "La simplicidad y la polarización de la narrativa hacen que sea fácil de compartir y generar interacción",
-      "category": "Tecnología y entretenimiento",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "HARDCORE"
-      ],
-      "key_terms_for_dex_search": [
-        "HARDCORE",
-        "ELON MUSK",
-        "XCANCEL"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T14:17:27.883131+00:00",
-      "expires_at": "2026-07-28T14:17:27.883131+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 28038.0,
-        "liquidity_usd": 17626.88,
-        "price_usd": 2.809e-05,
-        "volume_h24": 13447.75,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 10.76,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Hardcore",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-07-28T06:21:17.113570+00:00"
-    },
-    {
-      "id": "e8b7a775b4e8",
-      "fingerprint": "e8b7a775b4e8",
-      "narrative_summary": "Trump suspende los ataques a Irán, pero la situación sigue siendo incierta.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un impacto emocional significativo.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP_IRAN",
-        "IRAN_STRIKES"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Irán",
-        "ataques",
-        "pausa",
-        "suspensión"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T15:33:59.195744+00:00",
-      "expires_at": "2026-07-28T15:33:59.195744+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "TRUMP HALTS PLANNED IRAN STRIKES",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-07-28T15:41:00.796017+00:00"
-    },
-    {
-      "id": "0c719bb1230c",
-      "fingerprint": "0c719bb1230c",
-      "narrative_summary": "Un cartel polémico en la Copa del Mundo de Argentina gana nueva vida en impresión",
-      "why_memeable": "La narrativa tiene un cartel polémico, una conspiración y un contexto culturalmente relevante",
-      "category": "Deportes/Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ARGENTINA",
-        "MALVINAS",
-        "CONSPIRACIÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "argentina",
-        "malvinas",
-        "conspiración",
-        "cartel",
-        "copa del mundo"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T15:34:55.531831+00:00",
-      "expires_at": "2026-07-29T15:34:55.531831+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Controversial Argentina World Cup banner gets new life in print",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 12,
-      "expired_at": "2026-07-29T19:39:07.739454+00:00"
-    },
-    {
       "id": "927a151a7ebb",
       "fingerprint": "927a151a7ebb",
       "narrative_summary": "Elon Musk comparte 'Grok Imagine' con una gran cantidad de engagement en Nitter.",
@@ -8302,14 +8139,15 @@
       "started_at": "2026-08-01T17:48:11.212477+00:00",
       "expires_at": "2026-08-03T17:48:11.212477+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T18:30:50.973320+00:00"
     },
     {
       "id": "b73e9f3a6bfd",
@@ -8440,14 +8278,15 @@
       "started_at": "2026-08-01T17:50:40.022885+00:00",
       "expires_at": "2026-08-03T17:50:40.022885+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-03T18:30:50.973333+00:00"
     },
     {
       "id": "0b94e29016f1",
@@ -10653,7 +10492,147 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d15d61764c2e",
+      "fingerprint": "d15d61764c2e",
+      "narrative_summary": "Un dron ucraniano ataca una playa en Rusia, matando a 7 personas y heriendo a 40.",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte, con la muerte de niños y la destrucción de una playa. La imagen de un dron atacando a civiles es icónica y fácil de compartir.",
+      "category": "noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DRONUCRANIANO",
+        "PLAYARUSIA",
+        "INJUSTICIAUCRANIARUSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "dron",
+        "ucraniano",
+        "playa",
+        "rusia",
+        "injusticia",
+        "noticias internacionales"
+      ],
+      "score": 91,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T18:32:15.799096+00:00",
+      "expires_at": "2026-08-05T18:32:15.799096+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "e2eb6882c766",
+      "fingerprint": "e2eb6882c766",
+      "narrative_summary": "Michigan reporta las primeras 2 muertes en brote de ciclosporiasis en EE. UU.",
+      "why_memeable": "La narrativa tiene un título claro y un tema específico, lo que la hace fácilmente compartible y recordable.",
+      "category": "salud pública",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CICLOSPORA",
+        "MICHIGAN",
+        "MUERTES",
+        "BROTE"
+      ],
+      "key_terms_for_dex_search": [
+        "ciclosporiasis",
+        "muertes",
+        "brote",
+        "Michigan"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T18:34:15.980289+00:00",
+      "expires_at": "2026-08-05T18:34:15.980289+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Michigan reports first 2 US deaths in outbreak of cyclospora - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b2ccf9b964ea",
+      "fingerprint": "b2ccf9b964ea",
+      "narrative_summary": "Israel y la ultraderecha europea intentan explotar la crisis en Ceuta para promover teorías de la conspiración antisemita.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de conspiración y explotación, y se puede capturar en una frase corta.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CEUTA",
+        "ANTISEMITISMO",
+        "CONSPIRACIÓN",
+        "ISRAEL"
+      ],
+      "key_terms_for_dex_search": [
+        "Ceuta",
+        "antisemitismo",
+        "conspiración",
+        "Israel",
+        "ultraderecha"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-03T18:35:44.317653+00:00",
+      "expires_at": "2026-08-05T18:35:44.317653+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "How Israel and the European far right tried to exploit Ceuta",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-03T16:46:37.546920+00:00"
+  "last_updated": "2026-08-03T18:35:44.317653+00:00"
 }
