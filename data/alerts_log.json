@@ -1,114 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T22:51:54.411654+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7414566aa03b",
-        "score": 80,
-        "category": "Tendencias en Twitter",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-28T23:57:15.723410+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f2cd935c7d42",
-        "score": 79,
-        "category": "política y economía",
-        "title": "Everyone tells me that Elon Musk is a fascist because he could \"solve world hunger\" for a mere 3 billion dollars, but MacKenzie Bezos has burned through 26 billion dollars of her ex husband's money an",
-        "candidate_tickers": [
-          "MUSKVSBEZOS",
-          "FASCISMODEMUSK",
-          "MACKENZIEBEZOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T04:46:55.354012+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bf50e3c1332d",
-        "score": 80,
-        "category": "Noticias de desastres naturales",
-        "title": "Elon Musk reveals the moment his son Saxon left an entire sushi restaurant speechless",
-        "candidate_tickers": [
-          "QUAKE",
-          "VENEZ",
-          "RESCUE",
-          "EARTH",
-          "DISAST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T04:46:57.060485+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3cbd626b1c4d",
-        "score": 80,
-        "category": "Conflicto internacional",
-        "title": "Stray Ukraine drones worth the price of hitting Russia, says Estonian minister-FT",
-        "candidate_tickers": [
-          "DRONEWAR",
-          "PUTINFAIL",
-          "UKRAINESTRIKE",
-          "RUSSIAFUEL",
-          "REFINERYBLAZE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T04:47:51.521563+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f52a084a1b7f",
-        "score": 70,
-        "category": "monedas memes",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "MEMETORO",
-          "XRP",
-          "XSG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T04:49:12.431516+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "59017e06353b",
-        "score": 90,
-        "category": "animal welfare",
-        "title": "117 dogs found dead at California animal shelter: 'Shot to death' - Ynetnews",
-        "candidate_tickers": [
-          "DEADDOGS",
-          "CALIFORNIASHELTER",
-          "ANIMALABUSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T04:49:51.023172+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3e06125e358e",
-        "score": 88,
-        "category": "asesinato y justicia",
-        "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
-        "candidate_tickers": [
-          "AUSMAN",
-          "THAIGIRL",
-          "MURDERINSUITCASE"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-29T04:50:34.895954+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28139,6 +28031,107 @@
         "ticker": "H5N1",
         "mint": "3qjnvQwWf4EJKDQFqCzw8zvNVhmKhUUDbXnSRhhY1tyL",
         "mc": 32790.0
+      }
+    },
+    {
+      "ts": "2026-08-03T21:45:43.611219+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "93ed945ecb9b",
+        "score": 89,
+        "category": "política",
+        "title": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation - Axios",
+        "candidate_tickers": [
+          "CHUCKEDWARDS",
+          "CENSURAPOLÍTICA",
+          "ACOSOSEXUAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:46:29.399364+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "25e4890ebea0",
+        "score": 88,
+        "category": "Migración, crisis humanitaria",
+        "title": "Hundreds of migrant children are stranded in Spain’s Ceuta after mass crossing - AP News",
+        "candidate_tickers": [
+          "CEUTAKIDS",
+          "MIGRACIÓNCRISIS",
+          "INMIGRACIÓNVARADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:47:08.064277+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "346c686e4185",
+        "score": 80,
+        "category": "política",
+        "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case - Reuters",
+        "candidate_tickers": [
+          "TRUMPVSPIRRO",
+          "PIRROVSTRUMP",
+          "TRUMPCHOKES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:48:41.247233+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Medio ambiente",
+        "title": "Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK - AP News",
+        "candidate_tickers": [
+          "EUROPE_DRY",
+          "EUROPE_ON_FIRE",
+          "SEQUIA_EN_EUROPA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:48:42.757261+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0653788342a5",
+        "score": 82,
+        "category": "Tecnología y celebridades",
+        "title": "Oh, the irony is too much …",
+        "candidate_tickers": [
+          "IRONIA",
+          "MUSKED",
+          "TWITRON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:49:45.562609+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "historia, política",
+        "title": "Slavery was ended primarily by Britain",
+        "candidate_tickers": [
+          "GBR",
+          "ESCLAVITUD",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T21:50:12.741046+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "tech",
+        "title": "Fantastic take here:",
+        "candidate_tickers": [
+          "MUSKTAKES",
+          "ELONMUSKTAKES"
+        ]
       }
     }
   ]
