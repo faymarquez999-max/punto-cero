@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-28T15:59:24.177472+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a27c7e20c559",
-        "ticker": "ElNiño",
-        "mint": "2hbzoDxzvyspvXhxFkHkuxRNDyo3j2Z6aXUDy1A7pump",
-        "mc": 44802.0
-      }
-    },
-    {
-      "ts": "2026-06-28T15:59:29.192378+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f5b7282eaced",
-        "ticker": "SOBAT",
-        "mint": "EW7cWbNmTgL7PLQNiJ6tBVC62SJzJXa2pFYJjDPPpump",
-        "mc": 158872.0
-      }
-    },
-    {
-      "ts": "2026-06-28T15:59:31.815810+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0e9ac8ef2498",
-        "ticker": "SOBAT",
-        "mint": "EW7cWbNmTgL7PLQNiJ6tBVC62SJzJXa2pFYJjDPPpump",
-        "mc": 158872.0
-      }
-    },
-    {
-      "ts": "2026-06-28T15:59:34.609828+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6c894782936e",
-        "ticker": "Venezuela",
-        "mint": "6eSzwRMLjK24g1NAYWUABAq9qDCDT2MW4hsbt513pump",
-        "mc": 10145.0
-      }
-    },
-    {
-      "ts": "2026-06-28T15:59:42.400348+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1ef17b187848",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
       "ts": "2026-06-28T15:59:43.858625+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28139,6 +28089,78 @@
         "ticker": "FORK",
         "mint": "EiQFPuw5zgXQpLk5XSqvMtKTWjf5xiLRZdHftseDpump",
         "mc": 430706.0
+      }
+    },
+    {
+      "ts": "2026-08-03T11:36:38.404327+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "JAPAN PM TAKAICHI:CABINET TO DECIDE OVER ¥20B IN RESERVE FUNDS FOR QUAKE",
+        "candidate_tickers": [
+          "JAPANQUAKE",
+          "TAKAICHI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T11:37:12.848603+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e468aa611fef",
+        "score": 80,
+        "category": "Política",
+        "title": "RUSSIAN ATTACK KILLS THREE IN UKRAINE'S DNIPROPETROVSK REGION SAYS GOVERNOR",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "UCRANIAENPELIGA",
+          "DNIPROPETROVSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T11:38:28.398570+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Desastres naturales",
+        "title": "Washington state wildfires force 60,000 people to evacuate homes",
+        "candidate_tickers": [
+          "WAWILDFIRES",
+          "EVACUATEWA",
+          "FIREWAW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T11:40:13.717586+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "27c630ccc0f9",
+        "score": 88,
+        "category": "Política",
+        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+        "candidate_tickers": [
+          "SUUKYI",
+          "MYANMAR",
+          "COUP",
+          "REDCROSS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-03T11:40:58.250816+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "entretenimiento",
+        "title": "'He Didn't Quite Make It In': Spider-Man: Brand New Day Almost Featured a Bizarre, Sticky Marvel Supervillain - IGN",
+        "candidate_tickers": [
+          "SpiderMan",
+          "BrandNewDay",
+          "MarvelVillain"
+        ]
       }
     }
   ]
