@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T01:53:39.228493+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aa673aae3ad8",
-        "score": 80,
-        "category": "monedas memes",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "XRP",
-          "MEMETORO",
-          "CHANGELLY",
-          "COINDCX",
-          "BINANCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T01:54:08.988760+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6048925608b3",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak - Reuters",
-        "candidate_tickers": [
-          "TATALEAK",
-          "APPLEDATALEAK",
-          "IPHONE18PRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T01:55:35.374119+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "461d58ab63db",
-        "score": 70,
-        "category": "política internacional",
-        "title": "Iran Ratchets Up Talk of Controlling Hormuz Ahead of New Talks - Bloomberg.com",
-        "candidate_tickers": [
-          "HORMUZ",
-          "ESTRECHO_DE_HORMUZ",
-          "IRAN_NEGOCIACIONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T01:56:03.389827+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Cursor for iOS!",
-        "candidate_tickers": [
-          "CursoriOS",
-          "CursorForiOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T01:56:17.033482+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4d0905517e9f",
-        "score": 70,
-        "category": "tech",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T01:58:38.533297+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28131,6 +28056,77 @@
         "ticker": "SPAIN",
         "mint": "5J66Ept1vhnkdWy96SFGRFkABJLu6372NoGQ4Jvnm1QF",
         "mc": 58807.0
+      }
+    },
+    {
+      "ts": "2026-08-04T21:20:50.012883+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "TRUMPvsMASSIE",
+          "GALLREIN4PRESIDENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T21:21:27.628271+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "81f725652db9",
+        "score": 80,
+        "category": "Noticias de animalitos",
+        "title": "Care company fined for running illegal children's homes in legal first",
+        "candidate_tickers": [
+          "ANIMALITOSMALTRATADOS",
+          "HOGARESINFANTILES",
+          "CUIDADOANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T21:22:55.197829+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a961ade63ef7",
+        "score": 74,
+        "category": "tokens de meme",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "MEME2026",
+          "TOKENSDEMEME",
+          "LAUNCHPADS2026"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T21:24:03.525070+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Celebridad",
+        "title": "Britain's Princess Eugenie gives birth to third child - Reuters",
+        "candidate_tickers": [
+          "EugenieBaby",
+          "PrincessEugenie"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T21:25:24.862046+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "327742ea2e7b",
+        "score": 70,
+        "category": "muerte de influencer",
+        "title": "Influencer Joe Felz Dead at 40",
+        "candidate_tickers": [
+          "JOEFELZ",
+          "INFLUENCERMUERTE",
+          "MUERTE40"
+        ]
       }
     }
   ]
