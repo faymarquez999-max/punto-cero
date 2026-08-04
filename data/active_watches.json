@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "263e6994b049",
-      "fingerprint": "263e6994b049",
-      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' que ha generado mucha atención.",
-      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, lo que la hace muy memeable.",
-      "category": "meme de Twitter",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "IMAGINE",
-        "ELON MUSK",
-        "MEME"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-26T21:47:35.179354+00:00",
-      "expires_at": "2026-07-28T21:47:35.179354+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 28038.0,
-        "liquidity_usd": 17626.88,
-        "price_usd": 2.809e-05,
-        "volume_h24": 13447.75,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 10.76,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Grok Imagine",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-28T06:21:28.782184+00:00"
-    },
-    {
       "id": "6c0d9382e957",
       "fingerprint": "6c0d9382e957",
       "narrative_summary": "Ataque en la Parada del Orgullo de Berlín: el sospechoso es asesinado por la policía",
@@ -5146,7 +5076,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "09afb37a2c93",
@@ -6413,7 +6343,7 @@
       "started_at": "2026-08-01T04:58:54.893162+00:00",
       "expires_at": "2026-08-04T04:58:54.893162+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.",
       "cluster_sources": [
@@ -6422,7 +6352,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-04T06:14:09.382732+00:00"
     },
     {
       "id": "61bea3a5f60b",
@@ -6638,14 +6569,15 @@
       "started_at": "2026-08-01T05:02:40.832785+00:00",
       "expires_at": "2026-08-04T05:02:40.832785+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-04T06:14:09.382744+00:00"
     },
     {
       "id": "8d89758655e0",
@@ -6981,7 +6913,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "bf2a2496c798",
@@ -7027,7 +6959,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e62b5450f5d7",
@@ -7272,7 +7204,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3abcb23bd917",
@@ -7483,7 +7415,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ca3468d3c5ee",
@@ -7572,7 +7504,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "a27449073467",
@@ -7964,7 +7896,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f0f9e0642bd2",
@@ -8010,7 +7942,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "359b4914232c",
@@ -8164,13 +8096,40 @@
       "started_at": "2026-08-01T17:51:22.764246+00:00",
       "expires_at": "2026-08-04T17:51:22.764246+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.23,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.68,
+        "volume_h1": 1005.98,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.76,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 379,
+        "txns_h1_sells": 199,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Grok Build can do almost anything you can think of X.ai/cli",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-08-04T06:17:48.303051+00:00"
     },
     {
       "id": "8179e8460d5b",
@@ -8220,7 +8179,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "aced966b0d22",
@@ -8482,7 +8441,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "aa0e5fe0c052",
@@ -8863,7 +8822,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3369ec6b3629",
@@ -8913,7 +8872,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cc70248f2e61",
@@ -8958,7 +8917,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "15803871ed3a",
@@ -8997,7 +8956,7 @@
       "started_at": "2026-08-02T04:09:53.093774+00:00",
       "expires_at": "2026-08-04T04:09:53.093774+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
@@ -9005,7 +8964,8 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-04T06:14:09.382750+00:00"
     },
     {
       "id": "19ba12c172d1",
@@ -9049,7 +9009,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9f08e8c472ae",
@@ -9093,8 +9053,34 @@
       "started_at": "2026-08-02T14:00:32.732830+00:00",
       "expires_at": "2026-08-05T14:00:32.732830+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.23,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.68,
+        "volume_h1": 1005.98,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.76,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 379,
+        "txns_h1_sells": 199,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth.",
       "cluster_sources": [
         "4chan",
@@ -9102,7 +9088,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-04T06:18:04.515290+00:00"
     },
     {
       "id": "7fabe996bf08",
@@ -9149,7 +9136,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "00d9580ed447",
@@ -9196,7 +9183,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2fb1829a32a7",
@@ -9240,7 +9227,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6675d932be8c",
@@ -9278,14 +9265,61 @@
       "started_at": "2026-08-02T14:04:52.189111+00:00",
       "expires_at": "2026-08-04T14:04:52.189111+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Dojo",
+        "name": "Dojocoin",
+        "mint": "JNJ4QbszFx23wLNMVdD5JMhMW8GFuC4UxfrnhehCncR",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 155840.0,
+        "liquidity_usd": 37739.91,
+        "price_usd": 0.0001558,
+        "volume_h24": 317355.04,
+        "volume_h1": 50826.17,
+        "volume_m5": 4169.49,
+        "price_change_5m": 1.32,
+        "price_change_1h": 32.31,
+        "price_change_24h": 2233.0,
+        "txns_h1_buys": 717,
+        "txns_h1_sells": 679,
+        "created_ts": 1785788567000,
+        "pair_created_at": 1785788567000,
+        "url": "https://dexscreener.com/solana/eyg6feavoo6hqtx6vxjjfj7pn4plgx8unezenerysxuc",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DOJ in DOJOCOIN",
+        "safety_score": 25448,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-04T06:18:16.265328+00:00"
     },
     {
       "id": "f91e9df59181",
@@ -9331,7 +9365,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "25d875415204",
@@ -9373,7 +9407,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "024f79d28069",
@@ -9419,7 +9453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "390b552f94bd",
@@ -9464,7 +9498,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d30626a46e39",
@@ -9510,7 +9544,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a139e637dccc",
@@ -9554,7 +9588,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d3a001566707",
@@ -9746,7 +9780,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e8fde06406f2",
@@ -9788,7 +9822,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9ad68d285f4b",
@@ -9834,7 +9868,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7f5114df47f8",
@@ -9879,7 +9913,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "dc4351544a08",
@@ -9923,7 +9957,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f50009cd2af1",
@@ -9960,13 +9994,40 @@
       "started_at": "2026-08-03T04:15:18.456972+00:00",
       "expires_at": "2026-08-05T04:15:18.456972+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.27,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.73,
+        "volume_h1": 1005.97,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.01,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 377,
+        "txns_h1_sells": 198,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "AI is a supersonic tsunami",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-04T06:18:37.535624+00:00"
     },
     {
       "id": "66f7aa68b893",
@@ -10089,7 +10150,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e1e09e4b3ff3",
@@ -10203,7 +10264,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b7ea26374614",
@@ -10240,13 +10301,40 @@
       "started_at": "2026-08-03T07:55:10.031161+00:00",
       "expires_at": "2026-08-05T07:55:10.031161+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.27,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.73,
+        "volume_h1": 1005.97,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.01,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 377,
+        "txns_h1_sells": 198,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "AI is a supersonic tsunami",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-04T06:18:42.416243+00:00"
     },
     {
       "id": "d08c7a6182d2",
@@ -10285,14 +10373,41 @@
       "started_at": "2026-08-03T16:44:41.968641+00:00",
       "expires_at": "2026-08-06T16:44:41.968641+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CTO",
+        "name": "Ceuta Take Over",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13068.0,
+        "liquidity_usd": 9769.84,
+        "price_usd": 1.359e-05,
+        "volume_h24": 24385.89,
+        "volume_h1": 80.9,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -2.59,
+        "price_change_24h": -21.91,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 3,
+        "created_ts": 1785418693000,
+        "pair_created_at": 1785418693000,
+        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - reuters.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-04T06:18:45.545644+00:00"
     },
     {
       "id": "4b2b4eb8edad",
@@ -10338,7 +10453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "581252147883",
@@ -10380,7 +10495,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d15d61764c2e",
@@ -10427,7 +10542,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e2eb6882c766",
@@ -10473,7 +10588,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b2ccf9b964ea",
@@ -10513,14 +10628,41 @@
       "started_at": "2026-08-03T18:35:44.317653+00:00",
       "expires_at": "2026-08-05T18:35:44.317653+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CTO",
+        "name": "Ceuta Take Over",
+        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13068.0,
+        "liquidity_usd": 9769.84,
+        "price_usd": 1.359e-05,
+        "volume_h24": 24385.89,
+        "volume_h1": 80.9,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -2.59,
+        "price_change_24h": -21.91,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 3,
+        "created_ts": 1785418693000,
+        "pair_created_at": 1785418693000,
+        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "How Israel and the European far right tried to exploit Ceuta",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-04T06:18:54.397864+00:00"
     },
     {
       "id": "bc9b1d567ed7",
@@ -10557,13 +10699,40 @@
       "started_at": "2026-08-03T20:18:24.383143+00:00",
       "expires_at": "2026-08-05T20:18:24.383143+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.27,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.73,
+        "volume_h1": 1005.97,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.01,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 377,
+        "txns_h1_sells": 198,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Oh, the irony is too much …",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-04T06:18:56.616271+00:00"
     },
     {
       "id": "86c3761db254",
@@ -10611,7 +10780,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d9670bc67321",
@@ -10653,7 +10822,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7c0acf4130c3",
@@ -10695,7 +10864,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "74615147af95",
@@ -10731,14 +10900,83 @@
       "started_at": "2026-08-04T03:23:33.316577+00:00",
       "expires_at": "2026-08-07T03:23:33.316577+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "FU",
+        "name": "Farting Unicorn By Elon Musk",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 24016.0,
+        "liquidity_usd": 19827.27,
+        "price_usd": 2.654e-05,
+        "volume_h24": 33023.73,
+        "volume_h1": 1005.97,
+        "volume_m5": 0.24,
+        "price_change_5m": -0.01,
+        "price_change_1h": -16.76,
+        "price_change_24h": 12.44,
+        "txns_h1_buys": 377,
+        "txns_h1_sells": 198,
+        "created_ts": 1734517880000,
+        "pair_created_at": 1734517880000,
+        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Starlink anywhere",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-04T06:19:03.589692+00:00"
+    },
+    {
+      "id": "65bb21ff9f58",
+      "fingerprint": "65bb21ff9f58",
+      "narrative_summary": "Elon Musk publica 'Wow' en Twitter, generando gran interés y reacción.",
+      "why_memeable": "La simplicidad y la brevedad de la publicación de Elon Musk hacen que sea fácilmente compartible y recordable.",
+      "category": "Celebridad/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWELON",
+        "MUSKWOW"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 10,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-04T06:16:09.495075+00:00",
+      "expires_at": "2026-08-06T06:16:09.495075+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-04T03:23:33.316577+00:00"
+  "last_updated": "2026-08-04T06:19:03.589711+00:00"
 }
