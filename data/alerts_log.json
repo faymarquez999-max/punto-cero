@@ -1,90 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T22:23:04.093234+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología y optimización",
-        "title": "I love optimizing machines",
-        "candidate_tickers": [
-          "OptiMusk",
-          "MuskPuzzle"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T23:38:23.163778+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ca49443a9937",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Sensitive iPhone Supplier Details Were Part Of Last Week's Data Leak At Tata Electronics - Engadget",
-        "candidate_tickers": [
-          "TATA",
-          "APPLE",
-          "DATALEAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T23:41:02.691361+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cd5718cc5c10",
-        "score": 70,
-        "category": "política",
-        "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-        "candidate_tickers": [
-          "PUTINSCARCE",
-          "RUSSIAFUEL",
-          "UKRAINEATTACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T23:41:30.577325+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Tecnología",
-        "title": "Cursor for iOS!",
-        "candidate_tickers": [
-          "CursoriOS",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T23:41:52.152089+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6cdffacfdc4a",
-        "score": 85,
-        "category": "Política y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T23:42:20.505405+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4b0b6f76e7dc",
-        "score": 82,
-        "category": "Celebridad",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T01:53:39.228493+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28134,6 +28050,87 @@
           "PALESTINOSENTIERRAN",
           "ATAQUEAGAZA"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:54:37.614421+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "CoreWeave expands into Indonesia, announces first data center in Asia-Pacific - Reuters",
+        "candidate_tickers": [
+          "CoreWeave",
+          "Asia-Pacífico",
+          "Centro de datos",
+          "Indonesia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:55:27.100107+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "891d8785c8e3",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Yeah",
+        "candidate_tickers": [
+          "YEAH",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:55:49.598513+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d00113efb550",
+        "score": 82,
+        "category": "Tecnología",
+        "title": "Terafab",
+        "candidate_tickers": [
+          "TERAFAB",
+          "ELONMUSKTERAFAB"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:56:16.501083+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y Ciencia",
+        "title": "Can’t trust OpenAI",
+        "candidate_tickers": [
+          "cantTrustOpenAI",
+          "OpenAI",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:56:38.502601+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5187d4f99938",
+        "score": 84,
+        "category": "meme",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T19:57:07.362957+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7f5114df47f8",
+        "ticker": "SPAIN",
+        "mint": "5J66Ept1vhnkdWy96SFGRFkABJLu6372NoGQ4Jvnm1QF",
+        "mc": 58807.0
       }
     }
   ]
