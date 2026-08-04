@@ -1,92 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T22:19:06.894974+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "negocios",
-        "title": "Rocket Lab to Acquire Iridium: What the $8B Deal Means for UFO Investors - ETF Database",
-        "candidate_tickers": [
-          "RocketLab",
-          "Iridium",
-          "UFOInvestors"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T22:19:38.140778+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "faa79f064415",
-        "score": 88,
-        "category": "Noticias de última hora",
-        "title": "Woman Goes Into Labor on Sister's Wedding Day, Then Sends Message from Hospital that Leaves Bride in Tears (Exclusive) - People.com",
-        "candidate_tickers": [
-          "LABORDAY",
-          "SISTERSWEDDING",
-          "BRIDEIN TEARS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T22:20:23.863015+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b8c25e90478d",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak - Macworld",
-        "candidate_tickers": [
-          "IPHONE18PRO",
-          "A20PRO",
-          "RANSOMWAREAPPLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T22:21:34.492137+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "db25c522691c",
-        "score": 91,
-        "category": "política",
-        "title": "Fuel shortages spread to more parts of Russia as Ukrainian attacks bite - Reuters",
-        "candidate_tickers": [
-          "RUSIAENFUEGO",
-          "COMBUSTIBLEENRUSIA",
-          "UCRANIAATACA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T22:22:22.794325+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "40717e56c9b5",
-        "score": 83,
-        "category": "Celebridad y red social",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T22:22:51.239194+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "34b1e925f272",
-        "score": 70,
-        "category": "Celebridad en las redes sociales",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-29T22:23:04.093234+00:00",
       "kind": "shadow",
       "payload": {
@@ -28126,6 +28040,99 @@
           "EbolaCongo",
           "EbolaOutbreak",
           "CongoEbola"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:01:38.768331+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3f1524d285cc",
+        "score": 70,
+        "category": "Noticias políticas y sociales",
+        "title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department.",
+        "candidate_tickers": [
+          "POOLGATE",
+          "REFLECT",
+          "TRUMPPOOL",
+          "JUSTICELEAGUE",
+          "VANDALISM",
+          "OLYMPICJUSTICE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:02:07.379301+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1c6b9b2be428",
+        "score": 88,
+        "category": "Guerra, conflicto, violencia",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "candidate_tickers": [
+          "DRONDELAMUERTE",
+          "CACERIAHUMANA",
+          "UCRANIARUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:02:52.312536+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e4d50d28c11f",
+        "score": 70,
+        "category": "Animales",
+        "title": "Former Petaluma animal shelter operator transferred dogs to Humboldt County rescue now under investigation - Petaluma Argus-Courier",
+        "candidate_tickers": [
+          "PUPPYGATE",
+          "REFUGIODEPANTALONES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:04:42.619203+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3f2e902ceacc",
+        "score": 78,
+        "category": "Desastres naturales",
+        "title": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
+        "candidate_tickers": [
+          "FUEGO",
+          "GUATEMALA",
+          "ERUPCION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:05:14.374959+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db8c18211c35",
+        "score": 88,
+        "category": "política internacional",
+        "title": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
+        "candidate_tickers": [
+          "HORMUZ",
+          "IRAN",
+          "CONTROL",
+          "OVERSIGHT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T18:05:40.162190+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "447d505c8e43",
+        "score": 89,
+        "category": "Noticias internacionales",
+        "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike - AP News",
+        "candidate_tickers": [
+          "GAZA112",
+          "PALESTINOSENTIERRAN",
+          "ATAQUEAGAZA"
         ]
       }
     }
