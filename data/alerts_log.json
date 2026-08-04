@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T09:25:05.291318+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "XRP",
-          "MemeToro",
-          "XSG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T09:26:21.013701+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "524281f6ebf9",
-        "score": 80,
-        "category": "rescate",
-        "title": "Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive",
-        "candidate_tickers": [
-          "JUAN_DAVID",
-          "RESCATE_EN_VENEZUELA",
-          "ESPERANZA_EN_VENEZUELA"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-29T09:27:05.868014+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28129,6 +28100,26 @@
           "BRIT",
           "ELON"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-03T23:59:22.023090+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9f449f9e7f39",
+        "ticker": "FU",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "mc": 39763.0
+      }
+    },
+    {
+      "ts": "2026-08-03T23:59:34.314733+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9f08e8c472ae",
+        "ticker": "FU",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "mc": 39763.0
       }
     }
   ]
