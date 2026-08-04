@@ -1,61 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T09:27:05.868014+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ab1d6924411c",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Un muerto y un herido grave en un tiroteo en una fan zone del Mundial en California - Diario AS",
-        "candidate_tickers": [
-          "MUNDIAL",
-          "TIROTEO",
-          "FANZONE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T09:27:11.589738+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6305b920f232",
-        "ticker": "RIPTRUMP",
-        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
-        "mc": 132138.0
-      }
-    },
-    {
-      "ts": "2026-06-29T09:27:19.418772+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1f3d3ffd4181",
-        "ticker": "WAR",
-        "mint": "8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
-        "mc": 151338.0
-      }
-    },
-    {
-      "ts": "2026-06-29T09:27:22.441279+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "34138eb29350",
-        "ticker": "RIPTRUMP",
-        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
-        "mc": 132138.0
-      }
-    },
-    {
-      "ts": "2026-06-29T09:27:30.802401+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2eefb4c61329",
-        "ticker": "EMC",
-        "mint": "J5SkiXLrrixAg6AjXpxUbVwpuQ2qxsUwKssoyyMBpump",
-        "mc": 10063.0
-      }
-    },
-    {
       "ts": "2026-06-29T13:54:50.807242+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28120,6 +28065,67 @@
         "ticker": "FU",
         "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
         "mc": 39763.0
+      }
+    },
+    {
+      "ts": "2026-08-04T03:21:46.993264+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "tech",
+        "title": "Oh, the irony is too much …",
+        "candidate_tickers": [
+          "MUSKIRONY",
+          "ELONMUSKIRONY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T03:23:11.133322+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7c0acf4130c3",
+        "score": 80,
+        "category": "celebridad",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOWMUSK",
+          "MUSKWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T03:23:33.861891+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "74615147af95",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "Starlink anywhere",
+        "candidate_tickers": [
+          "STARLINK",
+          "ANYWHERE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T03:26:13.963217+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9f449f9e7f39",
+        "ticker": "FU",
+        "mint": "BCzzs1oRYKnFb8aJgcJjob7VcLVZCyArFCimEDzspump",
+        "mc": 20055.0
+      }
+    },
+    {
+      "ts": "2026-08-04T03:26:26.348398+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9f08e8c472ae",
+        "ticker": "FU",
+        "mint": "BCzzs1oRYKnFb8aJgcJjob7VcLVZCyArFCimEDzspump",
+        "mc": 20055.0
       }
     }
   ]

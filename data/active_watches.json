@@ -1,100 +1,6 @@
 {
   "watches": [
     {
-      "id": "5833d3a1b355",
-      "fingerprint": "5833d3a1b355",
-      "narrative_summary": "Wildfires amenazan a Bordeaux, Francia y España luchan contra incendios",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' con la amenaza de incendios y la evacuación de miles de personas.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BORDEAUXINCENDIO",
-        "FRANCIAENFUEGO",
-        "INCENDIOSESPAÑA"
-      ],
-      "key_terms_for_dex_search": [
-        "Bordeaux",
-        "incendio",
-        "Francia",
-        "España",
-        "evacuación"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-26T21:46:15.113790+00:00",
-      "expires_at": "2026-07-28T21:46:15.113790+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wildfires threaten Bordeaux as France and Spain battle blazes - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-28T22:46:04.407813+00:00"
-    },
-    {
-      "id": "1440b63c3f23",
-      "fingerprint": "1440b63c3f23",
-      "narrative_summary": "Israeli settlers incendian mezquitas en la Cuenca Occidental después de un enfrentamiento mortal.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'violencia' que puede ser capturado en una frase corta.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISRAEL",
-        "MEZQUITAS",
-        "INJUSTICIA",
-        "VIOLNCIA"
-      ],
-      "key_terms_for_dex_search": [
-        "israel",
-        "mezquitas",
-        "injusticia",
-        "violencia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 4,
-        "velocity": 6
-      },
-      "started_at": "2026-07-26T21:46:56.458929+00:00",
-      "expires_at": "2026-07-29T21:46:56.458929+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israeli settlers set fire to West Bank mosques after deadly clash - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 11,
-      "expired_at": "2026-07-29T23:47:11.330056+00:00"
-    },
-    {
       "id": "263e6994b049",
       "fingerprint": "263e6994b049",
       "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' que ha generado mucha atención.",
@@ -10748,7 +10654,91 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "7c0acf4130c3",
+      "fingerprint": "7c0acf4130c3",
+      "narrative_summary": "Elon Musk publica un 'wow' en Twitter con gran cantidad de engagement.",
+      "why_memeable": "La simplicidad y la brevedad de la frase 'wow' la hacen fácilmente compartible y memeable.",
+      "category": "celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWMUSK",
+        "MUSKWOW"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-04T03:23:10.550113+00:00",
+      "expires_at": "2026-08-06T03:23:10.550113+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "74615147af95",
+      "fingerprint": "74615147af95",
+      "narrative_summary": "Elon Musk anuncia que Starlink estará disponible en cualquier lugar del mundo",
+      "why_memeable": "La frase 'Starlink anywhere' es fácil de recordar y compartir",
+      "category": "Tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "STARLINK",
+        "ANYWHERE"
+      ],
+      "key_terms_for_dex_search": [
+        "Starlink",
+        "anywhere",
+        "Elon Musk"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-04T03:23:33.316577+00:00",
+      "expires_at": "2026-08-07T03:23:33.316577+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Starlink anywhere",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-03T22:47:23.434817+00:00"
+  "last_updated": "2026-08-04T03:23:33.316577+00:00"
 }
