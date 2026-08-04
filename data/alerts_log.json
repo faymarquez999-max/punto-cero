@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T17:02:25.995365+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1d2febfeb458",
-        "ticker": "IRAN",
-        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
-        "mc": 212251.0
-      }
-    },
-    {
-      "ts": "2026-06-29T17:02:35.943514+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6a3d253e6373",
-        "ticker": "AIAIAI",
-        "mint": "AVPJS61gZmWKtaEpb7qYPKo8Fk2xQUsayYQxPiPMpump",
-        "mc": 14289.0
-      }
-    },
-    {
-      "ts": "2026-06-29T17:02:39.161989+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a223ad2fddf1",
-        "ticker": "IRAN",
-        "mint": "9q6wBLbdhmopYpJFcVrTj8ipCLtDX9wKd74wZRqxwWz7",
-        "mc": 212250.0
-      }
-    },
-    {
-      "ts": "2026-06-29T17:02:43.095138+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8a7b1d22b18b",
-        "ticker": "SON",
-        "mint": "21d2GQJLt6Wd8oKXHtqx2AvZ9XW2iXBPaUT7LvGWbonk",
-        "mc": 20809.0
-      }
-    },
-    {
-      "ts": "2026-06-29T17:02:58.711621+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "524281f6ebf9",
-        "ticker": "7",
-        "mint": "7D847evpLPubz1vHCsoTjJ6EHSUpmcTtXexNy51DJ7su",
-        "mc": 16193.0
-      }
-    },
-    {
       "ts": "2026-06-29T17:03:05.290378+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28096,6 +28046,70 @@
         "ticker": "FU",
         "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
         "mc": 24016.0
+      }
+    },
+    {
+      "ts": "2026-08-04T09:14:35.702864+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "acf88c99cddd",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOWMUSK",
+          "ELONWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T09:16:12.475361+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cf52854a4e8d",
+        "score": 73,
+        "category": "Noticias",
+        "title": "Un chapuzón en el complejo de enormes piscinas y toboganes de agua de Kim Jong-un en plena ola de calor - Ultima Hora",
+        "candidate_tickers": [
+          "KIMJONGUNCHAPUZON",
+          "PISCINASDEKIM",
+          "OLADECALOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T09:17:31.585657+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "837ee15b0059",
+        "score": 70,
+        "category": "Política y Justicia",
+        "title": "We demand accountability for the Beirut blast",
+        "candidate_tickers": [
+          "BEIRUTBLAST",
+          "ACCOUNTABILITYNOW",
+          "JUSTICEFORBEIRUT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T09:18:50.512567+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d15d61764c2e",
+        "ticker": "NPC",
+        "mint": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
+        "mc": 429958.0
+      }
+    },
+    {
+      "ts": "2026-08-04T09:18:57.977376+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "acf88c99cddd",
+        "ticker": "FU",
+        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
+        "mc": 24272.0
       }
     }
   ]
