@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T21:02:59.754035+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "28890061a2fa",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak - Macworld",
-        "candidate_tickers": [
-          "IPHONE18",
-          "APPLELEAK",
-          "DATALEAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T21:05:04.099155+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "becc85553a8e",
-        "score": 79,
-        "category": "Noticias de crímenes y tragedias",
-        "title": "Six killed in shooting at mother-and-child shelter in northern Germany - Reuters",
-        "candidate_tickers": [
-          "ALEMANIATIROTEO",
-          "PERROSMUERTOS",
-          "REFUGIOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T21:05:19.104252+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP POLL",
-          "POLL TRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-29T22:19:06.894974+00:00",
       "kind": "shadow",
       "payload": {
@@ -28125,6 +28082,50 @@
           "CRIPTOMONEDAS",
           "FBIAGENT",
           "CRYPTOHEIST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T16:00:30.552705+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c0883d4f3da8",
+        "score": 74,
+        "category": "Celebridades y política",
+        "title": "Elon Musk with his first Tesla Roadster, in 2008.",
+        "candidate_tickers": [
+          "ELONMUSK",
+          "DONALDTRUMP",
+          "MUSKTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T16:03:47.293475+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "895a12902f98",
+        "score": 80,
+        "category": "Noticias de crímenes y arrestos",
+        "title": "Breaking: Arrest in Hyde Park shooting, DA rips ‘heinous act’ - Boston Herald",
+        "candidate_tickers": [
+          "HYDEPARKSHOOTING",
+          "ARRESTOINHUMANO",
+          "DACONDENA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T16:04:59.834063+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "salud",
+        "title": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
+        "candidate_tickers": [
+          "EbolaCongo",
+          "EbolaOutbreak",
+          "CongoEbola"
         ]
       }
     }
