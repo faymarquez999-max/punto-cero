@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T19:11:08.056631+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "580412b84a10",
-        "score": 70,
-        "category": "Tecnología y Ciencia",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSKTRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T19:11:28.236551+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ee5617c0d9fd",
-        "score": 80,
-        "category": "celebridad",
-        "title": "Correct",
-        "candidate_tickers": [
-          "CORRECT",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T19:11:56.336658+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "69028718c47a",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T19:12:17.035441+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Tecnología y redes sociales",
-        "title": "Cursor for iOS!",
-        "candidate_tickers": [
-          "CursoriOS",
-          "CursorForiOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T19:13:52.472134+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4e220c2ad3ea",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 92011.0
-      }
-    },
-    {
-      "ts": "2026-06-29T19:13:53.780763+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "580412b84a10",
-        "ticker": "ghniy",
-        "mint": "53sY8B9pTo1FXeYQZqidYKbpNbZADJ7CrRDwzdqHpump",
-        "mc": 13039.0
-      }
-    },
-    {
       "ts": "2026-06-29T21:02:59.754035+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28109,6 +28034,97 @@
           "CRIMEA",
           "SOLDADO RUSO",
           "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:29:57.891568+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "97c20591c24d",
+        "score": 80,
+        "category": "Política y economía",
+        "title": "JUST IN: 🇺🇸🇮🇷 President Trump says Exxon and Chevron made \"too much money\" off high oil prices due to Iran war.",
+        "candidate_tickers": [
+          "TRUMPET",
+          "OILGATE",
+          "CHEVRONED",
+          "EXXONED",
+          "IRANWAR",
+          "BIGOIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:30:11.026736+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "TRUMP'S IRAN STRIKE THREATS: A TIMELINE",
+        "candidate_tickers": [
+          "TRUMP_IRAN",
+          "IRAN_STRIKE",
+          "TRUMP_CHALLENGED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:30:36.896580+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "política",
+        "title": "Slavery was ended primarily by Britain",
+        "candidate_tickers": [
+          "SLVRY",
+          "BRITAIN",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:30:56.429634+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2597eeb7c1c0",
+        "score": 70,
+        "category": "Celebridad",
+        "title": "Wow",
+        "candidate_tickers": [
+          "ELONWOW",
+          "MUSKWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:31:24.145516+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e0ac9a83d7a5",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Starlink anywhere",
+        "candidate_tickers": [
+          "STARLINK",
+          "ANYWHERE",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T13:32:09.001494+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "573fda1e5771",
+        "score": 83,
+        "category": "crimen y justicia",
+        "title": "JUST IN: 🇺🇸 FBI agent arrested and charged with stealing $1,000,000 in crypto from a suspect's accounts.",
+        "candidate_tickers": [
+          "FBI",
+          "CRIPTOMONEDAS",
+          "FBIAGENT",
+          "CRYPTOHEIST"
         ]
       }
     }
