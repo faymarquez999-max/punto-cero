@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-29T17:03:05.290378+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "61e0fa62bd5b",
-        "ticker": "Elon",
-        "mint": "H86Mm1QWCW5XrA4TQaQcCLfwG8u1xjQ2RupigorYpump",
-        "mc": 18756.0
-      }
-    },
-    {
-      "ts": "2026-06-29T19:10:23.961825+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c477773e9464",
-        "score": 80,
-        "category": "Política",
-        "title": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgen",
-        "candidate_tickers": [
-          "TRUMP22",
-          "LEFTVSRIGHT",
-          "POLARIZED",
-          "MAGA2024",
-          "RADICALLEFT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-29T19:10:25.940514+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4e220c2ad3ea",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak - Reuters",
-        "candidate_tickers": [
-          "LEAK18",
-          "TATALEAK",
-          "APPLEGATE",
-          "IPHONE18",
-          "DATADUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-29T19:11:08.056631+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28110,6 +28066,50 @@
         "ticker": "FU",
         "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
         "mc": 24272.0
+      }
+    },
+    {
+      "ts": "2026-08-04T11:37:33.640105+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Guerra y política",
+        "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+        "candidate_tickers": [
+          "Rusia_Ucrania",
+          "Guerra_Drones",
+          "Ataque_Supermercado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T11:38:38.815548+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y Privacidad",
+        "title": "Apple issues new challenge against UK order for access to private user data",
+        "candidate_tickers": [
+          "AppleVsUK",
+          "DataPrivacy",
+          "TechVsGov"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-04T11:41:25.683236+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e9ee625f6de5",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "Russian soldier kills colleague and three civilians in Crimea - Reuters",
+        "candidate_tickers": [
+          "RUSIA",
+          "CRIMEA",
+          "SOLDADO RUSO",
+          "INJUSTICIA"
+        ]
       }
     }
   ]

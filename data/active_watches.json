@@ -1,94 +1,6 @@
 {
   "watches": [
     {
-      "id": "669412984eab",
-      "fingerprint": "669412984eab",
-      "narrative_summary": "El chipmaker chino CXMT experimenta un aumento de casi 500% en su debut en el mercado.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un gran impacto emocional.",
-      "category": "finanzas",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CXMT",
-        "CHINA",
-        "CHIPMAKER"
-      ],
-      "key_terms_for_dex_search": [
-        "CXMT",
-        "CHINA",
-        "CHIPMAKER",
-        "DEBUT",
-        "MARKET"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 6
-      },
-      "started_at": "2026-07-27T05:33:59.182362+00:00",
-      "expires_at": "2026-07-31T05:33:59.182362+00:00",
-      "duration_hours": 96,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CXMT",
-        "name": "CXMT",
-        "mint": "5cHpYUDsPWNokYBPgPmhH8GNwcTQ4GokK99vFtVyMUge",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 138931.0,
-        "liquidity_usd": 13880.6,
-        "price_usd": 1.389e-05,
-        "volume_h24": 21672.65,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -100.0,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1785090947000,
-        "pair_created_at": 1785090947000,
-        "url": "https://dexscreener.com/solana/ctuordxy7xtlqsohuqj5m71mmivkinyuy24jdphazija",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: CXMT==CXMT",
-        "safety_score": 14469,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-27T19:04:51.505047+00:00"
-    },
-    {
       "id": "01a5b6812834",
       "fingerprint": "01a5b6812834",
       "narrative_summary": "Elon Musk y su relación con Twitter y la justicia, incluyendo un posible acuerdo de $1.5 millones y declaraciones sobre la elección presidencial de 2020.",
@@ -6784,14 +6696,15 @@
       "started_at": "2026-08-01T09:50:00.257086+00:00",
       "expires_at": "2026-08-04T09:50:00.257086+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-04T11:37:10.211942+00:00"
     },
     {
       "id": "e62b5450f5d7",
@@ -11007,7 +10920,53 @@
         "breaking_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "e9ee625f6de5",
+      "fingerprint": "e9ee625f6de5",
+      "narrative_summary": "Un soldado ruso mata a un compañero y a tres civiles en Crimea",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIA",
+        "CRIMEA",
+        "SOLDADO RUSO",
+        "INJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Crimea",
+        "Soldado ruso",
+        "Injusticia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-04T11:41:25.264802+00:00",
+      "expires_at": "2026-08-06T11:41:25.264802+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russian soldier kills colleague and three civilians in Crimea - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-04T09:18:57.966475+00:00"
+  "last_updated": "2026-08-04T11:41:25.264802+00:00"
 }
