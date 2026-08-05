@@ -1,123 +1,6 @@
 {
   "watches": [
     {
-      "id": "a0fe556505fd",
-      "fingerprint": "a0fe556505fd",
-      "narrative_summary": "Johnson & Johnson ofrece $5.5 mil millones para resolver demandas de cáncer de talco.",
-      "why_memeable": "La frase es corta y fácil de compartir, con un número grande de demandas y una cantidad significativa de dinero involucrada.",
-      "category": "Salud y Ley",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JJTALC",
-        "CANCERPOWDER",
-        "TALCGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "JJTalc",
-        "CancerPowder",
-        "TalcGate",
-        "Johnson & Johnson",
-        "Cáncer de talco",
-        "Demandas"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T06:19:21.551650+00:00",
-      "expires_at": "2026-07-30T06:19:21.551650+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-30T07:17:57.723736+00:00"
-    },
-    {
-      "id": "5b41b75ccb28",
-      "fingerprint": "5b41b75ccb28",
-      "narrative_summary": "Elon Musk comparte actual footage de algo que genera risa",
-      "why_memeable": "La frase 'actual footage' sugiere que se trata de algo inesperado y divertido, y la presencia de Elon Musk añade un toque de fama y polarización.",
-      "category": "humor y entretenimiento",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "ELON",
-        "FOOTAGE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "footage",
-        "humor"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T06:20:19.367418+00:00",
-      "expires_at": "2026-07-30T06:20:19.367418+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 230366.0,
-        "liquidity_usd": 81228.96,
-        "price_usd": 0.0002304,
-        "volume_h24": 9598.48,
-        "volume_h1": 957.91,
-        "volume_m5": 21.52,
-        "price_change_5m": -0.03,
-        "price_change_1h": 3.43,
-        "price_change_24h": -7.33,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Actual footage 😂",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T06:22:20.359668+00:00"
-    },
-    {
       "id": "fefc816a9e27",
       "fingerprint": "fefc816a9e27",
       "narrative_summary": "Elon Musk comparte una frase viral sobre dinero",
@@ -5340,14 +5223,15 @@
       "started_at": "2026-08-01T09:48:37.053734+00:00",
       "expires_at": "2026-08-05T09:48:37.053734+00:00",
       "duration_hours": 96,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-05T10:12:56.376004+00:00"
     },
     {
       "id": "bf2a2496c798",
@@ -8598,14 +8482,15 @@
       "started_at": "2026-08-03T07:53:29.335702+00:00",
       "expires_at": "2026-08-05T07:53:29.335702+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-05T10:12:56.376027+00:00"
     },
     {
       "id": "e1e09e4b3ff3",
@@ -8713,13 +8598,14 @@
       "started_at": "2026-08-03T07:54:47.506938+00:00",
       "expires_at": "2026-08-05T07:54:47.506938+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Suicidal empathy",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-05T10:12:56.376029+00:00"
     },
     {
       "id": "b7ea26374614",
@@ -10832,7 +10718,96 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "6ce608f9e03c",
+      "fingerprint": "6ce608f9e03c",
+      "narrative_summary": "Elon Musk comparte su merch favorito, haciendo referencia a un lanzallamas",
+      "why_memeable": "La mención a un lanzallamas y el tono irónico de Musk crean un contenido viral",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKFLAME",
+        "NOTFLAMETHROWER",
+        "ELONMERCH"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "merch",
+        "lanzallamas",
+        "not a flamethrower"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T10:13:50.850897+00:00",
+      "expires_at": "2026-08-07T10:13:50.850897+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "My favorite piece of merch other than the (not a) flamethrower",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "442b80098bc2",
+      "fingerprint": "442b80098bc2",
+      "narrative_summary": "Ataque ruso en la región de Kyiv deja 17 muertos y 44 heridos",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y es fácil de capturar en una frase. La imagen de un ataque aéreo es icónica y polarizante.",
+      "category": "Guerra Rusia-Ucrania",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAATACA",
+        "KYIVBOMBED",
+        "UCRANIAENGUERRA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Kyiv",
+        "ataque",
+        "bombardeo"
+      ],
+      "score": 73,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 3,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T10:16:50.160326+00:00",
+      "expires_at": "2026-08-07T10:16:50.160326+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ataque ruso deja 17 muertos en la región de Kyiv, según Zelensky - cnnespanol.cnn.com",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-05T07:33:13.129619+00:00"
+  "last_updated": "2026-08-05T10:16:50.160326+00:00"
 }

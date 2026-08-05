@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T10:15:17.846180+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1c8b4c4d3527",
-        "score": 73,
-        "category": "clima",
-        "title": "Heatwave scorches east Europe as Slovakia, Czechia see record temperatures",
-        "candidate_tickers": [
-          "CALOREXTREMO",
-          "EUROPAENFUEGO",
-          "TEMPERATURASRÉCORD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T12:30:19.777542+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bbd3687e6dba",
-        "score": 90,
-        "category": "Animal abuse",
-        "title": "At least 117 dead dogs found in 'no kill' animal shelter in California - Philstar Life",
-        "candidate_tickers": [
-          "DEADDOGSCA",
-          "ABUSEATNOKILLSHELTER",
-          "117DOGSFOUNDDEAD"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T12:31:56.965996+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28198,6 +28168,36 @@
         "ticker": "eelonmusk",
         "mint": "41ZjQx5HSLuDPFXimWUmhf8LmMZ7VjZjANxSu64vEVuE",
         "mc": 12723.0
+      }
+    },
+    {
+      "ts": "2026-08-05T10:13:51.310001+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6ce608f9e03c",
+        "score": 82,
+        "category": "Tecnología y celebridades",
+        "title": "My favorite piece of merch other than the (not a) flamethrower",
+        "candidate_tickers": [
+          "MUSKFLAME",
+          "NOTFLAMETHROWER",
+          "ELONMERCH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T10:16:50.637426+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "442b80098bc2",
+        "score": 73,
+        "category": "Guerra Rusia-Ucrania",
+        "title": "Ataque ruso deja 17 muertos en la región de Kyiv, según Zelensky - cnnespanol.cnn.com",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "KYIVBOMBED",
+          "UCRANIAENGUERRA"
+        ]
       }
     }
   ]
