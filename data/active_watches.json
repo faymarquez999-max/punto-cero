@@ -1,358 +1,6 @@
 {
   "watches": [
     {
-      "id": "30b13e982d65",
-      "fingerprint": "30b13e982d65",
-      "narrative_summary": "FIFA considera vender una parte de la empresa a través de una nueva entidad de $20 mil millones, lo que provoca la ira de UEFA",
-      "why_memeable": "La narrativa tiene un título claro y un tema central que puede ser capturado en una frase corta.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FIFAVSUEFA",
-        "FIFASALE",
-        "UEFAVSFIFA"
-      ],
-      "key_terms_for_dex_search": [
-        "FIFA",
-        "UEFA",
-        "estafa",
-        "fútbol",
-        "deportes"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T17:13:56.995088+00:00",
-      "expires_at": "2026-07-30T17:13:56.995088+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "FIFA mulls stake sale through new $20 billion entity, UEFA not happy - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-31T04:46:26.667336+00:00"
-    },
-    {
-      "id": "2eeadd13b268",
-      "fingerprint": "2eeadd13b268",
-      "narrative_summary": "Elon Musk confirma la verdad de algo, generando gran interés y debate en la red social Nitter.",
-      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen fácilmente compartible y recordable.",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "true"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T17:15:36.855324+00:00",
-      "expires_at": "2026-07-30T17:15:36.855324+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 226310.0,
-        "liquidity_usd": 80942.88,
-        "price_usd": 0.0002263,
-        "volume_h24": 25841.02,
-        "volume_h1": 168.47,
-        "volume_m5": 165.65,
-        "price_change_5m": -0.33,
-        "price_change_1h": -0.04,
-        "price_change_24h": -1.48,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T18:56:07.172893+00:00"
-    },
-    {
-      "id": "09308ef27f1d",
-      "fingerprint": "09308ef27f1d",
-      "narrative_summary": "Elon Musk confirma la verdad de algo sin especificar qué.",
-      "why_memeable": "La simplicidad y la ambigüedad de la frase 'True' hacen que sea fácil de compartir y recordar.",
-      "category": "Celebreties",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "true"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T18:52:04.278545+00:00",
-      "expires_at": "2026-07-30T18:52:04.278545+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 226310.0,
-        "liquidity_usd": 80942.88,
-        "price_usd": 0.0002263,
-        "volume_h24": 25841.02,
-        "volume_h1": 168.47,
-        "volume_m5": 165.65,
-        "price_change_5m": -0.33,
-        "price_change_1h": -0.04,
-        "price_change_24h": -1.48,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T18:56:08.242500+00:00"
-    },
-    {
-      "id": "b00e14f373e7",
-      "fingerprint": "b00e14f373e7",
-      "narrative_summary": "Elon Musk comparte una imagen de una persona en una escala humana para dar perspectiva sobre la vida y la tecnología.",
-      "why_memeable": "La imagen es simple y fácil de compartir, y la idea de dar perspectiva a la vida y la tecnología es algo que muchos pueden relacionar.",
-      "category": "Tecnología y sociedad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "HUMANSFORSCALE",
-        "SCALEOFHUMANITY"
-      ],
-      "key_terms_for_dex_search": [
-        "humans",
-        "scale",
-        "elonmusk"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T18:54:05.415039+00:00",
-      "expires_at": "2026-07-30T18:54:05.415039+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Humans for scale",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-07-31T04:46:26.667339+00:00"
-    },
-    {
-      "id": "fa51f76c35eb",
-      "fingerprint": "fa51f76c35eb",
-      "narrative_summary": "Donald Trump y Elon Musk están en una pelea pública, con Trump mencionando una película llamada 'MELANIA' y Musk respondiendo con acusaciones sobre los archivos de Epstein.",
-      "why_memeable": "La pelea entre dos figuras públicas prominentes con una historia de declaraciones polémicas y una posible conexión con un tema tabú como los archivos de Epstein ofrece un rico terreno para memes y especulación.",
-      "category": "Celebridad y política",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUMPVSMSK",
-        "MUSKTRUMPFEUD",
-        "EPSTEINGATE",
-        "MELANIAMOVIE",
-        "TRUMPFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Epstein",
-        "MELANIA",
-        "feud"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T20:22:40.340609+00:00",
-      "expires_at": "2026-07-31T20:22:40.340609+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Last night I saw, “MELANIA,” for the second time. The audience loved it, and so do I. Check it out — A MUST SEE! amazon.com/salp/melaniamovie…",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-07-31T21:32:11.192282+00:00"
-    },
-    {
-      "id": "f2e322dd7660",
-      "fingerprint": "f2e322dd7660",
-      "narrative_summary": "Elon Musk publica un tweet con el texto 'True' y genera gran interés",
-      "why_memeable": "Frase corta y simple con gran impacto y polarización",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "tweet",
-        "política"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 10,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T20:26:11.496189+00:00",
-      "expires_at": "2026-08-04T20:26:11.496189+00:00",
-      "duration_hours": 168,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 227183.0,
-        "liquidity_usd": 81258.63,
-        "price_usd": 0.0002272,
-        "volume_h24": 25712.86,
-        "volume_h1": 65.38,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.13,
-        "price_change_24h": -0.19,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 2,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T20:27:54.877942+00:00"
-    },
-    {
       "id": "12e9fb70427e",
       "fingerprint": "12e9fb70427e",
       "narrative_summary": "El gobierno de Trump anuncia el fin del programa de subsidio de Medicare",
@@ -7052,14 +6700,15 @@
       "started_at": "2026-08-02T22:14:27.962698+00:00",
       "expires_at": "2026-08-05T22:14:27.962698+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wildfires force mass evacuations across the Pacific Northwest",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-05T22:46:08.184030+00:00"
     },
     {
       "id": "d30626a46e39",
@@ -8384,7 +8033,7 @@
       "started_at": "2026-08-03T22:45:52.584934+00:00",
       "expires_at": "2026-08-05T22:45:52.584934+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department.",
       "cluster_sources": [
@@ -8393,7 +8042,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-05T22:46:08.184043+00:00"
     },
     {
       "id": "d9670bc67321",
@@ -10727,7 +10377,282 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "1792e0271e56",
+      "fingerprint": "1792e0271e56",
+      "narrative_summary": "True crime sobre el impactante crimen de Patraix",
+      "why_memeable": "Frase corta y memorable sobre un crimen impactante",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PATRAIX",
+        "MAJE",
+        "TRUECRIME"
+      ],
+      "key_terms_for_dex_search": [
+        "Patraix",
+        "Maje",
+        "TrueCrime",
+        "crimen",
+        "justicia"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-05T22:46:45.151733+00:00",
+      "expires_at": "2026-08-07T22:46:45.151733+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c8c8895195e2",
+      "fingerprint": "c8c8895195e2",
+      "narrative_summary": "Irán anuncia un preacuerdo con Omán para gestionar el estrecho de Ormuz, mientras Trump amenaza con abrirlo por la fuerza.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: Irán y Omán acuerdan gestionar el estrecho de Ormuz, mientras Trump amenaza con abrirlo.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN_OMAN",
+        "ESTRECHO_DE_ORMUZ",
+        "TRUMP AMENAZA"
+      ],
+      "key_terms_for_dex_search": [
+        "Irán",
+        "Omán",
+        "estrecho de Ormuz",
+        "Trump",
+        "amenaza"
+      ],
+      "score": 71,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T22:47:32.955764+00:00",
+      "expires_at": "2026-08-07T22:47:32.955764+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Guerra en Irán, en directo | Irán anuncia un preacuerdo con Omán para gestionar el estrecho de Ormuz - LaSexta",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "79ef4868b678",
+      "fingerprint": "79ef4868b678",
+      "narrative_summary": "Iran amenaza con atacar a estados del Golfo si EE. UU. lanza nuevos ataques.",
+      "why_memeable": "La narrativa tiene un título atractivo y una amenaza clara, lo que la hace fácilmente compartible.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "GOLFO",
+        "EEUU",
+        "ATACOS"
+      ],
+      "key_terms_for_dex_search": [
+        "iran",
+        "golfo",
+        "ataques",
+        "ee.uu."
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T22:48:50.781106+00:00",
+      "expires_at": "2026-08-07T22:48:50.781106+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "904d2844077b",
+      "fingerprint": "904d2844077b",
+      "narrative_summary": "Elon Musk enfrenta problemas legales y críticas por sus comentarios sobre raza",
+      "why_memeable": "La narrativa cuenta con múltiples fuentes y señales de interés, incluyendo problemas legales y críticas a Elon Musk",
+      "category": "Política y negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKPROBLEMAS",
+        "ELONMUSKENPROBLEMAS",
+        "MUSKENLAMIRILLA"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "problemas legales",
+        "críticas",
+        "raza"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T22:50:03.154556+00:00",
+      "expires_at": "2026-08-07T22:50:03.154556+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Judge ‘Reluctantly’ Lets DOJ Dismiss Jan. 6 Oath Keepers Cases - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "31b217f3be81",
+      "fingerprint": "31b217f3be81",
+      "narrative_summary": "Un conductor menor de edad causa un accidente fatal que deja a 7 niños heridos y a un hombre muerto.",
+      "why_memeable": "La combinación de un conductor menor de edad y un accidente fatal con heridos es un escenario inusual y llamativo.",
+      "category": "accidentes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CRASHKIDDO",
+        "MINORDRIVER",
+        "FATALCRASH"
+      ],
+      "key_terms_for_dex_search": [
+        "crash",
+        "minor",
+        "driver",
+        "fatal",
+        "accident"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T22:50:42.994315+00:00",
+      "expires_at": "2026-08-07T22:50:42.994315+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Bizarre Crash Leaves 7 Children Injured, 1 Man Dead, After Underage Driver Flips Car - Yahoo",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0ac697ff5d14",
+      "fingerprint": "0ac697ff5d14",
+      "narrative_summary": "Ucrania advierte que la falta de interceptores está costando vidas después de un ataque letal en Kiev",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y exposición a la amenaza, lo que la hace fácilmente compartible y recordable",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA",
+        "INTERCEPTORES",
+        "KIEV",
+        "ATAQUE LETAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "interceptores",
+        "Kiev",
+        "ataque letal"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T22:51:08.406256+00:00",
+      "expires_at": "2026-08-07T22:51:08.406256+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-05T20:18:51.224740+00:00"
+  "last_updated": "2026-08-05T22:51:08.406256+00:00"
 }
