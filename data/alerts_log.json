@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T15:21:12.479444+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b391ec3f9ac7",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
-      "ts": "2026-06-30T15:21:15.768178+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6ded21f629b3",
-        "ticker": "CONVICTION",
-        "mint": "DQ1zRnAiy4bjhiWgDvoaQhyGGqjJFb1aVyF3BpCHbonk",
-        "mc": 12592.0
-      }
-    },
-    {
-      "ts": "2026-06-30T15:21:18.514905+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a9fc281b1f0f",
-        "ticker": "ELON",
-        "mint": "nasyKoskpFz77JHSYfDVMPz1xacFYbAKhKRpZ6xpump",
-        "mc": 31618.0
-      }
-    },
-    {
-      "ts": "2026-06-30T15:21:20.139210+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "78c3f67185bf",
-        "ticker": "BINGO",
-        "mint": "JAD3fhtcxgUxYaEpqqoWu2i4dCTD56hMBAWHqp1ypump",
-        "mc": 450350.0
-      }
-    },
-    {
       "ts": "2026-06-30T17:20:58.783212+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28187,6 +28147,59 @@
         "ticker": "Cesar",
         "mint": "DRD2PskD1XdmtcYw8QTUwnnwx5FwDvRbrSY69bb8pump",
         "mc": 13637.0
+      }
+    },
+    {
+      "ts": "2026-08-05T16:50:11.031099+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "negocios",
+        "title": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says - Reuters",
+        "candidate_tickers": [
+          "AZNMYERS",
+          "NO DEAL",
+          "ASTRAZE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T16:50:57.726752+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
+        "candidate_tickers": [
+          "HORMUZ",
+          "TRUMP",
+          "PETRÓLEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T16:51:31.928637+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c41ee4322e53",
+        "score": 70,
+        "category": "fútbol",
+        "title": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
+        "candidate_tickers": [
+          "SALAHTURQUIA",
+          "SALAHTRABZONSPOR",
+          "FRENESISALAH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T16:54:56.563676+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1c6b9b2be428",
+        "ticker": "DRF",
+        "mint": "8ZBary7T9Ajx119QsHt6qGni2ZkktSyu7J8nmrVFpump",
+        "mc": 307840.0
       }
     }
   ]

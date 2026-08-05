@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "dac60670b6eb",
-      "fingerprint": "dac60670b6eb",
-      "narrative_summary": "Elon Musk confirma 'True' en una publicación en Twitter.",
-      "why_memeable": "La simplicidad de la palabra 'True' y la polarización de Elon Musk.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON MUSK",
-        "TRUE",
-        "TECNOLOGIA"
-      ],
-      "score": 72,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T09:15:32.562142+00:00",
-      "expires_at": "2026-07-29T09:15:32.562142+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232687.0,
-        "liquidity_usd": 81715.02,
-        "price_usd": 0.0002327,
-        "volume_h24": 9679.55,
-        "volume_h1": 56.22,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.09,
-        "price_change_24h": -8.53,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T09:17:53.921132+00:00"
-    },
-    {
       "id": "78ca37b3d7ee",
       "fingerprint": "78ca37b3d7ee",
       "narrative_summary": "Elon Musk hace un comentario absurdo sobre no tener síntomas siendo uno de ellos.",
@@ -7454,7 +7384,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "d30626a46e39",
@@ -7738,7 +7668,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e8fde06406f2",
@@ -7780,7 +7710,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9ad68d285f4b",
@@ -8409,14 +8339,15 @@
       "started_at": "2026-08-03T16:45:18.588557+00:00",
       "expires_at": "2026-08-05T16:45:18.588557+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Denmark begins extended military conscription in response to Russia, Trump - reuters.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-05T16:50:09.643652+00:00"
     },
     {
       "id": "581252147883",
@@ -8452,13 +8383,14 @@
       "started_at": "2026-08-03T16:46:37.546920+00:00",
       "expires_at": "2026-08-05T16:46:37.546920+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Oh, the irony is too much …",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-05T16:50:09.643673+00:00"
     },
     {
       "id": "d15d61764c2e",
@@ -8593,7 +8525,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b2ccf9b964ea",
@@ -8785,7 +8717,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d9670bc67321",
@@ -8906,7 +8838,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "74615147af95",
@@ -9017,7 +8949,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "acf88c99cddd",
@@ -9130,7 +9062,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "837ee15b0059",
@@ -9174,7 +9106,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e9ee625f6de5",
@@ -9220,7 +9152,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "97c20591c24d",
@@ -9271,7 +9203,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2597eeb7c1c0",
@@ -9439,7 +9371,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3f1524d285cc",
@@ -9490,7 +9422,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1c6b9b2be428",
@@ -9530,14 +9462,56 @@
       "started_at": "2026-08-04T18:02:06.852910+00:00",
       "expires_at": "2026-08-06T18:02:06.852910+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "DRF",
+        "name": "Drone Relief Fund",
+        "mint": "8ZBary7T9Ajx119QsHt6qGni2ZkktSyu7J8nmrVFpump",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 307840.0,
+        "liquidity_usd": 5575.08,
+        "price_usd": 0.0003078,
+        "volume_h24": 75401.82,
+        "volume_h1": 75401.82,
+        "volume_m5": 90.84,
+        "price_change_5m": 1.38,
+        "price_change_1h": 388.0,
+        "price_change_24h": 388.0,
+        "txns_h1_buys": 2229,
+        "txns_h1_sells": 1128,
+        "created_ts": 1785946639000,
+        "pair_created_at": 1785946639000,
+        "url": "https://dexscreener.com/solana/dwbln3l45copkiddkngd9udaf372xsxduasb9cutduf",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DRON in DRONE RELIEF FUND",
+        "safety_score": 11716,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "warn",
+            "description": "Low amount of liquidity in the token pool"
+          }
+        ]
+      },
       "cluster_top_title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-08-05T16:54:56.549803+00:00"
     },
     {
       "id": "e4d50d28c11f",
@@ -9581,7 +9555,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3f2e902ceacc",
@@ -9626,7 +9600,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "db8c18211c35",
@@ -9672,7 +9646,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "447d505c8e43",
@@ -9718,7 +9692,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "891d8785c8e3",
@@ -9897,7 +9871,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "97b02b821731",
@@ -9947,7 +9921,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d23b2ca41e56",
@@ -9992,7 +9966,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d286c3b36ccd",
@@ -10185,7 +10159,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3a88d9a2b884",
@@ -10229,7 +10203,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d3125305526a",
@@ -10273,7 +10247,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "79bb1597ecd0",
@@ -10319,7 +10293,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3ef552e1c26e",
@@ -10367,7 +10341,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6ce608f9e03c",
@@ -10411,7 +10385,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "442b80098bc2",
@@ -10456,7 +10430,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "971938fcddb0",
@@ -10501,7 +10475,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "97e2f9c8e524",
@@ -10546,7 +10520,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "62224e9f4104",
@@ -10592,7 +10566,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6382584859dc",
@@ -10708,7 +10682,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1dfc93e0e483",
@@ -10753,8 +10727,54 @@
       "cluster_sources": [
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "c41ee4322e53",
+      "fingerprint": "c41ee4322e53",
+      "narrative_summary": "Mohamed Salah llega a Turquía para un frenesí de fans antes de unirse al Trabzonspor",
+      "why_memeable": "La narrativa tiene un claro elemento de sorpresa y un personaje famoso, lo que lo hace fácilmente compartible y recordable.",
+      "category": "fútbol",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "SALAHTURQUIA",
+        "SALAHTRABZONSPOR",
+        "FRENESISALAH"
+      ],
+      "key_terms_for_dex_search": [
+        "Salah",
+        "Turquía",
+        "Trabzonspor",
+        "frenesí",
+        "fútbol"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 7,
+        "velocity": 5
+      },
+      "started_at": "2026-08-05T16:51:31.535538+00:00",
+      "expires_at": "2026-08-07T16:51:31.535538+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-05T15:04:07.089975+00:00"
+  "last_updated": "2026-08-05T16:54:56.549816+00:00"
 }
