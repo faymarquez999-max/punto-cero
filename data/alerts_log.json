@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T06:25:04.354793+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "abuso sexual en la iglesia católica",
-        "title": "San Francisco Catholic church reaches $395 million sex abuse settlement - Reuters",
-        "candidate_tickers": [
-          "$395M",
-          "abuso",
-          "iglesia",
-          "católica",
-          "San Francisco"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:04.694712+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "caf6249ae156",
-        "score": 84,
-        "category": "tech",
-        "title": "Bingo",
-        "candidate_tickers": [
-          "BINGO",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:17.331667+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2eefb4c61329",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 26586.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:21.743973+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "393e2fe86a9f",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 26586.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:32.222573+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "16bac6d4cf1a",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 28438.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:35.923513+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7414566aa03b",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 26586.0
-      }
-    },
-    {
       "ts": "2026-06-30T06:26:39.137098+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28136,6 +28066,95 @@
           "PIRRO",
           "ESTANQUE REFLEXIVO",
           "CANOÍSTA OLÍMPICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:12:29.570169+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "63770ed83388",
+        "score": 88,
+        "category": "Celebridades y noticias de entretenimiento",
+        "title": "Influencer Shamar McCoy was arrested for misdemeanor battery after he and his boyfriend allegedly assaulted a man, @TMZ reports.",
+        "candidate_tickers": [
+          "SHAMARMCCOY",
+          "INFLUENCERARRESTADO",
+          "AGRESIONLEVE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:13:05.289051+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política internacional",
+        "title": "US revokes visa for Brazilian ambassador -FT",
+        "candidate_tickers": [
+          "USvsBrazil",
+          "DiplomaticDispute",
+          "VisaRevoked"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:14:15.415291+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ae4a446ee87b",
+        "score": 80,
+        "category": "Política",
+        "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
+        "candidate_tickers": [
+          "GAZA112",
+          "NETANYAHUNORETIRE",
+          "HAMASDESARMADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:15:05.394691+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Noticias de crueldad animal",
+        "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+        "candidate_tickers": [
+          "AssamFloods",
+          "CrueldadAnimal",
+          "Injusticia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:15:34.866971+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bf523a221f59",
+        "score": 89,
+        "category": "Tiroteo en una In-N-Out",
+        "title": "3 killed in Idaho In-N-Out shooting included a man known for helping others get sober - AP News",
+        "candidate_tickers": [
+          "INNOUTSHOOTING",
+          "IDAHOSHOOTING",
+          "ASHLEYGARIBAY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T01:16:43.827668+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7d86466c1369",
+        "score": 79,
+        "category": "migración",
+        "title": "The viral videos that inspired tens of thousands to swim to Spain’s Ceuta - Reuters",
+        "candidate_tickers": [
+          "CEUTA",
+          "MIGRANTES",
+          "SUMERGIRSE",
+          "LIBERTAD"
         ]
       }
     }
