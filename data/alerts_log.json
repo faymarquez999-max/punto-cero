@@ -1,106 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T06:26:39.137098+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f2cd935c7d42",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 28438.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:48.853756+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ee5617c0d9fd",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:50.295498+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "69028718c47a",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:54.143254+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "40717e56c9b5",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:56.907469+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6cdffacfdc4a",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:26:58.012223+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4b0b6f76e7dc",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:27:00.323278+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "6048925608b3",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 66059.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:27:02.517678+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4d0905517e9f",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 329730.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:27:05.166757+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dc3b36936cd7",
-        "ticker": "USAID",
-        "mint": "6P8ixuqGZpfyHAxyxbU4a31vsMiFiCQjBzVV58gPpump",
-        "mc": 15597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:27:07.836799+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0eb482132e13",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 66031.0
-      }
-    },
-    {
       "ts": "2026-06-30T06:27:13.269987+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28156,6 +28056,146 @@
           "SUMERGIRSE",
           "LIBERTAD"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:33:21.220383+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "97b02b821731",
+        "score": 80,
+        "category": "política y seguridad",
+        "title": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
+        "candidate_tickers": [
+          "TRUMPSEC",
+          "GOLFARM",
+          "LAARMED",
+          "TRUMPGUN",
+          "SECURITYBREACH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:35:04.357575+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d23b2ca41e56",
+        "score": 80,
+        "category": "animalismo y crueldad hacia animales",
+        "title": "Mamdani's property tax dubbed 'dangerous' and 'a little weird' by comedians after published list - Fox News",
+        "candidate_tickers": [
+          "ANIMALSCRUELTY",
+          "CRUELTYTOANIMALS",
+          "ANIMALABUSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:35:05.969915+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d286c3b36ccd",
+        "score": 80,
+        "category": "Tecnología y Seguridad",
+        "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+        "candidate_tickers": [
+          "DECEP",
+          "AIFAIL",
+          "CODEPOIS",
+          "AIHACK",
+          "MALICE",
+          "SECFAIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:35:35.761056+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5314c371e6f7",
+        "score": 88,
+        "category": "política",
+        "title": "Judge dismisses Jan. 6 seditious conspiracy charges against Oath Keepers - The Washington Post",
+        "candidate_tickers": [
+          "OATH",
+          "KEEPERS",
+          "JUSTICE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:35:59.350007+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5bd4629a85ec",
+        "score": 88,
+        "category": "noticias",
+        "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+        "candidate_tickers": [
+          "SPOKANEINCIENDO",
+          "INCENDIODESPOKANE",
+          "ACUSADODEINCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:36:42.996654+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3a88d9a2b884",
+        "score": 89,
+        "category": "salud",
+        "title": "Chipotle Stock Tanks on Potential Salmonella Outbreak Tied to Jalapeños - Barron's",
+        "candidate_tickers": [
+          "CHIPOTLE",
+          "SALMONELA",
+          "JALAPEÑOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:37:44.391344+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d3125305526a",
+        "score": 74,
+        "category": "política",
+        "title": "A lab-leak proponent is in line for Fauci’s old job - Politico",
+        "candidate_tickers": [
+          "LABLEAKFAUCI",
+          "FAUCISUCESOR",
+          "LABLEAKTEORÍA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T04:38:27.287981+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d00113efb550",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 38901.0
+      }
+    },
+    {
+      "ts": "2026-08-05T04:38:32.652124+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d286c3b36ccd",
+        "ticker": "OAI",
+        "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+        "mc": 43299.0
+      }
+    },
+    {
+      "ts": "2026-08-05T04:38:34.836024+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5314c371e6f7",
+        "ticker": "旺旺",
+        "mint": "7z5KZpYj7BEnGKGCY3kDkaX32ueBSNp8QjvFq8Lxpump",
+        "mc": 410759.0
       }
     }
   ]
