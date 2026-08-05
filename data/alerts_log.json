@@ -1,69 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T06:27:13.269987+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1bd13fa46022",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
-      "ts": "2026-06-30T06:27:16.132296+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "caf6249ae156",
-        "ticker": "EMC",
-        "mint": "BKV5eco4twwHqDzUsqcnMWxMqER3Sjxdui4aSjX3NyVe",
-        "mc": 25597.0
-      }
-    },
-    {
-      "ts": "2026-06-30T10:13:14.417245+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Tecnología",
-        "title": "‘That's a nice looking iPhone 17.01 you got there’: Apple fans aren’t impressed by the iPhone 18 Pro’s design in leaked drop test video - TechRadar",
-        "candidate_tickers": [
-          "iPhone18Pro",
-          "AppleDesilusión",
-          "DiseñoFallido"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T10:13:50.864036+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "db06c054dccb",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "Manhunt under way in France after bomb injures Ukrainian oligarch and family in Monaco",
-        "candidate_tickers": [
-          "BOMBMÓNACO",
-          "OLIGARCAUCR",
-          "MANHUNTFRANCIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T10:14:36.113900+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Finanzas y Criptomonedas",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "XRP",
-          "MemeToro",
-          "XSG"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T10:15:17.846180+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28196,6 +28133,71 @@
         "ticker": "旺旺",
         "mint": "7z5KZpYj7BEnGKGCY3kDkaX32ueBSNp8QjvFq8Lxpump",
         "mc": 410759.0
+      }
+    },
+    {
+      "ts": "2026-08-05T07:28:52.296580+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "finanzas",
+        "title": "/GME/ - GME board member goes onto BBBYQ recovery theory podcast",
+        "candidate_tickers": [
+          "GME",
+          "BBBYQ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T07:29:21.225089+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "79bb1597ecd0",
+        "score": 88,
+        "category": "política",
+        "title": "Russian ballistic missile strike on Kyiv kills at least 17",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "KIEVBOMBARDEADO",
+          "MISSILESRUSOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T07:29:23.014262+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3ef552e1c26e",
+        "score": 80,
+        "category": "Deportes y misterio",
+        "title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
+        "candidate_tickers": [
+          "MISSATH",
+          "CWGMYST",
+          "ATHLETESGONE",
+          "COMMONMISS",
+          "UGPAKMISS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T07:33:00.726128+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d9670bc67321",
+        "ticker": "eelonmusk",
+        "mint": "41ZjQx5HSLuDPFXimWUmhf8LmMZ7VjZjANxSu64vEVuE",
+        "mc": 13114.0
+      }
+    },
+    {
+      "ts": "2026-08-05T07:33:13.140534+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e0ac9a83d7a5",
+        "ticker": "eelonmusk",
+        "mint": "41ZjQx5HSLuDPFXimWUmhf8LmMZ7VjZjANxSu64vEVuE",
+        "mc": 12723.0
       }
     }
   ]
