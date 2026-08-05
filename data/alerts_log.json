@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T15:19:21.198239+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Política/Actualidad",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL",
-          "SONDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T15:19:36.656608+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5fd6394d7adc",
-        "score": 85,
-        "category": "política",
-        "title": "The AOC puppet is just flat-out lying",
-        "candidate_tickers": [
-          "AOC_PUPPET",
-          "FLATOUT_LYING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T15:19:57.956428+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a9fc281b1f0f",
-        "score": 83,
-        "category": "Tendencia viral en redes sociales",
-        "title": "Yup",
-        "candidate_tickers": [
-          "YUP",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T15:20:18.324774+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "78c3f67185bf",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Bingo",
-        "candidate_tickers": [
-          "BINGO",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T15:20:45.272110+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Política",
-        "title": "They are such liars!",
-        "candidate_tickers": [
-          "LIARS",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T15:21:12.479444+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28194,6 +28124,69 @@
           "INFANTINOFALLOUT",
           "MOROCCOCHAOS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-05T14:59:32.904125+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "563a5d185df5",
+        "score": 82,
+        "category": "Celebridad y tecnología",
+        "title": "My favorite piece of merch other than the (not a) flamethrower",
+        "candidate_tickers": [
+          "MUSKFLAME",
+          "NOTFLAMETHROWER",
+          "ELONMERCH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T14:59:46.845742+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Grok Build",
+        "candidate_tickers": [
+          "GROK",
+          "GROKBUILD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T15:01:50.692886+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1dfc93e0e483",
+        "score": 74,
+        "category": "desastres naturales",
+        "title": "Desplegados nueve medios aéreos del Infoca en un incendio declarado en un paraje de San Roque (Cádiz) - Ultima Hora",
+        "candidate_tickers": [
+          "SANROQUEINCENDIO",
+          "CÁDIZENFUEGO",
+          "INFOCADESPLEGADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T15:03:43.185838+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "891d8785c8e3",
+        "ticker": "ELON",
+        "mint": "3YNdhfNs1Q1oCotXvQk7WTAU48SK1pqJ1omYzq62pump",
+        "mc": 28539.0
+      }
+    },
+    {
+      "ts": "2026-08-05T15:04:07.097884+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6382584859dc",
+        "ticker": "Cesar",
+        "mint": "DRD2PskD1XdmtcYw8QTUwnnwx5FwDvRbrSY69bb8pump",
+        "mc": 13637.0
       }
     }
   ]

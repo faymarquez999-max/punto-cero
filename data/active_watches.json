@@ -1,122 +1,6 @@
 {
   "watches": [
     {
-      "id": "fa27ba8c2904",
-      "fingerprint": "fa27ba8c2904",
-      "narrative_summary": "Elon Musk critica a la prensa tradicional y promueve la comunicación directa.",
-      "why_memeable": "La frase es breve, fácil de recordar y tiene un tono crítico hacia la prensa tradicional.",
-      "category": "política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "MUSK",
-        "TRUTH",
-        "DIRECT"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "prensa tradicional",
-        "comunicación directa",
-        "verdad"
-      ],
-      "score": 83,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 1,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T09:14:47.970307+00:00",
-      "expires_at": "2026-07-30T09:14:47.970307+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 39352.0,
-        "liquidity_usd": 21092.43,
-        "price_usd": 3.943e-05,
-        "volume_h24": 18659.24,
-        "volume_h1": 11094.71,
-        "volume_m5": 322.58,
-        "price_change_5m": 5.83,
-        "price_change_1h": -2.73,
-        "price_change_24h": 41.43,
-        "txns_h1_buys": 65,
-        "txns_h1_sells": 47,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-07-28T15:45:55.836139+00:00"
-    },
-    {
-      "id": "50ea328e91b6",
-      "fingerprint": "50ea328e91b6",
-      "narrative_summary": "Elon Musk menciona que en el lugar al que van, no hay datos de entrenamiento.",
-      "why_memeable": "Frase corta y absurda de Elon Musk que genera interés.",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "XCANCEL",
-        "WHEREWEAREGOING",
-        "NOTRAININGDATA"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "datadriven",
-        "ai"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T09:15:14.442627+00:00",
-      "expires_at": "2026-07-30T09:15:14.442627+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Where we are going there is no training data",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-30T10:02:47.092461+00:00"
-    },
-    {
       "id": "dac60670b6eb",
       "fingerprint": "dac60670b6eb",
       "narrative_summary": "Elon Musk confirma 'True' en una publicación en Twitter.",
@@ -7195,14 +7079,15 @@
       "started_at": "2026-08-02T14:02:07.616213+00:00",
       "expires_at": "2026-08-05T14:02:07.616213+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-05T14:59:30.452388+00:00"
     },
     {
       "id": "00d9580ed447",
@@ -7470,13 +7355,14 @@
       "started_at": "2026-08-02T14:05:41.160552+00:00",
       "expires_at": "2026-08-05T14:05:41.160552+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Made with Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-05T14:59:30.452403+00:00"
     },
     {
       "id": "024f79d28069",
@@ -7568,7 +7454,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d30626a46e39",
@@ -7852,7 +7738,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e8fde06406f2",
@@ -7894,7 +7780,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "9ad68d285f4b",
@@ -8530,7 +8416,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "581252147883",
@@ -8572,7 +8458,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d15d61764c2e",
@@ -8707,7 +8593,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b2ccf9b964ea",
@@ -8899,7 +8785,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d9670bc67321",
@@ -9020,7 +8906,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "74615147af95",
@@ -9131,7 +9017,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "acf88c99cddd",
@@ -9244,7 +9130,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "837ee15b0059",
@@ -9288,7 +9174,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e9ee625f6de5",
@@ -9334,7 +9220,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "97c20591c24d",
@@ -9385,7 +9271,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2597eeb7c1c0",
@@ -9421,13 +9307,14 @@
       "started_at": "2026-08-04T13:30:55.920905+00:00",
       "expires_at": "2026-08-05T13:30:55.920905+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wow",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-05T14:59:30.452410+00:00"
     },
     {
       "id": "e0ac9a83d7a5",
@@ -9552,7 +9439,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3f1524d285cc",
@@ -9603,7 +9490,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1c6b9b2be428",
@@ -9650,7 +9537,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "e4d50d28c11f",
@@ -9694,7 +9581,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3f2e902ceacc",
@@ -9739,7 +9626,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "db8c18211c35",
@@ -9785,7 +9672,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "447d505c8e43",
@@ -9831,7 +9718,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "891d8785c8e3",
@@ -9867,13 +9754,40 @@
       "started_at": "2026-08-04T19:55:26.529570+00:00",
       "expires_at": "2026-08-06T19:55:26.529570+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ELON",
+        "name": "The Elon Crater",
+        "mint": "3YNdhfNs1Q1oCotXvQk7WTAU48SK1pqJ1omYzq62pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 28539.0,
+        "liquidity_usd": 12411.09,
+        "price_usd": 2.919e-05,
+        "volume_h24": 1137773.33,
+        "volume_h1": 37931.17,
+        "volume_m5": 1593.94,
+        "price_change_5m": 0.87,
+        "price_change_1h": -37.83,
+        "price_change_24h": -2.12,
+        "txns_h1_buys": 823,
+        "txns_h1_sells": 640,
+        "created_ts": 1785930811000,
+        "pair_created_at": 1785930811000,
+        "url": "https://dexscreener.com/solana/34da8xqix5skn1nhjfxfdfhn8bgpyafkyxjaglsld9si",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ELON==ELON",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yeah",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-05T15:03:43.176541+00:00"
     },
     {
       "id": "d00113efb550",
@@ -9983,7 +9897,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "97b02b821731",
@@ -10033,7 +9947,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d23b2ca41e56",
@@ -10078,7 +9992,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d286c3b36ccd",
@@ -10271,7 +10185,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3a88d9a2b884",
@@ -10315,7 +10229,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d3125305526a",
@@ -10359,7 +10273,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "79bb1597ecd0",
@@ -10405,7 +10319,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3ef552e1c26e",
@@ -10453,7 +10367,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6ce608f9e03c",
@@ -10497,7 +10411,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "442b80098bc2",
@@ -10542,7 +10456,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "971938fcddb0",
@@ -10587,7 +10501,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "97e2f9c8e524",
@@ -10632,7 +10546,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "62224e9f4104",
@@ -10678,7 +10592,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6382584859dc",
@@ -10716,15 +10630,131 @@
       "started_at": "2026-08-05T12:25:02.119312+00:00",
       "expires_at": "2026-08-07T12:25:02.119312+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Cesar",
+        "name": "Justice For Cesar Gastelum",
+        "mint": "DRD2PskD1XdmtcYw8QTUwnnwx5FwDvRbrSY69bb8pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 13637.0,
+        "liquidity_usd": 7659.88,
+        "price_usd": 1.422e-05,
+        "volume_h24": 414288.95,
+        "volume_h1": 4407.26,
+        "volume_m5": 456.72,
+        "price_change_5m": -5.74,
+        "price_change_1h": -24.72,
+        "price_change_24h": -52.44,
+        "txns_h1_buys": 54,
+        "txns_h1_sells": 93,
+        "created_ts": 1785912994000,
+        "pair_created_at": 1785912994000,
+        "url": "https://dexscreener.com/solana/gtc5zjg89dabngu8j4nsiuk8mhvj2g8elwppd7rrpyxp",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CESAR GASTELUM in JUSTICE FOR CESAR GASTELUM",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Popular social media influencer shot dead during livestream outside restaurant in Mexico - CBS News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-05T15:04:07.089959+00:00"
+    },
+    {
+      "id": "563a5d185df5",
+      "fingerprint": "563a5d185df5",
+      "narrative_summary": "Elon Musk menciona su pieza favorita de merchandising, haciendo referencia a un lanzallamas de forma humorística.",
+      "why_memeable": "La mención de Elon Musk a un lanzallamas, junto con su tono humorístico, crea un contenido potencialmente viral y memeable.",
+      "category": "Celebridad y tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSKFLAME",
+        "NOTFLAMETHROWER",
+        "ELONMERCH"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "lanzallamas",
+        "merchandising",
+        "meme"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T14:59:32.536428+00:00",
+      "expires_at": "2026-08-08T14:59:32.536428+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "My favorite piece of merch other than the (not a) flamethrower",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "1dfc93e0e483",
+      "fingerprint": "1dfc93e0e483",
+      "narrative_summary": "Incendio en San Roque (Cádiz) con 9 medios aéreos desplegados",
+      "why_memeable": "La narrativa tiene un título claro y una imagen potencialmente icónica, además de un tema interesante y actual",
+      "category": "desastres naturales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "SANROQUEINCENDIO",
+        "CÁDIZENFUEGO",
+        "INFOCADESPLEGADO"
+      ],
+      "key_terms_for_dex_search": [
+        "San Roque",
+        "Cádiz",
+        "incendio",
+        "Infoca",
+        "medios aéreos"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T15:01:50.146710+00:00",
+      "expires_at": "2026-08-08T15:01:50.146710+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Desplegados nueve medios aéreos del Infoca en un incendio declarado en un paraje de San Roque (Cádiz) - Ultima Hora",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-05T12:25:02.119312+00:00"
+  "last_updated": "2026-08-05T15:04:07.089975+00:00"
 }
