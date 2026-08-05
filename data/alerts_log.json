@@ -1,104 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T22:54:48.651207+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "humor",
-        "title": "I will take that as a compliment",
-        "candidate_tickers": [
-          "ELONCOMPLIMENT",
-          "COMPLIMENTELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T22:55:24.027698+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e9a87a291910",
-        "score": 70,
-        "category": "Tecnología y Ciencia",
-        "title": "SpaceXAI",
-        "candidate_tickers": [
-          "SPACEXAI",
-          "ELONMUSKAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T22:58:04.796170+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1a4789cfa688",
-        "ticker": "ELON",
-        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
-        "mc": 26070.0
-      }
-    },
-    {
-      "ts": "2026-06-30T22:58:19.817171+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4925496ec673",
-        "ticker": "ELON",
-        "mint": "DRs195t881TBhZNF7WWAxFZqGr2W3q5njSMaQGy3pump",
-        "mc": 26070.0
-      }
-    },
-    {
-      "ts": "2026-06-30T22:58:23.413488+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e9a87a291910",
-        "ticker": "SpaceXAI",
-        "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
-        "mc": 68101.0
-      }
-    },
-    {
-      "ts": "2026-07-01T00:18:27.195863+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
-        "candidate_tickers": [
-          "MonacoExplosion",
-          "UcranianoHerido",
-          "RusiaMónaco"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T00:18:55.862569+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ae4a118e4a60",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T00:19:17.322811+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "96a34ce11598",
-        "score": 82,
-        "category": "gobierno y corrupción",
-        "title": "This is how USAID spent your tax dollars",
-        "candidate_tickers": [
-          "USAID",
-          "TAXDOLLARS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-01T04:59:39.391650+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28229,6 +28131,127 @@
           "PIRROSINKS",
           "ESTANQUEREFLECTANTE",
           "CANOÍSTAOLYMPICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:37:43.874615+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Kamala Harris endorses Abdul El-Sayed for the U.S. Senate in Michigan in new joint fundraising email.",
+        "candidate_tickers": [
+          "ElSayed",
+          "HarrisEndorses",
+          "MichiganSenate",
+          "AbdulWins"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:38:01.462716+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "514dea7c2f53",
+        "score": 78,
+        "category": "Deportes",
+        "title": "True",
+        "candidate_tickers": [
+          "BETTSVSSKUBAL",
+          "DODGERSDRAMA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:39:17.217604+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5059a7576c2e",
+        "score": 73,
+        "category": "entretenimiento",
+        "title": "Where to Watch ‘The Shards,’ Ryan Murphy’s Adaptation of Bret Easton Ellis’ Bestseller",
+        "candidate_tickers": [
+          "SHARDS",
+          "MURPHY",
+          "ELLIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:39:46.913841+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fec0dccfd2c6",
+        "score": 89,
+        "category": "política",
+        "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+        "candidate_tickers": [
+          "EPSTEINGATE",
+          "NMVSDOJ",
+          "EPSTEINFILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:40:18.785101+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "289e41655133",
+        "score": 79,
+        "category": "conflicto internacional",
+        "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+        "candidate_tickers": [
+          "IRAN",
+          "GOLFO",
+          "EEUU",
+          "ATACOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:41:07.532302+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "271ee6f5616a",
+        "score": 88,
+        "category": "migración, frontera, España",
+        "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
+        "candidate_tickers": [
+          "CEUTA",
+          "MENORES MIGRANTES",
+          "FRONTERA",
+          "ESPAÑA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:41:38.511832+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "88091f183464",
+        "score": 88,
+        "category": "Guerra",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "candidate_tickers": [
+          "INTERCEPTORES",
+          "UKRAINA",
+          "KIEV",
+          "ATACO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T21:42:19.357342+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Bangladesh ex-PM Hasina says ban on her party should be lifted - Reuters",
+        "candidate_tickers": [
+          "HasinaLiftsBan",
+          "BangladeshPartyBan",
+          "SheikhHasina"
         ]
       }
     }
