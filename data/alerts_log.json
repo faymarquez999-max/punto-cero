@@ -1,86 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-06-30T21:22:54.102313+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b13030a45f19",
-        "score": 86,
-        "category": "Animales",
-        "title": "no-kill animal rescue - kobi5.com",
-        "candidate_tickers": [
-          "KOBI5",
-          "PERROSMUERTOS",
-          "REFUGIOSINMATAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-06-30T21:22:56.180039+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4db86b85be00",
-        "ticker": "TRUMP",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "mc": 119643.0
-      }
-    },
-    {
-      "ts": "2026-06-30T21:23:07.176803+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fcaab9d7d6c6",
-        "ticker": "TRUMP",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "mc": 132910.0
-      }
-    },
-    {
-      "ts": "2026-06-30T21:23:09.044251+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c477773e9464",
-        "ticker": "TRUMP",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "mc": 119643.0
-      }
-    },
-    {
-      "ts": "2026-06-30T21:23:14.532832+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a3ac8b6a55da",
-        "ticker": "TRUMP",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "mc": 124526.0
-      }
-    },
-    {
-      "ts": "2026-06-30T21:23:17.872531+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "02bbaa9cbc22",
-        "ticker": "SpaceXAI",
-        "mint": "EmQKNtG4WRw2Bsz42rWe9CjMtofyQ8bdJNdySrLqpump",
-        "mc": 66842.0
-      }
-    },
-    {
-      "ts": "2026-06-30T22:54:35.877672+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "879ad4925327",
-        "score": 80,
-        "category": "noticias de actualidad",
-        "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
-        "candidate_tickers": [
-          "MONACOBLAST",
-          "UKRAINEOLIGARCH",
-          "RUSSIATIES"
-        ]
-      }
-    },
-    {
       "ts": "2026-06-30T22:54:48.651207+00:00",
       "kind": "shadow",
       "payload": {
@@ -28203,6 +28123,112 @@
           "MUSKVSTWITTER",
           "ELONVSJUSTICE",
           "TWITTERSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:13:55.993502+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3ea836e86abb",
+        "score": 70,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "MAJE",
+          "PATRAIX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:14:10.040978+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a84bbfa0cbf2",
+        "score": 70,
+        "category": "Política",
+        "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - reuters.com",
+        "candidate_tickers": [
+          "IRAN",
+          "GOLFO",
+          "EEUU",
+          "ATAQUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:15:32.247980+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "11cbfb51b9c3",
+        "score": 88,
+        "category": "Noticias de crimen organizado",
+        "title": "US unveils charges against five leaders of Mexico's CJNG cartel - reuters.com",
+        "candidate_tickers": [
+          "CJNG",
+          "CARTEL",
+          "EE.UU.",
+          "JUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:16:54.831333+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "tecnología",
+        "title": "Google DeepMind Boss Hassabis Moves to Chair Role in Shakeup - Bloomberg",
+        "candidate_tickers": [
+          "HASSABIS",
+          "GOOGLEDEEPMIND",
+          "DEEPMIND"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:17:21.186586+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "509fc5990f5d",
+        "score": 80,
+        "category": "Política",
+        "title": "New Mexico sues US government for access to Epstein files - reuters.com",
+        "candidate_tickers": [
+          "EPSTEINFILES",
+          "NUEVOMEXICOVSEEUU",
+          "DEMANDAPORACCESO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:17:53.009225+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "59cfe7e72b96",
+        "score": 80,
+        "category": "Guerra y conflictos",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "candidate_tickers": [
+          "UKRAINE",
+          "KIEV",
+          "PATRIOT",
+          "INTERCEPTORS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-05T20:18:51.738504+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "687b1d3cea5e",
+        "score": 79,
+        "category": "Deportes/Política",
+        "title": "Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News",
+        "candidate_tickers": [
+          "PIRROSINKS",
+          "ESTANQUEREFLECTANTE",
+          "CANOÍSTAOLYMPICA"
         ]
       }
     }

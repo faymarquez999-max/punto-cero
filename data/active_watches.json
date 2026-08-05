@@ -1,331 +1,6 @@
 {
   "watches": [
     {
-      "id": "78ca37b3d7ee",
-      "fingerprint": "78ca37b3d7ee",
-      "narrative_summary": "Elon Musk hace un comentario absurdo sobre no tener síntomas siendo uno de ellos.",
-      "why_memeable": "La frase es corta, absurda y tiene un impacto visual gracias a los emojis.",
-      "category": "humor",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "NOTSYMP",
-        "ELONMUSK",
-        "COVID"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "not having symptoms",
-        "symptoms"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T09:17:11.455367+00:00",
-      "expires_at": "2026-07-30T09:17:11.455367+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "“Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-07-30T10:02:47.092474+00:00"
-    },
-    {
-      "id": "908afaa9549d",
-      "fingerprint": "908afaa9549d",
-      "narrative_summary": "Se ordena la evacuación de residentes en Corea del Sur después de un presunto escape de fósforo blanco en una base estadounidense",
-      "why_memeable": "La combinación de un evento grave y potencialmente peligroso con la implicación de una base militar estadounidense en suelo extranjero ofrece un alto potencial para generar interés y debate",
-      "category": "noticias internacionales",
-      "matched_archetype": "injusticia_con_villano_y_victima",
-      "candidate_tickers": [
-        "PHOSPHORUS",
-        "USBASE",
-        "KOREAEVAC",
-        "FOSFOROBLANCO",
-        "MILITARLEAK"
-      ],
-      "key_terms_for_dex_search": [
-        "fósforo blanco",
-        "base estadounidense",
-        "evacuación",
-        "Corea del Sur",
-        "noticias internacionales"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T15:41:03.452132+00:00",
-      "expires_at": "2026-07-31T15:41:03.452132+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "South Korea orders residents to evacuate after reported white phosphorus leak at US base - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-31T21:32:11.192270+00:00"
-    },
-    {
-      "id": "88a81f42c089",
-      "fingerprint": "88a81f42c089",
-      "narrative_summary": "Odyssey translator critica duramente la adaptación cinematográfica de Nolan, llamándola 'gimmicky' y sin sexo.",
-      "why_memeable": "La narrativa tiene un claro conflicto entre la opinión del traductor y la de los críticos de cine, lo que la hace fácilmente compartible.",
-      "category": "Cine y crítica",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "NOLANNOSEX",
-        "ODYSSEYNOSEX",
-        "CINEGIMMICKY"
-      ],
-      "key_terms_for_dex_search": [
-        "Nolan",
-        "Odyssey",
-        "Cine",
-        "Gimmicky",
-        "NoSex"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T15:41:16.980876+00:00",
-      "expires_at": "2026-07-31T15:41:16.980876+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Odyssey",
-        "name": "The Odyssey",
-        "mint": "FeH4kA7RCK3DpZ71yjQrUmV3dbGXGfDa19RtTw5cpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14121.0,
-        "liquidity_usd": 9659.83,
-        "price_usd": 1.412e-05,
-        "volume_h24": 11558.62,
-        "volume_h1": 345.22,
-        "volume_m5": 0.13,
-        "price_change_5m": -0.63,
-        "price_change_1h": 5.89,
-        "price_change_24h": -27.53,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 12,
-        "created_ts": 1784467695000,
-        "pair_created_at": 1784467695000,
-        "url": "https://dexscreener.com/solana/8dvtuffjuouvaymb7wvwrqhhsyb8qfdp6civylg639ig",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ODYSSEY in THE ODYSSEY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T15:46:03.129718+00:00"
-    },
-    {
-      "id": "29ca80912643",
-      "fingerprint": "29ca80912643",
-      "narrative_summary": "LeBron James se une a los 76ers y desmiente rumores de que busca anillos.",
-      "why_memeable": "La frase 'You're the guy that creates the rings' es memorable y fácil de compartir.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LBJ",
-        "RINGS",
-        "76ERS"
-      ],
-      "key_terms_for_dex_search": [
-        "LBJ",
-        "76ERS",
-        "RINGS"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T15:43:25.757968+00:00",
-      "expires_at": "2026-07-30T15:43:25.757968+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "\"You're the guy that creates the rings\" - Derek Fisher shuts down claims LeBron James is ring-chasing in Philadelphia - Yahoo Sports",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-30T16:11:45.463093+00:00"
-    },
-    {
-      "id": "646cef13eda7",
-      "fingerprint": "646cef13eda7",
-      "narrative_summary": "Elon Musk comparte un mensaje de motivación sobre el dinero",
-      "why_memeable": "La frase 'This is money' es corta y fácil de recordar, y la asociación con Elon Musk la hace más viral",
-      "category": "motivación y finanzas",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "THISISMONEY",
-        "MONEYMOTIVATION"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "dinero",
-        "motivación"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T15:44:16.133424+00:00",
-      "expires_at": "2026-07-30T15:44:16.133424+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "This is money",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-07-30T16:11:45.463096+00:00"
-    },
-    {
-      "id": "4e36629651d1",
-      "fingerprint": "4e36629651d1",
-      "narrative_summary": "Elon Musk anuncia que no habrá datos de entrenamiento en el futuro",
-      "why_memeable": "La frase es corta, memorable y genera interés",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "NO_DATA",
-        "ELON_GOING",
-        "TRAINING_NO"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "data",
-        "training"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-28T15:44:43.414190+00:00",
-      "expires_at": "2026-07-30T15:44:43.414190+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "DATA",
-        "name": "DATA HEDGE",
-        "mint": "AyLn7YdHqh3pGSNC1YrdEtEdSCVjG7BxQedxBvkTpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 123190.0,
-        "liquidity_usd": 34112.59,
-        "price_usd": 0.0001231,
-        "volume_h24": 20657.66,
-        "volume_h1": 600.09,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.68,
-        "price_change_24h": -20.68,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 2,
-        "created_ts": 1780288506000,
-        "pair_created_at": 1780288506000,
-        "url": "https://dexscreener.com/solana/ebjhdajq5ueywl9etevq8bnfv5j93kqxx7zaeke7ky41",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DATA in DATA HEDGE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Where we are going there is no training data",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T15:46:05.718189+00:00"
-    },
-    {
       "id": "30b13e982d65",
       "fingerprint": "30b13e982d65",
       "narrative_summary": "FIFA considera vender una parte de la empresa a través de una nueva entidad de $20 mil millones, lo que provoca la ira de UEFA",
@@ -8518,14 +8193,15 @@
       "started_at": "2026-08-03T18:34:15.980289+00:00",
       "expires_at": "2026-08-05T18:34:15.980289+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Michigan reports first 2 US deaths in outbreak of cyclospora - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-05T20:13:40.018818+00:00"
     },
     {
       "id": "b2ccf9b964ea",
@@ -10774,7 +10450,284 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "3ea836e86abb",
+      "fingerprint": "3ea836e86abb",
+      "narrative_summary": "Un crimen impactante en España, reportado por Atresmedia y compartido por Elon Musk",
+      "why_memeable": "La frase 'Maje, true crime' es fácil de recordar y compartir, y el crimen en cuestión es impactante y atractivo para la audiencia",
+      "category": "true crime",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MAJE",
+        "PATRAIX"
+      ],
+      "key_terms_for_dex_search": [
+        "Maje",
+        "Patraix",
+        "true crime",
+        "crimen",
+        "Atresmedia"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T20:13:55.509876+00:00",
+      "expires_at": "2026-08-07T20:13:55.509876+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a84bbfa0cbf2",
+      "fingerprint": "a84bbfa0cbf2",
+      "narrative_summary": "Iran amenaza con atacar estados del Golfo si EE. UU. lanza nuevos ataques",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'amenaza' que puede ser capturada en una frase corta",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "GOLFO",
+        "EEUU",
+        "ATAQUE"
+      ],
+      "key_terms_for_dex_search": [
+        "iran",
+        "golfo",
+        "ataque",
+        "eeuu"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T20:14:09.561674+00:00",
+      "expires_at": "2026-08-07T20:14:09.561674+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - reuters.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "11cbfb51b9c3",
+      "fingerprint": "11cbfb51b9c3",
+      "narrative_summary": "EE.UU. acusa a cinco líderes del cartel CJNG de México",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, y se centra en un evento importante y controvertido.",
+      "category": "Noticias de crimen organizado",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CJNG",
+        "CARTEL",
+        "EE.UU.",
+        "JUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "CJNG",
+        "Cartel",
+        "EE.UU.",
+        "Justicia",
+        "Crimen organizado"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T20:15:31.767190+00:00",
+      "expires_at": "2026-08-07T20:15:31.767190+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US unveils charges against five leaders of Mexico's CJNG cartel - reuters.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "509fc5990f5d",
+      "fingerprint": "509fc5990f5d",
+      "narrative_summary": "Nuevo México demanda al gobierno de EE. UU. por acceso a los archivos de Epstein.",
+      "why_memeable": "La demanda de Nuevo México por acceso a los archivos de Epstein es un tema que puede ser capturado en una frase corta y compartida fácilmente.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EPSTEINFILES",
+        "NUEVOMEXICOVSEEUU",
+        "DEMANDAPORACCESO"
+      ],
+      "key_terms_for_dex_search": [
+        "Nuevo México",
+        "Epstein",
+        "gobierno de EE. UU.",
+        "demandas",
+        "archivos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T20:17:20.464238+00:00",
+      "expires_at": "2026-08-07T20:17:20.464238+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "New Mexico sues US government for access to Epstein files - reuters.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "59cfe7e72b96",
+      "fingerprint": "59cfe7e72b96",
+      "narrative_summary": "Ucrania advierte que la escasez de interceptores está costando vidas después de un ataque mortal en Kiev.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y daño, lo que la hace fácilmente compartible y recordable.",
+      "category": "Guerra y conflictos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UKRAINE",
+        "KIEV",
+        "PATRIOT",
+        "INTERCEPTORS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Kiev",
+        "Patriot",
+        "Interceptors",
+        "Guerra",
+        "Conflictos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T20:17:52.564550+00:00",
+      "expires_at": "2026-08-08T20:17:52.564550+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "687b1d3cea5e",
+      "fingerprint": "687b1d3cea5e",
+      "narrative_summary": "Olympic canoísta acusada por Pirro busca hundir permanentemente el caso del estanque reflectante.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica (Pirro y el estanque reflectante) que puede ser capturada en una frase corta.",
+      "category": "Deportes/Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PIRROSINKS",
+        "ESTANQUEREFLECTANTE",
+        "CANOÍSTAOLYMPICA"
+      ],
+      "key_terms_for_dex_search": [
+        "Pirro",
+        "canoísta",
+        "estanque reflectante",
+        "caso"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-05T20:18:51.224740+00:00",
+      "expires_at": "2026-08-07T20:18:51.224740+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-05T16:54:56.549816+00:00"
+  "last_updated": "2026-08-05T20:18:51.224740+00:00"
 }
