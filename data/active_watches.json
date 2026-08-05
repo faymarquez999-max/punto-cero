@@ -1,270 +1,6 @@
 {
   "watches": [
     {
-      "id": "fefc816a9e27",
-      "fingerprint": "fefc816a9e27",
-      "narrative_summary": "Elon Musk comparte una frase viral sobre dinero",
-      "why_memeable": "Frase breve y memorable de Elon Musk",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "THISISMONEY",
-        "MONEYMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "money",
-        "viral"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T06:20:32.856263+00:00",
-      "expires_at": "2026-07-30T06:20:32.856263+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "This is money",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-07-30T07:17:57.723740+00:00"
-    },
-    {
-      "id": "cb42320b14b3",
-      "fingerprint": "cb42320b14b3",
-      "narrative_summary": "Elon Musk tuitea sobre su evolución de programador a constructor de cohetes y autos, generando reacciones en la comunidad",
-      "why_memeable": "La narrativa combina la figura de Elon Musk con una serie de logros y metas ambiciosas, lo que puede generar una gran cantidad de memes y reacciones en las redes sociales",
-      "category": "Tecnología y emprendimiento",
-      "matched_archetype": "novel",
-      "candidate_tickers": [
-        "MUSK",
-        "TESLA",
-        "SPACEX",
-        "NEURA",
-        "MARS"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Tesla",
-        "SpaceX",
-        "NeuraLink",
-        "Mars"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-28T09:14:31.659449+00:00",
-      "expires_at": "2026-07-31T09:14:31.659449+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "GNN",
-        "name": "Gh0st Neural Network",
-        "mint": "5EyGMW1wNxMj7YtVP54uBH6ktwpTNCvX9DDEnmcsHdev",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 114444.0,
-        "liquidity_usd": 28414.97,
-        "price_usd": 0.0001144,
-        "volume_h24": 15659.73,
-        "volume_h1": 681.06,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -5.11,
-        "price_change_24h": -23.4,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 2,
-        "created_ts": 1762534771000,
-        "pair_created_at": 1762534771000,
-        "url": "https://dexscreener.com/solana/ch5wftsmgt6mwqvlwjxdhrjlqdyz5scpds73gzeigdye",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: NEURA in GH0ST NEURAL NETWORK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "2002-2004: Software guy thinks he can build rockets and cars",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T09:17:46.318054+00:00"
-    },
-    {
-      "id": "974fd49e2497",
-      "fingerprint": "974fd49e2497",
-      "narrative_summary": "Elon Musk comparte algo divertido en Twitter",
-      "why_memeable": "La frase 'This is so funny' es corta y fácil de recordar, y el contexto de Elon Musk la hace más atractiva",
-      "category": "celebridad en redes sociales",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "FUNNYMUSK",
-        "ELONLOL",
-        "MUSKMEME"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "funny",
-        "meme"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T09:14:33.349713+00:00",
-      "expires_at": "2026-07-30T09:14:33.349713+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "meme",
-        "name": "meme",
-        "mint": "FiKB42eVHmGkcSTLmTwdNESwfxjbicQfFYjb5cHppump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 11114.0,
-        "liquidity_usd": 6758.44,
-        "price_usd": 1.137e-05,
-        "volume_h24": 514363.08,
-        "volume_h1": 16761.67,
-        "volume_m5": 1518.24,
-        "price_change_5m": -10.81,
-        "price_change_1h": 35.38,
-        "price_change_24h": -63.3,
-        "txns_h1_buys": 239,
-        "txns_h1_sells": 202,
-        "created_ts": 1785257899000,
-        "pair_created_at": 1785257899000,
-        "url": "https://dexscreener.com/solana/2drauhytxaz5my3264d1xt6y71szqb6kgqxxep7au6dc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MEME in MEME",
-        "safety_score": 257,
-        "safety_risks": [
-          {
-            "name": "Low Liquidity",
-            "level": "warn",
-            "description": "Low amount of liquidity in the token pool"
-          }
-        ]
-      },
-      "cluster_top_title": "This is so funny 🤣🤣",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-07-28T18:56:00.251012+00:00"
-    },
-    {
-      "id": "c7e413bdcbfa",
-      "fingerprint": "c7e413bdcbfa",
-      "narrative_summary": "Elon Musk comparte 'actual footage' con una risa",
-      "why_memeable": "La combinación de la fama de Elon Musk y el misterio de 'actual footage' con una risa sugiere algo inesperado y potencialmente divertido",
-      "category": "Celebridad y tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKLAUGH",
-        "FOOTAGEFRENZY",
-        "ELONLOL"
-      ],
-      "key_terms_for_dex_search": [
-        "ELON",
-        "FOOTAGE",
-        "LAUGH",
-        "MUSK"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-28T09:14:34.625794+00:00",
-      "expires_at": "2026-07-30T09:14:34.625794+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232687.0,
-        "liquidity_usd": 81715.02,
-        "price_usd": 0.0002327,
-        "volume_h24": 9679.55,
-        "volume_h1": 56.22,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.09,
-        "price_change_24h": -8.53,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 1,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON in ELON COIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Actual footage 😂",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-28T09:17:48.778210+00:00"
-    },
-    {
       "id": "fa27ba8c2904",
       "fingerprint": "fa27ba8c2904",
       "narrative_summary": "Elon Musk critica a la prensa tradicional y promueve la comunicación directa.",
@@ -10807,7 +10543,188 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "971938fcddb0",
+      "fingerprint": "971938fcddb0",
+      "narrative_summary": "Shakira recrea su icónico meme casi 30 años después",
+      "why_memeable": "La recreación de un meme icónico por una figura cultural conocida como Shakira, combinada con la nostalgia y el impacto visual, hace que esta narrativa tenga un alto potencial memético",
+      "category": "Celebrities y Meme Culture",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "SHAKIRA",
+        "MEMEQUEEN",
+        "RECREATED"
+      ],
+      "key_terms_for_dex_search": [
+        "Shakira",
+        "meme",
+        "recreacion",
+        "iconico"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 7
+      },
+      "started_at": "2026-08-05T12:20:44.162287+00:00",
+      "expires_at": "2026-08-08T12:20:44.162287+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Shakira recreates her iconic meme nearly 30 years later.",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "97e2f9c8e524",
+      "fingerprint": "97e2f9c8e524",
+      "narrative_summary": "Una campaña de redes sociales inspiró a decenas de miles de migrantes a cruzar a Ceuta, España.",
+      "why_memeable": "La narrativa tiene un núcleo claro: una campaña de redes sociales que inspiró a una gran cantidad de migrantes a cruzar a Ceuta.",
+      "category": "migración, redes sociales, Ceuta",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CEUTACRISIS",
+        "MIGRANTESENREDES",
+        "CAMPAÑADECEUTA"
+      ],
+      "key_terms_for_dex_search": [
+        "Ceuta",
+        "migrantes",
+        "redes sociales",
+        "campaña"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T12:22:11.560278+00:00",
+      "expires_at": "2026-08-07T12:22:11.560278+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "62224e9f4104",
+      "fingerprint": "62224e9f4104",
+      "narrative_summary": "Ataque ruso mata al menos 17 en Kiev, Zelensky dice que interceptores podrían haber salvado vidas.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano (Rusia) y un héroe (Zelensky).",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAATACA",
+        "KIEVSUFRE",
+        "ZELENSKYLUCHA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Kiev",
+        "Zelensky",
+        "ataque",
+        "injusticia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 4,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T12:24:25.337354+00:00",
+      "expires_at": "2026-08-07T12:24:25.337354+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6382584859dc",
+      "fingerprint": "6382584859dc",
+      "narrative_summary": "Influencer Cesar Gastelum asesinado durante transmisión en vivo en México.",
+      "why_memeable": "La narrativa tiene un núcleo claro y emocionalmente cargado, con una imagen icónica y un impacto cultural significativo.",
+      "category": "Muerte de influencer en transmisión en vivo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CESARGASTELUM",
+        "INFLUENCERASESINADO",
+        "MEXICO"
+      ],
+      "key_terms_for_dex_search": [
+        "cesar gastelum",
+        "influencer asesinado",
+        "mexico",
+        "transmisión en vivo"
+      ],
+      "score": 92,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-05T12:25:02.119312+00:00",
+      "expires_at": "2026-08-07T12:25:02.119312+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Popular social media influencer shot dead during livestream outside restaurant in Mexico - CBS News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-05T10:16:50.160326+00:00"
+  "last_updated": "2026-08-05T12:25:02.119312+00:00"
 }
