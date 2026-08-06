@@ -1,264 +1,6 @@
 {
   "watches": [
     {
-      "id": "8cd606efc917",
-      "fingerprint": "8cd606efc917",
-      "narrative_summary": "Elon Musk's Starship still floating in the ocean after landing attempt.",
-      "why_memeable": "La frase es corta y describe un evento inusual y absurdo.",
-      "category": "Space/Elon Musk",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "STARSHIP",
-        "FLOATINGSTARSHIP",
-        "OCEANSTARSHIP"
-      ],
-      "key_terms_for_dex_search": [
-        "Starship",
-        "Elon Musk",
-        "ocean",
-        "floating"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-29T10:23:15.429365+00:00",
-      "expires_at": "2026-07-31T10:23:15.429365+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 30883.0,
-        "liquidity_usd": 18679.93,
-        "price_usd": 3.095e-05,
-        "volume_h24": 31206.62,
-        "volume_h1": 1036.74,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 3.55,
-        "price_change_24h": 11.5,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 3,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Starship still floating in the ocean",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-29T10:26:53.825071+00:00"
-    },
-    {
-      "id": "d8462c8db2b4",
-      "fingerprint": "d8462c8db2b4",
-      "narrative_summary": "Elon Musk publica un tuit que declara no ser una sátira, generando una gran cantidad de interacción en la red.",
-      "why_memeable": "La frase '(Not satire)' es memeable y puede ser repetida y compartida sin contexto. La publicación de Elon Musk es un evento dramático que genera polarización y absurdo.",
-      "category": "Celebridad",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "NOTSATIRE",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "notsatire"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-24",
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-29T10:23:36.023404+00:00",
-      "expires_at": "2026-07-31T10:23:36.023404+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "(Not satire)",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "expired_at": "2026-07-31T21:32:11.192286+00:00"
-    },
-    {
-      "id": "8aa775297c60",
-      "fingerprint": "8aa775297c60",
-      "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado de EE. UU. sobre los orígenes de COVID-19",
-      "why_memeable": "La situación es inusual y genera interés debido a la figura pública involucrada y la naturaleza controvertida del tema",
-      "category": "Política y Salud",
-      "matched_archetype": "injusticia_with_villain_and_victim",
-      "candidate_tickers": [
-        "FAUCI5",
-        "COVIDLIES",
-        "SENATEHEARING",
-        "RANDPAUL",
-        "FIFTHAMENDMENT"
-      ],
-      "key_terms_for_dex_search": [
-        "Fauci",
-        "Quinta Enmienda",
-        "Senado",
-        "COVID-19",
-        "Rand Paul"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-29T19:39:09.488017+00:00",
-      "expires_at": "2026-08-01T19:39:09.488017+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Because he would incriminate himself. grok.com/share/bGVnYWN5_2bf9…",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-01T20:02:27.051150+00:00"
-    },
-    {
-      "id": "db80b9378f59",
-      "fingerprint": "db80b9378f59",
-      "narrative_summary": "Ex-husband testifica sobre el día en que su esposa, Lindsay Clancy, mató a sus tres hijos.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y drama, con un ex-hombre testificando sobre la muerte de sus hijos.",
-      "category": "Crímenes y juicios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LINDSAYCLANCY",
-        "3CHILDRENMURDER",
-        "INJUSTICIAMATERNAL"
-      ],
-      "key_terms_for_dex_search": [
-        "LindsayClancy",
-        "3ChildrenMurder",
-        "InjusticiaMaternal",
-        "Crímenes",
-        "Juicios"
-      ],
-      "score": 90,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-29T19:40:26.981459+00:00",
-      "expires_at": "2026-07-31T19:40:26.981459+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Lindsay Clancy’s ex-husband testifies about day she killed their three children - The Guardian",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-07-31T21:32:11.192289+00:00"
-    },
-    {
-      "id": "5bbfcdbaa200",
-      "fingerprint": "5bbfcdbaa200",
-      "narrative_summary": "Rusia acusa al CEO de Telegram de ayudar al terrorismo en su última represión digital",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima', y la frase 'aiding terrorism' es muy fácil de compartir y recordar.",
-      "category": "Política/Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DUROV",
-        "TELEGRAM",
-        "TERRORISMO",
-        "RUSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Durov",
-        "Telegram",
-        "Terrorismo",
-        "Rusia"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-29T19:41:07.468174+00:00",
-      "expires_at": "2026-07-31T19:41:07.468174+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-07-31T21:32:11.192291+00:00"
-    },
-    {
       "id": "6c2b11dde83b",
       "fingerprint": "6c2b11dde83b",
       "narrative_summary": "La asistente de Newsom que tuvo un affair mientras estaba casada con su gerente de campaña habla por primera vez.",
@@ -7926,14 +7668,15 @@
       "started_at": "2026-08-04T11:41:25.264802+00:00",
       "expires_at": "2026-08-06T11:41:25.264802+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russian soldier kills colleague and three civilians in Crimea - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-06T14:57:54.291243+00:00"
     },
     {
       "id": "97c20591c24d",
@@ -8146,13 +7889,14 @@
       "started_at": "2026-08-04T13:32:08.414256+00:00",
       "expires_at": "2026-08-06T13:32:08.414256+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "JUST IN: 🇺🇸 FBI agent arrested and charged with stealing $1,000,000 in crypto from a suspect's accounts.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-06T14:57:54.291258+00:00"
     },
     {
       "id": "3f1524d285cc",
@@ -10742,7 +10486,243 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "c03c6b57ef0d",
+      "fingerprint": "c03c6b57ef0d",
+      "narrative_summary": "Un comité del Senado de EE. UU. vota para llevar a Anthony Fauci en contumacia por negarse a responder preguntas sobre su manejo de la pandemia de COVID-19.",
+      "why_memeable": "La noticia tiene un alto potencial de ser compartida y discutida debido a la figura polarizante de Fauci y la naturaleza controvertida del tema.",
+      "category": "Política y salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCI",
+        "COVIDGATE",
+        "SENATE",
+        "CONTEMPT",
+        "TRUMPFAUCI"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "COVID-19",
+        "Senado",
+        "Contumacia",
+        "Política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-06T14:57:55.828850+00:00",
+      "expires_at": "2026-08-09T14:57:55.828850+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "eba90fb3e8bd",
+      "fingerprint": "eba90fb3e8bd",
+      "narrative_summary": "Nikita Bier renuncia como jefe de producto de X y continuará como asesor.",
+      "why_memeable": "La noticia de la renuncia de Nikita Bier y su continuación como asesor es memeable debido a la simplicidad de la noticia y la posibilidad de crear contenido humorístico alrededor de su nuevo rol.",
+      "category": "tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "BIER",
+        "XPRODUCT",
+        "TECHDRAMA",
+        "RENEGADE",
+        "ADVISORNIK"
+      ],
+      "key_terms_for_dex_search": [
+        "Nikita Bier",
+        "X",
+        "renuncia",
+        "asesor",
+        "tecnología"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-06T14:57:57.784197+00:00",
+      "expires_at": "2026-08-09T14:57:57.784197+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "JUST IN - Nikita Bier resigns as X's Head of Product, will continue as an \"advisor.\"",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "93c74be3f893",
+      "fingerprint": "93c74be3f893",
+      "narrative_summary": "Un nuevo true crime sobre un crimen impactante en España, emitido en Atresmedia.",
+      "why_memeable": "La narrativa tiene un título impactante y un tema de true crime que puede ser fácilmente compartido.",
+      "category": "true crime",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MAJE",
+        "PATRAIX",
+        "TRUECRIME"
+      ],
+      "key_terms_for_dex_search": [
+        "true crime",
+        "crimen impactante",
+        "Atresmedia",
+        "Maje",
+        "Patraix"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-06T14:58:24.397403+00:00",
+      "expires_at": "2026-08-09T14:58:24.397403+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "45bd8c96c397",
+      "fingerprint": "45bd8c96c397",
+      "narrative_summary": "Trump insulta a Abdulrahmanl El-Sayed, llamándolo 'lleno de mierda' y 'hombre del odio'.",
+      "why_memeable": "La frase de Trump es corta y fácil de recordar, y el contexto político es polarizante.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPVSEL-SAYED",
+        "EL-SAYED",
+        "TRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "EL-SAYED",
+        "DSATIED",
+        "HATE"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-06T14:59:45.193864+00:00",
+      "expires_at": "2026-08-08T14:59:45.193864+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "NOW - Trump on DSA-tied Abdulrahmanl El-Sayed: \"When I watch Abdul, he's full of shit.\"",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "40166da8f230",
+      "fingerprint": "40166da8f230",
+      "narrative_summary": "Trump niega la escasez de armas en EE. UU. y dice que los 'filtradores' de información están siendo 'perseguidos'.",
+      "why_memeable": "La narrativa es memeable porque involucra a Trump, un personaje público polarizador, y la idea de que los 'filtradores' de información están siendo perseguidos es absurda y genera interés.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "ARMA",
+        "FILTRADOR"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "ARMA",
+        "FILTRADOR",
+        "EE. UU."
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-06T15:02:15.958121+00:00",
+      "expires_at": "2026-08-08T15:02:15.958121+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-06T10:19:29.421503+00:00"
+  "last_updated": "2026-08-06T15:02:15.958121+00:00"
 }

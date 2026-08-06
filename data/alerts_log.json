@@ -1,118 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-02T04:22:57.861503+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología",
-        "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027 - Bloomberg.com",
-        "candidate_tickers": [
-          "APPLE2027",
-          "IPADPRO",
-          "MACBOOKPRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T07:53:20.766043+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6b6d9d4501cc",
-        "score": 80,
-        "category": "Tecnología y futuro",
-        "title": "Elon Musk explains one of the most optimistic futures imaginable: Neuralink and Optimus restoring lost human abilities through real-world cyborg technology",
-        "candidate_tickers": [
-          "MUSKLINK",
-          "CYBORGELON",
-          "NEURALMUSK",
-          "OPTIMUSMUSK",
-          "FUTUROTECH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T07:54:07.515904+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "economía",
-        "title": "Dollar Slides Against Yen, Down 0.61% at 161.61",
-        "candidate_tickers": [
-          "JAPÓN",
-          "DIVISAS",
-          "DÓLAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T07:54:45.291120+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6104f4b9f1f0",
-        "score": 84,
-        "category": "Noticias internacionales",
-        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-        "candidate_tickers": [
-          "KYIV",
-          "ZELINSKY",
-          "RUSSIA",
-          "UKRAINE",
-          "MISSILESTRIKE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T07:56:02.273424+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4956ed443e57",
-        "score": 80,
-        "category": "crimen y justicia",
-        "title": "FBI Issues Statement on Legitimacy of Nancy Guthrie Ransom Notes",
-        "candidate_tickers": [
-          "GUTHRIE",
-          "FBI",
-          "RANSOM",
-          "KIDNAPPING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T07:57:58.478477+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d5cc71dd4483",
-        "ticker": "Tsunami",
-        "mint": "7AuZpVnXtYZBYqp2oZ7DjA7BZLwbgWJDUk2SYpHppump",
-        "mc": 270650.0
-      }
-    },
-    {
-      "ts": "2026-07-02T07:58:05.466300+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c0e355263c1a",
-        "ticker": "FABLE",
-        "mint": "HMSPnngim78o9t2KVfGBEg79NGS1s3c1AyRFu8z3pump",
-        "mc": 59051.0
-      }
-    },
-    {
-      "ts": "2026-07-02T10:51:12.864206+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "negocios",
-        "title": "Egg producers will pay $3.3M and donate 53 million eggs to settle price-fixing claims - AP News",
-        "candidate_tickers": [
-          "Eggs4Justice",
-          "HuevosPeligrosos",
-          "FijacionDePrecios"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-02T10:52:46.478334+00:00",
       "kind": "shadow",
       "payload": {
@@ -28249,6 +28137,129 @@
           "CONGOCOBALTO",
           "COBREPROHIBIDO",
           "EXPORTACIONESPROHIBIDAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T14:57:56.421771+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c03c6b57ef0d",
+        "score": 80,
+        "category": "Política y salud",
+        "title": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago",
+        "candidate_tickers": [
+          "FAUCI",
+          "COVIDGATE",
+          "SENATE",
+          "CONTEMPT",
+          "TRUMPFAUCI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T14:57:58.237108+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eba90fb3e8bd",
+        "score": 80,
+        "category": "tecnología",
+        "title": "JUST IN - Nikita Bier resigns as X's Head of Product, will continue as an \"advisor.\"",
+        "candidate_tickers": [
+          "BIER",
+          "XPRODUCT",
+          "TECHDRAMA",
+          "RENEGADE",
+          "ADVISORNIK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T14:58:11.468279+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política internacional",
+        "title": "*OMAN, IRAN TO ISSUE HORMUZ TRANSIT CORRIDOR STATEMENT SOON",
+        "candidate_tickers": [
+          "HORMUZ",
+          "OMAN",
+          "IRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T14:58:24.848672+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "93c74be3f893",
+        "score": 89,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "MAJE",
+          "PATRAIX",
+          "TRUECRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T14:59:45.648642+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "45bd8c96c397",
+        "score": 80,
+        "category": "política",
+        "title": "NOW - Trump on DSA-tied Abdulrahmanl El-Sayed: \"When I watch Abdul, he's full of shit.\"",
+        "candidate_tickers": [
+          "TRUMPVSEL-SAYED",
+          "EL-SAYED",
+          "TRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T15:00:12.880040+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Política y seguridad nacional",
+        "title": "U.S. MILITARY: AWARE OF NORTH KOREA MISSILE LAUNCH AND ARE CONSULTING  WITH ALLIES",
+        "candidate_tickers": [
+          "NK",
+          "KOREA",
+          "MISSILE",
+          "US",
+          "MILITARY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T15:01:42.552559+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Criptomonedas y memes",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "MEMECOIN",
+          "LAUNCHPAD",
+          "XRP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T15:02:16.576516+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "40166da8f230",
+        "score": 80,
+        "category": "política",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "candidate_tickers": [
+          "TRUMP",
+          "ARMA",
+          "FILTRADOR"
         ]
       }
     }
