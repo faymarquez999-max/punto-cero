@@ -1,88 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-01T08:59:38.647815+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4ad1c9b5dc4f",
-        "score": 88,
-        "category": "noticias de animales",
-        "title": "Grief and optimism clash in scramble to locate survivors 4 days after Venezuela earthquakes - AP News",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "REFUGIOANIMAL",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T09:00:17.429141+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6719a5d2383c",
-        "score": 78,
-        "category": "política",
-        "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
-        "candidate_tickers": [
-          "RUSIA",
-          "UCRANIA",
-          "DRONE",
-          "CRISIS DE COMBUSTIBLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T09:00:51.474673+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c0e355263c1a",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera",
-        "candidate_tickers": [
-          "ANTHROPIC",
-          "FABLE",
-          "MYTHOS",
-          "IA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T09:01:21.795395+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "26c7d8c1e392",
-        "ticker": "TRUMP",
-        "mint": "EuqW1pJd9p8u6yoyvYu1X7LtkgszjXGz2JxmiAiGmYBt",
-        "mc": 18611.0
-      }
-    },
-    {
-      "ts": "2026-07-01T09:01:25.218294+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d5cc71dd4483",
-        "ticker": "Tsunami",
-        "mint": "7AuZpVnXtYZBYqp2oZ7DjA7BZLwbgWJDUk2SYpHppump",
-        "mc": 172824.0
-      }
-    },
-    {
-      "ts": "2026-07-01T12:15:06.408103+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6c7e7ce4ffe9",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "“Sometimes I wonder, maybe everything is conscious, or nothing is conscious. I prefer the former; it just seems more fun.”",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPDINNER",
-          "MUSKMEETS_TRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-01T12:15:50.677752+00:00",
       "kind": "shadow",
       "payload": {
@@ -28266,6 +28184,94 @@
           "NKRU",
           "RUUKR",
           "MISSILEWARS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:10:20.029277+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "39e09db3a670",
+        "score": 91,
+        "category": "true crime",
+        "title": "True",
+        "candidate_tickers": [
+          "PATRAIX",
+          "MAJE",
+          "TRUECRIME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:10:55.249590+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "45bc9e35d9e8",
+        "score": 79,
+        "category": "Educación",
+        "title": "University of Cambridge professor at centre of plagiarism row resigns",
+        "candidate_tickers": [
+          "PLAGIOCAMBRIDGE",
+          "JASONARDAY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:12:45.775550+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1776010b06cc",
+        "score": 80,
+        "category": "crímenes y justicia",
+        "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+        "candidate_tickers": [
+          "INCENDIO DE SPOKANE",
+          "ACUSADO DE INCENDIAR",
+          "INJUSTICIA ANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:13:25.517527+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3d13324cb47e",
+        "score": 78,
+        "category": "Cryptomonedas",
+        "title": "Binance Says RedotPay Diverted Users in $470 Million Lawsuit - Bloomberg.com",
+        "candidate_tickers": [
+          "REDOTPAY",
+          "BINANCE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:14:46.119989+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e6a4e0a53b77",
+        "score": 89,
+        "category": "política",
+        "title": "Judge calls lost blood sample ‘absurd’ in UNC student murder case - WRAL",
+        "candidate_tickers": [
+          "6ENERO",
+          "CONSPIRACIÓN",
+          "JUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T01:15:10.518777+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fb70f87982a6",
+        "score": 88,
+        "category": "política y justicia",
+        "title": "New Mexico sues US government for access to Epstein files - Reuters",
+        "candidate_tickers": [
+          "EPSTEINGATE",
+          "NMVSUS",
+          "ACCESSTOTRUTH"
         ]
       }
     }
