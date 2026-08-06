@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-01T12:15:50.677752+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Noticias",
-        "title": "Family of boy attacked by crocodile thank zoo staff who rescued him",
-        "candidate_tickers": [
-          "CocodriloRescate",
-          "NiñoRescatado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T12:16:38.330069+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "737e4aa48a43",
-        "score": 88,
-        "category": "Muerte de un famoso",
-        "title": "BREAKING: Village People announce death of lead singer - WFSB",
-        "candidate_tickers": [
-          "VILLAGEPEOPLE",
-          "VICTORWILLIS",
-          "MUERTEDEUNFAMOSO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T12:17:14.857360+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c1a112b799d6",
-        "score": 88,
-        "category": "Noticias internacionales",
-        "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News",
-        "candidate_tickers": [
-          "MÓNACOEXPLO",
-          "UCRANIARUSIA",
-          "DRONEATAQUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T12:18:02.180812+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "09462b2d5ddd",
-        "score": 80,
-        "category": "política",
-        "title": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
-        "candidate_tickers": [
-          "IRANHORMUZ",
-          "CONTROLHORMUZ",
-          "IRANINSISTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T12:19:45.828392+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias de actualidad",
-        "title": "Zelenskyy condemns ‘horrific attacks’ as Russian strikes kill 12 and wound 40 in Ukraine - AP News",
-        "candidate_tickers": [
-          "Zelenskyy",
-          "Ucrania",
-          "Injusticia",
-          "Ataques"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-01T12:20:29.304323+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28273,6 +28200,75 @@
           "NMVSUS",
           "ACCESSTOTRUTH"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-06T04:34:56.274470+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a3b73f55f7fc",
+        "score": 70,
+        "category": "seguridad",
+        "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+        "candidate_tickers": [
+          "DRONEEXPLOSIVO",
+          "AEROPUERTOALEMAN",
+          "FLOTAUCRANIANA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T04:36:57.086296+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias de violencia y tragedia",
+        "title": "Breaking News: East Baltimore shooting leaves man in critical condition - WBAL-TV",
+        "candidate_tickers": [
+          "BaltimoreShooting",
+          "FerryIncendio",
+          "ViolenciaEnBaltimore"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T04:37:42.838661+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3b62d3b0c865",
+        "score": 90,
+        "category": "política",
+        "title": "Breaking News: A helicopter carrying President Trump is said to have come within less than a mile of a jet above Washington on Tuesday. - facebook.com",
+        "candidate_tickers": [
+          "TRUMPHELICOPTER",
+          "TRUMPJETNEARMISS",
+          "TRUMPSAFETY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T04:38:41.495235+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "641766ad43e7",
+        "score": 82,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE",
+          "GROKIMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T04:39:40.010800+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d3125305526a",
+        "ticker": "Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "mc": 11266.0
       }
     }
   ]
