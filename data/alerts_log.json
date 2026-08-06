@@ -1,102 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-01T17:32:54.575551+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3697143f151b",
-        "score": 82,
-        "category": "corrupción y gastos públicos",
-        "title": "This is how USAID spent your tax dollars",
-        "candidate_tickers": [
-          "USAID",
-          "TAXDOLLARS",
-          "USAIDGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T17:33:09.994159+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "df258696a149",
-        "ticker": "CLAWHUNTER",
-        "mint": "6GGY8GViCR5v4xR4Lxb4nfiAJsEoJua5Gj6YecxbJ4BQ",
-        "mc": 23000.0
-      }
-    },
-    {
-      "ts": "2026-07-01T17:33:20.145776+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d5cc71dd4483",
-        "ticker": "Tsunami",
-        "mint": "7AuZpVnXtYZBYqp2oZ7DjA7BZLwbgWJDUk2SYpHppump",
-        "mc": 354467.0
-      }
-    },
-    {
-      "ts": "2026-07-01T21:14:57.100972+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f7dfc8eff2cf",
-        "score": 80,
-        "category": "política",
-        "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
-        "candidate_tickers": [
-          "RUSIAENCRISIS",
-          "UCRANIAATACA",
-          "CRISISDECOMBUSTIBLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T21:15:36.728838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5b73deb438d7",
-        "score": 86,
-        "category": "desastres naturales",
-        "title": "Última hora de los terremotos de Venezuela, en directo: Ascienden a 2.295 las víctimas mortales entre los que se encuentran 26 españoles muertos, 150 desaparecidos y 12 bajo escombros - antena3.com",
-        "candidate_tickers": [
-          "VENEZUELA",
-          "TERREMOTOS",
-          "AYUDA",
-          "DESESTABILIZACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T22:48:20.479382+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e9d3c2cb5338",
-        "score": 90,
-        "category": "maltrato infantil",
-        "title": "Parents, grandparents charged after 16 children rescued from Ohio home: 'pure evil' - WLWT",
-        "candidate_tickers": [
-          "OHIOCHILDRESCUE",
-          "PUREEVILPARENTS",
-          "MALTRATOINFANTIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-01T22:49:05.063371+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8777a1b4c23c",
-        "score": 70,
-        "category": "negocios",
-        "title": "EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say - Reuters",
-        "candidate_tickers": [
-          "SOFTBANK",
-          "OPENAI",
-          "PRESTAMO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-02T00:02:53.010332+00:00",
       "kind": "shadow",
       "payload": {
@@ -28242,6 +28146,107 @@
         "ticker": "helidog",
         "mint": "G16u6V2qK9HS2wXL3pjGmwxwHBrawcA1MYrGj5Vjpump",
         "mc": 10344.0
+      }
+    },
+    {
+      "ts": "2026-08-06T10:15:01.226888+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3b25146dd150",
+        "score": 80,
+        "category": "Política",
+        "title": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago",
+        "candidate_tickers": [
+          "TRUMP",
+          "ELSAID",
+          "MICHIGAN",
+          "SENADO",
+          "POLITICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:15:14.941260+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says - Reuters",
+        "candidate_tickers": [
+          "CongoBan",
+          "CobaltoCongo",
+          "ExportBan"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:15:39.708558+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cb1ca233f8a8",
+        "score": 80,
+        "category": "política",
+        "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+        "candidate_tickers": [
+          "FAUCI",
+          "DESACATO",
+          "ABUSO",
+          "PLAGIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:16:11.499012+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Migración y política",
+        "title": "Tens of thousands of migrants voluntarily leave after crossing into Spanish territory of Ceuta - AP News",
+        "candidate_tickers": [
+          "Ceuta",
+          "Migrantes",
+          "España",
+          "Frontex"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:16:40.051475+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "11cb85c37c2f",
+        "score": 82,
+        "category": "meme de Elon Musk",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE",
+          "GROKIMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:17:50.451922+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f6ad3087a82a",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "Grok in Blender",
+        "candidate_tickers": [
+          "GROK",
+          "GROK_IN_BLENDER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-06T10:19:29.431655+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cb1ca233f8a8",
+        "ticker": "Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "mc": 14012.0
       }
     }
   ]

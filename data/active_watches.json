@@ -1,241 +1,6 @@
 {
   "watches": [
     {
-      "id": "665870708b1f",
-      "fingerprint": "665870708b1f",
-      "narrative_summary": "Un agente de OpenAI se ha comprometido con un cliente de una segunda empresa de tecnología, según un ejecutivo.",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
-      "category": "Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "OPENAI",
-        "ROGUEAGENT",
-        "TECHFIRM"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "RogueAgent",
-        "TechFirm",
-        "Compromiso",
-        "Cliente"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-29T07:39:00.239246+00:00",
-      "expires_at": "2026-08-01T07:39:00.239246+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-01T09:47:10.436567+00:00"
-    },
-    {
-      "id": "0f8f7b7c27ec",
-      "fingerprint": "0f8f7b7c27ec",
-      "narrative_summary": "Elon Musk anuncia el envío de una nave para recuperar Starship",
-      "why_memeable": "La noticia es emocionalmente atractiva debido a la figura de Elon Musk y el interés en la tecnología espacial, además de ser fácilmente compartible y recordable",
-      "category": "Tecnología Espacial",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "STARSHIP",
-        "RESCUESHIP",
-        "MUSKMISSION",
-        "SPACERECOVERY"
-      ],
-      "key_terms_for_dex_search": [
-        "Starship",
-        "Elon Musk",
-        "Recuperación",
-        "Nave Espacial"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-29T07:39:31.789481+00:00",
-      "expires_at": "2026-08-01T07:39:31.789481+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 31497.0,
-        "liquidity_usd": 18861.33,
-        "price_usd": 3.156e-05,
-        "volume_h24": 29440.63,
-        "volume_h1": 226.31,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.75,
-        "price_change_24h": 13.72,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 3,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "We’re sending a ship out to recover Starship",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-29T07:40:11.645558+00:00"
-    },
-    {
-      "id": "8144358caa40",
-      "fingerprint": "8144358caa40",
-      "narrative_summary": "Incendios forestales en Francia y España alcanzan temperaturas extremas, dejando áreas en un 'zona de guerra'.",
-      "why_memeable": "La narrativa tiene un enfoque claro y conciso, con términos como 'temperaturas extremas', 'incendios forestales' y 'zona de guerra', que pueden ser capturados fácilmente en una imagen o una frase.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FRANCE_WILDFIRES",
-        "EXTREME_TEMPERATURES",
-        "WILDFIRES_ZONA_DE_GUERRA"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios forestales",
-        "temperaturas extremas",
-        "zona de guerra",
-        "Francia",
-        "España"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-07-29T10:22:28.542159+00:00",
-      "expires_at": "2026-08-01T10:22:28.542159+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Extreme temperatures in France and Spain as wildfires leave areas looking like a ‘war zone’ - CNN",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "expired_at": "2026-08-01T14:03:17.275930+00:00"
-    },
-    {
-      "id": "3486623079aa",
-      "fingerprint": "3486623079aa",
-      "narrative_summary": "Elon Musk anuncia la recuperación del Starship",
-      "why_memeable": "La frase es corta y fácil de compartir, y la noticia es impactante.",
-      "category": "Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "STARSHIPRECOVERY",
-        "ELONRECOVERS"
-      ],
-      "key_terms_for_dex_search": [
-        "Starship",
-        "Elon Musk",
-        "recuperación"
-      ],
-      "score": 84,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-29T10:22:52.026938+00:00",
-      "expires_at": "2026-07-31T10:22:52.026938+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MarsCoin",
-        "name": "Mars Coin by Elon Musk",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 30883.0,
-        "liquidity_usd": 18679.93,
-        "price_usd": 3.095e-05,
-        "volume_h24": 31206.62,
-        "volume_h1": 1036.74,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 3.55,
-        "price_change_24h": 11.5,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 3,
-        "created_ts": 1737250624000,
-        "pair_created_at": 1737250624000,
-        "url": "https://dexscreener.com/solana/cmmfgquganrkrkmwu9b259gqgcmc6n1rsjqn9nuy39hr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in MARS COIN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "We’re sending a ship out to recover Starship",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-07-29T10:26:51.858809+00:00"
-    },
-    {
       "id": "8cd606efc917",
       "fingerprint": "8cd606efc917",
       "narrative_summary": "Elon Musk's Starship still floating in the ocean after landing attempt.",
@@ -8071,13 +7836,14 @@
       "started_at": "2026-08-04T09:16:11.794193+00:00",
       "expires_at": "2026-08-06T09:16:11.794193+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Un chapuzón en el complejo de enormes piscinas y toboganes de agua de Kim Jong-un en plena ola de calor - Ultima Hora",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-06T10:14:58.275088+00:00"
     },
     {
       "id": "837ee15b0059",
@@ -8121,7 +7887,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e9ee625f6de5",
@@ -8167,7 +7933,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "97c20591c24d",
@@ -8218,7 +7984,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "2597eeb7c1c0",
@@ -8386,7 +8152,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3f1524d285cc",
@@ -8437,7 +8203,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1c6b9b2be428",
@@ -8570,7 +8336,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3f2e902ceacc",
@@ -8615,7 +8381,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "db8c18211c35",
@@ -8661,7 +8427,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "447d505c8e43",
@@ -8707,7 +8473,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "891d8785c8e3",
@@ -8886,7 +8652,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "97b02b821731",
@@ -8936,7 +8702,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d23b2ca41e56",
@@ -8981,7 +8747,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d286c3b36ccd",
@@ -9174,7 +8940,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "3a88d9a2b884",
@@ -9218,7 +8984,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d3125305526a",
@@ -9335,7 +9101,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "3ef552e1c26e",
@@ -9383,7 +9149,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "6ce608f9e03c",
@@ -9427,7 +9193,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "442b80098bc2",
@@ -9472,7 +9238,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "971938fcddb0",
@@ -9517,7 +9283,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "97e2f9c8e524",
@@ -9562,7 +9328,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "62224e9f4104",
@@ -9608,7 +9374,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6382584859dc",
@@ -9724,7 +9490,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1dfc93e0e483",
@@ -9769,7 +9535,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "c41ee4322e53",
@@ -9815,7 +9581,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3ea836e86abb",
@@ -9860,7 +9626,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a84bbfa0cbf2",
@@ -9906,7 +9672,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "11cbfb51b9c3",
@@ -9953,7 +9719,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "509fc5990f5d",
@@ -9999,7 +9765,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "59cfe7e72b96",
@@ -10119,7 +9885,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1792e0271e56",
@@ -10165,7 +9931,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c8c8895195e2",
@@ -10289,7 +10055,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "904d2844077b",
@@ -10334,7 +10100,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "31b217f3be81",
@@ -10468,7 +10234,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a3b73f55f7fc",
@@ -10512,7 +10278,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3b62d3b0c865",
@@ -10630,7 +10396,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1810c4482a4a",
@@ -10675,7 +10441,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5dc79e76c1d8",
@@ -10722,7 +10488,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "10ae074286f2",
@@ -10765,8 +10531,218 @@
       "cluster_sources": [
         "nitter"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "3b25146dd150",
+      "fingerprint": "3b25146dd150",
+      "narrative_summary": "Trump ataca a Abdul El-Sayed como 'odioso de judíos' después de su victoria en las primarias del Senado en Michigan",
+      "why_memeable": "La narrativa combina un personaje polarizante como Trump con una declaración controvertida, lo que puede generar un gran engagement y discusión en línea",
+      "category": "Política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMP",
+        "ELSAID",
+        "MICHIGAN",
+        "SENADO",
+        "POLITICA"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Abdul El-Sayed",
+        "Michigan",
+        "Senado",
+        "Política"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-06T10:15:00.880594+00:00",
+      "expires_at": "2026-08-09T10:15:00.880594+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "cb1ca233f8a8",
+      "fingerprint": "cb1ca233f8a8",
+      "narrative_summary": "El senador Fauci puede ser acusado de desacato al Congreso debido a acusaciones de abuso y acusaciones de plagio.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una imagen icónica de Fauci.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCI",
+        "DESACATO",
+        "ABUSO",
+        "PLAGIO"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "desacato",
+        "abuso",
+        "plagio",
+        "Congreso"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-06T10:15:39.381572+00:00",
+      "expires_at": "2026-08-08T10:15:39.381572+00:00",
+      "duration_hours": 48,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Diary",
+        "name": "The Fauci Diary",
+        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 14012.0,
+        "liquidity_usd": 10898.7,
+        "price_usd": 1.552e-05,
+        "volume_h24": 12143.91,
+        "volume_h1": 134.04,
+        "volume_m5": 95.23,
+        "price_change_5m": 1.85,
+        "price_change_1h": 3.21,
+        "price_change_24h": 53.5,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 1,
+        "created_ts": 1785189792000,
+        "pair_created_at": 1785189792000,
+        "url": "https://dexscreener.com/solana/fckrnwq3yws5jyfhxqsb2gs49m9extuqnfkqs9oa4xwo",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: FAUCI in THE FAUCI DIARY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
+      "cluster_top_title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1,
+      "matched_at": "2026-08-06T10:19:29.421493+00:00"
+    },
+    {
+      "id": "11cb85c37c2f",
+      "fingerprint": "11cb85c37c2f",
+      "narrative_summary": "Elon Musk comparte un meme 'Grok Imagine' con gran éxito en Nitter.",
+      "why_memeable": "La frase 'Grok Imagine' es fácil de recordar y se puede capturar en una imagen.",
+      "category": "meme de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "IMAGINE",
+        "GROKIMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "IMAGINE",
+        "ELON MUSK",
+        "MEME"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-06T10:16:39.700232+00:00",
+      "expires_at": "2026-08-08T10:16:39.700232+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "f6ad3087a82a",
+      "fingerprint": "f6ad3087a82a",
+      "narrative_summary": "Elon Musk comparte una imagen de un 'Grok' en Blender.",
+      "why_memeable": "La frase 'Grok in Blender' es corta y fácil de compartir.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROK_IN_BLENDER"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "blender",
+        "grok"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-06T10:17:50.013036+00:00",
+      "expires_at": "2026-08-08T10:17:50.013036+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok in Blender",
+      "cluster_sources": [
+        "nitter"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-06T07:34:38.328150+00:00"
+  "last_updated": "2026-08-06T10:19:29.421503+00:00"
 }
