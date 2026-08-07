@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-02T23:19:19.830493+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e4734a35bf94",
-        "score": 78,
-        "category": "Celebridades",
-        "title": "Outside Taylor Swift’s Rehearsal Dinner, Surprisingly Calm — and Security Worthy of Gaddafi",
-        "candidate_tickers": [
-          "TAYLORSWIFTGADDAFI",
-          "SWIFTGADDAFI",
-          "REHEARSALDINNER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T23:20:43.047962+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2e453996ef77",
-        "score": 90,
-        "category": "Actualidad/Noticias",
-        "title": "DIA makes viral SAUCER1 stunt to welcome World UFO Day, Lufthansa A380 landing - KDVR",
-        "candidate_tickers": [
-          "SAUCER1",
-          "DIA",
-          "LUFTHANSAA380",
-          "WORLDUFODAY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T23:22:13.380138+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bce84350fdef",
-        "score": 70,
-        "category": "Tecnología",
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
-        "candidate_tickers": [
-          "JERSEYMIKE",
-          "AIHYPE",
-          "BLACKSTONE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T01:11:52.601429+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T01:13:28.673173+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "399a9e590bfb",
-        "ticker": "FIREMAN",
-        "mint": "CaKASCpnnmZgEUb6hHexi3KXaQYxEaxtKWmvBbA7r3rn",
-        "mc": 30253.0
-      }
-    },
-    {
       "ts": "2026-07-03T05:02:36.562252+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28255,6 +28185,79 @@
           "BANANAFORSCALE",
           "TERAFAB",
           "QUANTUMFLUCTUATION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T06:52:02.920926+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "noticias de desastres naturales",
+        "title": "Japan orders evacuations as Typhoon Dolphin approaches, cancels 500 flights - Reuters",
+        "candidate_tickers": [
+          "DOLPHIN",
+          "TYPHOON",
+          "JAPAN",
+          "FLY500",
+          "STORMWATCH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T06:52:49.987441+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Noticias",
+        "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+        "candidate_tickers": [
+          "AvalanchePeak",
+          "BroadPeak"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T06:53:30.902121+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b43be510ce55",
+        "score": 89,
+        "category": "política",
+        "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "candidate_tickers": [
+          "OGLESLOSES",
+          "ANITYOGLES",
+          "MUSLIMOGLES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T06:54:45.472750+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fc82beee678f",
+        "score": 83,
+        "category": "Violencia escolar",
+        "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia - EL PAÍS",
+        "candidate_tickers": [
+          "TAILANDIATIROTEO",
+          "ESTUDIANTEMATA",
+          "COLEGIODETAILANDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T06:55:11.652852+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Noticias",
+        "title": "Man who started Gann Fire was previously sentenced for causing 2018 fire - KCRA",
+        "candidate_tickers": [
+          "GannFire",
+          "InciendoGann",
+          "Ollia"
         ]
       }
     }

@@ -1,99 +1,6 @@
 {
   "watches": [
     {
-      "id": "eee18e1b320d",
-      "fingerprint": "eee18e1b320d",
-      "narrative_summary": "Convicción del atacante de Salman Rushdie de ofensas terroristas y acusaciones de abuso sexual contra Jared Leto.",
-      "why_memeable": "La narrativa tiene un claro atacante y víctima, y las acusaciones de abuso sexual son impactantes.",
-      "category": "Celebridad y crimen",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSHDIE",
-        "LETO",
-        "ABUSO",
-        "TERRORISMO"
-      ],
-      "key_terms_for_dex_search": [
-        "Salman Rushdie",
-        "Jared Leto",
-        "abuso sexual",
-        "terrorismo"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-29T23:47:53.325331+00:00",
-      "expires_at": "2026-07-31T23:47:53.325331+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Salman Rushdie attacker convicted of terror offenses",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-07-31T23:49:02.331841+00:00"
-    },
-    {
-      "id": "610c55a50b18",
-      "fingerprint": "610c55a50b18",
-      "narrative_summary": "La MoD de Reino Unido sufrió un robo de datos en Afganistán que fue predecible, según una investigación.",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácilmente compartible.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MODLEAK",
-        "AFGHANBREACH",
-        "DATABREACHUK"
-      ],
-      "key_terms_for_dex_search": [
-        "MOD",
-        "Afganistán",
-        "robo de datos",
-        "injusticia"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T01:08:02.290076+00:00",
-      "expires_at": "2026-08-02T01:08:02.290076+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-02T04:09:51.832102+00:00"
-    },
-    {
       "id": "f42f4fca554e",
       "fingerprint": "f42f4fca554e",
       "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado, generando controversia.",
@@ -10786,7 +10693,98 @@
         "nitter"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "b43be510ce55",
+      "fingerprint": "b43be510ce55",
+      "narrative_summary": "El congresista republicano anti-musulmán Andy Ogles pierde la primaria en Tennessee.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano (Andy Ogles) y un victimario (la comunidad musulmana).",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OGLESLOSES",
+        "ANITYOGLES",
+        "MUSLIMOGLES"
+      ],
+      "key_terms_for_dex_search": [
+        "Andy Ogles",
+        "primaria",
+        "Tennessee",
+        "musulmán",
+        "injusticia"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T06:53:30.307068+00:00",
+      "expires_at": "2026-08-09T06:53:30.307068+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "fc82beee678f",
+      "fingerprint": "fc82beee678f",
+      "narrative_summary": "Un estudiante mata a seis personas en un tiroteo en un colegio de Tailandia.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y violencia, lo que la hace fácilmente compartible y recordable.",
+      "category": "Violencia escolar",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAILANDIATIROTEO",
+        "ESTUDIANTEMATA",
+        "COLEGIODETAILANDIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Tailandia",
+        "tiroteo",
+        "estudiante",
+        "mata",
+        "colegio"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T06:54:44.901503+00:00",
+      "expires_at": "2026-08-09T06:54:44.901503+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia - EL PAÍS",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T05:30:40.214588+00:00"
+  "last_updated": "2026-08-07T06:54:44.901503+00:00"
 }
