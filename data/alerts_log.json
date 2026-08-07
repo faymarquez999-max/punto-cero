@@ -1,96 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T11:17:20.903416+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deporte y Justicia",
-        "title": "Former Olympian indicted for alleged damage to reflecting pool - Politico",
-        "candidate_tickers": [
-          "Ollia",
-          "Reflejo",
-          "Piscina",
-          "Justicia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T11:17:52.547024+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "138a086fc726",
-        "score": 79,
-        "category": "noticias",
-        "title": "Climber couple arrested after scaling Empire State Building antenna for apparent marriage proposal - AP News",
-        "candidate_tickers": [
-          "ESB",
-          "EMPIRESTATEPROPOSAL",
-          "CLIMBERCOUPLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T11:19:07.547190+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1151819ad77b",
-        "score": 80,
-        "category": "Celebridad/Política",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSKTRUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T13:17:40.108803+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "tech",
-        "title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
-        "candidate_tickers": [
-          "TataLeaks",
-          "iPhoneSecrets",
-          "AppleDataBreach"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T13:17:42.010180+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ea0078f841cb",
-        "score": 80,
-        "category": "Geopolítica y conflicto",
-        "title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
-        "candidate_tickers": [
-          "TAIWAN",
-          "CHINA",
-          "INVASION",
-          "BLOCKADE",
-          "TWNCRISIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T13:19:32.426315+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "arrestos y noticias de crimen",
-        "title": "Impactante arresto en Mecklenburg, intento huir y lo detuvieron con drogas - quepasamedia.com",
-        "candidate_tickers": [
-          "Mecklenburg",
-          "Arresto",
-          "Drogas",
-          "Intento de huir"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-03T15:31:59.481733+00:00",
       "kind": "shadow",
       "payload": {
@@ -28256,6 +28166,92 @@
           "HOUTHIS",
           "ARABIA SAUDITA",
           "YEMEN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:39:04.107811+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6d1a3231aed6",
+        "score": 89,
+        "category": "Noticias de crímenes y violencia",
+        "title": "Live updates: Several killed in Thailand school shooting rampage - CNN",
+        "candidate_tickers": [
+          "TAILANDIASHOOTING",
+          "ESTUDIANTEASESINO",
+          "ESCUELADETAILANDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:39:44.631575+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Tecnología",
+        "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+        "candidate_tickers": [
+          "MOONSHOT",
+          "ALIBABA",
+          "AI_MODEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:40:21.333269+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e05dfaeb9dbd",
+        "score": 80,
+        "category": "política",
+        "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "candidate_tickers": [
+          "OGLESLOSE",
+          "ANTIMUSLIMCONGRESSMAN",
+          "PRIMARIAREPUBLICANA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:41:17.409100+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9bcfd8a14e61",
+        "score": 89,
+        "category": "Crímenes resueltos",
+        "title": "How a diary entry solved the murder of a missing man",
+        "candidate_tickers": [
+          "DIARIODELASESINATO",
+          "SANGREENELPARQUE",
+          "ASESINATORESUELTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:42:28.713343+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y Negocios",
+        "title": "Starlink",
+        "candidate_tickers": [
+          "STARLINK",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T10:42:44.290012+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "258cbdb7fe07",
+        "score": 83,
+        "category": "ciencia, tecnología, innovación",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANAFORSCALE",
+          "TERAFABBANANA"
         ]
       }
     }
