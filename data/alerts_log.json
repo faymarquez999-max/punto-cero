@@ -1,92 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-04T20:04:37.685469+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "Egypt coach accepts apology after viral confrontation with Dallas police - FOX 4 News Dallas-Fort Worth",
-        "candidate_tickers": [
-          "EGYPTCOACH",
-          "DALLASPOLICE",
-          "VIRALCONFRONTATION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T20:05:40.698923+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Republicans bank on a Trump Accounts boost - Politico",
-        "candidate_tickers": [
-          "TrumpBoost",
-          "TrumpCuentas",
-          "Republikanismo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T22:17:25.170043+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes/Navegación",
-        "title": "Good explanation of why some people find “wealth” inexplicable",
-        "candidate_tickers": [
-          "RowerHawaii",
-          "KelseyPfendler",
-          "ViajeEnSolitario"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T22:20:10.918164+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9264e5b063b8",
-        "score": 74,
-        "category": "política",
-        "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism - NPR",
-        "candidate_tickers": [
-          "TRUMP_4TH",
-          "COMMUNISMO_TRUMP",
-          "MOUNT_RUSHMORE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T23:21:28.894841+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6d9085034a91",
-        "score": 82,
-        "category": "política",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "TRUMP_CRIPTO",
-          "TRUMP_RIQUEZA",
-          "CRIPTO_TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T01:22:21.099508+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Política y conflicto",
-        "title": "Guerra de EE.UU. e Israel con Irán: funeral de Jamenei, ataques, negociaciones de paz y más noticias - CNN en Español",
-        "candidate_tickers": [
-          "IranWar",
-          "KhameneiMuerto",
-          "GuerraEEUUIsrael"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-05T01:23:04.791236+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28247,6 +28161,96 @@
         "ticker": "IRR",
         "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
         "mc": 98242.0
+      }
+    },
+    {
+      "ts": "2026-08-07T20:12:00.271830+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "94cc8c4b8f0c",
+        "score": 78,
+        "category": "Criptomonedas",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "$ANSEM",
+          "PUMP.FUN",
+          "JIMOTHY THE RACCOON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T20:12:32.152397+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a6dec83793df",
+        "score": 80,
+        "category": "entretenimiento",
+        "title": "Movie Guy – For “One Night Only,” forget the absurd story - Port Arthur News",
+        "candidate_tickers": [
+          "ONENIGHTONLY",
+          "PRACTICALMAGIC",
+          "BULLOCKKIDMAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T20:13:15.022530+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1812520f225a",
+        "score": 89,
+        "category": "crimenes contra animales",
+        "title": "Livingston Parish woman accused of animal cruelty after deputies respond to dead dog complaint - WBRZ",
+        "candidate_tickers": [
+          "CRUELDADANIMAL",
+          "PERROMUERTO",
+          "VILLANADELIVINGSTON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T20:13:51.621686+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fcfafc3e40fe",
+        "score": 76,
+        "category": "política",
+        "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+        "candidate_tickers": [
+          "CEUTA",
+          "MIGRACIÓN",
+          "ESPAÑA VS ITALIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T20:14:22.386614+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6c4c55656512",
+        "score": 70,
+        "category": "noticias internacionales",
+        "title": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+        "candidate_tickers": [
+          "RUSSIA_SANCTIONS",
+          "THAI_TIROTEO",
+          "ESTUDIANTE_ASASINO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T20:15:12.271607+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "358ce6615901",
+        "score": 78,
+        "category": "política y controversia",
+        "title": "Politicians, private jets and power - the life of a Fifa president",
+        "candidate_tickers": [
+          "TRUMPVS",
+          "MUSKVSS",
+          "FORTKNOX"
+        ]
       }
     }
   ]
