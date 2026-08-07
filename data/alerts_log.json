@@ -1,118 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-04T05:30:54.803045+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "26c7d8c1e392",
-        "ticker": "TRUMP",
-        "mint": "zoyjnKBGyujR13aBfXoz96g5NxH946n47fJuk3Cpump",
-        "mc": 24135.0
-      }
-    },
-    {
-      "ts": "2026-07-04T10:31:47.656170+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6754f8318a17",
-        "score": 74,
-        "category": "Celebridades",
-        "title": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony - DW.com",
-        "candidate_tickers": [
-          "TAYLORSWIFTTRAVISKELCE",
-          "SWIFTKELCEWEDDING",
-          "BODATAYLORSWIFT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T10:32:27.601107+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1420e6904341",
-        "score": 88,
-        "category": "política",
-        "title": "Thousands gather as Khamenei funeral ceremonies open in Tehran",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRÁN",
-          "FUNERAL",
-          "MILES DE PERSONAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T10:34:30.913847+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "noticias y eventos",
-        "title": "Eastern US power grid operator orders emergency curbs as electricity use nears record - Reuters",
-        "candidate_tickers": [
-          "GridLock",
-          "PowerCrisis",
-          "ElectricidadEnCrisis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T11:56:23.495873+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "sports",
-        "title": "Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds.  Total tunnel weight: ~100 million pounds!",
-        "candidate_tickers": [
-          "CAPEVERDE",
-          "ARGENTINA",
-          "WORLDCUP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T11:57:07.251886+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridad",
-        "title": "Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News",
-        "candidate_tickers": [
-          "TaylorSwiftTravisKelce",
-          "BodaTaylorSwift",
-          "TravisKelceBoda"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T11:57:44.102146+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f08d649fbf27",
-        "score": 84,
-        "category": "Guerra en Ucrania",
-        "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-        "candidate_tickers": [
-          "UKRAINEDRONE",
-          "RUSIAUCRANIA",
-          "DRONEATTACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T11:58:46.264868+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias de energía y política",
-        "title": "Eastern US power grid operator orders emergency curbs as electricity use nears record - Reuters",
-        "candidate_tickers": [
-          "GRID",
-          "POWER",
-          "CURBS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-04T11:59:10.030176+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28253,6 +28141,112 @@
           "MIDDLE_EAST_ALLIANCE",
           "TURKEY_PAKISTAN_SAUDI"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:13:30.720260+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c957db931b45",
+        "score": 88,
+        "category": "política",
+        "title": "Donald Trump cannot build his $400M White House ballroom without approval from Congress, an appeals court has ruled.",
+        "candidate_tickers": [
+          "TRUMPNOPUEDE",
+          "BALCÓNDETRUMP",
+          "CONGRESONOPUEDE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:13:59.284465+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "02588a434938",
+        "score": 90,
+        "category": "música",
+        "title": "Madonna and Blur producer William Orbit dies aged 69",
+        "candidate_tickers": [
+          "WILLIAMORBIT",
+          "RAYOFLIGHT",
+          "MADONNAORBIT",
+          "MUSICALGENIUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:14:42.018959+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7326ffe3e2ca",
+        "score": 80,
+        "category": "Noticias de crímenes y violencia",
+        "title": "Seven killed after Thai student opens fire at home and school",
+        "candidate_tickers": [
+          "THAISCHOOLSHOOTING",
+          "TAILANDIASHOOTING",
+          "ESTUDIANTEDE14ANOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:15:10.746474+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6b120658076a",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "Terafab will be 50 times the size of the Pentagon when complete",
+        "candidate_tickers": [
+          "TERAFAB",
+          "PENTAGON",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:16:42.145812+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f30d002ff771",
+        "score": 85,
+        "category": "ciencia, tecnología y absurdo",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANA",
+          "TERAFAB",
+          "FLUCTUACIÓN CUÁNTICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T17:16:49.552626+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "db8c18211c35",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 92916.0
+      }
+    },
+    {
+      "ts": "2026-08-07T17:17:06.498100+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a84bbfa0cbf2",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 92916.0
+      }
+    },
+    {
+      "ts": "2026-08-07T17:17:14.687396+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "79ef4868b678",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 92916.0
       }
     }
   ]
