@@ -1,84 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T05:02:36.562252+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f8106dd77824",
-        "score": 80,
-        "category": "noticias financieras y políticas",
-        "title": "/smg/ stock market general",
-        "candidate_tickers": [
-          "TRUMP",
-          "MEME",
-          "CRYPTO",
-          "TRUMPME",
-          "MEMECOIN",
-          "TRUMPCOIN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T05:02:38.331608+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0acec7b4f1a1",
-        "score": 78,
-        "category": "noticias de animales",
-        "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
-        "candidate_tickers": [
-          "CALIDOGS",
-          "NO_KILL",
-          "ANIMALTRAGEDY",
-          "CALIFUR",
-          "DOGSINNEED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T05:04:20.476235+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b579cc3941cc",
-        "score": 70,
-        "category": "Muerte de artistas famosos",
-        "title": "Victor Willis, who co-founded the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - AP News",
-        "candidate_tickers": [
-          "VICTORWILLIS",
-          "VILLAGEPEOPLE",
-          "MUERTEBREVE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T05:05:12.782119+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Celebridad",
-        "title": "Taylor Swift and Travis Kelce have married in private, NY Post reports - Reuters",
-        "candidate_tickers": [
-          "SwiftKelce",
-          "TaylorSwiftTravisKelce",
-          "CelebridadBoda"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T05:06:18.987123+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias",
-        "title": "Couple who staged apparent proposal atop Empire State Building faces slew of charges - The Guardian",
-        "candidate_tickers": [
-          "EmpireStateProposal",
-          "ProposalScandal",
-          "ClimberCouple"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-03T05:06:52.235094+00:00",
       "kind": "shadow",
       "payload": {
@@ -28258,6 +28180,78 @@
           "GannFire",
           "InciendoGann",
           "Ollia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T08:21:16.205832+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "crimen y justicia",
+        "title": "BREAKING… Police search for suspect in Greenville murder (VIDEO) - Mid Hudson News",
+        "candidate_tickers": [
+          "GreenvilleMurder",
+          "SospechosoCazado",
+          "AsesinatoEnGreenville"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T08:21:51.889597+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "eac53bdfdbb8",
+        "score": 79,
+        "category": "política",
+        "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "candidate_tickers": [
+          "OGLES",
+          "ANTIMUSLIM",
+          "TRUMPFAILS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T08:22:25.638226+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "22fdcc1fc187",
+        "score": 80,
+        "category": "clima",
+        "title": "Japan orders evacuations as Typhoon Dolphin approaches, cancels 500 flights - Reuters",
+        "candidate_tickers": [
+          "DOLPHIN",
+          "TYPHOONDOLPHIN",
+          "JAPÓNEVACUA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T08:23:12.698286+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Starlink",
+        "candidate_tickers": [
+          "starlink",
+          "elonmusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T08:23:36.207111+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "73fe67cd824a",
+        "score": 85,
+        "category": "ciencia-ficción",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANASCALE",
+          "TERAFAB",
+          "QUANTUMFLUCTUATION"
         ]
       }
     }

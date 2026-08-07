@@ -1,173 +1,6 @@
 {
   "watches": [
     {
-      "id": "f42f4fca554e",
-      "fingerprint": "f42f4fca554e",
-      "narrative_summary": "Anthony Fauci invoca la Quinta Enmienda en una audiencia del Senado, generando controversia.",
-      "why_memeable": "La narrativa tiene un núcleo claro (Fauci y la Quinta Enmienda) y un contexto emocional (controversia y polémica).",
-      "category": "Política y Controversia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FAUCI",
-        "QUINTAENMIENDA",
-        "SENADO",
-        "CONTROVERSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Fauci",
-        "QuintaEnmienda",
-        "Senado",
-        "Controversia",
-        "COVID-19"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-30T07:20:01.679950+00:00",
-      "expires_at": "2026-08-01T07:20:01.679950+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T07:35:38.542486+00:00"
-    },
-    {
-      "id": "6c6e6100ec50",
-      "fingerprint": "6c6e6100ec50",
-      "narrative_summary": "Un terremoto en Japón daña un centro comercial Aeon, provocando un rescate en tiempo récord.",
-      "why_memeable": "La imagen de un centro comercial dañado por un terremoto es icónica y se puede capturar en una frase corta.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AEONMALL",
-        "TERREMOTOJAPÓN",
-        "RESCATEENTIEMPORÉCORD"
-      ],
-      "key_terms_for_dex_search": [
-        "Terremoto",
-        "Japón",
-        "AeonMall",
-        "Rescate"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 8,
-        "visual": 8,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T07:20:32.121490+00:00",
-      "expires_at": "2026-08-02T07:20:32.121490+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-02T14:00:31.052078+00:00"
-    },
-    {
-      "id": "2b157e1b6a2c",
-      "fingerprint": "2b157e1b6a2c",
-      "narrative_summary": "El DOJ utiliza un tribunal inusual para deportar a la madre de un simpatizante convicto de ISIS.",
-      "why_memeable": "La narrativa tiene un núcleo claro y un título impactante que puede ser capturado en una frase.",
-      "category": "actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ISIS_MOTHER",
-        "ALIEN_TERRORIST",
-        "DOJ_DEPORT"
-      ],
-      "key_terms_for_dex_search": [
-        "ISIS",
-        "DOJ",
-        "deport",
-        "alien",
-        "terrorist"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-30T07:21:00.576547+00:00",
-      "expires_at": "2026-08-02T07:21:00.576547+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CALLDOG",
-        "name": "HelloYesThisIsDog",
-        "mint": "AF2DcASwJcXPUGtJhXsmHZupFh9BargcehnxiD8GVbd8",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 21281.0,
-        "liquidity_usd": 11076.37,
-        "price_usd": 2.182e-05,
-        "volume_h24": 2574675.79,
-        "volume_h1": 7289.76,
-        "volume_m5": 463.3,
-        "price_change_5m": 7.47,
-        "price_change_1h": -26.33,
-        "price_change_24h": -26.23,
-        "txns_h1_buys": 194,
-        "txns_h1_sells": 139,
-        "created_ts": 1785546895000,
-        "pair_created_at": 1785546895000,
-        "url": "https://dexscreener.com/solana/j3kkzfylq7myjfvaykggcdtxbpyrfhpcynexpcu3eygs",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ISIS in HELLOYESTHISISDOG",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:07.446325+00:00"
-    },
-    {
       "id": "5cb6644aa742",
       "fingerprint": "5cb6644aa742",
       "narrative_summary": "Spider-Man: Brand New Day busca hacer historia en la taquilla con su apertura espectacular",
@@ -8307,14 +8140,15 @@
       "started_at": "2026-08-05T07:29:20.776530+00:00",
       "expires_at": "2026-08-07T07:29:20.776530+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russian ballistic missile strike on Kyiv kills at least 17",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-07T08:20:36.643381+00:00"
     },
     {
       "id": "3ef552e1c26e",
@@ -10784,7 +10618,142 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "eac53bdfdbb8",
+      "fingerprint": "eac53bdfdbb8",
+      "narrative_summary": "El congresista republicano anti-musulmán Andy Ogles pierde la primaria en Tennessee.",
+      "why_memeable": "La narrativa es memeable porque involucra un evento político controvertido con un personaje polarizador.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "OGLES",
+        "ANTIMUSLIM",
+        "TRUMPFAILS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ogles",
+        "anti-musulmán",
+        "primaria",
+        "Tennessee",
+        "Trump"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T08:21:51.525835+00:00",
+      "expires_at": "2026-08-09T08:21:51.525835+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "22fdcc1fc187",
+      "fingerprint": "22fdcc1fc187",
+      "narrative_summary": "Typhoon Dolphin se acerca a Japón, causando evacuaciones y cancelación de 500 vuelos.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica (Typhoon Dolphin) que puede ser capturada en una frase corta.",
+      "category": "clima",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOLPHIN",
+        "TYPHOONDOLPHIN",
+        "JAPÓNEVACUA"
+      ],
+      "key_terms_for_dex_search": [
+        "Typhoon Dolphin",
+        "Japón",
+        "evacuaciones",
+        "vuelos"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T08:22:25.277809+00:00",
+      "expires_at": "2026-08-09T08:22:25.277809+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Japan orders evacuations as Typhoon Dolphin approaches, cancels 500 flights - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "73fe67cd824a",
+      "fingerprint": "73fe67cd824a",
+      "narrative_summary": "Elon Musk compara una banana con la escala de la Terafab, diciendo que la banana es una fluctuación cuántica.",
+      "why_memeable": "La frase es breve y fácil de recordar, y la comparación entre una banana y una fluctuación cuántica es absurda y atractiva.",
+      "category": "ciencia-ficción",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "BANANASCALE",
+        "TERAFAB",
+        "QUANTUMFLUCTUATION"
+      ],
+      "key_terms_for_dex_search": [
+        "banana",
+        "terafab",
+        "quantum",
+        "fluctuation"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 2,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-07T08:23:35.756140+00:00",
+      "expires_at": "2026-08-09T08:23:35.756140+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T06:54:44.901503+00:00"
+  "last_updated": "2026-08-07T08:23:35.756140+00:00"
 }
