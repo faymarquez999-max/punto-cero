@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T17:05:58.131380+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b2cf749f05c5",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
-        "candidate_tickers": [
-          "TATALEAKS",
-          "IPHONESECRETS",
-          "APPLETATA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T17:07:23.729951+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f2f59bb7fa3a",
-        "score": 83,
-        "category": "Celebridad y drama",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSK",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T18:24:46.274526+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "Neuralink has solved through-dura electrode implantation!",
-        "candidate_tickers": [
-          "NEURALINK",
-          "NEUROTECH",
-          "BRAINCHIP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T18:25:18.053074+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "TRUMP",
-          "MUSK",
-          "IRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T18:26:33.373190+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a70d3a1e33a9",
-        "score": 79,
-        "category": "Política",
-        "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
-        "candidate_tickers": [
-          "IRANFUNERAL",
-          "KHAMENEICOFFIN",
-          "IRANPEACETALKS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-03T18:26:58.404876+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28253,6 +28180,78 @@
           "TERAFAB",
           "PENTÁGONO",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T12:33:25.620631+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0ad5f4a4301d",
+        "score": 88,
+        "category": "Tecnología",
+        "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+        "candidate_tickers": [
+          "MOONSHOT",
+          "AI_ESCAPE",
+          "AI_MODEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T12:33:48.241722+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "835231048113",
+        "score": 83,
+        "category": "Tecnología y Política",
+        "title": "Terafab will be 50 times the size of the Pentagon when complete",
+        "candidate_tickers": [
+          "TERAFAB",
+          "PENTÁGONO",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T12:34:58.621042+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e84dd7943b16",
+        "score": 85,
+        "category": "ciencia, tecnología y absurdo",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANAFORSCALE",
+          "TERAFABBANANA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T12:35:56.446342+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "amistad viral",
+        "title": "South Florida Wendy's worker's lunch break sparks viral friendship - WPEC",
+        "candidate_tickers": [
+          "WendysFriendship",
+          "LunchBreakLove",
+          "FloridaViral"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T12:36:44.821745+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "Política",
+        "title": "Martínez arremete contra el ministro Óscar Puente por el cambio del nombre del Aeropuerto de Palma de Mallorca - Ultima Hora",
+        "candidate_tickers": [
+          "MartinezPuente",
+          "AeropuertoDePalma",
+          "PuenteAtacado"
         ]
       }
     }
