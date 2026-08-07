@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-05T14:22:38.746100+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Accidente y protesta en la playa de Es Trenc",
-        "title": "Muere un hombre tras ahogarse en la playa de Es Trenc - Ultima Hora",
-        "candidate_tickers": [
-          "EsTrenc",
-          "AhogadoEnLaPlaya",
-          "ProtestaEnLaPlaya"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T14:23:37.981072+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política y derechos humanos",
-        "title": "El hermetismo oficial rodea la muerte de deportados de EE.UU. tras los terremotos en Venezuela - RTVE.es",
-        "candidate_tickers": [
-          "VenezuelaDeportados",
-          "HermetismoOficial",
-          "EEUUDeportados"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T14:23:58.099325+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Pokémon",
-        "title": "Pokémon Winds and Waves Leak Reveals First Details on 7 New Gen 10 Pokémon - VICE",
-        "candidate_tickers": [
-          "Pokémon10",
-          "Gen10Leak",
-          "WindsAndWaves"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T14:24:46.964049+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "Accidentes de tráfico",
-        "title": "Última Hora: Aparatoso accidente de un vehículo en la GC-1, a la altura de La Pardilla (Telde) - Telde Actualidad",
-        "candidate_tickers": [
-          "TeldeAccidente",
-          "GC1Crash",
-          "AparatosoAccidente"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T14:25:10.719591+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "378434c90869",
-        "score": 83,
-        "category": "Política/Injusticia",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEKEK",
-          "MARINESKEKEK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-05T15:52:53.954906+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28211,6 +28141,78 @@
           "XBUILD",
           "GROK BUILD",
           "XAIBUILD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T23:44:00.956947+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "muerte",
+        "title": "Madonna and Blur producer William Orbit dies aged 69",
+        "candidate_tickers": [
+          "WilliamOrbit",
+          "Madonna",
+          "Blur"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T23:44:33.443467+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9707c0a2d2d4",
+        "score": 89,
+        "category": "tiroteo masivo",
+        "title": "Idaho police release chilling new video of In-N-Out mass shooting - NBC News",
+        "candidate_tickers": [
+          "INOUT",
+          "IDAHOTIROTEO",
+          "MASSTIROTEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T23:45:47.930529+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ce44e868928f",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Try Grok Build X.ai/build",
+        "candidate_tickers": [
+          "GROK",
+          "XAIBUILD",
+          "TRYGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T23:46:01.136703+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c29a46d5e172",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONTRUE",
+          "MUSKT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T23:46:14.105708+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y redes sociales",
+        "title": "Inevitable",
+        "candidate_tickers": [
+          "INEVITABLE",
+          "ELON"
         ]
       }
     }
