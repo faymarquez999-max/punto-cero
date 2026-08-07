@@ -1,266 +1,6 @@
 {
   "watches": [
     {
-      "id": "f4d69cad4c26",
-      "fingerprint": "f4d69cad4c26",
-      "narrative_summary": "At least cuatro personas, incluyendo niños, mueren en ataques israelíes en la Franja de Gaza.",
-      "why_memeable": "La narrativa tiene un alto nivel de emocionalidad y es fácil de capturar en una frase corta.",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GAZA",
-        "ATAQUE",
-        "NIÑOS",
-        "ISRAEL"
-      ],
-      "key_terms_for_dex_search": [
-        "Gaza",
-        "ataque",
-        "niños",
-        "Israel"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-30T12:03:30.930132+00:00",
-      "expires_at": "2026-08-01T12:03:30.930132+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T14:03:17.275942+00:00"
-    },
-    {
-      "id": "94ee0d23156c",
-      "fingerprint": "94ee0d23156c",
-      "narrative_summary": "Incendios forestales en Europa desplazan a cientos de miles de personas y amenazan con extenderse",
-      "why_memeable": "La narrativa tiene un núcleo claro (incendios forestales en Europa) y es fácil de compartir (grupos de personas desplazadas, imágenes de incendios)",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EUROPE_WILDFIRES",
-        "EUROPE_INFERNO",
-        "EUROPEAN_WILDFIRES"
-      ],
-      "key_terms_for_dex_search": [
-        "incendios forestales",
-        "Europa",
-        "desplazados",
-        "fuego"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T12:04:10.800945+00:00",
-      "expires_at": "2026-08-02T12:04:10.800945+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "France, Spain and Greece battle wildfires as Europe swelters - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-02T14:00:31.052097+00:00"
-    },
-    {
-      "id": "ba0ebc113702",
-      "fingerprint": "ba0ebc113702",
-      "narrative_summary": "Desastre natural en Japón: sobrevivientes luchan contra la sed y el calor mientras el número de muertos sube a 25.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de desastre natural, lo que la hace fácil de capturar en una frase o imagen.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JAPÓNQUAKE",
-        "SOBREVIVIENTES",
-        "DESASTRENATURAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Japón",
-        "desastre natural",
-        "sobrevivientes",
-        "muertos"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-30T12:05:22.897946+00:00",
-      "expires_at": "2026-08-01T12:05:22.897946+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Japan quake survivors battle thirst, heat as death toll rises to 25 - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T14:03:17.275944+00:00"
-    },
-    {
-      "id": "8a8d6269d6fe",
-      "fingerprint": "8a8d6269d6fe",
-      "narrative_summary": "Fauci invoca el Quinto Aumento en un comité de Senado contenido",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácilmente compartible, y se centra en un evento controvertido y polémico",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FAUCI5",
-        "FAUCIINVOCA",
-        "QUINTOAUMENTO"
-      ],
-      "key_terms_for_dex_search": [
-        "Fauci",
-        "Quinto Aumento",
-        "Senado",
-        "comité"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T12:07:50.181883+00:00",
-      "expires_at": "2026-08-01T12:07:50.181883+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T14:03:17.275947+00:00"
-    },
-    {
-      "id": "dd98558cbef2",
-      "fingerprint": "dd98558cbef2",
-      "narrative_summary": "Más de 1500 migrantes cruzan la frontera hacia Ceuta, España, abrumando a la policía y la Guardia Civil.",
-      "why_memeable": "La cantidad masiva de migrantes y la respuesta de las autoridades crean un escenario con alto potencial de viralidad y resonancia cultural.",
-      "category": "noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CEUTA",
-        "MIGRA",
-        "FRONTERA",
-        "ESPANIA",
-        "CRISIS"
-      ],
-      "key_terms_for_dex_search": [
-        "Ceuta",
-        "migrantes",
-        "España",
-        "frontera",
-        "crisis migratoria"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-30T16:12:42.189680+00:00",
-      "expires_at": "2026-08-02T16:12:42.189680+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CTO",
-        "name": "Ceuta Take Over",
-        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26689.0,
-        "liquidity_usd": 14352.14,
-        "price_usd": 2.777e-05,
-        "volume_h24": 201219.24,
-        "volume_h1": 3001.82,
-        "volume_m5": 141.58,
-        "price_change_5m": -0.16,
-        "price_change_1h": -3.95,
-        "price_change_24h": -73.67,
-        "txns_h1_buys": 31,
-        "txns_h1_sells": 38,
-        "created_ts": 1785418693000,
-        "pair_created_at": 1785418693000,
-        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Migrants cross border into Spain's Ceuta, overwhelming police, Guardia Civil says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:11.144621+00:00"
-    },
-    {
       "id": "381912adccff",
       "fingerprint": "381912adccff",
       "narrative_summary": "Egipto confirma que un dron causó un incendio en dos buques de gas en el puerto de Damietta",
@@ -10751,7 +10491,237 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "618d0bda1cab",
+      "fingerprint": "618d0bda1cab",
+      "narrative_summary": "Elon Musk y Donald Trump están involucrados en una disputa pública sobre el programa nuclear de Irán y la ciudadanía por nacimiento",
+      "why_memeable": "La combinación de dos figuras públicas prominentes y la naturaleza controvertida del tema",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSKTRUMP",
+        "TRUMPFEUD",
+        "MUSKVSTHEDON",
+        "IRANNUCLEAR",
+        "BIRTHERGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Donald Trump",
+        "Irán",
+        "nuclear",
+        "ciudadanía por nacimiento"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T11:35:24.537268+00:00",
+      "expires_at": "2026-08-10T11:35:24.537268+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Elon Musk is literally turning science fiction into reality",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6fcbdd6b7421",
+      "fingerprint": "6fcbdd6b7421",
+      "narrative_summary": "Un congresista republicano respaldado por Trump pierde la primaria en Tennessee debido a la ayuda de donantes solares.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de David vs Goliath y una frase memeable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SOLARVS",
+        "TRUMPLOSES",
+        "OGLESOUT"
+      ],
+      "key_terms_for_dex_search": [
+        "solar",
+        "donantes",
+        "Trump",
+        "primaria",
+        "Tennessee"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T11:37:16.330639+00:00",
+      "expires_at": "2026-08-09T11:37:16.330639+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "How solar donors helped take down a Trump-backed Republican - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "dc1a726c5a1a",
+      "fingerprint": "dc1a726c5a1a",
+      "narrative_summary": "Un caso de abandono de animales en California, con 18 perros encerrados en un coche sin agua.",
+      "why_memeable": "El caso de abandono de animales es un tema emotivo y absurdo, y la imagen de 18 perros encerrados en un coche sin agua es icónica.",
+      "category": "abandono de animales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "ANIMALABANDONO",
+        "PERROSENCERRADOS",
+        "ABANDONOANIMALICO"
+      ],
+      "key_terms_for_dex_search": [
+        "abandono de animales",
+        "perros encerrados",
+        "California"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T11:38:39.835729+00:00",
+      "expires_at": "2026-08-10T11:38:39.835729+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom - The New York Times",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d91231dc5fe8",
+      "fingerprint": "d91231dc5fe8",
+      "narrative_summary": "El modelo de AI de la startup china Moonshot se escapa del entorno de prueba, según investigadores.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar: un modelo de AI se escapa del entorno de prueba.",
+      "category": "tecnología",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "MOONSHOT",
+        "AI",
+        "ESCAPADO",
+        "ENTORNO DE PRUEBA"
+      ],
+      "key_terms_for_dex_search": [
+        "Moonshot",
+        "AI",
+        "escapado",
+        "entorno de prueba"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T11:39:22.904993+00:00",
+      "expires_at": "2026-08-10T11:39:22.904993+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "80cadf781a90",
+      "fingerprint": "80cadf781a90",
+      "narrative_summary": "Elon Musk anuncia que Terafab será 50 veces más grande que el Pentágono cuando esté completo.",
+      "why_memeable": "La narrativa es memeable porque es fácil de capturar en una frase corta y tiene un impacto emocional.",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TERAFAB",
+        "PENTÁGONO",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Terafab",
+        "Pentágono",
+        "ElonMusk",
+        "Tecnología",
+        "Negocios"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T11:39:46.283725+00:00",
+      "expires_at": "2026-08-09T11:39:46.283725+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab will be 50 times the size of the Pentagon when complete",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T10:42:43.789302+00:00"
+  "last_updated": "2026-08-07T11:39:46.283725+00:00"
 }
