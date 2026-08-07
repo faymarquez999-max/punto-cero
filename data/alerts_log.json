@@ -1,124 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-02T10:52:46.478334+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "SONDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T10:53:14.505253+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "opiniones de celebridades sobre literatura",
-        "title": "Orwell was a genius",
-        "candidate_tickers": [
-          "ORWELL",
-          "GENIUS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T13:07:06.892627+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f5312a1be983",
-        "score": 78,
-        "category": "Celebridades y deportes",
-        "title": "Knicks Starting 5 Score an Invite to Taylor Swift & Travis Kelce's Wedding",
-        "candidate_tickers": [
-          "SWIFTKELCEWEDDING",
-          "KNICKSBODA",
-          "TAYLORTRAVISWEDDING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T15:38:05.716159+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5858180c62a7",
-        "score": 93,
-        "category": "política/justicia social",
-        "title": "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
-        "candidate_tickers": [
-          "STARMER",
-          "ADOPCIONESFORZADAS",
-          "UK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T15:38:51.654637+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ddb047c38225",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Celtics' bizarre Jaylen Brown trade reasons revealed - BasketNews.com",
-        "candidate_tickers": [
-          "JAYLENBROWN",
-          "CELTICS",
-          "76ERS",
-          "PAULGEORGE",
-          "NBA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T15:39:30.253900+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "41354d13d6ff",
-        "score": 80,
-        "category": "religión",
-        "title": "Members of rebel Catholic group in schism, excommunicated, Vatican says - Reuters",
-        "candidate_tickers": [
-          "VATICANOEXCOMULGA",
-          "GRUPOCATOLICOREBELDE",
-          "ORDENACIONESNOAPROBADAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T15:40:03.847700+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a4d7c9d400d8",
-        "score": 88,
-        "category": "noticias de guerra",
-        "title": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector - AP News",
-        "candidate_tickers": [
-          "KIEV",
-          "KYIV",
-          "UKRAINE",
-          "RUSSIA",
-          "WAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T15:40:29.702392+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP",
-          "POLL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-02T17:25:53.004034+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28261,6 +28143,116 @@
           "ARMA",
           "FILTRADOR"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:35:12.475678+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d050a258f151",
+        "score": 80,
+        "category": "Política y Tecnología",
+        "title": "THE U.S.-CHINA CLASH HIGHLIGHTS GROWING GEOPOLITICAL COMPETITION OVER TECHNOLOGY, INFRASTRUCTURE, AND STRATEGIC INFLUENCE IN THE REGION.",
+        "candidate_tickers": [
+          "MUSKTRUMP",
+          "GOLDRUSH",
+          "TWITLAW",
+          "FORTKNOX",
+          "TRUMPVSELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:35:25.468339+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b36e2332facc",
+        "score": 80,
+        "category": "Espacio y Tecnología",
+        "title": "Elon Musk: “Path to Petawatts is Mass drivers on Moon”",
+        "candidate_tickers": [
+          "LUNAR",
+          "MOONCAT",
+          "SPACEXCRASH",
+          "PETAWATT",
+          "MASSDRIVER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:35:58.788699+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "10560982642d",
+        "score": 80,
+        "category": "Tecnología y sociedad",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "candidate_tickers": [
+          "META567",
+          "KIDSAFE",
+          "SOCMEDFINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:36:15.759829+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "72f861bef343",
+        "score": 80,
+        "category": "Noticias de actualidad",
+        "title": "Viral Royse City pool arrest video under investigation; officer placed on leave, family demands termination - WFAA",
+        "candidate_tickers": [
+          "ROYSE",
+          "POOLGATE",
+          "COPFAIL",
+          "JUSTICE4FAM",
+          "POLICEABUSE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:37:44.775270+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "Senate committee votes to hold Fauci in contempt for refusing to answer COVID questions - AP News",
+        "candidate_tickers": [
+          "FauciDesacato",
+          "SenadoVsFauci",
+          "COVIDContempt"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T00:38:56.166919+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c03c6b57ef0d",
+        "ticker": "Fauci",
+        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+        "mc": 57329.0
+      }
+    },
+    {
+      "ts": "2026-08-07T00:39:05.862743+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d050a258f151",
+        "ticker": "$GOLD",
+        "mint": "5x8G4eFqtUQBiHBcxN7MLyUebTEvKErYg93RLiMnpump",
+        "mc": 13011.0
+      }
+    },
+    {
+      "ts": "2026-08-07T00:39:09.561825+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "b36e2332facc",
+        "ticker": "SPCX",
+        "mint": "E6ifp2mJy8cYQehUGUtFvrXriRKxRuonLmrvTFypump",
+        "mc": 123099.0
       }
     }
   ]
