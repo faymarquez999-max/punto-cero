@@ -1,98 +1,6 @@
 {
   "watches": [
     {
-      "id": "381912adccff",
-      "fingerprint": "381912adccff",
-      "narrative_summary": "Egipto confirma que un dron causó un incendio en dos buques de gas en el puerto de Damietta",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro conflicto (dron vs buques de gas)",
-      "category": "accidente aéreo",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DAMIETTA",
-        "DRONEATTACK"
-      ],
-      "key_terms_for_dex_search": [
-        "dron",
-        "incendio",
-        "buques de gas",
-        "Egipto",
-        "Damietta"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 8,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T16:13:46.940072+00:00",
-      "expires_at": "2026-08-01T16:13:46.940072+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Egypt confirms drone caused fire on two gas vessels at Damietta - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T16:34:26.641658+00:00"
-    },
-    {
-      "id": "cc2741768717",
-      "fingerprint": "cc2741768717",
-      "narrative_summary": "Eddie Howe sale de Newcastle en la víspera de la temporada de la Premier League, con el entrenador de Al-Ahli, Matthias Jaissle, como candidato para reemplazarlo.",
-      "why_memeable": "La narrativa tiene un elemento de sorpresa y cambio repentino, lo que la hace fácilmente compartible y recordable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HOWEEXIT",
-        "NEWCASTLE",
-        "ALAHLI"
-      ],
-      "key_terms_for_dex_search": [
-        "HOWE",
-        "NEWCASTLE",
-        "ALAHLI",
-        "PREMIERLEAGUE"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-30T16:14:15.566340+00:00",
-      "expires_at": "2026-08-01T16:14:15.566340+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-01T16:34:26.641672+00:00"
-    },
-    {
       "id": "e7c0fe373800",
       "fingerprint": "e7c0fe373800",
       "narrative_summary": "Anthropic afirma que su IA Claude hackeó tres organizaciones durante pruebas cibernéticas.",
@@ -6572,7 +6480,7 @@
       "started_at": "2026-08-04T13:29:57.296298+00:00",
       "expires_at": "2026-08-07T13:29:57.296298+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "JUST IN: 🇺🇸🇮🇷 President Trump says Exxon and Chevron made \"too much money\" off high oil prices due to Iran war.",
       "cluster_sources": [
@@ -6580,7 +6488,8 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-07T13:56:13.030661+00:00"
     },
     {
       "id": "2597eeb7c1c0",
@@ -7925,14 +7834,15 @@
       "started_at": "2026-08-05T12:22:11.560278+00:00",
       "expires_at": "2026-08-07T12:22:11.560278+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "How a social media campaign triggered huge migrant surge on Ceuta",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-07T13:56:13.030679+00:00"
     },
     {
       "id": "62224e9f4104",
@@ -7971,14 +7881,15 @@
       "started_at": "2026-08-05T12:24:25.337354+00:00",
       "expires_at": "2026-08-07T12:24:25.337354+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-07T13:56:13.030682+00:00"
     },
     {
       "id": "6382584859dc",
@@ -10721,7 +10632,98 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "fb17c72476a1",
+      "fingerprint": "fb17c72476a1",
+      "narrative_summary": "Saudi Arabia, Turkey y Pakistán se unen para defenderse mutuamente en medio de la inestabilidad en Medio Oriente",
+      "why_memeable": "La unión de tres países importantes en medio de la inestabilidad crea un escenario interesante y fácil de compartir",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SAUDI",
+        "TURKEY",
+        "PAKISTAN",
+        "MEDIOORIENTE"
+      ],
+      "key_terms_for_dex_search": [
+        "SAUDI",
+        "TURKEY",
+        "PAKISTAN",
+        "MEDIOORIENTE",
+        "INESTABILIDAD"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T13:57:24.452847+00:00",
+      "expires_at": "2026-08-10T13:57:24.452847+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4f5525025662",
+      "fingerprint": "4f5525025662",
+      "narrative_summary": "Elon Musk compara una banana con una fluctuación cuántica en relación con la Terafab.",
+      "why_memeable": "La comparación absurda y la falta de contexto hacen que sea fácilmente compartible y recordable.",
+      "category": "ciencia/física",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "BANANA",
+        "TERAFAB",
+        "QUANTUMFLUCTUATION"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "Banana",
+        "Terafab",
+        "QuantumFluctuation"
+      ],
+      "score": 87,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 2,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-07T13:58:23.008768+00:00",
+      "expires_at": "2026-08-09T13:58:23.008768+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T11:39:46.283725+00:00"
+  "last_updated": "2026-08-07T13:58:23.008768+00:00"
 }

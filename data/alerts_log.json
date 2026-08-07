@@ -1,83 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T18:26:58.404876+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d471771d091f",
-        "score": 73,
-        "category": "Tecnología y datos",
-        "title": "India investigating Tata data leak that exposed Apple iPhone secrets - Reuters",
-        "candidate_tickers": [
-          "TATALEAKS",
-          "APPLEIPHONESECRECY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T20:02:27.466416+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "ciencia",
-        "title": "Neuralink has solved through-dura electrode implantation!",
-        "candidate_tickers": [
-          "Neuralink",
-          "Electrodos",
-          "Duramadre"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T21:23:49.721916+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSKTRUTH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T21:26:35.746033+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f8106dd77824",
-        "ticker": "Memecoin",
-        "mint": "HiPAmVsMhx7WD8NcyWgtoxfobVgnSALN3ysc4bntxoB8",
-        "mc": 13565.0
-      }
-    },
-    {
-      "ts": "2026-07-03T21:26:44.171060+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b2cf749f05c5",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 97873.0
-      }
-    },
-    {
-      "ts": "2026-07-03T22:39:28.709174+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b15b179bcaa0",
-        "score": 88,
-        "category": "Tecnología",
-        "title": "Neuralink has solved through-dura electrode implantation!",
-        "candidate_tickers": [
-          "NEURALINK",
-          "IMPLANTES DE ELECTRODOS",
-          "TECNOLOGÍA DE PUNTA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-03T22:40:08.160219+00:00",
       "kind": "shadow",
       "payload": {
@@ -28253,6 +28176,83 @@
           "AeropuertoDePalma",
           "PuenteAtacado"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-07T13:56:51.093516+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "economía",
+        "title": "*US JULY NONFARM PAYROLLS FALL 23K M/M; EST. +80K",
+        "candidate_tickers": [
+          "USPAYROLLS",
+          "EMPLOYSURPRISE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T13:57:24.812879+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fb17c72476a1",
+        "score": 78,
+        "category": "política internacional",
+        "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+        "candidate_tickers": [
+          "SAUDI",
+          "TURKEY",
+          "PAKISTAN",
+          "MEDIOORIENTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T13:57:41.595989+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "tech",
+        "title": "It will be awesome 😎",
+        "candidate_tickers": [
+          "AWESOME",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T13:58:23.435882+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f5525025662",
+        "score": 87,
+        "category": "ciencia/física",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANA",
+          "TERAFAB",
+          "QUANTUMFLUCTUATION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T14:01:02.897761+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "db8c18211c35",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 94162.0
+      }
+    },
+    {
+      "ts": "2026-08-07T14:01:39.361801+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a84bbfa0cbf2",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 94162.0
       }
     }
   ]
