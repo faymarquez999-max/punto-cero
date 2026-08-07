@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-04T11:59:10.030176+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "727fc1f9a54b",
-        "score": 84,
-        "category": "Tecnología",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T11:59:31.954765+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad y política",
-        "title": "God Bless America",
-        "candidate_tickers": [
-          "GBA",
-          "GBAMERICA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T13:50:45.200586+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6394f2a02350",
-        "score": 74,
-        "category": "política",
-        "title": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.",
-        "candidate_tickers": [
-          "TRUMP",
-          "TWITTER",
-          "DIA_DE_LA_INDEPENDENCIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T13:54:06.355404+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4b38051a2182",
-        "score": 79,
-        "category": "Política",
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "candidate_tickers": [
-          "PETROATTACK",
-          "UKRAINEMEME",
-          "SANPETERSBURGO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-04T15:15:56.544870+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28247,6 +28189,64 @@
         "ticker": "IRR",
         "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
         "mc": 92916.0
+      }
+    },
+    {
+      "ts": "2026-08-07T18:06:39.113138+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f821cfdf7ea7",
+        "score": 70,
+        "category": "política y controversia",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "MUSK",
+          "TRUMP",
+          "EPSTEIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T18:07:08.229618+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "095b34cdf889",
+        "score": 80,
+        "category": "Noticias de violencia",
+        "title": "5'9 manlet here. I dont understand how tall chad men can be unsuccessful. When I see one working retail I think \"man u h",
+        "candidate_tickers": [
+          "THAISCHOOLSHOOTER",
+          "TAILANDIAMASACRE",
+          "JOVENASESINO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T18:08:41.912467+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1a69fe323e6",
+        "score": 88,
+        "category": "Criptomonedas y memes",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "PUMP.FUN",
+          "SOLANA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T18:10:06.393790+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5e0db835611e",
+        "score": 80,
+        "category": "política",
+        "title": "US appeals court blocks Trump’s $400 million White House ballroom project - Reuters",
+        "candidate_tickers": [
+          "TRUMP_BALLROOM"
+        ]
       }
     }
   ]
