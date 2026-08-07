@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-02T17:25:53.004034+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "08f60e387ac9",
-        "score": 78,
-        "category": "Religión",
-        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its members",
-        "candidate_tickers": [
-          "PAPALEO",
-          "SOCIEDADDESANPÍOX",
-          "EXCOMUNIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T17:27:41.999509+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Criptomonedas",
-        "title": "Why the Pentagon is in a hurry to spend $152 billion - Breaking Defense",
-        "candidate_tickers": [
-          "BTC",
-          "BCH",
-          "PENTAGON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T17:28:23.923884+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a8e19ee1a2d",
-        "score": 88,
-        "category": "Muerte de un famoso",
-        "title": "Victor Willis, who co-founded the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - AP News",
-        "candidate_tickers": [
-          "VILLAGEPEOPLE",
-          "VICTORWILLIS",
-          "MUERTEFAMOSO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T19:02:39.709905+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "entretenimiento",
-        "title": "Ashley Tisdale Developing ‘Toxic Moms’ Comedy Series at Netflix Following Viral Essay",
-        "candidate_tickers": [
-          "ToxicMoms",
-          "AshleyTisdale",
-          "MadresTóxicas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T19:03:02.561586+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política internacional",
-        "title": "EXCLUSIVE: Canada aims to announce 10 countries backing global defence bank at NATO summit - Reuters",
-        "candidate_tickers": [
-          "CANADA_DEFENSE",
-          "NATO_BANK",
-          "GLOBAL_DEFENSE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-02T19:03:28.647923+00:00",
       "kind": "shadow",
       "payload": {
@@ -28253,6 +28181,81 @@
         "ticker": "SPCX",
         "mint": "E6ifp2mJy8cYQehUGUtFvrXriRKxRuonLmrvTFypump",
         "mc": 123099.0
+      }
+    },
+    {
+      "ts": "2026-08-07T03:42:46.886472+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "af6b26d646fe",
+        "score": 74,
+        "category": "Tecnología y negocios",
+        "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
+        "candidate_tickers": [
+          "ALIBABACOBRA",
+          "AIMODELOCOBRADOR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T03:42:48.627442+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9bc7b0f321ab",
+        "score": 80,
+        "category": "crimen y justicia",
+        "title": "How a diary entry solved the murder of a missing man",
+        "candidate_tickers": [
+          "DIARY",
+          "JUSTICE6",
+          "MYSTERYMAN",
+          "CASECLOSED",
+          "DETECTIVEWORK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T03:43:58.548070+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9c6033461753",
+        "score": 82,
+        "category": "salud",
+        "title": "Ebola outbreak spreading at 'unprecedented speed', says WHO boss - SBS",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "WHO",
+          "OUTBREAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T03:44:40.286567+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "noticias",
+        "title": "Police search for suspect after viral road rage video in Greensboro - wfmynews2.com",
+        "candidate_tickers": [
+          "GreensboroRoadRage",
+          "SospechosoDeTráfico",
+          "PeleaDeTráfico"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T03:46:33.106071+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Criptomonedas",
+        "title": "Bitcoin BIP110 vs Core30+",
+        "candidate_tickers": [
+          "BIP110",
+          "Core30",
+          "BTC"
+        ]
       }
     }
   ]
