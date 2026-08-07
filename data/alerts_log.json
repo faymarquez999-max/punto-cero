@@ -1,125 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T05:06:52.235094+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "Noticias y eventos",
-        "title": "A California farmer gives away free nectarines amid a dispute over exclusive rights, in photos - WRAL",
-        "candidate_tickers": [
-          "Nectarina",
-          "Derechos exclusivos",
-          "Agricultor de California"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T08:22:59.378739+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "26bcaf0b6517",
-        "score": 88,
-        "category": "política, eventos",
-        "title": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "JAMENEI",
-          "FUNERAL_IRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T08:24:16.994524+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "047c72d419ea",
-        "score": 70,
-        "category": "salud",
-        "title": "More than 400 dead in #DR_Congo's spreading Ebola outbreak An #Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of #K",
-        "candidate_tickers": [
-          "EBOLACONGO",
-          "EBOLAOUTBREAK",
-          "EBOLARD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T08:25:03.023890+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5e8a1473f731",
-        "score": 79,
-        "category": "noticias",
-        "title": "Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date - ABC7 New York",
-        "candidate_tickers": [
-          "BEERKUS",
-          "EMPIRESTATECLIMBERS",
-          "MATRIMONIOENELAIRE",
-          "ESCALADORESDELAFAMA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T08:27:10.985778+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridades",
-        "title": "Live updates: Taylor Swift and Travis Kelce’s multi-day wedding celebration is underway - CNN",
-        "candidate_tickers": [
-          "TaylorSwiftWedding",
-          "TravisKelceBoda",
-          "BlakeLivelyRuptura"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T08:27:44.850584+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "25ad31f484f1",
-        "score": 79,
-        "category": "Política y noticias",
-        "title": "BREAKING",
-        "candidate_tickers": [
-          "HEGSETH",
-          "DRONES",
-          "AUTONOMÍA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T11:16:11.859775+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "China Quant Funds Draw Billions as AI Trounces Human Traders - Bloomberg.com",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "MUSKvsTRUMP",
-          "FRAUDELECTORAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-03T11:16:48.801793+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "65b656bd74d7",
-        "score": 91,
-        "category": "Noticias internacionales",
-        "title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
-        "candidate_tickers": [
-          "TAIWANNIGHTMARE",
-          "BLOCKADETAIWAN",
-          "TERREMOTOTAIWAN",
-          "INVASIÓNTAIWÁN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-03T11:17:20.903416+00:00",
       "kind": "shadow",
       "payload": {
@@ -28252,6 +28133,129 @@
           "BANANASCALE",
           "TERAFAB",
           "QUANTUMFLUCTUATION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:36:15.245293+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "966a7b966372",
+        "score": 80,
+        "category": "Política y conspiración",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TRUMPFEAR",
+          "MUSKTRUTH",
+          "FORTKNOXGATE",
+          "BIRTHRIGHT",
+          "GOLDGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:36:28.680404+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6ddd7ac9c4cb",
+        "score": 80,
+        "category": "Deportes",
+        "title": "England footballer Toney charged with assault in Soho",
+        "candidate_tickers": [
+          "TONEY",
+          "SOHO",
+          "AGRESIÓN",
+          "FÚTBOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:36:56.094014+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c2f828a59533",
+        "score": 88,
+        "category": "Tecnología y Sociedad",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "candidate_tickers": [
+          "METAFINED",
+          "SAFETYGATE",
+          "CHILDSAFETYCASE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:37:39.140861+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "tech",
+        "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
+        "candidate_tickers": [
+          "ALIBABA",
+          "AI_MODEL",
+          "CARGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:38:31.919053+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "33c582fffe56",
+        "score": 89,
+        "category": "noticias de crímenes",
+        "title": "At Least Six Reported Dead in School Shooting in Thailand - The New York Times",
+        "candidate_tickers": [
+          "TAILANDIASHOOTING",
+          "ESCUELATIROTEADA",
+          "MUERTOSENTAILANDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:39:14.510709+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "274d3a7f6936",
+        "score": 80,
+        "category": "Noticias",
+        "title": "Earthquake strikes as doctors perform surgery",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "CIRUGIA",
+          "MEDICOS",
+          "PATIENTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:40:15.628995+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "690ba36f4617",
+        "score": 82,
+        "category": "política",
+        "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "candidate_tickers": [
+          "OGLES",
+          "ANTIMUSLIMCONGRESSMAN",
+          "TRUMPENDORSEMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T09:41:00.071481+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2c0e2fab1084",
+        "score": 82,
+        "category": "conflicto bélico",
+        "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks - theguardian.com",
+        "candidate_tickers": [
+          "HOUTHIS",
+          "ARABIA SAUDITA",
+          "YEMEN"
         ]
       }
     }
