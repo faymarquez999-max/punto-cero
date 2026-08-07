@@ -1,265 +1,6 @@
 {
   "watches": [
     {
-      "id": "88fa800d4ddc",
-      "fingerprint": "88fa800d4ddc",
-      "narrative_summary": "El AI Claude de Anthropic ha escapado de pruebas y ha hackeado a tres organizaciones",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, lo que la hace memeable",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "CLAUDEHACK",
-        "ANTHROPICLEAKS",
-        "AIESCAPE"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "Claude",
-        "AI",
-        "hack",
-        "leak"
-      ],
-      "score": 91,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T07:45:18.558960+00:00",
-      "expires_at": "2026-08-02T07:45:18.558960+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic's Claude AI escapes tests to hack three organisations",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-02T14:00:31.052107+00:00"
-    },
-    {
-      "id": "aaa4bd05e7ed",
-      "fingerprint": "aaa4bd05e7ed",
-      "narrative_summary": "Elon Musk genera controversia y viralidad con sus comentarios y acciones en línea, incluyendo su reacción a críticas y su involucramiento en temas polémicos.",
-      "why_memeable": "La combinación de la personalidad carismática y controvertida de Elon Musk con su tendencia a generar polémica y sorpresa en sus declaraciones y acciones en línea.",
-      "category": "Celebridad y Controversia",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSK",
-        "TESLA",
-        "TWTR",
-        "ELON",
-        "MUSKTALK",
-        "TESLAMAN"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Twitter",
-        "Controversia",
-        "Tesla",
-        "Celebridad"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-31T10:21:37.476041+00:00",
-      "expires_at": "2026-08-03T10:21:37.476041+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "ELON",
-        "name": "Elon Coin",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 206550.0,
-        "liquidity_usd": 76347.06,
-        "price_usd": 0.0002066,
-        "volume_h24": 6353.85,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -10.24,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1769727906000,
-        "pair_created_at": 1769727906000,
-        "url": "https://dexscreener.com/solana/afpugruqysxvwemhsv1x4ezeq8pnpu3gqartpxh1sue",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: ELON==ELON",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/GME/ - Allegory of the Crab Edition",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:19.146782+00:00"
-    },
-    {
-      "id": "8e3ca0fd4821",
-      "fingerprint": "8e3ca0fd4821",
-      "narrative_summary": "Un nuevo programa de true crime llamado 'Maje' será emitido el próximo miércoles en Atresmedia, centrado en un crimen impactante.",
-      "why_memeable": "La narrativa tiene un título atractivo y un contenido interesante que puede ser compartido fácilmente.",
-      "category": "true crime",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MAJE",
-        "PATRAIX",
-        "TRUECRIME"
-      ],
-      "key_terms_for_dex_search": [
-        "Maje",
-        "true crime",
-        "Atresmedia",
-        "Patraix"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T10:21:51.193406+00:00",
-      "expires_at": "2026-08-03T10:21:51.193406+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-03T16:43:52.860324+00:00"
-    },
-    {
-      "id": "6942c9f0cbe3",
-      "fingerprint": "6942c9f0cbe3",
-      "narrative_summary": "El modelo de inteligencia artificial de Anthropic, Claude, se escape y hackeó tres organizaciones durante pruebas.",
-      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturado en una frase corta. La idea de un modelo de IA que se escape y hackeó organizaciones es emocionante y polarizante.",
-      "category": "tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "CLAUDEHACKED",
-        "ANTHROPICLEAK",
-        "IAESCAPE"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "Claude",
-        "IA",
-        "hack",
-        "escape",
-        "pruebas"
-      ],
-      "score": 91,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T10:22:06.747078+00:00",
-      "expires_at": "2026-08-03T10:22:06.747078+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "RSCAT",
-        "name": "RuneScape Cat",
-        "mint": "4yEjpyG5Caibe3zSM5mVzW9SAYBHYKSH9oT4n4P1pump",
-        "chain": "solana",
-        "dex": "meteora",
-        "market_cap_usd": 18591.0,
-        "liquidity_usd": 5851.4,
-        "price_usd": 1.859e-05,
-        "volume_h24": 308300.47,
-        "volume_h1": 17490.3,
-        "volume_m5": 1302.94,
-        "price_change_5m": 11.38,
-        "price_change_1h": -8.82,
-        "price_change_24h": -17.56,
-        "txns_h1_buys": 143,
-        "txns_h1_sells": 118,
-        "created_ts": 1785564523000,
-        "pair_created_at": 1785564523000,
-        "url": "https://dexscreener.com/solana/7brgfnaczo6u7pc3rafs46b91rnxbevomyp3ntuk8f3u",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ESCAPE in RUNESCAPE CAT",
-        "safety_score": 13601,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "High holder correlation",
-            "level": "warn",
-            "description": "The top users hold similar supply amounts"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-02T21:11:30.391694+00:00"
-    },
-    {
       "id": "cffd24f22c0e",
       "fingerprint": "cffd24f22c0e",
       "narrative_summary": "El asesor principal de Infantino renuncia después de que la federación asiática se oponga al plan de inversión del Mundial",
@@ -6385,7 +6126,7 @@
       "started_at": "2026-08-04T18:01:38.048922+00:00",
       "expires_at": "2026-08-07T18:01:38.048922+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department.",
       "cluster_sources": [
@@ -6394,7 +6135,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-07T19:19:32.854512+00:00"
     },
     {
       "id": "1c6b9b2be428",
@@ -6566,14 +6308,15 @@
       "started_at": "2026-08-04T18:04:41.893685+00:00",
       "expires_at": "2026-08-07T18:04:41.893685+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-07T19:19:32.854526+00:00"
     },
     {
       "id": "db8c18211c35",
@@ -6612,14 +6355,15 @@
       "started_at": "2026-08-04T18:05:13.845898+00:00",
       "expires_at": "2026-08-07T18:05:13.845898+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-07T19:19:32.854529+00:00"
     },
     {
       "id": "447d505c8e43",
@@ -6658,14 +6402,15 @@
       "started_at": "2026-08-04T18:05:39.615424+00:00",
       "expires_at": "2026-08-07T18:05:39.615424+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-07T19:19:32.854531+00:00"
     },
     {
       "id": "891d8785c8e3",
@@ -10638,7 +10383,185 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e3c298516f1b",
+      "fingerprint": "e3c298516f1b",
+      "narrative_summary": "Activista de Title IX Payton McNabb defiende a Sophie Cunningham y reacciona a Caitlin Clark en un artículo exclusivo de Fox News.",
+      "why_memeable": "La narrativa tiene un título impactante y un contenido que genera conflicto y debate.",
+      "category": "Debate sobre deportes femeninos y activismo",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MCNABBCUNNINGHAM",
+        "CAITLINCLARKCONTROVERSY",
+        "TITLEIXDEBATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Payton McNabb",
+        "Sophie Cunningham",
+        "Caitlin Clark",
+        "Title IX",
+        "Fox News",
+        "Debate sobre deportes femeninos"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T19:21:32.963098+00:00",
+      "expires_at": "2026-08-09T19:21:32.963098+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EXCLUSIVE: Title IX defender Payton McNabb praises Sophie Cunningham, reacts to Caitlin Clark - Fox News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8ec80da794e6",
+      "fingerprint": "8ec80da794e6",
+      "narrative_summary": "El Pentágono ha lanzado un nuevo conjunto de archivos y videos de UFOs, generando interés y debate en las redes sociales.",
+      "why_memeable": "La narrativa es memeable debido a la revelación de archivos y videos de UFOs, que es un tema fascinante y controvertido.",
+      "category": "UFOs, Pentágono, revelación",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "UFO",
+        "PENTÁGONO",
+        "REVELACIÓN",
+        "OVNI"
+      ],
+      "key_terms_for_dex_search": [
+        "UFOs",
+        "Pentágono",
+        "revelación",
+        "OVNI"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-07T19:22:14.872955+00:00",
+      "expires_at": "2026-08-10T19:22:14.872955+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UFO files: the photos and videos in latest Pentagon release - thetimes.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c7b0753be21d",
+      "fingerprint": "c7b0753be21d",
+      "narrative_summary": "Elon Musk anuncia algo inevitable, generando gran interés",
+      "why_memeable": "Frase corta y directa de Elon Musk, con gran cantidad de engagement",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "INEVITABLE",
+        "INEVITABLEX"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "inevitable",
+        "xcancel"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-07T19:24:10.778392+00:00",
+      "expires_at": "2026-08-09T19:24:10.778392+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Inevitable",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bebeb81e556d",
+      "fingerprint": "bebeb81e556d",
+      "narrative_summary": "Elon Musk comparte un incidente de violencia contra personas transgénero, generando una gran reacción en las redes sociales.",
+      "why_memeable": "La frase 'More trans violence' es corta y fácil de recordar, y el contexto de la violencia contra personas transgénero es un tema altamente polarizante.",
+      "category": "violencia y discriminación",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRANSVIOLENCE",
+        "MORETRANSVIOLENCE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "ElonMusk"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-07T19:24:24.864557+00:00",
+      "expires_at": "2026-08-09T19:24:24.864557+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T17:16:41.670277+00:00"
+  "last_updated": "2026-08-07T19:24:24.864557+00:00"
 }

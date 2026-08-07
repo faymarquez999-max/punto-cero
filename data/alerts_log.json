@@ -1,101 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-04T15:15:56.544870+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1a90ab7c2349",
-        "score": 89,
-        "category": "Criptomonedas y finanzas",
-        "title": "/XSG/ XRP Schizo General #2550",
-        "candidate_tickers": [
-          "TRUMP",
-          "MEME COINS",
-          "CRYPTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T15:19:59.311131+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad y política",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T16:22:11.966504+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "politica",
-        "title": "God Bless America",
-        "candidate_tickers": [
-          "GBA",
-          "GBAMERICA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T16:23:12.360920+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4e85b2d48f4c",
-        "score": 74,
-        "category": "Tecnología/Política",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T17:43:06.029606+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ea0078f841cb",
-        "ticker": "XAnimals",
-        "mint": "FJtB7uHWLDJA92vv2zdTyGRzMDQ227vivWhEjaeEpump",
-        "mc": 25211.0
-      }
-    },
-    {
-      "ts": "2026-07-04T20:02:29.331310+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Deportes",
-        "title": "Joey Chestnut wins his 18th Nathan’s Hot Dog Eating Contest while wearing the Polymarket chain.",
-        "candidate_tickers": [
-          "JoeyChestnut",
-          "HotDogs",
-          "NathansFamous"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T20:03:48.455510+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "677ba665986e",
-        "score": 89,
-        "category": "política y conflicto",
-        "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port - The Guardian",
-        "candidate_tickers": [
-          "DRONESUCRANIA",
-          "SANPETERSBURGOATAQUE",
-          "PETROLEOUCRANIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-04T20:04:37.685469+00:00",
       "kind": "shadow",
       "payload": {
@@ -28247,6 +28152,101 @@
         "candidate_tickers": [
           "TRUMP_BALLROOM"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:19:47.316121+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Deporte",
+        "title": "True",
+        "candidate_tickers": [
+          "HaynesKing",
+          "Panthers",
+          "NFL",
+          "HOFGame"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:21:33.382836+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e3c298516f1b",
+        "score": 73,
+        "category": "Debate sobre deportes femeninos y activismo",
+        "title": "EXCLUSIVE: Title IX defender Payton McNabb praises Sophie Cunningham, reacts to Caitlin Clark - Fox News",
+        "candidate_tickers": [
+          "MCNABBCUNNINGHAM",
+          "CAITLINCLARKCONTROVERSY",
+          "TITLEIXDEBATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:22:15.252195+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8ec80da794e6",
+        "score": 89,
+        "category": "UFOs, Pentágono, revelación",
+        "title": "UFO files: the photos and videos in latest Pentagon release - thetimes.com",
+        "candidate_tickers": [
+          "UFO",
+          "PENTÁGONO",
+          "REVELACIÓN",
+          "OVNI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:24:11.220729+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c7b0753be21d",
+        "score": 83,
+        "category": "Tecnología",
+        "title": "Inevitable",
+        "candidate_tickers": [
+          "INEVITABLE",
+          "INEVITABLEX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:24:25.220584+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bebeb81e556d",
+        "score": 72,
+        "category": "violencia y discriminación",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "MORETRANSVIOLENCE",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T19:24:39.223690+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a84bbfa0cbf2",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 98242.0
+      }
+    },
+    {
+      "ts": "2026-08-07T19:24:48.101524+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "79ef4868b678",
+        "ticker": "IRR",
+        "mint": "JCNpsBt9TYKBDccqhfUuxHh8xDyYZZzTG919Wbt9pump",
+        "mc": 98242.0
       }
     }
   ]
