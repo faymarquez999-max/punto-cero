@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-03T23:49:24.608805+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "039f37deca9f",
-        "score": 73,
-        "category": "Celebridad",
-        "title": "Taylor Swift and Travis Kelce's wedding day arrives with Madison Square Garden under tight security - CBS News",
-        "candidate_tickers": [
-          "TAYLORSWIFT",
-          "TRAVISKELCE",
-          "BODAREAL",
-          "MADISONSQUAREGARDEN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T01:24:32.954446+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología",
-        "title": "Neuralink has solved through-dura electrode implantation!",
-        "candidate_tickers": [
-          "Neuralink",
-          "Electrodos",
-          "Implantación"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T01:29:28.876238+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bc137961ed75",
-        "ticker": "LojakPaul",
-        "mint": "HS4DWjgJ2h51PCnhh95saqgLQ21Zps6VABK1vi9gpump",
-        "mc": 343884.0
-      }
-    },
-    {
-      "ts": "2026-07-04T05:27:22.935489+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5d432beaa209",
-        "score": 80,
-        "category": "Celebridad",
-        "title": "Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News",
-        "candidate_tickers": [
-          "SWIFTIE",
-          "KELCELOVE",
-          "TAYTRAV",
-          "SWIFTKELCE",
-          "ADAMOFFICIATES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-04T05:27:32.113216+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7578233cd480",
-        "score": 80,
-        "category": "espacio y tecnología",
-        "title": "NASA launches robotic mission to save telescope falling back to Earth",
-        "candidate_tickers": [
-          "RESCUENASA",
-          "TELESCOPEDOWN",
-          "SPACERESQ",
-          "NASAQUEST"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-04T05:30:54.803045+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28252,6 +28179,79 @@
           "AI_roguera",
           "responsabilidad_AI",
           "lawyers_vs_AI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T16:06:53.640536+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Easy to tell who the bad guys are by looking at who has to build a wall to keep people from escaping!",
+        "candidate_tickers": [
+          "Blanche",
+          "Murkowski",
+          "fiscal_general",
+          "confirmación"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T16:07:15.362353+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c21e2c18c396",
+        "score": 88,
+        "category": "música",
+        "title": "GRAMMY-winning producer William Orbit has died at the age of 69.",
+        "candidate_tickers": [
+          "ORBIT69",
+          "RAYOFLIGHT",
+          "WILLIAMORBIT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T16:07:55.706682+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "política",
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "candidate_tickers": [
+          "TrumpBallroom",
+          "BalnearioDeTrump",
+          "SupremaCorte"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T16:09:05.507479+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Noticias de guerra y salud",
+        "title": "Iran war renews concerns about the lasting toll of traumatic brain injuries to US troops - AP News",
+        "candidate_tickers": [
+          "IRAN",
+          "LESIONES CEREBRALES",
+          "GUERRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T16:09:48.571544+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "37f7d47e08e4",
+        "score": 70,
+        "category": "política internacional",
+        "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+        "candidate_tickers": [
+          "SAUDI_DEFENSE",
+          "MIDDLE_EAST_ALLIANCE",
+          "TURKEY_PAKISTAN_SAUDI"
         ]
       }
     }
