@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-02T19:03:28.647923+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Celebridad",
-        "title": "Permit obtained by AP shows schedule for Taylor Swift and Travis Kelce’s wedding - AP News",
-        "candidate_tickers": [
-          "TaylorSwiftWedding",
-          "KelceWedding",
-          "MadisonSquareGarden"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T19:05:11.704646+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Accidente",
-        "title": "VIDEO: Gas leak causing evacuations in Madison Park - KIRO 7 News Seattle",
-        "candidate_tickers": [
-          "MadisonPark",
-          "GasLeak",
-          "Evacuaciones"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T19:06:47.781581+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Religión y política",
-        "title": "Vatican excommunicates schismatic bishops and priests, and warns their followers - AP News",
-        "candidate_tickers": [
-          "VaticanoExcomulga",
-          "SectaCatolica",
-          "Excomunión"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T21:56:35.699689+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "36483c1c77b4",
-        "score": 82,
-        "category": "Animales y ceremonias bizarras",
-        "title": "Giant reptile wears wedding dress for bizarre Mexican ceremony - Gamereactor UK",
-        "candidate_tickers": [
-          "REPTILBODA",
-          "BODAREPTIL",
-          "CEREMONIABIZARRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T21:57:09.177506+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "salud",
-        "title": "‘Large and growing’ parasitic infection outbreak spreading in Michigan, health officials say - Sandhills Express",
-        "candidate_tickers": [
-          "Ciclosporiasis",
-          "Brote de infección parasítica",
-          "Michigan"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-02T21:58:20.848022+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Noticias internacionales",
-        "title": "Blast at Damascus cafe kills nine, wounds 20, Syrian interior ministry says - Reuters",
-        "candidate_tickers": [
-          "DamascusBomb",
-          "CafeMassacre",
-          "SyriaAttack"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-02T23:19:19.830493+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28255,6 +28170,91 @@
           "BIP110",
           "Core30",
           "BTC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:27:17.361721+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "candidate_tickers": [
+          "OglesLose",
+          "AntiMuslimCongressman",
+          "TennesseePrimary"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:27:42.355756+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política internacional",
+        "title": "Live updates: Iran says Hormuz deal is close but US must meet commitments before strait reopens - CNN",
+        "candidate_tickers": [
+          "Hormuz",
+          "Iran",
+          "EE.UU.",
+          "Trump"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:28:27.501900+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Universal Studios Hollywood Guests Warned After Measles Exposure",
+        "candidate_tickers": [
+          "Fauci",
+          "RandPaul",
+          "Desacato"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:29:48.833658+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Starlink",
+        "candidate_tickers": [
+          "STARLINK",
+          "STARLINK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:30:12.110940+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3df19f1cd4cb",
+        "score": 76,
+        "category": "Tecnología / Ciencia Ficción",
+        "title": "Precisely a 420 mile drive to Starbase, as foretold in the prophecy @elonmusk",
+        "candidate_tickers": [
+          "STARBASE420",
+          "PROPHECYDRIVE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-07T05:30:40.573632+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2e2a3531b706",
+        "score": 80,
+        "category": "ciencia, tecnología y absurdo",
+        "title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
+        "candidate_tickers": [
+          "BANANAFORSCALE",
+          "TERAFAB",
+          "QUANTUMFLUCTUATION"
         ]
       }
     }
