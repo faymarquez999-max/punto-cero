@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-05T15:52:53.954906+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c2b10c330a69",
-        "score": 70,
-        "category": "política",
-        "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRAN",
-          "FUNERAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T15:54:03.027068+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1dbb89f46914",
-        "score": 70,
-        "category": "Noticias internacionales",
-        "title": "1 killed in attack on Crimea as Putin and Zelenskyy hold separate Trump calls - AP News",
-        "candidate_tickers": [
-          "CRIMEA",
-          "ZELENSKYY",
-          "PUTIN",
-          "TRUMP",
-          "ATAQUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T17:21:58.124953+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1c9c7b7fc27e",
-        "score": 80,
-        "category": "política",
-        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "candidate_tickers": [
-          "IRAN_LEADER",
-          "AYATOLLAH_KHAMENEI",
-          "IRAN_FUNERAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T17:24:36.742959+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2d0d64536aab",
-        "score": 88,
-        "category": "política, religión",
-        "title": "China releases underground church pastor after months in detention",
-        "candidate_tickers": [
-          "CHINALIBERÓ",
-          "EZRAJIN",
-          "PASTORLIBRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T17:26:41.690930+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Deporte",
-        "title": "Un periódico argentino destaca un «hecho sorprendente» que podría producirse en el partido entre Egipto y Argentina - Goal.com",
-        "candidate_tickers": [
-          "ARGvsEGY",
-          "EgiptoVsArgentina",
-          "PartidoSorprendente"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-05T18:42:19.855590+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28213,6 +28137,80 @@
         "candidate_tickers": [
           "INEVITABLE",
           "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T00:35:15.900356+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b22c61a18515",
+        "score": 73,
+        "category": "medio ambiente",
+        "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
+        "candidate_tickers": [
+          "PUERTORICODROUGHT",
+          "AGUARACIONADA",
+          "SEQUIAPUERTORICO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T00:35:55.699178+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "30881d5314f5",
+        "score": 80,
+        "category": "política internacional",
+        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+        "candidate_tickers": [
+          "RUSSIA_SANCTIONS",
+          "UKRAINE_WAR",
+          "ENERGY_SANCTIONS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T00:38:23.689923+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d2840d349f73",
+        "score": 80,
+        "category": "política",
+        "title": "Spain to establish border controls on travellers from Italy amid migration dispute - Reuters",
+        "candidate_tickers": [
+          "ESPVSITA",
+          "FRONTERASCERRADAS",
+          "MIGRACIÓNCRISIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T00:39:23.757595+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aeae51a0528f",
+        "score": 90,
+        "category": "tiroteo masivo",
+        "title": "Idaho police release chilling new video of In-N-Out mass shooting - NBC News",
+        "candidate_tickers": [
+          "INNOUT",
+          "IDAHOTIROTEO",
+          "MASSHOOLING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T00:39:44.117548+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3f5aeb3a55c3",
+        "score": 80,
+        "category": "Tecnología y redes sociales",
+        "title": "Try Grok Build X.ai/build",
+        "candidate_tickers": [
+          "GROK",
+          "XAIBUILD"
         ]
       }
     }
