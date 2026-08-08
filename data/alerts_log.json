@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T04:39:08.102496+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1cce78006215",
-        "score": 78,
-        "category": "Política",
-        "title": "The Papers: 'Let the people judge' and 'Farage gamble turns to farce'",
-        "candidate_tickers": [
-          "FARAGE",
-          "CLACTON",
-          "BY-ELECTION"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T04:39:49.892617+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28103,6 +28088,20 @@
           "BARCA",
           "RASHFORD",
           "RODRI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T20:08:06.483613+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política y criptomonedas",
+        "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+        "candidate_tickers": [
+          "CryptoBill",
+          "SenadoCripto",
+          "CriptoLey"
         ]
       }
     }
