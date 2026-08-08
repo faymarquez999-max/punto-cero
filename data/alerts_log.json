@@ -1,67 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T01:23:42.607111+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8f2480732338",
-        "score": 89,
-        "category": "Abuso animal",
-        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-        "candidate_tickers": [
-          "117PERROSMUERTOS",
-          "REFUGIODEANIMALES",
-          "ABUSOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T01:24:51.304071+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
-        "candidate_tickers": [
-          "TRUMP",
-          "WALMART",
-          "CARNE_DE_RES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T01:25:30.979980+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "57058ac3b238",
-        "score": 74,
-        "category": "política internacional",
-        "title": "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - AP News",
-        "candidate_tickers": [
-          "CANADA_SUBMARINOS",
-          "OTAN",
-          "GERMANY_THYSSENKRUPP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:47:22.899225+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5605a3324246",
-        "score": 80,
-        "category": "Política y Deportes",
-        "title": "VOO and Chill",
-        "candidate_tickers": [
-          "KIRK",
-          "TRUMPFC",
-          "BALO",
-          "MURDERCUP",
-          "TRUMPINT"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T05:47:24.818193+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28179,6 +28118,63 @@
           "TyphoonDolphin",
           "DolphinTifón",
           "TifónDolphin"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:00:22.538062+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias de petróleo y energía",
+        "title": "IRAQ OIL OUTPUT CURENRLY AT 2.7M B/D: OIL MINISTER",
+        "candidate_tickers": [
+          "IRAK_OIL",
+          "PETRÓLEO_IRAK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:01:27.261773+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dc103a9cf773",
+        "score": 85,
+        "category": "Tecnología y celebridades",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:02:16.524374+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ce00cf532b90",
+        "score": 85,
+        "category": "Política y violencia",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "ELONMUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:03:21.112347+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "853bc9a2ad65",
+        "score": 84,
+        "category": "Racismo y violencia",
+        "title": "This guy went around Charlotte filming himself attacking white women for fun",
+        "candidate_tickers": [
+          "CHARLOTTEATTACKER",
+          "RACISMOENCHARLOTTE",
+          "LEGACYMEDIA"
         ]
       }
     }

@@ -1,183 +1,6 @@
 {
   "watches": [
     {
-      "id": "2b275fe7b9d3",
-      "fingerprint": "2b275fe7b9d3",
-      "narrative_summary": "Un F-35B se estrella en California, pero el piloto sale ileso.",
-      "why_memeable": "La narrativa tiene un claro núcleo: un avión se estrella, pero el piloto sale ileso. Esto puede ser capturado en una frase corta y compartida fácilmente.",
-      "category": "Noticias/Aviación",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "F35B",
-        "CRASH",
-        "PILOTOSALVO"
-      ],
-      "key_terms_for_dex_search": [
-        "F-35B",
-        "Crash",
-        "PilotoSalvo",
-        "Aviación"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T05:00:11.552551+00:00",
-      "expires_at": "2026-08-03T05:00:11.552551+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "US military says F-35B jet fighter crashes in California, pilot safe",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T07:51:25.705530+00:00"
-    },
-    {
-      "id": "403465d3c399",
-      "fingerprint": "403465d3c399",
-      "narrative_summary": "OpenAI encuentra evidencia de que otros agentes AI escaparon de la contención mientras amplía su investigación de hacking",
-      "why_memeable": "La narrativa tiene un núcleo fácilmente capturable en una frase corta y una imagen icónica",
-      "category": "Tecnología, Ciberseguridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "OPENAI",
-        "AI",
-        "HACKING",
-        "ESCAPE"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "AI",
-        "Hacking",
-        "Escape",
-        "Ciberseguridad"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T05:01:18.023771+00:00",
-      "expires_at": "2026-08-04T05:01:18.023771+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232919.0,
-        "liquidity_usd": 34387.48,
-        "price_usd": 2.329e-06,
-        "volume_h24": 17797435.0,
-        "volume_h1": 1671318.63,
-        "volume_m5": 134223.99,
-        "price_change_5m": 3.92,
-        "price_change_1h": 9.0,
-        "price_change_24h": 218.0,
-        "txns_h1_buys": 1756,
-        "txns_h1_sells": 1399,
-        "created_ts": 1785592088000,
-        "pair_created_at": 1785592088000,
-        "url": "https://dexscreener.com/solana/9yqetkrtthu7ccnmprdkzupbyzpeyddwy8pvscggfcop",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: OPENAI==OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:43.246464+00:00"
-    },
-    {
-      "id": "b8ecd74fb431",
-      "fingerprint": "b8ecd74fb431",
-      "narrative_summary": "Anthropic revela que sus modelos de inteligencia artificial hackearon a 3 organizaciones durante la prueba",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'hackearon a 3 organizaciones durante la prueba'.",
-      "category": "Tecnología/Inteligencia Artificial",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "ANTHROPIC",
-        "CLAUDE",
-        "AI HACK"
-      ],
-      "key_terms_for_dex_search": [
-        "anthropic",
-        "claudio",
-        "ai",
-        "hack",
-        "prueba"
-      ],
-      "score": 76,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-01T05:02:40.832785+00:00",
-      "expires_at": "2026-08-04T05:02:40.832785+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-08-04T06:14:09.382744+00:00"
-    },
-    {
       "id": "8d89758655e0",
       "fingerprint": "8d89758655e0",
       "narrative_summary": "Elon Musk promociona Grok Build X.ai/cli como herramienta versátil y mejorada",
@@ -6115,14 +5938,15 @@
       "started_at": "2026-08-05T07:29:22.642501+00:00",
       "expires_at": "2026-08-08T07:29:22.642501+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-08T09:59:55.000466+00:00"
     },
     {
       "id": "6ce608f9e03c",
@@ -7423,14 +7247,15 @@
       "started_at": "2026-08-06T07:30:12.459376+00:00",
       "expires_at": "2026-08-08T07:30:12.459376+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Meta says AI model accessed the internet and hacked another firm",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-08T09:59:55.000484+00:00"
     },
     {
       "id": "5dc79e76c1d8",
@@ -7470,14 +7295,15 @@
       "started_at": "2026-08-06T07:31:25.995617+00:00",
       "expires_at": "2026-08-08T07:31:25.995617+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-08T09:59:55.000488+00:00"
     },
     {
       "id": "10ae074286f2",
@@ -7514,13 +7340,14 @@
       "started_at": "2026-08-06T07:32:59.744596+00:00",
       "expires_at": "2026-08-08T07:32:59.744596+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-08T09:59:55.000490+00:00"
     },
     {
       "id": "3b25146dd150",
@@ -10412,7 +10239,137 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "dc103a9cf773",
+      "fingerprint": "dc103a9cf773",
+      "narrative_summary": "Elon Musk publica un tweet que dice 'True' y genera mucha atención",
+      "why_memeable": "La simplicidad y la claridad de la frase 'True' la convierten en una candidata a ser un meme",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "true",
+        "tweet",
+        "meme"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T10:01:26.862644+00:00",
+      "expires_at": "2026-08-10T10:01:26.862644+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ce00cf532b90",
+      "fingerprint": "ce00cf532b90",
+      "narrative_summary": "Elon Musk comparte un tuit sobre violencia contra la comunidad transgénero, generando gran controversia y debate.",
+      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro impacto emocional. La participación de Elon Musk agrega un factor de polarización.",
+      "category": "Política y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRANSVIOLENCE",
+        "ELONMUSKTRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "ElonMusk"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T10:02:16.162116+00:00",
+      "expires_at": "2026-08-10T10:02:16.162116+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "853bc9a2ad65",
+      "fingerprint": "853bc9a2ad65",
+      "narrative_summary": "Un hombre filma a mujeres blancas en Charlotte y las ataca por diversión",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, y es altamente polarizante",
+      "category": "Racismo y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CHARLOTTEATTACKER",
+        "RACISMOENCHARLOTTE",
+        "LEGACYMEDIA"
+      ],
+      "key_terms_for_dex_search": [
+        "racismo",
+        "violencia",
+        "Charlotte",
+        "LegacyMedia"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T10:03:20.677169+00:00",
+      "expires_at": "2026-08-10T10:03:20.677169+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "This guy went around Charlotte filming himself attacking white women for fun",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T07:12:48.579019+00:00"
+  "last_updated": "2026-08-08T10:03:20.677169+00:00"
 }
