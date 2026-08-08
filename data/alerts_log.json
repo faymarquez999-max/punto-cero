@@ -1,22 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T01:20:34.015847+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4101c47f82bd",
-        "score": 88,
-        "category": "Celebridad",
-        "title": "Bunnie XO Making Out With Reality Star in Jelly Roll's Nashville Bar, on Video - TMZ",
-        "candidate_tickers": [
-          "BUNNIEXO",
-          "REALITYSTAR",
-          "JELLYROLL",
-          "NASHVILLEBAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T04:37:40.097515+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28105,6 +28089,23 @@
         "candidate_tickers": [
           "MadonnaOrbit",
           "RayOfLight"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T18:50:38.275138+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c413ad6e6fe9",
+        "score": 80,
+        "category": "Tecnología y política",
+        "title": "In the spirit of transparency, here’s what I asked @OpenAI :",
+        "candidate_tickers": [
+          "OPENAI",
+          "MUSKAI",
+          "ASTRAI",
+          "CYBERMUSK",
+          "TRANSPARENCY"
         ]
       }
     }
