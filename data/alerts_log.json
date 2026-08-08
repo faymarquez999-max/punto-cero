@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T05:51:15.114290+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0e3e510c14a9",
-        "score": 92,
-        "category": "Política",
-        "title": "Democrats have abandoned Graham Platner - Politico",
-        "candidate_tickers": [
-          "GRAHAMPLATNER",
-          "DEMÓCRATAS",
-          "ACUSACIÓN",
-          "AGRESIÓNSEXUAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:51:40.023305+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Muerte de una celebridad",
-        "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
-        "candidate_tickers": [
-          "LaurenBennett",
-          "PartyRockAnthem",
-          "GRL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:51:54.128549+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5605a3324246",
-        "ticker": "Kirkslop",
-        "mint": "8m5hzX9hprtWwPuVZL4daCZfggWYKc6fhSJDDpiqpump",
-        "mc": 116210.0
-      }
-    },
-    {
-      "ts": "2026-07-07T05:51:57.949436+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4fa28e2247bc",
-        "ticker": "IRAN",
-        "mint": "2zQw1CLSbFR7V8W53Fz3Jh5mMXFj5k3bthwVFsT83RFK",
-        "mc": 253603.0
-      }
-    },
-    {
-      "ts": "2026-07-07T05:52:02.140594+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "7bc7fe2a0bad",
-        "ticker": "Odyssey",
-        "mint": "7yDRPZ8aDGbdvWWWV2f1haxmGmEPHgDmJH5mydQQpump",
-        "mc": 36394.0
-      }
-    },
-    {
-      "ts": "2026-07-07T08:59:17.916737+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dae3aab3b927",
-        "score": 74,
-        "category": "Deportes",
-        "title": "Switzerland vs Colombia: World Cup last 16: Prediction, start time and news",
-        "candidate_tickers": [
-          "TRUMPVSFIFA",
-          "BALOGUNREDCARD",
-          "FIFASORPRESA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T09:00:31.990689+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28164,6 +28089,93 @@
           "OMG",
           "Goodness",
           "Elon"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:50:13.381686+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "091623ba89a1",
+        "score": 74,
+        "category": "política",
+        "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
+        "candidate_tickers": [
+          "TRUMPLAWYER",
+          "FISCALGENERALUS",
+          "TODDBLANCHE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:50:51.566400+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "salud",
+        "title": "Woman attacked by bed bugs during Travelodge stay",
+        "candidate_tickers": [
+          "chinches_hotel",
+          "Travelodge_injusticia",
+          "salud_hotel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:51:23.310563+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "286f919d73d4",
+        "score": 80,
+        "category": "Meteorología y política",
+        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+        "candidate_tickers": [
+          "DOLPHINSTORM",
+          "TYPHOONDOLPHIN",
+          "CHINACLOSESPORTS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:52:47.191148+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d549d02072f0",
+        "score": 90,
+        "category": "salud",
+        "title": "One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid - AP News",
+        "candidate_tickers": [
+          "EBOLA",
+          "EBOLAOUTBREAK",
+          "EBOLAVIRUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:53:36.439007+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "31491951d91f",
+        "score": 85,
+        "category": "Violencia y derechos humanos",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "ELONMUSK",
+          "VIOLENCIATRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:53:56.291226+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "Oh my goodness.",
+        "candidate_tickers": [
+          "GOODNESS",
+          "OHMYGOODNESS"
         ]
       }
     }
