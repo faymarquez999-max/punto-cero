@@ -1,38 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T04:37:40.097515+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "260014ba1d69",
-        "score": 88,
-        "category": "Noticias de animales",
-        "title": "Chainlink: Shocking details emerge about",
-        "candidate_tickers": [
-          "PERROS",
-          "ABUSO",
-          "REFUGIO",
-          "CALIFORNIA",
-          "ANIMALRES",
-          "PERROSMUERTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T04:38:40.555729+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes y política",
-        "title": "Cancelled bans, rigged draws and CIA plots: How the World Cup breeds conspiracy theories - The New York Times",
-        "candidate_tickers": [
-          "FIFA_CONSPIRACY",
-          "COPA_MUNDIAL_TEORIAS",
-          "LA_CIA_Y_LA_COPA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T04:39:08.102496+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28106,6 +28074,35 @@
           "ASTRAI",
           "CYBERMUSK",
           "TRANSPARENCY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T19:38:50.218739+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Celebridad",
+        "title": "RAYE and Michael B. Jordan spark dating rumors after being spotted together at Six Flags.",
+        "candidate_tickers": [
+          "RAYE_MJ",
+          "MJ_RAYE",
+          "SixFlagsDate"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T19:41:16.278671+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "fútbol",
+        "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+        "candidate_tickers": [
+          "RM",
+          "BARCA",
+          "RASHFORD",
+          "RODRI"
         ]
       }
     }
