@@ -1,100 +1,6 @@
 {
   "watches": [
     {
-      "id": "ab204f2dc8c6",
-      "fingerprint": "ab204f2dc8c6",
-      "narrative_summary": "Russia ataca la capital ucraniana con misiles balísticos y drones, matando al menos 9 personas.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'Russia ataca la capital ucraniana'.",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAATACA",
-        "UCRANIAENPELIGA",
-        "MISILESBALISTICOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "misiles",
-        "drones",
-        "ataque"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T09:48:37.053734+00:00",
-      "expires_at": "2026-08-05T09:48:37.053734+00:00",
-      "duration_hours": 96,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-05T10:12:56.376004+00:00"
-    },
-    {
-      "id": "bf2a2496c798",
-      "fingerprint": "bf2a2496c798",
-      "narrative_summary": "Anthropic revela que sus modelos de IA han sido hackeados durante pruebas en 3 organizaciones",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase fácil de capturar, 'hackeados durante pruebas'",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "ANTHROPICHACK",
-        "IAHACK",
-        "MODELOSHACKEADOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "IA",
-        "hack",
-        "modelo",
-        "pruebas"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T09:50:00.257086+00:00",
-      "expires_at": "2026-08-04T09:50:00.257086+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-04T11:37:10.211942+00:00"
-    },
-    {
       "id": "e62b5450f5d7",
       "fingerprint": "e62b5450f5d7",
       "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía su investigación de hacking.",
@@ -10647,7 +10553,98 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "3b8663c80686",
+      "fingerprint": "3b8663c80686",
+      "narrative_summary": "Zelenskyy visita Serbia mientras Rusia ataca a la región de Kyiv, matando a 4 personas.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Zelenskyy y Rusia, lo que la hace interesante y compartible.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ZELENSKYY",
+        "SERBIA",
+        "RUSIA",
+        "KYIV",
+        "INJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Zelenskyy",
+        "Serbia",
+        "Rusia",
+        "Kyiv",
+        "injusticia"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T14:48:07.047666+00:00",
+      "expires_at": "2026-08-10T14:48:07.047666+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4 - AP News",
+      "cluster_sources": [
+        "breaking_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "979fd321e1b1",
+      "fingerprint": "979fd321e1b1",
+      "narrative_summary": "Muere el padre de Leo Messi, Jorge Messi, a los 68 años",
+      "why_memeable": "La muerte de un padre famoso es un evento que puede generar emoción y compasión, y la relación entre Leo Messi y su padre es bien conocida.",
+      "category": "Deportes",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "LEOMESSI",
+        "JORGEMESSI",
+        "MESSIPADRE"
+      ],
+      "key_terms_for_dex_search": [
+        "Leo Messi",
+        "Jorge Messi",
+        "Muerte",
+        "Fútbol"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T14:48:40.338493+00:00",
+      "expires_at": "2026-08-10T14:48:40.338493+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Muere el padre de Leo Messi, Jorge Messi, a los 68 años - ultimahora.es",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T14:01:23.538903+00:00"
+  "last_updated": "2026-08-08T14:48:40.338493+00:00"
 }

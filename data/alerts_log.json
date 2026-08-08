@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T21:11:32.857263+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "ciencia/ficción",
-        "title": "Harvard professor appointed by White House to lead UFO study group - Boston 25 News",
-        "candidate_tickers": [
-          "UFOs",
-          "Harvard",
-          "Casa Blanca",
-          "leak"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T21:12:19.478237+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Accidente y emergencia",
-        "title": "Traffic reopens after gas leak in South Elgin, village says - CBS News",
-        "candidate_tickers": [
-          "GasLeak",
-          "SouthElgin",
-          "TrafficReopens"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T21:13:39.664249+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "39babf48f60f",
-        "score": 88,
-        "category": "Política",
-        "title": "Harry, others' privacy case against Daily Mail dismissed in blow to prince - Reuters",
-        "candidate_tickers": [
-          "HARRYLOSES",
-          "DAILYMAILDERROTA",
-          "PRÍNCIPEHARRY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T21:14:22.254262+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "976322642124",
-        "score": 88,
-        "category": "Noticias de NYC",
-        "title": "NYC buildings evacuated after construction workers find buckling columns in Midtown East; officials warn of possible collapse - ABC7 New York",
-        "candidate_tickers": [
-          "NYCDOLES",
-          "COLUMNASDOBLOQUE",
-          "COLAPSONYC"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T21:14:58.823140+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28112,6 +28053,67 @@
           "ZEL",
           "RUSSIA",
           "SERBIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:44:42.730151+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "candidate_tickers": [
+          "Trump",
+          "Blanche",
+          "FiscalGeneral",
+          "EEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:45:31.230938+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "animal",
+        "title": "In 2006 researchers dredged a clam off the coast of Iceland and prised it open to count its growth rings, and only afterwards worked out what they had done — the animal had been alive since 1499, the ",
+        "candidate_tickers": [
+          "Clam540",
+          "AnimalViejo",
+          "Islandia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:48:07.610635+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3b8663c80686",
+        "score": 83,
+        "category": "Política",
+        "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4 - AP News",
+        "candidate_tickers": [
+          "ZELENSKYY",
+          "SERBIA",
+          "RUSIA",
+          "KYIV",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:48:40.827284+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "979fd321e1b1",
+        "score": 72,
+        "category": "Deportes",
+        "title": "Muere el padre de Leo Messi, Jorge Messi, a los 68 años - ultimahora.es",
+        "candidate_tickers": [
+          "LEOMESSI",
+          "JORGEMESSI",
+          "MESSIPADRE"
         ]
       }
     }
