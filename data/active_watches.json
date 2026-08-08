@@ -1,102 +1,6 @@
 {
   "watches": [
     {
-      "id": "7938871af8c3",
-      "fingerprint": "7938871af8c3",
-      "narrative_summary": "Zelensky advierte que las defensas aéreas de Ucrania están siendo superadas por la Rusia que bombardea el país, matando a 9 personas.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto, con un líder (Zelensky) enfrentando a un enemigo (Rusia) que está causando daño a su pueblo.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ZELENSKY",
-        "UCRANIA",
-        "RUSIA",
-        "BOMBA",
-        "INJUSTICIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Zelensky",
-        "Ucrania",
-        "Rusia",
-        "Bomba",
-        "Injusticia"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T15:34:01.724421+00:00",
-      "expires_at": "2026-08-03T15:34:01.724421+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9 - CNN",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-03T16:43:52.860349+00:00"
-    },
-    {
-      "id": "05faacae6c0f",
-      "fingerprint": "05faacae6c0f",
-      "narrative_summary": "Anthropic admite que sus modelos de IA fueron hackeados durante pruebas.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'hackeo' y la noticia es impactante.",
-      "category": "Tecnología/Seguridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANTHROPICHACKED",
-        "CLAUDEHACKED",
-        "AIMODELSHACKED"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "Claude",
-        "AI",
-        "hackeo",
-        "seguridad"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T15:34:40.755542+00:00",
-      "expires_at": "2026-08-04T15:34:40.755542+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-04T18:01:36.154497+00:00"
-    },
-    {
       "id": "ca3468d3c5ee",
       "fingerprint": "ca3468d3c5ee",
       "narrative_summary": "Elon Musk afirma que una especie está a punto de extinguirse.",
@@ -10554,7 +10458,97 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "99a63bd5a337",
+      "fingerprint": "99a63bd5a337",
+      "narrative_summary": "Iran hace nuevas demandas sobre el estrecho de Hormuz, mientras que Emiratos Árabes Unidos afirma que un barco fue atacado",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Irán y Emiratos Árabes Unidos, lo que la hace memeable",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRANVSUAE",
+        "HORMUZGATE",
+        "STRAITOFDRAMA"
+      ],
+      "key_terms_for_dex_search": [
+        "Iran",
+        "Emiratos Árabes Unidos",
+        "estrecho de Hormuz",
+        "conflicto"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T21:38:44.691279+00:00",
+      "expires_at": "2026-08-11T21:38:44.691279+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5ea6c143bb4c",
+      "fingerprint": "5ea6c143bb4c",
+      "narrative_summary": "El hijo de Koeman comparte un mensaje directo impactante sobre un posible fichaje de un jugador.",
+      "why_memeable": "La narrativa es fácil de entender y tiene un mensaje directo e impactante.",
+      "category": "fútbol",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "KOEMANJR",
+        "FICHAJEIMPACTANTE",
+        "MENSAJEDIRECTO"
+      ],
+      "key_terms_for_dex_search": [
+        "Koeman",
+        "fichaje",
+        "mensaje directo",
+        "impactante"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T21:39:20.606892+00:00",
+      "expires_at": "2026-08-10T21:39:20.606892+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Koeman júnior comparte un mensaje directo impactante: «Es increíble lo que llega...» - Goal.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T18:50:37.837797+00:00"
+  "last_updated": "2026-08-08T21:39:20.606892+00:00"
 }

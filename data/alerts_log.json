@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T07:18:59.301884+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "abe4dc46d504",
-        "score": 90,
-        "category": "noticias",
-        "title": "A viral Reuters photo captured a Black woman surrounded on a Metro train by masked members of a white supremacist group on July 4. When Paul Bowlding saw it on Instagram that day, he recognized the wo",
-        "candidate_tickers": [
-          "#RODEADAPORSUPREMACISTAS",
-          "#INJUSTICIAENELTREN",
-          "#MUJERNEGRARODEADA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T07:20:23.690965+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Criptomonedas",
-        "title": "/XSG/ XRP Schizo General #2551",
-        "candidate_tickers": [
-          "XRP",
-          "MemeToro",
-          "Beat",
-          "Buy"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T07:20:58.090259+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Accidentes inusuales",
-        "title": "Gas leak prompts evacuation order near Boyd-Lawrence county line - WCHS",
-        "candidate_tickers": [
-          "GasLeak",
-          "BoydLawrence",
-          "Evacuation"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T07:20:59.793335+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bc82d6141269",
-        "score": 80,
-        "category": "Política y Escándalo",
-        "title": "Ex-girlfriend of Graham Platner says he removed condoms without consent during sex - The Washington Post",
-        "candidate_tickers": [
-          "PLATNER",
-          "CONSENT",
-          "SEXSCANDAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T07:23:31.978216+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28102,6 +28043,63 @@
           "TRUTH",
           "ELONTRUTH",
           "TRUEMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T21:38:45.196815+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "99a63bd5a337",
+        "score": 79,
+        "category": "política internacional",
+        "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news - AP News",
+        "candidate_tickers": [
+          "IRANVSUAE",
+          "HORMUZGATE",
+          "STRAITOFDRAMA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T21:39:21.047800+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5ea6c143bb4c",
+        "score": 70,
+        "category": "fútbol",
+        "title": "Koeman júnior comparte un mensaje directo impactante: «Es increíble lo que llega...» - Goal.com",
+        "candidate_tickers": [
+          "KOEMANJR",
+          "FICHAJEIMPACTANTE",
+          "MENSAJEDIRECTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T21:39:59.447201+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias políticas",
+        "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+        "candidate_tickers": [
+          "CryptoBill",
+          "SenadoEEUU",
+          "Criptomonedas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T21:41:50.701676+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Tecnología",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TerafabTexas",
+          "ElonMuskTerafab"
         ]
       }
     }
