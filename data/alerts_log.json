@@ -1,111 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-05T18:42:19.855590+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ff7aef69ffc4",
-        "score": 70,
-        "category": "Muerte de celebridades",
-        "title": "Catherine shares photos reuniting with family after Three Peaks Challenge",
-        "candidate_tickers": [
-          "CATHERINEOHARA",
-          "MUERTECATHERINEOHARA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T21:31:46.202298+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f899ca5160cc",
-        "score": 88,
-        "category": "Política",
-        "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRAN",
-          "FUNERAL",
-          "SUCESOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T21:33:02.471366+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Girard Fire reported in Riverside County on July 5 - Fresno Bee",
-        "candidate_tickers": [
-          "GirardFire",
-          "CaliforniaWildfires",
-          "RiversideCounty"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T21:33:43.142732+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Asalto en fiesta de barrio en Charleston",
-        "title": "Four arrested after July 4th block party in North Charleston, viral video shows assault - WCIV",
-        "candidate_tickers": [
-          "BlockPartyAssault",
-          "NorthCharlestonShame",
-          "FiestaDeBarrio"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T21:35:56.878666+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "203ca1510519",
-        "score": 76,
-        "category": "Deportes",
-        "title": "La maldición de Zico golpea de nuevo a Brasil y Gimarães protagoniza el impactante momento - Goal.com",
-        "candidate_tickers": [
-          "ZICO",
-          "GIMARÃES",
-          "LAMALDICIÓNDEZICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T22:39:40.099938+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1d3e9b3be4cd",
-        "score": 74,
-        "category": "Deportes",
-        "title": "Osaka topples Sabalenka to blow Wimbledon draw wide open - Reuters",
-        "candidate_tickers": [
-          "OSAKA",
-          "WIMBLEDON",
-          "NAOMI_OSAKA",
-          "ARYNA_SABALENKA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T23:49:08.096508+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "496cd91bbc5f",
-        "score": 80,
-        "category": "Política y Cultura",
-        "title": "For 250 years, America has been the greatest nation on Earth — and with God’s grace, it will be for 250 more.",
-        "candidate_tickers": [
-          "TRUMP250",
-          "USA250",
-          "FIREWORKS",
-          "INDEPENDENCE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-05T23:49:51.480521+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28212,6 +28107,103 @@
           "GROK",
           "XAIBUILD"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:46:45.945889+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "704f4261df68",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "Same thing seems to be happening with TV shows and video games",
+        "candidate_tickers": [
+          "TRUMP",
+          "COOK",
+          "MUSK",
+          "EPSTEIN",
+          "HAIRTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:48:47.631420+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "política",
+        "title": "Spain to establish border controls on travellers from Italy amid migration dispute - Reuters",
+        "candidate_tickers": [
+          "EspañaVsItalia",
+          "FronterasCerradas",
+          "Migración"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:50:00.108478+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "tech",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:50:21.700925+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3273d16b7c43",
+        "score": 82,
+        "category": "Tecnología",
+        "title": "Inevitable",
+        "candidate_tickers": [
+          "INEVITABLE",
+          "MUSKINEVITABLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:50:48.183175+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5cd9c9d841a9",
+        "score": 82,
+        "category": "violencia contra personas transgénero",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRV",
+          "TRANSVIOLENCE",
+          "ELONMUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:51:17.508646+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bee58df7c34e",
+        "score": 70,
+        "category": "Celebridad",
+        "title": "Oh my goodness.",
+        "candidate_tickers": [
+          "GADSAAD",
+          "XCANCEL",
+          "OHMYGOODNESS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T02:52:15.535236+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2e2a3531b706",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 48788.0
       }
     }
   ]

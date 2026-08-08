@@ -1,257 +1,6 @@
 {
   "watches": [
     {
-      "id": "2ddbe83b75d2",
-      "fingerprint": "2ddbe83b75d2",
-      "narrative_summary": "Italia suspende el régimen de viaje libre de la UE con España después de la crisis migratoria en Ceuta",
-      "why_memeable": "La narrativa tiene un título claro y una situación dramática que puede ser capturada en una frase",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CEUTA",
-        "ITALIA",
-        "UE",
-        "SCHENGEN",
-        "MIGRACIÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "Ceuta",
-        "Italia",
-        "UE",
-        "SchenGen",
-        "migración"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T21:33:03.669010+00:00",
-      "expires_at": "2026-08-02T21:33:03.669010+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CTO",
-        "name": "Ceuta Take Over",
-        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 26689.0,
-        "liquidity_usd": 14352.14,
-        "price_usd": 2.777e-05,
-        "volume_h24": 201219.24,
-        "volume_h1": 3001.82,
-        "volume_m5": 141.58,
-        "price_change_5m": -0.16,
-        "price_change_1h": -3.95,
-        "price_change_24h": -73.67,
-        "txns_h1_buys": 31,
-        "txns_h1_sells": 38,
-        "created_ts": 1785418693000,
-        "pair_created_at": 1785418693000,
-        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "- ITALY SUSPENDS EU'S SCHENGEN FREE-TRAVEL REGIME WITH SPAIN AFTER CEUTA MIGRANT CRISIS - STATEMENT",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:30.115554+00:00"
-    },
-    {
-      "id": "11b8bca82739",
-      "fingerprint": "11b8bca82739",
-      "narrative_summary": "Israeli oficial dice que tropas no se retirarán en Gaza sin desarme genuino de Hamas",
-      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Hamas, con un desarme genuino como condición para la retirada de tropas.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HAMAS",
-        "GAZA",
-        "ISRAEL",
-        "DESARME",
-        "RETIRADA"
-      ],
-      "key_terms_for_dex_search": [
-        "Hamas",
-        "Gaza",
-        "Israel",
-        "Desarme",
-        "Retirada"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-07-31T21:36:31.881134+00:00",
-      "expires_at": "2026-08-02T21:36:31.881134+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "expired_at": "2026-08-02T22:13:59.698850+00:00"
-    },
-    {
-      "id": "6f2265e54d77",
-      "fingerprint": "6f2265e54d77",
-      "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía la investigación de hacking.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido emocional.",
-      "category": "Tecnología y hacking",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AI_ESCAPE",
-        "OPENAI_HACK",
-        "IA_CONTAINMENT"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "IA",
-        "hacking",
-        "contención"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T22:41:11.729668+00:00",
-      "expires_at": "2026-08-02T22:41:11.729668+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232930.0,
-        "liquidity_usd": 34340.94,
-        "price_usd": 2.329e-06,
-        "volume_h24": 17779565.12,
-        "volume_h1": 1680412.37,
-        "volume_m5": 145018.74,
-        "price_change_5m": -0.34,
-        "price_change_1h": 8.23,
-        "price_change_24h": 218.0,
-        "txns_h1_buys": 1769,
-        "txns_h1_sells": 1406,
-        "created_ts": 1785592088000,
-        "pair_created_at": 1785592088000,
-        "url": "https://dexscreener.com/solana/9yqetkrtthu7ccnmprdkzupbyzpeyddwy8pvscggfcop",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI PRESTOCKS",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:32.652884+00:00"
-    },
-    {
-      "id": "5d63a45a5a2c",
-      "fingerprint": "5d63a45a5a2c",
-      "narrative_summary": "Elon Musk comparte un título 'Troubling' que ha generado una gran cantidad de interacción en la red social",
-      "why_memeable": "El título 'Troubling' es corto y se puede capturar fácilmente, lo que lo hace memeable",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TROUBLING",
-        "ELONTROUBLING"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Troubling",
-        "Tecnología"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-07-31T23:49:43.078975+00:00",
-      "expires_at": "2026-08-02T23:49:43.078975+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Troubling",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T00:19:09.631524+00:00"
-    },
-    {
       "id": "b27f39e43d1f",
       "fingerprint": "b27f39e43d1f",
       "narrative_summary": "Nigeria tuvo 4 millones de nacimientos más que toda la UE el año pasado",
@@ -10526,7 +10275,185 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "704f4261df68",
+      "fingerprint": "704f4261df68",
+      "narrative_summary": "Noticias sobre Trump, incluyendo su intento de despedir a la gobernadora de la Reserva Federal Lisa Cook, una pelea con Musk y una afirmación sobre los archivos de Epstein, así como su nuevo peinado.",
+      "why_memeable": "La combinación de la personalidad polarizante de Trump con eventos inesperados y afirmaciones controvertidas crea un caldo de cultivo para memes.",
+      "category": "Política y celebridades",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "COOK",
+        "MUSK",
+        "EPSTEIN",
+        "HAIRTRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Lisa Cook",
+        "Musk",
+        "Epstein",
+        "Pelo de Trump"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T02:46:45.577035+00:00",
+      "expires_at": "2026-08-11T02:46:45.577035+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Same thing seems to be happening with TV shows and video games",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3273d16b7c43",
+      "fingerprint": "3273d16b7c43",
+      "narrative_summary": "Elon Musk comparte un título 'Inevitable' con gran cantidad de engagement en Nitter.",
+      "why_memeable": "La frase 'Inevitable' es fácil de capturar y compartir, y tiene un gran impacto emocional.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "INEVITABLE",
+        "MUSKINEVITABLE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "inevitable",
+        "nitter"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 0,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T02:50:21.381805+00:00",
+      "expires_at": "2026-08-10T02:50:21.381805+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Inevitable",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5cd9c9d841a9",
+      "fingerprint": "5cd9c9d841a9",
+      "narrative_summary": "Elon Musk comparte un título sobre violencia contra personas transgénero, generando gran atención en redes.",
+      "why_memeable": "La frase 'More trans violence' es corta y fácil de recordar, y el tema de violencia contra personas transgénero es altamente relevante y polarizante.",
+      "category": "violencia contra personas transgénero",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRV",
+        "TRANSVIOLENCE",
+        "ELONMUSKTRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "elonmusk"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T02:50:47.759702+00:00",
+      "expires_at": "2026-08-10T02:50:47.759702+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bee58df7c34e",
+      "fingerprint": "bee58df7c34e",
+      "narrative_summary": "Elon Musk comparte un momento de sorpresa y asombro con el título 'Oh my goodness.'",
+      "why_memeable": "La frase 'Oh my goodness' es corta y fácil de recordar, lo que la hace muy memeable.",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GADSAAD",
+        "XCANCEL",
+        "OHMYGOODNESS"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "ohmygoodness",
+        "xcancel"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 1,
+        "cultural_resonance": 2,
+        "polarizing": 1,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T02:51:17.168259+00:00",
+      "expires_at": "2026-08-10T02:51:17.168259+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Oh my goodness.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-07T23:46:00.752889+00:00"
+  "last_updated": "2026-08-08T02:51:17.168259+00:00"
 }
