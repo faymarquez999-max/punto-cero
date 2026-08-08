@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T14:33:52.334936+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a1e9bef6e833",
-        "score": 80,
-        "category": "Abuso animal",
-        "title": "Why can’t we count our dead?",
-        "candidate_tickers": [
-          "PERROSINCINERADOS",
-          "ABUSOANIMAL",
-          "CONTROLDEANIMALES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T16:18:57.365518+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "df2d2723e700",
-        "score": 70,
-        "category": "actualidad",
-        "title": "Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes",
-        "candidate_tickers": [
-          "MANHATTANCOLLAPSE",
-          "EDIFICIOENRIESGO",
-          "COLAPSOENMANHATTAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T16:20:19.867870+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5cd1d7f9f814",
-        "score": 82,
-        "category": "Política y sociedad",
-        "title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
-        "candidate_tickers": [
-          "METROVIRAL",
-          "DIVISIÓNNACIONAL",
-          "FOTOVIRAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T16:22:07.706590+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "120fb50e7d53",
-        "score": 74,
-        "category": "detención de marines",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKMARINES",
-          "KEEEEEEEK",
-          "DETENCIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T16:23:11.155626+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Funeral processions held in holy Iraqi cities for Iran’s late Supreme Leader Ayatollah Ali Khamenei - AP News",
-        "candidate_tickers": [
-          "Khamenei",
-          "Iran",
-          "Irak",
-          "Funeral"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T16:23:48.656170+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28095,6 +28020,79 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 46053.0
+      }
+    },
+    {
+      "ts": "2026-08-08T22:51:00.400005+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "noticias cripto",
+        "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+        "candidate_tickers": [
+          "CRYPTO",
+          "SENATE",
+          "AUGUST",
+          "RECESS",
+          "BILL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:51:13.788182+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "BLANCHE",
+          "TRUMP",
+          "FISCAL GENERAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:51:44.649704+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "140bfa5fe898",
+        "score": 88,
+        "category": "Muerte de un famoso",
+        "title": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 - NBC News",
+        "candidate_tickers": [
+          "MESSIPAPA",
+          "LIONELPAPA",
+          "FÚTBOLFAMILIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:52:13.151101+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ce433489278c",
+        "score": 74,
+        "category": "gaming",
+        "title": "Why does Twitch have this double-standard?",
+        "candidate_tickers": [
+          "TWITCHDOUBLESTANDARD",
+          "ELONVSTWITCH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:52:41.062613+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELONMUSKYES",
+          "MUSKSÍ"
+        ]
       }
     }
   ]
