@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T01:20:03.814926+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "be5b16e6fba5",
-        "score": 78,
-        "category": "política",
-        "title": "Trump reiterates at NATO summit that Greenland should be controlled by US, not Denmark - Reuters",
-        "candidate_tickers": [
-          "TRUMP_GROENLANDIA",
-          "GREENLAND_USA",
-          "OTAN_TRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T01:20:34.015847+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28107,6 +28092,19 @@
           "SWIFTVSTRUMP",
           "TIKTOKTROLL",
           "TAYLORVSDON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T17:53:32.452291+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Celebridad, música",
+        "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+        "candidate_tickers": [
+          "MadonnaOrbit",
+          "RayOfLight"
         ]
       }
     }
