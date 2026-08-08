@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T21:14:58.823140+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "23dd48423674",
-        "score": 74,
-        "category": "política",
-        "title": "Farage resigns as MP and vows to fight by-election amid finances row",
-        "candidate_tickers": [
-          "FARAGE",
-          "BYELECTION",
-          "FINANCES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T21:15:30.444600+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1967cd69e5c3",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Tearful Messi inspires Argentina to stunning comeback win over Egypt - Reuters",
-        "candidate_tickers": [
-          "MESSI",
-          "ARGENTINA",
-          "EGIPTO",
-          "MUNDIAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T22:35:04.613593+00:00",
       "kind": "shadow",
       "payload": {
@@ -28114,6 +28083,34 @@
           "LEOMESSI",
           "JORGEMESSI",
           "MESSIPADRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T15:16:36.419679+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a6c8c1a89da",
+        "score": 85,
+        "category": "Sociedad y Política",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "ELONMUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T15:16:50.232990+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Celebridad",
+        "title": "Oh my goodness.",
+        "candidate_tickers": [
+          "GOODNESS",
+          "ELON",
+          "MUSK"
         ]
       }
     }
