@@ -1,73 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T05:47:24.818193+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9331f698a6f4",
-        "score": 80,
-        "category": "Celebridad y política",
-        "title": "/smg/ - stock market general",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "ELONVSTRUMP",
-          "TRUMPFEUD",
-          "MUSKTWEET",
-          "CELEBRITYCLASH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:47:30.678918+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4fa28e2247bc",
-        "score": 78,
-        "category": "política internacional",
-        "title": "'Overturn this' – Belgium taunt US and say Trump move fired them up",
-        "candidate_tickers": [
-          "BELGIA",
-          "TRUMPED",
-          "FIREUP",
-          "USVSBE",
-          "KHAMENEI",
-          "IRANFURY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:47:49.968674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "05ea12c1e770",
-        "score": 80,
-        "category": "cultural_exchange",
-        "title": "Japanese World Cup fan goes viral documenting American firsts in Las Vegas - Live 5 News",
-        "candidate_tickers": [
-          "LASVEGAS",
-          "JAPANUSA",
-          "WORLDCUPFAN",
-          "FIRSTTIMELASVEGAS",
-          "JAPANESEINUSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:48:18.459679+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7bc7fe2a0bad",
-        "score": 74,
-        "category": "Celebridad",
-        "title": "Why Zendaya Botched Her Lines on First Day of ‘The Odyssey’ Filming: “My Mouth Was Just Frozen”",
-        "candidate_tickers": [
-          "ZENDAYAFROZEN",
-          "ODYSSEYMISTAKE",
-          "FROZENMOUTH"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T05:48:38.574395+00:00",
       "kind": "shadow",
       "payload": {
@@ -28175,6 +28108,65 @@
           "CHARLOTTEATTACKER",
           "RACISMOENCHARLOTTE",
           "LEGACYMEDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:44:03.288213+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Same thing seems to be happening with TV shows and video games",
+        "candidate_tickers": [
+          "TRUMPvsCOOK",
+          "COOKvsTRUMP",
+          "TRUMPvsFED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:46:31.845261+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aae2ca3b44d4",
+        "score": 80,
+        "category": "clima",
+        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - reuters.com",
+        "candidate_tickers": [
+          "DOLPHIN",
+          "TYPHOONDOLPHIN",
+          "HURACÁNDOLPHIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:48:12.553857+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1f8b5edf734",
+        "score": 88,
+        "category": "política",
+        "title": "Federal judge orders Virginia county to replace Confederate school names it restored in 2024 - AP News",
+        "candidate_tickers": [
+          "CONFEDERATENAMES",
+          "VIRGINIASCHOOLS",
+          "JUEZFEDERAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T10:48:35.443832+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "65d7ed8cf584",
+        "score": 85,
+        "category": "violencia y derechos humanos",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOL",
+          "VIOLENCIATRANS",
+          "ELONMUSK"
         ]
       }
     }
