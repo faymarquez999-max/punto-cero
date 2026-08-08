@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T04:39:49.892617+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "63ac44980910",
-        "score": 78,
-        "category": "criptomonedas, meme coins",
-        "title": "/XSG/ XRP Schizo General #2551",
-        "candidate_tickers": [
-          "XRP",
-          "MEMETORO",
-          "BEST MEME COINS",
-          "TOP 5 CRYPTO MEME COINS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T04:40:30.906660+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0c8a4c29d148",
-        "score": 88,
-        "category": "Desastres naturales y eventos inminentes",
-        "title": "NYC buildings evacuated after construction workers find buckling columns in Midtown East; officials warn of possible collapse - ABC7 New York",
-        "candidate_tickers": [
-          "NYCBUILDINGCOLLAPSE",
-          "MIDTOWNEAST",
-          "COLUMNASDOBLADAS",
-          "COLAPSOINMINENTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T04:41:05.429056+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Política y noticias internacionales",
-        "title": "Ukraine's Zelenskiy signs 'drone deals' with three countries - Reuters",
-        "candidate_tickers": [
-          "ZelenskiyDrone",
-          "UcraniaDrones",
-          "DroneDeals"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T07:18:59.301884+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28102,6 +28056,52 @@
           "CryptoBill",
           "SenadoCripto",
           "CriptoLey"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T20:53:42.622464+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d1697ddc9166",
+        "score": 80,
+        "category": "Celebridad y política",
+        "title": "Taylor Swift has removed the audio of her songs ‘august,’ ‘Opalite,’ and ‘Father Figure’ from TikTok videos posted by Donald Trump’s team.",
+        "candidate_tickers": [
+          "SWIFTTRUMP",
+          "TAYVSDON",
+          "MUSICWARS",
+          "TRUMPSWIFT",
+          "TAYLORTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T20:54:09.809706+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bd2fd4d080e3",
+        "score": 89,
+        "category": "politica/health",
+        "title": "Joe Biden’s prostate cancer has spread to other parts of his body, his son Hunter reveals:",
+        "candidate_tickers": [
+          "BIDENCANCER",
+          "CANCERBIDEN",
+          "HUNTERBIDEN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T20:55:25.813461+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y Negocios",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUTH",
+          "ELONTRUTH",
+          "TRUEMUSK"
         ]
       }
     }
