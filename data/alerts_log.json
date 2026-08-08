@@ -1,133 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-05T23:49:51.480521+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b161e0df4742",
-        "score": 80,
-        "category": "política",
-        "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRAN",
-          "FUNERAL",
-          "SUCESOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T23:50:31.987476+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Deportes",
-        "title": "Folarin Balogun available for USMNT vs. Belgium as red card ban suspended - The New York Times",
-        "candidate_tickers": [
-          "Balogun",
-          "USMNT",
-          "Fútbol"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-05T23:52:27.172295+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "43d40e5f92f4",
-        "score": 70,
-        "category": "política",
-        "title": "Michigan Democrat Mallory McMorrow ends bid for US Senate - The Guardian",
-        "candidate_tickers": [
-          "MCMORROWOUT",
-          "MICHIGANSENATE",
-          "DEMOCRATDROPSOUT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T04:13:25.447936+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b36f9be3973c",
-        "score": 80,
-        "category": "Celebridad y eventos sociales",
-        "title": "Taylor Swift's Wedding Bouquet Caught By KC Chiefs Player's Sister - TMZ",
-        "candidate_tickers": [
-          "TAYLORSWIFT",
-          "TRAVISKELCE",
-          "WEDDINGBOUQUET"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T04:13:50.097005+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cd80e68872ba",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Leclerc wins British GP as F1 leader Antonelli fails to score - Reuters",
-        "candidate_tickers": [
-          "LECLERC",
-          "BRITISHGP",
-          "SAFETYCAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T04:14:29.614369+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "80821375dd6d",
-        "score": 88,
-        "category": "política",
-        "title": "Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding - AP News",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRÁN",
-          "LÍDER SUPREMO",
-          "FUNERAL",
-          "SECRETO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T04:15:30.128012+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5bb97e06a92c",
-        "score": 82,
-        "category": "Debate sobre la poligamia",
-        "title": "Polygamy Debate Reignited in Kenya After Viral Widow’s Confession - Religion Unplugged",
-        "candidate_tickers": [
-          "POLYGAMYKENYA",
-          "VIRALWIDOWS",
-          "KENYAPOLYGAMY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T04:18:10.473435+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1420e6904341",
-        "ticker": "MojtabaKhamenei",
-        "mint": "5piy57iPzc4jw8ouU8dgrBovL2YHagebi7GoDuRoRQtD",
-        "mc": 10351.0
-      }
-    },
-    {
-      "ts": "2026-07-06T04:18:15.336237+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "496cd91bbc5f",
-        "ticker": "Indy",
-        "mint": "8R3eqFSPYa5Gs3PJCha6qv9VTpWmRgdmphXsHFjkpump",
-        "mc": 14008.0
-      }
-    },
-    {
       "ts": "2026-07-06T04:18:16.901595+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28204,6 +28077,109 @@
         "ticker": "TERAFAB",
         "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
         "mc": 48788.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:01:38.074543+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1ce162a1af11",
+        "score": 82,
+        "category": "Tecnología y Ciencia",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T04:02:01.953662+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "258ee5bad50a",
+        "score": 85,
+        "category": "Violencia y derechos humanos",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRX",
+          "TRANSVIOLENCE",
+          "VIOLENCIATRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T04:02:15.766149+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Celebridad/Entretenimiento",
+        "title": "Oh my goodness.",
+        "candidate_tickers": [
+          "GOODNESS",
+          "OHMYGOODNESS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T04:05:55.154679+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2e2a3531b706",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 49575.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:06:07.940849+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "22fdcc1fc187",
+        "ticker": "Fraggle",
+        "mint": "Agmu8Xgn7rU4zFv4DMPrEBhYDdPsmiEG5hCiYyvSpump",
+        "mc": 79031.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:06:10.273047+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "73fe67cd824a",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 49575.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:06:19.689769+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "618d0bda1cab",
+        "ticker": "RIPTRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "mc": 194685.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:06:29.888576+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "80cadf781a90",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 49575.0
+      }
+    },
+    {
+      "ts": "2026-08-08T04:06:33.110208+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4f5525025662",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 49575.0
       }
     }
   ]

@@ -1,94 +1,6 @@
 {
   "watches": [
     {
-      "id": "b27f39e43d1f",
-      "fingerprint": "b27f39e43d1f",
-      "narrative_summary": "Nigeria tuvo 4 millones de nacimientos más que toda la UE el año pasado",
-      "why_memeable": "La frase es corta y fácil de recordar, y el número de nacimientos es impactante",
-      "category": "Demografía",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "NIGERIA",
-        "EU",
-        "BIRTHS"
-      ],
-      "key_terms_for_dex_search": [
-        "nigeria",
-        "nacimientos",
-        "eu",
-        "demografia"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-07-31T23:49:56.762853+00:00",
-      "expires_at": "2026-08-02T23:49:56.762853+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Nigeria alone had 4 million more births than the entire EU last year! grok.com/share/bGVnYWN5_55b9…",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T00:19:09.631536+00:00"
-    },
-    {
-      "id": "2db882761c2e",
-      "fingerprint": "2db882761c2e",
-      "narrative_summary": "El top 0.1% pagó $440 mil millones en impuestos federales, mientras que el 80% más bajo pagó $350 mil millones.",
-      "why_memeable": "La narrativa es memeable porque compara el pago de impuestos de los ricos con el de los pobres, lo que genera una sensación de injusticia.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TAXBILLIONAIRES",
-        "RICVSPOOR"
-      ],
-      "key_terms_for_dex_search": [
-        "impuestos",
-        "riqueza",
-        "desigualdad"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-07-31T23:51:33.150782+00:00",
-      "expires_at": "2026-08-03T23:51:33.150782+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "The top 0.1% paid $440 billion in federal income taxes.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-08-03T23:54:35.377367+00:00"
-    },
-    {
       "id": "854271cd8187",
       "fingerprint": "854271cd8187",
       "narrative_summary": "U.S. y Israel preparan un ataque a objetivos energéticos en Irán",
@@ -10453,7 +10365,93 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "1ce162a1af11",
+      "fingerprint": "1ce162a1af11",
+      "narrative_summary": "Elon Musk confirma la verdad de un hecho",
+      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen muy memeable",
+      "category": "Tecnología y Ciencia",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK",
+        "XCANCEL"
+      ],
+      "key_terms_for_dex_search": [
+        "ELONMUSK",
+        "XCANCEL",
+        "TRUE"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T04:01:37.421215+00:00",
+      "expires_at": "2026-08-10T04:01:37.421215+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "258ee5bad50a",
+      "fingerprint": "258ee5bad50a",
+      "narrative_summary": "Elon Musk comparte un titular sobre violencia hacia personas transgénero, generando una gran reacción en las redes.",
+      "why_memeable": "La narrativa tiene un claro núcleo de violencia hacia personas transgénero y una gran reacción en las redes, lo que la hace fácilmente compartible y recordable.",
+      "category": "Violencia y derechos humanos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRX",
+        "TRANSVIOLENCE",
+        "VIOLENCIATRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "elonmusk"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 1,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T04:02:01.448843+00:00",
+      "expires_at": "2026-08-10T04:02:01.448843+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T02:51:17.168259+00:00"
+  "last_updated": "2026-08-08T04:02:01.448843+00:00"
 }
