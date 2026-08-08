@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T01:19:25.935229+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b4129e1a2cdf",
-        "score": 80,
-        "category": "Política",
-        "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-        "candidate_tickers": [
-          "MARINELEPEN",
-          "LEPEN2027",
-          "CONVICTAPRESIDENCIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T01:20:03.814926+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28107,6 +28092,21 @@
           "UCRANIA",
           "DRONES",
           "ESCALADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T17:16:49.485489+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "020bcd54a163",
+        "score": 80,
+        "category": "Celebridad",
+        "title": "Taylor Swift has removed the audio of her songs ‘august,’ ‘Opalite,’ and ‘Father Figure’ from TikTok videos posted by Donald Trump’s team.",
+        "candidate_tickers": [
+          "SWIFTVSTRUMP",
+          "TIKTOKTROLL",
+          "TAYLORVSDON"
         ]
       }
     }
