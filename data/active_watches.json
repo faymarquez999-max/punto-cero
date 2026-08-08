@@ -1,296 +1,6 @@
 {
   "watches": [
     {
-      "id": "e62b5450f5d7",
-      "fingerprint": "e62b5450f5d7",
-      "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía su investigación de hacking.",
-      "why_memeable": "La narrativa cuenta con un evento inesperado y emocionante que involucra la inteligencia artificial, lo que la hace fácilmente compartible y recordable.",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "AI_ESCAPE",
-        "OPENAI_HACK",
-        "CONTAINMENT_BROKEN"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "hacking",
-        "IA",
-        "contención"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T09:51:59.313543+00:00",
-      "expires_at": "2026-08-04T09:51:59.313543+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "7AnzUcf7kdwnzRUJV6mZeqyj8hrTCivZ9hBeKGKY3q9n",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 256941.0,
-        "liquidity_usd": 37913.74,
-        "price_usd": 2.569e-06,
-        "volume_h24": 18466166.94,
-        "volume_h1": 1681679.66,
-        "volume_m5": 138414.12,
-        "price_change_5m": 4.81,
-        "price_change_1h": 10.37,
-        "price_change_24h": 249.0,
-        "txns_h1_buys": 1742,
-        "txns_h1_sells": 1371,
-        "created_ts": 1785665998000,
-        "pair_created_at": 1785665998000,
-        "url": "https://dexscreener.com/solana/ffxuxbtthucacedpsqfkqyxqpadqexomq9ed934hqmm5",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI PRESTOCKS",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-02T21:11:46.471127+00:00"
-    },
-    {
-      "id": "1d5d338e9983",
-      "fingerprint": "1d5d338e9983",
-      "narrative_summary": "Elon Musk promociona a Grok Build como una herramienta versátil y mejorada para X.ai/cli.",
-      "why_memeable": "La narrativa es memeable debido a la frase corta y repetida de Elon Musk, que es fácil de compartir y recordar.",
-      "category": "Tecnología/Innovación",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "XAICLI",
-        "GROKBUILD"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "XAICLI",
-        "ELONMUSK",
-        "TECNOLOGIA",
-        "INNOVACION"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-01T09:52:26.914043+00:00",
-      "expires_at": "2026-08-03T09:52:26.914043+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Try @Grok Build X.ai/cli",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-03T16:43:52.860343+00:00"
-    },
-    {
-      "id": "bca48c714779",
-      "fingerprint": "bca48c714779",
-      "narrative_summary": "Famoso alpinista Nirmal Purja muere en avalancha en Pakistán",
-      "why_memeable": "La muerte de un famoso alpinista en una avalancha tiene un gran potencial para ser compartido y recordado",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PURJA",
-        "AVALANCHA",
-        "PAKISTÁN"
-      ],
-      "key_terms_for_dex_search": [
-        "Nirmal Purja",
-        "avalancha",
-        "Pakistán",
-        "alpinismo"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-01T14:04:51.269777+00:00",
-      "expires_at": "2026-08-03T14:04:51.269777+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PURJA",
-        "name": "One Last Summit",
-        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13758.0,
-        "liquidity_usd": 8489.77,
-        "price_usd": 1.815e-05,
-        "volume_h24": 55816.16,
-        "volume_h1": 466.38,
-        "volume_m5": 19.84,
-        "price_change_5m": -1.48,
-        "price_change_1h": -7.67,
-        "price_change_24h": -54.45,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 13,
-        "created_ts": 1785608833000,
-        "pair_created_at": 1785608833000,
-        "url": "https://dexscreener.com/solana/36dt3fk5yyt5dpcoyqctiwtdmxwg9taikb1uewhcrufk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: PURJA==PURJA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-02T21:11:50.113033+00:00"
-    },
-    {
-      "id": "56034fef9e17",
-      "fingerprint": "56034fef9e17",
-      "narrative_summary": "Anthropic revela que sus modelos de IA han sido hackeados durante pruebas.",
-      "why_memeable": "La narrativa tiene un núcleo claro y puede ser capturado en una frase corta.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "ANTHROPIC",
-        "AIHACK",
-        "LEAK"
-      ],
-      "key_terms_for_dex_search": [
-        "anthropic",
-        "ai",
-        "hack",
-        "leak"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T14:06:17.344401+00:00",
-      "expires_at": "2026-08-04T14:06:17.344401+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic says its AI models hacked 3 organizations during testing - apnews.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-04T18:01:36.154484+00:00"
-    },
-    {
-      "id": "3abcb23bd917",
-      "fingerprint": "3abcb23bd917",
-      "narrative_summary": "Elon Musk declara que algo o alguien está cerca de la extinción",
-      "why_memeable": "La frase corta y directa de Elon Musk, junto con su gran audiencia, hace que esta declaración sea muy compartible y tenga un gran potencial de convertirse en un meme",
-      "category": "declaración de celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "EXTIN",
-        "MUSKED",
-        "ROAD2EXT"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "extinción",
-        "road to extinction"
-      ],
-      "score": 74,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T14:06:48.018031+00:00",
-      "expires_at": "2026-08-03T14:06:48.018031+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "They are far along the road to extinction",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-03T16:43:52.860346+00:00"
-    },
-    {
       "id": "665d0de0eb8d",
       "fingerprint": "665d0de0eb8d",
       "narrative_summary": "Mountaineer Nirmal Purja muere en avalancha en Pakistán",
@@ -5902,13 +5612,14 @@
       "started_at": "2026-08-05T14:59:32.536428+00:00",
       "expires_at": "2026-08-08T14:59:32.536428+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "My favorite piece of merch other than the (not a) flamethrower",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-08T15:51:13.693741+00:00"
     },
     {
       "id": "1dfc93e0e483",
@@ -5947,13 +5658,14 @@
       "started_at": "2026-08-05T15:01:50.146710+00:00",
       "expires_at": "2026-08-08T15:01:50.146710+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Desplegados nueve medios aéreos del Infoca en un incendio declarado en un paraje de San Roque (Cádiz) - Ultima Hora",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-08T15:51:13.693756+00:00"
     },
     {
       "id": "c41ee4322e53",
@@ -7387,14 +7099,15 @@
       "started_at": "2026-08-06T14:59:45.193864+00:00",
       "expires_at": "2026-08-08T14:59:45.193864+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "NOW - Trump on DSA-tied Abdulrahmanl El-Sayed: \"When I watch Abdul, he's full of shit.\"",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-08T15:51:13.693762+00:00"
     },
     {
       "id": "40166da8f230",
@@ -7432,14 +7145,15 @@
       "started_at": "2026-08-06T15:02:15.958121+00:00",
       "expires_at": "2026-08-08T15:02:15.958121+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-08T15:51:13.693764+00:00"
     },
     {
       "id": "d050a258f151",
@@ -10644,7 +10358,227 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "5dce20a7b0a3",
+      "fingerprint": "5dce20a7b0a3",
+      "narrative_summary": "Un escolar de 12 años muere en un tiroteo en una escuela en Tailandia.",
+      "why_memeable": "La frase 'Mom, don't call me' es memeable y la imagen del tiroteo es visualmente impactante.",
+      "category": "Noticias de crímenes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "THAILANDSHOOTING",
+        "ESCOLARMUERE",
+        "TIROTEOENESCUELA"
+      ],
+      "key_terms_for_dex_search": [
+        "Tailandia",
+        "tiroteo",
+        "escolar",
+        "muerte"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T15:53:29.084486+00:00",
+      "expires_at": "2026-08-10T15:53:29.084486+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "'Mom, don't call me': Inside Thailand's deadly school shooting - reuters.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "cdf4dcc4f66b",
+      "fingerprint": "cdf4dcc4f66b",
+      "narrative_summary": "Dabo Swinney, entrenador de fútbol americano de Clemson, hace un comentario extraño que genera preocupación sobre Christopher Vizzina.",
+      "why_memeable": "El comentario de Dabo Swinney es extraño y genera preocupación, lo que lo hace fácilmente compartible y memeable.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DABOSWINNEY",
+        "CLEMSON",
+        "VIZZINAGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "DaboSwinney",
+        "Clemson",
+        "Vizzina",
+        "comentario extraño"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T15:54:03.556561+00:00",
+      "expires_at": "2026-08-10T15:54:03.556561+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Clemson HC Dabo Swinney's Bizarre Comment is Bad News for Christopher Vizzina - Yahoo Sports",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6aefeb062a58",
+      "fingerprint": "6aefeb062a58",
+      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
+      "why_memeable": "La narrativa es memeable debido a la afirmación audaz y sorprendente de Elon Musk sobre el tamaño y valor de Terafab Texas.",
+      "category": "Noticias de tecnología y arquitectura",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TERAFAB",
+        "TERAFAB TEXAS",
+        "ELON MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Terafab",
+        "Terafab Texas",
+        "Elon Musk",
+        "arquitectura",
+        "edificio más grande",
+        "valioso"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T15:54:20.055215+00:00",
+      "expires_at": "2026-08-10T15:54:20.055215+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8590ae3596ae",
+      "fingerprint": "8590ae3596ae",
+      "narrative_summary": "Elon Musk publicó un 'Wow' en Twitter con gran cantidad de engagement.",
+      "why_memeable": "La simplicidad de la frase 'Wow' y la gran cantidad de engagement hacen que sea fácilmente compartible y recordable.",
+      "category": "Cultura digital",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOWMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "wow",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T15:55:08.006171+00:00",
+      "expires_at": "2026-08-09T15:55:08.006171+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9d0aecf109a2",
+      "fingerprint": "9d0aecf109a2",
+      "narrative_summary": "Elon Musk publica 'True' en Twitter y genera gran interés",
+      "why_memeable": "La simplicidad y la claridad de la publicación de Elon Musk hacen que sea fácilmente compartible y recordable",
+      "category": "Tecnología/Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "true"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 5,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T15:56:13.752639+00:00",
+      "expires_at": "2026-08-10T15:56:13.752639+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T14:48:40.338493+00:00"
+  "last_updated": "2026-08-08T15:56:13.752639+00:00"
 }
