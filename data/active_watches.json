@@ -1,50 +1,6 @@
 {
   "watches": [
     {
-      "id": "8d89758655e0",
-      "fingerprint": "8d89758655e0",
-      "narrative_summary": "Elon Musk promociona Grok Build X.ai/cli como herramienta versátil y mejorada",
-      "why_memeable": "La narrativa es memeable debido a la simplicidad de la frase y la promoción de una herramienta por parte de Elon Musk, una figura influyente.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "XAICLI",
-        "GROKBUILD"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "XAICLI",
-        "GROKBUILD"
-      ],
-      "score": 86,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T05:03:33.102850+00:00",
-      "expires_at": "2026-08-03T05:03:33.102850+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Try @Grok Build X.ai/cli",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T07:51:25.705533+00:00"
-    },
-    {
       "id": "8bea18dc02d7",
       "fingerprint": "8bea18dc02d7",
       "narrative_summary": "Elon Musk comparte un enlace a la 'Moonlight Sonata Starship' en Twitter, generando gran interés y enganche.",
@@ -7509,13 +7465,14 @@
       "started_at": "2026-08-06T10:16:39.700232+00:00",
       "expires_at": "2026-08-08T10:16:39.700232+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-08T11:14:45.931293+00:00"
     },
     {
       "id": "f6ad3087a82a",
@@ -7551,13 +7508,14 @@
       "started_at": "2026-08-06T10:17:50.013036+00:00",
       "expires_at": "2026-08-08T10:17:50.013036+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok in Blender",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-08T11:14:45.931308+00:00"
     },
     {
       "id": "c03c6b57ef0d",
@@ -10369,7 +10327,49 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f609c34de40e",
+      "fingerprint": "f609c34de40e",
+      "narrative_summary": "Elon Musk comparte un título sobre violencia trans que genera gran atención en las redes.",
+      "why_memeable": "La narrativa tiene un título claro y un tema controvertido que puede generar debate.",
+      "category": "violencia trans",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRANSVIOLENCE",
+        "ELONMUSKTRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "elonmusk"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T11:19:20.123169+00:00",
+      "expires_at": "2026-08-10T11:19:20.123169+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T10:03:20.677169+00:00"
+  "last_updated": "2026-08-08T11:19:20.123169+00:00"
 }

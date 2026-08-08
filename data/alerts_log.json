@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T05:48:38.574395+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Noticias y eventos",
-        "title": "Breaking: New wildfire reported in Shasta County on July 6 - Fresno Bee",
-        "candidate_tickers": [
-          "ShastaFuego",
-          "TrumpFuego",
-          "Fuego250"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:49:15.063639+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5642f9fb1023",
-        "score": 88,
-        "category": "política",
-        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "NATO",
-          "RUSSIA",
-          "ZELENSKYVSRUSSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T05:50:41.286308+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dff07f115b85",
-        "score": 88,
-        "category": "Deportes",
-        "title": "Joey Chestnut eats 66 hot dogs to again claim Mustard Belt at Nathan’s Famous contest - AP News",
-        "candidate_tickers": [
-          "JOEYCHESTNUT66",
-          "MUSTARDBELT",
-          "HOTDOGS66",
-          "NATHANSFAMOUS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T05:51:15.114290+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28167,6 +28121,49 @@
           "TRANSVIOL",
           "VIOLENCIATRANS",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:17:59.822971+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "clima/naturaleza",
+        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+        "candidate_tickers": [
+          "Dolphin",
+          "Typhoon",
+          "Okinawa",
+          "China"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:19:20.549144+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f609c34de40e",
+        "score": 82,
+        "category": "violencia trans",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "ELONMUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T11:19:33.562639+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Celebridad",
+        "title": "Oh my goodness.",
+        "candidate_tickers": [
+          "OMG",
+          "Goodness",
+          "Elon"
         ]
       }
     }
