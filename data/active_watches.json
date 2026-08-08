@@ -1,161 +1,6 @@
 {
   "watches": [
     {
-      "id": "995b9756ec3f",
-      "fingerprint": "995b9756ec3f",
-      "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía la investigación de hacking.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto potencial de viralidad debido a la combinación de tecnología avanzada y misterio.",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "OPENAI",
-        "AI",
-        "HACKING",
-        "ESCAPE",
-        "CONTAINMENT"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "AI",
-        "hacking",
-        "escape",
-        "containment"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T07:39:18.330521+00:00",
-      "expires_at": "2026-08-04T07:39:18.330521+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232919.0,
-        "liquidity_usd": 34387.48,
-        "price_usd": 2.329e-06,
-        "volume_h24": 17797435.0,
-        "volume_h1": 1671318.63,
-        "volume_m5": 134223.99,
-        "price_change_5m": 3.92,
-        "price_change_1h": 9.0,
-        "price_change_24h": 218.0,
-        "txns_h1_buys": 1756,
-        "txns_h1_sells": 1399,
-        "created_ts": 1785592088000,
-        "pair_created_at": 1785592088000,
-        "url": "https://dexscreener.com/solana/9yqetkrtthu7ccnmprdkzupbyzpeyddwy8pvscggfcop",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: OPENAI==OPENAI",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:47.987143+00:00"
-    },
-    {
-      "id": "d5f680e77c0f",
-      "fingerprint": "d5f680e77c0f",
-      "narrative_summary": "Elon Musk afirma que ciertas criaturas están cerca de la extinción",
-      "why_memeable": "La frase es breve y fácil de recordar, y el contexto de Elon Musk la hace más viral",
-      "category": "Tecnología y Medio Ambiente",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "ROAD2EXT",
-        "EXTINCT",
-        "EXTINCTION"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "extinction",
-        "road"
-      ],
-      "score": 83,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T07:40:46.125596+00:00",
-      "expires_at": "2026-08-03T07:40:46.125596+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Rome",
-        "name": "All Roads Lead To Rome",
-        "mint": "8ZeTmGGktvSwSSghx8btbTAVGdWogThKM4DQBJgRpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 44666.0,
-        "liquidity_usd": 25730.83,
-        "price_usd": 4.468e-05,
-        "volume_h24": 5016.84,
-        "volume_h1": 0.44,
-        "volume_m5": 0.44,
-        "price_change_5m": 0.17,
-        "price_change_1h": 0.17,
-        "price_change_24h": -1.08,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1758122131000,
-        "pair_created_at": 1758122131000,
-        "url": "https://dexscreener.com/solana/edpqmvu9okrtnkn8k3tvqwpew6uadexbemdpn7y3hvs2",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ROAD in ALL ROADS LEAD TO ROME",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "They are far along the road to extinction",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:49.749382+00:00"
-    },
-    {
       "id": "ab204f2dc8c6",
       "fingerprint": "ab204f2dc8c6",
       "narrative_summary": "Russia ataca la capital ucraniana con misiles balísticos y drones, matando al menos 9 personas.",
@@ -10717,7 +10562,92 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "2e436e84bcbe",
+      "fingerprint": "2e436e84bcbe",
+      "narrative_summary": "Elon Musk confirma la verdad de algo, generando gran interés y debate.",
+      "why_memeable": "La simplicidad y claridad de la afirmación de Elon Musk la hacen altamente memeable.",
+      "category": "Tecnología y Política",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "verdad",
+        "true"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-08T14:00:55.053796+00:00",
+      "expires_at": "2026-08-15T14:00:55.053796+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a4dc4f3ff264",
+      "fingerprint": "a4dc4f3ff264",
+      "narrative_summary": "Elon Musk comparte un título sobre violencia contra personas transgénero",
+      "why_memeable": "La narrativa tiene un claro enfoque en violencia y transgénero, lo que la hace fácilmente compartible y repetible",
+      "category": "violencia y derechos humanos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRANSVIOLENCE",
+        "MUSKTRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "elonmusk"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T14:01:23.538903+00:00",
+      "expires_at": "2026-08-09T14:01:23.538903+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T13:08:08.642630+00:00"
+  "last_updated": "2026-08-08T14:01:23.538903+00:00"
 }

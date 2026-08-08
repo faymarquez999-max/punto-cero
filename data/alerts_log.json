@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T17:38:20.968146+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "accidente",
-        "title": "‘Large scale hazmat incident’ prompts massive emergency response on 62nd Street Bridge - Pittsburgh Post-Gazette",
-        "candidate_tickers": [
-          "hazmat",
-          "62nd",
-          "bridge",
-          "pittsburgh"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T19:28:31.428573+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Entretenimiento",
-        "title": "Karlovy Vary: ‘Harold & Kumar 4’ Confirmed as Producers Weigh In on Casting Wars and the Gen Z Box Office Recovery",
-        "candidate_tickers": [
-          "HK4",
-          "KarlovyVary",
-          "HaroldKumar"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T19:29:02.166603+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b9a818ec834f",
-        "score": 80,
-        "category": "Política francesa",
-        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-        "candidate_tickers": [
-          "LEPEN2026",
-          "MARINELEPEN",
-          "BRAZALETEELECTRONICO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T19:30:29.991484+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "St. Johns GOP Chair discusses ‘criminal conspiracy’ behind fake voter guide in 2024 - Florida Politics",
-        "candidate_tickers": [
-          "MuskConspiracy",
-          "FakeVoterGuide",
-          "TrumpMusk"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T19:32:29.501980+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d0bca43426a8",
-        "score": 79,
-        "category": "Noticias de desastres naturales",
-        "title": "Manhattan high-rise is still unstable after columns buckle, forcing evacuations - AP News",
-        "candidate_tickers": [
-          "MANHATTANINESTABLE",
-          "RASCACIELOSDEMANHATTAN",
-          "EVACUACIONESFORZADAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T21:11:32.857263+00:00",
       "kind": "shadow",
       "payload": {
@@ -28114,6 +28041,78 @@
         "ticker": "TNOS",
         "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
         "mc": 159695.0
+      }
+    },
+    {
+      "ts": "2026-08-08T14:00:40.650856+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias sobre edificios y construcción",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "Terafab",
+          "TerafabTexas",
+          "EdificioMásGrande"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:00:55.631497+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2e436e84bcbe",
+        "score": 85,
+        "category": "Tecnología y Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:01:24.140996+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a4dc4f3ff264",
+        "score": 83,
+        "category": "violencia y derechos humanos",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "MUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:04:12.480672+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "actualidad",
+        "title": "ÚLTIMA HORA | Duro accidente de Quiles con posible lesión, camino del centro médico - MOTOSAN",
+        "candidate_tickers": [
+          "CeutaAccidente",
+          "ControlesFronterizos",
+          "MigrantesEnCeuta"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T14:05:19.837172+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Noticias internacionales",
+        "title": "En directo: ataques rusos dejan cuatro muertos cerca de Kiev durante la primera visita de Zelenski a Serbia - France 24",
+        "candidate_tickers": [
+          "KIEV",
+          "ZEL",
+          "RUSSIA",
+          "SERBIA"
+        ]
       }
     }
   ]
