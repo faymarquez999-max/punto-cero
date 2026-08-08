@@ -1,241 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-07T09:00:31.990689+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a47700bcca99",
-        "score": 89,
-        "category": "animal abuse",
-        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-        "candidate_tickers": [
-          "DEADDOGS",
-          "ANIMALABUSE",
-          "CALIFORNIASHAME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T09:01:16.305989+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Política y celebridades",
-        "title": "E-bike injury payouts top £110m and push up insurance premiums",
-        "candidate_tickers": [
-          "MuskVsTrump",
-          "ElonVsDonald",
-          "PolíticaEnRedes"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T09:02:26.287716+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ae5336b32496",
-        "score": 90,
-        "category": "política internacional",
-        "title": "Iran’s Revolutionary Guard Fires Missiles at Ships Near Hormuz - WSJ",
-        "candidate_tickers": [
-          "IRAN",
-          "HORMUZ",
-          "REVOLUTIONARY GUARD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T09:03:15.003695+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "112d6e46e189",
-        "score": 90,
-        "category": "Noticias de crímenes y celebridades",
-        "title": "Joey Chestnut eats 66 hot dogs to again claim Mustard Belt at Nathan’s Famous contest - AP News",
-        "candidate_tickers": [
-          "GATOMORTO",
-          "HOTDOGS66",
-          "JOEYCHESTNUT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T09:04:03.952707+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "corrupción",
-        "title": "China sentences former local official to death in $324m corruption case",
-        "candidate_tickers": [
-          "CORRUPTION",
-          "CHINA",
-          "CORRUPTION_CASE",
-          "DEATH_SENTENCE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T09:04:22.462916+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "112d6e46e189",
-        "ticker": "ELGATO",
-        "mint": "F47vvwFYuLioQsqEVAjqdY6Yihc8wVRiUcfHGcBR9XUs",
-        "mc": 99994.0
-      }
-    },
-    {
-      "ts": "2026-07-07T12:08:13.808003+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2761ebaa90b2",
-        "score": 90,
-        "category": "Noticias de actualidad",
-        "title": "Bomb attack rocks Damascus during Macron visit - Reuters",
-        "candidate_tickers": [
-          "BOMBATTACK",
-          "PERROSMUERTOS",
-          "RESCATEANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T12:11:40.726213+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política internacional",
-        "title": "What to know about China’s rare ballistic missile test and why it raises concerns - AP News",
-        "candidate_tickers": [
-          "CHINA_BALLISTIC_MISSILE",
-          "PACIFIC_CONCERNS",
-          "MISSILE_TEST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T12:12:06.144016+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0f2a67130799",
-        "score": 70,
-        "category": "política",
-        "title": "Democrats have abandoned Graham Platner - Politico",
-        "candidate_tickers": [
-          "GRAHAMPLATNER",
-          "ABUSOSEXUAL",
-          "DEMÓCRATAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T15:21:21.128501+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9889a6570353",
-        "score": 88,
-        "category": "desastres naturales",
-        "title": "Building in Midtown Manhattan Evacuated on Collapse Fears - Bloomberg.com",
-        "candidate_tickers": [
-          "EDIFICIO_COLAPSO",
-          "MIDTOWN_MANHATTAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T15:23:30.702703+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "50f898f9bf52",
-        "score": 78,
-        "category": "Noticias de crimen y violencia",
-        "title": "Suspect in Monaco bombing found dead in Ukraine, shot in the head - Reuters",
-        "candidate_tickers": [
-          "MÓNACOBOMBING",
-          "SOSPECHOSOMUERTO",
-          "DISPAROENLACABEZA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T15:24:37.532237+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e9092be43b6e",
-        "score": 91,
-        "category": "Guerra y política",
-        "title": "Ukrainian drones hit Russian fuel tankers",
-        "candidate_tickers": [
-          "DRONESUCRANIA",
-          "TANQUESRUSOS",
-          "REFINERIARUSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T17:36:57.468546+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "99fc21ec1c2a",
-        "score": 86,
-        "category": "política",
-        "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation - BBC",
-        "candidate_tickers": [
-          "MEAG",
-          "MAINESENATE",
-          "AGRESIÓNSEXUAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T17:36:59.484116+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a82211eced70",
-        "score": 80,
-        "category": "Política y Escándalo",
-        "title": "Bernie Sanders says he told Graham Platner to ‘step aside’ - Politico",
-        "candidate_tickers": [
-          "PLATNER",
-          "BERNIE",
-          "STEPASIDE",
-          "POLITICOSCANDAL",
-          "GRAHAMGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T17:38:02.427927+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "450ff22c6ef0",
-        "score": 74,
-        "category": "Videojuegos y cultura de internet",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKMARINE",
-          "KEKKEKKEK",
-          "9YEARLINK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T17:38:05.595077+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "982f17651748",
-        "score": 74,
-        "category": "Noticias de la vida silvestre y justicia",
-        "title": "Nagarahole forest guard held for keeping deer at home for slaughter, animal rescued; probe underway - Deccan Herald",
-        "candidate_tickers": [
-          "DEERGUARD",
-          "WILDLIFEJUSTICE",
-          "NAGARAHOLE",
-          "CIERVOSALVADO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T17:38:20.968146+00:00",
       "kind": "shadow",
       "payload": {
@@ -28177,6 +27942,178 @@
           "GOODNESS",
           "OHMYGOODNESS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-08T13:03:16.076141+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b05a5732e8e0",
+        "score": 74,
+        "category": "política",
+        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+        "candidate_tickers": [
+          "TRUMP_INVESTIGACIONES",
+          "DEMOCRATAS_GANAN_CAMARA",
+          "TRUMP_EN_PROBLEMAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T13:03:30.934625+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSKTRUTH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T13:03:54.770547+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f33f85861eb4",
+        "score": 72,
+        "category": "violencia y derechos humanos",
+        "title": "More trans violence",
+        "candidate_tickers": [
+          "TRANSVIOLENCE",
+          "ELONMUSKTRANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:04.855238+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2e2a3531b706",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77996.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:13.384405+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "22fdcc1fc187",
+        "ticker": "Fraggle",
+        "mint": "Agmu8Xgn7rU4zFv4DMPrEBhYDdPsmiEG5hCiYyvSpump",
+        "mc": 72447.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:15.862316+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "73fe67cd824a",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77996.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:29.787525+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "80cadf781a90",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77996.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:33.011643+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4f5525025662",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77996.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:40.585550+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6b120658076a",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77716.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:43.113251+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f30d002ff771",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 77716.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:52.512232+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "bebeb81e556d",
+        "ticker": "TNOS",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "mc": 159695.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:54.616941+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d4e924035061",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 55635.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:07:56.401932+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "082e36a78c9e",
+        "ticker": "TNOS",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "mc": 159695.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:08:04.119936+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "704f4261df68",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 55635.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:08:06.197969+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5cd9c9d841a9",
+        "ticker": "TNOS",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "mc": 159695.0
+      }
+    },
+    {
+      "ts": "2026-08-08T13:08:08.653494+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "258ee5bad50a",
+        "ticker": "TNOS",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "mc": 159695.0
       }
     }
   ]

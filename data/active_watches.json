@@ -1,97 +1,6 @@
 {
   "watches": [
     {
-      "id": "8bea18dc02d7",
-      "fingerprint": "8bea18dc02d7",
-      "narrative_summary": "Elon Musk comparte un enlace a la 'Moonlight Sonata Starship' en Twitter, generando gran interés y enganche.",
-      "why_memeable": "La combinación de 'Moonlight Sonata' (una famosa sonata de piano) y 'Starship' (la nave espacial de SpaceX) es inusual y fácil de recordar.",
-      "category": "Tecnología/Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "MOONLIGHTSONATA",
-        "STARSHIPSONATA"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "moonlightsonata",
-        "starship"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-01T05:03:56.475187+00:00",
-      "expires_at": "2026-08-03T05:03:56.475187+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Moonlight Sonata Starship",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T07:51:25.705535+00:00"
-    },
-    {
-      "id": "65df2f8f0939",
-      "fingerprint": "65df2f8f0939",
-      "narrative_summary": "El Departamento de Justicia (DOJ) abandona cargos por dañar el estanque de reflexión, citando 'trabajo mal hecho' y contradiciendo a Trump.",
-      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
-      "category": "Política/Justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "REFLECTINGPOOL",
-        "DOJ",
-        "TRUMP",
-        "ESTANQUE DE REFLEXIÓN"
-      ],
-      "key_terms_for_dex_search": [
-        "DOJ",
-        "Reflecting Pool",
-        "Trump",
-        "Justicia",
-        "Política"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T07:37:00.801015+00:00",
-      "expires_at": "2026-08-03T07:37:00.801015+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T07:51:25.705538+00:00"
-    },
-    {
       "id": "995b9756ec3f",
       "fingerprint": "995b9756ec3f",
       "narrative_summary": "OpenAI encuentra evidencia de otros agentes de IA que escaparon de la contención mientras amplía la investigación de hacking.",
@@ -6031,14 +5940,15 @@
       "started_at": "2026-08-05T12:20:44.162287+00:00",
       "expires_at": "2026-08-08T12:20:44.162287+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Shakira recreates her iconic meme nearly 30 years later.",
       "cluster_sources": [
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-08T13:03:00.983119+00:00"
     },
     {
       "id": "97e2f9c8e524",
@@ -6247,7 +6157,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1dfc93e0e483",
@@ -6292,7 +6202,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c41ee4322e53",
@@ -7353,7 +7263,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cb1ca233f8a8",
@@ -7642,7 +7552,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "93c74be3f893",
@@ -7688,7 +7598,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "45bd8c96c397",
@@ -7733,7 +7643,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "40166da8f230",
@@ -7778,7 +7688,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d050a258f151",
@@ -7979,7 +7889,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "72f861bef343",
@@ -8027,7 +7937,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "af6b26d646fe",
@@ -8072,7 +7982,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9bc7b0f321ab",
@@ -8120,7 +8030,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9c6033461753",
@@ -8165,7 +8075,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3df19f1cd4cb",
@@ -8208,7 +8118,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2e2a3531b706",
@@ -8247,13 +8157,40 @@
       "started_at": "2026-08-07T05:30:40.214588+00:00",
       "expires_at": "2026-08-09T05:30:40.214588+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77996.0,
+        "liquidity_usd": 31658.56,
+        "price_usd": 7.801e-05,
+        "volume_h24": 63235.24,
+        "volume_h1": 459.16,
+        "volume_m5": 99.11,
+        "price_change_5m": -0.16,
+        "price_change_1h": -3.13,
+        "price_change_24h": -29.33,
+        "txns_h1_buys": 6,
+        "txns_h1_sells": 8,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-08T13:07:04.845784+00:00"
     },
     {
       "id": "b43be510ce55",
@@ -8299,7 +8236,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "fc82beee678f",
@@ -8344,7 +8281,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "eac53bdfdbb8",
@@ -8390,7 +8327,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "22fdcc1fc187",
@@ -8428,14 +8365,41 @@
       "started_at": "2026-08-07T08:22:25.277809+00:00",
       "expires_at": "2026-08-09T08:22:25.277809+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Fraggle",
+        "name": "The Grieving Dolphin",
+        "mint": "Agmu8Xgn7rU4zFv4DMPrEBhYDdPsmiEG5hCiYyvSpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 72447.0,
+        "liquidity_usd": 25344.97,
+        "price_usd": 7.486e-05,
+        "volume_h24": 324835.07,
+        "volume_h1": 5286.54,
+        "volume_m5": 1011.28,
+        "price_change_5m": 4.38,
+        "price_change_1h": -3.95,
+        "price_change_24h": -66.98,
+        "txns_h1_buys": 68,
+        "txns_h1_sells": 59,
+        "created_ts": 1785436865000,
+        "pair_created_at": 1785436865000,
+        "url": "https://dexscreener.com/solana/bdkaa5crbqk2urcwp1erpx6aj5dawwqrtctzdv7v2wyh",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DOLPHIN in THE GRIEVING DOLPHIN",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Japan orders evacuations as Typhoon Dolphin approaches, cancels 500 flights - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:13.373483+00:00"
     },
     {
       "id": "73fe67cd824a",
@@ -8473,13 +8437,40 @@
       "started_at": "2026-08-07T08:23:35.756140+00:00",
       "expires_at": "2026-08-09T08:23:35.756140+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77996.0,
+        "liquidity_usd": 31658.56,
+        "price_usd": 7.801e-05,
+        "volume_h24": 63235.24,
+        "volume_h1": 459.16,
+        "volume_m5": 99.11,
+        "price_change_5m": -0.16,
+        "price_change_1h": -3.13,
+        "price_change_24h": -29.33,
+        "txns_h1_buys": 6,
+        "txns_h1_sells": 8,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:15.852057+00:00"
     },
     {
       "id": "6d1a3231aed6",
@@ -8524,7 +8515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e05dfaeb9dbd",
@@ -8569,7 +8560,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9bcfd8a14e61",
@@ -8615,7 +8606,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "258cbdb7fe07",
@@ -8660,7 +8651,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "618d0bda1cab",
@@ -8709,7 +8700,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6fcbdd6b7421",
@@ -8755,7 +8746,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "dc1a726c5a1a",
@@ -8799,7 +8790,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d91231dc5fe8",
@@ -8845,7 +8836,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "80cadf781a90",
@@ -8884,13 +8875,40 @@
       "started_at": "2026-08-07T11:39:46.283725+00:00",
       "expires_at": "2026-08-09T11:39:46.283725+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77996.0,
+        "liquidity_usd": 31658.56,
+        "price_usd": 7.801e-05,
+        "volume_h24": 63235.24,
+        "volume_h1": 459.16,
+        "volume_m5": 99.11,
+        "price_change_5m": -0.16,
+        "price_change_1h": -3.13,
+        "price_change_24h": -29.33,
+        "txns_h1_buys": 6,
+        "txns_h1_sells": 8,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Terafab will be 50 times the size of the Pentagon when complete",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:29.776952+00:00"
     },
     {
       "id": "fb17c72476a1",
@@ -8937,7 +8955,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4f5525025662",
@@ -8975,13 +8993,40 @@
       "started_at": "2026-08-07T13:58:23.008768+00:00",
       "expires_at": "2026-08-09T13:58:23.008768+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77996.0,
+        "liquidity_usd": 31658.56,
+        "price_usd": 7.801e-05,
+        "volume_h24": 63235.24,
+        "volume_h1": 459.16,
+        "volume_m5": 99.11,
+        "price_change_5m": -0.16,
+        "price_change_1h": -3.13,
+        "price_change_24h": -29.33,
+        "txns_h1_buys": 6,
+        "txns_h1_sells": 8,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:33.001335+00:00"
     },
     {
       "id": "c957db931b45",
@@ -9028,7 +9073,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "02588a434938",
@@ -9076,7 +9121,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7326ffe3e2ca",
@@ -9122,7 +9167,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6b120658076a",
@@ -9160,13 +9205,40 @@
       "started_at": "2026-08-07T17:15:10.399562+00:00",
       "expires_at": "2026-08-10T17:15:10.399562+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77716.0,
+        "liquidity_usd": 31599.28,
+        "price_usd": 7.773e-05,
+        "volume_h24": 63367.6,
+        "volume_h1": 602.97,
+        "volume_m5": 146.39,
+        "price_change_5m": -1.09,
+        "price_change_1h": -3.48,
+        "price_change_24h": -30.67,
+        "txns_h1_buys": 7,
+        "txns_h1_sells": 12,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Terafab will be 50 times the size of the Pentagon when complete",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:40.575154+00:00"
     },
     {
       "id": "f30d002ff771",
@@ -9204,13 +9276,40 @@
       "started_at": "2026-08-07T17:16:41.670277+00:00",
       "expires_at": "2026-08-09T17:16:41.670277+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 77716.0,
+        "liquidity_usd": 31599.28,
+        "price_usd": 7.773e-05,
+        "volume_h24": 63367.6,
+        "volume_h1": 602.97,
+        "volume_m5": 146.39,
+        "price_change_5m": -1.09,
+        "price_change_1h": -3.48,
+        "price_change_24h": -30.67,
+        "txns_h1_buys": 7,
+        "txns_h1_sells": 12,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:43.069484+00:00"
     },
     {
       "id": "e3c298516f1b",
@@ -9257,7 +9356,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8ec80da794e6",
@@ -9303,7 +9402,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c7b0753be21d",
@@ -9345,7 +9444,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "bebeb81e556d",
@@ -9382,13 +9481,40 @@
       "started_at": "2026-08-07T19:24:24.864557+00:00",
       "expires_at": "2026-08-09T19:24:24.864557+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TNOS",
+        "name": "Transnational Oil Supply",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 159695.0,
+        "liquidity_usd": 27959.59,
+        "price_usd": 0.0001613,
+        "volume_h24": 8993.94,
+        "volume_h1": 1502.35,
+        "volume_m5": 101.78,
+        "price_change_5m": 0.35,
+        "price_change_1h": 8.39,
+        "price_change_24h": 416.0,
+        "txns_h1_buys": 249,
+        "txns_h1_sells": 39,
+        "created_ts": 1786189009000,
+        "pair_created_at": 1786189009000,
+        "url": "https://dexscreener.com/solana/c9fltcfvhyng9gvndkrduwvln3nhkb1hwahj52kjadnd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRANS in TRANSNATIONAL OIL SUPPLY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "More trans violence",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:52.501345+00:00"
     },
     {
       "id": "d4e924035061",
@@ -9424,13 +9550,40 @@
       "started_at": "2026-08-07T22:01:21.146961+00:00",
       "expires_at": "2026-08-09T22:01:21.146961+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 55635.0,
+        "liquidity_usd": 19063.35,
+        "price_usd": 5.722e-05,
+        "volume_h24": 83190.79,
+        "volume_h1": 2675.43,
+        "volume_m5": 21.22,
+        "price_change_5m": -1.38,
+        "price_change_1h": -10.28,
+        "price_change_24h": 7.06,
+        "txns_h1_buys": 40,
+        "txns_h1_sells": 25,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:54.605960+00:00"
     },
     {
       "id": "082e36a78c9e",
@@ -9468,13 +9621,40 @@
       "started_at": "2026-08-07T22:01:35.607177+00:00",
       "expires_at": "2026-08-09T22:01:35.607177+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TNOS",
+        "name": "Transnational Oil Supply",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 159695.0,
+        "liquidity_usd": 27959.59,
+        "price_usd": 0.0001613,
+        "volume_h24": 8993.94,
+        "volume_h1": 1502.35,
+        "volume_m5": 101.78,
+        "price_change_5m": 0.35,
+        "price_change_1h": 8.39,
+        "price_change_24h": 416.0,
+        "txns_h1_buys": 249,
+        "txns_h1_sells": 39,
+        "created_ts": 1786189009000,
+        "pair_created_at": 1786189009000,
+        "url": "https://dexscreener.com/solana/c9fltcfvhyng9gvndkrduwvln3nhkb1hwahj52kjadnd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRANS in TRANSNATIONAL OIL SUPPLY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "More trans violence",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:07:56.391122+00:00"
     },
     {
       "id": "9707c0a2d2d4",
@@ -9518,7 +9698,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ce44e868928f",
@@ -9562,7 +9742,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c29a46d5e172",
@@ -9605,7 +9785,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "704f4261df68",
@@ -9646,8 +9826,34 @@
       "started_at": "2026-08-08T02:46:45.577035+00:00",
       "expires_at": "2026-08-11T02:46:45.577035+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 55635.0,
+        "liquidity_usd": 19063.35,
+        "price_usd": 5.722e-05,
+        "volume_h24": 83190.79,
+        "volume_h1": 2675.43,
+        "volume_m5": 21.22,
+        "price_change_5m": -1.38,
+        "price_change_1h": -10.28,
+        "price_change_24h": 7.06,
+        "txns_h1_buys": 40,
+        "txns_h1_sells": 25,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Same thing seems to be happening with TV shows and video games",
       "cluster_sources": [
         "4chan",
@@ -9655,7 +9861,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:08:04.109022+00:00"
     },
     {
       "id": "3273d16b7c43",
@@ -9697,7 +9904,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5cd9c9d841a9",
@@ -9734,13 +9941,40 @@
       "started_at": "2026-08-08T02:50:47.759702+00:00",
       "expires_at": "2026-08-10T02:50:47.759702+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TNOS",
+        "name": "Transnational Oil Supply",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 159695.0,
+        "liquidity_usd": 27959.59,
+        "price_usd": 0.0001613,
+        "volume_h24": 8993.94,
+        "volume_h1": 1502.35,
+        "volume_m5": 101.78,
+        "price_change_5m": 0.35,
+        "price_change_1h": 8.39,
+        "price_change_24h": 416.0,
+        "txns_h1_buys": 249,
+        "txns_h1_sells": 39,
+        "created_ts": 1786189009000,
+        "pair_created_at": 1786189009000,
+        "url": "https://dexscreener.com/solana/c9fltcfvhyng9gvndkrduwvln3nhkb1hwahj52kjadnd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRANS in TRANSNATIONAL OIL SUPPLY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "More trans violence",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:08:06.186696+00:00"
     },
     {
       "id": "bee58df7c34e",
@@ -9783,7 +10017,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1ce162a1af11",
@@ -9826,7 +10060,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "258ee5bad50a",
@@ -9863,13 +10097,40 @@
       "started_at": "2026-08-08T04:02:01.448843+00:00",
       "expires_at": "2026-08-10T04:02:01.448843+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TNOS",
+        "name": "Transnational Oil Supply",
+        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 159695.0,
+        "liquidity_usd": 27959.59,
+        "price_usd": 0.0001613,
+        "volume_h24": 8993.94,
+        "volume_h1": 1502.35,
+        "volume_m5": 101.78,
+        "price_change_5m": 0.35,
+        "price_change_1h": 8.39,
+        "price_change_24h": 416.0,
+        "txns_h1_buys": 249,
+        "txns_h1_sells": 39,
+        "created_ts": 1786189009000,
+        "pair_created_at": 1786189009000,
+        "url": "https://dexscreener.com/solana/c9fltcfvhyng9gvndkrduwvln3nhkb1hwahj52kjadnd",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: TRANS in TRANSNATIONAL OIL SUPPLY",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "More trans violence",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-08T13:08:08.642612+00:00"
     },
     {
       "id": "3d610c078572",
@@ -10369,7 +10630,94 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "b05a5732e8e0",
+      "fingerprint": "b05a5732e8e0",
+      "narrative_summary": "Investigaciones sobre Trump si los demócratas ganan la Cámara de Representantes",
+      "why_memeable": "La narrativa es memeable porque implica a Trump y una posible investigación, lo que es un tema polarizador y culturalmente resonante.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_INVESTIGACIONES",
+        "DEMOCRATAS_GANAN_CAMARA",
+        "TRUMP_EN_PROBLEMAS"
+      ],
+      "key_terms_for_dex_search": [
+        "trump",
+        "investigaciones",
+        "democratas",
+        "cámara de representantes"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T13:03:15.566776+00:00",
+      "expires_at": "2026-08-10T13:03:15.566776+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "f33f85861eb4",
+      "fingerprint": "f33f85861eb4",
+      "narrative_summary": "Elon Musk comparte un enlace sobre violencia contra personas transgénero, generando gran atención en las redes sociales.",
+      "why_memeable": "La narrativa tiene un claro enfoque en un tema controvertido y polarizante, que puede ser capturado en una frase simple.",
+      "category": "violencia y derechos humanos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRANSVIOLENCE",
+        "ELONMUSKTRANS"
+      ],
+      "key_terms_for_dex_search": [
+        "trans",
+        "violence",
+        "ElonMusk"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 9,
+        "polarizing": 9,
+        "absurdity": 0,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T13:03:54.202811+00:00",
+      "expires_at": "2026-08-10T13:03:54.202811+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More trans violence",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T11:19:20.123169+00:00"
+  "last_updated": "2026-08-08T13:08:08.642630+00:00"
 }
