@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-06T23:25:13.037673+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "711550908ddc",
-        "score": 80,
-        "category": "política",
-        "title": "Ukraine's Zelenskiy: It is 'absurd' that production of missile defence arms cannot meet demand - Reuters",
-        "candidate_tickers": [
-          "ZELENSKIY",
-          "UCRANIA",
-          "ARMAS DE DEFENSA ANTIMISILES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T01:22:28.314764+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias de policía y violencia",
-        "title": "6 arrested after viral video shows North Charleston officer attacked during July 4 block party - Live 5 News",
-        "candidate_tickers": [
-          "OfficerAttack",
-          "PolicíaViolencia",
-          "Injusticia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-07T01:22:54.891414+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e26040569f96",
-        "score": 74,
-        "category": "muerte de una celebridad",
-        "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
-        "candidate_tickers": [
-          "RIPLAURENBENNETT",
-          "PARTYROCKANTHEM"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-07T01:23:42.607111+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28177,6 +28134,51 @@
         "candidate_tickers": [
           "TRUE",
           "ELONMUSKTRUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T09:07:12.262088+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b7d1fbd435d1",
+        "score": 88,
+        "category": "Noticias",
+        "title": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
+        "candidate_tickers": [
+          "BANGKOKMASSACRE",
+          "ESTUDIANTEASESINO",
+          "ESCUELASECUNDARIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T09:08:55.343646+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ed1861e39e0a",
+        "score": 89,
+        "category": "Deportes/Noticias",
+        "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+        "candidate_tickers": [
+          "CLARKEDIED",
+          "BRANDONCLARKE",
+          "NBA",
+          "HEROÍNACOCAÍNA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T09:09:23.929378+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Meteorología",
+        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+        "candidate_tickers": [
+          "TyphoonDolphin",
+          "DolphinTifón",
+          "TifónDolphin"
         ]
       }
     }
