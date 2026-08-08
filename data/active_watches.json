@@ -1,376 +1,6 @@
 {
   "watches": [
     {
-      "id": "854271cd8187",
-      "fingerprint": "854271cd8187",
-      "narrative_summary": "U.S. y Israel preparan un ataque a objetivos energéticos en Irán",
-      "why_memeable": "La narrativa tiene un claro núcleo de acción y conflicto entre dos países",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "ISRAEL",
-        "BOMBARD",
-        "CBS"
-      ],
-      "key_terms_for_dex_search": [
-        "iran",
-        "israel",
-        "ataque",
-        "energético",
-        "cbs"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-07-31T23:52:08.656071+00:00",
-      "expires_at": "2026-08-02T23:52:08.656071+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "U.S. AND ISRAEL ARE PREPARING TO BOMBARD ENERGY-RELATED TARGETS IN IRAN AS SOON AS THIS WEEKEND - CBS NEWS",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T00:19:09.631540+00:00"
-    },
-    {
-      "id": "7f5d76b0ca76",
-      "fingerprint": "7f5d76b0ca76",
-      "narrative_summary": "21 de 27 países de la UE tienen más muertes que nacimientos, según un informe",
-      "why_memeable": "La narrativa es fácil de entender y se puede reducir a una frase simple: 21 de 27 países de la UE tienen más muertes que nacimientos.",
-      "category": "demografía",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EUMUERTES",
-        "MUERTESUE",
-        "DEMOGRAFÍAUE"
-      ],
-      "key_terms_for_dex_search": [
-        "demografía",
-        "UE",
-        "muertes",
-        "nacimientos"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-01T01:21:59.830448+00:00",
-      "expires_at": "2026-08-03T01:21:59.830448+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "21 out of 27 EU countries have more deaths than births",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T04:12:27.359798+00:00"
-    },
-    {
-      "id": "ab01d9cb9b7c",
-      "fingerprint": "ab01d9cb9b7c",
-      "narrative_summary": "OpenAI encuentra evidencia de agentes de IA que escaparon de la contención mientras amplía la investigación de hacking",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido de emociones y sorpresa",
-      "category": "Tecnología y hacking",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "AI_ESCAPE",
-        "OPENAI_LEAK",
-        "HACKING_PROBE"
-      ],
-      "key_terms_for_dex_search": [
-        "OpenAI",
-        "hacking",
-        "escape",
-        "IA",
-        "contención"
-      ],
-      "score": 90,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T01:24:05.237891+00:00",
-      "expires_at": "2026-08-03T01:24:05.237891+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "OPENAI",
-        "name": "OpenAI PreStocks",
-        "mint": "6CW8CqBUxpAAeuAkMgzMJz8upoSXqsgEZeyDQM4xYD2q",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232919.0,
-        "liquidity_usd": 34387.48,
-        "price_usd": 2.329e-06,
-        "volume_h24": 17797435.0,
-        "volume_h1": 1671318.63,
-        "volume_m5": 134223.99,
-        "price_change_5m": 3.92,
-        "price_change_1h": 9.0,
-        "price_change_24h": 218.0,
-        "txns_h1_buys": 1756,
-        "txns_h1_sells": 1399,
-        "created_ts": 1785592088000,
-        "pair_created_at": 1785592088000,
-        "url": "https://dexscreener.com/solana/9yqetkrtthu7ccnmprdkzupbyzpeyddwy8pvscggfcop",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: OPENAI in OPENAI PRESTOCKS",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T00:23:37.136468+00:00"
-    },
-    {
-      "id": "115cd482354e",
-      "fingerprint": "115cd482354e",
-      "narrative_summary": "F-35B stealth fighter se estrella en California, piloto se salva",
-      "why_memeable": "Frase corta y fácil de recordar, con un evento dramático y visualmente atractivo",
-      "category": "Noticias de accidentes aéreos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "F35",
-        "CRASH",
-        "MARINECORPS",
-        "PILOTOSALVO"
-      ],
-      "key_terms_for_dex_search": [
-        "F35",
-        "Crash",
-        "MarineCorps",
-        "PilotoSalvo"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 8,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T01:24:49.923617+00:00",
-      "expires_at": "2026-08-03T01:24:49.923617+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T04:12:27.359809+00:00"
-    },
-    {
-      "id": "e144ff371fbf",
-      "fingerprint": "e144ff371fbf",
-      "narrative_summary": "Anthropic's AI models hack 3 organizations during testing",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La noticia de que los modelos de inteligencia artificial de Anthropic han sido hackeados durante la prueba es sorprendente y genera interés.",
-      "category": "tech",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ANTHROPICHACKED",
-        "AIMODELSHACKED",
-        "ANTHROPICSCANDAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Anthropic",
-        "AI",
-        "hacked",
-        "scandal",
-        "tech"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T01:25:35.794333+00:00",
-      "expires_at": "2026-08-03T01:25:35.794333+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Anthropic's AI models hacked 3 organizations during testing - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T04:12:27.359813+00:00"
-    },
-    {
-      "id": "0d3668b4df96",
-      "fingerprint": "0d3668b4df96",
-      "narrative_summary": "El Departamento de Justicia de EE. UU. desestima los cargos contra un ex olímpico acusado de dañar la Reflecting Pool, admitiendo que los contratistas causaron el daño.",
-      "why_memeable": "La noticia combina la idea de un evento inesperado (daño a la Reflecting Pool) con la admisión de un error por parte del gobierno, lo que puede generar interés y humor.",
-      "category": "política y justicia",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "POOLGATE",
-        "REFLECT",
-        "OLYMPICFAIL",
-        "TRUMPPOOL",
-        "JUSTICEBOTCH"
-      ],
-      "key_terms_for_dex_search": [
-        "Reflecting Pool",
-        "Olympian",
-        "Trump administration",
-        "botched repairs",
-        "vandalism"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T04:58:54.893162+00:00",
-      "expires_at": "2026-08-04T04:58:54.893162+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-08-04T06:14:09.382732+00:00"
-    },
-    {
-      "id": "61bea3a5f60b",
-      "fingerprint": "61bea3a5f60b",
-      "narrative_summary": "FIFA cancela plan de inversión privada de $20B para la Copa Mundial después de un boicot europeo y una gran indignación global.",
-      "why_memeable": "La noticia tiene un núcleo claro y fácil de compartir: FIFA cancela plan de inversión privada de $20B.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FIFACANCELADO",
-        "INFANTINO",
-        "BOICOTCOPAMUNDIAL"
-      ],
-      "key_terms_for_dex_search": [
-        "FIFA",
-        "Infantino",
-        "Copa Mundial",
-        "boicot",
-        "inversión privada"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T04:59:40.924214+00:00",
-      "expires_at": "2026-08-03T04:59:40.924214+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "FIFA’s Infantino scraps controversial World Cup private investment plan - Al Jazeera",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T07:51:25.705526+00:00"
-    },
-    {
       "id": "2b275fe7b9d3",
       "fingerprint": "2b275fe7b9d3",
       "narrative_summary": "Un F-35B se estrella en California, pero el piloto sale ileso.",
@@ -6031,7 +5661,7 @@
       "started_at": "2026-08-05T04:33:20.823981+00:00",
       "expires_at": "2026-08-08T04:33:20.823981+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
       "cluster_sources": [
@@ -6040,7 +5670,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-08T07:08:46.654973+00:00"
     },
     {
       "id": "d23b2ca41e56",
@@ -6078,14 +5709,15 @@
       "started_at": "2026-08-05T04:35:03.910050+00:00",
       "expires_at": "2026-08-08T04:35:03.910050+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Mamdani's property tax dubbed 'dangerous' and 'a little weird' by comedians after published list - Fox News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-08T07:08:46.654985+00:00"
     },
     {
       "id": "d286c3b36ccd",
@@ -7626,14 +7258,15 @@
       "started_at": "2026-08-06T04:34:55.690499+00:00",
       "expires_at": "2026-08-08T04:34:55.690499+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-08T07:08:46.654991+00:00"
     },
     {
       "id": "3b62d3b0c865",
@@ -7745,13 +7378,14 @@
       "started_at": "2026-08-06T04:38:40.894770+00:00",
       "expires_at": "2026-08-08T04:38:40.894770+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-08T07:08:46.654994+00:00"
     },
     {
       "id": "1810c4482a4a",
@@ -10451,7 +10085,334 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "3d610c078572",
+      "fingerprint": "3d610c078572",
+      "narrative_summary": "Elon Musk y su impacto en Twitter, incluyendo un acuerdo de $1.5 millones y reacciones en línea sobre sus publicaciones diarias sobre raza.",
+      "why_memeable": "La combinación de una figura polarizante como Elon Musk con eventos dramáticos y la capacidad de resumir el tema en frases cortas y repetibles.",
+      "category": "Celebridad y tecnología",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "MUSK",
+        "TESLA",
+        "TWTR",
+        "RACE",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "Raza",
+        "Tecnología",
+        "Celebridad"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T07:08:48.144325+00:00",
+      "expires_at": "2026-08-11T07:08:48.144325+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ec5f90be069e",
+      "fingerprint": "ec5f90be069e",
+      "narrative_summary": "Taylor Swift retira la canción 'August' de un video de TikTok publicado por el equipo de Donald Trump.",
+      "why_memeable": "La narrativa es memeable porque involucra a dos figuras públicas (Taylor Swift y Donald Trump) en un conflicto inesperado.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAYLORSWIFTVSTRUMP",
+        "AUGUSTGATE",
+        "SWIFTVSTRUMP"
+      ],
+      "key_terms_for_dex_search": [
+        "Taylor Swift",
+        "Donald Trump",
+        "August",
+        "TikTok",
+        "política"
+      ],
+      "score": 78,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T07:09:31.894730+00:00",
+      "expires_at": "2026-08-10T07:09:31.894730+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Taylor Swift has removed the audio of her song ‘august’ from a TikTok posted by Donald Trump’s team.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d9a180dfdaf9",
+      "fingerprint": "d9a180dfdaf9",
+      "narrative_summary": "US Senate aprueba sanciones a Rusia, incluyendo un 100% de aranceles a importadores de petróleo y gas",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: '100% de aranceles a importadores de petróleo y gas'",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSSIA_SANCTIONS",
+        "SANCTIONS_RUSSIA",
+        "US_RUSSIA_RELATIONS"
+      ],
+      "key_terms_for_dex_search": [
+        "sanciones",
+        "Rusia",
+        "US",
+        "petróleo",
+        "gas"
+      ],
+      "score": 76,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T07:10:03.316030+00:00",
+      "expires_at": "2026-08-10T07:10:03.316030+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/OGG/",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ee799644d4b2",
+      "fingerprint": "ee799644d4b2",
+      "narrative_summary": "Un racón llamado Jimothy se convierte en viral después de que su token de Solana sube un 186% debido a su fama en línea.",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y éxito inesperado, lo que la hace fácilmente compartible y recordable.",
+      "category": "memecoin",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "JIMOTHY",
+        "SOLANA",
+        "MEMECOIN"
+      ],
+      "key_terms_for_dex_search": [
+        "JIMOTHY",
+        "SOLANA",
+        "MEMECOIN",
+        "TOKEN",
+        "VIRAL"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-08T07:11:23.281627+00:00",
+      "expires_at": "2026-08-10T07:11:23.281627+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2554",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "359ae9f051ee",
+      "fingerprint": "359ae9f051ee",
+      "narrative_summary": "Brandon Clarke, NBA estrella, murió por efectos de heroína y cocaína, según el examinador",
+      "why_memeable": "La muerte de un jugador de NBA por efectos de drogas es un tema interesante y controvertido que puede generar debate y emoción",
+      "category": "Muerte de un jugador de NBA",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "BRANDONCLARKE",
+        "NBASTAR",
+        "MUERTEPORDROGAS"
+      ],
+      "key_terms_for_dex_search": [
+        "BrandonClarke",
+        "MuertePorDrogas",
+        "NBA"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T07:11:57.653285+00:00",
+      "expires_at": "2026-08-11T07:11:57.653285+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "721c2d72962d",
+      "fingerprint": "721c2d72962d",
+      "narrative_summary": "Ataque ruso mata a tres personas, incluyendo un niño, cerca de Kiev",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y es fácil de capturar en una frase",
+      "category": "Noticias de guerra",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIAATACA",
+        "KIEVBOMBA",
+        "NIÑOMUERTO"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "ataque",
+        "Kiev",
+        "niño",
+        "muerto"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T07:12:11.032016+00:00",
+      "expires_at": "2026-08-11T07:12:11.032016+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Child among three killed in Russian missile attacks near Kyiv",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "535a608e00f8",
+      "fingerprint": "535a608e00f8",
+      "narrative_summary": "El Pentágono ha lanzado nuevos archivos sobre fenómenos anómalos no identificados (UFO) que incluyen videos de 'órbitas frías' misteriosas.",
+      "why_memeable": "La narrativa tiene un componente de misterio y ciencia ficción que puede captar la atención de la gente.",
+      "category": "Ciencia Ficción, Misterio",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "UFO",
+        "PENTÁGONO",
+        "FENÓMENOS ANÓMALOS"
+      ],
+      "key_terms_for_dex_search": [
+        "UFO",
+        "Pentágono",
+        "Fenómenos Anómalos",
+        "Ciencia Ficción",
+        "Misterio"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 4,
+        "velocity": 9
+      },
+      "started_at": "2026-08-08T07:12:48.579019+00:00",
+      "expires_at": "2026-08-10T07:12:48.579019+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "UFO files: ‘Black triangles’ a highlight of latest release - NewsNation",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-08T04:02:01.448843+00:00"
+  "last_updated": "2026-08-08T07:12:48.579019+00:00"
 }

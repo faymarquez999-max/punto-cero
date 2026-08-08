@@ -1,200 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-06T16:05:55.590133+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Deportes",
-        "title": "Coach told FA footballer Maddy Cusack was a liar, inquest into her death hears",
-        "candidate_tickers": [
-          "MaddyCusack",
-          "FútbolInjusto",
-          "EntrenadorMentiroso"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T16:05:57.137277+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "74739b99e6fa",
-        "score": 80,
-        "category": "Tecnología y Entretenimiento",
-        "title": "AI “Actor” Tilly Norwood to Make Feature Debut in Coming-of-Age Movie ‘Misaligned’",
-        "candidate_tickers": [
-          "TILLY",
-          "AINOR",
-          "MISALIGNED",
-          "AIWOOD",
-          "NORDBOT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T16:06:26.081544+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "163c3ab715c1",
-        "score": 80,
-        "category": "negocios",
-        "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-        "candidate_tickers": [
-          "MSFT",
-          "XBOX",
-          "LAYOFF"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T16:08:20.360668+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "00bcc2f51bf8",
-        "score": 88,
-        "category": "política internacional",
-        "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "IRAN",
-          "VENGANZA",
-          "TEHRAN",
-          "FUNERAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T16:09:22.403836+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Celebridad",
-        "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade - Reuters",
-        "candidate_tickers": [
-          "DiorVsChanel",
-          "TaylorSwiftWedding"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T18:23:52.445985+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3b52c6715c16",
-        "score": 80,
-        "category": "Deportes/Política",
-        "title": "/GME/ - Settle in for Comfy Weekend Edition",
-        "candidate_tickers": [
-          "FIFATRUMP",
-          "BALOGUN",
-          "FIFARUEDCARD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T18:26:45.738880+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "137b8f3a5a92",
-        "score": 80,
-        "category": "Noticias de rescate animal",
-        "title": "What Donna Kelce, celeb guests have said about Travis Kelce, Taylor Swift's wedding - ABC News - Breaking News, Latest News and Videos",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "RESCATEANIMAL",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T18:27:15.034016+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6d48a3107267",
-        "score": 74,
-        "category": "conflicto internacional",
-        "title": "Russia’s missile and drone attacks on Ukraine kill at least 22 - AP News",
-        "candidate_tickers": [
-          "RUSIA",
-          "UCRANIA",
-          "ATAQUE",
-          "MISILES",
-          "DRONES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T18:28:19.777356+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "crimen y justicia",
-        "title": "Frenchman convicted of 2020 murder of wife confesses from jail",
-        "candidate_tickers": [
-          "Jubillar",
-          "Asesinato2020",
-          "Confesión"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T20:29:52.328905+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ab7104223317",
-        "score": 91,
-        "category": "Política",
-        "title": "Exclusive: Woman who dated Graham Platner says he sexually assaulted her - Politico",
-        "candidate_tickers": [
-          "GRAHAMPLATNER",
-          "AGRESIONSEXUAL",
-          "CANDIDATODEMOCRATA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T20:30:41.636621+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política",
-        "title": "As Khamenei mourners fill Iran's streets, discontent still simmers - Reuters",
-        "candidate_tickers": [
-          "Khamenei",
-          "Iran",
-          "Protesta"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T20:33:47.354308+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Desastres naturales",
-        "title": "Suben a 3.535 los muertos por los terremotos en Venezuela - Ultima Hora",
-        "candidate_tickers": [
-          "VenezuelaTerremoto",
-          "DesastreVenezuela",
-          "Terremoto3535"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T22:00:17.387775+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "muerte de celebridad",
-        "title": "The Villain Made of Gas: Inside Netflix and Toho’s Ambitious Bet on ‘Human Vapor’",
-        "candidate_tickers": [
-          "LMFAO",
-          "LaurenBennett",
-          "PartyRockAnthem"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-06T22:01:19.307899+00:00",
       "kind": "shadow",
       "payload": {
@@ -28199,6 +28005,182 @@
           "IDAHOSHOOTING",
           "TIRATEOINNOUT"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:08:48.538814+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3d610c078572",
+        "score": 80,
+        "category": "Celebridad y tecnología",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "MUSK",
+          "TESLA",
+          "TWTR",
+          "RACE",
+          "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:09:32.224472+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ec5f90be069e",
+        "score": 78,
+        "category": "política",
+        "title": "Taylor Swift has removed the audio of her song ‘august’ from a TikTok posted by Donald Trump’s team.",
+        "candidate_tickers": [
+          "TAYLORSWIFTVSTRUMP",
+          "AUGUSTGATE",
+          "SWIFTVSTRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:10:03.818848+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d9a180dfdaf9",
+        "score": 76,
+        "category": "Política",
+        "title": "/OGG/",
+        "candidate_tickers": [
+          "RUSSIA_SANCTIONS",
+          "SANCTIONS_RUSSIA",
+          "US_RUSSIA_RELATIONS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:10:22.007699+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "entretenimiento",
+        "title": "The live-action ‘NARUTO’ movie is aiming to begin filming in the first half of 2027.",
+        "candidate_tickers": [
+          "NARUTO2027",
+          "NARUTOmovie",
+          "NARUTOliveaction"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:11:23.715885+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ee799644d4b2",
+        "score": 70,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "SOLANA",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:11:58.005531+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "359ae9f051ee",
+        "score": 80,
+        "category": "Muerte de un jugador de NBA",
+        "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+        "candidate_tickers": [
+          "BRANDONCLARKE",
+          "NBASTAR",
+          "MUERTEPORDROGAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:12:11.360648+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "721c2d72962d",
+        "score": 89,
+        "category": "Noticias de guerra",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "KIEVBOMBA",
+          "NIÑOMUERTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:12:49.034400+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "535a608e00f8",
+        "score": 70,
+        "category": "Ciencia Ficción, Misterio",
+        "title": "UFO files: ‘Black triangles’ a highlight of latest release - NewsNation",
+        "candidate_tickers": [
+          "UFO",
+          "PENTÁGONO",
+          "FENÓMENOS ANÓMALOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:13:51.370856+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "clima/naturaleza",
+        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+        "candidate_tickers": [
+          "Dolphin",
+          "TyphoonDolphin",
+          "Japón",
+          "China"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T07:14:04.961019+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "10ae074286f2",
+        "ticker": "Grok",
+        "mint": "D6iZ9DectHYTpYpwhbV9KmohSoDYEmp2eqVtVBn9Voro",
+        "mc": 171077.0
+      }
+    },
+    {
+      "ts": "2026-08-08T07:14:07.889115+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "11cb85c37c2f",
+        "ticker": "Grok",
+        "mint": "D6iZ9DectHYTpYpwhbV9KmohSoDYEmp2eqVtVBn9Voro",
+        "mc": 171077.0
+      }
+    },
+    {
+      "ts": "2026-08-08T07:14:08.924396+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f6ad3087a82a",
+        "ticker": "Grok",
+        "mint": "D6iZ9DectHYTpYpwhbV9KmohSoDYEmp2eqVtVBn9Voro",
+        "mc": 171077.0
+      }
+    },
+    {
+      "ts": "2026-08-08T07:14:27.429469+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2e2a3531b706",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 50871.0
       }
     }
   ]
