@@ -1,94 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-06T08:48:18.004168+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ccff5296627a",
-        "score": 83,
-        "category": "Noticias de justicia",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "KEEK",
-          "LINKKEEK",
-          "KEEKEE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T12:31:46.885237+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d6dc0cb1a5bc",
-        "score": 70,
-        "category": "animal welfare",
-        "title": "Malnourished horse found dead on July 4 in South Carolina; was possibly dumped - FOX8 WGHP",
-        "candidate_tickers": [
-          "#CABALLOHAMBRIENTO",
-          "#ABANDONOANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T12:32:18.912040+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dcda27037674",
-        "score": 73,
-        "category": "política",
-        "title": "Huge crowd joins funeral procession for Iran’s Supreme Leader Khamenei",
-        "candidate_tickers": [
-          "KHAMENEI",
-          "TRUMP",
-          "IRAN",
-          "FUNERAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T12:34:28.109141+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "economía",
-        "title": "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources says - Reuters",
-        "candidate_tickers": [
-          "UAEcrudo",
-          "OPECexit",
-          "petróleo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T12:34:59.662135+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ceeed5111dc0",
-        "score": 91,
-        "category": "política",
-        "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte - AP News",
-        "candidate_tickers": [
-          "SARADUTERTE",
-          "IMPEACHMENTTRIAL",
-          "FILIPINOSENATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-06T12:35:36.964492+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridades y eventos de alta sociedad",
-        "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade - Reuters",
-        "candidate_tickers": [
-          "TaylorSwiftWedding",
-          "TravisKelceTaylorSwift",
-          "DiorVsChanel"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-06T16:05:55.590133+00:00",
       "kind": "shadow",
       "payload": {
@@ -28193,6 +28105,99 @@
           "FRONTERAS",
           "ESPAÑA",
           "ITALIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:00:27.989583+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "311b5f337b07",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "MUSKT",
+          "TRUMPX",
+          "EPSTEINFILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:01:06.611814+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 61,
+        "category": "política",
+        "title": "Same thing seems to be happening with TV shows and video games",
+        "candidate_tickers": [
+          "TRUMPvsCOOK",
+          "COOKvsTRUMP",
+          "TRUMPvsRESERVA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:02:33.935013+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "765b92ff5e26",
+        "score": 88,
+        "category": "política internacional",
+        "title": "Russian strikes near Ukrainian capital kill three, including child",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "UCRANIARUSIA",
+          "NIÑOMUERTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:03:07.229620+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d1edf4e0e74b",
+        "score": 80,
+        "category": "Noticias internacionales",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "candidate_tickers": [
+          "KYIV",
+          "RUSIA",
+          "UCRANIA",
+          "NIÑO",
+          "ATAQUES DE MISILES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:03:44.717600+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2466d5bee8ef",
+        "score": 74,
+        "category": "política",
+        "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown - aljazeera.com",
+        "candidate_tickers": [
+          "ESPRIELLA",
+          "COLOMBIA",
+          "DERECHA",
+          "IZQUIERDA",
+          "GRUPOS ARMADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T06:04:41.927606+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d90083f6334f",
+        "score": 91,
+        "category": "crimen y seguridad",
+        "title": "In-N-Out Shooting: Horrifying Surveillance Footage Released",
+        "candidate_tickers": [
+          "INNOUT",
+          "IDAHOSHOOTING",
+          "TIRATEOINNOUT"
         ]
       }
     }
