@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T07:23:31.978216+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "05ea12c1e770",
-        "ticker": "WORLDCUP",
-        "mint": "33eum82LaAhtv5YkUq1BdwEviSErH5CnFxqVNLT5pump",
-        "mc": 445587.0
-      }
-    },
-    {
-      "ts": "2026-07-08T07:23:55.983711+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "63ac44980910",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214382.0
-      }
-    },
-    {
-      "ts": "2026-07-08T10:01:12.421656+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d5a8e5fd1f42",
-        "score": 70,
-        "category": "Política",
-        "title": "Maine Democratic Party accuses Graham Platner of meddling in the process to replace him - NBC News",
-        "candidate_tickers": [
-          "PLATNER",
-          "MAINE",
-          "DEMÓCRATAS",
-          "ACUSACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T10:03:12.007357+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Mp 16.97 Fire reported in Humboldt County on July 8 - Fresno Bee",
-        "candidate_tickers": [
-          "HumboldtFire",
-          "CALIFORNIAWILDFIRE",
-          "JULY8FIRES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T11:57:05.138499+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2e321d4aaab2",
-        "score": 74,
-        "category": "política",
-        "title": "Opinion | What a viral Metro photo reveals about a divided nation - The Washington Post",
-        "candidate_tickers": [
-          "METRO",
-          "RACISMO",
-          "SUPREMACISMO BLANCO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T11:59:17.415499+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ae5336b32496",
-        "ticker": "IRAN",
-        "mint": "CkZGBz1Gz5tTAThiesePDynMrPfM43DaQYkAr47SrekR",
-        "mc": 357320.0
-      }
-    },
-    {
       "ts": "2026-07-08T14:33:52.334936+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28101,6 +28026,75 @@
           "TerafabTexas",
           "ElonMuskTerafab"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:06:37.310869+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1089ce9730d2",
+        "score": 74,
+        "category": "Tecnología y entretenimiento",
+        "title": "Why does Twitch have this double-standard?",
+        "candidate_tickers": [
+          "TWITCHDOBLEESTANDAR",
+          "ELONVSTWITCH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:06:58.523879+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "31a09462b231",
+        "score": 80,
+        "category": "Tecnología y negocios",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-08T22:11:22.417679+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3d610c078572",
+        "ticker": "STARGRACE",
+        "mint": "4EjSzThNDV8oQx7QDKDVCRLfMQ1bCgvHzfihzmNWbUkK",
+        "mc": 10580.0
+      }
+    },
+    {
+      "ts": "2026-08-08T22:11:24.220158+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ec5f90be069e",
+        "ticker": "TikTok",
+        "mint": "89RAitwPJBEfLK4Gcg5iv7AjFABHWNvoD5rkvRkvpump",
+        "mc": 61534.0
+      }
+    },
+    {
+      "ts": "2026-08-08T22:11:29.768254+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dc103a9cf773",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 46053.0
+      }
+    },
+    {
+      "ts": "2026-08-08T22:11:33.805888+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2e436e84bcbe",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 46053.0
       }
     }
   ]
