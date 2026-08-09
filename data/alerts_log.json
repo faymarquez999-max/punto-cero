@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T01:24:54.039383+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Who will replace Platner on the Maine ballot? These Democrats are raising their hands - AP News",
-        "candidate_tickers": [
-          "Platner",
-          "Maine",
-          "agresión sexual"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T05:44:28.301221+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "60ec5aea4370",
-        "score": 88,
-        "category": "crueldad animal",
-        "title": "Columbus Humane launches animal cruelty investigation after viral video - The Columbus Dispatch",
-        "candidate_tickers": [
-          "CRUELTY",
-          "ANIMALABUSE",
-          "JUSTICEFORPETS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T05:44:41.893455+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "91a892c38c73",
-        "score": 80,
-        "category": "política",
-        "title": "Trump ousts members of bipartisan election commission ahead of midterms - Politico",
-        "candidate_tickers": [
-          "TRUMPX",
-          "BIPARTISANEAC",
-          "ELECTIONCOMMISSION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T05:46:28.425048+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "373557eea12b",
-        "score": 71,
-        "category": "clima",
-        "title": "Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters",
-        "candidate_tickers": [
-          "TYPHOONBAVI",
-          "ALERTAJAPONESA",
-          "TIFÓNBAVI"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T05:47:12.126938+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28097,6 +28038,62 @@
           "TRUMPNOGAZA",
           "NETANYAHURECHAZA"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-09T15:40:43.937996+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9fa4f9a315d4",
+        "score": 80,
+        "category": "Política y negocios",
+        "title": "Grok Imagine can meme",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "JUICIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T15:40:45.728376+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4a0aba92ded9",
+        "score": 80,
+        "category": "Celebridad y escándalo",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LIT",
+          "MUSKED",
+          "BURNED",
+          "FAITHLOST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T15:41:28.496997+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "648f0b5616d5",
+        "score": 73,
+        "category": "Criptomonedas",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "SOL",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T15:45:31.687779+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "31a09462b231",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 72771.0
       }
     }
   ]
