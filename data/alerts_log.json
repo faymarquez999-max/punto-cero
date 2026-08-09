@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T23:43:41.272882+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bc15756dbf4f",
-        "score": 71,
-        "category": "Noticias internacionales",
-        "title": "Convoy carrying Russian fighters attacked in Mali, sources say - Reuters",
-        "candidate_tickers": [
-          "MALIATTACK",
-          "RUSIAENMALÍ",
-          "CONVOYATACADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T23:46:19.466285+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "55322a2c2b1f",
-        "score": 82,
-        "category": "Noticias de política y justicia",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINK",
-          "KEEEEEEEEEK",
-          "MARINES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T01:20:04.973639+00:00",
       "kind": "shadow",
       "payload": {
@@ -28094,6 +28064,37 @@
           "gasleak",
           "fugagasdowntown",
           "cheer"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T14:12:13.410992+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "92bdabef50b5",
+        "score": 90,
+        "category": "Celebridad y relaciones",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LIT",
+          "CHEATING",
+          "BUZZFEED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T14:13:01.396854+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "193eb2cad0a4",
+        "score": 88,
+        "category": "Noticias de animal",
+        "title": "Norwood man charged with animal neglect after dogs allegedly attack goats - Douglas County Herald",
+        "candidate_tickers": [
+          "NORWOOD",
+          "PERROS",
+          "CABRAS",
+          "NEGLIGENCIA ANIMAL"
         ]
       }
     }
