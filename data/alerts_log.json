@@ -1,31 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T05:47:12.126938+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ef7dbc61463b",
-        "score": 80,
-        "category": "política internacional",
-        "title": "Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say - CNN",
-        "candidate_tickers": [
-          "IRANPLOT",
-          "TRUMPASESINATO",
-          "ISRAELEEUU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T05:49:19.430077+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bc15756dbf4f",
-        "ticker": "Goofreck",
-        "mint": "6hpfrxQb2kn9iprcJcZ6uXruGAwDe12W9zT4y4WSpump",
-        "mc": 112982.0
-      }
-    },
-    {
       "ts": "2026-07-10T05:49:23.451693+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28094,6 +28069,35 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 72771.0
+      }
+    },
+    {
+      "ts": "2026-08-09T16:16:17.048107+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Política y Negocios",
+        "title": "Grok Imagine can meme",
+        "candidate_tickers": [
+          "MuskSEC",
+          "ElonMuskLawsuit",
+          "SECvsMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T16:17:30.057612+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5be3ada63091",
+        "score": 88,
+        "category": "Celebridad confiesa infidelidad",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LITONFIRE",
+          "CHEATINGSCANDALS",
+          "RELATIONSHIPGOALS"
+        ]
       }
     }
   ]
