@@ -1,53 +1,6 @@
 {
   "watches": [
     {
-      "id": "d30626a46e39",
-      "fingerprint": "d30626a46e39",
-      "narrative_summary": "Dos helicópteros de bomberos se chocan mientras luchan contra un incendio en Grecia.",
-      "why_memeable": "La narrativa es simple y fácil de capturar en una frase: 'dos helicópteros se chocan en Grecia'.",
-      "category": "accidente",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GRECIAINCENDIO",
-        "HELICÓPTEROSCHOCAN",
-        "BOMBEROSGRECIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Grecia",
-        "incendio",
-        "helicópteros",
-        "bomberos",
-        "accidente"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-02T22:15:38.354374+00:00",
-      "expires_at": "2026-08-04T22:15:38.354374+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Two firefighting helicopters collide while battling wildfire in Greece - Euronews.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-05T04:33:18.231975+00:00"
-    },
-    {
       "id": "a139e637dccc",
       "fingerprint": "a139e637dccc",
       "narrative_summary": "Representativa de Ohio Marcy Kaptur hospitalizada después de un accidente de tráfico",
@@ -10902,7 +10855,56 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "affde7cc3da7",
+      "fingerprint": "affde7cc3da7",
+      "narrative_summary": "Iran's President Pezeshkian meets with Supreme Leader Khamenei to discuss economic and military affairs, amidst tensions over the Strait of Hormuz.",
+      "why_memeable": "La narrativa tiene un núcleo claro y un título memorable, lo que la hace fácilmente compartible y repetible.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRAN",
+        "HORMUZ",
+        "PEZESHKIAN",
+        "KHAMENEI"
+      ],
+      "key_terms_for_dex_search": [
+        "IRAN",
+        "HORMUZ",
+        "PEZESHKIAN",
+        "KHAMENEI",
+        "TENSIONES",
+        "POLÍTICA INTERNACIONAL"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T20:44:57.462171+00:00",
+      "expires_at": "2026-08-11T20:44:57.462171+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "IRAN'S PRESIDENT PEZESHKIAN RECENTLY MET WITH SUPREME LEADER MOJTABA KHAMENEI TO DISCUSS ECONOMIC AND MILITARY AFFAIRS - STATE MEDIA",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T19:53:16.141484+00:00"
+  "last_updated": "2026-08-09T20:44:57.462171+00:00"
 }

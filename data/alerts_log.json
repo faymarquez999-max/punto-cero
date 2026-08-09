@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T21:47:12.987363+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1bf45a25b006",
-        "score": 90,
-        "category": "tecnología",
-        "title": "Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case - Bloomberg.com",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAITHIEF",
-          "TECHLAW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T21:48:32.300031+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d06ad36dbcd6",
-        "score": 89,
-        "category": "Desastres naturales",
-        "title": "Spanish wildfire victims burned in cars as roads turned into death traps - Reuters",
-        "candidate_tickers": [
-          "INCENDIOSESPAÑA",
-          "VÍCTIMASARDIENDO",
-          "TRAMPASDELAMUERTE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T21:49:47.660740+00:00",
       "kind": "shadow",
       "payload": {
@@ -28037,6 +28007,36 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 56727.0
+      }
+    },
+    {
+      "ts": "2026-08-09T20:44:19.665806+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política",
+        "title": "TURKEY'S FOREIGN MINISTER SAYS TURKEY MUST BE INVOLVED IN SAUDI ARABIA'S INTERNATIONAL COALITION AS RED SEA SHIPPING SAFETY AFFECTS ITS INTERESTS.",
+        "candidate_tickers": [
+          "MUSKvsSEC",
+          "ELONvsSEC",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T20:44:58.003146+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "affde7cc3da7",
+        "score": 88,
+        "category": "política internacional",
+        "title": "IRAN'S PRESIDENT PEZESHKIAN RECENTLY MET WITH SUPREME LEADER MOJTABA KHAMENEI TO DISCUSS ECONOMIC AND MILITARY AFFAIRS - STATE MEDIA",
+        "candidate_tickers": [
+          "IRAN",
+          "HORMUZ",
+          "PEZESHKIAN",
+          "KHAMENEI"
+        ]
       }
     }
   ]
