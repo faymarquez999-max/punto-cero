@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T21:49:47.660740+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "local news",
-        "title": "Boil water notice issued for Chester area after major leak disrupts supply - 12newsnow.com",
-        "candidate_tickers": [
-          "BoilWaterChester",
-          "ChesterLeak",
-          "WaterSupplyShock"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T21:50:32.048628+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias",
-        "title": "MontCo woman accused of breaking into home of man she met on dating app - NBC10 Philadelphia",
-        "candidate_tickers": [
-          "CaimánCita",
-          "CriminalCaimán",
-          "CitaCaimán"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T21:50:53.446624+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1d098d8676af",
-        "score": 74,
-        "category": "Noticias",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "KEEEEEEEK",
-          "LINKMARINES",
-          "9AÑOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T22:46:59.283997+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "571c4b3520ae",
-        "score": 80,
-        "category": "maltrato animal y fraude bancario",
-        "title": "Little Rock man pleads guilty to bank fraud conspiracy in pandemic funds scheme - The Arkansas Democrat-Gazette",
-        "candidate_tickers": [
-          "ANIMALABUSER",
-          "PIGATV",
-          "FRAUDEPANDEMIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T22:47:41.300994+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28037,6 +27979,51 @@
           "PEZESHKIAN",
           "KHAMENEI"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-09T21:19:09.169193+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "509218e00028",
+        "score": 80,
+        "category": "tech",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "MUSK",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T21:22:11.633935+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ce00cf532b90",
+        "ticker": "TNOS",
+        "mint": "Fyo6nkuytYijBZV7Z5rw7paEy573vAgytHyxwRaKpump",
+        "mc": 143024.0
+      }
+    },
+    {
+      "ts": "2026-08-09T21:22:15.100317+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f609c34de40e",
+        "ticker": "TNOS",
+        "mint": "Fyo6nkuytYijBZV7Z5rw7paEy573vAgytHyxwRaKpump",
+        "mc": 143024.0
+      }
+    },
+    {
+      "ts": "2026-08-09T21:22:18.312652+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f33f85861eb4",
+        "ticker": "TNOS",
+        "mint": "Fyo6nkuytYijBZV7Z5rw7paEy573vAgytHyxwRaKpump",
+        "mc": 143024.0
       }
     }
   ]
