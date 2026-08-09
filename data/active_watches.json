@@ -1,143 +1,6 @@
 {
   "watches": [
     {
-      "id": "2fb1829a32a7",
-      "fingerprint": "2fb1829a32a7",
-      "narrative_summary": "El actor Vincent Pastore, conocido por su papel en 'Los Soprano', ha fallecido a los 80 años.",
-      "why_memeable": "La noticia tiene un título y un resumen que pueden ser fácilmente compartidos y recordados.",
-      "category": "muerte de un actor famoso",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "VINCENTPASTORE",
-        "LOSSOPRANO",
-        "MUERTE EN LA INDUSTRIA DEL ENTRETENIMIENTO"
-      ],
-      "key_terms_for_dex_search": [
-        "Vincent Pastore",
-        "Los Soprano",
-        "muerte de un actor famoso"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-08-02T14:04:19.990097+00:00",
-      "expires_at": "2026-08-04T14:04:19.990097+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘Sopranos’ actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80 - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-04T18:01:36.154516+00:00"
-    },
-    {
-      "id": "6675d932be8c",
-      "fingerprint": "6675d932be8c",
-      "narrative_summary": "Trump disputa los hallazgos de su propio Departamento de Justicia sobre Reflecting Pool.",
-      "why_memeable": "La narrativa es memeable debido a la disputa entre Trump y su propio Departamento de Justicia, lo que genera interés y polarización.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSDOJ",
-        "REFLECTINGPOOLGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "DOJ",
-        "ReflectingPool",
-        "vandalismo",
-        "política"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-02T14:04:52.189111+00:00",
-      "expires_at": "2026-08-04T14:04:52.189111+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Dojo",
-        "name": "Dojocoin",
-        "mint": "JNJ4QbszFx23wLNMVdD5JMhMW8GFuC4UxfrnhehCncR",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 155840.0,
-        "liquidity_usd": 37739.91,
-        "price_usd": 0.0001558,
-        "volume_h24": 317355.04,
-        "volume_h1": 50826.17,
-        "volume_m5": 4169.49,
-        "price_change_5m": 1.32,
-        "price_change_1h": 32.31,
-        "price_change_24h": 2233.0,
-        "txns_h1_buys": 717,
-        "txns_h1_sells": 679,
-        "created_ts": 1785788567000,
-        "pair_created_at": 1785788567000,
-        "url": "https://dexscreener.com/solana/eyg6feavoo6hqtx6vxjjfj7pn4plgx8unezenerysxuc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DOJ in DOJOCOIN",
-        "safety_score": 25448,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-04T06:18:16.265328+00:00"
-    },
-    {
       "id": "f91e9df59181",
       "fingerprint": "f91e9df59181",
       "narrative_summary": "Avalanche en Pakistán mata a Nirmal Purja y 9 otros, incluyendo un famoso escalador.",
@@ -6622,7 +6485,7 @@
       "started_at": "2026-08-07T17:13:30.292643+00:00",
       "expires_at": "2026-08-09T17:13:30.292643+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Donald Trump cannot build his $400M White House ballroom without approval from Congress, an appeals court has ruled.",
       "cluster_sources": [
@@ -6630,7 +6493,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-09T18:17:02.533332+00:00"
     },
     {
       "id": "02588a434938",
@@ -10776,7 +10640,100 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "2ae151883ea0",
+      "fingerprint": "2ae151883ea0",
+      "narrative_summary": "China ha emitido un alerta rojo y ha cancelado vuelos en aeropuertos debido a que un tifón se acerca",
+      "why_memeable": "La narrativa tiene un núcleo claro (tifón, alerta roja, cancelación de vuelos) y es fácilmente compartible",
+      "category": "clima",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TIFÓNCHINA",
+        "ALERTAROJA",
+        "VUELOSCANCELADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "tifón",
+        "China",
+        "alerta roja",
+        "vuelos cancelados"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T18:17:15.820852+00:00",
+      "expires_at": "2026-08-11T18:17:15.820852+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "cc8db50c1bac",
+      "fingerprint": "cc8db50c1bac",
+      "narrative_summary": "Elon Musk enfrenta acusaciones de engaño a accionistas de Twitter y se enfrenta a una multa de $150 millones.",
+      "why_memeable": "La narrativa es memeable porque involucra a una figura pública controvertida (Elon Musk) y una acusación de engaño a accionistas.",
+      "category": "Política y Negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "TWITTER",
+        "SEC"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "SEC",
+        "engaño a accionistas",
+        "multa"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-09T18:18:22.394719+00:00",
+      "expires_at": "2026-08-11T18:18:22.394719+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T17:06:27.196179+00:00"
+  "last_updated": "2026-08-09T18:18:22.394719+00:00"
 }

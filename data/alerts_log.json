@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T17:12:44.124878+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Música",
-        "title": "Sam Fender and Olivia Dean make UK chart history with Rein Me In",
-        "candidate_tickers": [
-          "SamFender",
-          "OliviaDean",
-          "ReinMeIn"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T17:14:07.705450+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8900f0ad577c",
-        "score": 82,
-        "category": "política",
-        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-        "candidate_tickers": [
-          "ICE",
-          "HOUSTON",
-          "MIGRANTES",
-          "ASESINATO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T17:14:53.721938+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28068,6 +28038,36 @@
         "candidate_tickers": [
           "MUSK",
           "STARLINK",
+          "SEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T18:17:16.352290+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ae151883ea0",
+        "score": 82,
+        "category": "clima",
+        "title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com",
+        "candidate_tickers": [
+          "TIFÓNCHINA",
+          "ALERTAROJA",
+          "VUELOSCANCELADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T18:18:22.965788+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cc8db50c1bac",
+        "score": 78,
+        "category": "Política y Negocios",
+        "title": "Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
           "SEC"
         ]
       }
