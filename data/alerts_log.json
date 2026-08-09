@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T22:38:31.954413+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "89a8220b1e13",
-        "score": 90,
-        "category": "Política/Abuso sexual",
-        "title": "Judge orders Trump's $5m damages be released to E Jean Carroll - BBC",
-        "candidate_tickers": [
-          "TRUMP",
-          "CARROLL",
-          "5M"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T22:39:38.495591+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "623af829b36c",
-        "score": 70,
-        "category": "juegos",
-        "title": "Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game - Bloomberg",
-        "candidate_tickers": [
-          "FALLOUT",
-          "OBSIDIAN",
-          "MICROSOFT",
-          "XBOX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T22:40:03.620864+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
-        "candidate_tickers": [
-          "GPTLive",
-          "OpenAI",
-          "Voz"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T22:40:30.839218+00:00",
       "kind": "shadow",
       "payload": {
@@ -28101,6 +28056,54 @@
           "YES",
           "ELON",
           "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T05:21:52.022982+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "16e4df6c3ef9",
+        "score": 80,
+        "category": "Celebridad y finanzas",
+        "title": "In the spirit of transparency, here’s what I asked @OpenAI :",
+        "candidate_tickers": [
+          "MUSK",
+          "TESLA",
+          "TWTR",
+          "ELON",
+          "SEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T05:25:21.646838+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd74ebc7b10b",
+        "score": 74,
+        "category": "Celebridad/Injusticia",
+        "title": "Perez Hilton faces long recovery after self-harm livestream",
+        "candidate_tickers": [
+          "PEREZHILTON",
+          "AUTOLESION",
+          "CELEBRIDADENCRISIS",
+          "BLOGGERENPROBLEMAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T05:27:11.729777+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6f28c24c21e3",
+        "score": 88,
+        "category": "accidente aéreo",
+        "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+        "candidate_tickers": [
+          "HELICOPTERCRASH",
+          "UTAHWILDFIRE",
+          "PILOTOMUERTE"
         ]
       }
     }
