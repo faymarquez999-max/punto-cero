@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T19:59:48.789652+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4aa20801553e",
-        "score": 74,
-        "category": "Viralidad en línea",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEK",
-          "MARINE9",
-          "KEKEEKEK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T20:01:38.735460+00:00",
       "kind": "shadow",
       "payload": {
@@ -28095,6 +28080,20 @@
         "candidate_tickers": [
           "MESSIDAD",
           "FALLECEJORGEMESSI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T00:08:04.660672+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "política",
+        "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+        "candidate_tickers": [
+          "CryptoBill",
+          "SenadoEEUU",
+          "Criptomonedas"
         ]
       }
     }
