@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T12:06:10.510216+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Celebridad Británica",
-        "title": "Ann Widdecombe: Brexit-backing former minister turned Strictly star",
-        "candidate_tickers": [
-          "AnnWiddecombe",
-          "StrictlyStar",
-          "BrexitBacker"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T15:07:05.856608+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a19ed63e36d5",
-        "score": 83,
-        "category": "Desastres naturales y accidentes",
-        "title": "En directo | Última hora del incendio en Los Gallardos (Almería), que deja doce muertos - La Opinión de Málaga",
-        "candidate_tickers": [
-          "ALMERIAINCENDIO",
-          "FUEGOALMERIA",
-          "GALLARDOSINCENDIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T15:09:04.604999+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "17d9091263cd",
-        "score": 82,
-        "category": "crueldad animal",
-        "title": "Viral video shows struggle between Del. state trooper and woman during arrest - NBC10 Philadelphia",
-        "candidate_tickers": [
-          "CAIMAN_GIRL",
-          "ANIMAL_ABUSO",
-          "CAIMAN_VIRAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T17:12:44.124878+00:00",
       "kind": "shadow",
       "payload": {
@@ -28070,6 +28026,50 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 70308.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:43:38.688589+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Política",
+        "title": "South Carolina’s Senate race tests Trump — again - Politico",
+        "candidate_tickers": [
+          "TRUMPTEST",
+          "CAROLINAS",
+          "SENATEBRAWL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T17:44:20.916675+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd9170e24272",
+        "score": 70,
+        "category": "negocios",
+        "title": "Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy.",
+        "candidate_tickers": [
+          "TESLASALVA",
+          "NAVIDAD2008",
+          "RONDADEFINANCIAMIENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T17:45:00.942739+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f1b7a975a506",
+        "score": 74,
+        "category": "Noticias de tecnología y política",
+        "title": "Watch Falcon 9 launch 24 @Starlink satellites to orbit from California xcancel.com/i/broadcasts/1qxoNNApQ…",
+        "candidate_tickers": [
+          "MUSK",
+          "STARLINK",
+          "SEC"
+        ]
       }
     }
   ]
