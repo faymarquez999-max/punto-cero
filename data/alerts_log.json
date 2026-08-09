@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T22:49:29.213334+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "política",
-        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-        "candidate_tickers": [
-          "ICE",
-          "Migrantes",
-          "Lorenzo Salgado Araujo",
-          "Trump"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T23:46:36.423802+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2f18f390a755",
-        "score": 78,
-        "category": "Accidentes aéreos",
-        "title": "Ryanair passenger partially sucked out of window on flight from Greece - Reuters",
-        "candidate_tickers": [
-          "RYANAIR",
-          "VUELO",
-          "DESANGRADO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T23:47:56.440154+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e79ca2fbc67f",
-        "score": 88,
-        "category": "Tecnología",
-        "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAITHACKED",
-          "APPLESUESOPENAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T23:48:25.322860+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "85353981b941",
-        "score": 90,
-        "category": "crimen y justicia",
-        "title": "Little Rock man pleads guilty to bank fraud conspiracy in pandemic funds scheme - The Arkansas Democrat-Gazette",
-        "candidate_tickers": [
-          "ANIMALSINJUSTICE",
-          "FRAUDEBANCARIO",
-          "PANDEMIAESQUEMA",
-          "LITTLEROCK",
-          "INJUSTICIAANIMAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T23:48:59.127818+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28025,6 +27963,67 @@
           "KINAHAN",
           "DUBAI",
           "CORTE DE DUBLÍN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T23:52:51.357068+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "gatos, celebración, comunidad en línea",
+        "title": "Today is International Cat Day.",
+        "candidate_tickers": [
+          "GatosDía",
+          "FiestaGatos",
+          "GatosInternacionales"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T23:53:49.236323+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f2022210ebae",
+        "score": 90,
+        "category": "política internacional",
+        "title": "IRAN INTERNATIONAL REPORTS THAT IRAN'S ARMED FORCES HAVE TAKEN CONTROL OF THE STRAIT OF HORMUZ AND A RETURN TO ITS PRE-WAR CONDITIONS IS NOT POSSIBLE, LAWMAKER ALI KHEZRIAN SAID SUNDAY.",
+        "candidate_tickers": [
+          "IRAN",
+          "HORMUZ",
+          "IRANIANARMEDFORCES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T23:56:48.047126+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "17f1c4c77acd",
+        "score": 74,
+        "category": "Innovación tecnológica",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TERAFAB",
+          "MUSKTX",
+          "EARTHMAX",
+          "TESLATX",
+          "FABTX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T23:57:01.450821+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d9e4db6153c7",
+        "score": 82,
+        "category": "Política y Controversia",
+        "title": "Hitler was a far-left socialist",
+        "candidate_tickers": [
+          "HITLERSOCIALISTA",
+          "FARLEFTHITLER",
+          "INESCAPABLELOGIC"
         ]
       }
     }
