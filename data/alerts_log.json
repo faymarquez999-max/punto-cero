@@ -1,126 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T17:14:53.721938+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cfa2473497d4",
-        "score": 85,
-        "category": "Desastres naturales",
-        "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 12 muertos y 23 personas no localizadas en el incendio más trágico registrado en Andalucía - EL PAÍS",
-        "candidate_tickers": [
-          "GALLARDOS",
-          "INCENDIOALMERIA",
-          "DESASTRENATURALES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:49:18.132693+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tenis",
-        "title": "Clinical Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
-        "candidate_tickers": [
-          "SinnerWins",
-          "ClinicalSinner",
-          "Wimbledon2026"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:49:58.910628+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "443750d6e5d0",
-        "score": 91,
-        "category": "muerte de una celebridad",
-        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
-        "candidate_tickers": [
-          "BONNIETYLER",
-          "TOTALECLIPSEOFTHEHEART",
-          "MUERTEDEBONNIETYLER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:50:49.707045+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Deportes",
-        "title": "!$[VERDIRECTO] España vs Bélgica EN VIVO y ONLINE 11 de julio de 2026 - Ayuntamiento de Pamplona",
-        "candidate_tickers": [
-          "ESPvsBEL",
-          "ESPvsBEL2026",
-          "ESPvsBELMundial"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:51:27.605633+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "93c4bbe53854",
-        "score": 72,
-        "category": "Noticias de inmigración y justicia",
-        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-        "candidate_tickers": [
-          "ICE",
-          "MIGRANTES",
-          "HOUSTON",
-          "INJUSTICIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:52:09.593385+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e5b28d8cf9bc",
-        "score": 85,
-        "category": "ciencia",
-        "title": "The oldest individual animal ever found was a clam pulled from the seabed off Iceland, and researchers only worked out it was 507 years old after they had opened it to count the rings - ScienceBlog.co",
-        "candidate_tickers": [
-          "CALAMAR507",
-          "ISLANDIA",
-          "LONGEVIDAD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T18:53:43.387201+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4f02c2514b8a",
-        "score": 80,
-        "category": "humor/absurdidad",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKMARINE",
-          "KEEEEEEEEEEK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T20:39:35.645187+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e221fbc82a2d",
-        "score": 88,
-        "category": "Política y celebridades",
-        "title": "/smg/ - stock market general",
-        "candidate_tickers": [
-          "TRUMPVSMSK",
-          "MUSKTRUMPFEUD",
-          "EPSTEINGATE",
-          "TRUMPMUSKWAR",
-          "POLITICALEXPOSE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T20:39:48.897734+00:00",
       "kind": "shadow",
       "payload": {
@@ -28070,6 +27950,100 @@
           "TWITTER",
           "SEC"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:09:30.289709+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política internacional",
+        "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+        "candidate_tickers": [
+          "NetanyahuRechaza",
+          "GazaPlan",
+          "TrumpFalla"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:10:03.787497+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "34cf21eda9dc",
+        "score": 89,
+        "category": "Celebridades y escándalos",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LITCHEATERS",
+          "CELEBSCANDALS",
+          "ELONMUSKBURNS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:10:33.723930+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "09d07fab1799",
+        "score": 70,
+        "category": "Tecnología",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK",
+          "BIZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:14:03.915861+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1089ce9730d2",
+        "ticker": "TWITCH",
+        "mint": "467fWX8qGPAf2norsBYTWhG7b2Z7wmhsS8RzPLHypump",
+        "mc": 20584.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:14:12.493944+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f64ca941b080",
+        "ticker": "2026",
+        "mint": "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
+        "mc": 37651.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:14:13.722285+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "db33cf2e9b97",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 56912.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:14:15.531095+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c1929a53ceb3",
+        "ticker": "HUNTER",
+        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
+        "mc": 34104.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:14:17.607273+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d61f941abe80",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 328350.0
       }
     }
   ]
