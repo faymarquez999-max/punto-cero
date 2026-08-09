@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T20:27:11.172042+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32677e914926",
-        "score": 88,
-        "category": "política y celebridades",
-        "title": "What happened to the beautiful game?",
-        "candidate_tickers": [
-          "TRUMPMUSK",
-          "MUSKTRUMP",
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T20:28:23.993671+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2ab85236d1de",
-        "score": 82,
-        "category": "política",
-        "title": "Burnham on course to become UK prime minister as nominations open for Labour leadership - AP News",
-        "candidate_tickers": [
-          "BURNHAM",
-          "322",
-          "LABOUR"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T20:28:59.428109+00:00",
       "kind": "shadow",
       "payload": {
@@ -28107,6 +28076,37 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 55927.0
+      }
+    },
+    {
+      "ts": "2026-08-09T11:39:02.597097+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2561ab9360fb",
+        "score": 70,
+        "category": "Celebridades y noticias de entretenimiento",
+        "title": "That was 10 years ago",
+        "candidate_tickers": [
+          "BARBIE",
+          "WHITNEYHOUSTON",
+          "ELONMUSK",
+          "10AÑOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T11:41:20.493118+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f16412f10fc6",
+        "score": 82,
+        "category": "Innovación tecnológica",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TERAFAB",
+          "MUSKTX",
+          "EARTHSTAR"
+        ]
       }
     }
   ]
