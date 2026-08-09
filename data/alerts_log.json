@@ -1,60 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T20:01:38.735460+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "Trump says US will give Ukraine license to produce Patriot defense systems - AP News",
-        "candidate_tickers": [
-          "TRUMP_PATRIOT",
-          "UKRANE_LICENSE",
-          "PATRIOT_DEFENSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T20:02:47.392023+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dae3aab3b927",
-        "ticker": "FIFA",
-        "mint": "Ee4Nm1R32jYuoFAMHSpfNcb1yQYqzGrR9C2nbnHwwTNJ",
-        "mc": 420165.0
-      }
-    },
-    {
-      "ts": "2026-07-08T21:22:46.720344+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e4bc3282b48d",
-        "score": 80,
-        "category": "Noticias",
-        "title": "Chinese restaurant in California goes viral for strict kids policy - KSN-TV",
-        "candidate_tickers": [
-          "KIDSPOLICY",
-          "RESTAURANTEVIRAL",
-          "CALIFORNIACONTROVERSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T21:23:57.885527+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e6d229a32a68",
-        "score": 90,
-        "category": "noticias",
-        "title": "Son demands independent probe after father shot and killed by ICE officer in Houston - AP News",
-        "candidate_tickers": [
-          "ICEKILLED",
-          "HOUSTONSHOOTING",
-          "INJUSTICE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T21:25:04.784386+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28094,6 +28040,67 @@
           "CryptoBill",
           "SenadoEEUU",
           "Criptomonedas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T02:33:03.735819+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ba2be98aae4b",
+        "score": 80,
+        "category": "política internacional",
+        "title": "IRAN: STRAIT OF HORMUZ WON’T FULLY REOPEN UNTIL U.S. “CORRECTS ITS BEHAVIOR”",
+        "candidate_tickers": [
+          "HORMUZ",
+          "IRAN",
+          "ESTADOSUNIDOS",
+          "CORRECCION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T02:33:36.303803+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ab902e94ba21",
+        "score": 90,
+        "category": "política y tecnología",
+        "title": "A pillar of environmental enforcement is targeted by Trump and Musk’s AI company - AP News",
+        "candidate_tickers": [
+          "MUSKVSAMBIENTALISMO",
+          "TRUMPVSAI",
+          "AIVSAMBIENTALISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T02:35:36.830368+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "94da735e0244",
+        "score": 70,
+        "category": "Deportes",
+        "title": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 - nbcnews.com",
+        "candidate_tickers": [
+          "JORGEMESSI",
+          "LIONELMESSI",
+          "MESSIDAD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T02:36:45.685548+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "33bbcdce2d4b",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
         ]
       }
     }
