@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T20:39:48.897734+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "accidentes y noticias",
-        "title": "/GME/ - Annual Stockholders After-Meeting Edition",
-        "candidate_tickers": [
-          "GMEcrash",
-          "AnimalCruelty",
-          "HoustonTragedy"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T20:41:05.005386+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "df30ca7a3f49",
-        "score": 78,
-        "category": "Noticias virales",
-        "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
-        "candidate_tickers": [
-          "CAIMÁNVIRAL",
-          "FLORIDAFRENZY",
-          "ANIMALENCUENTRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T20:42:59.886250+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "familia real británica",
-        "title": "Harry visits King with Meghan and children for first time in four years",
-        "candidate_tickers": [
-          "HarryRey",
-          "GrietaFamiliar",
-          "ReyHarry"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T20:43:37.637676+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4fc3f1cd29ba",
-        "score": 82,
-        "category": "Desastres naturales",
-        "title": "Spanish wildfire victims burned in cars as roads turned into death traps - Reuters",
-        "candidate_tickers": [
-          "WILDFIREVÍCTIMAS",
-          "TRAMPASDELAMUERTE",
-          "INFIERNOENESPAÑA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T21:47:12.987363+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28044,6 +27986,57 @@
         "ticker": "LIT",
         "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
         "mc": 328350.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:52:43.565258+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0a2377f7d8da",
+        "score": 80,
+        "category": "Política",
+        "title": "True",
+        "candidate_tickers": [
+          "BANKS",
+          "MILLER",
+          "TRUE",
+          "DROPMAX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:53:16.546917+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6a37715523ba",
+        "score": 89,
+        "category": "Celebridad, Infidelidad, Frase Viral",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LIT",
+          "LITERALLY",
+          "BUZZFEED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T19:57:21.205765+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1cb8a1af687e",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 56727.0
+      }
+    },
+    {
+      "ts": "2026-08-09T19:57:22.738165+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "faa7c0b2e375",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 56727.0
       }
     }
   ]
