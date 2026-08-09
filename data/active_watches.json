@@ -1,79 +1,6 @@
 {
   "watches": [
     {
-      "id": "9d29d842e429",
-      "fingerprint": "9d29d842e429",
-      "narrative_summary": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan",
-      "why_memeable": "La narrativa tiene un claro núcleo de interés: un famoso escalador muere en una avalancha en Pakistán.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PURJA",
-        "AVALANCHA",
-        "PAKISTÁN"
-      ],
-      "key_terms_for_dex_search": [
-        "Purja",
-        "Avalancha",
-        "Pakistán",
-        "escalador",
-        "muerte"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T17:47:43.799212+00:00",
-      "expires_at": "2026-08-04T17:47:43.799212+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "PURJA",
-        "name": "One Last Summit",
-        "mint": "DHsR49Z6QWbPHJfukhrkTU1WEvEoXzwsAVqzoLp5pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13758.0,
-        "liquidity_usd": 8489.77,
-        "price_usd": 1.815e-05,
-        "volume_h24": 55816.16,
-        "volume_h1": 466.38,
-        "volume_m5": 19.84,
-        "price_change_5m": -1.48,
-        "price_change_1h": -7.67,
-        "price_change_24h": -54.45,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 13,
-        "created_ts": 1785608833000,
-        "pair_created_at": 1785608833000,
-        "url": "https://dexscreener.com/solana/36dt3fk5yyt5dpcoyqctiwtdmxwg9taikb1uewhcrufk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: PURJA==PURJA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T21:11:59.805929+00:00"
-    },
-    {
       "id": "0493efc21d92",
       "fingerprint": "0493efc21d92",
       "narrative_summary": "Savannah Guthrie expresa su conmoción después de que se publiquen los mensajes de rescate de una madre secuestrada.",
@@ -6955,14 +6882,15 @@
       "started_at": "2026-08-07T03:42:46.386608+00:00",
       "expires_at": "2026-08-09T03:42:46.386608+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-09T04:06:37.792492+00:00"
     },
     {
       "id": "9bc7b0f321ab",
@@ -7049,13 +6977,14 @@
       "started_at": "2026-08-07T03:43:57.962821+00:00",
       "expires_at": "2026-08-09T03:43:57.962821+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ebola outbreak spreading at 'unprecedented speed', says WHO boss - SBS",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-09T04:06:37.792504+00:00"
     },
     {
       "id": "3df19f1cd4cb",
@@ -10651,7 +10580,51 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "491ea72a1bf9",
+      "fingerprint": "491ea72a1bf9",
+      "narrative_summary": "Elon Musk publica un simple 'Yes' en Twitter, generando mucha atención y debate.",
+      "why_memeable": "La simplicidad y la ambigüedad de la respuesta de Elon Musk la hacen muy compartible y debatible.",
+      "category": "Política y tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YES",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "yes",
+        "twitter",
+        "meme"
+      ],
+      "score": 86,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-09T04:09:59.760723+00:00",
+      "expires_at": "2026-08-11T04:09:59.760723+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T02:36:45.352982+00:00"
+  "last_updated": "2026-08-09T04:09:59.760723+00:00"
 }

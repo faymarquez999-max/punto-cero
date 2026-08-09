@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T21:25:04.784386+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "96d2d826bea8",
-        "score": 70,
-        "category": "política",
-        "title": "EXCLUSIVE: NATO's Rutte says alliance reunited at Ankara summit after Trump 'quarrel' - Reuters",
-        "candidate_tickers": [
-          "TRUMPVSNATO",
-          "RUTTEVSTRUMP",
-          "NATOREUNIDO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T22:37:18.966385+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f88225eb4ba7",
-        "score": 88,
-        "category": "accidentes bizarros",
-        "title": "Maryland man arrested after chasing family of geese, killing gosling - WUSA9",
-        "candidate_tickers": [
-          "GANSOASESINO",
-          "GANSITOMUERTO",
-          "PERSEGUIDORDEGANSOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T22:37:57.186309+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Muerte repentina de figuras públicas",
-        "title": "Late Influencer Ayzia J Was Sober, Rebuilding Brand Before Fatal Car Crash",
-        "candidate_tickers": [
-          "AYZIA",
-          "FALLECIMIENTOREPENTINO",
-          "MUERTEREPENTINA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-08T22:38:31.954413+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28096,6 +28052,50 @@
         "watch_id": "33bbcdce2d4b",
         "score": 80,
         "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T04:07:22.014960+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "Jimothy",
+          "JimothyToken",
+          "SolanaMeme",
+          "RaccoonCoin"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T04:09:02.203190+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Senate Republicans narrowly confirm Todd Blanche as attorney general - Reuters",
+        "candidate_tickers": [
+          "Blanche",
+          "FiscalGeneral",
+          "EEUU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T04:10:00.115011+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "491ea72a1bf9",
+        "score": 86,
+        "category": "Política y tecnología",
         "title": "Yes",
         "candidate_tickers": [
           "YES",
