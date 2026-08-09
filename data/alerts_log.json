@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T22:48:25.684607+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "crimen y justicia",
-        "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
-        "candidate_tickers": [
-          "WiddecombeMurder",
-          "AnnWiddecombe",
-          "MurderInvestigation"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T22:49:04.891006+00:00",
       "kind": "shadow",
       "payload": {
@@ -28023,6 +28009,21 @@
           "HORMUZ",
           "IRAN",
           "ESTRATEGIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T22:42:45.807870+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "166e0266a68c",
+        "score": 80,
+        "category": "Crímenes y Tribunales",
+        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+        "candidate_tickers": [
+          "KINAHAN",
+          "CARTELKINAHAN",
+          "DUBLÍN"
         ]
       }
     }
