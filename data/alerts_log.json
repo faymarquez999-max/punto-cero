@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T22:49:04.891006+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología y Negocios",
-        "title": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAIROBO",
-          "APPLESUES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T22:49:29.213334+00:00",
       "kind": "shadow",
       "payload": {
@@ -28024,6 +28010,21 @@
           "KINAHAN",
           "CARTELKINAHAN",
           "DUBLÍN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T23:16:58.730306+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0cfba4055cee",
+        "score": 79,
+        "category": "crimen y justicia",
+        "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+        "candidate_tickers": [
+          "KINAHAN",
+          "DUBAI",
+          "CORTE DE DUBLÍN"
         ]
       }
     }
