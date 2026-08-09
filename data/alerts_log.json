@@ -1,61 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-08T22:40:30.839218+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Mason: Farage called by-election from weak position - and it could backfire on him",
-        "candidate_tickers": [
-          "Farage",
-          "Binface",
-          "ReformUK",
-          "CountBinface"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-08T22:42:36.615340+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9331f698a6f4",
-        "ticker": "MarsCoin",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "mc": 29521.0
-      }
-    },
-    {
-      "ts": "2026-07-08T23:54:05.076999+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "871d8c81fce3",
-        "score": 72,
-        "category": "injusticia y absurdo",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "KEEEEEEEEEK",
-          "MARINES9AÑOS",
-          "DETENIDO9AÑOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T03:58:20.137378+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f88541b1d6d1",
-        "score": 73,
-        "category": "Seguridad pública",
-        "title": "Goodman residents concerned after men flaunt guns in viral video - WJTV",
-        "candidate_tickers": [
-          "GOODMAN",
-          "VIRALVIDEO",
-          "FUERZAPOLICÍA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T03:59:09.811187+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28104,6 +28049,68 @@
           "HELICOPTERCRASH",
           "UTAHWILDFIRE",
           "PILOTOMUERTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T06:12:23.421301+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "08590cf67c6e",
+        "score": 80,
+        "category": "Tecnología y celebridades",
+        "title": "ELON MUSK: “In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harness, you have to go to space. If you want to get to, say, a millionth of the po",
+        "candidate_tickers": [
+          "MUSK",
+          "TESLA",
+          "TWTR",
+          "ELON",
+          "SPACEX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T06:13:08.172913+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política",
+        "title": "/BBBYQ/ - Larry Cheng and Bill Pulte went onto Theppshow edition",
+        "candidate_tickers": [
+          "BBBYQ",
+          "CRYPTO",
+          "SENATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T06:13:46.072156+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e568f298ca65",
+        "score": 89,
+        "category": "Politica",
+        "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+        "candidate_tickers": [
+          "BIDENCANCER",
+          "HUNTERBIDEN",
+          "CANCERBIDEN",
+          "JOEBIDENCANCER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T06:15:47.397454+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ef15ff0ee48c",
+        "score": 79,
+        "category": "Celebridad",
+        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+        "candidate_tickers": [
+          "PEREZHILTON",
+          "SELFHARM",
+          "CELEBRIDADENCRISIS"
         ]
       }
     }
