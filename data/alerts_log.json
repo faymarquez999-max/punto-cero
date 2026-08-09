@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T22:47:41.300994+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f6a1c0d0fb51",
-        "score": 80,
-        "category": "Noticias de Florida",
-        "title": "MontCo woman accused of breaking into home of man she met on dating app - NBC10 Philadelphia",
-        "candidate_tickers": [
-          "CAIMÁNLADY",
-          "FLORIDAFIASCO",
-          "VIRALVIXEN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T22:48:25.684607+00:00",
       "kind": "shadow",
       "payload": {
@@ -28024,6 +28009,21 @@
         "ticker": "TNOS",
         "mint": "Fyo6nkuytYijBZV7Z5rw7paEy573vAgytHyxwRaKpump",
         "mc": 143024.0
+      }
+    },
+    {
+      "ts": "2026-08-09T21:56:17.392096+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9fdafc14205d",
+        "score": 88,
+        "category": "política internacional",
+        "title": "IRAN INTERNATIONAL REPORTS THAT IRAN'S ARMED FORCES HAVE TAKEN CONTROL OF THE STRAIT OF HORMUZ AND A RETURN TO ITS PRE-WAR CONDITIONS IS NOT POSSIBLE, LAWMAKER ALI KHEZRIAN SAID SUNDAY.",
+        "candidate_tickers": [
+          "HORMUZ",
+          "IRAN",
+          "ESTRATEGIA"
+        ]
       }
     }
   ]
