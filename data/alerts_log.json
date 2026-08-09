@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T20:28:59.428109+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Turkey's Erdogan gives NATO leaders revolver conundrum after summit - Reuters",
-        "candidate_tickers": [
-          "ErdoganRevolver",
-          "OTANConundrum",
-          "ErdoganRevolverConundrum"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T20:29:45.122644+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cfa755960f57",
-        "score": 70,
-        "category": "Política/Justicia",
-        "title": "Graham Platner suspends Maine Senate campaign after sexual assault allegation - CBS News",
-        "candidate_tickers": [
-          "PLATNERAGRESIÓN",
-          "GRAHAMPLATNER",
-          "MAINESENATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T20:30:22.865815+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "570aabeb51bd",
-        "score": 70,
-        "category": "Muerte de una celebridad",
-        "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-        "candidate_tickers": [
-          "BONNIETYLER",
-          "TOTALECLIPSEOFTHEHEART"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T22:05:43.063823+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2599be8707c6",
-        "score": 80,
-        "category": "inmigración, protestas, Sudáfrica",
-        "title": "South African protesters go door-to-door forcing immigrants from their homes - Reuters",
-        "candidate_tickers": [
-          "SUDAFRICAFORZAINMIGRANTES",
-          "INMIGRANTESSUDAFRICA",
-          "PROTESTASINMIGRANTES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T22:07:15.828612+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28107,6 +28049,51 @@
           "MUSKTX",
           "EARTHSTAR"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-09T12:07:29.546271+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1cb8a1af687e",
+        "score": 80,
+        "category": "política",
+        "title": "Try version of Grok image editing",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TRILLIONAIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T12:12:48.307599+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6aefeb062a58",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 68357.0
+      }
+    },
+    {
+      "ts": "2026-08-09T12:12:50.242074+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9d0aecf109a2",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 62751.0
+      }
+    },
+    {
+      "ts": "2026-08-09T12:12:52.831453+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c413ad6e6fe9",
+        "ticker": "ASTRA",
+        "mint": "BcoNUiz5cWTAmNz3akQ6xJy9ytUjrNC38uDkW3DTpump",
+        "mc": 25789.0
       }
     }
   ]
