@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T03:59:09.811187+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0086383c7724",
-        "score": 86,
-        "category": "Muertes inusuales",
-        "title": "Chainlink: Shocking details emerge about",
-        "candidate_tickers": [
-          "CATHERINEOHARA",
-          "JAMESBURROWS",
-          "MUERTEINUSUAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T07:46:37.474636+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fbd19b10a3df",
-        "score": 80,
-        "category": "Política y Escándalos",
-        "title": "/GME/ - Comfy Monday After-hours and Late Night Edition",
-        "candidate_tickers": [
-          "TRUMP",
-          "GME",
-          "SCANDAL",
-          "USA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T07:48:36.848869+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "98c200bf0c8c",
-        "score": 83,
-        "category": "News/Politics",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKMARINE",
-          "KEEEEEEEK",
-          "MARINEGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T07:50:03.447748+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c42dc14c7211",
-        "score": 82,
-        "category": "Migración",
-        "title": "Localizan otras dos pateras llegadas a Formentera con 60 personas migrantes - Ultima Hora",
-        "candidate_tickers": [
-          "PATERASDEFORMENTERA",
-          "MIGRANTESENFORMENTERA",
-          "JUNTARECOMIENDAABSTENCION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T07:50:31.491056+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 65,
-        "category": "accidentes inusuales",
-        "title": "Evacuado en helicóptero un hombre al caer de un árbol en una finca de Pollença - Ultima Hora",
-        "candidate_tickers": [
-          "CAER",
-          "POLLÈNCA",
-          "HELICOPTERO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T07:50:34.452847+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -28111,6 +28036,80 @@
           "PEREZHILTON",
           "SELFHARM",
           "CELEBRIDADENCRISIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T07:20:41.012264+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a07830d700e9",
+        "score": 74,
+        "category": "Negocios y tecnología",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T07:21:13.932468+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "meme coins",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "SOLANA",
+          "MEME COINS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T07:21:50.282235+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "/BBBYQ/ - Larry Cheng and Bill Pulte went onto Theppshow edition",
+        "candidate_tickers": [
+          "BLANCHE",
+          "TRUMP",
+          "FISCALGENERAL",
+          "POLITICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T07:22:40.551497+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dfefecf0a835",
+        "score": 74,
+        "category": "política",
+        "title": "Israel announces tender for 627 settler units in occupied West Bank",
+        "candidate_tickers": [
+          "ISRAEL",
+          "COLONOS",
+          "CUENCA OCCIDENTAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T07:24:05.090752+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "65ac03a33e23",
+        "score": 80,
+        "category": "Celebridad/Injusticia/Viral",
+        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+        "candidate_tickers": [
+          "PEREZHILTON",
+          "SELFHARM",
+          "BLOGGERENCRISIS"
         ]
       }
     }

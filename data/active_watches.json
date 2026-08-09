@@ -1,193 +1,6 @@
 {
   "watches": [
     {
-      "id": "359b4914232c",
-      "fingerprint": "359b4914232c",
-      "narrative_summary": "F-35B stealth fighter se estrella en California, piloto se salva",
-      "why_memeable": "El accidente de un avión de combate F-35B en California es un evento impactante que puede ser capturado en una frase corta y compartido fácilmente.",
-      "category": "Accidente aéreo",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "F35",
-        "CRASH",
-        "MARINECORPS"
-      ],
-      "key_terms_for_dex_search": [
-        "F35",
-        "Crash",
-        "MarineCorps",
-        "Avión",
-        "Accidente"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-01T17:50:40.022885+00:00",
-      "expires_at": "2026-08-03T17:50:40.022885+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T18:30:50.973333+00:00"
-    },
-    {
-      "id": "0b94e29016f1",
-      "fingerprint": "0b94e29016f1",
-      "narrative_summary": "Elon Musk anuncia que algo está cerca de la extinción, generando gran atención",
-      "why_memeable": "La frase es corta y fácil de recordar, con un impacto emocional alto",
-      "category": "Tecnología/Extinción",
-      "matched_archetype": "prophet_of_doom_warning",
-      "candidate_tickers": [
-        "EXTINCTION",
-        "EXTINCTIONROAD",
-        "EXTINCTIONNEAR"
-      ],
-      "key_terms_for_dex_search": [
-        "extinción",
-        "elonmusk",
-        "road"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-01T17:51:02.056987+00:00",
-      "expires_at": "2026-08-03T17:51:02.056987+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FORK",
-        "name": "A Fork in the Road",
-        "mint": "EiQFPuw5zgXQpLk5XSqvMtKTWjf5xiLRZdHftseDpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 430706.0,
-        "liquidity_usd": 57199.59,
-        "price_usd": 0.0004308,
-        "volume_h24": 15592.66,
-        "volume_h1": 979.77,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 3.67,
-        "price_change_24h": -18.1,
-        "txns_h1_buys": 12,
-        "txns_h1_sells": 3,
-        "created_ts": 1733595228000,
-        "pair_created_at": 1733595228000,
-        "url": "https://dexscreener.com/solana/dgktgjlu5xpssliv4u6npsfc6vberkk4rusoxiiccrc1",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ROAD in A FORK IN THE ROAD",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "They are far along the road to extinction",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-03T07:55:34.958018+00:00"
-    },
-    {
-      "id": "9f449f9e7f39",
-      "fingerprint": "9f449f9e7f39",
-      "narrative_summary": "Elon Musk promociona Grok Build, una herramienta que puede hacer casi cualquier cosa que uno se pueda imaginar.",
-      "why_memeable": "La frase es corta y fácil de recordar, y tiene un toque de absurdo gracias a la afirmación de que puede hacer 'casi cualquier cosa'.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "XAICLI"
-      ],
-      "key_terms_for_dex_search": [
-        "Grok",
-        "Build",
-        "X.ai/cli",
-        "Elon Musk"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-01T17:51:22.764246+00:00",
-      "expires_at": "2026-08-04T17:51:22.764246+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FU",
-        "name": "Farting Unicorn By Elon Musk",
-        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 24016.0,
-        "liquidity_usd": 19827.23,
-        "price_usd": 2.654e-05,
-        "volume_h24": 33023.68,
-        "volume_h1": 1005.98,
-        "volume_m5": 0.24,
-        "price_change_5m": -0.76,
-        "price_change_1h": -16.76,
-        "price_change_24h": 12.44,
-        "txns_h1_buys": 379,
-        "txns_h1_sells": 199,
-        "created_ts": 1734517880000,
-        "pair_created_at": 1734517880000,
-        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Grok Build can do almost anything you can think of X.ai/cli",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 5,
-      "matched_at": "2026-08-04T06:17:48.303051+00:00"
-    },
-    {
       "id": "8179e8460d5b",
       "fingerprint": "8179e8460d5b",
       "narrative_summary": "Trump se opone a la decisión del Departamento de Justicia de retirar los cargos por daños al Reflecting Pool",
@@ -6999,14 +6812,15 @@
       "started_at": "2026-08-07T06:53:30.307068+00:00",
       "expires_at": "2026-08-09T06:53:30.307068+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-09T07:20:25.479163+00:00"
     },
     {
       "id": "fc82beee678f",
@@ -7045,13 +6859,14 @@
       "started_at": "2026-08-07T06:54:44.901503+00:00",
       "expires_at": "2026-08-09T06:54:44.901503+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia - EL PAÍS",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-09T07:20:25.479175+00:00"
     },
     {
       "id": "eac53bdfdbb8",
@@ -10626,7 +10441,145 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "a07830d700e9",
+      "fingerprint": "a07830d700e9",
+      "narrative_summary": "Elon Musk se enfrenta a una demanda de la SEC por falsas declaraciones en Twitter.",
+      "why_memeable": "La narrativa cuenta con un personaje público polarizador (Elon Musk) y un evento dramático (demanda de la SEC).",
+      "category": "Negocios y tecnología",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "SEC",
+        "TWITTER"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "SEC",
+        "Twitter",
+        "demanda",
+        "falsas declaraciones"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-09T07:20:40.631119+00:00",
+      "expires_at": "2026-08-11T07:20:40.631119+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/smg/ - stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "dfefecf0a835",
+      "fingerprint": "dfefecf0a835",
+      "narrative_summary": "Israel anuncia un concurso para 627 unidades de colonos en la Cuenca Occidental ocupada.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia con un villano (Israel) y víctimas (los colonos).",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "COLONOS",
+        "CUENCA OCCIDENTAL"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "cuenca occidental",
+        "colonos",
+        "injusticia"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-09T07:22:40.177053+00:00",
+      "expires_at": "2026-08-12T07:22:40.177053+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israel announces tender for 627 settler units in occupied West Bank",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "65ac03a33e23",
+      "fingerprint": "65ac03a33e23",
+      "narrative_summary": "Perez Hilton se autolesiona durante un livestream y enfrenta una larga recuperación.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y un elemento de shock.",
+      "category": "Celebridad/Injusticia/Viral",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PEREZHILTON",
+        "SELFHARM",
+        "BLOGGERENCRISIS"
+      ],
+      "key_terms_for_dex_search": [
+        "PerezHilton",
+        "selfharm",
+        "livestream",
+        "blogger",
+        "injusticia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T07:24:04.699769+00:00",
+      "expires_at": "2026-08-11T07:24:04.699769+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T06:15:47.023353+00:00"
+  "last_updated": "2026-08-09T07:24:04.699769+00:00"
 }
