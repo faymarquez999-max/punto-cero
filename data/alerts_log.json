@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T13:44:25.251116+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a66e2e8bd9ef",
-        "score": 72,
-        "category": "política",
-        "title": "Graham Platner drops Maine Senate bid: What that means for Democrats",
-        "candidate_tickers": [
-          "PLATNER",
-          "MAINESENATE",
-          "DEMÓCRATAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T16:20:41.568474+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b9638be69a2d",
-        "score": 82,
-        "category": "Deportes",
-        "title": "«Hui para proteger a mi familia de la muerte». Confesión impactante del seleccionador de Corea tras el desastre del Mundial - Goal.com",
-        "candidate_tickers": [
-          "HUI",
-          "COREA",
-          "DESASTREMUNDIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T16:22:13.039381+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a4c83a982937",
-        "score": 82,
-        "category": "Noticias políticas",
-        "title": "‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term - The Guardian",
-        "candidate_tickers": [
-          "TRUMPSHOOTING",
-          "INMIGRACIÓNSANGRIENTA",
-          "FALLODETRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T18:22:33.954628+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28115,6 +28070,50 @@
           "RIPPLE",
           "MEMECOIN",
           "CRYPTOINVESTING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T10:01:45.714119+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db33cf2e9b97",
+        "score": 78,
+        "category": "Política y Negocios",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "SEC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T10:02:44.036348+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política internacional",
+        "title": "Iran issues new demands as Pezeshkian seeks deal",
+        "candidate_tickers": [
+          "IranDeal",
+          "Pezeshkian",
+          "Hormuz"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T10:03:03.543018+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c1929a53ceb3",
+        "score": 78,
+        "category": "Politica/Noticias",
+        "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+        "candidate_tickers": [
+          "BIDENCANCER",
+          "HUNTERBIDEN",
+          "CANCERBIDEN"
         ]
       }
     }

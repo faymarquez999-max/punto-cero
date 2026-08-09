@@ -1,99 +1,6 @@
 {
   "watches": [
     {
-      "id": "d825394b403b",
-      "fingerprint": "d825394b403b",
-      "narrative_summary": "Todas las 10 escaladores que se llevaron por una avalancha en Pakistán han sido confirmadas muertas.",
-      "why_memeable": "La historia tiene un impacto emocional fuerte y es fácil de compartir.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AVALANCHA",
-        "PAKISTÁN",
-        "ESCALADORES",
-        "MUERTOS"
-      ],
-      "key_terms_for_dex_search": [
-        "Avalancha",
-        "Pakistán",
-        "Escaladores",
-        "Muertos"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T20:05:32.560974+00:00",
-      "expires_at": "2026-08-03T20:05:32.560974+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T20:18:08.779870+00:00"
-    },
-    {
-      "id": "0214f5748e67",
-      "fingerprint": "0214f5748e67",
-      "narrative_summary": "Explosión en Moscú deja tres muertos y 15 heridos",
-      "why_memeable": "La narrativa tiene un título claro y una descripción concisa, lo que la hace fácilmente compartible y recordable",
-      "category": "Noticias de accidentes y catástrofes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MOSCOWEXPLOSION",
-        "TASS",
-        "RUSSIANEWS"
-      ],
-      "key_terms_for_dex_search": [
-        "explosion",
-        "Moscow",
-        "TASS",
-        "Russia"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T20:06:10.706896+00:00",
-      "expires_at": "2026-08-03T20:06:10.706896+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Three killed, 15 injured in Moscow explosion, TASS says - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-03T20:18:08.779873+00:00"
-    },
-    {
       "id": "8847159fa1f6",
       "fingerprint": "8847159fa1f6",
       "narrative_summary": "El presidente Trump denuncia la decisión del Departamento de Justicia de retirar los cargos por vandalismo en la piscina Reflecting Pool",
@@ -10549,7 +10456,99 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "db33cf2e9b97",
+      "fingerprint": "db33cf2e9b97",
+      "narrative_summary": "Elon Musk enfrenta acusaciones de engaño a accionistas de Twitter y enfrenta una multa de $150 millones",
+      "why_memeable": "La narrativa es memeable debido a la figura pública de Elon Musk y la acusación de engaño a accionistas",
+      "category": "Política y Negocios",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "TWITTER",
+        "SEC"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "SEC",
+        "engaño a accionistas"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-09T10:01:45.105623+00:00",
+      "expires_at": "2026-08-12T10:01:45.105623+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/smg/ - stock market general",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c1929a53ceb3",
+      "fingerprint": "c1929a53ceb3",
+      "narrative_summary": "Joe Biden's cancer has spread to his bones, according to his son Hunter.",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un contenido que puede ser compartido fácilmente.",
+      "category": "Politica/Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "BIDENCANCER",
+        "HUNTERBIDEN",
+        "CANCERBIDEN"
+      ],
+      "key_terms_for_dex_search": [
+        "Joe Biden",
+        "cancer",
+        "Hunter Biden",
+        "politica"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 2,
+        "simplicity": 4,
+        "velocity": 6
+      },
+      "started_at": "2026-08-09T10:03:03.082075+00:00",
+      "expires_at": "2026-08-11T10:03:03.082075+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T09:08:05.924014+00:00"
+  "last_updated": "2026-08-09T10:03:03.082075+00:00"
 }
