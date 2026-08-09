@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T07:50:34.452847+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9331f698a6f4",
-        "ticker": "MarsCoin",
-        "mint": "ZAPNUc3UqbrscCug58kroeghUguiaci22uHKRjnpump",
-        "mc": 33206.0
-      }
-    },
-    {
-      "ts": "2026-07-09T10:43:25.794202+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e16f1aaf4ced",
-        "score": 91,
-        "category": "Noticias de animales",
-        "title": "Family's 'unimaginable loss' as mum and daughters found dead",
-        "candidate_tickers": [
-          "DEADPETS",
-          "CALIFURIA",
-          "ANIMALABUSE",
-          "NOHUMANO",
-          "PERROSALVAJE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-09T10:44:15.302383+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Debate político",
-        "title": "Inside King’s College London’s crackdown on pro-Palestine students",
-        "candidate_tickers": [
-          "MUSKvsTRUMP",
-          "CENSURA",
-          "LIBERTAD_DE_EXPRESION"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T10:44:49.057578+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28110,6 +28069,51 @@
           "PEREZHILTON",
           "SELFHARM",
           "BLOGGERENCRISIS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T08:12:32.744799+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c7eb098e9491",
+        "score": 90,
+        "category": "conflicto internacional",
+        "title": "Yemen’s Iran-backed Houthis attacked Saudi Aramco’s refinery in the southern Saudi city of Jazan, the group’s military spokesperson said on Sunday.",
+        "candidate_tickers": [
+          "IRANVSSAUDI",
+          "HOUTHIARAMCO",
+          "JAZANREFINERA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T08:14:15.948711+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "memecoins",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "$ANSEM",
+          "XRP",
+          "SOL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T08:17:10.908157+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b2cfe910de9b",
+        "score": 80,
+        "category": "Celebridad en situación inusual",
+        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+        "candidate_tickers": [
+          "PEREZ",
+          "HILTONLIVE",
+          "SELFHARM",
+          "LIVESTREAM"
         ]
       }
     }
