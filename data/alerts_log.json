@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-09T10:44:49.057578+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2c9269fdf16f",
-        "score": 70,
-        "category": "clima",
-        "title": "China, Taiwan brace for Typhoon Bavi, possibly the most powerful storm in years - Reuters",
-        "candidate_tickers": [
-          "TYPHOONBAVI",
-          "BAVISTORM",
-          "CHINATAIWANTIFON"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-09T13:44:25.251116+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28114,6 +28099,22 @@
           "HILTONLIVE",
           "SELFHARM",
           "LIVESTREAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T09:08:06.329356+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f64ca941b080",
+        "score": 70,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "XRP",
+          "RIPPLE",
+          "MEMECOIN",
+          "CRYPTOINVESTING"
         ]
       }
     }

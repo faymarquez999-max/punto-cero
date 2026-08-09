@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "ba98d8087e9a",
-      "fingerprint": "ba98d8087e9a",
-      "narrative_summary": "España instala barrera flotante en Ceuta después de una afluencia mortal de migrantes",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'barrera' que se puede capturar en una imagen",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CEUTA",
-        "BARRERA FLOTANTE",
-        "MIGRANTES"
-      ],
-      "key_terms_for_dex_search": [
-        "Ceuta",
-        "barrera flotante",
-        "migrantes",
-        "injusticia"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-01T20:04:40.941752+00:00",
-      "expires_at": "2026-08-03T20:04:40.941752+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CTO",
-        "name": "Ceuta Take Over",
-        "mint": "BmH3twUxDs5mHzBd8yi7KashW7B6n34HRtb4sdHNwHcM",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20643.0,
-        "liquidity_usd": 12600.43,
-        "price_usd": 2.148e-05,
-        "volume_h24": 43576.72,
-        "volume_h1": 767.9,
-        "volume_m5": 53.8,
-        "price_change_5m": 1.36,
-        "price_change_1h": -4.74,
-        "price_change_24h": -16.63,
-        "txns_h1_buys": 23,
-        "txns_h1_sells": 11,
-        "created_ts": 1785418693000,
-        "pair_created_at": 1785418693000,
-        "url": "https://dexscreener.com/solana/ek2jjqyzrzyvirxcd8hgsiwavkagfqtpmuwrqvyvntht",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CEUTA in CEUTA TAKE OVER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-02T21:12:12.036263+00:00"
-    },
-    {
       "id": "d825394b403b",
       "fingerprint": "d825394b403b",
       "narrative_summary": "Todas las 10 escaladores que se llevaron por una avalancha en Pakistán han sido confirmadas muertas.",
@@ -6806,14 +6734,15 @@
       "started_at": "2026-08-07T08:21:51.525835+00:00",
       "expires_at": "2026-08-09T08:21:51.525835+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-09T09:06:35.274771+00:00"
     },
     {
       "id": "22fdcc1fc187",
@@ -10574,7 +10503,53 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f64ca941b080",
+      "fingerprint": "f64ca941b080",
+      "narrative_summary": "Lista de los mejores memecoin para invertir en 2026, según diferentes fuentes",
+      "why_memeable": "La narrativa es sobre la inversión en memecoin, lo que es un tema popular y viral en la comunidad de criptomonedas.",
+      "category": "memecoin",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XRP",
+        "RIPPLE",
+        "MEMECOIN",
+        "CRYPTOINVESTING"
+      ],
+      "key_terms_for_dex_search": [
+        "memecoin",
+        "inversión",
+        "criptomoneda",
+        "2026"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T09:08:05.924014+00:00",
+      "expires_at": "2026-08-11T09:08:05.924014+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2554",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T08:17:10.408433+00:00"
+  "last_updated": "2026-08-09T09:08:05.924014+00:00"
 }
