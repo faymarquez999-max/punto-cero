@@ -1,136 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T05:49:23.451693+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ef7dbc61463b",
-        "ticker": "IRAN",
-        "mint": "FuMGatvkAZdDmvYmGBr5udXgmVRRYYddwLvs1Uzwmw1e",
-        "mc": 274991.0
-      }
-    },
-    {
-      "ts": "2026-07-10T08:55:58.128867+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "negocios",
-        "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
-        "candidate_tickers": [
-          "SKHYNIX",
-          "RECORDIPO",
-          "CHIPGIANT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T08:56:36.842313+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "81d3a12d67c3",
-        "score": 79,
-        "category": "Noticias de actualidad",
-        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-        "candidate_tickers": [
-          "ICE",
-          "HOUSTON",
-          "MIGRANTES",
-          "MUERTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T08:57:18.018965+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump ousts members of bipartisan election commission ahead of midterms - Politico",
-        "candidate_tickers": [
-          "TRUMP_CLEANS_HOUSE",
-          "ELECTION_COMMISSION_OUTS",
-          "TRUMP_OUSTS_MEMBERS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T08:58:06.759722+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a4c4fb5eefdf",
-        "score": 70,
-        "category": "Muerte de una famosa cantante",
-        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
-        "candidate_tickers": [
-          "BONNIETYLER",
-          "TOTALECLIPSEOFTHEHEART",
-          "MUERTEDEBONNIETYLER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T08:59:12.944621+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "83e17e6420f9",
-        "score": 83,
-        "category": "política",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEEK",
-          "MARINEKEEK",
-          "KEEEEEEEEEK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T12:04:02.071355+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "política",
-        "title": "Condemned ex-PM Hasina plans December return to Bangladesh",
-        "candidate_tickers": [
-          "Hasina",
-          "Bangladesh",
-          "HasinaRegresa"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T12:04:47.900749+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5856c931ae69",
-        "score": 78,
-        "category": "muerte de una celebridad",
-        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
-        "candidate_tickers": [
-          "BONNIETYLER",
-          "TOTALECLIPSEOFTHEHEART",
-          "MUERTEDEBONNIETYLER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T12:05:41.639398+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "364942519ab7",
-        "score": 85,
-        "category": "Desastres naturales",
-        "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | Al menos 11 muertos y 19 desaparecidos en el incendio más trágico registrado en Andalucía - EL PAÍS",
-        "candidate_tickers": [
-          "GALLARDOS",
-          "ALMERÍA",
-          "INCENDIO",
-          "DESASTRE",
-          "MUERTE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-10T12:06:10.510216+00:00",
       "kind": "shadow",
       "payload": {
@@ -28098,6 +27968,108 @@
           "CHEATINGSCANDALS",
           "RELATIONSHIPGOALS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-09T17:01:06.680278+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "500dde95a930",
+        "score": 89,
+        "category": "Celebridad, infidelidad, relaciones",
+        "title": "Literally",
+        "candidate_tickers": [
+          "LIT",
+          "CHEAT",
+          "FELO",
+          "FAITH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T17:02:46.526011+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "02d00efb4402",
+        "score": 82,
+        "category": "conflicto internacional",
+        "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
+        "candidate_tickers": [
+          "ODESA",
+          "UCRANIA",
+          "RUSIA",
+          "CONFLICTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-09T17:05:45.978375+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "618d0bda1cab",
+        "ticker": "RIPTRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "mc": 236345.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:15.509221+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "31a09462b231",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 70308.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:20.501847+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "33bbcdce2d4b",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 70308.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:21.559257+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "491ea72a1bf9",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 70308.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:23.029075+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "08590cf67c6e",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 70308.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:25.278632+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e568f298ca65",
+        "ticker": "HUNTER",
+        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
+        "mc": 35994.0
+      }
+    },
+    {
+      "ts": "2026-08-09T17:06:27.236336+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a07830d700e9",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 70308.0
       }
     }
   ]

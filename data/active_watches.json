@@ -1,102 +1,6 @@
 {
   "watches": [
     {
-      "id": "7fabe996bf08",
-      "fingerprint": "7fabe996bf08",
-      "narrative_summary": "Incendio en ferry en Indonesia, 5 muertos y 41 desaparecidos",
-      "why_memeable": "Animales involucrados, incidente dramático y multitud de fuentes",
-      "category": "accidente marítimo",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FERRYINCENDIO",
-        "INDONESIATRAGEDIA",
-        "ANIMALESENPELIGRO"
-      ],
-      "key_terms_for_dex_search": [
-        "ferry",
-        "incendio",
-        "Indonesia",
-        "muertos",
-        "desaparecidos",
-        "animales"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-02T14:02:07.616213+00:00",
-      "expires_at": "2026-08-05T14:02:07.616213+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-05T14:59:30.452388+00:00"
-    },
-    {
-      "id": "00d9580ed447",
-      "fingerprint": "00d9580ed447",
-      "narrative_summary": "Shooting en un restaurante de comida rápida en Idaho deja 3 muertos y 7 heridos.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase y tiene un alto contenido emocional.",
-      "category": "Noticias de crímenes y violencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IDAHOSHOOTING",
-        "RESTAURANTSHOOTING",
-        "VIOLENCIAENIDAHO"
-      ],
-      "key_terms_for_dex_search": [
-        "Idaho",
-        "shooting",
-        "muertos",
-        "heridos",
-        "restaurante",
-        "comida rápida"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-08-02T14:02:44.907523+00:00",
-      "expires_at": "2026-08-04T14:02:44.907523+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured - Politico",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-04T18:01:36.154513+00:00"
-    },
-    {
       "id": "2fb1829a32a7",
       "fingerprint": "2fb1829a32a7",
       "narrative_summary": "El actor Vincent Pastore, conocido por su papel en 'Los Soprano', ha fallecido a los 80 años.",
@@ -5506,7 +5410,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "72f861bef343",
@@ -5554,7 +5458,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "af6b26d646fe",
@@ -5648,7 +5552,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "9c6033461753",
@@ -6138,7 +6042,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "e05dfaeb9dbd",
@@ -6230,7 +6134,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "258cbdb7fe07",
@@ -6317,15 +6221,42 @@
       "started_at": "2026-08-07T11:35:24.537268+00:00",
       "expires_at": "2026-08-10T11:35:24.537268+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "RIPTRUMP",
+        "name": "RIP DONALD TRUMP",
+        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 236345.0,
+        "liquidity_usd": 38336.18,
+        "price_usd": 0.0002363,
+        "volume_h24": 6849.96,
+        "volume_h1": 0.39,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.18,
+        "price_change_24h": 19.18,
+        "txns_h1_buys": 1,
+        "txns_h1_sells": 0,
+        "created_ts": 1775332817000,
+        "pair_created_at": 1775332817000,
+        "url": "https://dexscreener.com/solana/6joeefdteyxqwwovy5gptmdrjszvnnpbdtq7h8p5q2r",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: DONALD TRUMP in RIP DONALD TRUMP",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Elon Musk is literally turning science fiction into reality",
       "cluster_sources": [
         "breaking_news",
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6,
+      "matched_at": "2026-08-09T17:05:45.967243+00:00"
     },
     {
       "id": "6fcbdd6b7421",
@@ -6416,7 +6347,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d91231dc5fe8",
@@ -6462,7 +6393,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "80cadf781a90",
@@ -6581,7 +6512,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4f5525025662",
@@ -6699,7 +6630,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "02588a434938",
@@ -6747,7 +6678,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7326ffe3e2ca",
@@ -6793,7 +6724,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6b120658076a",
@@ -6982,7 +6913,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8ec80da794e6",
@@ -7028,7 +6959,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c7b0753be21d",
@@ -7070,7 +7001,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "bebeb81e556d",
@@ -7324,7 +7255,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ce44e868928f",
@@ -7368,7 +7299,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c29a46d5e172",
@@ -7411,7 +7342,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "704f4261df68",
@@ -7530,7 +7461,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5cd9c9d841a9",
@@ -7643,7 +7574,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "1ce162a1af11",
@@ -7686,7 +7617,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "258ee5bad50a",
@@ -7955,7 +7886,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "ee799644d4b2",
@@ -8001,7 +7932,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "359ae9f051ee",
@@ -8045,7 +7976,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "721c2d72962d",
@@ -8091,7 +8022,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "535a608e00f8",
@@ -8137,7 +8068,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "dc103a9cf773",
@@ -8250,7 +8181,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "853bc9a2ad65",
@@ -8294,7 +8225,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f609c34de40e",
@@ -8336,7 +8267,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b05a5732e8e0",
@@ -8381,7 +8312,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f33f85861eb4",
@@ -8423,7 +8354,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2e436e84bcbe",
@@ -8583,7 +8514,7 @@
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "979fd321e1b1",
@@ -8627,7 +8558,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5dce20a7b0a3",
@@ -8672,7 +8603,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "cdf4dcc4f66b",
@@ -8717,7 +8648,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6aefeb062a58",
@@ -8825,13 +8756,14 @@
       "started_at": "2026-08-08T15:55:08.006171+00:00",
       "expires_at": "2026-08-09T15:55:08.006171+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Wow",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-09T17:00:51.709647+00:00"
     },
     {
       "id": "9d0aecf109a2",
@@ -9021,7 +8953,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5ea6c143bb4c",
@@ -9066,7 +8998,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1089ce9730d2",
@@ -9108,7 +9040,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "31a09462b231",
@@ -9146,13 +9078,40 @@
       "started_at": "2026-08-08T22:06:58.183639+00:00",
       "expires_at": "2026-08-10T22:06:58.183639+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 70308.0,
+        "liquidity_usd": 21981.21,
+        "price_usd": 7.232e-05,
+        "volume_h24": 49755.3,
+        "volume_h1": 7566.64,
+        "volume_m5": 774.66,
+        "price_change_5m": -2.46,
+        "price_change_1h": -3.29,
+        "price_change_24h": 51.01,
+        "txns_h1_buys": 82,
+        "txns_h1_sells": 59,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-09T17:06:15.498144+00:00"
     },
     {
       "id": "d331b265d3d9",
@@ -9197,7 +9156,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ba2be98aae4b",
@@ -9244,7 +9203,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ab902e94ba21",
@@ -9290,7 +9249,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "94da735e0244",
@@ -9335,7 +9294,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "33bbcdce2d4b",
@@ -9372,13 +9331,40 @@
       "started_at": "2026-08-09T02:36:45.352982+00:00",
       "expires_at": "2026-08-11T02:36:45.352982+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 70308.0,
+        "liquidity_usd": 21981.21,
+        "price_usd": 7.232e-05,
+        "volume_h24": 49755.3,
+        "volume_h1": 7566.64,
+        "volume_m5": 774.66,
+        "price_change_5m": -2.46,
+        "price_change_1h": -3.29,
+        "price_change_24h": 51.01,
+        "txns_h1_buys": 82,
+        "txns_h1_sells": 59,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-09T17:06:20.491551+00:00"
     },
     {
       "id": "491ea72a1bf9",
@@ -9416,13 +9402,40 @@
       "started_at": "2026-08-09T04:09:59.760723+00:00",
       "expires_at": "2026-08-11T04:09:59.760723+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 70308.0,
+        "liquidity_usd": 21981.21,
+        "price_usd": 7.232e-05,
+        "volume_h24": 49755.3,
+        "volume_h1": 7566.64,
+        "volume_m5": 774.66,
+        "price_change_5m": -2.46,
+        "price_change_1h": -3.29,
+        "price_change_24h": 51.01,
+        "txns_h1_buys": 82,
+        "txns_h1_sells": 59,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-09T17:06:21.548644+00:00"
     },
     {
       "id": "08590cf67c6e",
@@ -9463,8 +9476,34 @@
       "started_at": "2026-08-09T06:12:23.066739+00:00",
       "expires_at": "2026-08-12T06:12:23.066739+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 70308.0,
+        "liquidity_usd": 21981.21,
+        "price_usd": 7.232e-05,
+        "volume_h24": 49755.3,
+        "volume_h1": 7566.64,
+        "volume_m5": 774.66,
+        "price_change_5m": -2.46,
+        "price_change_1h": -3.29,
+        "price_change_24h": 51.01,
+        "txns_h1_buys": 82,
+        "txns_h1_sells": 59,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ELON MUSK: “In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harness, you have to go to space. If you want to get to, say, a millionth of the power output of the sun, you would have to",
       "cluster_sources": [
         "4chan",
@@ -9472,7 +9511,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-09T17:06:23.018632+00:00"
     },
     {
       "id": "e568f298ca65",
@@ -9511,15 +9551,42 @@
       "started_at": "2026-08-09T06:13:45.681092+00:00",
       "expires_at": "2026-08-11T06:13:45.681092+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HUNTER",
+        "name": "Hunter Biden 2028",
+        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 35994.0,
+        "liquidity_usd": 21417.48,
+        "price_usd": 3.6e-05,
+        "volume_h24": 106725.81,
+        "volume_h1": 604.71,
+        "volume_m5": 1.58,
+        "price_change_5m": 0.71,
+        "price_change_1h": -4.96,
+        "price_change_24h": 79.78,
+        "txns_h1_buys": 7,
+        "txns_h1_sells": 5,
+        "created_ts": 1780392254000,
+        "pair_created_at": 1780392254000,
+        "url": "https://dexscreener.com/solana/hxmuvcxsvvcnpym86a4xtsjxvegvqqbuxopuswr13s6x",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: HUNTER BIDEN in HUNTER BIDEN 2028",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
       "cluster_sources": [
         "4chan",
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-09T17:06:25.268403+00:00"
     },
     {
       "id": "ef15ff0ee48c",
@@ -9563,7 +9630,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "a07830d700e9",
@@ -9602,15 +9669,42 @@
       "started_at": "2026-08-09T07:20:40.631119+00:00",
       "expires_at": "2026-08-11T07:20:40.631119+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "The Untold Story",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 70308.0,
+        "liquidity_usd": 21981.21,
+        "price_usd": 7.232e-05,
+        "volume_h24": 49755.3,
+        "volume_h1": 7566.64,
+        "volume_m5": 774.66,
+        "price_change_5m": -2.46,
+        "price_change_1h": -3.29,
+        "price_change_24h": 51.01,
+        "txns_h1_buys": 82,
+        "txns_h1_sells": 59,
+        "created_ts": 1785941923000,
+        "pair_created_at": 1785941923000,
+        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: MUSK==MUSK",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "/smg/ - stock market general",
       "cluster_sources": [
         "4chan",
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-09T17:06:27.196165+00:00"
     },
     {
       "id": "dfefecf0a835",
@@ -9655,7 +9749,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "65ac03a33e23",
@@ -10587,7 +10681,102 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "500dde95a930",
+      "fingerprint": "500dde95a930",
+      "narrative_summary": "Celebrities cheaten y la fe en las relaciones se pierde",
+      "why_memeable": "Frase viral \"I Lit My Universe On Fire And I Watched It Burn\" y el tweet de Elon Musk",
+      "category": "Celebridad, infidelidad, relaciones",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LIT",
+        "CHEAT",
+        "FELO",
+        "FAITH"
+      ],
+      "key_terms_for_dex_search": [
+        "celebridad",
+        "infidelidad",
+        "relaciones",
+        "LIT",
+        "CHEAT",
+        "FELO",
+        "FAITH"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T17:01:06.259672+00:00",
+      "expires_at": "2026-08-11T17:01:06.259672+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Literally",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "02d00efb4402",
+      "fingerprint": "02d00efb4402",
+      "narrative_summary": "Ucrania y Rusia se acusan mutuamente de ataques letales en Odesa",
+      "why_memeable": "La narrativa tiene un claro conflicto entre dos partes, lo que la hace fácil de compartir y recordar",
+      "category": "conflicto internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ODESA",
+        "UCRANIA",
+        "RUSIA",
+        "CONFLICTO"
+      ],
+      "key_terms_for_dex_search": [
+        "conflicto",
+        "Ucrania",
+        "Rusia",
+        "Odesa"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-09T17:02:46.086250+00:00",
+      "expires_at": "2026-08-12T17:02:46.086250+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T15:41:28.041434+00:00"
+  "last_updated": "2026-08-09T17:06:27.196179+00:00"
 }
