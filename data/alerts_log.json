@@ -1,110 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T04:34:15.884081+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9a6fa44bd890",
-        "score": 71,
-        "category": "Noticias de crimen",
-        "title": "News 9 Exclusive: Berlin man claims Gorham police chief choked him prior to arrest - WMUR",
-        "candidate_tickers": [
-          "BERLINMAN",
-          "GORHAMPOLICE",
-          "ESTRANGULAMIENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T04:36:12.066642+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9f3f59ad117b",
-        "score": 70,
-        "category": "Noticias de crimen y justicia",
-        "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court - BBC",
-        "candidate_tickers": [
-          "KIRKMURDER",
-          "TSHUMAARRESTED",
-          "SOUTHAFRICACRIME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T04:36:50.794320+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0be605897283",
-        "score": 74,
-        "category": "muerte de una figura pública",
-        "title": "Bonnie Tyler, who topped the charts with epic ‘Total Eclipse of the Heart,’ has died at 75 - AP News",
-        "candidate_tickers": [
-          "BONNIETYLER",
-          "TOTALECLIPSEOFTHEHEART"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T04:38:02.732407+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "política y justicia",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LinkKeek",
-          "Marines9Years"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:01:15.966478+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "22ad798b1e0b",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "/smg/ - stock market general",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "EPSTEINGATE",
-          "TRUMPFEUD",
-          "MUSKVSSTRUMP",
-          "DONALDVSELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:01:57.809082+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6ff16de0e2c2",
-        "score": 91,
-        "category": "Asesinato de ex-diputada británica",
-        "title": "Ann Widdecombe murder probe: What we know so far",
-        "candidate_tickers": [
-          "WIDDECOMBE",
-          "ASESINATO",
-          "DEVON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:03:18.903273+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3d6a138d2cde",
-        "score": 80,
-        "category": "Noticias de crimen y justicia",
-        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-        "candidate_tickers": [
-          "PERROCONDENADO",
-          "ENTRENADORDEPERROS",
-          "JUSTICIAPARAPERROS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T07:04:04.561433+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28020,6 +27916,109 @@
           "HITLER",
           "SOCIALISTA",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:51:57.846356+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "723f70a3e015",
+        "score": 74,
+        "category": "Política y Negocios",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "SEC",
+          "ENGAÑO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:52:20.526909+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2f58766524f5",
+        "score": 88,
+        "category": "Política y Negocios",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "MUSK",
+          "BIZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:53:37.846744+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "90815314b047",
+        "score": 88,
+        "category": "memecoin",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "JIMOTHY",
+          "SOLANA",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:54:09.050938+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "84d35e33eb2b",
+        "score": 70,
+        "category": "política",
+        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control - BBC",
+        "candidate_tickers": [
+          "AOC",
+          "EGGS",
+          "CONGELADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:54:46.407889+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política y Economía",
+        "title": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com",
+        "candidate_tickers": [
+          "HORMUZ",
+          "CHINA",
+          "US"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:55:20.021426+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "131323abbb57",
+        "score": 78,
+        "category": "Desastres naturales",
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "candidate_tickers": [
+          "TYPHOONDOLPHIN",
+          "CHINASTORM",
+          "TORMENTAMASIVA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T05:56:17.488772+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política y derecho",
+        "title": "In a suburban Virginia courtroom, the immigration system’s strains come to life - Politico",
+        "candidate_tickers": [
+          "ImmigLife",
+          "TribunalDeInmigración"
         ]
       }
     }
