@@ -1,125 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T07:04:04.561433+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4733ba4d2326",
-        "score": 70,
-        "category": "política",
-        "title": "The gas is cheap. The Trump administration isn’t saying who’s paying for it. - Politico",
-        "candidate_tickers": [
-          "MUSK",
-          "TRUMP",
-          "GASOLINA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:04:38.956001+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9a3354feedee",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAIROBODESECRETOS",
-          "APPLESUEDSOPENAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:05:42.132456+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Política/Justicia",
-        "title": "At Trump DOJ’s demand, judge reluctantly drops Jan. 6 case against Proud Boys - Politico",
-        "candidate_tickers": [
-          "ProudBoys",
-          "TrumpDOJ",
-          "Jan6"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:06:18.410057+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Celebridades y familia real",
-        "title": "English expat living in the US says viral 'first time in America' reaction videos are true - KRIS 6 News Corpus Christi",
-        "candidate_tickers": [
-          "HarryMeetsDad",
-          "ReyCarlosYHarry",
-          "FamiliaRealBritanica"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T07:06:53.524946+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee - AP News",
-        "candidate_tickers": [
-          "Platner",
-          "Maine Senate",
-          "agresión sexual"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T08:58:08.836926+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9a1825d9dffc",
-        "score": 80,
-        "category": "Noticias de tecnología y política",
-        "title": "/smg/ - stock market general",
-        "candidate_tickers": [
-          "MUSKED",
-          "TWTRGATE",
-          "ELONFINE",
-          "TRUMPSEC",
-          "TWITSTORM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T08:59:45.508942+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Deportes",
-        "title": "What Erling Haaland admitted will be ‘weird’ about playing England in the World Cup - Yahoo Sports UK",
-        "candidate_tickers": [
-          "HaalandRaro",
-          "RaroEnElMundial"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T09:00:30.620523+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6333af157845",
-        "score": 70,
-        "category": "monedas de meme",
-        "title": "/XSG/ XRP Schizo General #2551",
-        "candidate_tickers": [
-          "RIP",
-          "XSG",
-          "MEMECOIN",
-          "CRYPTOMEME",
-          "XRP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T09:01:17.201808+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28019,6 +27900,124 @@
         "candidate_tickers": [
           "ImmigLife",
           "TribunalDeInmigración"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:55:06.119213+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "efe7fe830146",
+        "score": 80,
+        "category": "Noticias de actualidad",
+        "title": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.",
+        "candidate_tickers": [
+          "ANIMALCRUELTY",
+          "JUSTICIAANIMAL",
+          "CRUELDADANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:55:32.957011+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a566a809993c",
+        "score": 78,
+        "category": "Tecnología/Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUEBROS",
+          "ELONSAYS",
+          "BIZBROS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:56:05.406986+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Tecnología",
+        "title": "Apple Explores Shaking Up Its Smartwatch for a New Era - Bloomberg.com",
+        "candidate_tickers": [
+          "AppleWatch",
+          "NuevaEra",
+          "RelojInteligente"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:56:39.921434+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "74238fb599cd",
+        "score": 74,
+        "category": "Deportes",
+        "title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
+        "candidate_tickers": [
+          "DONNELSON",
+          "NBA",
+          "BOSTONCELTICS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:57:50.806905+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6bfdac171e2c",
+        "score": 70,
+        "category": "desastres naturales",
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "candidate_tickers": [
+          "DOLPHINSTORM",
+          "CHINAEVAC",
+          "TORMENTADOLPHIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:59:13.178651+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c428b22cd2fc",
+        "score": 74,
+        "category": "aviación",
+        "title": "Interceptan dos aviones tras violar el espacio aéreo cerca del club de golf de Nueva Jersey donde estaba Trump - lasexta.com",
+        "candidate_tickers": [
+          "TRUMP_AVIACIÓN",
+          "AVIÓNES_VIOLAN",
+          "ESPACIO_AÉREO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T07:59:35.731323+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "conflicto internacional",
+        "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+        "candidate_tickers": [
+          "Houthis",
+          "AlMakha",
+          "Yemen",
+          "MisilesBalisticos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T08:00:03.166332+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Desastres naturales",
+        "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
+        "candidate_tickers": [
+          "WILDFIRES",
+          "CANADA",
+          "EVACUATION"
         ]
       }
     }
