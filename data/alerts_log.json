@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T13:45:28.698902+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3656a311c83b",
-        "score": 80,
-        "category": "Política",
-        "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-        "candidate_tickers": [
-          "IRANVSUSA",
-          "ESTRECHODEORMUZ",
-          "ATAQUESCONTRAIRÁN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T13:46:10.911408+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27901,6 +27886,21 @@
           "DEPORTES",
           "MILITARES",
           "DEPORTACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T22:15:21.847891+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fef6e1270ecd",
+        "score": 74,
+        "category": "Tecnología y Negocios",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TERAFAB",
+          "TX",
+          "ELONMUSK"
         ]
       }
     }

@@ -1,74 +1,6 @@
 {
   "watches": [
     {
-      "id": "d00113efb550",
-      "fingerprint": "d00113efb550",
-      "narrative_summary": "Elon Musk menciona 'Terafab' en su cuenta de Twitter, generando gran interés y participación.",
-      "why_memeable": "La mención de Elon Musk y la brevedad de la frase 'Terafab' hacen que sea fácilmente compartible y recordable.",
-      "category": "Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "TERAFAB",
-        "ELONMUSKTERAFAB"
-      ],
-      "key_terms_for_dex_search": [
-        "Terafab",
-        "ElonMusk"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-04T19:55:49.067378+00:00",
-      "expires_at": "2026-08-05T19:55:49.067378+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 38901.0,
-        "liquidity_usd": 21591.86,
-        "price_usd": 3.89e-05,
-        "volume_h24": 18136.31,
-        "volume_h1": 61.03,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -1.47,
-        "price_change_24h": 18.87,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 1,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-05T04:38:27.277768+00:00"
-    },
-    {
       "id": "5187d4f99938",
       "fingerprint": "5187d4f99938",
       "narrative_summary": "Elon Musk comparte un meme 'Grok Imagine' en Twitter",
@@ -6309,14 +6241,15 @@
       "started_at": "2026-08-08T21:39:20.606892+00:00",
       "expires_at": "2026-08-10T21:39:20.606892+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Koeman júnior comparte un mensaje directo impactante: «Es increíble lo que llega...» - Goal.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-10T22:11:04.674615+00:00"
     },
     {
       "id": "1089ce9730d2",
@@ -10898,7 +10831,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "fef6e1270ecd",
+      "fingerprint": "fef6e1270ecd",
+      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
+      "why_memeable": "La frase es breve y fácil de recordar, y la noticia de Elon Musk es siempre viral.",
+      "category": "Tecnología y Negocios",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TERAFAB",
+        "TX",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Terafab",
+        "ElonMusk",
+        "TX",
+        "edificio más grande",
+        "valioso"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T22:15:21.366054+00:00",
+      "expires_at": "2026-08-12T22:15:21.366054+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-10T19:50:06.193930+00:00"
+  "last_updated": "2026-08-10T22:15:21.366054+00:00"
 }
