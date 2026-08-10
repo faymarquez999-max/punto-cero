@@ -1,123 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T16:31:30.127292+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "monedas meméticas",
-        "title": "/XSG/ XRP Schizo General #2551",
-        "candidate_tickers": [
-          "XSG",
-          "XRP",
-          "MEME",
-          "CRYPTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T17:37:13.876299+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "907d4d8ee67c",
-        "score": 80,
-        "category": "accidente marítimo",
-        "title": "A boat capsizes in southern Vietnam and kills 15 Indian tourists not far from shore - AP News",
-        "candidate_tickers": [
-          "BOATCRASH",
-          "VIETNAMTRAGEDY",
-          "TURISTASINDIOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T19:56:22.556065+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5a8b03dac34d",
-        "score": 89,
-        "category": "Noticias de desastres naturales",
-        "title": "Teen Venezuela quake survivor mourns her 'young forever' friends - Reuters",
-        "candidate_tickers": [
-          "VENEZUELAQUAKE",
-          "FOREVERFRIENDS",
-          "TEENSURVIVOR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T19:57:31.142144+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Desastres naturales y accidentes",
-        "title": "Los muertos por los terremotos en Venezuela suben 215 hasta los 4.333 - Ultima Hora",
-        "candidate_tickers": [
-          "Gallardos",
-          "IncendioAlmeria"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T19:58:14.342578+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "incendios forestales",
-        "title": "Breaking: Sadie Fire reported in Butte County on July 11 - Sacramento Bee",
-        "candidate_tickers": [
-          "SadieFire",
-          "CaliforniaIncendios",
-          "FuegoButteCounty"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T21:02:05.485329+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "64b7c8108990",
-        "score": 80,
-        "category": "Asesinato y crimen",
-        "title": "UK police investigate murder of politician Ann Widdecombe",
-        "candidate_tickers": [
-          "ANNWIDDECOMBE",
-          "ASESINATOENELREINOUNIDO",
-          "INVESTIGACIÓNPOLICIAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T21:03:53.892063+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridad",
-        "title": "Tributes paid to TV presenter Dermot Murnaghan",
-        "candidate_tickers": [
-          "DERMOT",
-          "MURNAGHAN",
-          "ELONMUSK",
-          "TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T21:05:33.273872+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "603ba2b30ccb",
-        "score": 80,
-        "category": "Noticias políticas",
-        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-        "candidate_tickers": [
-          "KHANNAHARASSED",
-          "ISRAELSETTLERS",
-          "ROKHANNA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T21:06:03.249075+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27970,6 +27853,107 @@
         "ticker": "TNOS",
         "mint": "Fyo6nkuytYijBZV7Z5rw7paEy573vAgytHyxwRaKpump",
         "mc": 127518.0
+      }
+    },
+    {
+      "ts": "2026-08-10T13:26:16.405638+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7010dca5a1b5",
+        "score": 78,
+        "category": "Deportes",
+        "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
+        "candidate_tickers": [
+          "INFANTINO",
+          "MUNDIAL",
+          "FIFA",
+          "UEFA",
+          "AFC",
+          "CONCACAF"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T13:26:45.864151+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8c97b38726f2",
+        "score": 82,
+        "category": "política",
+        "title": "Hitler was a far-left socialist",
+        "candidate_tickers": [
+          "HITLER",
+          "SOCIALISTA",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T13:27:28.264568+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T13:29:16.172149+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "345e99d994c4",
+        "score": 80,
+        "category": "Desastres naturales",
+        "title": "MAGNITUDE 7.1 EARTHQUAKE STRIKES COLOMBIA REGION - EMSC",
+        "candidate_tickers": [
+          "COL",
+          "TERREMOTO",
+          "COLOMBIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T13:29:56.622454+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1cb8a1af687e",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 57784.0
+      }
+    },
+    {
+      "ts": "2026-08-10T13:29:58.957598+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "faa7c0b2e375",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 57784.0
+      }
+    },
+    {
+      "ts": "2026-08-10T13:30:04.417421+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "92bdabef50b5",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 323685.0
+      }
+    },
+    {
+      "ts": "2026-08-10T13:30:10.153295+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ee897f514286",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 57784.0
       }
     }
   ]
