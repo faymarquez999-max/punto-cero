@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T09:10:34.623753+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3a374dc73f38",
-        "score": 90,
-        "category": "tech",
-        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - AP News",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAISTEALS",
-          "APPLELAWSUIT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T09:11:22.352416+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Desastres naturales",
-        "title": "Los bomberos siguen trabajando en el incendio de la planta de reciclaje de Aielo de Malferit - Ultima Hora",
-        "candidate_tickers": [
-          "AieloMalferit",
-          "IncendioReciclaje",
-          "CalorExtremo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T09:12:40.100977+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "fútbol",
-        "title": "Sorprendente equipo Champions para el ex del Valencia Peter Federico - Superdeporte",
-        "candidate_tickers": [
-          "Federico",
-          "Champions",
-          "Peter"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T09:13:03.597203+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Vallecitos Fire reported in Alameda County on July 12 - Fresno Bee",
-        "candidate_tickers": [
-          "VallecitosFire",
-          "AlamedaCountyFire",
-          "CaliforniaWildfires"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T09:13:27.811918+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e2c0822eaa8",
-        "score": 84,
-        "category": "Noticias/Controversias",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEKEK",
-          "MARINES9ANOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T09:14:02.075542+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política internacional",
-        "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
-        "candidate_tickers": [
-          "USvsIRAN",
-          "HORMUZ",
-          "GULFARABS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T10:47:41.858877+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27895,6 +27810,94 @@
         "ticker": "HITLER",
         "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
         "mc": 24468.0
+      }
+    },
+    {
+      "ts": "2026-08-10T15:43:10.337940+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "16549030e869",
+        "score": 80,
+        "category": "Tecnología y negocios",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T15:43:27.179076+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "crimen y justicia",
+        "title": "Monroe County animal services supervisor arrested after alleged puppy incineration brag - wgxa.tv",
+        "candidate_tickers": [
+          "PuppyIncinerator",
+          "CachorroArrestado",
+          "MonroeCountyScandal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T15:44:50.662210+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Deportes",
+        "title": "UEFA, AFC, CONCACAF hit out at Infantino over failed World Cup stake sale proposal - Reuters",
+        "candidate_tickers": [
+          "INFANTINO",
+          "WORLDCUP",
+          "CONCACAF",
+          "AFC",
+          "UEFA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T15:45:31.234625+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "negocios",
+        "title": "Nutrire Enters Retail for the First Time Through Exclusive Nationwide Launch with Ulta Beauty - morningstar.com",
+        "candidate_tickers": [
+          "Nutrire",
+          "Ulta Beauty"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T15:46:01.394592+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política y noticias",
+        "title": "Elite Colleges Lose Bid to Nix Early Decision Conspiracy Claims - Bloomberg Law News",
+        "candidate_tickers": [
+          "EliteConspiracy",
+          "CollegeScandal",
+          "DecisionGate"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T15:47:48.424465+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "50807023860d",
+        "score": 80,
+        "category": "desastres naturales",
+        "title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings - AP News",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "COL",
+          "ECU",
+          "EVACUA"
+        ]
       }
     }
   ]

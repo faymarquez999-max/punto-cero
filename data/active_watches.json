@@ -1,132 +1,6 @@
 {
   "watches": [
     {
-      "id": "e0ac9a83d7a5",
-      "fingerprint": "e0ac9a83d7a5",
-      "narrative_summary": "Elon Musk anuncia que Starlink estará disponible en cualquier lugar del mundo.",
-      "why_memeable": "Frase corta y memorable, con un elemento de sorpresa y innovación.",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "STARLINK",
-        "ANYWHERE",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Starlink",
-        "anywhere",
-        "ElonMusk"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-04T13:31:23.595002+00:00",
-      "expires_at": "2026-08-06T13:31:23.595002+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "eelonmusk",
-        "name": "Eel on Musk",
-        "mint": "41ZjQx5HSLuDPFXimWUmhf8LmMZ7VjZjANxSu64vEVuE",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 12723.0,
-        "liquidity_usd": 18944.75,
-        "price_usd": 1.272e-05,
-        "volume_h24": 510160.76,
-        "volume_h1": 510160.76,
-        "volume_m5": 24998.97,
-        "price_change_5m": -15.09,
-        "price_change_1h": 89.94,
-        "price_change_24h": 89.94,
-        "txns_h1_buys": 4697,
-        "txns_h1_sells": 2737,
-        "created_ts": 1785911776000,
-        "pair_created_at": 1785911776000,
-        "url": "https://dexscreener.com/solana/8kgtc9ddczmxbef7dwzznhgxyl1ujatrofjfrbkysz4",
-        "source": "dexscreener",
-        "match_score": 94.1,
-        "match_reason": "ticker close: EELONMUSK~ELONMUSK (94.11764705882352%)",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Starlink anywhere",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-05T07:33:13.129600+00:00"
-    },
-    {
-      "id": "573fda1e5771",
-      "fingerprint": "573fda1e5771",
-      "narrative_summary": "FBI agente arrestado y acusado de robar $1,000,000 en criptomonedas de una cuenta de sospechoso.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, con un elemento de sorpresa y un claro villano.",
-      "category": "crimen y justicia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FBI",
-        "CRIPTOMONEDAS",
-        "FBIAGENT",
-        "CRYPTOHEIST"
-      ],
-      "key_terms_for_dex_search": [
-        "FBI",
-        "Criptomonedas",
-        "FBIagent",
-        "CryptoHeist"
-      ],
-      "score": 83,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-04T13:32:08.414256+00:00",
-      "expires_at": "2026-08-06T13:32:08.414256+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "JUST IN: 🇺🇸 FBI agent arrested and charged with stealing $1,000,000 in crypto from a suspect's accounts.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-06T14:57:54.291258+00:00"
-    },
-    {
       "id": "3f1524d285cc",
       "fingerprint": "3f1524d285cc",
       "narrative_summary": "Noticias relacionadas con el caso de vandalismo en el Reflecting Pool y la decisión del Departamento de Justicia de retirar los cargos contra el ex atleta olímpico involucrado.",
@@ -6340,13 +6214,14 @@
       "started_at": "2026-08-08T14:48:07.047666+00:00",
       "expires_at": "2026-08-10T14:48:07.047666+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4 - AP News",
       "cluster_sources": [
         "breaking_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T15:42:55.279457+00:00"
     },
     {
       "id": "979fd321e1b1",
@@ -6384,13 +6259,14 @@
       "started_at": "2026-08-08T14:48:40.338493+00:00",
       "expires_at": "2026-08-10T14:48:40.338493+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Muere el padre de Leo Messi, Jorge Messi, a los 68 años - ultimahora.es",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T15:42:55.279471+00:00"
     },
     {
       "id": "5dce20a7b0a3",
@@ -11011,7 +10887,100 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "16549030e869",
+      "fingerprint": "16549030e869",
+      "narrative_summary": "Elon Musk afirma algo que genera debate y curiosidad en la comunidad de negocios y tecnología.",
+      "why_memeable": "La frase 'True' es corta y fácil de recordar, lo que la hace memeable. La controversia y la incertidumbre generadas por la afirmación de Elon Musk también contribuyen a su memeabilidad.",
+      "category": "Tecnología y negocios",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elon musk",
+        "true",
+        "biz",
+        "bros"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T15:43:09.843128+00:00",
+      "expires_at": "2026-08-12T15:43:09.843128+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "4chan",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "50807023860d",
+      "fingerprint": "50807023860d",
+      "narrative_summary": "Un terremoto fuerte sacude Colombia y Ecuador, obligando a la gente a evacuar sus hogares y edificios.",
+      "why_memeable": "El terremoto es un evento natural que genera emoción y preocupación, y la evacuación de hogares y edificios es un tema que puede ser compartido y discutido.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TERREMOTO",
+        "COL",
+        "ECU",
+        "EVACUA"
+      ],
+      "key_terms_for_dex_search": [
+        "TERREMOTO",
+        "COL",
+        "ECU",
+        "EVACUA",
+        "NATURAL",
+        "DESASTRE"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 6
+      },
+      "started_at": "2026-08-10T15:47:48.065699+00:00",
+      "expires_at": "2026-08-12T15:47:48.065699+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-10T14:46:21.055012+00:00"
+  "last_updated": "2026-08-10T15:47:48.065699+00:00"
 }
