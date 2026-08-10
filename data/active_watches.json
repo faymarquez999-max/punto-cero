@@ -1,198 +1,6 @@
 {
   "watches": [
     {
-      "id": "dc4351544a08",
-      "fingerprint": "dc4351544a08",
-      "narrative_summary": "Elon Musk comparte un título sobre empatía suicida, generando gran atención en las redes.",
-      "why_memeable": "La frase es corta, repetible y se puede compartir sin contexto. La asociación con Elon Musk es un factor adicional.",
-      "category": "Tendencia en redes sociales",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "SUICIDALEMPATHY",
-        "EMPATHYMUSK",
-        "SUICIDETWEETS"
-      ],
-      "key_terms_for_dex_search": [
-        "SuicidalEmpathy",
-        "ElonMusk",
-        "Empathy",
-        "SuicideTweets"
-      ],
-      "score": 76,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-03T04:15:03.441662+00:00",
-      "expires_at": "2026-08-05T04:15:03.441662+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Suicidal empathy",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-05T04:33:18.231987+00:00"
-    },
-    {
-      "id": "f50009cd2af1",
-      "fingerprint": "f50009cd2af1",
-      "narrative_summary": "Elon Musk compara el avance de la inteligencia artificial con un tsunami supersonico.",
-      "why_memeable": "La frase es breve y capta la atención con la combinación de 'supersonic' y 'tsunami', lo que la hace fácilmente compartible y memorable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "AI_TSUNAMI",
-        "SUPERTSUNAMI"
-      ],
-      "key_terms_for_dex_search": [
-        "AI",
-        "tsunami",
-        "supersonic",
-        "Elon Musk"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-03T04:15:18.456972+00:00",
-      "expires_at": "2026-08-05T04:15:18.456972+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "FU",
-        "name": "Farting Unicorn By Elon Musk",
-        "mint": "CDDybYjY6y7RBKXXaCKHRhUhb31y3rjGB7idTdeFpump",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 24016.0,
-        "liquidity_usd": 19827.27,
-        "price_usd": 2.654e-05,
-        "volume_h24": 33023.73,
-        "volume_h1": 1005.97,
-        "volume_m5": 0.24,
-        "price_change_5m": -0.01,
-        "price_change_1h": -16.76,
-        "price_change_24h": 12.44,
-        "txns_h1_buys": 377,
-        "txns_h1_sells": 198,
-        "created_ts": 1734517880000,
-        "pair_created_at": 1734517880000,
-        "url": "https://dexscreener.com/solana/785qmy4wzsl6wzpmavt8uwji6gcprhr99esmrnwaqaxd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: ELON MUSK in FARTING UNICORN BY ELON MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "AI is a supersonic tsunami",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-04T06:18:37.535624+00:00"
-    },
-    {
-      "id": "66f7aa68b893",
-      "fingerprint": "66f7aa68b893",
-      "narrative_summary": "Elon Musk y Donald Trump están involucrados en noticias relacionadas con Twitter y acuerdos legales, generando controversia y debate en línea.",
-      "why_memeable": "La combinación de figuras públicas polarizantes como Elon Musk y Donald Trump, junto con la naturaleza controvertida de los acuerdos legales y las declaraciones en línea, crea un caldo de cultivo para memes y discusiones en línea.",
-      "category": "Política y tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "TWITLAW",
-        "ELONVTRUMP",
-        "TRUMPSETTLE",
-        "MUSKTWEET",
-        "TWITTERFEUD"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Donald Trump",
-        "Twitter",
-        "acuerdo legal",
-        "controversia"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-03T07:51:28.929379+00:00",
-      "expires_at": "2026-08-06T07:51:28.929379+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "RIPTRUMP",
-        "name": "RIP DONALD TRUMP",
-        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 218040.0,
-        "liquidity_usd": 35897.22,
-        "price_usd": 0.000218,
-        "volume_h24": 20028.22,
-        "volume_h1": 33.99,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.21,
-        "price_change_24h": -17.38,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1775332817000,
-        "pair_created_at": 1775332817000,
-        "url": "https://dexscreener.com/solana/6joeefdteyxqwwovy5gptmdrjszvnnpbdtq7h8p5q2r",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DONALD TRUMP in RIP DONALD TRUMP",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "The fake alive human fraud is 10 times worse in America & Europe",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-03T20:22:57.755940+00:00"
-    },
-    {
       "id": "15e79bbfcddf",
       "fingerprint": "15e79bbfcddf",
       "narrative_summary": "Una mujer británica tiene un bebé con intestinos fuera del cuerpo y se somete a una cirugía pionera en el útero.",
@@ -4662,14 +4470,15 @@
       "started_at": "2026-08-07T00:35:58.236695+00:00",
       "expires_at": "2026-08-10T00:35:58.236695+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Meta fined $567m in largest child safety ruling against social media giant",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-10T04:16:55.754510+00:00"
     },
     {
       "id": "72f861bef343",
@@ -4710,14 +4519,15 @@
       "started_at": "2026-08-07T00:36:15.170275+00:00",
       "expires_at": "2026-08-10T00:36:15.170275+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Viral Royse City pool arrest video under investigation; officer placed on leave, family demands termination - WFAA",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-10T04:16:55.754524+00:00"
     },
     {
       "id": "af6b26d646fe",
@@ -4804,14 +4614,15 @@
       "started_at": "2026-08-07T03:42:48.114341+00:00",
       "expires_at": "2026-08-10T03:42:48.114341+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "How a diary entry solved the murder of a missing man",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-10T04:16:55.754528+00:00"
     },
     {
       "id": "9c6033461753",
@@ -6719,13 +6530,14 @@
       "started_at": "2026-08-08T02:50:21.381805+00:00",
       "expires_at": "2026-08-10T02:50:21.381805+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Inevitable",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T04:16:55.754536+00:00"
     },
     {
       "id": "5cd9c9d841a9",
@@ -6832,13 +6644,14 @@
       "started_at": "2026-08-08T02:51:17.168259+00:00",
       "expires_at": "2026-08-10T02:51:17.168259+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Oh my goodness.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T04:16:55.754539+00:00"
     },
     {
       "id": "1ce162a1af11",
@@ -6875,13 +6688,14 @@
       "started_at": "2026-08-08T04:01:37.421215+00:00",
       "expires_at": "2026-08-10T04:01:37.421215+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "True",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T04:16:55.754541+00:00"
     },
     {
       "id": "258ee5bad50a",
@@ -10852,7 +10666,142 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "bb9e28f82895",
+      "fingerprint": "bb9e28f82895",
+      "narrative_summary": "China evacuates 1 million people as massive storm arrives",
+      "why_memeable": "La narrativa tiene un título claro y un evento dramático que puede ser capturado en una frase.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DOLPHINSTORM",
+        "CHINAEVACUATES",
+        "TYPHOONDOLPHIN"
+      ],
+      "key_terms_for_dex_search": [
+        "DolphinStorm",
+        "ChinaEvacuates",
+        "TyphoonDolphin"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 6
+      },
+      "started_at": "2026-08-10T04:19:27.654356+00:00",
+      "expires_at": "2026-08-12T04:19:27.654356+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "China evacuates one million from homes as massive storm arrives",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "10908351394e",
+      "fingerprint": "10908351394e",
+      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
+      "why_memeable": "El anuncio de Elon Musk sobre Terafab Texas es memeable debido a su naturaleza sorprendente y la importancia de la construcción.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TERAFAB",
+        "TEXAS",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "Terafab",
+        "Texas",
+        "edificio",
+        "más grande",
+        "valioso"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T04:21:17.432653+00:00",
+      "expires_at": "2026-08-12T04:21:17.432653+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "19f9f223ecac",
+      "fingerprint": "19f9f223ecac",
+      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, generando una gran controversia.",
+      "why_memeable": "La frase es breve y fácil de recordar, y el uso de la lógica inescapable y la ironía (😂) la hace muy compartible.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HITLER",
+        "SOCIALISTA",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Hitler",
+        "socialista",
+        "ElonMusk",
+        "lógica",
+        "inescapable"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T04:21:30.918883+00:00",
+      "expires_at": "2026-08-11T04:21:30.918883+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hitler was a far-left socialist",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-09T23:57:00.934750+00:00"
+  "last_updated": "2026-08-10T04:21:30.918883+00:00"
 }

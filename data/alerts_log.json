@@ -1,83 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T01:14:57.025413+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2dfc681d8c10",
-        "score": 89,
-        "category": "Noticias de actualidad",
-        "title": "Witnesses to fatal Houston ICE shooting challenge agency's account, lawyer says - Reuters",
-        "candidate_tickers": [
-          "ICE",
-          "HOUSTON",
-          "MUERTE",
-          "INJUSTICIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T01:16:12.570084+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5a59c0e248b3",
-        "score": 88,
-        "category": "crimen y justicia",
-        "title": "Man arrested on suspicion of murdering former UK minister Ann Widdecombe - Reuters",
-        "candidate_tickers": [
-          "ANNWIDDECOMBE",
-          "WIDDECOMBE",
-          "UKMINISTERMURDER",
-          "ANNWIDDECOMBEMURDER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T01:18:36.725275+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e6af844fca86",
-        "score": 74,
-        "category": "Política/Justicia",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEEK",
-          "MARINES9AÑOS",
-          "KEEEEEEEK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T04:33:26.136436+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "da7b3a206576",
-        "score": 80,
-        "category": "Tecnología y negocios",
-        "title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
-        "candidate_tickers": [
-          "AAPLAI",
-          "OPENWAR",
-          "TECHFIGHT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T04:33:39.963339+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "37d2c43ea9de",
-        "score": 90,
-        "category": "abuso animal",
-        "title": "Columbus Humane addresses questions surrounding viral video of alleged dog abuse - 10TV",
-        "candidate_tickers": [
-          "PERRITOABUSADO",
-          "REFUGIOABUSIVO",
-          "ABUSOANIMAL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T04:34:15.884081+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28024,6 +27947,79 @@
           "TRUE",
           "ELON",
           "BIZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T04:17:10.146006+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Literally",
+        "candidate_tickers": [
+          "IsraelRechazaTrump",
+          "GazaPlan",
+          "MedioOriente"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T04:18:54.773323+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "ciencia",
+        "title": "Lluvia de meteoros Perseidas alcanzará su punto máximo y coincidirá con el eclipse solar total - Univision",
+        "candidate_tickers": [
+          "PerseidasEclipse",
+          "EclipseSolar2026",
+          "MeteorosEclipse"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T04:19:28.171375+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bb9e28f82895",
+        "score": 88,
+        "category": "Desastres naturales",
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "candidate_tickers": [
+          "DOLPHINSTORM",
+          "CHINAEVACUATES",
+          "TYPHOONDOLPHIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T04:21:18.040634+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "10908351394e",
+        "score": 74,
+        "category": "Tecnología",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TERAFAB",
+          "TEXAS",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T04:21:31.408534+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "19f9f223ecac",
+        "score": 85,
+        "category": "política",
+        "title": "Hitler was a far-left socialist",
+        "candidate_tickers": [
+          "HITLER",
+          "SOCIALISTA",
+          "ELONMUSK"
         ]
       }
     }
