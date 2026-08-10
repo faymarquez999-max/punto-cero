@@ -1,294 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T21:06:03.249075+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "947c3a204665",
-        "score": 88,
-        "category": "crimen animal",
-        "title": "Wildfire devastates an expat community in southern Spain, killing at least 12 with 23 missing - AP News",
-        "candidate_tickers": [
-          "PERROCONDENADO",
-          "ENTRENADORDEPERROS",
-          "CASODEPERROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T22:04:14.818620+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d992037724ed",
-        "score": 80,
-        "category": "Noticias de Venezuela",
-        "title": "Teen Venezuela quake survivor mourns her 'young forever' friends - Reuters",
-        "candidate_tickers": [
-          "VENEZUELAQUAKE",
-          "FOREVERFRIENDS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T23:07:31.354870+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cfd49d6bad51",
-        "score": 70,
-        "category": "Accidente",
-        "title": "Residents return after gas leak prompts evacuation in Kenner - Audacy",
-        "candidate_tickers": [
-          "KENNERGASLEAK",
-          "EVACUACIONKENNER",
-          "GASLEAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T23:08:22.346424+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a25975617ca0",
-        "score": 82,
-        "category": "Noticias de animales",
-        "title": "Animal trainer sentenced after 11 dogs die in his care - WKRC",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "ENTRENADORCONDENADO",
-          "INJUSTICIAANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T00:15:12.020849+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ef77779e5d2a",
-        "score": 80,
-        "category": "Noticias de animales",
-        "title": "Animal trainer sentenced after 11 dogs die in his care - WKRC",
-        "candidate_tickers": [
-          "PERRONARDO",
-          "CUIDADOCANINO",
-          "PERROPROBLEMA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T00:15:35.693857+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "547aa7eeff7a",
-        "score": 88,
-        "category": "política internacional",
-        "title": "Rep. Ro Khanna says he was detained by Israeli settlers during West Bank visit - NBC News",
-        "candidate_tickers": [
-          "KHANNADETENIDO",
-          "CUENCAOCCIDENTAL",
-          "ISRAELDETIENE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T00:16:12.353486+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2cec96918e8e",
-        "score": 78,
-        "category": "Tecnología",
-        "title": "Apple sues OpenAI for trade secret theft - Axios",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAIROBOTECH",
-          "APPLESUESOPENAI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T00:17:32.033793+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "política",
-        "title": "ICE release statement on arrest of man shown in viral Suffolk video - WAVY.com",
-        "candidate_tickers": [
-          "ICE",
-          "Suffolk",
-          "abuso animal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T00:19:51.466636+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "2cec96918e8e",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 45791.0
-      }
-    },
-    {
-      "ts": "2026-07-12T04:04:11.563519+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "527903a5d21e",
-        "score": 74,
-        "category": "Noticias internacionales",
-        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-        "candidate_tickers": [
-          "USVSIRAN",
-          "ESTRECHODEORMUZ",
-          "EEUUATACA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T04:04:39.157606+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2ee57affea65",
-        "score": 80,
-        "category": "catástrofe natural",
-        "title": "Typhoon Bavi batters east China, Taiwan reports 134 injured - Reuters",
-        "candidate_tickers": [
-          "BAVI",
-          "TYPHOONBAVI",
-          "CHINATYPHOON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T04:06:49.029714+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Chance Fire reported in Kern County on July 11 - Fresno Bee",
-        "candidate_tickers": [
-          "KERNFIRE",
-          "CALIFORNIAWILDFIRES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T04:08:46.342928+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "445f084c34cc",
-        "score": 85,
-        "category": "fútbol",
-        "title": "England’s Jude Bellingham, His FIFA World Cup Play And Veins Go Viral - Forbes",
-        "candidate_tickers": [
-          "BELLINGHAM",
-          "JUDE",
-          "FÚTBOL",
-          "MUNDIAL",
-          "FIFA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:49:34.590163+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a5a0c6ae3e2a",
-        "score": 80,
-        "category": "Deportes",
-        "title": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis - Reuters",
-        "candidate_tickers": [
-          "ARGENTINA",
-          "ARGENTINA_WC",
-          "ARGENTINA_GOL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:52:00.020210+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Deportes",
-        "title": "Inglaterra se mete en semifinales con un doblete de Bellingham - Ultima Hora",
-        "candidate_tickers": [
-          "Bellingham",
-          "Inglaterra",
-          "Doblete",
-          "Semifinales"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:52:27.328318+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6852f73c8cf0",
-        "score": 72,
-        "category": "Absurdos en el mundo real",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKKEEK",
-          "MARINES9AÑOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:53:30.942209+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Política",
-        "title": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
-        "candidate_tickers": [
-          "Qatar",
-          "Hamad",
-          "Emir"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:54:07.944246+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política Internacional",
-        "title": "Irán cierra Ormuz \"hasta nuevo aviso\" y EEUU responde con más ataques: \"Pagarán por su mala decisión\" - LaSexta",
-        "candidate_tickers": [
-          "ORMUZ",
-          "IRAN",
-          "EEUU",
-          "ATACOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T06:54:25.863581+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a5a0c6ae3e2a",
-        "ticker": "ARGENTINA",
-        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
-        "mc": 17803.0
-      }
-    },
-    {
-      "ts": "2026-07-12T09:10:01.399982+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ef2550d3f670",
-        "score": 80,
-        "category": "Política",
-        "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "candidate_tickers": [
-          "GRAHAM",
-          "LG71",
-          "SENATOR",
-          "RIPGRAHAM",
-          "TRUMPALLY"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T09:10:34.623753+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27954,6 +27666,235 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 57784.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:40:52.761128+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fd87c62a017e",
+        "score": 70,
+        "category": "tech",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK",
+          "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:41:05.951091+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "794b495eb695",
+        "score": 90,
+        "category": "desastres naturales",
+        "title": "MAGNITUDE 7.1 EARTHQUAKE STRIKES COLOMBIA REGION - EMSC",
+        "candidate_tickers": [
+          "COL",
+          "TERREMOTO",
+          "COLTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:41:37.429265+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4e6acae66b6c",
+        "score": 88,
+        "category": "Noticias internacionales",
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "DRONUCRANIANO",
+          "ATAQUERUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:42:45.626085+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política y deporte",
+        "title": "Beyonce buys out LVMH's stake in SirDavis whisky - Reuters",
+        "candidate_tickers": [
+          "BeyonceSirDavis",
+          "FIFAcrisis",
+          "BeyonceLVMH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:43:08.337084+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cedf7d69da0f",
+        "score": 85,
+        "category": "Política",
+        "title": "Hitler was a far-left socialist",
+        "candidate_tickers": [
+          "HITLERSOCIALISTA",
+          "SOCIALISMOINESCAPABLE",
+          "ELONMUSKLOGICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:43:49.500644+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9fd2e7df1f7d",
+        "score": 85,
+        "category": "Tecnología, Política",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:35.026806+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1cb8a1af687e",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:37.138088+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "faa7c0b2e375",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:41.584160+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "92bdabef50b5",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 322157.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:44.695559+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ee897f514286",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:50.680671+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9fa4f9a315d4",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:52.924126+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4a0aba92ded9",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 322157.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:54.637982+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "648f0b5616d5",
+        "ticker": "SOL",
+        "mint": "jk1T35eWK41MBMM8AWoYVaNbjHEEQzMDetTsfnqpump",
+        "mc": 164326.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:45:56.497210+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "500dde95a930",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 322157.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:01.562478+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cc8db50c1bac",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:06.698896+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6a37715523ba",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 322157.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:09.578642+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "509218e00028",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 60389.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:15.179267+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0cfba4055cee",
+        "ticker": "MCX",
+        "mint": "7A2pSaLUNkDC8d52V6NfJX9CoJEdbKBA6ysJMHCjpump",
+        "mc": 25414.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:18.834456+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "17f1c4c77acd",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 50233.0
+      }
+    },
+    {
+      "ts": "2026-08-10T14:46:21.064850+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d9e4db6153c7",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 24468.0
       }
     }
   ]
