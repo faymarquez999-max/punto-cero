@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T14:50:32.618519+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fcf9690695f8",
-        "ticker": "HAALAND",
-        "mint": "EYvkcWB5S4DFv7gJqR8D2W76U9n7kD3jvYcbSXdppump",
-        "mc": 21122.0
-      }
-    },
-    {
       "ts": "2026-07-12T15:46:31.735515+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27900,6 +27890,20 @@
           "NYCtax",
           "piedaterre",
           "adani"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T23:47:20.473849+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Hitler’s socialism wasn’t just an internal economic policy – it was the cause of the war.",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
         ]
       }
     }
