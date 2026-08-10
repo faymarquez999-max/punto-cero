@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-10T23:48:59.127818+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d9f7c5983df7",
-        "score": 89,
-        "category": "política",
-        "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-        "candidate_tickers": [
-          "ICE_NO",
-          "MIGRANTES_NO",
-          "TRUMP_NO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-10T23:49:40.864708+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a55903c1b4e",
-        "score": 70,
-        "category": "royal_family",
-        "title": "King Charles meets Prince Harry's children for first time since 2022 - Reuters",
-        "candidate_tickers": [
-          "KINGHARRY",
-          "CHARLESHARRY",
-          "ROYALFAMILYDRAMA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T01:14:33.616340+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "política",
-        "title": "In Replacing Platner, Democrats Are Haunted by Biden-Harris Switch - The New York Times",
-        "candidate_tickers": [
-          "BidenHarris",
-          "Democratas",
-          "NYTimes",
-          "Platner"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T01:14:57.025413+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -28024,6 +27979,51 @@
           "HITLERSOCIALISTA",
           "FARLEFTHITLER",
           "INESCAPABLELOGIC"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T02:22:19.835442+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b8c8ef55f945",
+        "score": 89,
+        "category": "Noticias de negocios y política",
+        "title": "/smg/ - stock market general",
+        "candidate_tickers": [
+          "MUSK",
+          "SEC",
+          "TWITTER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T02:23:04.801882+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "347ebb3ecb96",
+        "score": 70,
+        "category": "Criptomonedas y memes",
+        "title": "/XSG/ XRP Schizo General #2554",
+        "candidate_tickers": [
+          "SOL",
+          "MEMECOIN",
+          "SOLANA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T02:24:10.831070+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0e1d669542e9",
+        "score": 88,
+        "category": "Tecnología y Negocios",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "BIZ"
         ]
       }
     }
