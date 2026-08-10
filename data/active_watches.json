@@ -1,177 +1,6 @@
 {
   "watches": [
     {
-      "id": "86c3761db254",
-      "fingerprint": "86c3761db254",
-      "narrative_summary": "Trump mueve fondos de la USAID al Departamento de Estado, generando controversia",
-      "why_memeable": "La narrativa es memeable debido a la controversia y la polarización generadas por la decisión de Trump",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPUSAID",
-        "FONDOSROBADOS",
-        "INJUSTICIATRUMP"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "USAID",
-        "Departamento de Estado",
-        "controversia",
-        "polarización"
-      ],
-      "score": 78,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-03T22:45:52.584934+00:00",
-      "expires_at": "2026-08-05T22:45:52.584934+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-05T22:46:08.184043+00:00"
-    },
-    {
-      "id": "d9670bc67321",
-      "fingerprint": "d9670bc67321",
-      "narrative_summary": "Elon Musk comenta sobre la ironía de una situación.",
-      "why_memeable": "La frase 'Oh, the irony is too much …' es corta y fácil de recordar.",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "IRONYMUSK",
-        "MUSKIRONY"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "irony",
-        "musk"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 5
-      },
-      "started_at": "2026-08-03T22:47:23.434817+00:00",
-      "expires_at": "2026-08-05T22:47:23.434817+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "eelonmusk",
-        "name": "Eel on Musk",
-        "mint": "41ZjQx5HSLuDPFXimWUmhf8LmMZ7VjZjANxSu64vEVuE",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13114.0,
-        "liquidity_usd": 19236.18,
-        "price_usd": 1.311e-05,
-        "volume_h24": 510628.25,
-        "volume_h1": 510628.25,
-        "volume_m5": 25466.47,
-        "price_change_5m": -12.48,
-        "price_change_1h": 95.78,
-        "price_change_24h": 95.78,
-        "txns_h1_buys": 4700,
-        "txns_h1_sells": 2739,
-        "created_ts": 1785911776000,
-        "pair_created_at": 1785911776000,
-        "url": "https://dexscreener.com/solana/8kgtc9ddczmxbef7dwzznhgxyl1ujatrofjfrbkysz4",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: MUSK in EEL ON MUSK",
-        "safety_score": 11400,
-        "safety_risks": [
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Low amount of LP Providers",
-            "level": "warn",
-            "description": "Only a few users are providing liquidity"
-          }
-        ]
-      },
-      "cluster_top_title": "Oh, the irony is too much …",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "matched_at": "2026-08-05T07:33:00.711328+00:00"
-    },
-    {
-      "id": "7c0acf4130c3",
-      "fingerprint": "7c0acf4130c3",
-      "narrative_summary": "Elon Musk publica un 'wow' en Twitter con gran cantidad de engagement.",
-      "why_memeable": "La simplicidad y la brevedad de la frase 'wow' la hacen fácilmente compartible y memeable.",
-      "category": "celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOWMUSK",
-        "MUSKWOW"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-04T03:23:10.550113+00:00",
-      "expires_at": "2026-08-06T03:23:10.550113+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-06T04:34:38.823096+00:00"
-    },
-    {
       "id": "74615147af95",
       "fingerprint": "74615147af95",
       "narrative_summary": "Elon Musk anuncia que Starlink estará disponible en cualquier lugar del mundo",
@@ -4737,14 +4566,15 @@
       "started_at": "2026-08-07T11:38:39.835729+00:00",
       "expires_at": "2026-08-10T11:38:39.835729+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom - The New York Times",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T11:55:27.651983+00:00"
     },
     {
       "id": "d91231dc5fe8",
@@ -4783,14 +4613,15 @@
       "started_at": "2026-08-07T11:39:22.904993+00:00",
       "expires_at": "2026-08-10T11:39:22.904993+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-10T11:55:27.651999+00:00"
     },
     {
       "id": "80cadf781a90",
@@ -6671,13 +6502,14 @@
       "started_at": "2026-08-08T11:19:20.123169+00:00",
       "expires_at": "2026-08-10T11:19:20.123169+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "More trans violence",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-10T11:55:27.652007+00:00"
     },
     {
       "id": "b05a5732e8e0",
@@ -10627,7 +10459,141 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "ac166c8beda7",
+      "fingerprint": "ac166c8beda7",
+      "narrative_summary": "Elon Musk afirma algo 'verdadero' en Twitter, generando debate y dudas en la comunidad de 4chan.",
+      "why_memeable": "La narrativa es memeable debido a la ambigüedad y la posible falsedad del mensaje de Elon Musk, lo que genera debate y dudas en la comunidad.",
+      "category": "tech",
+      "matched_archetype": "leak_or_secret_revealed",
+      "candidate_tickers": [
+        "TRUE",
+        "ELON"
+      ],
+      "key_terms_for_dex_search": [
+        "elon",
+        "musk",
+        "true",
+        "biz",
+        "4chan"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T11:55:58.250124+00:00",
+      "expires_at": "2026-08-12T11:55:58.250124+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "4chan",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4fd126be0704",
+      "fingerprint": "4fd126be0704",
+      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, generando una gran controversia.",
+      "why_memeable": "La frase 'Hitler era un socialista de izquierda' es fácil de recordar y repetir, y genera una gran cantidad de debate.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HITLERSOCIALISTA",
+        "ELONMUSKLOGIC",
+        "SOCIALISMONAZI"
+      ],
+      "key_terms_for_dex_search": [
+        "hitler",
+        "socialismo",
+        "izquierda",
+        "elonnusk"
+      ],
+      "score": 87,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-10T11:58:12.716144+00:00",
+      "expires_at": "2026-08-12T11:58:12.716144+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Hitler was a far-left socialist",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c603641e7a60",
+      "fingerprint": "c603641e7a60",
+      "narrative_summary": "Detenida una hija del matrimonio asesinado en Tauste y su pareja como posibles autores del doble homicidio",
+      "why_memeable": "La narrativa cuenta con un crimen brutal y una posible conspiración, lo que lo hace altamente memeable",
+      "category": "Crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TAUSTE",
+        "DOBLE HOMICIDIO",
+        "HIJA DETENIDA",
+        "MATRIMONIO ASESINADO"
+      ],
+      "key_terms_for_dex_search": [
+        "Tauste",
+        "Doble homicidio",
+        "Hija detenida",
+        "Matrimonio asesinado"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-10T12:00:27.623377+00:00",
+      "expires_at": "2026-08-13T12:00:27.623377+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Detenida una hija del matrimonio asesinado en Tauste y su pareja como posibles autores del doble homicidio - RTVE.es",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-10T10:53:26.905034+00:00"
+  "last_updated": "2026-08-10T12:00:27.623377+00:00"
 }
