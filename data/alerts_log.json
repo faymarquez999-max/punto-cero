@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T13:46:10.911408+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fcf9690695f8",
-        "score": 88,
-        "category": "fútbol",
-        "title": "Erling Haaland’s World Cup Ends In a Shocking Place - Time Magazine",
-        "candidate_tickers": [
-          "HAALAND",
-          "TARJETA_ROJA",
-          "MUNDIAL_FIFA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T13:46:43.764578+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "47a48ed9991f",
-        "score": 78,
-        "category": "política internacional",
-        "title": "South China Sea joint statement says China's maritime claims have no basis - Reuters",
-        "candidate_tickers": [
-          "CHINA_NO_BASE",
-          "MARITIME_CLAIMS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T13:47:32.884064+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a0f00682f544",
-        "score": 72,
-        "category": "Desastres naturales y accidentes",
-        "title": "Última hora sobre el incendio en Los Gallardos (Almería), en directo: Juanma Moreno anuncia que el incendio está estabilizado - Onda Cero",
-        "candidate_tickers": [
-          "LOSGALLARDOS",
-          "INCENDIOALMERIA",
-          "DESASTREESPANA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T14:50:32.618519+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27901,6 +27857,49 @@
           "TERAFAB",
           "TX",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T23:00:32.940318+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología/Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "MUSK",
+          "BIZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T23:00:46.880974+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fdca1a1c83ca",
+        "score": 88,
+        "category": "Deportes",
+        "title": "GB's Amy Hunt wins European 100m gold",
+        "candidate_tickers": [
+          "AMYHUNT",
+          "GBGOLD",
+          "100MGLORY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T23:01:19.642882+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política",
+        "title": "Judge blocks implementation of New York City's pied-à-terre tax - Politico",
+        "candidate_tickers": [
+          "NYCtax",
+          "piedaterre",
+          "adani"
         ]
       }
     }

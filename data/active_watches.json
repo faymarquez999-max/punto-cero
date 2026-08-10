@@ -1,49 +1,6 @@
 {
   "watches": [
     {
-      "id": "5187d4f99938",
-      "fingerprint": "5187d4f99938",
-      "narrative_summary": "Elon Musk comparte un meme 'Grok Imagine' en Twitter",
-      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, y su origen en una publicación de Elon Musk la hace viral",
-      "category": "meme",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "IMAGINE",
-        "ELONMUSK"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-04T19:56:37.712857+00:00",
-      "expires_at": "2026-08-06T19:56:37.712857+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Grok Imagine",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-07T00:34:39.450511+00:00"
-    },
-    {
       "id": "97b02b821731",
       "fingerprint": "97b02b821731",
       "narrative_summary": "Un hombre armado fue arrestado cerca del campo de golf de Trump en Los Ángeles antes de la visita del presidente",
@@ -10876,7 +10833,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "fdca1a1c83ca",
+      "fingerprint": "fdca1a1c83ca",
+      "narrative_summary": "La británica Amy Hunt gana el oro en los 100m en los Campeonatos Europeos de Atletismo de Birmingham.",
+      "why_memeable": "La frase es corta y fácil de recordar, y la noticia es emocionante para los fanáticos del atletismo.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "AMYHUNT",
+        "GBGOLD",
+        "100MGLORY"
+      ],
+      "key_terms_for_dex_search": [
+        "AmyHunt",
+        "GBGold",
+        "100m",
+        "EuropeanChampionships"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 2,
+        "absurdity": 1,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-10T23:00:46.437807+00:00",
+      "expires_at": "2026-08-12T23:00:46.437807+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "GB's Amy Hunt wins European 100m gold",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-10T22:15:21.366054+00:00"
+  "last_updated": "2026-08-10T23:00:46.437807+00:00"
 }
