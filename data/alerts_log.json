@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T11:52:51.824808+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3ba4c33a1903",
-        "score": 82,
-        "category": "Incendios forestales en California",
-        "title": "Breaking: Mssion Fire reported in San Luis Obispo County on July 12 - Sacramento Bee",
-        "candidate_tickers": [
-          "CALIFORNIA_FIRE",
-          "SAN_LUIS_OBISPO_FIRE",
-          "WILDFIRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T11:53:53.557044+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política",
-        "title": "Netanyahu ordered Shin Bet chief to probe Channel 12 over Iran leak — report - The Times of Israel",
-        "candidate_tickers": [
-          "NetanyahuLeaks",
-          "ShinBetGate",
-          "IranFiltrado"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T13:44:06.855622+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8938de856c2b",
-        "score": 70,
-        "category": "política",
-        "title": "Muere el exemir de Qatar, Hamad bin Khalifa Al Thani, a los 74 años - ABC",
-        "candidate_tickers": [
-          "QATAR",
-          "HAMAD BIN KHALIFA AL THANI",
-          "EX-EMIR"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T13:45:28.698902+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27902,6 +27858,49 @@
         "candidate_tickers": [
           "WOW",
           "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T21:24:21.436573+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridades y negocios",
+        "title": "US stocks edge down from their record after oil prices climb 5% - AP News",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T21:25:05.132503+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c0c924bccf0a",
+        "score": 78,
+        "category": "Desastres naturales",
+        "title": "Colombia Earthquake Live Updates: Death Toll Surpasses 100 as Rescuers Search for Survivors - The New York Times",
+        "candidate_tickers": [
+          "COLTERREMOTO",
+          "COLOMBIASISMO",
+          "TERREMOTO111"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T21:28:52.998104+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Congressional Democrats launch probe into efforts to deport US military members and their families - AP News",
+        "candidate_tickers": [
+          "DEPORTES",
+          "MILITARES",
+          "DEPORTACIÓN"
         ]
       }
     }
