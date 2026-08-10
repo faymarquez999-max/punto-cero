@@ -1,22 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T10:47:41.858877+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e5e663873b82",
-        "score": 89,
-        "category": "Criptomonedas",
-        "title": "/XSG/ XRP Schizo General #2551",
-        "candidate_tickers": [
-          "XSG",
-          "XRP",
-          "MEMECOINS",
-          "CRYPTOMEME"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T10:49:03.983060+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27897,6 +27881,20 @@
           "COL",
           "ECU",
           "EVACUA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T16:38:15.318530+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Conspiración y tecnología",
+        "title": "Is the Trump administration running a covert UFO program? - newsnationnow.com",
+        "candidate_tickers": [
+          "TRUMP_UFO",
+          "UFO_PROGRAM",
+          "SECRET_PROGRAM"
         ]
       }
     }
