@@ -1,124 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-11T09:01:17.201808+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d77e1d89dab9",
-        "score": 78,
-        "category": "tech",
-        "title": "Apple demanda a OpenAI por el robo de información confidencial - La Voz de Galicia",
-        "candidate_tickers": [
-          "APPLE_OPENAI",
-          "ROBO_DE_INFORMACION"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T09:01:52.285717+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4f8f548b9a4f",
-        "score": 89,
-        "category": "política internacional",
-        "title": "Por qué Trump ha reanudado la guerra contra Irán: las claves del giro estratégico de Washington - RTVE.es",
-        "candidate_tickers": [
-          "TRUMPVSIRAN",
-          "GUERRACONTRAIRAN",
-          "TRUMPREANUDALAGUERRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T09:02:37.495853+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "salud",
-        "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases - AP News",
-        "candidate_tickers": [
-          "Ciclosporiasis",
-          "Parásito",
-          "Diarrea",
-          "Outbreak"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T09:02:57.150656+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ee5d6ac717ba",
-        "score": 79,
-        "category": "política",
-        "title": "Trump amenaza con \"arrasar\" Irán si lo asesinan - DW.com",
-        "candidate_tickers": [
-          "TRUMP_IRAN",
-          "IRAN_TRUMP",
-          "ARRASAR_TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T09:03:15.847692+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4257caf0c773",
-        "score": 74,
-        "category": "Noticias de policía y justicia",
-        "title": "News 9 Exclusive: Berlin man claims Gorham police chief choked him prior to arrest - WMUR",
-        "candidate_tickers": [
-          "GORHAM",
-          "GORHAMPOLICE",
-          "CHOKEDBYCOP",
-          "JUSTICEFORGORHAM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T10:23:36.684915+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "afd55eddef03",
-        "score": 78,
-        "category": "Política y Conflicto",
-        "title": "Por qué Trump ha reanudado la guerra contra Irán: las claves del giro estratégico de Washington - RTVE.es",
-        "candidate_tickers": [
-          "TRUMPVSIRAN",
-          "GUERRAIRÁN",
-          "POLARIZACIÓNTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T10:25:39.534046+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3497e2fa5083",
-        "score": 82,
-        "category": "noticias",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINKMARINES",
-          "KEEKMARINES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-11T10:27:02.267034+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Noticias y eventos",
-        "title": "Breaking: Heights Fire reported in Los Angeles County on July 11 - Sacramento Bee",
-        "candidate_tickers": [
-          "#HeightsFire",
-          "#ArrestVideo",
-          "#AlligatorPet"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-11T10:27:48.116536+00:00",
       "kind": "shadow",
       "payload": {
@@ -28019,6 +27901,104 @@
           "CANADA",
           "EVACUATION"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-10T09:42:49.236680+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5342322d0db9",
+        "score": 78,
+        "category": " política",
+        "title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
+        "candidate_tickers": [
+          "AOC",
+          "OCASIOCORTEZ",
+          "CONGELAROVULOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T09:44:09.528659+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "da12f84f083d",
+        "score": 89,
+        "category": "Noticias de actualidad",
+        "title": "Gunman fires inside Thai government office as country reels from school shooting - Reuters",
+        "candidate_tickers": [
+          "GUNMAN",
+          "THAISHOOTING",
+          "GOBIERNOTAILANDÉS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T09:45:00.514296+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "64313cb69480",
+        "score": 82,
+        "category": "Política y Controversia",
+        "title": "Hitler was a far-left socialist",
+        "candidate_tickers": [
+          "HITLERWASSOCIALIST",
+          "ELONMUSKLOGIC",
+          "FARLEFTFURY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T09:45:50.752956+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "Tecnología y celebridades",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T09:47:27.770583+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1cb8a1af687e",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 52902.0
+      }
+    },
+    {
+      "ts": "2026-08-10T09:47:30.075882+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "faa7c0b2e375",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 52902.0
+      }
+    },
+    {
+      "ts": "2026-08-10T09:47:34.659325+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "92bdabef50b5",
+        "ticker": "LIT",
+        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
+        "mc": 323906.0
+      }
+    },
+    {
+      "ts": "2026-08-10T09:47:37.816120+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ee897f514286",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 52902.0
       }
     }
   ]
