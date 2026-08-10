@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T10:49:03.983060+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "55bf548f9f48",
-        "score": 88,
-        "category": "tech",
-        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - AP News",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAISTEALING",
-          "APPLELAWSUIT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T10:50:31.425185+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "510b19ff0f31",
-        "score": 86,
-        "category": "fugitivo, muñeco de Elvis, jet Gulfstream",
-        "title": "An Elvis dummy and a Gulfstream jet: Fat Leonard reveals how he fled the U.S. - The Washington Post",
-        "candidate_tickers": [
-          "ELVISJET",
-          "FATLEONARD",
-          "FUGADEELVIS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T10:50:44.323301+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Noticias",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LinkKek",
-          "MarinesKek",
-          "Kek9"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T10:51:25.665926+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "incendios forestales",
-        "title": "Breaking: New wildfire reported in Los Angeles County on July 12 - Sacramento Bee",
-        "candidate_tickers": [
-          "WildfireLA",
-          "IncendioLA",
-          "FuegoCaliforniano"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T10:51:41.719015+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27895,6 +27837,63 @@
           "TRUMP_UFO",
           "UFO_PROGRAM",
           "SECRET_PROGRAM"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T17:40:55.385110+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "141aaa72a78a",
+        "score": 82,
+        "category": "meme sobre la ambigüedad y la falta de información",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELON",
+          "BIZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T17:41:34.880283+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "negocios",
+        "title": "Intel plans $15 billion share sale as turnaround rally lifts stock - Reuters",
+        "candidate_tickers": [
+          "INTL",
+          "INTEL15B"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T17:42:03.856909+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6baca45b88a3",
+        "score": 85,
+        "category": "Tecnología y celebridades",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T17:42:47.362495+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8dffcad0eb46",
+        "score": 85,
+        "category": "Política y Controversia",
+        "title": "💯",
+        "candidate_tickers": [
+          "HITLER",
+          "SOCIALIST",
+          "ELONMUSK"
         ]
       }
     }
