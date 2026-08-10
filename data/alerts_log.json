@@ -1,60 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T10:51:43.275508+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "55bf548f9f48",
-        "ticker": "Apple",
-        "mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
-        "mc": 47425.0
-      }
-    },
-    {
-      "ts": "2026-07-12T11:49:38.217921+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5f432930e4ad",
-        "score": 78,
-        "category": "Desastres naturales",
-        "title": "Typhoon Bavi: China evacuates nearly two million people as powerful typhoon makes landfall - BBC",
-        "candidate_tickers": [
-          "TYPHOONBAVI",
-          "CHINAEVACUATES",
-          "HURACÁNBAVI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T11:50:17.330315+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c2a8af6c8b71",
-        "score": 89,
-        "category": "Tecnología",
-        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets - AP News",
-        "candidate_tickers": [
-          "APPLEVSOPENAI",
-          "OPENAIAPPLE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T11:51:53.514763+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f2fb98dece42",
-        "score": 84,
-        "category": "política/militar",
-        "title": "Link marines held 9 years for this",
-        "candidate_tickers": [
-          "LINK",
-          "KEEEEEEEEEEK",
-          "MARINES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-12T11:52:51.824808+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27899,6 +27845,63 @@
           "TRUE",
           "BROSTOCK",
           "MUSKTRUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T19:45:38.025373+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4a882bea9a75",
+        "score": 82,
+        "category": "política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "BIZBROS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T19:47:52.255939+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d9d9e8b60664",
+        "score": 82,
+        "category": "Tecnología/Noticias",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YES",
+          "ELON",
+          "MUSK",
+          "YESMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T19:48:34.429336+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 55,
+        "category": "Tecnología",
+        "title": "He means what he says",
+        "candidate_tickers": [
+          "elonmeans",
+          "he_means"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T19:50:06.799656+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "09d6f4ae8bc1",
+        "score": 80,
+        "category": "Celebridad",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOW",
+          "ELON"
         ]
       }
     }
