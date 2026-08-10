@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T10:51:41.719015+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e5e663873b82",
-        "ticker": "XRP",
-        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
-        "mc": 214383.0
-      }
-    },
-    {
       "ts": "2026-07-12T10:51:43.275508+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27894,6 +27884,21 @@
           "HITLER",
           "SOCIALIST",
           "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-10T18:38:05.129649+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "42e101d83df7",
+        "score": 80,
+        "category": "Internet Culture",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "BROSTOCK",
+          "MUSKTRUE"
         ]
       }
     }

@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "3f2e902ceacc",
-      "fingerprint": "3f2e902ceacc",
-      "narrative_summary": "El volcán Fuego en Guatemala entra en erupción, forzando evacuaciones.",
-      "why_memeable": "La narrativa cuenta con una imagen icónica y un título atractivo, lo que la hace fácilmente compartible.",
-      "category": "Desastres naturales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "FUEGO",
-        "GUATEMALA",
-        "ERUPCION"
-      ],
-      "key_terms_for_dex_search": [
-        "volcán",
-        "erupción",
-        "Guatemala",
-        "evacuaciones"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 9,
-        "cultural_resonance": 5,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-04T18:04:41.893685+00:00",
-      "expires_at": "2026-08-07T18:04:41.893685+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-07T19:19:32.854526+00:00"
-    },
-    {
       "id": "db8c18211c35",
       "fingerprint": "db8c18211c35",
       "narrative_summary": "Iran demanda control de Hormuz y supervisión de salida, según una fuente",
@@ -10929,7 +10883,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "42e101d83df7",
+      "fingerprint": "42e101d83df7",
+      "narrative_summary": "La palabra 'True' se ha vuelto viral después de ser compartida por Elon Musk y discutida en 4chan.",
+      "why_memeable": "La simplicidad y la ambigüedad de la palabra 'True' la hacen fácil de repetir y compartir.",
+      "category": "Internet Culture",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "BROSTOCK",
+        "MUSKTRUE"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUE",
+        "ELONMUSK",
+        "4CHAN",
+        "BIZBROS"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-10T18:38:04.582230+00:00",
+      "expires_at": "2026-08-13T18:38:04.582230+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "4chan",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-10T17:42:47.009231+00:00"
+  "last_updated": "2026-08-10T18:38:04.582230+00:00"
 }
