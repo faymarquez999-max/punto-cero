@@ -1,92 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T14:15:15.857477+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Muerte de un actor famoso",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SamNeill",
-          "JurassicPark",
-          "ThePiano"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T15:57:56.859304+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d9f4f0893dfc",
-        "score": 88,
-        "category": "Muerte de un actor famoso",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMMUELL",
-          "JURASSICPAIN",
-          "PIANOPLAYERNOMORE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T15:58:48.625581+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Celebridad/Política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMP",
-          "XCANCEL",
-          "LIVESTREAM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T15:59:59.152224+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "meme de Twitter",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "ELONGROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T17:27:43.586812+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bafda03af69f",
-        "score": 78,
-        "category": "Política y conspiración",
-        "title": "Mahmoud Khalil sues Trump officials and private groups over alleged deportation conspiracy - Jurist.org",
-        "candidate_tickers": [
-          "KHALILVSTRUMP",
-          "CONSPIRACIÓNDEPORTACIÓN",
-          "MAHMOUDKHALIL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T17:28:22.778943+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "023d7b010437",
-        "score": 90,
-        "category": "negocios",
-        "title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
-        "candidate_tickers": [
-          "STRIPEPAYPAL",
-          "ADVENTPAYPAL",
-          "STRIPEADVENT"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T17:29:31.707407+00:00",
       "kind": "shadow",
       "payload": {
@@ -27825,6 +27739,94 @@
           "COLOMBIA",
           "TERREMOTO",
           "SOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T20:58:05.578640+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9a27f4cb4163",
+        "score": 80,
+        "category": "política y salud",
+        "title": "More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing muta",
+        "candidate_tickers": [
+          "VIVEKLEAK",
+          "FAUCIFEAR",
+          "COVIDMUTATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T20:58:18.846432+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ddc28f23ebf8",
+        "score": 74,
+        "category": "Celebridad y relaciones",
+        "title": "Cristiano Ronaldo has married Georgina Rodríguez.",
+        "candidate_tickers": [
+          "CR7CASADO",
+          "GEORGINAR",
+          "CR7GEORGINA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T20:58:32.078223+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dd293b5efc9f",
+        "score": 80,
+        "category": "Negocios/Tecnología",
+        "title": "Onlyfans",
+        "candidate_tickers": [
+          "OFANS",
+          "ONLYFANS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T20:59:23.769318+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6df491eb3dea",
+        "score": 80,
+        "category": "Tecnología y Negocios",
+        "title": "Tesla",
+        "candidate_tickers": [
+          "TESLA",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T20:59:52.535288+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "Tecnología y Cultura",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "Grok",
+          "Imagine",
+          "GrokImagine",
+          "ElonMuskGrok"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T21:00:15.508831+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8c88551549bd",
+        "score": 83,
+        "category": "humor",
+        "title": "lmao",
+        "candidate_tickers": [
+          "LMAOCOIN",
+          "MUSKLMAO",
+          "LMAOMUSK"
         ]
       }
     }
