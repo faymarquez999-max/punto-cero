@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T18:43:00.839696+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f8c2ccac853b",
-        "score": 90,
-        "category": "negocios",
-        "title": "Stripe, Advent Make $50 Billion-Plus Offer for PayPal - Bloomberg.com",
-        "candidate_tickers": [
-          "STRIPEPAYPAL",
-          "PAYPALADVENT",
-          "STRIPEADVENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T18:47:22.189764+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ca65f28a7299",
-        "ticker": "RIPTRUMP",
-        "mint": "ANLEpx1hMMGJ2vHwENrVhH1gkysDNwf5p4uNKJxGpump",
-        "mc": 195590.0
-      }
-    },
-    {
-      "ts": "2026-07-15T19:58:11.590414+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "política",
-        "title": "*US MILITARY PLANNERS EXAMINED POSSIBILITY OF CUBA RAID: CBS",
-        "candidate_tickers": [
-          "CubaRaid",
-          "USvsCuba",
-          "CubaIncursion"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T19:59:40.805304+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "322f73de5f7a",
-        "score": 91,
-        "category": "Muerte de un actor famoso",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEILL",
-          "JURASSICPARK",
-          "THEPIANO",
-          "NEILL78"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T22:18:03.812395+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d77ac89abfdb",
-        "score": 80,
-        "category": "Política Internacional",
-        "title": "ENGLAND 🏴󠁧󠁢󠁥󠁮󠁧󠁿 VS ARGENTINA 🇦🇷: YOUR PICK?",
-        "candidate_tickers": [
-          "TRUMPINCOFFIN",
-          "IRANVSUSA",
-          "TRUMPVSIRAN",
-          "COFFINTRUMP",
-          "IRANBILLBOARD"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T22:19:33.286126+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27824,6 +27752,83 @@
         "ticker": "ELON",
         "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
         "mc": 201897.0
+      }
+    },
+    {
+      "ts": "2026-08-11T22:53:44.900660+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "59999c3b82fc",
+        "score": 80,
+        "category": "Política y Celebrity",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TRUMPFLIGHT",
+          "EPSTEINGATE",
+          "TRUMPMUSKFEUD",
+          "SECRETVSFLIGHT",
+          "TRUMPSCANDAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T22:53:58.280152+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2d7c55c4731b",
+        "score": 80,
+        "category": "desastres naturales",
+        "title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
+        "candidate_tickers": [
+          "COLOMBIA_200",
+          "TERREMOTO_COLOMBIA",
+          "DESESTRE_NATURAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T22:54:24.321924+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "053a774f1e0b",
+        "score": 90,
+        "category": "política internacional",
+        "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+        "candidate_tickers": [
+          "IRANBLOCK",
+          "USFIRE",
+          "BLOCKADE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T22:55:40.535881+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3525eb4bb443",
+        "score": 80,
+        "category": "Noticias Internacionales",
+        "title": "Russia frees ailing ex-US Marine Robert Gilman from detention - Reuters",
+        "candidate_tickers": [
+          "GILMAN",
+          "RUSSIA",
+          "DETENCIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T22:56:45.182420+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "376846af7921",
+        "score": 78,
+        "category": "clima y tecnología",
+        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+        "candidate_tickers": [
+          "$ANSEM",
+          "SOLANA",
+          "MEMECOIN"
+        ]
       }
     }
   ]
