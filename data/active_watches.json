@@ -1,263 +1,6 @@
 {
   "watches": [
     {
-      "id": "0ac697ff5d14",
-      "fingerprint": "0ac697ff5d14",
-      "narrative_summary": "Ucrania advierte que la falta de interceptores está costando vidas después de un ataque letal en Kiev",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y exposición a la amenaza, lo que la hace fácilmente compartible y recordable",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UCRANIA",
-        "INTERCEPTORES",
-        "KIEV",
-        "ATAQUE LETAL"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "interceptores",
-        "Kiev",
-        "ataque letal"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-05T22:51:08.406256+00:00",
-      "expires_at": "2026-08-07T22:51:08.406256+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T23:40:53.359277+00:00"
-    },
-    {
-      "id": "a3b73f55f7fc",
-      "fingerprint": "a3b73f55f7fc",
-      "narrative_summary": "Un dron explosivo se encuentra en un aeropuerto alemán que alberga una flota ucraniana.",
-      "why_memeable": "La narrativa tiene un enfoque en la seguridad y la peligrosidad, lo que la hace fácilmente compartible y recordable.",
-      "category": "seguridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DRONEEXPLOSIVO",
-        "AEROPUERTOALEMAN",
-        "FLOTAUCRANIANA"
-      ],
-      "key_terms_for_dex_search": [
-        "dron explosivo",
-        "aeropuerto alemán",
-        "flota ucraniana"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 2,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-08-06T04:34:55.690499+00:00",
-      "expires_at": "2026-08-08T04:34:55.690499+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-08T07:08:46.654991+00:00"
-    },
-    {
-      "id": "3b62d3b0c865",
-      "fingerprint": "3b62d3b0c865",
-      "narrative_summary": "President Trump's helicopter allegedly came close to a jet above Washington, sparking controversy and raising questions about the president's safety.",
-      "why_memeable": "La narrativa combina elementos de controversia, seguridad y misterio, lo que la hace fácilmente compartible y recordable.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPHELICOPTER",
-        "TRUMPJETNEARMISS",
-        "TRUMPSAFETY"
-      ],
-      "key_terms_for_dex_search": [
-        "trump",
-        "helicopter",
-        "jet",
-        "washington",
-        "safety",
-        "controversy"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T04:37:42.263751+00:00",
-      "expires_at": "2026-08-08T04:37:42.263751+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "helidog",
-        "name": "helicopterdog",
-        "mint": "G16u6V2qK9HS2wXL3pjGmwxwHBrawcA1MYrGj5Vjpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 10344.0,
-        "liquidity_usd": 7519.55,
-        "price_usd": 1.034e-05,
-        "volume_h24": 5869.92,
-        "volume_h1": 66.5,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 3.15,
-        "price_change_24h": -31.78,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 1,
-        "created_ts": 1783031594000,
-        "pair_created_at": 1783031594000,
-        "url": "https://dexscreener.com/solana/fnwvve1jr7unhtvgpp4tfgo4ujfbptfqmdg9zs6sthlp",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: HELICOPTER in HELICOPTERDOG",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Breaking News: A helicopter carrying President Trump is said to have come within less than a mile of a jet above Washington on Tuesday. - facebook.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-06T07:34:38.328134+00:00"
-    },
-    {
-      "id": "641766ad43e7",
-      "fingerprint": "641766ad43e7",
-      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' en Twitter, que se convierte en viral.",
-      "why_memeable": "La frase 'Grok Imagine' es corta y fácil de recordar, y se puede compartir sin contexto.",
-      "category": "meme de Elon Musk",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE",
-        "GROKIMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "grok",
-        "imagine",
-        "meme"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-06T04:38:40.894770+00:00",
-      "expires_at": "2026-08-08T04:38:40.894770+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Grok Imagine",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-08T07:08:46.654994+00:00"
-    },
-    {
-      "id": "1810c4482a4a",
-      "fingerprint": "1810c4482a4a",
-      "narrative_summary": "Meta revela que su modelo de inteligencia artificial accedió a Internet y hackeó a otra empresa durante pruebas de seguridad",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un impacto emocional significativo debido a la brecha de seguridad",
-      "category": "ciberseguridad",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "METAHACKED",
-        "AIMODELGATE",
-        "CYBERSECURITYBREACH"
-      ],
-      "key_terms_for_dex_search": [
-        "Meta",
-        "AI",
-        "hacking",
-        "seguridad"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T07:30:12.459376+00:00",
-      "expires_at": "2026-08-08T07:30:12.459376+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Meta says AI model accessed the internet and hacked another firm",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-08T09:59:55.000484+00:00"
-    },
-    {
       "id": "5dc79e76c1d8",
       "fingerprint": "5dc79e76c1d8",
       "narrative_summary": "Un dron cargado de explosivos se encuentra en un aeropuerto alemán que alberga una flota ucraniana.",
@@ -11185,7 +10928,229 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "db34948cfddc",
+      "fingerprint": "db34948cfddc",
+      "narrative_summary": "Brad Pitt vuelve a beber después de 7 años de sobriedad.",
+      "why_memeable": "La noticia de Brad Pitt es un ejemplo de cómo un evento personal puede generar interés y emoción en la gente.",
+      "category": "Celebridad",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "BRADPITTBEBE",
+        "PITTVUELVE"
+      ],
+      "key_terms_for_dex_search": [
+        "Brad Pitt",
+        "sobriedad",
+        "beber"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T13:28:29.683881+00:00",
+      "expires_at": "2026-08-13T13:28:29.683881+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Exclusive | Inside Brad Pitt’s ‘very personal decision’ to start drinking again after 7 years of sobriety: ‘His life changed’ - Page Six",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c1679299b022",
+      "fingerprint": "c1679299b022",
+      "narrative_summary": "Ucrania acusa a Rusia de disparar misiles norte coreanos contra Ucrania, Zelenskyy",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto, con un líder (Zelenskyy) que acusa a otro país (Rusia) de una acción agresiva.",
+      "category": "Guerra, política, Rusia, Ucrania",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIADISPARA",
+        "UCRANIAATACADA",
+        "ZELENSKYYALERTA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Zelenskyy",
+        "misiles",
+        "ataques"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T13:29:13.506381+00:00",
+      "expires_at": "2026-08-13T13:29:13.506381+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia is firing North Korean missiles at Ukraine, Zelenskyy claims, as more overnight attacks kill 9 - CBS News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "6b55a37b0c90",
+      "fingerprint": "6b55a37b0c90",
+      "narrative_summary": "Scandales de infidelidad de celebridades que han dejado a las personas sin fe en las relaciones.",
+      "why_memeable": "La narrativa tiene un título icónico ('FIRE') y se centra en celebridades, lo que la hace fácilmente compartible y recordable.",
+      "category": "Celebridad/Infidelidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FIRE",
+        "CELEBSCANDAL",
+        "INFIDELITY"
+      ],
+      "key_terms_for_dex_search": [
+        "celebridad",
+        "infidelidad",
+        "scandal"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T13:29:39.273408+00:00",
+      "expires_at": "2026-08-13T13:29:39.273408+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FIRE",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d4c497cf52a3",
+      "fingerprint": "d4c497cf52a3",
+      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
+      "why_memeable": "La frase es corta y fácil de recordar, y se refiere a un proyecto ambicioso de Elon Musk.",
+      "category": "Tecnología y Construcción",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TERAFAB",
+        "TEXASTOWER"
+      ],
+      "key_terms_for_dex_search": [
+        "Terafab",
+        "Texas",
+        "ElonMusk",
+        "edificio más grande",
+        "valioso"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T13:30:08.873010+00:00",
+      "expires_at": "2026-08-13T13:30:08.873010+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1c38b584a50b",
+      "fingerprint": "1c38b584a50b",
+      "narrative_summary": "Elon Musk compara a los socialistas con Hitler en una publicación viral",
+      "why_memeable": "La frase 'Socialists are Hitler' es una comparación extremadamente polarizante y fácil de recordar",
+      "category": "Política/Opinión",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HITLER",
+        "SOCIALISTS",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "hitler",
+        "socialists",
+        "política",
+        "opinión"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 9,
+        "visual": 1,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T13:31:02.239433+00:00",
+      "expires_at": "2026-08-13T13:31:02.239433+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "💯",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T12:06:32.487879+00:00"
+  "last_updated": "2026-08-11T13:31:02.239433+00:00"
 }
