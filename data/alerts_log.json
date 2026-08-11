@@ -1,272 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-13T16:04:04.826252+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "161d60c07cba",
-        "score": 80,
-        "category": "Noticias de actualidad",
-        "title": "Officials: Person killed in shooting involving ICE in Biddeford - WMTW",
-        "candidate_tickers": [
-          "ICE",
-          "BIDDEFORD",
-          "SHOOTING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T16:04:44.669537+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "642c9c45e3a4",
-        "score": 79,
-        "category": "Política y Justicia",
-        "title": "A Photo of Nolan Wells at a Pool Party Went Viral. It’s Not From July 4 - Rolling Stone",
-        "candidate_tickers": [
-          "NOLANWELLS",
-          "ANNWIDDECOMBE",
-          "POOLPARTY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T16:05:23.844367+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Economía",
-        "title": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed - Reuters",
-        "candidate_tickers": [
-          "VWcuts",
-          "JobCuts",
-          "VolkswagenSqueeze"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T16:06:30.281219+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "Desastres naturales",
-        "title": "‼️ÚLTIMA HORA‼️🔥El incendio de Peñarroya de Tastavins (Teruel) ya está perimetrado, aunque no estabilizado. 💬El consejero de Medio Ambiente, Luis Biendicho: \"La previsión esta tarde es que siga hacien",
-        "candidate_tickers": [
-          "Peñarroya",
-          "Incendio",
-          "Teruel"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T18:05:37.757210+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "clima y medio ambiente",
-        "title": "Another Heat Wave Brings Unbearable Temperatures to Much of the U.S. - The New York Times",
-        "candidate_tickers": [
-          "CalorExtremo",
-          "TemperaturasOpresivas",
-          "ClimaApocalíptico"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T18:08:07.380287+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4c700c9346aa",
-        "score": 82,
-        "category": "Política/Extremismo",
-        "title": "Former Philly Proud Boys leader Zach Rehl's seditious conspiracy case was dismissed by a federal judge - Inquirer.com",
-        "candidate_tickers": [
-          "PROUDBOYS",
-          "ZACHREHL",
-          "SEDITIOUSCONSPIRACY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T18:10:24.282674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "85bd18feab77",
-        "score": 83,
-        "category": "Perros virales",
-        "title": "Viral pup Jonah gets VIP treatment at LoanDepot Park - FOX 13 Tampa Bay",
-        "candidate_tickers": [
-          "JONAH",
-          "PERRITOVIP",
-          "DREAMDAY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:54:42.816319+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Accidente o incidente",
-        "title": "Fultondale Fire confirms gas leak on Walker Chapel Road near I-65, evacuation ordered - WBMA",
-        "candidate_tickers": [
-          "FultondaleGas",
-          "EvacuacionFultondale",
-          "GasLeakAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:55:18.625885+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e52e05a3566",
-        "score": 88,
-        "category": "política",
-        "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
-        "candidate_tickers": [
-          "TRUMP_IRS",
-          "TRUMP_ABUSO",
-          "JUSTICIA_VOIDADA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:56:04.234171+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Top House progressive warns Democrats to get serious on AI messaging - Politico",
-        "candidate_tickers": [
-          "MuskFraude",
-          "TwitterEscanalado",
-          "ElonMuskFraude"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:56:36.430519+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6bc7c6915666",
-        "score": 80,
-        "category": "negocios",
-        "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal - Reuters",
-        "candidate_tickers": [
-          "PARAMOUNT",
-          "WARNERBROS",
-          "DISCOVERY",
-          "FUSIÓN",
-          "BLOCK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:57:11.637773+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e08c236bef9",
-        "score": 78,
-        "category": "Celebridad fallecida",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEILL",
-          "JURASSICPARK",
-          "ELPIANO",
-          "RIP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:58:31.977244+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "eda0017af01d",
-        "score": 79,
-        "category": "Política internacional",
-        "title": "Ukraine, 9 nations form ballistic missile defense coalition - dw.com",
-        "candidate_tickers": [
-          "UCRANIA",
-          "COALICIÓN",
-          "MISILES BALÍSTICOS",
-          "DEFENSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T19:59:10.991451+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a0caa38bf657",
-        "score": 88,
-        "category": "abuso animal",
-        "title": "How Lyhanna’s murder case is shedding light on child abuse in France",
-        "candidate_tickers": [
-          "ABUSOANIMALCA",
-          "PERROSMUERTOSCA",
-          "RESCATEABUSIVO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T21:06:23.719647+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Política y conspiración",
-        "title": "/smg/ - stock market general",
-        "candidate_tickers": [
-          "LindseyGraham",
-          "ConspiraciónGraham",
-          "GrahamMuerte"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T21:07:50.436665+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "dbab66f4857d",
-        "score": 78,
-        "category": "salud",
-        "title": "There’s a Stomach Parasite Outbreak Spreading Across the U.S.—Here’s How to Lower Your Risk - AOL.com",
-        "candidate_tickers": [
-          "STOMACHPARASITE",
-          "PARASITEOUTBREAK",
-          "EEUU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T23:17:58.656750+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "seguridad en línea, trastornos alimentarios",
-        "title": "YouTube still recommending eating disorder videos to teens, research finds",
-        "candidate_tickers": [
-          "YouTubeInjusticia",
-          "TrastornosAlimentariosEnRiesgo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T00:13:32.919196+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "politica",
-        "title": "‘Fruit Gathering’ Review: A Factory Worker Falls for Her Female Colleague in a Delicate Burmese Debut",
-        "candidate_tickers": [
-          "LINDSEY",
-          "DARLINE",
-          "TRUMP",
-          "SENADO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-14T00:13:59.307192+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27877,6 +27611,224 @@
           "GBGOLD",
           "EUROPEANCHAMPS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:39:00.489215+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política y celebridades",
+        "title": "You will be able to watch live sports in 4k or movies or games or productivity!",
+        "candidate_tickers": [
+          "TRUMP",
+          "IRAN",
+          "CART",
+          "FLIGHT",
+          "MMR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:39:14.828623+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "40287e0059a4",
+        "score": 80,
+        "category": "Desastres naturales",
+        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "candidate_tickers": [
+          "COLOMBIA",
+          "TERREMOTO",
+          "DESGASTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:39:54.903202+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d0d34c5aa95f",
+        "score": 74,
+        "category": "muerte de una celebridad en internet",
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "candidate_tickers": [
+          "JACKIE",
+          "ÁGUILA JACKIE",
+          "CELEBRIDAD EN INTERNET MUERE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:40:57.089191+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5473af3af33c",
+        "score": 89,
+        "category": "Celebridad y escándalos",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "CHEATING",
+          "CELEBRITY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:41:25.373283+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7c9710960c27",
+        "score": 72,
+        "category": "tech",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TERAFAB",
+          "TERAFABTEXAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:42:06.978006+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ae29fef3f0d6",
+        "score": 70,
+        "category": "Política",
+        "title": "💯",
+        "candidate_tickers": [
+          "HITLER",
+          "SOCIALISTS",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:42:41.522353+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e34ce890febe",
+        "score": 85,
+        "category": "Tecnología y celebridades",
+        "title": "Wow",
+        "candidate_tickers": [
+          "WOWELON",
+          "ELONWOW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:10.139153+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "76d263b324a0",
+        "score": 82,
+        "category": "Tecnología y Ciencia",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSKTRUE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:25.319675+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "31df5345a11f",
+        "ticker": "memecoin",
+        "mint": "5HV956n7UQT1XdJzv43fHPocest5YAmi9ipsuiJx7zt7",
+        "mc": 45407.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:52.743729+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "64313cb69480",
+        "ticker": "WORM",
+        "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+        "mc": 14120.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:54.302595+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7797d2bab201",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 58987.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:55.532854+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0efb1b76b190",
+        "ticker": "WORM",
+        "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+        "mc": 14120.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:56.818092+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6e6c03dc0db2",
+        "ticker": "YES",
+        "mint": "69sKunujvUtmzLmQ2L5TYPTULmZQrY41KC8ZHA38a5ku",
+        "mc": 13868.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:43:59.888972+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4fd126be0704",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 20647.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:44:04.504002+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8c97b38726f2",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 20647.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:44:10.436215+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "cedf7d69da0f",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 20647.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:44:12.307000+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9fd2e7df1f7d",
+        "ticker": "YES",
+        "mint": "69sKunujvUtmzLmQ2L5TYPTULmZQrY41KC8ZHA38a5ku",
+        "mc": 13868.0
+      }
+    },
+    {
+      "ts": "2026-08-11T05:44:13.572370+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "16549030e869",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 58987.0
       }
     }
   ]
