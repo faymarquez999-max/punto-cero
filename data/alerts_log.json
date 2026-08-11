@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-13T13:15:45.598111+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "crimen y justicia",
-        "title": "Descubren 'in fraganti' a tres hombres forzando una vivienda con una barra de hierro en sa Pobla - Ultima Hora",
-        "candidate_tickers": [
-          "PoblaForzo",
-          "BarraDeHierro"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T13:16:26.673720+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad",
-        "title": "Sam Neill, \"Jurassic Park\" and \"The Piano\" star, dies at 78 - CBS News",
-        "candidate_tickers": [
-          "SamNeil",
-          "JurassicPark",
-          "Muerte78"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T16:03:20.934146+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6fff7744ea2a",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "Counter terrorism police take over investigation into Ann Widdecombe's death",
-        "candidate_tickers": [
-          "GRAHAM",
-          "TRUMP",
-          "SENATE",
-          "RIP",
-          "LINDSEY"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-13T16:04:04.826252+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27873,6 +27829,53 @@
           "YES",
           "ELON",
           "MUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T04:28:27.537132+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cd2faa493a1a",
+        "score": 88,
+        "category": "Noticias de actualidad",
+        "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+        "candidate_tickers": [
+          "LIBIA",
+          "DRON",
+          "REFINERÍA",
+          "INCENDIO",
+          "MUERTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T04:31:17.561687+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a2baa6435d18",
+        "score": 82,
+        "category": "Muerte de un animal famoso",
+        "title": "Disabled in a heatwave: 'We're talking about survival'",
+        "candidate_tickers": [
+          "JACKIE",
+          "ÁGUILA CALIFORNIANA",
+          "MUERTE DE UN ANIMAL FAMOSO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T04:32:28.743893+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "02ec838e606e",
+        "score": 78,
+        "category": "Deportes",
+        "title": "GB's Amy Hunt wins European 100m gold",
+        "candidate_tickers": [
+          "AMYHUNTWINS",
+          "GBGOLD",
+          "EUROPEANCHAMPS"
         ]
       }
     }
