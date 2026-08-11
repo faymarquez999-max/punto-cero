@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-14T12:01:52.100688+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "conflicto internacional",
-        "title": "AREAS IN IRAN'S ABADAN COUNTY AND MAHSHAHR WERE HIT BY U.S. PROJECTILES ON TUESDAY AFTERNOON - STATE MEDIA",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "GOLIATH",
-          "HORMUZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T12:03:36.543530+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "noticias",
-        "title": "Blaze near Paris burns on as heatwave tightens across Europe - Reuters",
-        "candidate_tickers": [
-          "PARIS",
-          "BANGKOK",
-          "TRUMP",
-          "INCENDIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T12:04:38.867777+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "salud",
-        "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
-        "candidate_tickers": [
-          "DRC_Ebola",
-          "Ebola_Strike",
-          "Salud_en_Crisis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T14:07:54.712964+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d663acc7869f",
-        "score": 78,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMP_ENDOSA",
-          "PEOR_CONGRESISTA",
-          "TRUMP_POLITICA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T14:08:48.141592+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP_POLL",
-          "POLL_STORM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T14:09:17.554934+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c397bb42edd5",
-        "score": 74,
-        "category": "humor y tecnología",
-        "title": "Literally true",
-        "candidate_tickers": [
-          "ELON",
-          "LITERALLYTRUE",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-14T14:09:46.080658+00:00",
       "kind": "shadow",
       "payload": {
@@ -27840,6 +27753,87 @@
           "COLQK",
           "COLQKILL"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-11T11:10:14.006973+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d64dc76ea13c",
+        "score": 80,
+        "category": "Política y Salud",
+        "title": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine",
+        "candidate_tickers": [
+          "FAUCIGATE",
+          "VAXSCANDAL",
+          "BHATTACHARYA",
+          "COVIDCOVERUP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T11:10:57.204932+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5938a75bb782",
+        "score": 92,
+        "category": "recuerdos de vehículos",
+        "title": "Tesla",
+        "candidate_tickers": [
+          "TESLA_BRIGHT",
+          "TESLA_RECALL",
+          "TESLA_HEADLIGHTS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T11:12:30.307761+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "914781b5339b",
+        "score": 74,
+        "category": "Desastres naturales",
+        "title": "Watch: Family narrowly escapes home during Colombia earthquake",
+        "candidate_tickers": [
+          "COLOMBIATERREMOTO",
+          "FAMILIAESCAPA",
+          "DESASTRENATURAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T11:13:08.369921+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "71df7f60dac3",
+        "score": 80,
+        "category": "Política",
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "candidate_tickers": [
+          "ASSAD",
+          "SIRIA",
+          "MUERTEENAUSENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T11:15:37.005019+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "8dffcad0eb46",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 18147.0
+      }
+    },
+    {
+      "ts": "2026-08-11T11:15:40.150092+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d9d9e8b60664",
+        "ticker": "YES",
+        "mint": "69sKunujvUtmzLmQ2L5TYPTULmZQrY41KC8ZHA38a5ku",
+        "mc": 11102.0
       }
     }
   ]

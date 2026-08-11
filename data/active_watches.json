@@ -1,265 +1,6 @@
 {
   "watches": [
     {
-      "id": "c8c8895195e2",
-      "fingerprint": "c8c8895195e2",
-      "narrative_summary": "Irán anuncia un preacuerdo con Omán para gestionar el estrecho de Ormuz, mientras Trump amenaza con abrirlo por la fuerza.",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: Irán y Omán acuerdan gestionar el estrecho de Ormuz, mientras Trump amenaza con abrirlo.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN_OMAN",
-        "ESTRECHO_DE_ORMUZ",
-        "TRUMP AMENAZA"
-      ],
-      "key_terms_for_dex_search": [
-        "Irán",
-        "Omán",
-        "estrecho de Ormuz",
-        "Trump",
-        "amenaza"
-      ],
-      "score": 71,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T22:47:32.955764+00:00",
-      "expires_at": "2026-08-07T22:47:32.955764+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TrumpCoin",
-        "name": "Trump Coin",
-        "mint": "F4GpAFr6vrxU3Y887F3XWkXRgybCVjZNk63m72f6pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 84433.0,
-        "liquidity_usd": 42910.28,
-        "price_usd": 8.445e-05,
-        "volume_h24": 9115.75,
-        "volume_h1": 72.97,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 1.75,
-        "price_change_24h": -10.01,
-        "txns_h1_buys": 2,
-        "txns_h1_sells": 0,
-        "created_ts": 1784006805000,
-        "pair_created_at": 1784006805000,
-        "url": "https://dexscreener.com/solana/fpjfwz3ngfvywkpdxzqm8qaljzmy6u3ngaa8nc7sndag",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRUMP in TRUMP COIN",
-        "safety_score": 105601,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "Guerra en Irán, en directo | Irán anuncia un preacuerdo con Omán para gestionar el estrecho de Ormuz - LaSexta",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-06T07:34:28.913286+00:00"
-    },
-    {
-      "id": "79ef4868b678",
-      "fingerprint": "79ef4868b678",
-      "narrative_summary": "Iran amenaza con atacar a estados del Golfo si EE. UU. lanza nuevos ataques.",
-      "why_memeable": "La narrativa tiene un título atractivo y una amenaza clara, lo que la hace fácilmente compartible.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "GOLFO",
-        "EEUU",
-        "ATACOS"
-      ],
-      "key_terms_for_dex_search": [
-        "iran",
-        "golfo",
-        "ataques",
-        "ee.uu."
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T22:48:50.781106+00:00",
-      "expires_at": "2026-08-07T22:48:50.781106+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T23:40:53.359271+00:00"
-    },
-    {
-      "id": "904d2844077b",
-      "fingerprint": "904d2844077b",
-      "narrative_summary": "Elon Musk enfrenta problemas legales y críticas por sus comentarios sobre raza",
-      "why_memeable": "La narrativa cuenta con múltiples fuentes y señales de interés, incluyendo problemas legales y críticas a Elon Musk",
-      "category": "Política y negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSKPROBLEMAS",
-        "ELONMUSKENPROBLEMAS",
-        "MUSKENLAMIRILLA"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "problemas legales",
-        "críticas",
-        "raza"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-05T22:50:03.154556+00:00",
-      "expires_at": "2026-08-07T22:50:03.154556+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Judge ‘Reluctantly’ Lets DOJ Dismiss Jan. 6 Oath Keepers Cases - Bloomberg.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T23:40:53.359275+00:00"
-    },
-    {
-      "id": "31b217f3be81",
-      "fingerprint": "31b217f3be81",
-      "narrative_summary": "Un conductor menor de edad causa un accidente fatal que deja a 7 niños heridos y a un hombre muerto.",
-      "why_memeable": "La combinación de un conductor menor de edad y un accidente fatal con heridos es un escenario inusual y llamativo.",
-      "category": "accidentes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CRASHKIDDO",
-        "MINORDRIVER",
-        "FATALCRASH"
-      ],
-      "key_terms_for_dex_search": [
-        "crash",
-        "minor",
-        "driver",
-        "fatal",
-        "accident"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 9,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T22:50:42.994315+00:00",
-      "expires_at": "2026-08-07T22:50:42.994315+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "CRASHIUS",
-        "name": "CrashiusClay69",
-        "mint": "Drd2nAd2NPQg3agGZd24mN559rg3ibMXYAQhpnSTpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 55681.0,
-        "liquidity_usd": 17559.93,
-        "price_usd": 5.568e-05,
-        "volume_h24": 5476.5,
-        "volume_h1": 440.64,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -5.85,
-        "price_change_24h": 4.41,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 2,
-        "created_ts": 1783275289000,
-        "pair_created_at": 1783275289000,
-        "url": "https://dexscreener.com/solana/ea2muxukxyxs1cau3pehfdsorgwfdwnrw8bgoxfdxjzj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CRASH in CRASHIUSCLAY69",
-        "safety_score": 17832,
-        "safety_risks": [
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "High ownership",
-            "level": "danger",
-            "description": "The top users hold more than 80% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Bizarre Crash Leaves 7 Children Injured, 1 Man Dead, After Underage Driver Flips Car - Yahoo",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-06T07:34:34.206724+00:00"
-    },
-    {
       "id": "0ac697ff5d14",
       "fingerprint": "0ac697ff5d14",
       "narrative_summary": "Ucrania advierte que la falta de interceptores está costando vidas después de un ataque letal en Kiev",
@@ -6104,7 +5845,7 @@
       "started_at": "2026-08-09T10:50:37.775235+00:00",
       "expires_at": "2026-08-11T10:50:37.775235+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
       "cluster_sources": [
@@ -6112,7 +5853,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-11T11:10:11.999968+00:00"
     },
     {
       "id": "d61f941abe80",
@@ -11022,7 +10764,189 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d64dc76ea13c",
+      "fingerprint": "d64dc76ea13c",
+      "narrative_summary": "Jay Bhattacharya, sucesor de Anthony Fauci, critica a Fauci por encubrir la tasa de abortos espontáneos del 82% en mujeres embarazadas que tomaron la vacuna COVID",
+      "why_memeable": "La narrativa combina un tema polémico con una figura de autoridad cuestionando a otra, lo que puede generar un fuerte impacto emocional y viralidad",
+      "category": "Política y Salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCIGATE",
+        "VAXSCANDAL",
+        "BHATTACHARYA",
+        "COVIDCOVERUP"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "Bhattacharya",
+        "COVID vacuna",
+        "tasa de abortos espontáneos"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T11:10:13.497838+00:00",
+      "expires_at": "2026-08-14T11:10:13.497838+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5938a75bb782",
+      "fingerprint": "5938a75bb782",
+      "narrative_summary": "Tesla recuerda 20.000 vehículos por faros demasiado brillantes y 508.000 vehículos por problemas de instrumento de cluster",
+      "why_memeable": "La narrativa es memeable porque involucra a una marca famosa (Tesla) y un problema común (faros brillantes) que puede ser fácilmente compartido y recordado",
+      "category": "recuerdos de vehículos",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "TESLA_BRIGHT",
+        "TESLA_RECALL",
+        "TESLA_HEADLIGHTS"
+      ],
+      "key_terms_for_dex_search": [
+        "tesla",
+        "recuerdo",
+        "faros",
+        "instrumento de cluster"
+      ],
+      "score": 92,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T11:10:56.710539+00:00",
+      "expires_at": "2026-08-13T11:10:56.710539+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tesla",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "914781b5339b",
+      "fingerprint": "914781b5339b",
+      "narrative_summary": "Una familia escapa de su hogar durante un terremoto en Colombia",
+      "why_memeable": "La imagen icónica de la familia escapando del terremoto y la noticia de la muerte de 132 personas",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COLOMBIATERREMOTO",
+        "FAMILIAESCAPA",
+        "DESASTRENATURAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Colombia",
+        "Terremoto",
+        "Familia",
+        "DesastreNatural"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 9,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T11:12:29.766081+00:00",
+      "expires_at": "2026-08-14T11:12:29.766081+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Watch: Family narrowly escapes home during Colombia earthquake",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "71df7f60dac3",
+      "fingerprint": "71df7f60dac3",
+      "narrative_summary": "El expresidente sirio Bashar al-Assad ha sido condenado a muerte en ausencia por cometer crímenes de guerra y contra la humanidad durante la guerra civil en Siria.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima', lo que la hace fácilmente compartible y recordable.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ASSAD",
+        "SIRIA",
+        "MUERTEENAUSENCIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Assad",
+        "Siria",
+        "MuerteEnAusencia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 5
+      },
+      "started_at": "2026-08-11T11:13:07.709539+00:00",
+      "expires_at": "2026-08-13T11:13:07.709539+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T10:16:48.370818+00:00"
+  "last_updated": "2026-08-11T11:13:07.709539+00:00"
 }
