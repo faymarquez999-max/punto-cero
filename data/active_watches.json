@@ -1,309 +1,6 @@
 {
   "watches": [
     {
-      "id": "6382584859dc",
-      "fingerprint": "6382584859dc",
-      "narrative_summary": "Influencer Cesar Gastelum asesinado durante transmisión en vivo en México.",
-      "why_memeable": "La narrativa tiene un núcleo claro y emocionalmente cargado, con una imagen icónica y un impacto cultural significativo.",
-      "category": "Muerte de influencer en transmisión en vivo",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CESARGASTELUM",
-        "INFLUENCERASESINADO",
-        "MEXICO"
-      ],
-      "key_terms_for_dex_search": [
-        "cesar gastelum",
-        "influencer asesinado",
-        "mexico",
-        "transmisión en vivo"
-      ],
-      "score": 92,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T12:25:02.119312+00:00",
-      "expires_at": "2026-08-07T12:25:02.119312+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Cesar",
-        "name": "Justice For Cesar Gastelum",
-        "mint": "DRD2PskD1XdmtcYw8QTUwnnwx5FwDvRbrSY69bb8pump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13637.0,
-        "liquidity_usd": 7659.88,
-        "price_usd": 1.422e-05,
-        "volume_h24": 414288.95,
-        "volume_h1": 4407.26,
-        "volume_m5": 456.72,
-        "price_change_5m": -5.74,
-        "price_change_1h": -24.72,
-        "price_change_24h": -52.44,
-        "txns_h1_buys": 54,
-        "txns_h1_sells": 93,
-        "created_ts": 1785912994000,
-        "pair_created_at": 1785912994000,
-        "url": "https://dexscreener.com/solana/gtc5zjg89dabngu8j4nsiuk8mhvj2g8elwppd7rrpyxp",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: CESAR GASTELUM in JUSTICE FOR CESAR GASTELUM",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Popular social media influencer shot dead during livestream outside restaurant in Mexico - CBS News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-05T15:04:07.089959+00:00"
-    },
-    {
-      "id": "563a5d185df5",
-      "fingerprint": "563a5d185df5",
-      "narrative_summary": "Elon Musk menciona su pieza favorita de merchandising, haciendo referencia a un lanzallamas de forma humorística.",
-      "why_memeable": "La mención de Elon Musk a un lanzallamas, junto con su tono humorístico, crea un contenido potencialmente viral y memeable.",
-      "category": "Celebridad y tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "MUSKFLAME",
-        "NOTFLAMETHROWER",
-        "ELONMERCH"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "lanzallamas",
-        "merchandising",
-        "meme"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-05T14:59:32.536428+00:00",
-      "expires_at": "2026-08-08T14:59:32.536428+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "My favorite piece of merch other than the (not a) flamethrower",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-08T15:51:13.693741+00:00"
-    },
-    {
-      "id": "1dfc93e0e483",
-      "fingerprint": "1dfc93e0e483",
-      "narrative_summary": "Incendio en San Roque (Cádiz) con 9 medios aéreos desplegados",
-      "why_memeable": "La narrativa tiene un título claro y una imagen potencialmente icónica, además de un tema interesante y actual",
-      "category": "desastres naturales",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "SANROQUEINCENDIO",
-        "CÁDIZENFUEGO",
-        "INFOCADESPLEGADO"
-      ],
-      "key_terms_for_dex_search": [
-        "San Roque",
-        "Cádiz",
-        "incendio",
-        "Infoca",
-        "medios aéreos"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 5,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T15:01:50.146710+00:00",
-      "expires_at": "2026-08-08T15:01:50.146710+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Desplegados nueve medios aéreos del Infoca en un incendio declarado en un paraje de San Roque (Cádiz) - Ultima Hora",
-      "cluster_sources": [
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-08T15:51:13.693756+00:00"
-    },
-    {
-      "id": "c41ee4322e53",
-      "fingerprint": "c41ee4322e53",
-      "narrative_summary": "Mohamed Salah llega a Turquía para un frenesí de fans antes de unirse al Trabzonspor",
-      "why_memeable": "La narrativa tiene un claro elemento de sorpresa y un personaje famoso, lo que lo hace fácilmente compartible y recordable.",
-      "category": "fútbol",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "SALAHTURQUIA",
-        "SALAHTRABZONSPOR",
-        "FRENESISALAH"
-      ],
-      "key_terms_for_dex_search": [
-        "Salah",
-        "Turquía",
-        "Trabzonspor",
-        "frenesí",
-        "fútbol"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 5,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 7,
-        "velocity": 5
-      },
-      "started_at": "2026-08-05T16:51:31.535538+00:00",
-      "expires_at": "2026-08-07T16:51:31.535538+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 5,
-      "expired_at": "2026-08-07T17:11:58.737202+00:00"
-    },
-    {
-      "id": "3ea836e86abb",
-      "fingerprint": "3ea836e86abb",
-      "narrative_summary": "Un crimen impactante en España, reportado por Atresmedia y compartido por Elon Musk",
-      "why_memeable": "La frase 'Maje, true crime' es fácil de recordar y compartir, y el crimen en cuestión es impactante y atractivo para la audiencia",
-      "category": "true crime",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MAJE",
-        "PATRAIX"
-      ],
-      "key_terms_for_dex_search": [
-        "Maje",
-        "Patraix",
-        "true crime",
-        "crimen",
-        "Atresmedia"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-05T20:13:55.509876+00:00",
-      "expires_at": "2026-08-07T20:13:55.509876+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T21:58:58.111248+00:00"
-    },
-    {
-      "id": "a84bbfa0cbf2",
-      "fingerprint": "a84bbfa0cbf2",
-      "narrative_summary": "Iran amenaza con atacar estados del Golfo si EE. UU. lanza nuevos ataques",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'amenaza' que puede ser capturada en una frase corta",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "GOLFO",
-        "EEUU",
-        "ATAQUE"
-      ],
-      "key_terms_for_dex_search": [
-        "iran",
-        "golfo",
-        "ataque",
-        "eeuu"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T20:14:09.561674+00:00",
-      "expires_at": "2026-08-07T20:14:09.561674+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T21:58:58.111261+00:00"
-    },
-    {
       "id": "11cbfb51b9c3",
       "fingerprint": "11cbfb51b9c3",
       "narrative_summary": "EE.UU. acusa a cinco líderes del cartel CJNG de México",
@@ -6134,14 +5831,15 @@
       "started_at": "2026-08-09T06:15:47.023353+00:00",
       "expires_at": "2026-08-11T06:15:47.023353+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-11T06:41:53.988158+00:00"
     },
     {
       "id": "a07830d700e9",
@@ -11099,7 +10797,271 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "a9085564dc56",
+      "fingerprint": "a9085564dc56",
+      "narrative_summary": "El sucesor de Anthony Fauci, Jay Bhattacharya, critica a Fauci por encubrir la tasa de abortos espontáneos en mujeres embarazadas que tomaron la vacuna COVID",
+      "why_memeable": "La narrativa combina un tema polémico como la vacunación COVID, una figura pública controvertida como Fauci y un tema sensible como el aborto espontáneo, lo que genera una mezcla explosiva de emociones y controversia",
+      "category": "Política y Salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCIOUT",
+        "VAXFAIL",
+        "COVIDCOVERUP",
+        "BHATTACHARYA",
+        "NIHLEAK"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "COVID vacuna",
+        "aborto espontáneo",
+        "Jay Bhattacharya",
+        "NIH"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T06:41:55.428049+00:00",
+      "expires_at": "2026-08-14T06:41:55.428049+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a3f46eaee76c",
+      "fingerprint": "a3f46eaee76c",
+      "narrative_summary": "US está agotando armas, pero ¿dónde se fue el dinero?",
+      "why_memeable": "Frases cortas y claras, con un tema de dinero y armas",
+      "category": "política y economía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "USARMAS",
+        "DINEROGO",
+        "GUERRA"
+      ],
+      "key_terms_for_dex_search": [
+        "US",
+        "armas",
+        "dinero",
+        "guerra"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T06:42:22.207616+00:00",
+      "expires_at": "2026-08-13T06:42:22.207616+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Where did all the money go if the US is running out of weapons?",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "204e58c4efe2",
+      "fingerprint": "204e58c4efe2",
+      "narrative_summary": "Elon Musk compara a los socialistas con Hitler, generando un gran impacto en las redes sociales.",
+      "why_memeable": "La frase 'Socialistas son Hitler' es corta, fácil de recordar y genera un fuerte impacto emocional.",
+      "category": "Política y actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HITLER",
+        "SOCIALISTAS",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ElonMusk",
+        "Hitler",
+        "Socialistas"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T06:43:52.270445+00:00",
+      "expires_at": "2026-08-12T06:43:52.270445+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "💯",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a2d9a803ec5b",
+      "fingerprint": "a2d9a803ec5b",
+      "narrative_summary": "Elon Musk confirma la verdad, generando una gran reacción en Twitter.",
+      "why_memeable": "La simplicidad de la frase 'True' y la reacción de Elon Musk la convierten en un meme potencial.",
+      "category": "Tecnología y redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONTRUTH"
+      ],
+      "key_terms_for_dex_search": [
+        "ELONMUSK",
+        "TRUE",
+        "TWITTER"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 9,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T06:44:13.213505+00:00",
+      "expires_at": "2026-08-13T06:44:13.213505+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0415bb3987f9",
+      "fingerprint": "0415bb3987f9",
+      "narrative_summary": "Elon Musk comparte un 'wow' viral en Twitter",
+      "why_memeable": "La simplicidad y la brevedad de la frase hacen que sea fácilmente compartible y repetible.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "WOW",
+        "ELON",
+        "MUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "ELON MUSK",
+        "WOW",
+        "TWITTER"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T06:44:33.740442+00:00",
+      "expires_at": "2026-08-13T06:44:33.740442+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Wow",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "ca415117205c",
+      "fingerprint": "ca415117205c",
+      "narrative_summary": "Elon Musk comparte una frase viral 'Grok ftw' generando gran interacción.",
+      "why_memeable": "La frase 'Grok ftw' es corta, fácil de recordar y tiene un significado no claro, lo que la hace memeable.",
+      "category": "frase viral de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "FTW"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "grok",
+        "ftw"
+      ],
+      "score": 83,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 10,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T06:45:32.967185+00:00",
+      "expires_at": "2026-08-12T06:45:32.967185+00:00",
+      "duration_hours": 24,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok ftw",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T05:44:13.561697+00:00"
+  "last_updated": "2026-08-11T06:45:32.967185+00:00"
 }
