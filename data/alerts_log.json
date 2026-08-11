@@ -1,153 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-12T15:46:31.735515+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6116bf8f0f7e",
-        "score": 80,
-        "category": "Internacional/Política",
-        "title": "Germany funds 50,000 strike drones for Ukraine, source says - Reuters",
-        "candidate_tickers": [
-          "GERDRONES",
-          "UKRAINEAID",
-          "ALEMANIAUCRANIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T16:46:06.650922+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad",
-        "title": "Hegseth’s tantrums are getting increasingly weird - The i Paper",
-        "candidate_tickers": [
-          "Hegseth",
-          "Tantrums",
-          "Weird"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T17:46:59.708642+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "candidate_tickers": [
-          "LindseyGrahamDied",
-          "GrahamMuerte",
-          "TrumpAliadoMuere"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T21:02:55.334440+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "90e3b4511fd6",
-        "score": 78,
-        "category": "Noticias de actualidad",
-        "title": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings - Reuters",
-        "candidate_tickers": [
-          "BELGIANWILDFIRE",
-          "SPANISHINJUSTICE",
-          "WILDFIREWARNING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T21:04:25.200828+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bfa101fab107",
-        "score": 82,
-        "category": "Desastres naturales",
-        "title": "Al menos 27 muertos en un incendio en un bar de Bangkok - Ultima Hora",
-        "candidate_tickers": [
-          "BANGKOKINCENDIO",
-          "BARBANGKOK",
-          "INCENDIO27MUERTOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T22:04:31.192478+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes",
-        "title": "Sinner fends off Zverev in power battle to retain Wimbledon crown - Reuters",
-        "candidate_tickers": [
-          "Sinner",
-          "Zverev",
-          "Wimbledon",
-          "Tenis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T22:07:11.911747+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Mitch McConnell releases statement, breaking weeks of silence about health condition - KHBS",
-        "candidate_tickers": [
-          "McConnellFall",
-          "SilencioDeMcConnell",
-          "CondiciónDeSalud"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-12T23:13:08.531569+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "135ae1e0fa71",
-        "score": 88,
-        "category": "Noticias políticas",
-        "title": "Lindsey Graham died of aortic dissection, preliminary medical report says - The Washington Post",
-        "candidate_tickers": [
-          "LINDSEYGRAHAM",
-          "GRAHAMDEAD",
-          "POLITICOMUERE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T04:07:32.702602+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "263a5892dda8",
-        "score": 80,
-        "category": "accidente",
-        "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
-        "candidate_tickers": [
-          "BANGKOKFIRE",
-          "BARFIRE",
-          "BANGKOKINCENDIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-13T04:11:46.833643+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "09978f103e23",
-        "score": 72,
-        "category": "Protestas y derechos civiles",
-        "title": "Big turnout at Suffolk ICE Protest after video of arrest goes viral - WAVY.com",
-        "candidate_tickers": [
-          "SUFFOLK",
-          "ICE",
-          "PROTEST"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-13T07:45:35.805869+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27905,6 +27758,119 @@
           "SEC",
           "TWITTER"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-11T00:40:55.860547+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Finanzas/Tecnología",
+        "title": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+        "candidate_tickers": [
+          "NVDA",
+          "WS",
+          "AI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T00:41:34.532632+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7b3b557cb1a3",
+        "score": 74,
+        "category": "salud pública",
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+        "candidate_tickers": [
+          "EBOLA",
+          "VIRUELA",
+          "PANDEMIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T00:42:07.561338+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Deportes",
+        "title": "GB's Amy Hunt wins European 100m gold",
+        "candidate_tickers": [
+          "GBAmyHunt",
+          "AmyHunt100m",
+          "GBWins100m"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:38.590381+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "10908351394e",
+        "ticker": "TERAFAB",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "mc": 53766.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:40.153634+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "19f9f223ecac",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 24489.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:50.522241+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "64313cb69480",
+        "ticker": "WORM",
+        "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+        "mc": 14295.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:51.957732+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7797d2bab201",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 55940.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:53.063351+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0efb1b76b190",
+        "ticker": "WORM",
+        "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+        "mc": 14295.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:54.336217+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6e6c03dc0db2",
+        "ticker": "YES",
+        "mint": "69sKunujvUtmzLmQ2L5TYPTULmZQrY41KC8ZHA38a5ku",
+        "mc": 15167.0
+      }
+    },
+    {
+      "ts": "2026-08-11T00:44:55.924477+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4fd126be0704",
+        "ticker": "HITLER",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "mc": 24489.0
       }
     }
   ]
