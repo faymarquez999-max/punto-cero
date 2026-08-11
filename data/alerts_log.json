@@ -1,19 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T12:10:57.621962+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "Ancient times",
-        "candidate_tickers": [
-          "AncientTimes",
-          "ElonMusk"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T14:15:15.857477+00:00",
       "kind": "shadow",
       "payload": {
@@ -27823,6 +27810,21 @@
           "GOLFO",
           "ATAQUEMISIL",
           "TRIPULANTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T19:54:30.606580+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2ef0805cef8a",
+        "score": 80,
+        "category": "Desastres naturales",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "candidate_tickers": [
+          "COLOMBIA",
+          "TERREMOTO",
+          "SOS"
         ]
       }
     }
