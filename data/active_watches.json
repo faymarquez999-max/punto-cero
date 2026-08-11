@@ -4605,7 +4605,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5ea6c143bb4c",
@@ -4889,7 +4889,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "ab902e94ba21",
@@ -5438,7 +5438,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "65ac03a33e23",
@@ -5533,7 +5533,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b2cfe910de9b",
@@ -5579,7 +5579,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "f64ca941b080",
@@ -6145,7 +6145,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "31df5345a11f",
@@ -6356,7 +6356,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "ee897f514286",
@@ -6480,7 +6480,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b65f1b95aed1",
@@ -6526,7 +6526,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "9fa4f9a315d4",
@@ -6907,7 +6907,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "2ae151883ea0",
@@ -6952,7 +6952,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "cc8db50c1bac",
@@ -7072,7 +7072,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "09d07fab1799",
@@ -7164,7 +7164,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6a37715523ba",
@@ -7304,7 +7304,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "509218e00028",
@@ -7421,7 +7421,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "166e0266a68c",
@@ -7466,7 +7466,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "0cfba4055cee",
@@ -7596,7 +7596,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "17f1c4c77acd",
@@ -7786,7 +7786,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "10908351394e",
@@ -7826,13 +7826,40 @@
       "started_at": "2026-08-10T04:21:17.432653+00:00",
       "expires_at": "2026-08-12T04:21:17.432653+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 59579.0,
+        "liquidity_usd": 27846.7,
+        "price_usd": 5.959e-05,
+        "volume_h24": 5657.53,
+        "volume_h1": 2126.01,
+        "volume_m5": 25.72,
+        "price_change_5m": 0.14,
+        "price_change_1h": 12.24,
+        "price_change_24h": 8.34,
+        "txns_h1_buys": 89,
+        "txns_h1_sells": 26,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-11T12:05:59.634763+00:00"
     },
     {
       "id": "19f9f223ecac",
@@ -7924,7 +7951,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "a566a809993c",
@@ -7969,7 +7996,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "74238fb599cd",
@@ -8014,7 +8041,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6bfdac171e2c",
@@ -8059,7 +8086,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c428b22cd2fc",
@@ -8104,7 +8131,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5342322d0db9",
@@ -8149,7 +8176,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "da12f84f083d",
@@ -8194,7 +8221,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "64313cb69480",
@@ -8550,7 +8577,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4fd126be0704",
@@ -8666,7 +8693,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7010dca5a1b5",
@@ -8716,7 +8743,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8c97b38726f2",
@@ -8831,7 +8858,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "fd87c62a017e",
@@ -8875,7 +8902,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "794b495eb695",
@@ -8919,7 +8946,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4e6acae66b6c",
@@ -8965,7 +8992,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "cedf7d69da0f",
@@ -9252,7 +9279,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "141aaa72a78a",
@@ -9298,7 +9325,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6baca45b88a3",
@@ -9340,7 +9367,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8dffcad0eb46",
@@ -9377,13 +9404,40 @@
       "started_at": "2026-08-10T17:42:47.009231+00:00",
       "expires_at": "2026-08-12T17:42:47.009231+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "HITLER",
+        "name": "Adolf Hitler Official",
+        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 17797.0,
+        "liquidity_usd": 9798.84,
+        "price_usd": 1.78e-05,
+        "volume_h24": 12548.04,
+        "volume_h1": 55.42,
+        "volume_m5": 46.57,
+        "price_change_5m": -1.13,
+        "price_change_1h": -1.93,
+        "price_change_24h": -26.6,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 2,
+        "created_ts": 1779235133000,
+        "pair_created_at": 1779235133000,
+        "url": "https://dexscreener.com/solana/2chpmbhguf1eqxsrksigfxdpydwyx76vid4antsyfp2w",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: HITLER==HITLER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "💯",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:18.388623+00:00"
     },
     {
       "id": "42e101d83df7",
@@ -9428,7 +9482,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4a882bea9a75",
@@ -9473,7 +9527,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d9d9e8b60664",
@@ -9511,13 +9565,65 @@
       "started_at": "2026-08-10T19:47:51.821863+00:00",
       "expires_at": "2026-08-11T19:47:51.821863+00:00",
       "duration_hours": 24,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "YES",
+        "name": "Will This Coin Go Up?",
+        "mint": "9GyRGm8GGmRZyyQ2hEnazDvCSV8mXiMAHmjKwVHMvVpo",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 31672.0,
+        "liquidity_usd": 22997.78,
+        "price_usd": 3.167e-05,
+        "volume_h24": 35678.68,
+        "volume_h1": 187.77,
+        "volume_m5": 5.8,
+        "price_change_5m": -0.67,
+        "price_change_1h": -2.91,
+        "price_change_24h": 22.25,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 3,
+        "created_ts": 1785803375000,
+        "pair_created_at": 1785803375000,
+        "url": "https://dexscreener.com/solana/g13wvpxfygkwfngc7e6dkdztxc3d3hh13zbgdv2bms4p",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: YES==YES",
+        "safety_score": 134149,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          },
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "danger",
+            "description": "Low amount of liquidity in the token pool"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:20.748001+00:00"
     },
     {
       "id": "09d6f4ae8bc1",
@@ -9559,7 +9665,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "fef6e1270ecd",
@@ -9598,13 +9704,40 @@
       "started_at": "2026-08-10T22:15:21.366054+00:00",
       "expires_at": "2026-08-12T22:15:21.366054+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 59579.0,
+        "liquidity_usd": 27846.7,
+        "price_usd": 5.959e-05,
+        "volume_h24": 5657.53,
+        "volume_h1": 2126.01,
+        "volume_m5": 25.72,
+        "price_change_5m": 0.14,
+        "price_change_1h": 12.24,
+        "price_change_24h": 8.34,
+        "txns_h1_buys": 89,
+        "txns_h1_sells": 26,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:22.255433+00:00"
     },
     {
       "id": "fdca1a1c83ca",
@@ -9649,7 +9782,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7b3b557cb1a3",
@@ -9696,7 +9829,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "8730af826dfa",
@@ -9746,7 +9879,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4adde1ead766",
@@ -9783,14 +9916,41 @@
       "started_at": "2026-08-11T02:58:17.406813+00:00",
       "expires_at": "2026-08-13T02:58:17.406813+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Jackie",
+        "name": "The Nietzschean Eagle",
+        "mint": "4zEh89StirBvyHgiphKHNYAi8Fa6FVzVZjNUffcQpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 232960.0,
+        "liquidity_usd": 43635.23,
+        "price_usd": 0.000233,
+        "volume_h24": 784699.69,
+        "volume_h1": 10528.54,
+        "volume_m5": 201.67,
+        "price_change_5m": -1.1,
+        "price_change_1h": 18.06,
+        "price_change_24h": 132.0,
+        "txns_h1_buys": 54,
+        "txns_h1_sells": 81,
+        "created_ts": 1784600594000,
+        "pair_created_at": 1784600594000,
+        "url": "https://dexscreener.com/solana/93hwa1tkrxckun3qfgdxgxtadyxxt2vfdz7jxvrnkefk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: JACKIE==JACKIE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife officials say - ABC11 News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:28.256291+00:00"
     },
     {
       "id": "0c2585e7dae5",
@@ -9836,7 +9996,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "cc551846df49",
@@ -9882,7 +10042,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9f886d298857",
@@ -9921,13 +10081,40 @@
       "started_at": "2026-08-11T03:01:32.667280+00:00",
       "expires_at": "2026-08-13T03:01:32.667280+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "TERAFAB",
+        "name": "Terafab",
+        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 59579.0,
+        "liquidity_usd": 27846.7,
+        "price_usd": 5.959e-05,
+        "volume_h24": 5657.53,
+        "volume_h1": 2126.01,
+        "volume_m5": 18.84,
+        "price_change_5m": 0.08,
+        "price_change_1h": 12.24,
+        "price_change_24h": 8.34,
+        "txns_h1_buys": 89,
+        "txns_h1_sells": 26,
+        "created_ts": 1773495773000,
+        "pair_created_at": 1773495773000,
+        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: TERAFAB==TERAFAB",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:31.584634+00:00"
     },
     {
       "id": "d200527a43f2",
@@ -9964,13 +10151,65 @@
       "started_at": "2026-08-11T03:01:53.687382+00:00",
       "expires_at": "2026-08-12T03:01:53.687382+00:00",
       "duration_hours": 24,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "YES",
+        "name": "Will This Coin Go Up?",
+        "mint": "9GyRGm8GGmRZyyQ2hEnazDvCSV8mXiMAHmjKwVHMvVpo",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 31672.0,
+        "liquidity_usd": 22997.78,
+        "price_usd": 3.167e-05,
+        "volume_h24": 35678.68,
+        "volume_h1": 187.77,
+        "volume_m5": 5.8,
+        "price_change_5m": -0.67,
+        "price_change_1h": -2.91,
+        "price_change_24h": 22.25,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 3,
+        "created_ts": 1785803375000,
+        "pair_created_at": 1785803375000,
+        "url": "https://dexscreener.com/solana/g13wvpxfygkwfngc7e6dkdztxc3d3hh13zbgdv2bms4p",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: YES==YES",
+        "safety_score": 134149,
+        "safety_risks": [
+          {
+            "name": "Creator history of rugged tokens",
+            "level": "danger",
+            "description": "Creator has a history of rugging tokens."
+          },
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "danger",
+            "description": "Low amount of liquidity in the token pool"
+          },
+          {
+            "name": "High holder concentration",
+            "level": "warn",
+            "description": "The top 10 users hold more than 50% token supply"
+          }
+        ]
+      },
       "cluster_top_title": "Yes",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-11T12:06:32.487859+00:00"
     },
     {
       "id": "40287e0059a4",
@@ -10948,5 +11187,5 @@
       "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T11:13:07.709539+00:00"
+  "last_updated": "2026-08-11T12:06:32.487879+00:00"
 }
