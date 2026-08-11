@@ -1,296 +1,6 @@
 {
   "watches": [
     {
-      "id": "cb1ca233f8a8",
-      "fingerprint": "cb1ca233f8a8",
-      "narrative_summary": "El senador Fauci puede ser acusado de desacato al Congreso debido a acusaciones de abuso y acusaciones de plagio.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una imagen icónica de Fauci.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FAUCI",
-        "DESACATO",
-        "ABUSO",
-        "PLAGIO"
-      ],
-      "key_terms_for_dex_search": [
-        "Fauci",
-        "desacato",
-        "abuso",
-        "plagio",
-        "Congreso"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T10:15:39.381572+00:00",
-      "expires_at": "2026-08-08T10:15:39.381572+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Diary",
-        "name": "The Fauci Diary",
-        "mint": "9MEYExzYucFLtAk2v8PCdw4SM4xox5o4gPZEywyvpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14012.0,
-        "liquidity_usd": 10898.7,
-        "price_usd": 1.552e-05,
-        "volume_h24": 12143.91,
-        "volume_h1": 134.04,
-        "volume_m5": 95.23,
-        "price_change_5m": 1.85,
-        "price_change_1h": 3.21,
-        "price_change_24h": 53.5,
-        "txns_h1_buys": 4,
-        "txns_h1_sells": 1,
-        "created_ts": 1785189792000,
-        "pair_created_at": 1785189792000,
-        "url": "https://dexscreener.com/solana/fckrnwq3yws5jyfhxqsb2gs49m9extuqnfkqs9oa4xwo",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: FAUCI in THE FAUCI DIARY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-06T10:19:29.421493+00:00"
-    },
-    {
-      "id": "11cb85c37c2f",
-      "fingerprint": "11cb85c37c2f",
-      "narrative_summary": "Elon Musk comparte un meme 'Grok Imagine' con gran éxito en Nitter.",
-      "why_memeable": "La frase 'Grok Imagine' es fácil de recordar y se puede capturar en una imagen.",
-      "category": "meme de Elon Musk",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "IMAGINE",
-        "GROKIMAGINE"
-      ],
-      "key_terms_for_dex_search": [
-        "GROK",
-        "IMAGINE",
-        "ELON MUSK",
-        "MEME"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T10:16:39.700232+00:00",
-      "expires_at": "2026-08-08T10:16:39.700232+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Grok Imagine",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-08T11:14:45.931293+00:00"
-    },
-    {
-      "id": "f6ad3087a82a",
-      "fingerprint": "f6ad3087a82a",
-      "narrative_summary": "Elon Musk comparte una imagen de un 'Grok' en Blender.",
-      "why_memeable": "La frase 'Grok in Blender' es corta y fácil de compartir.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GROK",
-        "GROK_IN_BLENDER"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "blender",
-        "grok"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 3,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-06T10:17:50.013036+00:00",
-      "expires_at": "2026-08-08T10:17:50.013036+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Grok in Blender",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-08T11:14:45.931308+00:00"
-    },
-    {
-      "id": "c03c6b57ef0d",
-      "fingerprint": "c03c6b57ef0d",
-      "narrative_summary": "Un comité del Senado de EE. UU. vota para llevar a Anthony Fauci en contumacia por negarse a responder preguntas sobre su manejo de la pandemia de COVID-19.",
-      "why_memeable": "La noticia tiene un alto potencial de ser compartida y discutida debido a la figura polarizante de Fauci y la naturaleza controvertida del tema.",
-      "category": "Política y salud",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FAUCI",
-        "COVIDGATE",
-        "SENATE",
-        "CONTEMPT",
-        "TRUMPFAUCI"
-      ],
-      "key_terms_for_dex_search": [
-        "Fauci",
-        "COVID-19",
-        "Senado",
-        "Contumacia",
-        "Política"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-06T14:57:55.828850+00:00",
-      "expires_at": "2026-08-09T14:57:55.828850+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Fauci",
-        "name": "Dr. Death",
-        "mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 57329.0,
-        "liquidity_usd": 25334.1,
-        "price_usd": 5.943e-05,
-        "volume_h24": 178681.14,
-        "volume_h1": 1581.59,
-        "volume_m5": 463.45,
-        "price_change_5m": -2.02,
-        "price_change_1h": -2.1,
-        "price_change_24h": -23.54,
-        "txns_h1_buys": 20,
-        "txns_h1_sells": 19,
-        "created_ts": 1785334324000,
-        "pair_created_at": 1785334324000,
-        "url": "https://dexscreener.com/solana/2jf324deswftkbfvtzwby8tgedhhncjepai82smx5pfr",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: FAUCI==FAUCI",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-07T00:38:56.156144+00:00"
-    },
-    {
-      "id": "eba90fb3e8bd",
-      "fingerprint": "eba90fb3e8bd",
-      "narrative_summary": "Nikita Bier renuncia como jefe de producto de X y continuará como asesor.",
-      "why_memeable": "La noticia de la renuncia de Nikita Bier y su continuación como asesor es memeable debido a la simplicidad de la noticia y la posibilidad de crear contenido humorístico alrededor de su nuevo rol.",
-      "category": "tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "BIER",
-        "XPRODUCT",
-        "TECHDRAMA",
-        "RENEGADE",
-        "ADVISORNIK"
-      ],
-      "key_terms_for_dex_search": [
-        "Nikita Bier",
-        "X",
-        "renuncia",
-        "asesor",
-        "tecnología"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-06T14:57:57.784197+00:00",
-      "expires_at": "2026-08-09T14:57:57.784197+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "JUST IN - Nikita Bier resigns as X's Head of Product, will continue as an \"advisor.\"",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-09T15:39:55.764945+00:00"
-    },
-    {
       "id": "93c74be3f893",
       "fingerprint": "93c74be3f893",
       "narrative_summary": "Un nuevo true crime sobre un crimen impactante en España, emitido en Atresmedia.",
@@ -6119,7 +5829,7 @@
       "started_at": "2026-08-09T14:58:32.744373+00:00",
       "expires_at": "2026-08-11T14:58:32.744373+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "cluster_sources": [
@@ -6127,7 +5837,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-11T15:44:19.115985+00:00"
     },
     {
       "id": "9fa4f9a315d4",
@@ -11149,7 +10860,238 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "bbe371a8cd79",
+      "fingerprint": "bbe371a8cd79",
+      "narrative_summary": "Trump y Musk cuestionan la existencia de oro en Fort Knox, generando especulaciones y teorías de conspiración.",
+      "why_memeable": "La combinación de figuras polémicas como Trump y Musk, junto con la idea de un posible robo de oro en Fort Knox, crea un escenario absurdo y atractivo para la especulación y el humor.",
+      "category": "política y teorías de conspiración",
+      "matched_archetype": "conspiración",
+      "candidate_tickers": [
+        "TRUMPFEARS",
+        "MUSKGOLD",
+        "FORTKNOXED",
+        "GOLDRUSH21",
+        "TRUMPTRUTH"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Fort Knox",
+        "oro",
+        "conspiración"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T15:44:20.540016+00:00",
+      "expires_at": "2026-08-14T15:44:20.540016+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "You will be able to watch live sports in 4k or movies or games or productivity!",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9c993e6c61ca",
+      "fingerprint": "9c993e6c61ca",
+      "narrative_summary": "Un ataque con dron ha cerrado una planta petroquímica en Siberia, Rusia.",
+      "why_memeable": "La narrativa tiene un ataque con dron, lo que es un evento dramático y visualmente atractivo. Además, involucra a Rusia, lo que puede generar polarización.",
+      "category": "Noticias de conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "SIBERIADRONE",
+        "RUSIAATAQUE",
+        "PETROQUÍMICACERRADA"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Siberia",
+        "ataque con dron",
+        "planta petroquímica"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T15:44:34.413803+00:00",
+      "expires_at": "2026-08-13T15:44:34.413803+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9eb154b4506e",
+      "fingerprint": "9eb154b4506e",
+      "narrative_summary": "US forces fired at ship breaking blockade of Iranian ports",
+      "why_memeable": "La narrativa tiene un título claro y un resumen conciso, lo que la hace fácil de compartir y recordar.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "IRANBLOCK",
+        "USFIRE",
+        "SHIPBLOCK"
+      ],
+      "key_terms_for_dex_search": [
+        "iran",
+        "blockade",
+        "us",
+        "fire",
+        "ship"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T15:45:10.334350+00:00",
+      "expires_at": "2026-08-13T15:45:10.334350+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US forces fired at ship breaking blockade of Iranian ports - The Jerusalem Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "508bb1fb1e3f",
+      "fingerprint": "508bb1fb1e3f",
+      "narrative_summary": "La temperatura en el Reino Unido puede ser la más alta en la historia en verano 2026, según el Met Office",
+      "why_memeable": "La narrativa tiene un título atractivo y se relaciona con la tendencia de los memecoin en verano 2026",
+      "category": "clima y tecnología",
+      "matched_archetype": "novel",
+      "candidate_tickers": [
+        "$ANSEM",
+        "ANSEM",
+        "MEMECOIN2026"
+      ],
+      "key_terms_for_dex_search": [
+        "memecoin",
+        "ANSEM",
+        "clima",
+        "verano 2026"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T15:45:58.298513+00:00",
+      "expires_at": "2026-08-14T15:45:58.298513+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4b0a62264c57",
+      "fingerprint": "4b0a62264c57",
+      "narrative_summary": "Ebola está propagándose a un ritmo sin precedentes en la República Democrática del Congo, advierte un experto en virología.",
+      "why_memeable": "La narrativa tiene un alto contenido emocional, es fácil de entender y tiene un impacto cultural significativo.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLACONGO",
+        "EBOLAOUTBREAK",
+        "SALUDENPELÍCULA"
+      ],
+      "key_terms_for_dex_search": [
+        "Ebola",
+        "Congo",
+        "salud",
+        "virología"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T15:46:47.279996+00:00",
+      "expires_at": "2026-08-13T15:46:47.279996+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ebola spreading at unprecedented speed in Congo, top virologist warns - Anadolu Ajansı",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T14:43:36.362455+00:00"
+  "last_updated": "2026-08-11T15:46:47.279996+00:00"
 }
