@@ -1,77 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T17:29:31.707407+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC",
-        "candidate_tickers": [
-          "BuffettVsGates",
-          "EpsteinScandal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T17:30:10.340978+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Muerte de un actor conocido",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SamNeil",
-          "JurassicPark",
-          "ThePiano",
-          "Neill78"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T17:31:01.470797+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "XCancel",
-          "TrumpLive"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T17:31:29.289716+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "28589e0d96ea",
-        "score": 74,
-        "category": "Celebridad y entretenimiento",
-        "title": "Ariana Grande impersonates ‘Harry Potter’ characters for r.e.m. beauty.",
-        "candidate_tickers": [
-          "ARIANAGRANDEHP",
-          "HPBEAUTY",
-          "GRANDEMAGIC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T18:41:54.717859+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política y gobiernos",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "Massie",
-          "Trump",
-          "Clemency",
-          "RKelly"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T18:43:00.839696+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27828,6 +27757,73 @@
           "MUSKLMAO",
           "LMAOMUSK"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-11T21:58:00.187052+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "84fb09b19cd8",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week",
+        "candidate_tickers": [
+          "TRUMPVSMSK",
+          "MUSKTRUMPFEUD",
+          "EPSTEINGATE",
+          "TRUMPLION",
+          "MUSKWAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T21:59:09.376848+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "172d196d5eb3",
+        "score": 82,
+        "category": "Tecnología/ Negocios",
+        "title": "OPENAI'S BRAD LIGHTCAP SAYS HE WILL BE LEAVING OPENAI- X POST",
+        "candidate_tickers": [
+          "LIGHTCAP",
+          "OPENAI",
+          "BRAD",
+          "DEJAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T21:59:53.917328+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "crueldad animal",
+        "title": "District Attorney recused in Knox County Sheriff’s Office conspiracy case - WATE 6 On Your Side",
+        "candidate_tickers": [
+          "KnoxCountyCruelty",
+          "AnimalAbuse",
+          "SheriffScandal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T22:03:30.203898+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6bfdac171e2c",
+        "ticker": "Fraggle",
+        "mint": "Agmu8Xgn7rU4zFv4DMPrEBhYDdPsmiEG5hCiYyvSpump",
+        "mc": 25133.0
+      }
+    },
+    {
+      "ts": "2026-08-11T22:03:36.692341+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "ac166c8beda7",
+        "ticker": "ELON",
+        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+        "mc": 201897.0
       }
     }
   ]
