@@ -1,303 +1,6 @@
 {
   "watches": [
     {
-      "id": "40166da8f230",
-      "fingerprint": "40166da8f230",
-      "narrative_summary": "Trump niega la escasez de armas en EE. UU. y dice que los 'filtradores' de información están siendo 'perseguidos'.",
-      "why_memeable": "La narrativa es memeable porque involucra a Trump, un personaje público polarizador, y la idea de que los 'filtradores' de información están siendo perseguidos es absurda y genera interés.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP",
-        "ARMA",
-        "FILTRADOR"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "ARMA",
-        "FILTRADOR",
-        "EE. UU."
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T15:02:15.958121+00:00",
-      "expires_at": "2026-08-08T15:02:15.958121+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-08T15:51:13.693764+00:00"
-    },
-    {
-      "id": "d050a258f151",
-      "fingerprint": "d050a258f151",
-      "narrative_summary": "Elon Musk y Donald Trump están involucrados en una serie de eventos y declaraciones polémicas, incluyendo un acuerdo de $1.5 millones y acusaciones sobre la reserva de oro en Fort Knox.",
-      "why_memeable": "La combinación de figuras públicas polémicas como Musk y Trump, junto con la naturaleza absurda de algunas de las declaraciones y eventos, ofrece un caldo de cultivo para la creación de memes.",
-      "category": "Política y Tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSKTRUMP",
-        "GOLDRUSH",
-        "TWITLAW",
-        "FORTKNOX",
-        "TRUMPVSELON"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Donald Trump",
-        "Fort Knox",
-        "Twitter",
-        "Lawsuit"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-07T00:35:11.869642+00:00",
-      "expires_at": "2026-08-10T00:35:11.869642+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "$GOLD",
-        "name": "GoldRush",
-        "mint": "5x8G4eFqtUQBiHBcxN7MLyUebTEvKErYg93RLiMnpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 13011.0,
-        "liquidity_usd": 7169.31,
-        "price_usd": 1.394e-05,
-        "volume_h24": 13397.5,
-        "volume_h1": 625.73,
-        "volume_m5": 4.9,
-        "price_change_5m": 0.26,
-        "price_change_1h": 16.89,
-        "price_change_24h": -34.58,
-        "txns_h1_buys": 32,
-        "txns_h1_sells": 15,
-        "created_ts": 1785971775000,
-        "pair_created_at": 1785971775000,
-        "url": "https://dexscreener.com/solana/5bpvxzyzh1udiq9vv6sbavmdlaqvutxu5ulegkpdfdvv",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: GOLDRUSH in GOLDRUSH",
-        "safety_score": 50,
-        "safety_risks": [
-          {
-            "name": "Low Liquidity",
-            "level": "warn",
-            "description": "Low amount of liquidity in the token pool"
-          }
-        ]
-      },
-      "cluster_top_title": "THE U.S.-CHINA CLASH HIGHLIGHTS GROWING GEOPOLITICAL COMPETITION OVER TECHNOLOGY, INFRASTRUCTURE, AND STRATEGIC INFLUENCE IN THE REGION.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-07T00:39:05.844436+00:00"
-    },
-    {
-      "id": "b36e2332facc",
-      "fingerprint": "b36e2332facc",
-      "narrative_summary": "Elon Musk habla sobre el uso de conductores de masa en la Luna para alcanzar petavatios, mientras que un cohete de SpaceX choca contra la Luna",
-      "why_memeable": "La combinación de la declaración de Elon Musk con el evento del cohete que choca contra la Luna crea un escenario único y absurdo",
-      "category": "Espacio y Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "LUNAR",
-        "MOONCAT",
-        "SPACEXCRASH",
-        "PETAWATT",
-        "MASSDRIVER"
-      ],
-      "key_terms_for_dex_search": [
-        "Lunar",
-        "Moon",
-        "SpaceX",
-        "Elon Musk",
-        "Mass Driver"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-07T00:35:24.943503+00:00",
-      "expires_at": "2026-08-10T00:35:24.943503+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SPCX",
-        "name": "SpaceX",
-        "mint": "E6ifp2mJy8cYQehUGUtFvrXriRKxRuonLmrvTFypump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 123099.0,
-        "liquidity_usd": 48202.72,
-        "price_usd": 0.0001231,
-        "volume_h24": 7597.73,
-        "volume_h1": 305.07,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.13,
-        "price_change_24h": 2.7,
-        "txns_h1_buys": 3,
-        "txns_h1_sells": 3,
-        "created_ts": 1775066330000,
-        "pair_created_at": 1775066330000,
-        "url": "https://dexscreener.com/solana/dzxwcypptyr2ntfmen2xauscb77t1zlpkg63pbpbkmbc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: SPACEX in SPACEX",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Elon Musk: “Path to Petawatts is Mass drivers on Moon”",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-07T00:39:09.551224+00:00"
-    },
-    {
-      "id": "10560982642d",
-      "fingerprint": "10560982642d",
-      "narrative_summary": "Meta es multada con $567m por dañar a niños en una decisión judicial sobre seguridad infantil",
-      "why_memeable": "La multa millonaria y el tema de la seguridad infantil en las redes sociales generan un interés alto y una carga emocional fuerte",
-      "category": "Tecnología y sociedad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "META567",
-        "KIDSAFE",
-        "SOCMEDFINE"
-      ],
-      "key_terms_for_dex_search": [
-        "Meta",
-        "multa",
-        "seguridad infantil",
-        "redes sociales"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T00:35:58.236695+00:00",
-      "expires_at": "2026-08-10T00:35:58.236695+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-10T04:16:55.754510+00:00"
-    },
-    {
-      "id": "72f861bef343",
-      "fingerprint": "72f861bef343",
-      "narrative_summary": "Un video viral muestra un arresto en una piscina en Royse City, lo que ha generado una investigación y la suspensión de un oficial de policía.",
-      "why_memeable": "La combinación de un video viral, un arresto policial y la demanda de la familia por la terminación del oficial crea un escenario con alto potencial memético.",
-      "category": "Noticias de actualidad",
-      "matched_archetype": "injusticia_con_villano_y_victima",
-      "candidate_tickers": [
-        "ROYSE",
-        "POOLGATE",
-        "COPFAIL",
-        "JUSTICE4FAM",
-        "POLICEABUSE"
-      ],
-      "key_terms_for_dex_search": [
-        "Royse City",
-        "arresto policial",
-        "video viral",
-        "investigación",
-        "suspensión de oficial"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 9,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T00:36:15.170275+00:00",
-      "expires_at": "2026-08-10T00:36:15.170275+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Viral Royse City pool arrest video under investigation; officer placed on leave, family demands termination - WFAA",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-10T04:16:55.754524+00:00"
-    },
-    {
       "id": "af6b26d646fe",
       "fingerprint": "af6b26d646fe",
       "narrative_summary": "Alibaba planea cobrar a los usuarios grandes de su próximo modelo de inteligencia artificial de código abierto, según fuentes.",
@@ -6164,14 +5867,15 @@
       "started_at": "2026-08-09T18:17:15.820852+00:00",
       "expires_at": "2026-08-11T18:17:15.820852+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears - Bloomberg.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-11T18:41:56.434828+00:00"
     },
     {
       "id": "cc8db50c1bac",
@@ -11091,7 +10795,239 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "34fde0f79fef",
+      "fingerprint": "34fde0f79fef",
+      "narrative_summary": "Anthony Fauci es acusado de cubrir un supuesto alto índice de abortos en mujeres embarazadas que reciben la vacuna COVID por parte de su sucesor, Jay Bhattacharya.",
+      "why_memeable": "La narrativa tiene un núcleo claro y un elemento de sorpresa, lo que hace que sea fácilmente compartible y recordable.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FAUCIGATE",
+        "VACCINEGATE",
+        "ABORTOSCOVID"
+      ],
+      "key_terms_for_dex_search": [
+        "Fauci",
+        "vacuna COVID",
+        "abortos",
+        "Jay Bhattacharya"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 8,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T18:42:11.731115+00:00",
+      "expires_at": "2026-08-14T18:42:11.731115+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "45f0c7036617",
+      "fingerprint": "45f0c7036617",
+      "narrative_summary": "Rusia libera a un ex-marino estadounidense enfermo de detención",
+      "why_memeable": "La frase es corta y fácil de compartir, y la noticia es impactante",
+      "category": "actualidad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIA",
+        "MARINO",
+        "DETENCIÓN",
+        "LIBERTAD"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Marino",
+        "Detención",
+        "Libertad"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T18:42:30.390161+00:00",
+      "expires_at": "2026-08-13T18:42:30.390161+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Russia frees ailing ex-US Marine Robert Gilman from detention - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3cc804215c2b",
+      "fingerprint": "3cc804215c2b",
+      "narrative_summary": "La epidemia de Ebola en Congo supera las 2,000 muertes y sigue sin mostrar signos de ralentizarse.",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un alto nivel de cultural_resonance debido a la gravedad de la epidemia y la velocidad de propagación.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLA",
+        "CONGO",
+        "EBOLA_CONGO"
+      ],
+      "key_terms_for_dex_search": [
+        "ebola",
+        "congo",
+        "muertes",
+        "epidemia"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 5,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 4,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T18:43:07.194231+00:00",
+      "expires_at": "2026-08-14T18:43:07.194231+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "548296f463f3",
+      "fingerprint": "548296f463f3",
+      "narrative_summary": "US dispara contra barco que intenta romper el bloqueo de puertos iraníes",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y hay una imagen asociada que es icónica",
+      "category": "Política y Conflictos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "USVSIRAN",
+        "BLOCKADEBREAKER",
+        "GULFOFOMAN",
+        "USFIRESONSHIP"
+      ],
+      "key_terms_for_dex_search": [
+        "US",
+        "Iran",
+        "blockade",
+        "GulfOfOman",
+        "USFiresOnShip"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T18:43:53.027392+00:00",
+      "expires_at": "2026-08-13T18:43:53.027392+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d238179628b9",
+      "fingerprint": "d238179628b9",
+      "narrative_summary": "Ataque en el Mar Rojo mata a cuatro tripulantes mientras se reporta un ataque de misil en el Golfo",
+      "why_memeable": "La narrativa tiene un núcleo claro sobre un ataque en el Mar Rojo y un ataque de misil en el Golfo, lo que la hace fácil de capturar en una frase",
+      "category": "noticias de conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MARROJO",
+        "GOLFO",
+        "ATAQUEMISIL",
+        "TRIPULANTES"
+      ],
+      "key_terms_for_dex_search": [
+        "ataque",
+        "mar",
+        "golfo",
+        "misil",
+        "tripulantes"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T18:44:29.588420+00:00",
+      "expires_at": "2026-08-14T18:44:29.588420+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Four crew killed in Red Sea attack while missile strike reported in Gulf - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T17:46:31.610160+00:00"
+  "last_updated": "2026-08-11T18:44:29.588420+00:00"
 }

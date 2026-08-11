@@ -1,68 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T10:34:09.075705+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMPXCANCEL",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T10:34:34.555399+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "195b6465f7db",
-        "score": 82,
-        "category": "Tecnología y celebridades",
-        "title": "True",
-        "candidate_tickers": [
-          "TRUE",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T10:36:51.847798+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9677fea854c4",
-        "ticker": "ZOOMER",
-        "mint": "2DgktxmKE9jvNKipF1R7JBgsHv1FJJcys8VCTqYpksyJ",
-        "mc": 100598.0
-      }
-    },
-    {
-      "ts": "2026-07-15T10:36:58.041362+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "195b6465f7db",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 318348.0
-      }
-    },
-    {
-      "ts": "2026-07-15T12:08:55.310589+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "af8c5a0360ef",
-        "score": 80,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIEVSTRUMP",
-          "TRUMPENDORSESMASSIE",
-          "MASSIEGATE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T12:10:57.621962+00:00",
       "kind": "shadow",
       "payload": {
@@ -27807,6 +27745,84 @@
           "LuigiMangione",
           "LaurenBoebert",
           "ExplotacionSexualInfantil"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T18:42:12.266627+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "34fde0f79fef",
+        "score": 89,
+        "category": "salud",
+        "title": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine",
+        "candidate_tickers": [
+          "FAUCIGATE",
+          "VACCINEGATE",
+          "ABORTOSCOVID"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T18:42:30.937895+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "45f0c7036617",
+        "score": 82,
+        "category": "actualidad",
+        "title": "Russia frees ailing ex-US Marine Robert Gilman from detention - Reuters",
+        "candidate_tickers": [
+          "RUSIA",
+          "MARINO",
+          "DETENCIÓN",
+          "LIBERTAD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T18:43:07.831282+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "score": 74,
+        "category": "salud",
+        "title": "Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing - Reuters",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "EBOLA_CONGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T18:43:53.544537+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "548296f463f3",
+        "score": 78,
+        "category": "Política y Conflictos",
+        "title": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
+        "candidate_tickers": [
+          "USVSIRAN",
+          "BLOCKADEBREAKER",
+          "GULFOFOMAN",
+          "USFIRESONSHIP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T18:44:30.127387+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d238179628b9",
+        "score": 70,
+        "category": "noticias de conflicto",
+        "title": "Four crew killed in Red Sea attack while missile strike reported in Gulf - Reuters",
+        "candidate_tickers": [
+          "MARROJO",
+          "GOLFO",
+          "ATAQUEMISIL",
+          "TRIPULANTES"
         ]
       }
     }
