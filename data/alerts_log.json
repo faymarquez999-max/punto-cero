@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-15T08:38:27.253736+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "da4c96b909b2",
-        "score": 82,
-        "category": "política internacional",
-        "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
-        "candidate_tickers": [
-          "IRANVSUSA",
-          "BLOCKADE2024",
-          "TRUMPVSIRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T08:39:05.443261+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "economía",
-        "title": "Gold slips as oil rally keeps inflation, rate outlook on investors' radar - Reuters",
-        "candidate_tickers": [
-          "ORO",
-          "PETRÓLEO",
-          "INFLACIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T08:39:36.385368+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0f8ebc602dc1",
-        "score": 70,
-        "category": "Celebridad fallecida",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEILLSLASTROAR",
-          "JURASSICPAIN",
-          "THEPIANOPLAYERDIES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T10:32:24.919375+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política y celebridades",
-        "title": "Morning Bid: Big Blue's bad day raises the bar for ASML - Reuters",
-        "candidate_tickers": [
-          "MuskTrump",
-          "TrumpMusk",
-          "ElonTrump"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-15T10:32:55.560698+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "72d5d4be4cab",
-        "score": 89,
-        "category": "Celebridad",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEILL",
-          "JURASSICPARK",
-          "THEPIANO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-15T10:34:09.075705+00:00",
       "kind": "shadow",
       "payload": {
@@ -27807,6 +27734,79 @@
           "TSwift",
           "NashvilleSongwriters",
           "TaylorSwiftInductee"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T17:45:56.983383+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "48f57ade174e",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing muta",
+        "candidate_tickers": [
+          "TRUCKGATE",
+          "TRUMPTRUCK",
+          "IRANFEAR",
+          "CATERINGGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T17:46:11.345805+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.",
+        "candidate_tickers": [
+          "GROK",
+          "GROK4.5",
+          "GROK_AI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T17:46:32.104322+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "960fb188ffa4",
+        "score": 70,
+        "category": "desastres naturales",
+        "title": "You will be able to watch live sports in 4k or movies or games or productivity!",
+        "candidate_tickers": [
+          "COL",
+          "TERREMOTO",
+          "EMERGENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T17:48:37.205437+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Ciencia/Naturaleza",
+        "title": "Los lectores de Última Hora todavía pueden adquirir sus gafas homologadas para contemplar el eclipse con seguridad - ultimahora.es",
+        "candidate_tickers": [
+          "ECLIPSE",
+          "GAFAS",
+          "CIELO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T17:49:08.647848+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "crimen y justicia",
+        "title": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+        "candidate_tickers": [
+          "LuigiMangione",
+          "LaurenBoebert",
+          "ExplotacionSexualInfantil"
         ]
       }
     }

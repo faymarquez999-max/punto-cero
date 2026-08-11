@@ -1,99 +1,6 @@
 {
   "watches": [
     {
-      "id": "93c74be3f893",
-      "fingerprint": "93c74be3f893",
-      "narrative_summary": "Un nuevo true crime sobre un crimen impactante en España, emitido en Atresmedia.",
-      "why_memeable": "La narrativa tiene un título impactante y un tema de true crime que puede ser fácilmente compartido.",
-      "category": "true crime",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MAJE",
-        "PATRAIX",
-        "TRUECRIME"
-      ],
-      "key_terms_for_dex_search": [
-        "true crime",
-        "crimen impactante",
-        "Atresmedia",
-        "Maje",
-        "Patraix"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-06T14:58:24.397403+00:00",
-      "expires_at": "2026-08-09T14:58:24.397403+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-09T15:39:55.764958+00:00"
-    },
-    {
-      "id": "45bd8c96c397",
-      "fingerprint": "45bd8c96c397",
-      "narrative_summary": "Trump insulta a Abdulrahmanl El-Sayed, llamándolo 'lleno de mierda' y 'hombre del odio'.",
-      "why_memeable": "La frase de Trump es corta y fácil de recordar, y el contexto político es polarizante.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPVSEL-SAYED",
-        "EL-SAYED",
-        "TRUMP"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "EL-SAYED",
-        "DSATIED",
-        "HATE"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-06T14:59:45.193864+00:00",
-      "expires_at": "2026-08-08T14:59:45.193864+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "NOW - Trump on DSA-tied Abdulrahmanl El-Sayed: \"When I watch Abdul, he's full of shit.\"",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-08T15:51:13.693762+00:00"
-    },
-    {
       "id": "40166da8f230",
       "fingerprint": "40166da8f230",
       "narrative_summary": "Trump niega la escasez de armas en EE. UU. y dice que los 'filtradores' de información están siendo 'perseguidos'.",
@@ -11091,7 +10998,100 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "48f57ade174e",
+      "fingerprint": "48f57ade174e",
+      "narrative_summary": "Trump se escondió en un camión de catering por miedo a un atentado de Irán",
+      "why_memeable": "La combinación de Trump, un camión de catering y el miedo a un atentado crea un escenario absurdo y emocional",
+      "category": "Política y celebridades",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "TRUCKGATE",
+        "TRUMPTRUCK",
+        "IRANFEAR",
+        "CATERINGGATE"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "camión de catering",
+        "Irán",
+        "atentado"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 6,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-11T17:45:56.531304+00:00",
+      "expires_at": "2026-08-14T17:45:56.531304+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.”",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "960fb188ffa4",
+      "fingerprint": "960fb188ffa4",
+      "narrative_summary": "Un terremoto de magnitud 7.4 en Colombia mata al menos 111 personas y deja un estado de emergencia declarado.",
+      "why_memeable": "La frase 'You will be able to watch live sports in 4k or movies or games or productivity!' es memeable porque es una afirmación absurda y contradictoria con la situación actual de Colombia.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "COL",
+        "TERREMOTO",
+        "EMERGENCIA"
+      ],
+      "key_terms_for_dex_search": [
+        "COL",
+        "TERREMOTO",
+        "EMERGENCIA"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T17:46:31.610160+00:00",
+      "expires_at": "2026-08-13T17:46:31.610160+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "You will be able to watch live sports in 4k or movies or games or productivity!",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T15:46:47.279996+00:00"
+  "last_updated": "2026-08-11T17:46:31.610160+00:00"
 }
