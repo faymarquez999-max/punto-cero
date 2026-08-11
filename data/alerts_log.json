@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-14T06:06:08.059802+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fec28eec3ad7",
-        "ticker": "Trump Coin",
-        "mint": "G9VVud86SLgb7SnTqRKXJVUkzwLzCf4R89vknWVKbonk",
-        "mc": 101688.0
-      }
-    },
-    {
-      "ts": "2026-07-14T08:26:41.339930+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b5653282f9ed",
-        "score": 80,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMPMASSIE",
-          "BADCONGRESS",
-          "TRUMPFEUD",
-          "MASSIEGATE",
-          "TRUMPLEAK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T08:29:37.879359+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fa4130071761",
-        "score": 90,
-        "category": "política",
-        "title": "China Expels Former Politburo Member Over Graft and Sex Charges - Bloomberg.com",
-        "candidate_tickers": [
-          "CHINACORRUPCIÓN",
-          "POLITBUROEXPULSADO",
-          "GRAFTGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T08:31:01.423251+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0019d9c0642e",
-        "score": 80,
-        "category": "asesinato, política, investigación",
-        "title": "The Papers:  'New twist in killer hunt' and 'One of a kind Ann'",
-        "candidate_tickers": [
-          "ANNWIDDECOMBE",
-          "KILLERHUNT",
-          "BRITISHBACKPACKER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T10:23:53.675382+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1c76d39e6f69",
-        "score": 90,
-        "category": "política",
-        "title": "Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times",
-        "candidate_tickers": [
-          "JONVSMITCH",
-          "STEWARTVSMCCONNELL",
-          "MOCKINGMCCONNELL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-14T10:24:30.351062+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2c33f05742a3",
-        "score": 89,
-        "category": "Muerte de un actor famoso",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAM_NEIL",
-          "JURASSIC_PARK",
-          "NEILL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-14T10:25:34.923862+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27834,6 +27747,92 @@
         "candidate_tickers": [
           "GROK",
           "FTW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:00:37.629834+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "TRUMPvsMUSK",
+          "MUSKvsTRUMP",
+          "TRUMPvsELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:00:52.273561+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "incidentes naturales",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "BIGSURFIRE",
+          "FINANCIALINDEPENDENCE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:01:31.682306+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5614287a0f1a",
+        "score": 70,
+        "category": "política",
+        "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+        "candidate_tickers": [
+          "PKK",
+          "TURQUÍA",
+          "AMNISTÍA",
+          "PKK_AMNISTÍA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:02:44.263367+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Deportes",
+        "title": "GB's Amy Hunt wins European 100m gold",
+        "candidate_tickers": [
+          "Hunt100m",
+          "GBGold",
+          "AmyHuntWins"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:03:20.450742+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a85de81c7e00",
+        "score": 80,
+        "category": "Política y controversia",
+        "title": "💯",
+        "candidate_tickers": [
+          "HITLER",
+          "SOCIALIST",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-11T08:04:32.777456+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8c4085b91dd6",
+        "score": 85,
+        "category": "Tecnología y Política",
+        "title": "True",
+        "candidate_tickers": [
+          "TRUE",
+          "ELONMUSK"
         ]
       }
     }

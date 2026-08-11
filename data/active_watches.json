@@ -1,176 +1,6 @@
 {
   "watches": [
     {
-      "id": "11cbfb51b9c3",
-      "fingerprint": "11cbfb51b9c3",
-      "narrative_summary": "EE.UU. acusa a cinco líderes del cartel CJNG de México",
-      "why_memeable": "La narrativa tiene un título claro y una imagen icónica, y se centra en un evento importante y controvertido.",
-      "category": "Noticias de crimen organizado",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CJNG",
-        "CARTEL",
-        "EE.UU.",
-        "JUSTICIA"
-      ],
-      "key_terms_for_dex_search": [
-        "CJNG",
-        "Cartel",
-        "EE.UU.",
-        "Justicia",
-        "Crimen organizado"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T20:15:31.767190+00:00",
-      "expires_at": "2026-08-07T20:15:31.767190+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "US unveils charges against five leaders of Mexico's CJNG cartel - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T21:58:58.111264+00:00"
-    },
-    {
-      "id": "509fc5990f5d",
-      "fingerprint": "509fc5990f5d",
-      "narrative_summary": "Nuevo México demanda al gobierno de EE. UU. por acceso a los archivos de Epstein.",
-      "why_memeable": "La demanda de Nuevo México por acceso a los archivos de Epstein es un tema que puede ser capturado en una frase corta y compartida fácilmente.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EPSTEINFILES",
-        "NUEVOMEXICOVSEEUU",
-        "DEMANDAPORACCESO"
-      ],
-      "key_terms_for_dex_search": [
-        "Nuevo México",
-        "Epstein",
-        "gobierno de EE. UU.",
-        "demandas",
-        "archivos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T20:17:20.464238+00:00",
-      "expires_at": "2026-08-07T20:17:20.464238+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "New Mexico sues US government for access to Epstein files - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T21:58:58.111265+00:00"
-    },
-    {
-      "id": "59cfe7e72b96",
-      "fingerprint": "59cfe7e72b96",
-      "narrative_summary": "Ucrania advierte que la escasez de interceptores está costando vidas después de un ataque mortal en Kiev.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y daño, lo que la hace fácilmente compartible y recordable.",
-      "category": "Guerra y conflictos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "UKRAINE",
-        "KIEV",
-        "PATRIOT",
-        "INTERCEPTORS"
-      ],
-      "key_terms_for_dex_search": [
-        "Ucrania",
-        "Kiev",
-        "Patriot",
-        "Interceptors",
-        "Guerra",
-        "Conflictos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 5,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-08-05T20:17:52.564550+00:00",
-      "expires_at": "2026-08-08T20:17:52.564550+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "JORDAN",
-        "name": "The Fearless Patriot",
-        "mint": "8TLxeYnnWpMFiC9npbh7XzyHpLtTYmw6DCuHBJjppump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 54425.0,
-        "liquidity_usd": 21927.63,
-        "price_usd": 5.614e-05,
-        "volume_h24": 88799.2,
-        "volume_h1": 3051.47,
-        "volume_m5": 42.06,
-        "price_change_5m": -0.06,
-        "price_change_1h": -0.19,
-        "price_change_24h": -3.71,
-        "txns_h1_buys": 30,
-        "txns_h1_sells": 73,
-        "created_ts": 1785633480000,
-        "pair_created_at": 1785633480000,
-        "url": "https://dexscreener.com/solana/5xstd6cxw2bwgu3wfvcmgzrhrssbbtqhxgn7iq5gwugs",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: PATRIOT in THE FEARLESS PATRIOT",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-06T07:34:24.431684+00:00"
-    },
-    {
       "id": "687b1d3cea5e",
       "fingerprint": "687b1d3cea5e",
       "narrative_summary": "Olympic canoísta acusada por Pirro busca hundir permanentemente el caso del estanque reflectante.",
@@ -4131,14 +3961,15 @@
       "started_at": "2026-08-08T07:11:57.653285+00:00",
       "expires_at": "2026-08-11T07:11:57.653285+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-11T07:59:50.966258+00:00"
     },
     {
       "id": "721c2d72962d",
@@ -4177,14 +4008,15 @@
       "started_at": "2026-08-08T07:12:11.032016+00:00",
       "expires_at": "2026-08-11T07:12:11.032016+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Child among three killed in Russian missile attacks near Kyiv",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-11T07:59:50.966271+00:00"
     },
     {
       "id": "535a608e00f8",
@@ -5997,14 +5829,15 @@
       "started_at": "2026-08-09T07:24:04.699769+00:00",
       "expires_at": "2026-08-11T07:24:04.699769+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 3,
+      "expired_at": "2026-08-11T07:59:50.966277+00:00"
     },
     {
       "id": "c7eb098e9491",
@@ -11061,7 +10894,138 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "5614287a0f1a",
+      "fingerprint": "5614287a0f1a",
+      "narrative_summary": "Turquía aprueba ley que da a miles de miembros del PKK la oportunidad de obtener amnistía",
+      "why_memeable": "La narrativa tiene un claro núcleo de emoción y resonancia cultural, con un claro mensaje de oportunidad y redención",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PKK",
+        "TURQUÍA",
+        "AMNISTÍA",
+        "PKK_AMNISTÍA"
+      ],
+      "key_terms_for_dex_search": [
+        "PKK",
+        "amnistía",
+        "Turquía",
+        "política"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T08:01:31.231420+00:00",
+      "expires_at": "2026-08-13T08:01:31.231420+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "a85de81c7e00",
+      "fingerprint": "a85de81c7e00",
+      "narrative_summary": "Elon Musk compara a los socialistas con Hitler, generando un gran impacto en las redes sociales.",
+      "why_memeable": "La frase 'Socialists are Hitler' es corta, fácil de recordar y genera una fuerte reacción emocional.",
+      "category": "Política y controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HITLER",
+        "SOCIALIST",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "socialistas",
+        "hitler"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 9,
+        "polarizing": 10,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T08:03:19.980172+00:00",
+      "expires_at": "2026-08-13T08:03:19.980172+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "💯",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8c4085b91dd6",
+      "fingerprint": "8c4085b91dd6",
+      "narrative_summary": "Elon Musk confirma 'True' en una publicación en Twitter",
+      "why_memeable": "La simplicidad y la claridad de la publicación de Elon Musk hacen que sea fácilmente memeable.",
+      "category": "Tecnología y Política",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TRUE",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "true",
+        "twitter"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": "4-24",
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-11T08:04:32.360455+00:00",
+      "expires_at": "2026-08-13T08:04:32.360455+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "True",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T06:45:32.967185+00:00"
+  "last_updated": "2026-08-11T08:04:32.360455+00:00"
 }
