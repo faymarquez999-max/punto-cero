@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "687b1d3cea5e",
-      "fingerprint": "687b1d3cea5e",
-      "narrative_summary": "Olympic canoísta acusada por Pirro busca hundir permanentemente el caso del estanque reflectante.",
-      "why_memeable": "La narrativa tiene un núcleo claro y una imagen icónica (Pirro y el estanque reflectante) que puede ser capturada en una frase corta.",
-      "category": "Deportes/Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PIRROSINKS",
-        "ESTANQUEREFLECTANTE",
-        "CANOÍSTAOLYMPICA"
-      ],
-      "key_terms_for_dex_search": [
-        "Pirro",
-        "canoísta",
-        "estanque reflectante",
-        "caso"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-05T20:18:51.224740+00:00",
-      "expires_at": "2026-08-07T20:18:51.224740+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Olympic canoeist charged by Pirro seeks to permanently sink Reflecting Pool case - NBC News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-07T21:58:58.111267+00:00"
-    },
-    {
       "id": "1792e0271e56",
       "fingerprint": "1792e0271e56",
       "narrative_summary": "True crime sobre el impactante crimen de Patraix",
@@ -11025,7 +10979,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "149f1f27f528",
+      "fingerprint": "149f1f27f528",
+      "narrative_summary": "Trump se esconde en un camión de catering en un intercambio de aviones secreto debido a la amenaza iraní",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y un personaje público en un estado inusual, lo que la hace fácil de compartir y recordar",
+      "category": "política",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "TRUMP_CAMION",
+        "CAMION_DE_CATERING",
+        "TRUMP_IRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "CAMION_DE_CATERING",
+        "IRAN",
+        "AMENAZA"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-11T09:12:24.792140+00:00",
+      "expires_at": "2026-08-13T09:12:24.792140+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-11T08:04:32.360455+00:00"
+  "last_updated": "2026-08-11T09:12:24.792140+00:00"
 }
