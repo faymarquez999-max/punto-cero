@@ -1,77 +1,6 @@
 {
   "watches": [
     {
-      "id": "6b120658076a",
-      "fingerprint": "6b120658076a",
-      "narrative_summary": "Elon Musk anuncia que Terafab será 50 veces más grande que el Pentágono cuando esté completo.",
-      "why_memeable": "La frase es corta y fácil de recordar, y el número '50 veces' es un factor de impacto.",
-      "category": "Tecnología",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "TERAFAB",
-        "PENTAGON",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "TERAFAB",
-        "PENTAGON",
-        "ELONMUSK",
-        "Tecnología"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T17:15:10.399562+00:00",
-      "expires_at": "2026-08-10T17:15:10.399562+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 77716.0,
-        "liquidity_usd": 31599.28,
-        "price_usd": 7.773e-05,
-        "volume_h24": 63367.6,
-        "volume_h1": 602.97,
-        "volume_m5": 146.39,
-        "price_change_5m": -1.09,
-        "price_change_1h": -3.48,
-        "price_change_24h": -30.67,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 12,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab will be 50 times the size of the Pentagon when complete",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-08T13:07:40.575154+00:00"
-    },
-    {
       "id": "f30d002ff771",
       "fingerprint": "f30d002ff771",
       "narrative_summary": "Elon Musk compara una banana con la escala del Terafab, lo que la hace parecer una fluctuación cuántica.",
@@ -5941,14 +5870,15 @@
       "started_at": "2026-08-10T09:42:48.599380+00:00",
       "expires_at": "2026-08-12T09:42:48.599380+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-12T10:38:34.419517+00:00"
     },
     {
       "id": "da12f84f083d",
@@ -5986,14 +5916,15 @@
       "started_at": "2026-08-10T09:44:09.040601+00:00",
       "expires_at": "2026-08-12T09:44:09.040601+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Gunman fires inside Thai government office as country reels from school shooting - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-12T10:38:34.419533+00:00"
     },
     {
       "id": "64313cb69480",
@@ -11124,7 +11055,53 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "194c7478dac8",
+      "fingerprint": "194c7478dac8",
+      "narrative_summary": "Muere el cantante de Village People Victor Willis, a los 74 años, un día antes de cumplir 75.",
+      "why_memeable": "La muerte del cantante de Village People es un evento impactante y puede generar un meme sobre la vida y la muerte.",
+      "category": "Muerte de un famoso",
+      "matched_archetype": "public_figure_in_unusual_state",
+      "candidate_tickers": [
+        "VILLAGEPEOPLE",
+        "VICTORWILLIS",
+        "MUERTEFAMOSO"
+      ],
+      "key_terms_for_dex_search": [
+        "VillagePeople",
+        "VictorWillis",
+        "MuerteFamoso",
+        "75thBirthday"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 6
+      },
+      "started_at": "2026-08-12T10:38:48.931326+00:00",
+      "expires_at": "2026-08-14T10:38:48.931326+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More than 100 passengers rescued after Indonesia ferry fire",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T09:19:38.717012+00:00"
+  "last_updated": "2026-08-12T10:38:48.931326+00:00"
 }

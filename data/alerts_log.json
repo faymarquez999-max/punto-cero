@@ -1,56 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T15:18:35.871426+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b1c2aa38bd7f",
-        "score": 88,
-        "category": "política",
-        "title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "UCRANIA",
-          "PROTESTAS",
-          "MINISTRO DE DEFENSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T15:21:25.212337+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e611a5fdacf0",
-        "score": 91,
-        "category": "Política y conspiración",
-        "title": "Epstein linked to Israeli ‘deep state’, US intel, says Vance: What we know",
-        "candidate_tickers": [
-          "EPSTEIN",
-          "VANCE",
-          "ISRAEL",
-          "ESTADOS UNIDOS",
-          "DEEP STATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T15:22:01.036337+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9f0ef714a6da",
-        "score": 89,
-        "category": "política",
-        "title": "Zelenskiy's dismissal of Ukraine's defence chief triggers political crisis and protests - Reuters",
-        "candidate_tickers": [
-          "ZELENSKIY",
-          "UCRANIA",
-          "CRISIS POLÍTICA",
-          "PROTESTAS",
-          "JEFE DE DEFENSA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T16:47:37.098760+00:00",
       "kind": "shadow",
       "payload": {
@@ -27795,6 +27745,50 @@
         "ticker": "Ebola",
         "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
         "mc": 94318.0
+      }
+    },
+    {
+      "ts": "2026-08-12T10:38:49.343019+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "194c7478dac8",
+        "score": 70,
+        "category": "Muerte de un famoso",
+        "title": "More than 100 passengers rescued after Indonesia ferry fire",
+        "candidate_tickers": [
+          "VILLAGEPEOPLE",
+          "VICTORWILLIS",
+          "MUERTEFAMOSO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T10:41:09.015813+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Noticias internacionales",
+        "title": "Two grain terminals at Russia's Novorossiysk halt work after Ukrainian attack, sources say - Reuters",
+        "candidate_tickers": [
+          "Novorossiysk",
+          "grano",
+          "Rusia",
+          "Ucrania",
+          "ataque"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T10:42:23.206352+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Grok Build is extremely powerful",
+        "candidate_tickers": [
+          "GROK",
+          "GROK_BUILD"
+        ]
       }
     }
   ]
