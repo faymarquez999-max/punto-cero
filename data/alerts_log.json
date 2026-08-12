@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T16:47:37.098760+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "Noticias de animalitos",
-        "title": "IRAN'S FARS NEWS REPORTS U.S. MISSILES STRUCK SITES NEAR BANDAR ABBAS.",
-        "candidate_tickers": [
-          "PerrosMuertos",
-          "RefugioAnimal",
-          "California"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T16:48:59.701108+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a875ed8a4b42",
-        "score": 91,
-        "category": "Política",
-        "title": "Protests in Ukrainian cities against Zelensky's removal of popular defence minister",
-        "candidate_tickers": [
-          "FEDOROV",
-          "ZELENSKY",
-          "UCRANIA",
-          "PROTESTAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T16:51:19.286844+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "negocios",
-        "title": "Uber Agrees to Buy Delivery Hero in $14.8 Billion Deal - Bloomberg.com",
-        "candidate_tickers": [
-          "UberBuy",
-          "DeliveryHero",
-          "Glovo"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T16:52:21.237904+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "With midterms on deck, Trump to deliver primetime speech on election security - Reuters",
-        "candidate_tickers": [
-          "TRUMP_CONSPIRACY",
-          "ELECTION_SECURITY",
-          "MIDTERMS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T16:52:42.872736+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27789,6 +27731,54 @@
           "GROK",
           "GROK_BUILD"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-12T11:35:06.073934+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "tech",
+        "title": "Grok Bot",
+        "candidate_tickers": [
+          "GROK",
+          "GROKBOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T11:36:23.951423+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e6cb40eed6dd",
+        "score": 73,
+        "category": "Deportes",
+        "title": "Cabeceó a un rival, quedó con una impactante secuela en su rostro y es duda para jugar el clásico de La Plata - Infobae",
+        "candidate_tickers": [
+          "CABECEO",
+          "SECUELA",
+          "CLÁSICODELAPLATA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T11:39:38.226914+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7b3b557cb1a3",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 82878.0
+      }
+    },
+    {
+      "ts": "2026-08-12T11:39:59.496116+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5938a75bb782",
+        "ticker": "TSLAx",
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "mc": 334081.0
       }
     }
   ]

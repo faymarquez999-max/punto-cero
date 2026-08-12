@@ -1,77 +1,6 @@
 {
   "watches": [
     {
-      "id": "f30d002ff771",
-      "fingerprint": "f30d002ff771",
-      "narrative_summary": "Elon Musk compara una banana con la escala del Terafab, lo que la hace parecer una fluctuación cuántica.",
-      "why_memeable": "La frase es corta y fácil de recordar, y la comparación entre la banana y la escala del Terafab es absurda y atractiva.",
-      "category": "ciencia, tecnología y absurdo",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "BANANA",
-        "TERAFAB",
-        "FLUCTUACIÓN CUÁNTICA"
-      ],
-      "key_terms_for_dex_search": [
-        "banana",
-        "terafab",
-        "fluctuación cuántica",
-        "elon musk"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 2,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 8,
-        "polarizing": 2,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-07T17:16:41.670277+00:00",
-      "expires_at": "2026-08-09T17:16:41.670277+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 77716.0,
-        "liquidity_usd": 31599.28,
-        "price_usd": 7.773e-05,
-        "volume_h24": 63367.6,
-        "volume_h1": 602.97,
-        "volume_m5": 146.39,
-        "price_change_5m": -1.09,
-        "price_change_1h": -3.48,
-        "price_change_24h": -30.67,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 12,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-08T13:07:43.069484+00:00"
-    },
-    {
       "id": "e3c298516f1b",
       "fingerprint": "e3c298516f1b",
       "narrative_summary": "Activista de Title IX Payton McNabb defiende a Sophie Cunningham y reacciona a Caitlin Clark en un artículo exclusivo de Fox News.",
@@ -11101,7 +11030,51 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e6cb40eed6dd",
+      "fingerprint": "e6cb40eed6dd",
+      "narrative_summary": "Un jugador cabeceó a un rival y quedó con una impactante secuela en su rostro, lo que genera dudas sobre si podrá jugar el clásico de La Plata.",
+      "why_memeable": "La narrativa tiene un elemento de sorpresa y violencia, lo que la hace fácilmente compartible y recordable.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CABECEO",
+        "SECUELA",
+        "CLÁSICODELAPLATA"
+      ],
+      "key_terms_for_dex_search": [
+        "cabeceo",
+        "secuela",
+        "clásico",
+        "La Plata"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T11:36:23.368468+00:00",
+      "expires_at": "2026-08-14T11:36:23.368468+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Cabeceó a un rival, quedó con una impactante secuela en su rostro y es duda para jugar el clásico de La Plata - Infobae",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T10:38:48.931326+00:00"
+  "last_updated": "2026-08-12T11:36:23.368468+00:00"
 }
