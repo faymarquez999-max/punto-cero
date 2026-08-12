@@ -1,55 +1,6 @@
 {
   "watches": [
     {
-      "id": "02588a434938",
-      "fingerprint": "02588a434938",
-      "narrative_summary": "Fallece el productor musical William Orbit a los 69 años, conocido por su trabajo con Madonna, Blur y otros artistas.",
-      "why_memeable": "La muerte de un famoso productor musical puede generar un impacto emocional y un interés generalizado, especialmente si ha trabajado con artistas influyentes como Madonna.",
-      "category": "música",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "WILLIAMORBIT",
-        "RAYOFLIGHT",
-        "MADONNAORBIT",
-        "MUSICALGENIUS"
-      ],
-      "key_terms_for_dex_search": [
-        "William Orbit",
-        "Madonna",
-        "Blur",
-        "Ray of Light",
-        "muerte",
-        "productor musical"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T17:13:58.914176+00:00",
-      "expires_at": "2026-08-10T17:13:58.914176+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Madonna and Blur producer William Orbit dies aged 69",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-10T17:40:24.723379+00:00"
-    },
-    {
       "id": "7326ffe3e2ca",
       "fingerprint": "7326ffe3e2ca",
       "narrative_summary": "Un estudiante de 14 años abre fuego en su hogar y escuela en Tailandia, matando a siete personas.",
@@ -3174,14 +3125,15 @@
       "started_at": "2026-08-09T07:22:40.177053+00:00",
       "expires_at": "2026-08-12T07:22:40.177053+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israel announces tender for 627 settler units in occupied West Bank",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-12T07:48:02.985915+00:00"
     },
     {
       "id": "65ac03a33e23",
@@ -8631,13 +8583,14 @@
       "started_at": "2026-08-11T06:43:52.270445+00:00",
       "expires_at": "2026-08-12T06:43:52.270445+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "💯",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-12T07:48:02.985938+00:00"
     },
     {
       "id": "a2d9a803ec5b",
@@ -8785,13 +8738,14 @@
       "started_at": "2026-08-11T06:45:32.967185+00:00",
       "expires_at": "2026-08-12T06:45:32.967185+00:00",
       "duration_hours": 24,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Grok ftw",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-12T07:48:02.985941+00:00"
     },
     {
       "id": "5614287a0f1a",
@@ -11119,7 +11073,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "351ca6ac9723",
+      "fingerprint": "351ca6ac9723",
+      "narrative_summary": "Trump anuncia que su avión enfrentó 'mayor riesgo' en cambio de vuelo secreto",
+      "why_memeable": "La narrativa tiene un núcleo claro, el cambio de vuelo secreto de Trump, y es fácil de compartir.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPSWAP",
+        "VUELOSECRETO",
+        "TRUMPRIESGO"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "vuelo secreto",
+        "riesgo",
+        "política"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T07:49:29.085852+00:00",
+      "expires_at": "2026-08-15T07:49:29.085852+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T06:02:17.553655+00:00"
+  "last_updated": "2026-08-12T07:49:29.085852+00:00"
 }
