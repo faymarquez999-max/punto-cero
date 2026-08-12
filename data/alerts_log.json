@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T17:25:52.222405+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "California Dems seethe over Trump’s voter roll attack - Politico",
-        "candidate_tickers": [
-          "CALIFORNIA",
-          "TRUMP",
-          "VOTERROLL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T17:27:56.946803+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4eaacbdd2b24",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 34387.0
-      }
-    },
-    {
-      "ts": "2026-07-17T18:41:12.201670+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "As promised",
-        "candidate_tickers": [
-          "XCancel",
-          "XCancelE",
-          "XC"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T18:43:18.293534+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4eaacbdd2b24",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 31515.0
-      }
-    },
-    {
-      "ts": "2026-07-17T18:43:26.662685+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "66f8c9ce54db",
-        "ticker": "NVDAx",
-        "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-        "mc": 203158.0
-      }
-    },
-    {
       "ts": "2026-07-17T18:43:29.951056+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27736,6 +27678,78 @@
           "TRUMPDECEPCION",
           "AVIÓNDEENGAÑO",
           "GABINETEDETRUMP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T21:56:01.573349+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "Grok 4.6 is now out 🚀🚀🚀",
+        "candidate_tickers": [
+          "GROK4",
+          "GROK",
+          "GROK4.6"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T21:56:31.981171+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Incendios forestales",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "BIGFIRE",
+          "BIGSUR",
+          "FIRE3000"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T21:56:48.058743+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "54ab9e9d4c28",
+        "score": 89,
+        "category": "Deportes",
+        "title": "Weird files: Arkansas HS athlete practiced with cottonmouth snake nestled inside his helmet - Civic Media",
+        "candidate_tickers": [
+          "CULEBRAENELCASCO",
+          "FÚTBOLAMERICANOCULEBRA",
+          "CASCOCULEBRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T21:57:21.169922+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "48f6b0417bb9",
+        "score": 76,
+        "category": "política",
+        "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "COLONOS",
+          "PALESTINOS",
+          "CUENCA OCCIDENTAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T21:57:49.488266+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Tesla FSD FTW",
+        "candidate_tickers": [
+          "TESLAFTW",
+          "FSDFTW"
         ]
       }
     }

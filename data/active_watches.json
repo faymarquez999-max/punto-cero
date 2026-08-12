@@ -1,101 +1,6 @@
 {
   "watches": [
     {
-      "id": "d9a180dfdaf9",
-      "fingerprint": "d9a180dfdaf9",
-      "narrative_summary": "US Senate aprueba sanciones a Rusia, incluyendo un 100% de aranceles a importadores de petróleo y gas",
-      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable: '100% de aranceles a importadores de petróleo y gas'",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSSIA_SANCTIONS",
-        "SANCTIONS_RUSSIA",
-        "US_RUSSIA_RELATIONS"
-      ],
-      "key_terms_for_dex_search": [
-        "sanciones",
-        "Rusia",
-        "US",
-        "petróleo",
-        "gas"
-      ],
-      "score": 76,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 3,
-        "simplicity": 7,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T07:10:03.316030+00:00",
-      "expires_at": "2026-08-10T07:10:03.316030+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "/OGG/",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T07:55:02.736509+00:00"
-    },
-    {
-      "id": "ee799644d4b2",
-      "fingerprint": "ee799644d4b2",
-      "narrative_summary": "Un racón llamado Jimothy se convierte en viral después de que su token de Solana sube un 186% debido a su fama en línea.",
-      "why_memeable": "La narrativa tiene un elemento de sorpresa y éxito inesperado, lo que la hace fácilmente compartible y recordable.",
-      "category": "memecoin",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "JIMOTHY",
-        "SOLANA",
-        "MEMECOIN"
-      ],
-      "key_terms_for_dex_search": [
-        "JIMOTHY",
-        "SOLANA",
-        "MEMECOIN",
-        "TOKEN",
-        "VIRAL"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-08-08T07:11:23.281627+00:00",
-      "expires_at": "2026-08-10T07:11:23.281627+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "/XSG/ XRP Schizo General #2554",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T07:55:02.736524+00:00"
-    },
-    {
       "id": "359ae9f051ee",
       "fingerprint": "359ae9f051ee",
       "narrative_summary": "Brandon Clarke, NBA estrella, murió por efectos de heroína y cocaína, según el examinador",
@@ -11071,7 +10976,99 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "54ab9e9d4c28",
+      "fingerprint": "54ab9e9d4c28",
+      "narrative_summary": "Un jugador de fútbol americano de secundaria en Arkansas practicó con una culebra venenosa dentro de su casco.",
+      "why_memeable": "La combinación de un animal extraño y un contexto inesperado hace que sea fácilmente compartible y recordable.",
+      "category": "Deportes",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "CULEBRAENELCASCO",
+        "FÚTBOLAMERICANOCULEBRA",
+        "CASCOCULEBRA"
+      ],
+      "key_terms_for_dex_search": [
+        "fútbol americano",
+        "culebra",
+        "casco",
+        "Arkansas"
+      ],
+      "score": 89,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T21:56:47.498954+00:00",
+      "expires_at": "2026-08-14T21:56:47.498954+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Weird files: Arkansas HS athlete practiced with cottonmouth snake nestled inside his helmet - Civic Media",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "48f6b0417bb9",
+      "fingerprint": "48f6b0417bb9",
+      "narrative_summary": "Israeli troops enfrentan a los colonos que están asediando casas palestinas en la Cuenca Occidental.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una frase memeable como 'asediando casas palestinas'.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "COLONOS",
+        "PALESTINOS",
+        "CUENCA OCCIDENTAL"
+      ],
+      "key_terms_for_dex_search": [
+        "ISRAEL",
+        "COLONOS",
+        "PALESTINOS",
+        "CUENCA OCCIDENTAL",
+        "ASEDIANDO CASAS"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T21:57:20.668836+00:00",
+      "expires_at": "2026-08-15T21:57:20.668836+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T20:58:30.352147+00:00"
+  "last_updated": "2026-08-12T21:57:20.668836+00:00"
 }
