@@ -1,173 +1,6 @@
 {
   "watches": [
     {
-      "id": "fb17c72476a1",
-      "fingerprint": "fb17c72476a1",
-      "narrative_summary": "Saudi Arabia, Turkey y Pakistán se unen para defenderse mutuamente en medio de la inestabilidad en Medio Oriente",
-      "why_memeable": "La unión de tres países importantes en medio de la inestabilidad crea un escenario interesante y fácil de compartir",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "SAUDI",
-        "TURKEY",
-        "PAKISTAN",
-        "MEDIOORIENTE"
-      ],
-      "key_terms_for_dex_search": [
-        "SAUDI",
-        "TURKEY",
-        "PAKISTAN",
-        "MEDIOORIENTE",
-        "INESTABILIDAD"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T13:57:24.452847+00:00",
-      "expires_at": "2026-08-10T13:57:24.452847+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-10T14:40:37.017634+00:00"
-    },
-    {
-      "id": "4f5525025662",
-      "fingerprint": "4f5525025662",
-      "narrative_summary": "Elon Musk compara una banana con una fluctuación cuántica en relación con la Terafab.",
-      "why_memeable": "La comparación absurda y la falta de contexto hacen que sea fácilmente compartible y recordable.",
-      "category": "ciencia/física",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "BANANA",
-        "TERAFAB",
-        "QUANTUMFLUCTUATION"
-      ],
-      "key_terms_for_dex_search": [
-        "ElonMusk",
-        "Banana",
-        "Terafab",
-        "QuantumFluctuation"
-      ],
-      "score": 87,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 2,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-07T13:58:23.008768+00:00",
-      "expires_at": "2026-08-09T13:58:23.008768+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 77996.0,
-        "liquidity_usd": 31658.56,
-        "price_usd": 7.801e-05,
-        "volume_h24": 63235.24,
-        "volume_h1": 459.16,
-        "volume_m5": 99.11,
-        "price_change_5m": -0.16,
-        "price_change_1h": -3.13,
-        "price_change_24h": -29.33,
-        "txns_h1_buys": 6,
-        "txns_h1_sells": 8,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-08T13:07:33.001335+00:00"
-    },
-    {
-      "id": "c957db931b45",
-      "fingerprint": "c957db931b45",
-      "narrative_summary": "Donald Trump no puede construir su balcón de $400M en la Casa Blanca sin la aprobación del Congreso, ha decidido un tribunal de apelaciones.",
-      "why_memeable": "La narrativa tiene un componente de conflicto entre Trump y el Congreso, lo que la hace fácilmente compartible y recordable.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPNOPUEDE",
-        "BALCÓNDETRUMP",
-        "CONGRESONOPUEDE"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Congreso",
-        "Balcón",
-        "CasaBlanca",
-        "Política"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-07T17:13:30.292643+00:00",
-      "expires_at": "2026-08-09T17:13:30.292643+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Donald Trump cannot build his $400M White House ballroom without approval from Congress, an appeals court has ruled.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-09T18:17:02.533332+00:00"
-    },
-    {
       "id": "02588a434938",
       "fingerprint": "02588a434938",
       "narrative_summary": "Fallece el productor musical William Orbit a los 69 años, conocido por su trabajo con Madonna, Blur y otros artistas.",
@@ -3348,7 +3181,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "65ac03a33e23",
@@ -3443,7 +3276,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "b2cfe910de9b",
@@ -3489,7 +3322,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "f64ca941b080",
@@ -4055,7 +3888,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "31df5345a11f",
@@ -4391,7 +4224,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "b65f1b95aed1",
@@ -4819,7 +4652,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "2ae151883ea0",
@@ -5922,7 +5755,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "a566a809993c",
@@ -6044,7 +5877,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "6bfdac171e2c",
@@ -6161,7 +5994,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5342322d0db9",
@@ -6206,7 +6039,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "da12f84f083d",
@@ -6251,7 +6084,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "64313cb69480",
@@ -6755,7 +6588,7 @@
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7010dca5a1b5",
@@ -6805,7 +6638,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8c97b38726f2",
@@ -6920,7 +6753,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "fd87c62a017e",
@@ -6964,7 +6797,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "794b495eb695",
@@ -7008,7 +6841,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4e6acae66b6c",
@@ -7054,7 +6887,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "cedf7d69da0f",
@@ -7341,7 +7174,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "141aaa72a78a",
@@ -7461,7 +7294,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8dffcad0eb46",
@@ -7576,7 +7409,7 @@
         "4chan",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4a882bea9a75",
@@ -7878,7 +7711,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7b3b557cb1a3",
@@ -7925,7 +7758,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8730af826dfa",
@@ -7975,7 +7808,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4adde1ead766",
@@ -8092,7 +7925,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "cc551846df49",
@@ -8138,7 +7971,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "9f886d298857",
@@ -8351,7 +8184,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d0d34c5aa95f",
@@ -8468,7 +8301,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "7c9710960c27",
@@ -8583,7 +8416,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e34ce890febe",
@@ -8625,7 +8458,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "76d263b324a0",
@@ -8667,7 +8500,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a9085564dc56",
@@ -8716,7 +8549,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a3f46eaee76c",
@@ -8761,7 +8594,7 @@
         "4chan",
         "breaking_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "204e58c4efe2",
@@ -8804,7 +8637,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a2d9a803ec5b",
@@ -8846,7 +8679,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "0415bb3987f9",
@@ -8958,7 +8791,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5614287a0f1a",
@@ -9004,7 +8837,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "a85de81c7e00",
@@ -9047,7 +8880,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8c4085b91dd6",
@@ -9089,7 +8922,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "149f1f27f528",
@@ -9134,7 +8967,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6ff249f51a4c",
@@ -9179,7 +9012,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d64dc76ea13c",
@@ -9227,7 +9060,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5938a75bb782",
@@ -9272,7 +9105,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "914781b5339b",
@@ -9317,7 +9150,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "71df7f60dac3",
@@ -9361,7 +9194,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "db34948cfddc",
@@ -9404,7 +9237,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "c1679299b022",
@@ -9450,7 +9283,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "6b55a37b0c90",
@@ -9494,7 +9327,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "d4c497cf52a3",
@@ -9538,7 +9371,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1c38b584a50b",
@@ -9583,7 +9416,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "022fab97316b",
@@ -9633,7 +9466,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "02ad5a92dbdd",
@@ -11152,7 +10985,141 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "920b4d2d3160",
+      "fingerprint": "920b4d2d3160",
+      "narrative_summary": "Trump y Musk están en una pelea, con Trump diciendo que 'mirará' la deportación de Musk y acusaciones de que Trump está en los archivos de Epstein.",
+      "why_memeable": "La pelea entre Trump y Musk es un tema viral y memeable, con un alto potencial de generar contenido humorístico y de crítica.",
+      "category": "Celebridad y política",
+      "matched_archetype": "online_drama_between_two_figures",
+      "candidate_tickers": [
+        "TRUMPVSMSK",
+        "MUSKTRUMPFEUD",
+        "TRUMPDEPORTMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "feud",
+        "deportation",
+        "Epstein"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T06:00:55.638924+00:00",
+      "expires_at": "2026-08-15T06:00:55.638924+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "98ab70dc4131",
+      "fingerprint": "98ab70dc4131",
+      "narrative_summary": "Elon Musk publica 'lmao' en Twitter, generando gran engagement",
+      "why_memeable": "La simplicidad y el contexto inesperado de la publicación de Elon Musk la hacen muy memeable",
+      "category": "Celebridad/Redes Sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "LMAO",
+        "MUSKED",
+        "TESLAJOKE"
+      ],
+      "key_terms_for_dex_search": [
+        "LMAO",
+        "MUSK",
+        "TESLA"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T06:01:10.440175+00:00",
+      "expires_at": "2026-08-14T06:01:10.440175+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "lmao",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "0f295d3e59fd",
+      "fingerprint": "0f295d3e59fd",
+      "narrative_summary": "Elon Musk menciona un bot llamado Grok en Twitter, generando gran interés",
+      "why_memeable": "La mención de Elon Musk y la simplicidad del nombre 'Grok Bot' hacen que sea fácilmente compartible",
+      "category": "Tecnología y redes sociales",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "GROKBOT"
+      ],
+      "key_terms_for_dex_search": [
+        "GROK",
+        "GROKBOT",
+        "ELONMUSK",
+        "BOT"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 12,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T06:02:17.553655+00:00",
+      "expires_at": "2026-08-14T06:02:17.553655+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Bot",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T04:30:22.199227+00:00"
+  "last_updated": "2026-08-12T06:02:17.553655+00:00"
 }

@@ -1,60 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T11:24:26.112023+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cd771d1402e2",
-        "score": 82,
-        "category": "política internacional",
-        "title": "In seismic shift, more than 100 House Democrats vote to end Israel aid - Politico",
-        "candidate_tickers": [
-          "ISRAELAIDCUT",
-          "DEMOCRATASVSISRAEL",
-          "CAMBIOENLACÁMARA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T11:26:23.147053+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5a911e93f033",
-        "score": 84,
-        "category": "Tecnología y sociedad",
-        "title": "Arguing with NPCs is pointless",
-        "candidate_tickers": [
-          "NPC",
-          "ARGUING",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T11:27:01.846242+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Defensa y seguridad",
-        "title": "KUWAIT AIRE DEFENCES RESPONDING TO 'HOSTILE DRONE THREATS' - KUWAITI ARMY",
-        "candidate_tickers": [
-          "KUWAIT",
-          "DRONE",
-          "DEFENCES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T11:27:40.139754+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5a911e93f033",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 321689.0
-      }
-    },
-    {
       "ts": "2026-07-16T13:07:07.711478+00:00",
       "kind": "shadow",
       "payload": {
@@ -27799,6 +27745,64 @@
         "ticker": "BANKS",
         "mint": "Dc6GW8TmGquTsLBwtrYgGMwGMY3HckT79iVCn8jmpump",
         "mc": 30139.0
+      }
+    },
+    {
+      "ts": "2026-08-12T06:00:55.986365+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "920b4d2d3160",
+        "score": 80,
+        "category": "Celebridad y política",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TRUMPVSMSK",
+          "MUSKTRUMPFEUD",
+          "TRUMPDEPORTMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T06:01:10.811260+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "98ab70dc4131",
+        "score": 82,
+        "category": "Celebridad/Redes Sociales",
+        "title": "lmao",
+        "candidate_tickers": [
+          "LMAO",
+          "MUSKED",
+          "TESLAJOKE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T06:01:26.209936+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 65,
+        "category": "Tecnología",
+        "title": "Lightning strikes for continuous and long-run agents!",
+        "candidate_tickers": [
+          "NEMO",
+          "LIGHTNING",
+          "SMART"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T06:02:17.935740+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0f295d3e59fd",
+        "score": 72,
+        "category": "Tecnología y redes sociales",
+        "title": "Grok Bot",
+        "candidate_tickers": [
+          "GROK",
+          "GROKBOT"
+        ]
       }
     }
   ]
