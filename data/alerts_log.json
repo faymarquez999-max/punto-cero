@@ -1,119 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T16:52:42.872736+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "67a8afd8702e",
-        "score": 85,
-        "category": "Tecnología y Cultura",
-        "title": "Arguing with NPCs is pointless",
-        "candidate_tickers": [
-          "NPC",
-          "ARGUING",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T17:58:45.126844+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TrumpVsMassie",
-          "MassieEndorsement",
-          "TrumpVsWorstCongressman"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T19:26:37.726991+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e958ddbc50f9",
-        "score": 70,
-        "category": "política",
-        "title": "OH MY GOSH!",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP",
-          "TRUMPVSELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T19:30:57.349261+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fabca0445fc4",
-        "score": 82,
-        "category": "Tecnología y sociedad",
-        "title": "Arguing with NPCs is pointless",
-        "candidate_tickers": [
-          "NPC",
-          "ARGUING",
-          "POINTLESS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T19:31:27.064286+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fabca0445fc4",
-        "ticker": "POINTLESS",
-        "mint": "D4pi5eJNqT5mCzQcxAGfMavgVYLspfYkAQKKvQ8Xpump",
-        "mc": 23717.0
-      }
-    },
-    {
-      "ts": "2026-07-16T20:35:34.126112+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4eaacbdd2b24",
-        "score": 78,
-        "category": "Noticias de actualidad",
-        "title": "Substance FBI agent saw in van of man fatally shot by ICE in Houston was salt, family attorney says - NBC News",
-        "candidate_tickers": [
-          "SALTICE",
-          "ICEABATE",
-          "FBIVISTA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T21:43:11.067392+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "negocios",
-        "title": "Netflix earnings forecast disappoints investors, shares tumble - Reuters",
-        "candidate_tickers": [
-          "NETFLIX",
-          "PELIGRO",
-          "BAJO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T21:44:26.909635+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d2ea808cd2a5",
-        "score": 88,
-        "category": "Muerte de un actor",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEI1",
-          "JURASSICPAIN",
-          "THEPIANOTEARS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T22:42:41.088115+00:00",
       "kind": "shadow",
       "payload": {
@@ -27779,6 +27666,93 @@
         "ticker": "TSLAx",
         "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
         "mc": 334081.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:36:40.874184+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "bot",
+        "title": "Grok Bot",
+        "candidate_tickers": [
+          "GROK",
+          "GROKBOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T12:37:15.965606+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Grok Build is extremely powerful",
+        "candidate_tickers": [
+          "GROK",
+          "GROKBUILD",
+          "ELONGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T12:40:46.787982+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7b3b557cb1a3",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 74159.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:41:08.794288+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5938a75bb782",
+        "ticker": "TSLAx",
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "mc": 334119.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:41:18.800144+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d4c497cf52a3",
+        "ticker": "TERAFAB",
+        "mint": "2J54vKQubDdkgfMNXpZUB5h9zVvjRUcsWVjrkzhyq93m",
+        "mc": 35787.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:41:24.644137+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "02ad5a92dbdd",
+        "ticker": "gato",
+        "mint": "36CvCWVMgSgpZNFu2JVuaaJVEcKtqySpS9hD2kxUpump",
+        "mc": 13167.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:41:26.575636+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "490b043ec3c2",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 74159.0
+      }
+    },
+    {
+      "ts": "2026-08-12T12:41:35.084169+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4b0a62264c57",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 74159.0
       }
     }
   ]
