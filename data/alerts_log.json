@@ -1,88 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T12:40:38.041922+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f8e79c9987c7",
-        "score": 70,
-        "category": "Política y celebridades",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMP",
-          "XCANCEL",
-          "RETRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T12:41:11.688307+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "To understand more about Starship",
-        "candidate_tickers": [
-          "STARSHIP",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T12:41:53.300487+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "tech",
-        "title": "Try Grok",
-        "candidate_tickers": [
-          "GROK",
-          "TRYGROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T12:42:35.966307+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "Tecnología",
-        "title": "Grok Imagine",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T12:42:58.498987+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "40b4e6d0e951",
-        "score": 70,
-        "category": "Tendencia viral en Twitter",
-        "title": "This is messed up",
-        "candidate_tickers": [
-          "MUSK",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T14:20:59.435732+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 53,
-        "category": "Tecnología y Derechos de Autor",
-        "title": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice - Reuters",
-        "candidate_tickers": [
-          "GOOG",
-          "INDO",
-          "COPYRIGHT"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T14:21:58.032838+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27747,6 +27665,82 @@
         "ticker": "OAI",
         "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
         "mc": 65882.0
+      }
+    },
+    {
+      "ts": "2026-08-12T18:41:56.122053+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "883e51f5cb1c",
+        "score": 70,
+        "category": "Accidentes y emergencias",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "SHEDFIRE",
+          "GENERATORFIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T18:42:31.191379+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "19124cb43b97",
+        "score": 90,
+        "category": "conflicto israelí-palestino",
+        "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+        "candidate_tickers": [
+          "GAZA",
+          "INJUSTICIA",
+          "COLONOS",
+          "TROPAS",
+          "ASEDIO",
+          "PALESTINOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T18:43:19.185350+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología",
+        "title": "Tesla FSD FTW",
+        "candidate_tickers": [
+          "TESLAFTW",
+          "FSDFTW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T18:45:50.564416+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 62761.0
+      }
+    },
+    {
+      "ts": "2026-08-12T18:45:56.211373+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d238179628b9",
+        "ticker": "OnlyMarms",
+        "mint": "HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump",
+        "mc": 386301.0
+      }
+    },
+    {
+      "ts": "2026-08-12T18:46:00.738724+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "172d196d5eb3",
+        "ticker": "OAI",
+        "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+        "mc": 65593.0
       }
     }
   ]
