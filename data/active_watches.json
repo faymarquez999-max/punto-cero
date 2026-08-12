@@ -1,95 +1,6 @@
 {
   "watches": [
     {
-      "id": "ce44e868928f",
-      "fingerprint": "ce44e868928f",
-      "narrative_summary": "Elon Musk recomienda 'Try Grok Build X.ai/build' con un gran número de interacciones",
-      "why_memeable": "La recomendación de Elon Musk es fácil de capturar en una frase y tiene un gran número de interacciones",
-      "category": "Tecnología",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "GROK",
-        "XAIBUILD",
-        "TRYGROK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "grok",
-        "xaibuild",
-        "try"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-07T23:45:47.537566+00:00",
-      "expires_at": "2026-08-09T23:45:47.537566+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Try Grok Build X.ai/build",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-09T23:52:37.944739+00:00"
-    },
-    {
-      "id": "c29a46d5e172",
-      "fingerprint": "c29a46d5e172",
-      "narrative_summary": "Elon Musk confirma la verdad sobre algo, generando gran interés y debate",
-      "why_memeable": "La frase 'True' es corta y fácil de compartir, y la confirmación de Elon Musk es un tema polarizador",
-      "category": "Tecnología",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONTRUE",
-        "MUSKT"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "xcancel"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-07T23:46:00.752889+00:00",
-      "expires_at": "2026-08-09T23:46:00.752889+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-09T23:52:37.944751+00:00"
-    },
-    {
       "id": "704f4261df68",
       "fingerprint": "704f4261df68",
       "narrative_summary": "Noticias sobre Trump, incluyendo su intento de despedir a la gobernadora de la Reserva Federal Lisa Cook, una pelea con Musk y una afirmación sobre los archivos de Epstein, así como su nuevo peinado.",
@@ -4018,14 +3929,15 @@
       "started_at": "2026-08-09T17:02:46.086250+00:00",
       "expires_at": "2026-08-12T17:02:46.086250+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-12T17:34:44.907878+00:00"
     },
     {
       "id": "2ae151883ea0",
@@ -11198,7 +11110,98 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "252f810aec91",
+      "fingerprint": "252f810aec91",
+      "narrative_summary": "Israeli troops enfrentan a colonos palestinos en la Franja de Gaza",
+      "why_memeable": "El conflicto entre israelíes y palestinos es un tema recurrente y polémico, con una gran carga emocional y resonancia cultural.",
+      "category": "conflicto israelí-palestino",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "PALESTINA",
+        "CONFLICTO",
+        "GOLIATH",
+        "DAVID"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "palestina",
+        "conflicto",
+        "gaza",
+        "colono"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T17:35:14.613488+00:00",
+      "expires_at": "2026-08-15T17:35:14.613488+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5264ac5763c6",
+      "fingerprint": "5264ac5763c6",
+      "narrative_summary": "Elon Musk publica un 'sí' en Twitter y genera gran interés",
+      "why_memeable": "La respuesta simple y directa de Elon Musk es fácilmente compartible y memeable",
+      "category": "Tecnología y celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "YESMUSK",
+        "ELONYES",
+        "MUSKYES"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "yes",
+        "twitter"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 4,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 0,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-12T17:36:32.856193+00:00",
+      "expires_at": "2026-08-19T17:36:32.856193+00:00",
+      "duration_hours": 168,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Yes",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T16:32:44.289990+00:00"
+  "last_updated": "2026-08-12T17:36:32.856193+00:00"
 }

@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T07:02:08.889643+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "76b688c6391c",
-        "score": 70,
-        "category": "política",
-        "title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "UCRANIA",
-          "DRONES",
-          "MINISTRO DE DEFENSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T07:02:34.291219+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 61,
-        "category": "Tecnología/Aviación",
-        "title": "SpaceX's Starship rocket aborts before liftoff, Musk says launch probable next week - Reuters",
-        "candidate_tickers": [
-          "Starship",
-          "Musk",
-          "SpaceX",
-          "Rocket"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T07:03:03.235830+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Tesla now in Uruguay",
-        "candidate_tickers": [
-          "TESLAURU",
-          "TESLAURUPE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T11:12:28.526592+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-        "candidate_tickers": [
-          "TRUMP_CHINA",
-          "CHINA_MEDDLED",
-          "ELECCIONES_2020"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T11:14:38.589233+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cbbe81dd01af",
-        "score": 73,
-        "category": "política",
-        "title": "The nation’s cartoonists on the week in politics - Politico",
-        "candidate_tickers": [
-          "TRUMPVULNERABILIDADES",
-          "ELECCIONES2025",
-          "VULNERABILIDADESELECCIONALES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T12:40:38.041922+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27758,6 +27685,68 @@
           "COLONOS",
           "ASEDIOS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-12T17:35:15.141448+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "252f810aec91",
+        "score": 90,
+        "category": "conflicto israelí-palestino",
+        "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "PALESTINA",
+          "CONFLICTO",
+          "GOLIATH",
+          "DAVID"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T17:36:33.388164+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5264ac5763c6",
+        "score": 80,
+        "category": "Tecnología y celebridades",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES",
+          "MUSKYES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T17:40:00.539227+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 63240.0
+      }
+    },
+    {
+      "ts": "2026-08-12T17:40:06.753641+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d238179628b9",
+        "ticker": "OnlyMarms",
+        "mint": "HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump",
+        "mc": 467921.0
+      }
+    },
+    {
+      "ts": "2026-08-12T17:40:13.345932+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "172d196d5eb3",
+        "ticker": "OAI",
+        "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+        "mc": 65882.0
       }
     }
   ]
