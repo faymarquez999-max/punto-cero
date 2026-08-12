@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T14:21:58.032838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "66f8c9ce54db",
-        "score": 84,
-        "category": "Finanzas/Tecnología",
-        "title": "APPLE SURPASSES NVIDIA TO BECOME WORLD'S MOST VALUABLE COMPANY $AAPL $NVDA",
-        "candidate_tickers": [
-          "AAPLSURPASANVIDIA",
-          "APPLENVIDIA",
-          "AAPL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T14:24:14.916281+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 55,
-        "category": "Tecnología",
-        "title": "To understand more about Starship",
-        "candidate_tickers": [
-          "Starship",
-          "ElonMusk",
-          "SpaceX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T17:22:54.199264+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "25d2a6cce68c",
-        "score": 91,
-        "category": "política",
-        "title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been",
-        "candidate_tickers": [
-          "TRUMP_VOTES",
-          "VOTO_FRAUDE",
-          "ELECCIONES_2020"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T17:23:27.817606+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cfdcd850e6f0",
-        "score": 70,
-        "category": "Animales",
-        "title": "World Cup crowds brought record-breaking business to Seattle’s Pioneer Square. Will momentum last? - KIRO 7 News Seattle",
-        "candidate_tickers": [
-          "JIMOTHY",
-          "RACÓNVIRAL",
-          "SEATTLERACÓN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T17:24:13.100274+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27741,6 +27682,62 @@
         "ticker": "OAI",
         "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
         "mc": 65593.0
+      }
+    },
+    {
+      "ts": "2026-08-12T19:51:35.826316+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4bf094c80c35",
+        "score": 80,
+        "category": "Desastres naturales",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "BIGSUR",
+          "INDEPENDECE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T19:51:52.706441+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5b6d724e1811",
+        "score": 80,
+        "category": "conflicto israelí-palestino",
+        "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "PALESTINA",
+          "CONFLICTO",
+          "ASEDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T19:52:20.950755+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9f1d2483a8b3",
+        "score": 72,
+        "category": "Tecnología",
+        "title": "Tesla FSD FTW",
+        "candidate_tickers": [
+          "TESLAFSD",
+          "FSDFTW",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T19:57:00.578240+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 65663.0
       }
     }
   ]

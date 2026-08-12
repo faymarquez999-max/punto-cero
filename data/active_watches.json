@@ -1,164 +1,6 @@
 {
   "watches": [
     {
-      "id": "5cd9c9d841a9",
-      "fingerprint": "5cd9c9d841a9",
-      "narrative_summary": "Elon Musk comparte un título sobre violencia contra personas transgénero, generando gran atención en redes.",
-      "why_memeable": "La frase 'More trans violence' es corta y fácil de recordar, y el tema de violencia contra personas transgénero es altamente relevante y polarizante.",
-      "category": "violencia contra personas transgénero",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRV",
-        "TRANSVIOLENCE",
-        "ELONMUSKTRANS"
-      ],
-      "key_terms_for_dex_search": [
-        "trans",
-        "violence",
-        "elonmusk"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T02:50:47.759702+00:00",
-      "expires_at": "2026-08-10T02:50:47.759702+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TNOS",
-        "name": "Transnational Oil Supply",
-        "mint": "vik7Ui4gJCQGUG4ARaurc14VVHyw4n3Ax9uxH8Qpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 159695.0,
-        "liquidity_usd": 27959.59,
-        "price_usd": 0.0001613,
-        "volume_h24": 8993.94,
-        "volume_h1": 1502.35,
-        "volume_m5": 101.78,
-        "price_change_5m": 0.35,
-        "price_change_1h": 8.39,
-        "price_change_24h": 416.0,
-        "txns_h1_buys": 249,
-        "txns_h1_sells": 39,
-        "created_ts": 1786189009000,
-        "pair_created_at": 1786189009000,
-        "url": "https://dexscreener.com/solana/c9fltcfvhyng9gvndkrduwvln3nhkb1hwahj52kjadnd",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TRANS in TRANSNATIONAL OIL SUPPLY",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "More trans violence",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-08T13:08:06.186696+00:00"
-    },
-    {
-      "id": "bee58df7c34e",
-      "fingerprint": "bee58df7c34e",
-      "narrative_summary": "Elon Musk comparte un momento de sorpresa y asombro con el título 'Oh my goodness.'",
-      "why_memeable": "La frase 'Oh my goodness' es corta y fácil de recordar, lo que la hace muy memeable.",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "GADSAAD",
-        "XCANCEL",
-        "OHMYGOODNESS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "ohmygoodness",
-        "xcancel"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 1,
-        "cultural_resonance": 2,
-        "polarizing": 1,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T02:51:17.168259+00:00",
-      "expires_at": "2026-08-10T02:51:17.168259+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Oh my goodness.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-10T04:16:55.754539+00:00"
-    },
-    {
-      "id": "1ce162a1af11",
-      "fingerprint": "1ce162a1af11",
-      "narrative_summary": "Elon Musk confirma la verdad de un hecho",
-      "why_memeable": "La simplicidad y la claridad de la afirmación de Elon Musk la hacen muy memeable",
-      "category": "Tecnología y Ciencia",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "XCANCEL",
-        "TRUE"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T04:01:37.421215+00:00",
-      "expires_at": "2026-08-10T04:01:37.421215+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-10T04:16:55.754541+00:00"
-    },
-    {
       "id": "258ee5bad50a",
       "fingerprint": "258ee5bad50a",
       "narrative_summary": "Elon Musk comparte un titular sobre violencia hacia personas transgénero, generando una gran reacción en las redes.",
@@ -11177,7 +11019,144 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "4bf094c80c35",
+      "fingerprint": "4bf094c80c35",
+      "narrative_summary": "Un incendio forestal en Big Sur ha alcanzado 3000 acres y ha provocado la evacuación de la zona.",
+      "why_memeable": "La narrativa tiene un núcleo claro (incendio forestal) y un contexto emocional (evacuaciones).",
+      "category": "Desastres naturales",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "FIRE",
+        "BIGSUR",
+        "INDEPENDECE"
+      ],
+      "key_terms_for_dex_search": [
+        "incendio",
+        "Big Sur",
+        "evacuaciones"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 2,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T19:51:35.410900+00:00",
+      "expires_at": "2026-08-15T19:51:35.410900+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FIRE",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5b6d724e1811",
+      "fingerprint": "5b6d724e1811",
+      "narrative_summary": "Confrontación entre tropas israelíes y colonos que asedian hogares palestinos en la Franja de Gaza",
+      "why_memeable": "La confrontación entre tropas israelíes y colonos que asedian hogares palestinos es un tema polarizador que puede ser capturado en una frase corta y compartida fácilmente.",
+      "category": "conflicto israelí-palestino",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "PALESTINA",
+        "CONFLICTO",
+        "ASEDIO"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "palestina",
+        "conflicto",
+        "asedio",
+        "tropas",
+        "colono"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T19:51:52.301922+00:00",
+      "expires_at": "2026-08-14T19:51:52.301922+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "9f1d2483a8b3",
+      "fingerprint": "9f1d2483a8b3",
+      "narrative_summary": "Elon Musk anuncia el éxito de FSD, el sistema de conducción autónoma de Tesla",
+      "why_memeable": "La frase 'Tesla FSD FTW' es fácil de capturar y compartir, y el contexto de Elon Musk lo hace más interesante.",
+      "category": "Tecnología",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "TESLAFSD",
+        "FSDFTW",
+        "ELONMUSK"
+      ],
+      "key_terms_for_dex_search": [
+        "Tesla",
+        "FSD",
+        "ElonMusk",
+        "autonomía",
+        "conducción"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T19:52:20.583127+00:00",
+      "expires_at": "2026-08-14T19:52:20.583127+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tesla FSD FTW",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T18:42:30.850905+00:00"
+  "last_updated": "2026-08-12T19:52:20.583127+00:00"
 }
