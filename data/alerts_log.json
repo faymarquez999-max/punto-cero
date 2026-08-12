@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T22:42:41.088115+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "noticias de salud",
-        "title": "EXCLUSIVE: Pfizer suspends sales of Premarin vaginal cream in India, citing supply challenges - Reuters",
-        "candidate_tickers": [
-          "PFIZER",
-          "PREMARIN",
-          "INDIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T22:43:58.945341+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cdd242c44146",
-        "score": 70,
-        "category": "política internacional",
-        "title": "US expands attacks on Iran, which calls Strait of Hormuz a ‘red line’ as it retaliates - AP News",
-        "candidate_tickers": [
-          "IRAN",
-          "EE.UU.",
-          "ESTRECHO DE ORMUZ",
-          "LÍNEA ROJA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T23:43:32.765123+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política y tecnología",
-        "title": "‘Love Island USA’ season 8 contestant Jen Terry signs with talent management company Motive.",
-        "candidate_tickers": [
-          "MUSKTERRY",
-          "TRUMPMUSK",
-          "EPSTEIN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T23:44:22.029356+00:00",
       "kind": "shadow",
       "payload": {
@@ -27753,6 +27709,51 @@
         "ticker": "Ebola",
         "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
         "mc": 74159.0
+      }
+    },
+    {
+      "ts": "2026-08-12T14:09:49.061372+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "99e1025f9a15",
+        "score": 73,
+        "category": "Animales",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "PETA",
+          "CRUELDADANIMAL",
+          "GRANJAINCENDIO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T14:10:06.552950+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "animal welfare",
+        "title": "“It’s a sigh of relief.” Evansville Animal Care and Control prepares to reopen after dog death closure - Eyewitness News (WEHT/WTVW)",
+        "candidate_tickers": [
+          "EVANSVILLE",
+          "ANIMAL CARE",
+          "PERRO",
+          "MUERTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T14:12:35.348142+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "eventos naturales",
+        "title": "Eclipse solar total hoy, 12 de agosto, en directo: a qué hora empieza, a qué hora acaba, mapa por comunidad, gafas recomendadas y sitios donde ver el ‘doble crepúsculo’ de Sol - National Geographic Es",
+        "candidate_tickers": [
+          "ECLIPSE",
+          "SOLAR",
+          "ECLIPSE2026"
+        ]
       }
     }
   ]
