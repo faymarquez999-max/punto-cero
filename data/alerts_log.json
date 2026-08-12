@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T13:08:31.581185+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "política internacional",
-        "title": "EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say - Reuters",
-        "candidate_tickers": [
-          "IranGate",
-          "MarRojo",
-          "Houthis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T13:09:24.642064+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f3136dca6c4b",
-        "score": 88,
-        "category": "Noticias",
-        "title": "17-year-old facing conspiracy charges in Kinston shooting investigation - WIS News 10",
-        "candidate_tickers": [
-          "KINSTONSHOOTING",
-          "17YEAROLDCONSPIRACY",
-          "ANIMALCRUELTY"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T15:16:45.869530+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ededb0f3feb3",
-        "score": 89,
-        "category": "Crueldad animal",
-        "title": "OH MY GOSH!",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "RESCATEANIMAL",
-          "CRUELDADANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T15:17:22.967272+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "080a3d827df3",
-        "score": 78,
-        "category": "política",
-        "title": "HOUTHIS THREATEN SAUDI OIL FACILITIES",
-        "candidate_tickers": [
-          "HOUTHI",
-          "SAUDI",
-          "PETRÓLEO",
-          "GUERRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T15:18:03.868665+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "de0f3d00db06",
-        "score": 89,
-        "category": "política",
-        "title": "IRAN TELLS YEMEN'S HOUTHIS TO CLOSE BAB EL-MANDEB GATEWAY TO THE RED SEA IF U.S. HITS POWER NETWORK, SOURCES SAY",
-        "candidate_tickers": [
-          "IRANGATE",
-          "BABELMANDEB",
-          "ENERGYCHOKEPOINT"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T15:18:35.871426+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27802,6 +27727,74 @@
           "VUELOSECRETO",
           "TRUMPRIESGO"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-12T09:19:39.129708+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "80bd8795a49d",
+        "score": 78,
+        "category": "Política y celebridades",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "TRUMPVSMSK",
+          "EPSTEINGATE",
+          "MUSKTRUMPFEUD",
+          "TRUTHSOCIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T09:21:33.027008+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Wisconsin race tight: Key takeaways from US primary election results",
+        "candidate_tickers": [
+          "WISCONSIN",
+          "RACE",
+          "TIGHT",
+          "ELECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T09:22:06.555588+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias internacionales",
+        "title": "Hormuz shipping traffic falls to one-week low amid hostilities - Reuters",
+        "candidate_tickers": [
+          "HORMUZ",
+          "SHIPTRAFFIC",
+          "HOSTILITIES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T09:23:21.714084+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y redes sociales",
+        "title": "Grok Bot",
+        "candidate_tickers": [
+          "GrokBot",
+          "Grok"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T09:25:07.329862+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "7b3b557cb1a3",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 94318.0
       }
     }
   ]
