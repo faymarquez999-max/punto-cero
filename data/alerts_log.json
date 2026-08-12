@@ -1,110 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-16T04:21:18.134288+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "8137acc8726f",
-        "score": 72,
-        "category": "Deportes",
-        "title": "ARGENTINA TURN IT AROUND! 2–1",
-        "candidate_tickers": [
-          "ARGENTINA",
-          "TURNITAROUND",
-          "ARGENTINAFUTBOL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T04:23:41.699164+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Desastres naturales",
-        "title": "El viento complica la extinción del incendio de Orés (Zaragoza), con \"potencial de crecimiento y destrucción\" - Ultima Hora",
-        "candidate_tickers": [
-          "IncendioZaragoza",
-          "OrésArdido",
-          "FuegoForestal"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T04:24:09.279880+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "8137acc8726f",
-        "ticker": "ARGENTINA",
-        "mint": "8vR5VdBAGAWVjvycijB4yLTRmJ3N8RaUS6m3jgAnpump",
-        "mc": 41101.0
-      }
-    },
-    {
-      "ts": "2026-07-16T07:04:25.455082+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "41d3b0db99c7",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMPMASSIE",
-          "GALLREIN",
-          "BADCONGRESS",
-          "TRUMPFEUD",
-          "POLITICALENDORSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T07:06:13.044011+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "620bfa1c1805",
-        "score": 88,
-        "category": "política",
-        "title": "Hegseth announces testosterone screening for US troops - Reuters",
-        "candidate_tickers": [
-          "HEGSETH",
-          "TESTOSTERONA",
-          "TROPAS",
-          "CONTROVERSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T07:06:26.418655+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bf9119ed9633",
-        "score": 78,
-        "category": "Muerte de un actor famoso",
-        "title": "Sam Neill, New Zealand actor who starred in ‘Jurassic Park’ and ‘The Piano,’ dies at 78 - AP News",
-        "candidate_tickers": [
-          "SAMNEILL",
-          "JURASSICPARK",
-          "THEPIANO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-16T09:32:30.623745+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7d66731e7e84",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMP",
-          "ENDORSERGATE",
-          "CONGRESS",
-          "POLITICS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-16T09:32:44.997925+00:00",
       "kind": "shadow",
       "payload": {
@@ -27806,6 +27702,109 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 62497.0
+      }
+    },
+    {
+      "ts": "2026-08-12T02:28:59.348857+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "34c2f14e00ba",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "They can’t handle the truth is the real issue here",
+        "candidate_tickers": [
+          "TRUMPTRUCK",
+          "IRANTRUMP",
+          "SECRETO",
+          "CONTENEDOR",
+          "TRUTHSOCIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:30:48.797095+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "52f9428628d4",
+        "score": 90,
+        "category": "Celebridad y escándalo",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "CELEBSCANDAL",
+          "INFIDELITY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:31:12.561072+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "348106a847e2",
+        "score": 91,
+        "category": "Noticias internacionales",
+        "title": "Russia frees ailing ex-US Marine Robert Gilman from detention - Reuters",
+        "candidate_tickers": [
+          "GILMAN",
+          "RUSSIA",
+          "MARINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:31:37.058639+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "78ba12003026",
+        "score": 78,
+        "category": "política",
+        "title": "Highlights from the election platforms of perennial British joke candidate Count Binface - AP News",
+        "candidate_tickers": [
+          "BINFACE",
+          "COUNTBINFACE",
+          "BINFACE2024"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:31:50.893090+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Tecnología y edificios futuristas",
+        "title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
+        "candidate_tickers": [
+          "Terafab",
+          "Texas",
+          "ElonMusk"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:32:24.912534+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Tecnología y celebridades",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "IMAGINE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T02:32:39.282171+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6ee2abb095b0",
+        "score": 80,
+        "category": "Tecnología",
+        "title": "lmao",
+        "candidate_tickers": [
+          "ELONLMAO",
+          "LMAOELON"
+        ]
       }
     }
   ]
