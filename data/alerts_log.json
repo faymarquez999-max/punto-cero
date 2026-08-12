@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T17:24:13.100274+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b19806cbf76a",
-        "score": 80,
-        "category": "actualidad, noticias",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "MAINE",
-          "COMPORTAMIENTO VIOLENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T17:24:50.153716+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a41deb6b21a0",
-        "score": 90,
-        "category": "Desastres naturales",
-        "title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat - Reuters",
-        "candidate_tickers": [
-          "TSUNAMI",
-          "TERREMOTO",
-          "MÉXICO",
-          "GUATEMALA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T17:25:25.401382+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bfa6d4ca24c4",
-        "score": 88,
-        "category": "noticias de actualidad",
-        "title": "LVMPD: ICE agents attempted to detain man seen in viral Harry Reid Airport video - ktnv.com",
-        "candidate_tickers": [
-          "ICE",
-          "HARRYREID",
-          "LVMPD",
-          "ARREST"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T17:25:52.222405+00:00",
       "kind": "shadow",
       "payload": {
@@ -27738,6 +27691,52 @@
         "ticker": "Ebola",
         "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
         "mc": 65663.0
+      }
+    },
+    {
+      "ts": "2026-08-12T20:57:32.713669+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5d41c6fead2b",
+        "score": 74,
+        "category": "Noticias de actualidad",
+        "title": "3 people found dead, including child, at a daycare in the Minneapolis area - NBC News",
+        "candidate_tickers": [
+          "MINNEAPOLIS",
+          "COLOMBIA",
+          "TERREMOTO",
+          "CENTRO DE CUIDADO INFANTIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T20:58:03.312069+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1bff6ce1375",
+        "score": 89,
+        "category": "Deportes/Noticias",
+        "title": "Weird files: Arkansas HS athlete practiced with cottonmouth snake nestled inside his helmet - Civic Media",
+        "candidate_tickers": [
+          "CULEBRACASCO",
+          "FÚTBOLVENENO",
+          "CASCOCULEBRA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T20:58:30.889181+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8ab05547964f",
+        "score": 70,
+        "category": "política",
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "candidate_tickers": [
+          "TRUMPDECEPCION",
+          "AVIÓNDEENGAÑO",
+          "GABINETEDETRUMP"
+        ]
       }
     }
   ]
