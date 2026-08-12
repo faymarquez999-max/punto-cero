@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T04:32:10.920678+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4e98917bb411",
-        "score": 88,
-        "category": "política",
-        "title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "UCRANIA",
-          "DRONES",
-          "MINISTRO DE DEFENSA",
-          "DESTITUCIÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T04:32:33.464226+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1dd54f27e646",
-        "score": 78,
-        "category": "política",
-        "title": "US hits more bridges in Iran in an expansion of its airstrike campaign - AP News",
-        "candidate_tickers": [
-          "IRANBRIDGES",
-          "EEUUATACA",
-          "IRANBOMBARDEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T04:33:10.900837+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2951538fa4ef",
-        "score": 79,
-        "category": "Noticias internacionales",
-        "title": "Philippines condemns Chinese media depicting it as monkey in AI video - BBC",
-        "candidate_tickers": [
-          "MONKEYS",
-          "RACIST_VIDEO",
-          "CHINA_MONKEY"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T07:02:08.889643+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27758,6 +27711,52 @@
           "Alpha",
           "MoonbaseAlpha",
           "LunarBase"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T16:29:47.087043+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Deportes",
+        "title": "How to use Grok Build",
+        "candidate_tickers": [
+          "Lakers",
+          "JoshKushner",
+          "BobIger",
+          "$12.5B"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T16:30:13.259909+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología",
+        "title": "GOOGLE UNVEILS GOOGLE PIXEL TAG.",
+        "candidate_tickers": [
+          "PIXELTAG",
+          "GOOGLEPIXEL",
+          "GOOGLETECH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T16:32:44.826315+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fcfc5fd04e3e",
+        "score": 84,
+        "category": "conflicto israelí-palestino",
+        "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "PALESTINA",
+          "CONFLICTO",
+          "COLONOS",
+          "ASEDIOS"
         ]
       }
     }

@@ -1,51 +1,6 @@
 {
   "watches": [
     {
-      "id": "9707c0a2d2d4",
-      "fingerprint": "9707c0a2d2d4",
-      "narrative_summary": "Un tiroteo masivo en una tienda de comida rápida In-N-Out en Idaho deja 3 muertos y 7 heridos.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un alto contenido emocional.",
-      "category": "tiroteo masivo",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "INOUT",
-        "IDAHOTIROTEO",
-        "MASSTIROTEO"
-      ],
-      "key_terms_for_dex_search": [
-        "tiroteo masivo",
-        "In-N-Out",
-        "Idaho"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-07T23:44:33.053980+00:00",
-      "expires_at": "2026-08-10T23:44:33.053980+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Idaho police release chilling new video of In-N-Out mass shooting - NBC News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-11T00:39:24.751715+00:00"
-    },
-    {
       "id": "ce44e868928f",
       "fingerprint": "ce44e868928f",
       "narrative_summary": "Elon Musk recomienda 'Try Grok Build X.ai/build' con un gran número de interacciones",
@@ -6593,14 +6548,15 @@
       "started_at": "2026-08-10T15:47:48.065699+00:00",
       "expires_at": "2026-08-12T15:47:48.065699+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Powerful earthquake shakes Colombia and Ecuador prompting people to evacuate homes and buildings - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 8,
+      "expired_at": "2026-08-12T16:29:32.418905+00:00"
     },
     {
       "id": "141aaa72a78a",
@@ -11194,7 +11150,55 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "fcfc5fd04e3e",
+      "fingerprint": "fcfc5fd04e3e",
+      "narrative_summary": "Confrontación entre soldados israelíes y colonos que asedian hogares palestinos en la Cuenca de Jordán.",
+      "why_memeable": "La confrontación entre soldados y colonos, junto con la imagen icónica de la situación, hace que la narrativa sea fácilmente compartible y recordable.",
+      "category": "conflicto israelí-palestino",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "PALESTINA",
+        "CONFLICTO",
+        "COLONOS",
+        "ASEDIOS"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "palestina",
+        "conflicto",
+        "colono",
+        "asedio"
+      ],
+      "score": 84,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T16:32:44.289990+00:00",
+      "expires_at": "2026-08-14T16:32:44.289990+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T15:22:56.663241+00:00"
+  "last_updated": "2026-08-12T16:32:44.289990+00:00"
 }
