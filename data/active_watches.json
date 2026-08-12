@@ -1,145 +1,6 @@
 {
   "watches": [
     {
-      "id": "359ae9f051ee",
-      "fingerprint": "359ae9f051ee",
-      "narrative_summary": "Brandon Clarke, NBA estrella, murió por efectos de heroína y cocaína, según el examinador",
-      "why_memeable": "La muerte de un jugador de NBA por efectos de drogas es un tema interesante y controvertido que puede generar debate y emoción",
-      "category": "Muerte de un jugador de NBA",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "BRANDONCLARKE",
-        "NBASTAR",
-        "MUERTEPORDROGAS"
-      ],
-      "key_terms_for_dex_search": [
-        "BrandonClarke",
-        "MuertePorDrogas",
-        "NBA"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T07:11:57.653285+00:00",
-      "expires_at": "2026-08-11T07:11:57.653285+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-11T07:59:50.966258+00:00"
-    },
-    {
-      "id": "721c2d72962d",
-      "fingerprint": "721c2d72962d",
-      "narrative_summary": "Ataque ruso mata a tres personas, incluyendo un niño, cerca de Kiev",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y es fácil de capturar en una frase",
-      "category": "Noticias de guerra",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAATACA",
-        "KIEVBOMBA",
-        "NIÑOMUERTO"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "ataque",
-        "Kiev",
-        "niño",
-        "muerto"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T07:12:11.032016+00:00",
-      "expires_at": "2026-08-11T07:12:11.032016+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Child among three killed in Russian missile attacks near Kyiv",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-11T07:59:50.966271+00:00"
-    },
-    {
-      "id": "535a608e00f8",
-      "fingerprint": "535a608e00f8",
-      "narrative_summary": "El Pentágono ha lanzado nuevos archivos sobre fenómenos anómalos no identificados (UFO) que incluyen videos de 'órbitas frías' misteriosas.",
-      "why_memeable": "La narrativa tiene un componente de misterio y ciencia ficción que puede captar la atención de la gente.",
-      "category": "Ciencia Ficción, Misterio",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "UFO",
-        "PENTÁGONO",
-        "FENÓMENOS ANÓMALOS"
-      ],
-      "key_terms_for_dex_search": [
-        "UFO",
-        "Pentágono",
-        "Fenómenos Anómalos",
-        "Ciencia Ficción",
-        "Misterio"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 4,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T07:12:48.579019+00:00",
-      "expires_at": "2026-08-10T07:12:48.579019+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "UFO files: ‘Black triangles’ a highlight of latest release - NewsNation",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T07:55:02.736529+00:00"
-    },
-    {
       "id": "dc103a9cf773",
       "fingerprint": "dc103a9cf773",
       "narrative_summary": "Elon Musk publica un tweet que dice 'True' y genera mucha atención",
@@ -6404,14 +6265,15 @@
       "started_at": "2026-08-10T23:00:46.437807+00:00",
       "expires_at": "2026-08-12T23:00:46.437807+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "GB's Amy Hunt wins European 100m gold",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 7,
+      "expired_at": "2026-08-12T23:51:30.221829+00:00"
     },
     {
       "id": "7b3b557cb1a3",
@@ -11068,7 +10930,146 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9d7631b6e181",
+      "fingerprint": "9d7631b6e181",
+      "narrative_summary": "Una peluquera de perros de West Bend no enfrentará cargos después de un video viral mostró a ella golpeando a un perro.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: una peluquera de perros golpeando a un perro.",
+      "category": "animal_cruelty",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WESTBENDPUPPY",
+        "PELUQUERADEPERROS",
+        "NOCARGOS"
+      ],
+      "key_terms_for_dex_search": [
+        "WestBend",
+        "puppy",
+        "animal_cruelty",
+        "peluquera_de_perros"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-12T23:53:18.188291+00:00",
+      "expires_at": "2026-08-15T23:53:18.188291+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "West Bend dog groomer won't face charges after viral video showed her appearing to strike a dog - TMJ4 News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d0fb912400bd",
+      "fingerprint": "d0fb912400bd",
+      "narrative_summary": "La venta de los Lakers por $12.5 mil millones a Josh Kushner y Bob Iger genera interés y reacciones en la comunidad deportiva y más allá.",
+      "why_memeable": "La combinación de una venta récord de un equipo de la NBA con figuras influyentes como Josh Kushner y Bob Iger ofrece una mezcla de deportes, dinero y celebridades que puede captar la atención del público.",
+      "category": "Deportes y Negocios",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "LAKERS12B",
+        "KUSHNERLAK",
+        "IGERBALL",
+        "NBADEAL",
+        "SPORTSMONEY"
+      ],
+      "key_terms_for_dex_search": [
+        "Lakers",
+        "Josh Kushner",
+        "Bob Iger",
+        "NBA",
+        "Deportes",
+        "Negocios"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T23:53:50.257622+00:00",
+      "expires_at": "2026-08-15T23:53:50.257622+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "J.J. McCarthy wants to stay with Vikings after losing QB job - ESPN",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "4ea4cc614b84",
+      "fingerprint": "4ea4cc614b84",
+      "narrative_summary": "ICE planea equipar a sus agentes con guantes que pueden entregar descargas eléctricas para obligar a las personas a cumplir.",
+      "why_memeable": "La idea de guantes que pueden entregar descargas eléctricas es absurda y puede ser capturada en una frase corta.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICESHOCKS",
+        "GUANTESDEICE",
+        "DESCARGASELÉCTRICAS"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "guantes",
+        "descargas eléctricas",
+        "compulsión"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 6,
+        "polarizing": 5,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-12T23:54:19.176205+00:00",
+      "expires_at": "2026-08-15T23:54:19.176205+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T21:57:20.668836+00:00"
+  "last_updated": "2026-08-12T23:54:19.176205+00:00"
 }

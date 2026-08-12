@@ -1,43 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T18:43:29.951056+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b19806cbf76a",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 31515.0
-      }
-    },
-    {
-      "ts": "2026-07-17T18:43:32.805439+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bfa6d4ca24c4",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 31515.0
-      }
-    },
-    {
-      "ts": "2026-07-17T19:52:05.312821+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9fcd6485a9b4",
-        "score": 80,
-        "category": "Política y controversia",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMPFEUD",
-          "CONGRESSCLASH",
-          "POLITICALPOT",
-          "TRUMPBACKFIRE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T19:53:25.290891+00:00",
       "kind": "shadow",
       "payload": {
@@ -27750,6 +27713,53 @@
         "candidate_tickers": [
           "TESLAFTW",
           "FSDFTW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T23:53:18.642860+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9d7631b6e181",
+        "score": 88,
+        "category": "animal_cruelty",
+        "title": "West Bend dog groomer won't face charges after viral video showed her appearing to strike a dog - TMJ4 News",
+        "candidate_tickers": [
+          "WESTBENDPUPPY",
+          "PELUQUERADEPERROS",
+          "NOCARGOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T23:53:50.677163+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d0fb912400bd",
+        "score": 80,
+        "category": "Deportes y Negocios",
+        "title": "J.J. McCarthy wants to stay with Vikings after losing QB job - ESPN",
+        "candidate_tickers": [
+          "LAKERS12B",
+          "KUSHNERLAK",
+          "IGERBALL",
+          "NBADEAL",
+          "SPORTSMONEY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-12T23:54:19.674730+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4ea4cc614b84",
+        "score": 88,
+        "category": "política",
+        "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+        "candidate_tickers": [
+          "ICESHOCKS",
+          "GUANTESDEICE",
+          "DESCARGASELÉCTRICAS"
         ]
       }
     }
