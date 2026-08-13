@@ -1,151 +1,6 @@
 {
   "watches": [
     {
-      "id": "1089ce9730d2",
-      "fingerprint": "1089ce9730d2",
-      "narrative_summary": "Twitch tiene un doble estándar según Elon Musk",
-      "why_memeable": "La pregunta de Elon Musk sobre el doble estándar de Twitch es fácil de recordar y compartir",
-      "category": "Tecnología y entretenimiento",
-      "matched_archetype": "leak_or_secret_revealed",
-      "candidate_tickers": [
-        "TWITCHDOBLEESTANDAR",
-        "ELONVSTWITCH"
-      ],
-      "key_terms_for_dex_search": [
-        "Twitch",
-        "doble estándar",
-        "Elon Musk"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 7,
-        "polarizing": 9,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T22:06:36.880147+00:00",
-      "expires_at": "2026-08-10T22:06:36.880147+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TWITCH",
-        "name": "Twitch Coin",
-        "mint": "467fWX8qGPAf2norsBYTWhG7b2Z7wmhsS8RzPLHypump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20584.0,
-        "liquidity_usd": 10066.84,
-        "price_usd": 2.058e-05,
-        "volume_h24": 1066278.25,
-        "volume_h1": 1066278.25,
-        "volume_m5": 3456.4,
-        "price_change_5m": 3.06,
-        "price_change_1h": -33.4,
-        "price_change_24h": -33.4,
-        "txns_h1_buys": 9842,
-        "txns_h1_sells": 8440,
-        "created_ts": 1786300182000,
-        "pair_created_at": 1786300182000,
-        "url": "https://dexscreener.com/solana/f9cgby6rxq7qrmgfrv3aei6fchubutizveayues67mru",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: TWITCH in TWITCH COIN",
-        "safety_score": 120001,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "Why does Twitch have this double-standard?",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-09T19:14:03.902594+00:00"
-    },
-    {
-      "id": "31a09462b231",
-      "fingerprint": "31a09462b231",
-      "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando gran interés y debate",
-      "why_memeable": "La simplicidad y brevedad de la publicación hacen que sea fácil de compartir y recordar",
-      "category": "Tecnología y negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "yes",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 8,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T22:06:58.183639+00:00",
-      "expires_at": "2026-08-10T22:06:58.183639+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 70308.0,
-        "liquidity_usd": 21981.21,
-        "price_usd": 7.232e-05,
-        "volume_h24": 49755.3,
-        "volume_h1": 7566.64,
-        "volume_m5": 774.66,
-        "price_change_5m": -2.46,
-        "price_change_1h": -3.29,
-        "price_change_24h": 51.01,
-        "txns_h1_buys": 82,
-        "txns_h1_sells": 59,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 2,
-      "matched_at": "2026-08-09T17:06:15.498144+00:00"
-    },
-    {
       "id": "d331b265d3d9",
       "fingerprint": "d331b265d3d9",
       "narrative_summary": "Lionel Messi's father, Jorge Messi, ha muerto a los 68 años después de una batalla privada contra una enfermedad.",
@@ -7449,14 +7304,15 @@
       "started_at": "2026-08-11T15:44:34.413803+00:00",
       "expires_at": "2026-08-13T15:44:34.413803+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia's Sibur petrochemical plant in western Siberia shut after drone attack, sources say - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-13T16:29:09.238435+00:00"
     },
     {
       "id": "9eb154b4506e",
@@ -7495,14 +7351,15 @@
       "started_at": "2026-08-11T15:45:10.334350+00:00",
       "expires_at": "2026-08-13T15:45:10.334350+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "US forces fired at ship breaking blockade of Iranian ports - The Jerusalem Post",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 4,
+      "expired_at": "2026-08-13T16:29:09.238449+00:00"
     },
     {
       "id": "508bb1fb1e3f",
@@ -11143,7 +11000,95 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "17e20c54523f",
+      "fingerprint": "17e20c54523f",
+      "narrative_summary": "Israel envía tropas a casas palestinas asediadas por colonos judíos, según Reuters.",
+      "why_memeable": "La narrativa tiene un claro conflicto entre Israel y Palestina, con un elemento de injusticia y un evento dramático.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ISRAEL",
+        "PALESTINA",
+        "COLONOS",
+        "INJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "israel",
+        "palestina",
+        "colonos",
+        "injusticia"
+      ],
+      "score": 90,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-13T16:30:25.232023+00:00",
+      "expires_at": "2026-08-15T16:30:25.232023+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2a1e7af16810",
+      "fingerprint": "2a1e7af16810",
+      "narrative_summary": "Elon Musk comparte una imagen de una creación artística anónima diciendo que 'rocks'.",
+      "why_memeable": "La frase 'I'm not sure who made this. But it rocks.' es corta, memorable y tiene un toque de humor.",
+      "category": "humor y arte",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ROCKS",
+        "ANONART"
+      ],
+      "key_terms_for_dex_search": [
+        "ROCKS",
+        "ANONART",
+        "ELONMUSK"
+      ],
+      "score": 82,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-13T16:31:40.813647+00:00",
+      "expires_at": "2026-08-15T16:31:40.813647+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "I’m not sure who made this.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-13T15:24:27.087938+00:00"
+  "last_updated": "2026-08-13T16:31:40.813647+00:00"
 }

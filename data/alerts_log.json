@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T13:54:08.249608+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4068d7f836b7",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMPMASSIE",
-          "MASSIEGATE",
-          "TRUMPFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T13:54:21.818171+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Try Grok 4.5",
-        "candidate_tickers": [
-          "TRUMPvsMUSK",
-          "MUSKvsTRUMP",
-          "TRUMPvsMUSKFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T13:54:47.992768+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e24bd252fe5",
-        "score": 89,
-        "category": "Noticias internacionales",
-        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-        "candidate_tickers": [
-          "UCRANIAATACA",
-          "RUSIAATACADA",
-          "DRONESDEUCRANIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T13:56:02.026309+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27749,6 +27705,50 @@
         "ticker": "BOT",
         "mint": "57jzzebxpjRUeG7KVufhqe9jwnRJxgTqY3qznUPv9sRx",
         "mc": 13141.0
+      }
+    },
+    {
+      "ts": "2026-08-13T16:30:25.792979+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "17e20c54523f",
+        "score": 90,
+        "category": "Política",
+        "title": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "PALESTINA",
+          "COLONOS",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T16:31:20.820635+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Tecnología y Negocios",
+        "title": "Kansas town settles reporter's suit over raid on newspaper offices - Politico",
+        "candidate_tickers": [
+          "MUSKTWEET",
+          "ELONMUSKSCANDAL",
+          "TWITTERTRIAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T16:31:41.393996+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a1e7af16810",
+        "score": 82,
+        "category": "humor y arte",
+        "title": "I’m not sure who made this.",
+        "candidate_tickers": [
+          "ROCKS",
+          "ANONART"
+        ]
       }
     }
   ]
