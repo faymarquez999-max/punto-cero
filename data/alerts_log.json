@@ -1,83 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T16:14:40.849344+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e0938889edfa",
-        "score": 91,
-        "category": "Noticias impactantes y absurdas",
-        "title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
-        "candidate_tickers": [
-          "PISCINASURPRISE",
-          "HERMANASALVAMOS",
-          "LONERODEPISCINA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T16:15:56.142912+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "atletismo",
-        "title": "Britain's Kerr breaks 27-year mile world record in London",
-        "candidate_tickers": [
-          "KERR",
-          "RECORD",
-          "MILLA",
-          "LONDRES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T17:20:49.837435+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "83645f02c98d",
-        "score": 74,
-        "category": "Celebridad",
-        "title": "Megan Fox Shades Exes While Clapping Back Against Hate on Lingerie Pics",
-        "candidate_tickers": [
-          "MEGANFOX",
-          "OVNIS",
-          "LENCERÍA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T17:21:24.961522+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "390d793c2a1f",
-        "score": 70,
-        "category": "salud",
-        "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
-        "candidate_tickers": [
-          "TAYLORFARMS",
-          "LECHUGA ICEBERG",
-          "HANTAVIRUS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T17:22:02.189235+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3e8b16caa00e",
-        "score": 89,
-        "category": "Noticias internacionales",
-        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
-        "candidate_tickers": [
-          "UCRANIA",
-          "RUSIA",
-          "DRONES",
-          "ATAQUES",
-          "INCENDIO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T18:33:00.431120+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27754,6 +27677,80 @@
           "BrownBTS",
           "JHopeRM",
           "ChrisBrown"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T19:49:14.072176+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "Hegseth says reports about poor conditions aboard carrier are misrepresented - Reuters",
+        "candidate_tickers": [
+          "Hegseth",
+          "USS Abraham Lincoln",
+          "pobres condiciones",
+          "mal representadas"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T19:49:39.901320+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "891d13868a2b",
+        "score": 79,
+        "category": "noticias internacionales",
+        "title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
+        "candidate_tickers": [
+          "ISRAEL",
+          "PALESTINA",
+          "SIEGE",
+          "REBUKE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T19:50:18.551022+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f6b3c06ec5df",
+        "score": 88,
+        "category": "Celebridad/Política",
+        "title": "Selena Gomez Accused of Fraud by Mental-Health Startup Investors - Bloomberg.com",
+        "candidate_tickers": [
+          "SELENAGOMEZFRAUD",
+          "WONDERMINDSCANDAL",
+          "GOMEZINVESTIGADA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T19:50:50.622524+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política",
+        "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest - NPR",
+        "candidate_tickers": [
+          "PUTIN",
+          "ISLAS_PACIFICAS",
+          "DISPUTA_JAPON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T19:52:41.216167+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d0bdc04cff81",
+        "score": 74,
+        "category": "Tecnología y Ciencia",
+        "title": "It really is.",
+        "candidate_tickers": [
+          "ITREALLYIS",
+          "MISSIONTOSTARS"
         ]
       }
     }
