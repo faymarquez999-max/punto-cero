@@ -1,110 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T11:12:08.574679+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cce60c67f382",
-        "score": 78,
-        "category": "política",
-        "title": "I have been briefed on the Record Cold Wave and Historic Winter Storm that will be hitting much of the United States this weekend. The Trump Administration is coordinating with State and Local Officia",
-        "candidate_tickers": [
-          "TRUMP",
-          "GREENCARD",
-          "INJUSTICIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T11:13:30.490393+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "crímenes y violencia",
-        "title": "Can't wait! Grok 4.5 has been amazing already",
-        "candidate_tickers": [
-          "GatitoTorturado",
-          "ICE_Violencia",
-          "JusticiaParaVictimas"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T11:14:22.864554+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Celebridades y eventos",
-        "title": "Tesla Diner is turning 1 on July 21st, so we're throwing a party",
-        "candidate_tickers": [
-          "TeslaDiner",
-          "CelebridadesEnFiesta",
-          "LionelMessi"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T11:15:36.577589+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "07ee1fdf924d",
-        "score": 88,
-        "category": "conflicto internacional",
-        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
-        "candidate_tickers": [
-          "RUSIA",
-          "UCRANIA",
-          "DRONES",
-          "INCENDIO",
-          "DEPÓSITO DE PETRÓLEO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T12:08:57.702039+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "noticias virales",
-        "title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
-        "candidate_tickers": [
-          "VIRALNEWS",
-          "NEWSWAVE",
-          "TRENDINGTICKER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T12:09:32.948263+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Politica Internacional",
-        "title": "U.S. MILITARY CONDUCTING STRIKES ON IRAN -CENTCOM",
-        "candidate_tickers": [
-          "IRAN",
-          "EUA",
-          "GUERRA",
-          "SÉPTIMA_NOCHE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T12:10:53.368853+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f8f77bc81c77",
-        "score": 80,
-        "category": "Noticias internacionales",
-        "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot - Reuters",
-        "candidate_tickers": [
-          "UCRANIAATACA",
-          "DRONESDEUCRANIA",
-          "MOSCÚENLLAMAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T13:54:08.249608+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27762,6 +27658,97 @@
           "MOONCANNON",
           "PARTYONMARS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-13T15:18:58.754419+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e762c5b1a42a",
+        "score": 80,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "MASSIE",
+          "TRUMP",
+          "CONGRESS",
+          "ENDORSE",
+          "PATRIOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T15:19:46.096510+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "943f98cd1f3e",
+        "score": 90,
+        "category": "política",
+        "title": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
+        "candidate_tickers": [
+          "ISRAEL",
+          "COLONOS",
+          "FRANJA_DE_GAZA",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T15:20:24.629395+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aa73792e408c",
+        "score": 91,
+        "category": "Deportes",
+        "title": "High school football player in Arkansas practices with a venomous snake in his helmet - AP News",
+        "candidate_tickers": [
+          "COBRAFÚTBOL",
+          "CASCOCOBRA",
+          "FÚTBOLVENENO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T15:21:34.984022+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "humor",
+        "title": "I’m not sure who made this.",
+        "candidate_tickers": [
+          "ROCKS",
+          "UNSURE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T15:24:17.319402+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "78ba12003026",
+        "ticker": "Binface",
+        "mint": "FY9yQSFokAyuKm33HBAUCYjvjmEbeXfDTpSiVZNUpump",
+        "mc": 36795.0
+      }
+    },
+    {
+      "ts": "2026-08-13T15:24:25.755956+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "98ab70dc4131",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 55095.0
+      }
+    },
+    {
+      "ts": "2026-08-13T15:24:27.099275+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0f295d3e59fd",
+        "ticker": "BOT",
+        "mint": "57jzzebxpjRUeG7KVufhqe9jwnRJxgTqY3qznUPv9sRx",
+        "mc": 13141.0
       }
     }
   ]
