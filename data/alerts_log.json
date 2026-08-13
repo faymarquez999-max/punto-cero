@@ -1,48 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T03:38:57.145245+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "82d3dcdd7766",
-        "score": 82,
-        "category": "memes de Elon Musk",
-        "title": "don’t",
-        "candidate_tickers": [
-          "DONTFORGET",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T03:39:25.601598+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3761040bc999",
-        "score": 83,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T03:40:34.384117+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Desastres naturales",
-        "title": "18 de julio: El día que no fue uno más - Ultima Hora",
-        "candidate_tickers": [
-          "IncendioZaragoza",
-          "FuegoAragón",
-          "DesastreNaturaleza"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T03:41:25.434675+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27759,6 +27717,52 @@
         "candidate_tickers": [
           "BASEDMIKELEE",
           "ROCKS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T10:40:49.773957+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b5eebea76a32",
+        "score": 80,
+        "category": "Política",
+        "title": "Try out Grok @Bot",
+        "candidate_tickers": [
+          "TRUMP",
+          "IRAN",
+          "VACCINE",
+          "EVS",
+          "QUAGMIRE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T10:42:29.230037+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias",
+        "title": "Pipe leak prompts water shutoff at Kingstree High, operational changes in place - WCIV",
+        "candidate_tickers": [
+          "LEAK",
+          "PIPE",
+          "KINGSTREE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T10:45:53.110127+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5565aae534f2",
+        "score": 85,
+        "category": "humor/arte",
+        "title": "I’m not sure who made this.",
+        "candidate_tickers": [
+          "ROCKY",
+          "BASEDMIKELEE",
+          "XCANCEL"
         ]
       }
     }
