@@ -1,81 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T22:13:11.286323+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "db75f32d8c84",
-        "score": 70,
-        "category": "Tech y celebridades",
-        "title": "As promised",
-        "candidate_tickers": [
-          "ELONPROM",
-          "PROMIS",
-          "MUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T23:12:24.129843+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "392c185e606e",
-        "score": 80,
-        "category": "politics",
-        "title": "Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been",
-        "candidate_tickers": [
-          "VOTE",
-          "FRAUD",
-          "TRUMP",
-          "DECCLASS",
-          "VOTEGATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T23:13:58.560213+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0631ceb275d6",
-        "score": 70,
-        "category": "Noticias",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "MAINE",
-          "OFICIAL VIOLENTO",
-          "INJUSTICIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T23:14:32.572459+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "Herbert leads British Open golf, equals record lowest score at a major",
-        "candidate_tickers": [
-          "Herbert",
-          "BritishOpen",
-          "Golf"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T23:16:49.856154+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología y Negocios",
-        "title": "As promised",
-        "candidate_tickers": [
-          "XCancel",
-          "ElonPromesa"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T23:17:46.439045+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27743,6 +27668,78 @@
         "ticker": "OAI",
         "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
         "mc": 69251.0
+      }
+    },
+    {
+      "ts": "2026-08-13T06:04:07.679757+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "Grok 4.6 is now out 🚀🚀🚀",
+        "candidate_tickers": [
+          "GROK",
+          "GROK4.6"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T06:05:15.057602+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1d489ecdb925",
+        "score": 79,
+        "category": "conflicto internacional",
+        "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "ZELENSKYYPIDEINTERCEPTORES",
+          "INCENDIOENUCRANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T06:05:29.095244+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6ffe84d8750e",
+        "score": 88,
+        "category": "Política",
+        "title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
+        "candidate_tickers": [
+          "ICE",
+          "GUANTES ELÉCTRICOS",
+          "CHOQUE ELÉCTRICO",
+          "ABUSO DE PODER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T06:06:02.565533+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "salud",
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says - BBC",
+        "candidate_tickers": [
+          "Ebola",
+          "Congo",
+          "OMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T06:07:36.530792+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d248946666fb",
+        "score": 72,
+        "category": "Tecnología/Noticias",
+        "title": "one step closer to moon cannon and party.",
+        "candidate_tickers": [
+          "MOON_CANNON",
+          "PARTY_ON_THE_MOON"
+        ]
       }
     }
   ]
