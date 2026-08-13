@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T19:54:22.475195+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3c6a8b8d2ef3",
-        "ticker": "Luna Bear",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "mc": 128679.0
-      }
-    },
-    {
-      "ts": "2026-07-18T21:00:27.322746+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "db34b2ea1827",
-        "score": 78,
-        "category": "Política y celebridades",
-        "title": "Try Grok 4.5",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "MUSKVSTRUMP",
-          "TRUMPMUSKDISPUTE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T21:01:00.352343+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "309cfd427284",
-        "score": 79,
-        "category": "salud",
-        "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
-        "candidate_tickers": [
-          "TAYLORFARMS",
-          "LECHUGA_DE_HIELO",
-          "EPIDEMIA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T21:02:33.431627+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27756,6 +27716,53 @@
           "TRUMP15",
           "DronesTarifa",
           "TrumpTarifa"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T22:53:21.476367+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c2e124ce5367",
+        "score": 80,
+        "category": "Celebridad y política",
+        "title": "Grok 4.6 is now out 🚀🚀🚀",
+        "candidate_tickers": [
+          "MUSKTRUMP",
+          "TWTRGATE",
+          "ELONVSTRUMP",
+          "TRUMPBACK",
+          "MUSKTWEET"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T22:55:13.321673+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8f945ca45ce1",
+        "score": 78,
+        "category": "política internacional",
+        "title": "JAPAN CONSIDERING COUNTERMEASURES FOLLOWING PUTIN'S VISIT TO DISPUTED ISLAND - NHK",
+        "candidate_tickers": [
+          "JAPANVSPUTIN",
+          "KURILISLANDS",
+          "RUSSIAVSJAPAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T22:56:25.281640+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "1b92b05e6141",
+        "score": 73,
+        "category": "desastres naturales",
+        "title": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
+        "candidate_tickers": [
+          "COLOMBIATERREMOTO",
+          "DESESPERACIÓNENCOLOMBIA",
+          "TERREMOTODECOLOMBIA"
         ]
       }
     }
