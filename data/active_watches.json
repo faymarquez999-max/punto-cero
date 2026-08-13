@@ -1,283 +1,6 @@
 {
   "watches": [
     {
-      "id": "5dce20a7b0a3",
-      "fingerprint": "5dce20a7b0a3",
-      "narrative_summary": "Un escolar de 12 años muere en un tiroteo en una escuela en Tailandia.",
-      "why_memeable": "La frase 'Mom, don't call me' es memeable y la imagen del tiroteo es visualmente impactante.",
-      "category": "Noticias de crímenes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "THAILANDSHOOTING",
-        "ESCOLARMUERE",
-        "TIROTEOENESCUELA"
-      ],
-      "key_terms_for_dex_search": [
-        "Tailandia",
-        "tiroteo",
-        "escolar",
-        "muerte"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-08T15:53:29.084486+00:00",
-      "expires_at": "2026-08-10T15:53:29.084486+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "'Mom, don't call me': Inside Thailand's deadly school shooting - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T17:40:24.723403+00:00"
-    },
-    {
-      "id": "cdf4dcc4f66b",
-      "fingerprint": "cdf4dcc4f66b",
-      "narrative_summary": "Dabo Swinney, entrenador de fútbol americano de Clemson, hace un comentario extraño que genera preocupación sobre Christopher Vizzina.",
-      "why_memeable": "El comentario de Dabo Swinney es extraño y genera preocupación, lo que lo hace fácilmente compartible y memeable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DABOSWINNEY",
-        "CLEMSON",
-        "VIZZINAGATE"
-      ],
-      "key_terms_for_dex_search": [
-        "DaboSwinney",
-        "Clemson",
-        "Vizzina",
-        "comentario extraño"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-08-08T15:54:03.556561+00:00",
-      "expires_at": "2026-08-10T15:54:03.556561+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Clemson HC Dabo Swinney's Bizarre Comment is Bad News for Christopher Vizzina - Yahoo Sports",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T17:40:24.723405+00:00"
-    },
-    {
-      "id": "6aefeb062a58",
-      "fingerprint": "6aefeb062a58",
-      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
-      "why_memeable": "La narrativa es memeable debido a la afirmación audaz y sorprendente de Elon Musk sobre el tamaño y valor de Terafab Texas.",
-      "category": "Noticias de tecnología y arquitectura",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TERAFAB",
-        "TERAFAB TEXAS",
-        "ELON MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Terafab",
-        "Terafab Texas",
-        "Elon Musk",
-        "arquitectura",
-        "edificio más grande",
-        "valioso"
-      ],
-      "score": 72,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-08T15:54:20.055215+00:00",
-      "expires_at": "2026-08-10T15:54:20.055215+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 68357.0,
-        "liquidity_usd": 29856.55,
-        "price_usd": 6.837e-05,
-        "volume_h24": 20214.27,
-        "volume_h1": 444.15,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 3.26,
-        "price_change_24h": -13.61,
-        "txns_h1_buys": 1,
-        "txns_h1_sells": 2,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-09T12:12:48.296854+00:00"
-    },
-    {
-      "id": "8590ae3596ae",
-      "fingerprint": "8590ae3596ae",
-      "narrative_summary": "Elon Musk publicó un 'Wow' en Twitter con gran cantidad de engagement.",
-      "why_memeable": "La simplicidad de la frase 'Wow' y la gran cantidad de engagement hacen que sea fácilmente compartible y recordable.",
-      "category": "Cultura digital",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOWMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 4,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T15:55:08.006171+00:00",
-      "expires_at": "2026-08-09T15:55:08.006171+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-09T17:00:51.709647+00:00"
-    },
-    {
-      "id": "9d0aecf109a2",
-      "fingerprint": "9d0aecf109a2",
-      "narrative_summary": "Elon Musk publica 'True' en Twitter y genera gran interés",
-      "why_memeable": "La simplicidad y la claridad de la publicación de Elon Musk hacen que sea fácilmente compartible y recordable",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "true"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 5,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T15:56:13.752639+00:00",
-      "expires_at": "2026-08-10T15:56:13.752639+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 62751.0,
-        "liquidity_usd": 20546.88,
-        "price_usd": 6.454e-05,
-        "volume_h24": 44772.46,
-        "volume_h1": 2625.29,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 9.9,
-        "price_change_24h": 3.53,
-        "txns_h1_buys": 41,
-        "txns_h1_sells": 32,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T12:12:50.232020+00:00"
-    },
-    {
       "id": "c413ad6e6fe9",
       "fingerprint": "c413ad6e6fe9",
       "narrative_summary": "Elon Musk pregunta a OpenAI sobre transparencia y se revela que OpenAI retrasa el lanzamiento del modelo Astra debido a preocupaciones sobre capacidades cibernéticas.",
@@ -1932,7 +1655,7 @@
       "started_at": "2026-08-09T13:21:34.892590+00:00",
       "expires_at": "2026-08-13T13:21:34.892590+00:00",
       "duration_hours": 96,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy.",
       "cluster_sources": [
@@ -1940,7 +1663,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-08-13T14:11:30.699453+00:00"
     },
     {
       "id": "31df5345a11f",
@@ -4641,13 +4365,14 @@
       "started_at": "2026-08-10T12:00:27.623377+00:00",
       "expires_at": "2026-08-13T12:00:27.623377+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Detenida una hija del matrimonio asesinado en Tauste y su pareja como posibles autores del doble homicidio - RTVE.es",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 9,
+      "expired_at": "2026-08-13T14:11:30.699471+00:00"
     },
     {
       "id": "7010dca5a1b5",
@@ -7346,14 +7071,15 @@
       "started_at": "2026-08-11T11:13:07.709539+00:00",
       "expires_at": "2026-08-13T11:13:07.709539+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-13T14:11:30.699502+00:00"
     },
     {
       "id": "db34948cfddc",
@@ -7389,14 +7115,15 @@
       "started_at": "2026-08-11T13:28:29.683881+00:00",
       "expires_at": "2026-08-13T13:28:29.683881+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Exclusive | Inside Brad Pitt’s ‘very personal decision’ to start drinking again after 7 years of sobriety: ‘His life changed’ - Page Six",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-13T14:11:30.699505+00:00"
     },
     {
       "id": "c1679299b022",
@@ -7435,14 +7162,15 @@
       "started_at": "2026-08-11T13:29:13.506381+00:00",
       "expires_at": "2026-08-13T13:29:13.506381+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Russia is firing North Korean missiles at Ukraine, Zelenskyy claims, as more overnight attacks kill 9 - CBS News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-13T14:11:30.699507+00:00"
     },
     {
       "id": "6b55a37b0c90",
@@ -7479,14 +7207,15 @@
       "started_at": "2026-08-11T13:29:39.273408+00:00",
       "expires_at": "2026-08-13T13:29:39.273408+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FIRE",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 6,
+      "expired_at": "2026-08-13T14:11:30.699509+00:00"
     },
     {
       "id": "d4c497cf52a3",
@@ -7596,13 +7325,14 @@
       "started_at": "2026-08-11T13:31:02.239433+00:00",
       "expires_at": "2026-08-13T13:31:02.239433+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "💯",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-13T14:11:30.699513+00:00"
     },
     {
       "id": "022fab97316b",
@@ -11125,7 +10855,233 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f0792e1b31e7",
+      "fingerprint": "f0792e1b31e7",
+      "narrative_summary": "Múltiples reportes de animal cruelty y muertes de perros en diferentes partes del mundo.",
+      "why_memeable": "La narrativa involucra una serie de eventos similares y trágicos que pueden ser capturados en una sola imagen o frase.",
+      "category": "Animal cruelty y muertes de perros en diferentes partes del mundo.",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "DEADDOGS",
+        "ANIMALCRUELTY",
+        "PERROMUERTO"
+      ],
+      "key_terms_for_dex_search": [
+        "AnimalCruelty",
+        "DeadDogs",
+        "PerroMuerto"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 7,
+        "memeable": 6,
+        "visual": 8,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 4,
+        "velocity": 6
+      },
+      "started_at": "2026-08-13T14:11:46.210509+00:00",
+      "expires_at": "2026-08-16T14:11:46.210509+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Try out Grok @Bot",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "de9c791c78fc",
+      "fingerprint": "de9c791c78fc",
+      "narrative_summary": "El embajador de EE.UU. describe como un ataque de terror a hogares palestinos en la Franja de Gaza.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto entre dos grupos, lo que la hace fácilmente compartible y recordable.",
+      "category": "Política/Medio Oriente",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "GAZA",
+        "FRANJA",
+        "PAZ",
+        "INJUSTICIA",
+        "EE.UU.",
+        "PALESTINOS",
+        "ISRAEL"
+      ],
+      "key_terms_for_dex_search": [
+        "Gaza",
+        "Franja",
+        "Paz",
+        "Injusticia",
+        "EE.UU.",
+        "Palestinos",
+        "Israel"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 3,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T14:13:02.520924+00:00",
+      "expires_at": "2026-08-15T14:13:02.520924+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b7a9bf44df9c",
+      "fingerprint": "b7a9bf44df9c",
+      "narrative_summary": "Trump cambió de avión en Turquía debido a una amenaza iraní, según un oficial.",
+      "why_memeable": "La narrativa tiene un núcleo claro (Trump cambió de avión) y es fácil de compartir.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_DECOY",
+        "TRUMP_IRAN",
+        "TRUMP_AVIÓN"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "IRAN",
+        "AVIÓN",
+        "TURQUÍA"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T14:13:49.170843+00:00",
+      "expires_at": "2026-08-15T14:13:49.170843+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Rubio and Bessent stayed on decoy flight from Turkey as Trump switched planes, official says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "89b0b535e51f",
+      "fingerprint": "89b0b535e51f",
+      "narrative_summary": "Un usuario de Twitter comparte una imagen de una roca con la frase 'I’m not sure who made this. But it rocks.'",
+      "why_memeable": "La frase 'But it rocks' es memeable y puede ser compartida sin contexto.",
+      "category": "humor",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "ROCKS"
+      ],
+      "key_terms_for_dex_search": [
+        "ROCKS",
+        "ELONMUSK",
+        "TWITTER"
+      ],
+      "score": 86,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 0,
+        "cultural_resonance": 2,
+        "polarizing": 0,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-13T14:14:57.201863+00:00",
+      "expires_at": "2026-08-15T14:14:57.201863+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "I’m not sure who made this.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3dcfccd0303d",
+      "fingerprint": "3dcfccd0303d",
+      "narrative_summary": "Elon Musk anuncia un paso importante hacia la construcción de un cañón lunar y una fiesta.",
+      "why_memeable": "La frase 'one step closer to moon cannon and party' es breve y fácil de recordar.",
+      "category": "Tecnología/Noticias",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MOONCANNON",
+        "PARTYONMARS"
+      ],
+      "key_terms_for_dex_search": [
+        "mooncannon",
+        "elonmusk",
+        "party"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 10
+      },
+      "started_at": "2026-08-13T14:16:14.762089+00:00",
+      "expires_at": "2026-08-15T14:16:14.762089+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "one step closer to moon cannon and party.",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-13T10:45:52.250978+00:00"
+  "last_updated": "2026-08-13T14:16:14.762089+00:00"
 }
