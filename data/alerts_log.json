@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T21:07:24.383928+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "política",
-        "title": "Trump endorses Darline Graham for Lindsay Graham's open Senate seat - Politico",
-        "candidate_tickers": [
-          "TRUMP_DARLINE",
-          "GRAHAM_ENDORSEMENT"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T21:08:02.972070+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "24be5e7f50aa",
-        "score": 82,
-        "category": "Noticias de actualidad",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "MAINE",
-          "OFICIAL VIOLENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T22:12:03.912946+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política y noticias",
-        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional - Reuters",
-        "candidate_tickers": [
-          "TRUMP_REVOKES_LICENCES",
-          "FCCvsTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T22:12:42.506460+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "046cb2ae2955",
-        "score": 79,
-        "category": "política",
-        "title": "U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz - NBC News",
-        "candidate_tickers": [
-          "HORMUZ",
-          "IRÁN",
-          "EE.UU.",
-          "ATAQUE AÉREO",
-          "PUENTES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T22:13:11.286323+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27757,6 +27699,50 @@
         "ticker": "MARIO64",
         "mint": "CX2v7JSHJQDcNooubzzvZG8TPaDwbaPgfzcXRSWJpump",
         "mc": 338040.0
+      }
+    },
+    {
+      "ts": "2026-08-13T04:31:50.923399+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Tecnología",
+        "title": "Tesla FSD FTW",
+        "candidate_tickers": [
+          "TESLAFTW",
+          "FSDFTW",
+          "ELONFTW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T04:33:56.684113+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 49938.0
+      }
+    },
+    {
+      "ts": "2026-08-13T04:33:59.660328+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d238179628b9",
+        "ticker": "MARIO64",
+        "mint": "CX2v7JSHJQDcNooubzzvZG8TPaDwbaPgfzcXRSWJpump",
+        "mc": 383168.0
+      }
+    },
+    {
+      "ts": "2026-08-13T04:34:04.299711+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "172d196d5eb3",
+        "ticker": "OAI",
+        "mint": "56DeqXiADWY2Y3iD8pdbpTi9jhXXneofTY5dp4Xjpump",
+        "mc": 69251.0
       }
     }
   ]
