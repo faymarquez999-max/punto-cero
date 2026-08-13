@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T21:02:33.431627+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fbdf0a3fcde4",
-        "score": 70,
-        "category": "Noticias de animales",
-        "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "TUMBASMASIVAS",
-          "CALIFORNIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T21:03:00.099304+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9d60cbf5138f",
-        "score": 80,
-        "category": "Política",
-        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-        "candidate_tickers": [
-          "IRAN",
-          "KHAMENEI",
-          "TRUMP",
-          "IRANVSUSA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T22:03:36.680399+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Noticias de animal",
-        "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
-        "candidate_tickers": [
-          "PerrosMuertos",
-          "RescateDeAnimales",
-          "California"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T22:04:39.974182+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fc2a41ccab8a",
-        "score": 78,
-        "category": "Deportes",
-        "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
-        "candidate_tickers": [
-          "LAMINEYAMAL",
-          "MESSIYAMAL",
-          "COPAMUNDIAL2022"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T23:05:20.296139+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27763,6 +27703,63 @@
           "COLOMBIATERREMOTO",
           "DESESPERACIÓNENCOLOMBIA",
           "TERREMOTODECOLOMBIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T23:52:55.390290+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Muertes de celebridades",
+        "title": "Grok 4.6",
+        "candidate_tickers": [
+          "#CelebridadMuerta",
+          "#MuertesEnLasArtes"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T23:53:36.806495+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "'Really bizarre': Gov. Beshear questions Jeffersonville mayor's demands to address bridge project concerns - WHAS11",
+        "candidate_tickers": [
+          "BeshearBridge",
+          "JeffersonvilleDrama",
+          "PuentesDeConflictos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T23:54:15.694102+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "cdaa1da7138e",
+        "score": 70,
+        "category": "política",
+        "title": "Kennedy Center board votes to inscribe Trump's name on building - Reuters",
+        "candidate_tickers": [
+          "TRUMP",
+          "KENNEDY_CENTER",
+          "RESTAURACIÓN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T23:56:54.203241+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8b14e7e95e18",
+        "score": 88,
+        "category": "Accidente aéreo",
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "candidate_tickers": [
+          "AVIÓNCABEZA",
+          "MOTORDESASTRE",
+          "RYANAIRTRAGEDIA"
         ]
       }
     }
