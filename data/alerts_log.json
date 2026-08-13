@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T08:06:07.478054+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bfdb68790eaa",
-        "score": 86,
-        "category": "política",
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "candidate_tickers": [
-          "USVSIRAN",
-          "SÉPTIMANOCHE",
-          "ATAQUESEEUU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T08:07:06.210960+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "23061ebcbf30",
-        "score": 78,
-        "category": "Tecnología y celebridades",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSKYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T08:08:03.522256+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "LUNA",
-          "DRIVERS",
-          "MFMOON"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T09:49:18.043786+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27766,6 +27722,51 @@
           "ASEDIO",
           "TERROR",
           "DIPLOMACIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T12:40:30.199795+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "71f0ed6145ac",
+        "score": 79,
+        "category": "Noticias",
+        "title": "Colombia earthquake response tests new far-right government",
+        "candidate_tickers": [
+          "TERREMOTO_COLOMBIA",
+          "GOBIERNO_DE_DERECHA",
+          "ABELARDO_DE_LA_ESPRIELLA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T12:41:13.050883+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a476ba081780",
+        "score": 78,
+        "category": "Deportes",
+        "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
+        "candidate_tickers": [
+          "FULHAM",
+          "MALAGA",
+          "AFCON",
+          "PROTESTA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T12:41:44.230280+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "noticias de tecnología",
+        "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+        "candidate_tickers": [
+          "MSFT",
+          "AI Boom",
+          "Microsoft China"
         ]
       }
     }
