@@ -1,199 +1,6 @@
 {
   "watches": [
     {
-      "id": "e568f298ca65",
-      "fingerprint": "e568f298ca65",
-      "narrative_summary": "Joe Biden's son Hunter anuncia que el cáncer de su padre ha avanzado y es muy doloroso.",
-      "why_memeable": "El hijo de Joe Biden habla sobre el cáncer de su padre, lo que genera interés y emoción.",
-      "category": "Politica",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BIDENCANCER",
-        "HUNTERBIDEN",
-        "CANCERBIDEN",
-        "JOEBIDENCANCER"
-      ],
-      "key_terms_for_dex_search": [
-        "Joe Biden",
-        "cancer",
-        "Hunter Biden",
-        "politica"
-      ],
-      "score": 89,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T06:13:45.681092+00:00",
-      "expires_at": "2026-08-11T06:13:45.681092+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HUNTER",
-        "name": "Hunter Biden 2028",
-        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 35994.0,
-        "liquidity_usd": 21417.48,
-        "price_usd": 3.6e-05,
-        "volume_h24": 106725.81,
-        "volume_h1": 604.71,
-        "volume_m5": 1.58,
-        "price_change_5m": 0.71,
-        "price_change_1h": -4.96,
-        "price_change_24h": 79.78,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 5,
-        "created_ts": 1780392254000,
-        "pair_created_at": 1780392254000,
-        "url": "https://dexscreener.com/solana/hxmuvcxsvvcnpym86a4xtsjxvegvqqbuxopuswr13s6x",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: HUNTER BIDEN in HUNTER BIDEN 2028",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T17:06:25.268403+00:00"
-    },
-    {
-      "id": "ef15ff0ee48c",
-      "fingerprint": "ef15ff0ee48c",
-      "narrative_summary": "Perez Hilton se lastima a sí mismo durante un livestream y ahora enfrenta una larga recuperación.",
-      "why_memeable": "La narrativa tiene un elemento de shock y sorpresa, lo que la hace fácilmente compartible y recordable.",
-      "category": "Celebridad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "PEREZHILTON",
-        "SELFHARM",
-        "CELEBRIDADENCRISIS"
-      ],
-      "key_terms_for_dex_search": [
-        "PerezHilton",
-        "SelfHarm",
-        "CelebridadEnCrisis"
-      ],
-      "score": 79,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T06:15:47.023353+00:00",
-      "expires_at": "2026-08-11T06:15:47.023353+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-11T06:41:53.988158+00:00"
-    },
-    {
-      "id": "a07830d700e9",
-      "fingerprint": "a07830d700e9",
-      "narrative_summary": "Elon Musk se enfrenta a una demanda de la SEC por falsas declaraciones en Twitter.",
-      "why_memeable": "La narrativa cuenta con un personaje público polarizador (Elon Musk) y un evento dramático (demanda de la SEC).",
-      "category": "Negocios y tecnología",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "SEC",
-        "TWITTER"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "SEC",
-        "Twitter",
-        "demanda",
-        "falsas declaraciones"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T07:20:40.631119+00:00",
-      "expires_at": "2026-08-11T07:20:40.631119+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 70308.0,
-        "liquidity_usd": 21981.21,
-        "price_usd": 7.232e-05,
-        "volume_h24": 49755.3,
-        "volume_h1": 7566.64,
-        "volume_m5": 774.66,
-        "price_change_5m": -2.46,
-        "price_change_1h": -3.29,
-        "price_change_24h": 51.01,
-        "txns_h1_buys": 82,
-        "txns_h1_sells": 59,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/smg/ - stock market general",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T17:06:27.196165+00:00"
-    },
-    {
       "id": "dfefecf0a835",
       "fingerprint": "dfefecf0a835",
       "narrative_summary": "Israel anuncia un concurso para 627 unidades de colonos en la Cuenca Occidental ocupada.",
@@ -11000,7 +10807,152 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "c56625af0c6b",
+      "fingerprint": "c56625af0c6b",
+      "narrative_summary": "Elon Musk anuncia que 𝕏 se convertirá en código abierto, generando polémica y debate sobre la seguridad y el control de la tecnología.",
+      "why_memeable": "La noticia de Elon Musk sobre 𝕏 es memeable porque es un evento inesperado y controvertido que puede generar debates y polémica en las redes sociales.",
+      "category": "Tecnología y Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "XCODE",
+        "XOPEN",
+        "XFREE"
+      ],
+      "key_terms_for_dex_search": [
+        "Xcode",
+        "Xopen",
+        "Xfree",
+        "Elon Musk",
+        "Tecnología",
+        "Política"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T20:53:16.485299+00:00",
+      "expires_at": "2026-08-15T20:53:16.485299+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "We are making 𝕏 open source.",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "5a8b883918c3",
+      "fingerprint": "5a8b883918c3",
+      "narrative_summary": "Megan Thee Stallion se ve impresionante en nuevas fotos con Michelle Obama.",
+      "why_memeable": "La combinación de Megan Thee Stallion y Michelle Obama es memeable, y las fotos son visuales y emocionantes.",
+      "category": "Celebridades",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "MEGANTHEESTALLION",
+        "MICHELLEOBAMA",
+        "MEGANSTUNS",
+        "STALLIONSLAYS"
+      ],
+      "key_terms_for_dex_search": [
+        "MeganTheeStallion",
+        "MichelleObama",
+        "fotos",
+        "celebridades"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 9,
+        "cultural_resonance": 5,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T20:53:43.705832+00:00",
+      "expires_at": "2026-08-15T20:53:43.705832+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Megan Thee Stallion stuns in new photos.",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b482007e4669",
+      "fingerprint": "b482007e4669",
+      "narrative_summary": "Israeli settlers besiege Palestinian homes in Qusra, prompting a US rebuke",
+      "why_memeable": "La narrativa cuenta con un conflicto claro entre israelíes y palestinos, lo que la hace fácil de compartir y recordar",
+      "category": "conflicto israelí-palestino",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "QUSRA",
+        "SETTLERS",
+        "BESIEGED",
+        "PALESTINE",
+        "ISRAEL",
+        "CONFLICT"
+      ],
+      "key_terms_for_dex_search": [
+        "Qusra",
+        "Settlers",
+        "Besieged",
+        "Palestine",
+        "Israel",
+        "Conflict"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-13T20:55:06.323500+00:00",
+      "expires_at": "2026-08-16T20:55:06.323500+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-13T19:52:40.619044+00:00"
+  "last_updated": "2026-08-13T20:55:06.323500+00:00"
 }

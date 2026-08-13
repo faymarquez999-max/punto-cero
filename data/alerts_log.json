@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T18:33:00.431120+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d94ea6751c33",
-        "score": 91,
-        "category": "Cine y entretenimiento",
-        "title": "Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc hollywoodreporter.com/movies…",
-        "candidate_tickers": [
-          "MELANIA",
-          "TAQUILLA",
-          "CINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T18:33:35.114260+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aa8bbcc74e1d",
-        "score": 80,
-        "category": "política internacional",
-        "title": "MESSAGE FROM IRAN'S SUPREME LEADER TO BE RELEASED SHORTLY - IRAN'S STATE MEDIA",
-        "candidate_tickers": [
-          "IRAN",
-          "TRUMP",
-          "LEADER",
-          "MESSAGE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T18:34:09.272266+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Noticias internacionales",
-        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-        "candidate_tickers": [
-          "IRAN",
-          "JORDAN",
-          "ATAQUE",
-          "SOLDADOS_ESTADOUNIDENSES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T19:49:36.379019+00:00",
       "kind": "shadow",
       "payload": {
@@ -27751,6 +27705,55 @@
         "candidate_tickers": [
           "ITREALLYIS",
           "MISSIONTOSTARS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T20:53:16.854117+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c56625af0c6b",
+        "score": 70,
+        "category": "Tecnología y Política",
+        "title": "We are making 𝕏 open source.",
+        "candidate_tickers": [
+          "XCODE",
+          "XOPEN",
+          "XFREE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T20:53:44.045544+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5a8b883918c3",
+        "score": 73,
+        "category": "Celebridades",
+        "title": "Megan Thee Stallion stuns in new photos.",
+        "candidate_tickers": [
+          "MEGANTHEESTALLION",
+          "MICHELLEOBAMA",
+          "MEGANSTUNS",
+          "STALLIONSLAYS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T20:55:06.681670+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b482007e4669",
+        "score": 80,
+        "category": "conflicto israelí-palestino",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "candidate_tickers": [
+          "QUSRA",
+          "SETTLERS",
+          "BESIEGED",
+          "PALESTINE",
+          "ISRAEL",
+          "CONFLICT"
         ]
       }
     }
