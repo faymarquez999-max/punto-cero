@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T00:18:51.024682+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "24be5e7f50aa",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 33050.0
-      }
-    },
-    {
-      "ts": "2026-07-18T00:18:56.185891+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0631ceb275d6",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 33050.0
-      }
-    },
-    {
-      "ts": "2026-07-18T03:38:00.327664+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "63e848c404d4",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMPMASSIE",
-          "GALLREIN",
-          "TRUMPFEUD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T03:38:28.771448+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMPXCANCEL",
-          "XCANCELTRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T03:38:57.145245+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27749,6 +27701,64 @@
           "SNAKEHELMET",
           "COTTONMOUTHCASO",
           "FÚTBOLSERPIENTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T09:22:55.500027+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "21018c002241",
+        "score": 90,
+        "category": "crueldad animal",
+        "title": "‘This guy’s really pointing a gun at my head’: Woman speaks out after viral ICE video - WTOP",
+        "candidate_tickers": [
+          "ANIMALCRUELTY",
+          "CRUELDADANIMAL",
+          "PERROGOLPEADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T09:23:36.114688+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "fbdb6dafadbe",
+        "score": 74,
+        "category": "Deportes",
+        "title": "Water shutoff prompts temporary campus change at Kingstree High School - WCBD News 2",
+        "candidate_tickers": [
+          "SNAKEHELMET",
+          "VENOMOUSSNAKE",
+          "KINGSTREEHIGH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T09:24:11.202206+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias de negocios y tecnología",
+        "title": "EXCLUSIVE: Emails reveal Indian carmakers' fuel contamination worries before public retreat - Reuters",
+        "candidate_tickers": [
+          "FuelContamination",
+          "IndianCarmakers",
+          "CorreosElectrónicos"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T09:26:20.039536+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b55f7bf6a2b2",
+        "score": 82,
+        "category": "Humor, enigmas",
+        "title": "I’m not sure who made this.",
+        "candidate_tickers": [
+          "BASEDMIKELEE",
+          "ROCKS"
         ]
       }
     }
