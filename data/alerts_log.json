@@ -1,106 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T03:41:25.434675+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2a461f0b425f",
-        "score": 74,
-        "category": "Crueldad animal y entierro masivo de perros",
-        "title": "Sting video | Police charge Mifflin County man with multiple felonies following online sting video - WGAL",
-        "candidate_tickers": [
-          "DOGSOFJUSTICE",
-          "ANIMALABUSE",
-          "PERROENTIERRO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T05:57:41.370594+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política internacional",
-        "title": "As I was saying yesterday. The Chinese are slowly giving the news to trading partners. No more dollars. You want to buy",
-        "candidate_tickers": [
-          "DólarYuan",
-          "NoMasDólares",
-          "YuanSwap"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T05:59:36.242912+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "43af09c614c0",
-        "score": 70,
-        "category": "conflicto internacional",
-        "title": "A seventh night of US strikes cuts water to villages in Iran’s south",
-        "candidate_tickers": [
-          "IRAN",
-          "EE.UU.",
-          "BOMBARDEO",
-          "IRAN-EE.UU."
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T06:00:43.023218+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1044c1e3e447",
-        "score": 88,
-        "category": "Muerte y hospitalización de actores famosos",
-        "title": "Doctors failed to spot my hidden condition for so long I was left permanently disabled",
-        "candidate_tickers": [
-          "ERICDANE",
-          "CATHERINEOHARA",
-          "90DAYFIANCÉ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T06:01:08.842339+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMPSONDEO",
-          "SONDEOTRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T08:04:46.179615+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Tecnología",
-        "title": "Grok 4.5 is only 1.5T parameters.",
-        "candidate_tickers": [
-          "Grok4.5",
-          "Grok45",
-          "Grok"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T08:05:23.301903+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "humor y sorpresa",
-        "title": "I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEAK performance",
-        "candidate_tickers": [
-          "PeakPerformanceShirt",
-          "ShortSleeveShirt"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T08:06:07.478054+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27763,6 +27663,109 @@
           "ROCKY",
           "BASEDMIKELEE",
           "XCANCEL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:34:30.592695+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "noticias de crímenes",
+        "title": "Try out Grok @Bot",
+        "candidate_tickers": [
+          "MURDER",
+          "DAYCARE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:35:59.670812+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e91a26cdd7f1",
+        "score": 78,
+        "category": "política y celebridades",
+        "title": "give 4.6 a try and let us know how it goes. your feedback is a big part of why the model gets better with each iteration.",
+        "candidate_tickers": [
+          "MUSKTRES",
+          "TRUMPMUSK",
+          "FORTKNOX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:37:27.861980+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Fútbol",
+        "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
+        "candidate_tickers": [
+          "FulhamWalks",
+          "MalagaProtest",
+          "SenegalAFCON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:38:06.661500+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Deportes",
+        "title": "A baseball legacy at stake, plus the Lakers’ shocking sale - The New York Times",
+        "candidate_tickers": [
+          "LakersSale",
+          "BaseballLegacy",
+          "LA_Lakers"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:38:47.297939+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2bfe6e17e972",
+        "score": 88,
+        "category": "política internacional",
+        "title": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
+        "candidate_tickers": [
+          "PUTIN",
+          "KURIL",
+          "JAPÓN",
+          "ISLAS DISPUTADAS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:39:20.387984+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Deportes",
+        "title": "Russell Westbrook announces NBA retirement after 18 seasons",
+        "candidate_tickers": [
+          "WestbrookRetires",
+          "RussellWestbrookNBA",
+          "NBARetirement"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T11:39:36.022018+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8582d6e4df7f",
+        "score": 88,
+        "category": "política internacional",
+        "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+        "candidate_tickers": [
+          "ISRAEL",
+          "CISJORDANIA",
+          "ASEDIO",
+          "TERROR",
+          "DIPLOMACIA"
         ]
       }
     }
