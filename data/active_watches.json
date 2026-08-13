@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "d331b265d3d9",
-      "fingerprint": "d331b265d3d9",
-      "narrative_summary": "Lionel Messi's father, Jorge Messi, ha muerto a los 68 años después de una batalla privada contra una enfermedad.",
-      "why_memeable": "La muerte de un padre famoso es un tema emotivo y viral.",
-      "category": "Celebridad",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "MESSIDAD",
-        "FALLECEJORGEMESSI"
-      ],
-      "key_terms_for_dex_search": [
-        "Lionel Messi",
-        "Jorge Messi",
-        "muerte",
-        "fallecimiento"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 6
-      },
-      "started_at": "2026-08-08T23:38:15.938358+00:00",
-      "expires_at": "2026-08-10T23:38:15.938358+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Lionel Messi’s father, Jorge Messi, has died at the age of 68 following a private battle with an illness.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 4,
-      "expired_at": "2026-08-11T00:39:24.751737+00:00"
-    },
-    {
       "id": "ba2be98aae4b",
       "fingerprint": "ba2be98aae4b",
       "narrative_summary": "Iran amenaza con no abrir el Estrecho de Hormuz hasta que Estados Unidos 'corrige su comportamiento'.",
@@ -11088,7 +11042,55 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "adf8a818240d",
+      "fingerprint": "adf8a818240d",
+      "narrative_summary": "Palestinos obligados a dejar sus hogares en un pueblo donde colonos israelíes los han cercado.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de injusticia y conflicto, con una imagen icónica de colonos cercando hogares palestinos.",
+      "category": "Conflictos internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "QUSRA",
+        "BESIEGED",
+        "PALESTINOS",
+        "COLONO",
+        "INJUSTICIA"
+      ],
+      "key_terms_for_dex_search": [
+        "Qusra",
+        "Besieged",
+        "Palestinos",
+        "Colono",
+        "Injusticia"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T17:36:51.346682+00:00",
+      "expires_at": "2026-08-16T17:36:51.346682+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-13T16:31:40.813647+00:00"
+  "last_updated": "2026-08-13T17:36:51.346682+00:00"
 }

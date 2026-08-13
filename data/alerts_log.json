@@ -1,64 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T13:56:02.026309+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c3e3949e4280",
-        "score": 70,
-        "category": "conflicto internacional",
-        "title": "Kuwait Faces Intense Night of Iranian Attacks as Power Plant Hit - Bloomberg.com",
-        "candidate_tickers": [
-          "KUWAIT",
-          "IRÁN",
-          "ATAQUES",
-          "CONFLICTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T13:56:32.459921+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-        "candidate_tickers": [
-          "TrumpSpeech",
-          "WhiteHouseDebate",
-          "ElectionsSpeech"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T13:58:32.367014+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Celebridad y contenido viral",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMP_XCANCEL",
-          "XCANCEL_TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T13:58:47.904401+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0d5e76b386e8",
-        "score": 85,
-        "category": "Tecnología/Ciencia",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "MFD",
-          "MFDLUNA",
-          "ELONLUNA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T13:59:14.108310+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27748,6 +27690,66 @@
         "candidate_tickers": [
           "ROCKS",
           "ANONART"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T17:35:35.485844+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Tecnología",
+        "title": "DENISE DRESSER WILL DEPART FROM OPENAI TO CHASE OTHER OPPORTUNITIES AFTER A TRANSITION PERIOD, ACCORDING TO THE WEBSITE.",
+        "candidate_tickers": [
+          "DeniseDresser",
+          "OpenAI",
+          "DresserSale"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T17:36:12.865210+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Noticias internacionales",
+        "title": "NEWS SOURCES REPORTED THAT THE SAUDI ARABIAN ARMY HAS SHELLED AREAS IN NORTHERN YEMEN - IRIB",
+        "candidate_tickers": [
+          "Yemen",
+          "Ejército saudita",
+          "Bombardeo",
+          "Injusticia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T17:36:51.863378+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "adf8a818240d",
+        "score": 84,
+        "category": "Conflictos internacionales",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "candidate_tickers": [
+          "QUSRA",
+          "BESIEGED",
+          "PALESTINOS",
+          "COLONO",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T17:37:57.449888+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+        "candidate_tickers": [
+          "KarolineLeavitt",
+          "WhiteHousePressSecretary",
+          "Replacement"
         ]
       }
     }
