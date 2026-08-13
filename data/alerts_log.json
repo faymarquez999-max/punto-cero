@@ -1,91 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-17T19:53:25.290891+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "crimen y justicia",
-        "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
-        "candidate_tickers": [
-          "NowakMother",
-          "CuchillaDelCrimen",
-          "Injusticia"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T19:54:51.420442+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1b52b776ead9",
-        "score": 76,
-        "category": "política",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE_BADGE",
-          "MAINESHOOTING",
-          "AGENTE_VIOLENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T19:56:52.108125+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 52,
-        "category": "Celebridades",
-        "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
-        "candidate_tickers": [
-          "BrendaFricker",
-          "MyLeftFoot",
-          "HomeAlone2"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T19:57:32.791101+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1b52b776ead9",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 34415.0
-      }
-    },
-    {
-      "ts": "2026-07-17T21:04:58.893327+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "da63d2b514cc",
-        "score": 89,
-        "category": "política",
-        "title": "TRUMP MEDIA PITCHED $100,000 MONTHLY FEE FOR FAST FEED OF PRESIDENT’S POSTS - FT",
-        "candidate_tickers": [
-          "TRUMP100K",
-          "TRUTHSOCIAL",
-          "TRUMPMEDIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-17T21:05:26.449463+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a3077636ad71",
-        "score": 80,
-        "category": "Internacional",
-        "title": "IRAN'S SEMI-OFFICIAL TASNIM SAYS 'THAI-FLAGGED SHIP' TARGETED AFTER IGNORING WARNINGS AND TRYING TO PASS THROUGH STRAIT OF HORMUZ WITHOUT IRGC'S PERMISSION",
-        "candidate_tickers": [
-          "IRAN",
-          "IRGC",
-          "HORMUZ",
-          "TAI",
-          "AIRSTRIKE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-17T21:07:24.383928+00:00",
       "kind": "shadow",
       "payload": {
@@ -27761,6 +27676,87 @@
           "GUANTESDEICE",
           "DESCARGASELÉCTRICAS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-13T02:31:19.377003+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "El centro de supervisión del operativo respiró tras contener el aliento en los días previos - Ultima Hora",
+        "candidate_tickers": [
+          "KarolineLeavitt",
+          "TrumpAsesora",
+          "CasaBlanca"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T02:31:59.084107+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9e3cfa0f7697",
+        "score": 90,
+        "category": "Política/Inmigración",
+        "title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
+        "candidate_tickers": [
+          "ICESHOCK",
+          "GUANTESELETRICOS",
+          "INMIGRACIÓNCONTROVERSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T02:32:33.789123+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "48a0ddcc7f2d",
+        "score": 73,
+        "category": "accidentes inesperados",
+        "title": "FIRE",
+        "candidate_tickers": [
+          "FIRE",
+          "INDEP",
+          "SHED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T02:34:04.188278+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bf4ae897b68c",
+        "score": 91,
+        "category": "Política",
+        "title": "An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News",
+        "candidate_tickers": [
+          "UCRANIA",
+          "RUSIA",
+          "MAR NEGRO",
+          "BLITZ",
+          "ZELENSKYY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T02:36:26.339212+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3cc804215c2b",
+        "ticker": "Ebola",
+        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
+        "mc": 52253.0
+      }
+    },
+    {
+      "ts": "2026-08-13T02:36:30.187302+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d238179628b9",
+        "ticker": "MARIO64",
+        "mint": "CX2v7JSHJQDcNooubzzvZG8TPaDwbaPgfzcXRSWJpump",
+        "mc": 338040.0
       }
     }
   ]

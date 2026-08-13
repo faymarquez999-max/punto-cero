@@ -1,165 +1,6 @@
 {
   "watches": [
     {
-      "id": "dc103a9cf773",
-      "fingerprint": "dc103a9cf773",
-      "narrative_summary": "Elon Musk publica un tweet que dice 'True' y genera mucha atención",
-      "why_memeable": "La simplicidad y la claridad de la frase 'True' la convierten en una candidata a ser un meme",
-      "category": "Tecnología y celebridades",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "true",
-        "tweet",
-        "meme"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-08-08T10:01:26.862644+00:00",
-      "expires_at": "2026-08-10T10:01:26.862644+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 46053.0,
-        "liquidity_usd": 17343.61,
-        "price_usd": 4.737e-05,
-        "volume_h24": 66866.89,
-        "volume_h1": 691.06,
-        "volume_m5": 47.34,
-        "price_change_5m": 1.0,
-        "price_change_1h": -10.38,
-        "price_change_24h": 8.09,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 30,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-08T22:11:29.757716+00:00"
-    },
-    {
-      "id": "ce00cf532b90",
-      "fingerprint": "ce00cf532b90",
-      "narrative_summary": "Elon Musk comparte un tuit sobre violencia contra la comunidad transgénero, generando gran controversia y debate.",
-      "why_memeable": "La narrativa es fácil de capturar en una frase corta y tiene un claro impacto emocional. La participación de Elon Musk agrega un factor de polarización.",
-      "category": "Política y violencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRANSVIOLENCE",
-        "ELONMUSKTRANS"
-      ],
-      "key_terms_for_dex_search": [
-        "trans",
-        "violence",
-        "ElonMusk"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T10:02:16.162116+00:00",
-      "expires_at": "2026-08-10T10:02:16.162116+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "More trans violence",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T10:50:50.514992+00:00"
-    },
-    {
-      "id": "853bc9a2ad65",
-      "fingerprint": "853bc9a2ad65",
-      "narrative_summary": "Un hombre filma a mujeres blancas en Charlotte y las ataca por diversión",
-      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar, y es altamente polarizante",
-      "category": "Racismo y violencia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "CHARLOTTEATTACKER",
-        "RACISMOENCHARLOTTE",
-        "LEGACYMEDIA"
-      ],
-      "key_terms_for_dex_search": [
-        "racismo",
-        "violencia",
-        "Charlotte",
-        "LegacyMedia"
-      ],
-      "score": 84,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-08T10:03:20.677169+00:00",
-      "expires_at": "2026-08-10T10:03:20.677169+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "This guy went around Charlotte filming himself attacking white women for fun",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-10T10:50:50.514995+00:00"
-    },
-    {
       "id": "f609c34de40e",
       "fingerprint": "f609c34de40e",
       "narrative_summary": "Elon Musk comparte un título sobre violencia trans que genera gran atención en las redes.",
@@ -11069,7 +10910,145 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9e3cfa0f7697",
+      "fingerprint": "9e3cfa0f7697",
+      "narrative_summary": "ICE planea equipar a sus agentes con guantes eléctricos que pueden causar shock eléctrico, generando reacciones de indignación y temores de abuso.",
+      "why_memeable": "La narrativa tiene un alto contenido emocional y es fácil de capturar en una frase corta.",
+      "category": "Política/Inmigración",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ICESHOCK",
+        "GUANTESELETRICOS",
+        "INMIGRACIÓNCONTROVERSIA"
+      ],
+      "key_terms_for_dex_search": [
+        "ICE",
+        "guantes eléctricos",
+        "inmigración",
+        "controversia"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 9,
+        "memeable": 8,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-13T02:31:58.525418+00:00",
+      "expires_at": "2026-08-15T02:31:58.525418+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "48a0ddcc7f2d",
+      "fingerprint": "48a0ddcc7f2d",
+      "narrative_summary": "Un incendio en una cabaña en Hanover County causado por un escape de combustible de un generador ha dejado a una persona herida.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una imagen fácil de capturar (el incendio).",
+      "category": "accidentes inesperados",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "FIRE",
+        "INDEP",
+        "SHED"
+      ],
+      "key_terms_for_dex_search": [
+        "incendio",
+        "generador",
+        "escape de combustible",
+        "herido"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-13T02:32:33.249333+00:00",
+      "expires_at": "2026-08-15T02:32:33.249333+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "FIRE",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "bf4ae897b68c",
+      "fingerprint": "bf4ae897b68c",
+      "narrative_summary": "Ucrania ataca la base naval rusa en el Mar Negro en una operación nocturna, según Zelenskyy.",
+      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y es fácil de capturar en una frase.",
+      "category": "Política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "UCRANIA",
+        "RUSIA",
+        "MAR NEGRO",
+        "BLITZ",
+        "ZELENSKYY"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Rusia",
+        "Mar Negro",
+        "Blitz",
+        "Zelenskyy"
+      ],
+      "score": 91,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 7,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-13T02:34:03.553811+00:00",
+      "expires_at": "2026-08-15T02:34:03.553811+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-12T23:54:19.176205+00:00"
+  "last_updated": "2026-08-13T02:34:03.553811+00:00"
 }
