@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T19:49:36.379019+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters",
-        "candidate_tickers": [
-          "VenezuelaQuakes",
-          "EjércitoVenezolano",
-          "Confusión"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T19:51:02.141738+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3c6a8b8d2ef3",
-        "score": 72,
-        "category": "Cibernética y tecnología",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "LUNA",
-          "DRIVERS",
-          "MFMOON"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-18T19:54:22.475195+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27754,6 +27725,37 @@
           "PALESTINE",
           "ISRAEL",
           "CONFLICT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T21:55:30.810490+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2b7056deba67",
+        "score": 80,
+        "category": "Noticias de interés humano",
+        "title": "Grok",
+        "candidate_tickers": [
+          "MCKENNA",
+          "SURROGATE",
+          "BABYTEXAS",
+          "HEARTDEFECT",
+          "ABORTIONROW"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-13T21:57:44.144269+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Política",
+        "title": "THE WHITE HOUSE SAYS TRUMP'S PROCLAMATION IMPOSES A 15% AD VALOREM TARIFF ON DRONES AND PARTS FROM THE EUROPEAN UNION, JAPAN, LIECHTENSTEIN, THE REPUBLIC OF KOREA, SWITZERLAND AND TAIWAN",
+        "candidate_tickers": [
+          "TRUMP15",
+          "DronesTarifa",
+          "TrumpTarifa"
         ]
       }
     }
