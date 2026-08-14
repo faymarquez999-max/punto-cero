@@ -1,93 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T10:43:24.000166+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "751a1efcdb5a",
-        "score": 89,
-        "category": "arresto de influenciadores",
-        "title": "Tate brothers arrested in US as further UK charges take total to 59",
-        "candidate_tickers": [
-          "TATEBROTHERS",
-          "INFLUENCIADORESARRESTADOS",
-          "REDESSOCIALESCONTROVERSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T10:44:03.716721+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "69fa1139c752",
-        "score": 92,
-        "category": "Guerra y conflicto",
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "candidate_tickers": [
-          "RUSIAATACAKYIV",
-          "KYIVUNDERATTACK",
-          "UCRANIAENGUERRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T10:44:47.255121+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "salud",
-        "title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
-        "candidate_tickers": [
-          "lechuga_toxic",
-          "TaylorFarms",
-          "cyclosporiasis"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T10:46:51.735028+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Robot fights are fun 😂",
-        "candidate_tickers": [
-          "ROBOTFIGHTS",
-          "ELONMUSKFIGHTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:18.366792+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "40b4e6d0e951",
-        "ticker": "ELONCOIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "mc": 142442.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:24.125138+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "db75f32d8c84",
-        "ticker": "ELONCOIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "mc": 142442.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:31.231823+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9a9e982042de",
-        "ticker": "ELONCOIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "mc": 142442.0
-      }
-    },
-    {
       "ts": "2026-07-19T10:47:35.315335+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27777,6 +27690,111 @@
           "GOTH BADDIE",
           "BARKING",
           "DMS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:11:49.717245+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0d29c64e4dba",
+        "score": 80,
+        "category": "política y entretenimiento",
+        "title": "Try Grok 4.6 image & video understanding, it’s a major upgrade!",
+        "candidate_tickers": [
+          "FARAGE",
+          "BINFACE",
+          "UKPOL",
+          "LOLMAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:13:25.378077+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Deportes",
+        "title": "Jayden Daniels’ Bizarre NIL Battle With LSU and 8 Other Things You May Have Missed Around the NFL This Week - Sports Illustrated",
+        "candidate_tickers": [
+          "JaydenDaniels",
+          "LSUbeef",
+          "NFLdrama"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:13:58.755135+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "política internacional",
+        "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg",
+        "candidate_tickers": [
+          "IRAN",
+          "EEUU",
+          "AISLAMIENTO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:14:24.394220+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b3a5d21cbdb0",
+        "score": 89,
+        "category": "política",
+        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+        "candidate_tickers": [
+          "RUSIAGOLPEA",
+          "UCRANIARUSIA",
+          "DRONESDERUSIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:15:33.342944+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d6ac80b14a23",
+        "score": 70,
+        "category": "Política y Controversias",
+        "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "FAKEANDGAY",
+          "ELONMUSK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:16:14.025060+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "finanzas",
+        "title": "BOJ eyeing September rate hike, faster pace of tightening, sources say - reuters.com",
+        "candidate_tickers": [
+          "BOJ",
+          "SEPT",
+          "RATE",
+          "HIKE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T11:17:09.090277+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "265c1162f47a",
+        "score": 88,
+        "category": "Celebridad",
+        "title": "Drake Dating Show 'Goth Baddie' Pinkchyu Reveals Another Celeb Barked in Her DMs - TMZ",
+        "candidate_tickers": [
+          "PINKCHYU",
+          "GOTHBADDIE",
+          "DRAKEBARKS"
         ]
       }
     }
