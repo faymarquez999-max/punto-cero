@@ -1,103 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T11:49:32.281884+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Tecnología",
-        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
-        "candidate_tickers": [
-          "CHINA_MOONSHOT",
-          "AI_BREAKTHROUGH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:43:02.184960+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5bbdba23906c",
-        "score": 80,
-        "category": "Noticias de celebridades",
-        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking - Reuters",
-        "candidate_tickers": [
-          "TATEBROS",
-          "TATETWINS",
-          "JUSTICETATE",
-          "TATEARREST",
-          "BROTHERSTATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:43:44.761538+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "incidentes de fugue de gas",
-        "title": "Byram Fire Department responds to gas leak on P Holmes Drive - WLBT",
-        "candidate_tickers": [
-          "ByramGas",
-          "FugueByram",
-          "GasLeakMisisipi"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:44:49.369730+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "Tecnología y entretenimiento",
-        "title": "Robot fights are fun 😂",
-        "candidate_tickers": [
-          "ROBOTFIGHTS",
-          "FUNBOTS",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:45:11.940814+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4b10b3156e23",
-        "score": 82,
-        "category": "Cibernética y tecnología",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "MOONDRIVERS",
-          "MASSMOON",
-          "ELONMOON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:46:56.067352+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Noticias de California",
-        "title": "Breaking: New wildfire reported in Los Angeles County on July 19 - Sacramento Bee",
-        "candidate_tickers": [
-          "CALIFORNIA_WILDFIRES",
-          "FIRE_ALERT",
-          "CALIFORNIA_FIRE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T12:48:02.829354+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "5bbdba23906c",
-        "ticker": "Tatesjail",
-        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
-        "mc": 20270.0
-      }
-    },
-    {
       "ts": "2026-07-19T14:16:12.518216+00:00",
       "kind": "shadow",
       "payload": {
@@ -27831,6 +27734,92 @@
           "Salud",
           "Pandemia"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-14T16:37:20.081617+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "54dac16b20ff",
+        "score": 88,
+        "category": "Desastres naturales",
+        "title": "5 dead after record-breaking rain floods near Tokyo - al.com",
+        "candidate_tickers": [
+          "TOKYOFLOODS",
+          "INUNDACIONESTOKIO",
+          "DESASTRENATURAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T16:37:57.947315+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "monedas de meme",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MEME",
+          "DOGECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T16:38:35.749770+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Woman charged over vandalism of Washington's World War Two memorial - Reuters",
+        "candidate_tickers": [
+          "VANDALIZA",
+          "MEMORIAL",
+          "WOMAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T16:39:13.259118+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "Trump asks US Supreme Court to allow White House ballroom construction to continue - Reuters",
+        "candidate_tickers": [
+          "TrumpBallroom",
+          "CasaBlancaControversia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T16:42:38.362722+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4ea4cc614b84",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 36655.0
+      }
+    },
+    {
+      "ts": "2026-08-14T16:42:40.027693+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9e3cfa0f7697",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 36655.0
+      }
+    },
+    {
+      "ts": "2026-08-14T16:42:41.681224+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "48a0ddcc7f2d",
+        "ticker": "Indy",
+        "mint": "8R3eqFSPYa5Gs3PJCha6qv9VTpWmRgdmphXsHFjkpump",
+        "mc": 154725.0
       }
     }
   ]
