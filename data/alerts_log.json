@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T06:46:54.251724+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "52ac6c893813",
-        "score": 91,
-        "category": "Noticias de política y justicia",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "MAINE",
-          "OFICIAL VIOLENTO",
-          "HISTORIAL DE COMPORTAMIENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T09:01:33.891009+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "53f4f3ccd498",
-        "score": 90,
-        "category": "Celebridad",
-        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP - AP News",
-        "candidate_tickers": [
-          "TATEBROTHERS",
-          "ANDREWTATE",
-          "TRISTANTATE",
-          "INFLUENCERSARRESTADOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T09:02:24.939448+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f36c40434b89",
-        "score": 78,
-        "category": "Salud",
-        "title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
-        "candidate_tickers": [
-          "CYCLOSPORA",
-          "LECHUGATOXIC",
-          "PARÁSITOPELÍGRIMO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T09:03:39.403529+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b65f21dd1cb3",
-        "score": 72,
-        "category": "Política/Actualidad",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "XCANCEL",
-          "TRUMPXCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T09:04:28.320760+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "65ce7e1228c0",
-        "score": 84,
-        "category": "Cibernética y tecnología",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "MOONDRIVERS",
-          "MASSMOON",
-          "ELONLUNAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T09:05:11.785320+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27765,6 +27689,78 @@
           "JOSHKUSHNER",
           "BOBIGER",
           "LAKERSBUY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T08:54:10.064496+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "Noticias de tecnología y política",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "MUSK$, #MUSK, $150M"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T08:54:45.792382+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d4201f8824e1",
+        "score": 74,
+        "category": "política",
+        "title": "Nigel Farage wins Clacton by-election that major parties boycotted - live updates - BBC",
+        "candidate_tickers": [
+          "FARAGEWINS",
+          "BINFACELOSES",
+          "CLACTONSHOCKER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T08:55:39.779333+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "bc048a9f0759",
+        "score": 79,
+        "category": "Celebridades y redes sociales",
+        "title": "Drake Dating Show 'Goth Baddie' Pinkchyu Reveals Another Celeb Barked in Her DMs - TMZ",
+        "candidate_tickers": [
+          "PINKCHYU",
+          "GOTHBADDIE",
+          "DRAKE",
+          "DMPERRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T08:57:06.209215+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8e160bd15261",
+        "score": 78,
+        "category": "Política y ley",
+        "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+        "candidate_tickers": [
+          "TRUMPVSHARVARD",
+          "MUSKVSSEC",
+          "ANTISEMITISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T08:58:45.311031+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política",
+        "title": "Trump Orders US Aircraft Carriers to Go Back to Steam Catapults - Bloomberg.com",
+        "candidate_tickers": [
+          "TrumpCatapults",
+          "SteamShipyard",
+          "CatapultGate"
         ]
       }
     }
