@@ -1,52 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T04:03:17.682918+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "89de1ee3fa86",
-        "score": 89,
-        "category": "ayuda humanitaria",
-        "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-        "candidate_tickers": [
-          "VENEZUELA_AID",
-          "CAKE_FOR_VICTIMS",
-          "TERREMOTOS_VENEZUELA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:04:42.392814+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "20083df6e682",
-        "score": 80,
-        "category": "política",
-        "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say - AP News",
-        "candidate_tickers": [
-          "ICE",
-          "MAINE",
-          "AGENTE VIOLENTO",
-          "DISPARO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:05:06.860577+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "86969ef02eb3",
-        "score": 88,
-        "category": "política",
-        "title": "Trump threatens Canada over wildfire smoke choking U.S. cities - Politico",
-        "candidate_tickers": [
-          "TRUMPVSCANADA",
-          "HUMODEINCENDIOS",
-          "AMENAZADETRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T06:41:40.670362+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27774,6 +27728,49 @@
           "BINARIOS",
           "GAMEBOY",
           "ECU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T06:04:39.122938+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "tech",
+        "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - reuters.com",
+        "candidate_tickers": [
+          "APPLEvsALIBABA",
+          "APPLEINCHINA",
+          "TECHNEWS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T06:05:20.274384+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "db21ee5697bb",
+        "score": 70,
+        "category": "Noticias",
+        "title": "Lawyer For Tate Brothers Mentions Trump, Rubio In Bizarre Rant - Yahoo News Canada",
+        "candidate_tickers": [
+          "TATEBROTHERS",
+          "TRUMPMENTION",
+          "RUBIOMENTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T06:06:05.745869+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "crimen y justicia",
+        "title": "Luigi Mangione Federal Plea Deal Has Angered NY D.A., Says It's Obstruction of Justice",
+        "candidate_tickers": [
+          "Mangione",
+          "asesinato",
+          "plea deal"
         ]
       }
     }
