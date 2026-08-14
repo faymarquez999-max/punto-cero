@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T16:36:12.749515+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología",
-        "title": "Gold rush",
-        "candidate_tickers": [
-          "GOLD",
-          "RUSH",
-          "ELON"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T17:41:04.068864+00:00",
       "kind": "shadow",
       "payload": {
@@ -27804,6 +27790,20 @@
           "HORMUZ",
           "TRUMP",
           "IRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T22:37:08.445632+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política",
+        "title": "DeSantis says he doesn’t support embattled Florida Rep. Cory Mills - Politico",
+        "candidate_tickers": [
+          "DESANTIS",
+          "CORYMILLS",
+          "FLORIDAGATE"
         ]
       }
     }
