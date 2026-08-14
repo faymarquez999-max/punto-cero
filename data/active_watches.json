@@ -1,245 +1,6 @@
 {
   "watches": [
     {
-      "id": "9fa4f9a315d4",
-      "fingerprint": "9fa4f9a315d4",
-      "narrative_summary": "Elon Musk se enfrenta a un juicio por engañar a los accionistas de Twitter y se aprueba un acuerdo de $1.5 millones",
-      "why_memeable": "El juicio de Elon Musk y la aprobación del acuerdo de $1.5 millones es un tema controvertido y polémico que puede generar interés y debate",
-      "category": "Política y negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "TWITTER",
-        "JUICIO"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Twitter",
-        "Juicio",
-        "Acuerdo"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T15:40:43.538362+00:00",
-      "expires_at": "2026-08-11T15:40:43.538362+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 60389.0,
-        "liquidity_usd": 20289.71,
-        "price_usd": 6.211e-05,
-        "volume_h24": 58108.63,
-        "volume_h1": 765.87,
-        "volume_m5": 53.25,
-        "price_change_5m": -0.45,
-        "price_change_1h": -5.91,
-        "price_change_24h": -10.66,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 20,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Grok Imagine can meme",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:45:50.670619+00:00"
-    },
-    {
-      "id": "4a0aba92ded9",
-      "fingerprint": "4a0aba92ded9",
-      "narrative_summary": "Celebridad Elon Musk publica un mensaje enigmático 'Literally' en Twitter, mientras una noticia sobre escándalos de infidelidad de celebridades causa conmoción en línea.",
-      "why_memeable": "La combinación de un mensaje críptico de Elon Musk con un tema viral sobre escándalos de celebridades ofrece una mezcla explosiva de intriga, sorpresa y potencial para la especulación.",
-      "category": "Celebridad y escándalo",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "LIT",
-        "MUSKED",
-        "BURNED",
-        "FAITHLOST"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Literally",
-        "Celebrity Scandals",
-        "Cheating"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T15:40:45.318268+00:00",
-      "expires_at": "2026-08-12T15:40:45.318268+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "LIT",
-        "name": "Lighter",
-        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
-        "chain": "solana",
-        "dex": "orca",
-        "market_cap_usd": 322157.0,
-        "liquidity_usd": 7482.2,
-        "price_usd": 2.28,
-        "volume_h24": 8088.47,
-        "volume_h1": 333.4,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.47,
-        "price_change_24h": -2.41,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 13,
-        "created_ts": 1781709181000,
-        "pair_created_at": 1781709181000,
-        "url": "https://dexscreener.com/solana/7mdv3xcsz7ehk7zf4ugw65rpe5mov1qvrpxpdpyfypsx",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: LIT==LIT",
-        "safety_score": 62205,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "Literally",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:45:52.914466+00:00"
-    },
-    {
-      "id": "648f0b5616d5",
-      "fingerprint": "648f0b5616d5",
-      "narrative_summary": "Un racón llamado Jimothy se vuelve viral en Solana después de un meme que hace que su token suba un 186%.",
-      "why_memeable": "La historia de Jimothy es un ejemplo de cómo un meme puede tener un impacto significativo en el mercado de criptomonedas.",
-      "category": "Criptomonedas",
-      "matched_archetype": "bizarre_accident_or_coincidence",
-      "candidate_tickers": [
-        "JIMOTHY",
-        "SOL",
-        "MEMECOIN"
-      ],
-      "key_terms_for_dex_search": [
-        "JIMOTHY",
-        "SOL",
-        "MEMECOIN",
-        "Criptomonedas",
-        "Meme"
-      ],
-      "score": 73,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T15:41:28.041434+00:00",
-      "expires_at": "2026-08-12T15:41:28.041434+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "SOL",
-        "name": "Sol The Trophy Tomato",
-        "mint": "jk1T35eWK41MBMM8AWoYVaNbjHEEQzMDetTsfnqpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 164326.0,
-        "liquidity_usd": 67783.69,
-        "price_usd": 0.0002003,
-        "volume_h24": 5507.47,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": -9.5,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1767043946000,
-        "pair_created_at": 1767043946000,
-        "url": "https://dexscreener.com/solana/ccybxbmhr2o9vyz2wmjcrvi59wh42xkxf6qrzchbhpn5",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: SOL==SOL",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/XSG/ XRP Schizo General #2554",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:45:54.628196+00:00"
-    },
-    {
       "id": "500dde95a930",
       "fingerprint": "500dde95a930",
       "narrative_summary": "Celebrities cheaten y la fe en las relaciones se pierde",
@@ -10659,7 +10420,139 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "1f6b3cab2a95",
+      "fingerprint": "1f6b3cab2a95",
+      "narrative_summary": "5 personas muertas debido a las inundaciones record en Japón",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un componente visual a través de las imágenes de las inundaciones.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TOKYOFLOODS",
+        "JAPÓNINUNDA",
+        "DESASTRENATURAL"
+      ],
+      "key_terms_for_dex_search": [
+        "inundaciones",
+        "Japón",
+        "desastre natural"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T17:42:40.276878+00:00",
+      "expires_at": "2026-08-17T17:42:40.276878+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "5 dead after record-breaking rain floods near Tokyo - AL.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3ab823b5593f",
+      "fingerprint": "3ab823b5593f",
+      "narrative_summary": "Un misionero estadounidense secuestrado en Niger es liberado después de nueve meses de cautiverio.",
+      "why_memeable": "La narrativa cuenta con un arquetipo de 'rescate' y un elemento de 'injusticia' que puede ser capturado en una frase corta.",
+      "category": "secuestros y rescatos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "#RESCATADO",
+        "#SECUESTRO",
+        "#NIGER"
+      ],
+      "key_terms_for_dex_search": [
+        "secuestro",
+        "rescate",
+        "Niger"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-14T17:44:19.992147+00:00",
+      "expires_at": "2026-08-16T17:44:19.992147+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US missionary kidnapped in Niger released after nine months in captivity",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "1796a5eae009",
+      "fingerprint": "1796a5eae009",
+      "narrative_summary": "Elon Musk comparte un meme llamado 'Grok Imagine' que ha generado mucha atención en la red.",
+      "why_memeable": "La frase 'Grok Imagine' es fácil de recordar y se puede capturar en una imagen o una palabra.",
+      "category": "meme de Elon Musk",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "GROK",
+        "IMAGINE",
+        "GROKIMAGINE"
+      ],
+      "key_terms_for_dex_search": [
+        "elonmusk",
+        "grok",
+        "imagine",
+        "meme"
+      ],
+      "score": 72,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 4,
+        "polarizing": 3,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T17:45:25.980526+00:00",
+      "expires_at": "2026-08-16T17:45:25.980526+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok Imagine",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T16:37:19.685609+00:00"
+  "last_updated": "2026-08-14T17:45:25.980526+00:00"
 }
