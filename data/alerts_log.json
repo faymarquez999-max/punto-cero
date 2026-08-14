@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T11:48:55.827250+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "22f8f3fae462",
-        "score": 88,
-        "category": "salud",
-        "title": "FDA says sample of iceberg lettuce supplied by Taylor Farms tested positive for US parasite outbreak - Reuters",
-        "candidate_tickers": [
-          "TAYLORFARMSLETTY",
-          "CYCLOSPORAOUTBREAK",
-          "LETTUCEGATE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T11:49:32.281884+00:00",
       "kind": "shadow",
       "payload": {
@@ -27830,6 +27815,21 @@
           "USSEND",
           "PORTAAVIONES",
           "MIDEAST"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T15:41:10.973392+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "salud",
+        "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
+        "candidate_tickers": [
+          "Ebola",
+          "Congo",
+          "Salud",
+          "Pandemia"
         ]
       }
     }
