@@ -5633,7 +5633,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "172d196d5eb3",
@@ -5756,7 +5756,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2d7c55c4731b",
@@ -5941,7 +5941,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "aaeb654c7f59",
@@ -5989,7 +5989,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "6c969e853237",
@@ -6131,7 +6131,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "52f9428628d4",
@@ -6386,7 +6386,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "db3d1cc5fcb7",
@@ -6567,7 +6567,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "98ab70dc4131",
@@ -6757,7 +6757,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "80bd8795a49d",
@@ -6806,7 +6806,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "194c7478dac8",
@@ -6993,7 +6993,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "df3b6b0db3fa",
@@ -7038,7 +7038,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1a42a90b2e94",
@@ -7133,7 +7133,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "dd309c83d7cc",
@@ -7274,7 +7274,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5264ac5763c6",
@@ -7317,7 +7317,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "883e51f5cb1c",
@@ -7413,7 +7413,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4bf094c80c35",
@@ -7457,7 +7457,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5b6d724e1811",
@@ -7645,7 +7645,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "8ab05547964f",
@@ -7736,7 +7736,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "48f6b0417bb9",
@@ -7783,7 +7783,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "9d7631b6e181",
@@ -7828,7 +7828,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d0fb912400bd",
@@ -7877,7 +7877,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4ea4cc614b84",
@@ -7915,14 +7915,41 @@
       "started_at": "2026-08-12T23:54:19.176205+00:00",
       "expires_at": "2026-08-15T23:54:19.176205+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 34975.0,
+        "liquidity_usd": 15640.44,
+        "price_usd": 3.497e-05,
+        "volume_h24": 5811.12,
+        "volume_h1": 0.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.1,
+        "price_change_24h": 3.79,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ICE in ICE BUCKET CHALLENGE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-14T21:40:51.270116+00:00"
     },
     {
       "id": "9e3cfa0f7697",
@@ -7960,14 +7987,41 @@
       "started_at": "2026-08-13T02:31:58.525418+00:00",
       "expires_at": "2026-08-15T02:31:58.525418+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 34975.0,
+        "liquidity_usd": 15640.44,
+        "price_usd": 3.497e-05,
+        "volume_h24": 5811.12,
+        "volume_h1": 0.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.1,
+        "price_change_24h": 3.79,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ICE in ICE BUCKET CHALLENGE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-14T21:40:53.261363+00:00"
     },
     {
       "id": "48a0ddcc7f2d",
@@ -8005,14 +8059,41 @@
       "started_at": "2026-08-13T02:32:33.249333+00:00",
       "expires_at": "2026-08-15T02:32:33.249333+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "WASHED",
+        "name": "WASHED",
+        "mint": "4cCyEZoBVPepCK3MUR1PahCgehF9n9dUDHPJenW4pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 69413.0,
+        "liquidity_usd": 18325.2,
+        "price_usd": 7.046e-05,
+        "volume_h24": 196571.86,
+        "volume_h1": 13128.81,
+        "volume_m5": 304.5,
+        "price_change_5m": 4.81,
+        "price_change_1h": 85.34,
+        "price_change_24h": 131.0,
+        "txns_h1_buys": 135,
+        "txns_h1_sells": 99,
+        "created_ts": 1786731045000,
+        "pair_created_at": 1786731045000,
+        "url": "https://dexscreener.com/solana/fzslermxa7vz8r7wnysvjzucqgkbrecex7ymws6kcbuk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: SHED in WASHED",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "FIRE",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-14T21:40:55.007037+00:00"
     },
     {
       "id": "bf4ae897b68c",
@@ -8060,7 +8141,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "1d489ecdb925",
@@ -8108,7 +8189,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "6ffe84d8750e",
@@ -8147,14 +8228,41 @@
       "started_at": "2026-08-13T06:05:28.699179+00:00",
       "expires_at": "2026-08-15T06:05:28.699179+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 34975.0,
+        "liquidity_usd": 15640.44,
+        "price_usd": 3.497e-05,
+        "volume_h24": 5811.12,
+        "volume_h1": 0.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.1,
+        "price_change_24h": 3.79,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: ICE==ICE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-14T21:41:01.272439+00:00"
     },
     {
       "id": "d248946666fb",
@@ -8196,7 +8304,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "50782478ebb0",
@@ -8235,14 +8343,41 @@
       "started_at": "2026-08-13T08:00:06.455556+00:00",
       "expires_at": "2026-08-15T08:00:06.455556+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "ice",
+        "name": "ice bucket challenge",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 34975.0,
+        "liquidity_usd": 15640.44,
+        "price_usd": 3.497e-05,
+        "volume_h24": 5811.12,
+        "volume_h1": 0.19,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.1,
+        "price_change_24h": 3.79,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 1,
+        "created_ts": 1782963180000,
+        "pair_created_at": 1782963180000,
+        "url": "https://dexscreener.com/solana/bs3myqreereukzavkfqscvhhlhi4bsfl3x3zw55omu2e",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: ICE in ICE BUCKET CHALLENGE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-14T21:41:03.825689+00:00"
     },
     {
       "id": "6e1ec8af6d74",
@@ -8287,7 +8422,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b5eebea76a32",
@@ -8337,7 +8472,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5565aae534f2",
@@ -8380,7 +8515,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f0792e1b31e7",
@@ -8426,7 +8561,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "de9c791c78fc",
@@ -8478,7 +8613,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b7a9bf44df9c",
@@ -8523,7 +8658,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "89b0b535e51f",
@@ -8564,7 +8699,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3dcfccd0303d",
@@ -8606,7 +8741,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e762c5b1a42a",
@@ -8656,7 +8791,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "943f98cd1f3e",
@@ -8702,7 +8837,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "aa73792e408c",
@@ -8748,7 +8883,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "17e20c54523f",
@@ -8794,7 +8929,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "2a1e7af16810",
@@ -8836,7 +8971,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "adf8a818240d",
@@ -8884,7 +9019,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7a66a537e4e6",
@@ -8929,7 +9064,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "787f54db1ad0",
@@ -8972,7 +9107,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d283f5b9c187",
@@ -9014,7 +9149,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "891d13868a2b",
@@ -9060,7 +9195,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "f6b3c06ec5df",
@@ -9105,7 +9240,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d0bdc04cff81",
@@ -9149,7 +9284,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "c56625af0c6b",
@@ -9198,7 +9333,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "5a8b883918c3",
@@ -10479,5 +10614,5 @@
       "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T21:00:15.886063+00:00"
+  "last_updated": "2026-08-14T21:41:03.825705+00:00"
 }

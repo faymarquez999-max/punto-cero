@@ -1,70 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T15:33:51.294539+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ab7615b54745",
-        "ticker": "CRUSH",
-        "mint": "BCxPwtkp121xu9FkE9a3kPFq3Chi8ktMu8yrpoa5pump",
-        "mc": 20068.0
-      }
-    },
-    {
-      "ts": "2026-07-19T15:34:01.212836+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "88e482524b41",
-        "ticker": "Luna Bear",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "mc": 146326.0
-      }
-    },
-    {
-      "ts": "2026-07-19T16:33:02.238164+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7944766b1244",
-        "score": 78,
-        "category": "meteorología",
-        "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
-        "candidate_tickers": [
-          "CICLÓNFL",
-          "HURACÁNEEUU",
-          "FLORIDACICLÓN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T16:33:33.746963+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "53f3a9c1c3d0",
-        "score": 78,
-        "category": "Celebridad",
-        "title": "Tate brothers arrested in US as further UK charges take total to 59 - BBC",
-        "candidate_tickers": [
-          "TATE",
-          "RAPE",
-          "ARREST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T16:34:12.525555+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "Muerte de un actor famoso y conexión con un juego",
-        "title": "El inmortal Christopher Lambert nos deja un impactante mensaje final en «Celsius 232» - Gamereactor",
-        "candidate_tickers": [
-          "Lambert232",
-          "CelsiusLambert",
-          "LambertFallece"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T16:35:36.488031+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27819,6 +27755,56 @@
           "TWITTER",
           "TESLA"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-14T21:40:51.286454+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4ea4cc614b84",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34975.0
+      }
+    },
+    {
+      "ts": "2026-08-14T21:40:53.269200+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9e3cfa0f7697",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34975.0
+      }
+    },
+    {
+      "ts": "2026-08-14T21:40:55.016204+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "48a0ddcc7f2d",
+        "ticker": "WASHED",
+        "mint": "4cCyEZoBVPepCK3MUR1PahCgehF9n9dUDHPJenW4pump",
+        "mc": 69413.0
+      }
+    },
+    {
+      "ts": "2026-08-14T21:41:01.281745+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "6ffe84d8750e",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34975.0
+      }
+    },
+    {
+      "ts": "2026-08-14T21:41:03.834685+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "50782478ebb0",
+        "ticker": "ice",
+        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
+        "mc": 34975.0
       }
     }
   ]
