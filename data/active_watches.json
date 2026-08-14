@@ -1,81 +1,6 @@
 {
   "watches": [
     {
-      "id": "cc8db50c1bac",
-      "fingerprint": "cc8db50c1bac",
-      "narrative_summary": "Elon Musk enfrenta acusaciones de engaño a accionistas de Twitter y se enfrenta a una multa de $150 millones.",
-      "why_memeable": "La narrativa es memeable porque involucra a una figura pública controvertida (Elon Musk) y una acusación de engaño a accionistas.",
-      "category": "Política y Negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "TWITTER",
-        "SEC"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Twitter",
-        "SEC",
-        "engaño a accionistas",
-        "multa"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T18:18:22.394719+00:00",
-      "expires_at": "2026-08-11T18:18:22.394719+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 60389.0,
-        "liquidity_usd": 20289.71,
-        "price_usd": 6.211e-05,
-        "volume_h24": 58108.63,
-        "volume_h1": 765.87,
-        "volume_m5": 53.25,
-        "price_change_5m": -0.45,
-        "price_change_1h": -5.91,
-        "price_change_24h": -10.66,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 20,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:46:01.552738+00:00"
-    },
-    {
       "id": "34cf21eda9dc",
       "fingerprint": "34cf21eda9dc",
       "narrative_summary": "12 celebridades acusadas de infidelidad y la respuesta de Elon Musk",
@@ -7619,14 +7544,15 @@
       "started_at": "2026-08-12T19:51:52.301922+00:00",
       "expires_at": "2026-08-14T19:51:52.301922+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-14T20:18:49.121413+00:00"
     },
     {
       "id": "9f1d2483a8b3",
@@ -7665,13 +7591,14 @@
       "started_at": "2026-08-12T19:52:20.583127+00:00",
       "expires_at": "2026-08-14T19:52:20.583127+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Tesla FSD FTW",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-14T20:18:49.121428+00:00"
     },
     {
       "id": "5d41c6fead2b",
@@ -10502,7 +10429,54 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "f9dd3973dbb2",
+      "fingerprint": "f9dd3973dbb2",
+      "narrative_summary": "Luigi Mangione se declara culpable en un caso federal por el asesinato de un ejecutivo de salud",
+      "why_memeable": "La narrativa tiene un título claro y una frase que resume el asunto, y hay varios artículos de noticias que la mencionan",
+      "category": "crimen y justicia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MANGIONEGUILTY",
+        "LUIGIMANGIONE",
+        "ASESINATOEJECUTIVOSALUD"
+      ],
+      "key_terms_for_dex_search": [
+        "Luigi Mangione",
+        "asesinato",
+        "ejecutivo salud",
+        "caso federal",
+        "guilty"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T20:19:02.331116+00:00",
+      "expires_at": "2026-08-17T20:19:02.331116+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Paramount Says It Has Secured All Global Clearances  to Close WBD Deal … Except for That Pesky Lawsuit",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T19:42:28.869371+00:00"
+  "last_updated": "2026-08-14T20:19:02.331116+00:00"
 }
