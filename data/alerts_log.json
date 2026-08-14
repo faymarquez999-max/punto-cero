@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T10:47:35.315335+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "db34b2ea1827",
-        "ticker": "ELONCOIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "mc": 170179.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:39.144120+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "17a8647b5058",
-        "ticker": "ELONCOIN",
-        "mint": "4uSdUZjecQtSM1UCotocvBPftKuntAEjUBKMABRg8yM",
-        "mc": 68741.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:42.047174+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ab0ee8c7f6f0",
-        "ticker": "PATRIOTS",
-        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
-        "mc": 203056.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:44.994509+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ac0140647bcd",
-        "ticker": "Tatesjail",
-        "mint": "B3ctTEb4HgzhSiTPpHAKd2nxNu7VHkqBi7C4uC9Zpump",
-        "mc": 50855.0
-      }
-    },
-    {
       "ts": "2026-07-19T10:47:46.376368+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27795,6 +27755,63 @@
           "PINKCHYU",
           "GOTHBADDIE",
           "DRAKEBARKS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T12:00:56.270420+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "825d6f0c4527",
+        "score": 80,
+        "category": "política y humor",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "FARAGE",
+          "BINFACE",
+          "TRASHCAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T12:01:45.721401+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7d3d743adbdc",
+        "score": 80,
+        "category": "Muertes de celebridades",
+        "title": "Happy 28th birthday to the talented Doechii.",
+        "candidate_tickers": [
+          "DOECHIIBIRTHDAY",
+          "CELEBRIDADMUERTE",
+          "ENFERMEDADAGRESIVA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T12:02:20.147422+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política internacional",
+        "title": "U.S. SENDS FRESH AIRCRAFT CARRIER TO MIDDLE EAST",
+        "candidate_tickers": [
+          "GEORGE",
+          "ABRAHAM",
+          "USSENDING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T12:03:39.341131+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "política internacional",
+        "title": "RUSSIA: RECEIVED NO FORMAL PROPOSAL FROM TURKEY ON A CEASEFIRE WITH UKRAINE IN BLACK SEA",
+        "candidate_tickers": [
+          "RUSSIA_NO_CEASEFIRE",
+          "BLACK_SEA_CONFLICT"
         ]
       }
     }
