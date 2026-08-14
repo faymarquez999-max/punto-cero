@@ -1,149 +1,6 @@
 {
   "watches": [
     {
-      "id": "500dde95a930",
-      "fingerprint": "500dde95a930",
-      "narrative_summary": "Celebrities cheaten y la fe en las relaciones se pierde",
-      "why_memeable": "Frase viral \"I Lit My Universe On Fire And I Watched It Burn\" y el tweet de Elon Musk",
-      "category": "Celebridad, infidelidad, relaciones",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LIT",
-        "CHEAT",
-        "FELO",
-        "FAITH"
-      ],
-      "key_terms_for_dex_search": [
-        "celebridad",
-        "infidelidad",
-        "relaciones",
-        "LIT",
-        "CHEAT",
-        "FELO",
-        "FAITH"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T17:01:06.259672+00:00",
-      "expires_at": "2026-08-11T17:01:06.259672+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "LIT",
-        "name": "Lighter",
-        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
-        "chain": "solana",
-        "dex": "orca",
-        "market_cap_usd": 322157.0,
-        "liquidity_usd": 7482.2,
-        "price_usd": 2.28,
-        "volume_h24": 8088.47,
-        "volume_h1": 333.4,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.47,
-        "price_change_24h": -2.41,
-        "txns_h1_buys": 9,
-        "txns_h1_sells": 13,
-        "created_ts": 1781709181000,
-        "pair_created_at": 1781709181000,
-        "url": "https://dexscreener.com/solana/7mdv3xcsz7ehk7zf4ugw65rpe5mov1qvrpxpdpyfypsx",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: LIT==LIT",
-        "safety_score": 62205,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "Literally",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:45:56.486973+00:00"
-    },
-    {
-      "id": "02d00efb4402",
-      "fingerprint": "02d00efb4402",
-      "narrative_summary": "Ucrania y Rusia se acusan mutuamente de ataques letales en Odesa",
-      "why_memeable": "La narrativa tiene un claro conflicto entre dos partes, lo que la hace fácil de compartir y recordar",
-      "category": "conflicto internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "ODESA",
-        "UCRANIA",
-        "RUSIA",
-        "CONFLICTO"
-      ],
-      "key_terms_for_dex_search": [
-        "conflicto",
-        "Ucrania",
-        "Rusia",
-        "Odesa"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T17:02:46.086250+00:00",
-      "expires_at": "2026-08-12T17:02:46.086250+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-12T17:34:44.907878+00:00"
-    },
-    {
       "id": "2ae151883ea0",
       "fingerprint": "2ae151883ea0",
       "narrative_summary": "China ha emitido un alerta rojo y ha cancelado vuelos en aeropuertos debido a que un tifón se acerca",
@@ -5548,7 +5405,7 @@
       "started_at": "2026-08-11T17:45:56.531304+00:00",
       "expires_at": "2026-08-14T17:45:56.531304+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.”",
       "cluster_sources": [
@@ -5557,7 +5414,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-14T18:37:33.465890+00:00"
     },
     {
       "id": "960fb188ffa4",
@@ -10552,7 +10410,97 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "ebc6435b0278",
+      "fingerprint": "ebc6435b0278",
+      "narrative_summary": "Muere el ciclista británico Finlay Tarling, de 19 años, en un accidente durante la Volta a Portugal.",
+      "why_memeable": "La historia de un joven ciclista que muere en un accidente durante una competición es un tema que puede generar emoción y compasión.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FINLAYTARLING",
+        "VOLTAAPORTUGAL",
+        "CICLISMO"
+      ],
+      "key_terms_for_dex_search": [
+        "FinlayTarling",
+        "VoltaAPortugal",
+        "Ciclismo",
+        "accidente",
+        "muerte"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T18:39:07.022685+00:00",
+      "expires_at": "2026-08-16T18:39:07.022685+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "46549258a9c7",
+      "fingerprint": "46549258a9c7",
+      "narrative_summary": "Misionero estadounidense secuestrado en Níger es liberado después de nueve meses en cautiverio",
+      "why_memeable": "Secuestro y liberación de un misionero estadounidense en un país africano",
+      "category": "secuestro y liberación",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "NIGERKIDNAPPING",
+        "MISIONEROLIBERADO"
+      ],
+      "key_terms_for_dex_search": [
+        "secuestro",
+        "Níger",
+        "misionero",
+        "liberado"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-14T18:42:28.441584+00:00",
+      "expires_at": "2026-08-16T18:42:28.441584+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US missionary kidnapped in Niger released after nine months in captivity",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T17:45:25.980526+00:00"
+  "last_updated": "2026-08-14T18:42:28.441584+00:00"
 }

@@ -1,45 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T14:19:37.433093+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1f9767300210",
-        "score": 85,
-        "category": "espacio",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "LUNA",
-          "DRIVERS",
-          "ELON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T14:20:42.605645+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1f9767300210",
-        "ticker": "Luna Bear",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "mc": 147487.0
-      }
-    },
-    {
-      "ts": "2026-07-19T15:28:43.558087+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Política y controversia",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMPENDORSE",
-          "CONGRESSCONTROVERSY"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T15:30:09.984919+00:00",
       "kind": "shadow",
       "payload": {
@@ -27817,6 +27778,48 @@
         "ticker": "ice",
         "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
         "mc": 37268.0
+      }
+    },
+    {
+      "ts": "2026-08-14T18:39:07.665603+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ebc6435b0278",
+        "score": 79,
+        "category": "Deportes",
+        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+        "candidate_tickers": [
+          "FINLAYTARLING",
+          "VOLTAAPORTUGAL",
+          "CICLISMO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T18:39:36.850075+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "criptomonedas",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "XSG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T18:42:29.030757+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "46549258a9c7",
+        "score": 70,
+        "category": "secuestro y liberación",
+        "title": "US missionary kidnapped in Niger released after nine months in captivity",
+        "candidate_tickers": [
+          "NIGERKIDNAPPING",
+          "MISIONEROLIBERADO"
+        ]
       }
     }
   ]
