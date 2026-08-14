@@ -1,86 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-18T23:05:20.296139+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "17a8647b5058",
-        "score": 87,
-        "category": "Tecnología y productos",
-        "title": "Try Grok 4.5",
-        "candidate_tickers": [
-          "GROK",
-          "XAICLI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T23:05:45.744062+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tecnología/Entretenimiento",
-        "title": "Robot fights are fun 😂",
-        "candidate_tickers": [
-          "ROBOT",
-          "ROBOTFIGHTS",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T23:06:15.260024+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1924297ba091",
-        "score": 84,
-        "category": "espacio",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "LUNA",
-          "DRIVERS",
-          "MFMOON"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-18T23:09:01.051916+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "fc2a41ccab8a",
-        "ticker": "MESSI",
-        "mint": "62NGaqGP17rjPtqNjHrKXDnVzA5bsn8132ePa9T1pump",
-        "mc": 12225.0
-      }
-    },
-    {
-      "ts": "2026-07-18T23:09:02.649431+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1924297ba091",
-        "ticker": "Luna Bear",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "mc": 137784.0
-      }
-    },
-    {
-      "ts": "2026-07-19T04:00:11.858322+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ab0ee8c7f6f0",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMP",
-          "GALLREIN",
-          "CONGRESS",
-          "PATRIOT"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T04:00:13.784870+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27760,6 +27680,96 @@
           "AVIÓNCABEZA",
           "MOTORDESASTRE",
           "RYANAIRTRAGEDIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:31:50.029227+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4a218f9556cd",
+        "score": 80,
+        "category": "Celebridades y figuras públicas",
+        "title": "We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners.",
+        "candidate_tickers": [
+          "TYLERD",
+          "STEVTYL",
+          "KYRSIN",
+          "LUIGI",
+          "AEROSMITH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:31:52.962635+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5da094ca2ac4",
+        "score": 80,
+        "category": "noticias internacionales",
+        "title": "US Sending Fresh Carrier To Relieve Over-Extended USS Lincoln Amid Reports Of Sailor Burn-Out - Zerohedge",
+        "candidate_tickers": [
+          "LINCOLN",
+          "USNAVY",
+          "BURNOUT",
+          "CARRIER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:32:19.648899+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d758b429b51b",
+        "score": 79,
+        "category": "Finanzas",
+        "title": "/BBBYQ/ - /GameStop CEO is a creditor and co-debtor edition/",
+        "candidate_tickers": [
+          "BBBYQ",
+          "GMECEO",
+          "GAMESTOPCEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:32:32.730274+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "accidente aéreo",
+        "title": "Onlyfans",
+        "candidate_tickers": [
+          "#Ryanair",
+          "#VentiladorRoto",
+          "#AccidenteAereo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:32:59.213191+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "113cff534d13",
+        "score": 82,
+        "category": "Política y Controversia",
+        "title": "Prosecute/Fauci",
+        "candidate_tickers": [
+          "PROSECUTEFAUCI",
+          "FAUCI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T02:34:06.655603+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ac4e83545743",
+        "score": 74,
+        "category": "política",
+        "title": "Unlike her bro, she doesn't try to hide it",
+        "candidate_tickers": [
+          "ENDWOKENESS",
+          "BRO"
         ]
       }
     }
