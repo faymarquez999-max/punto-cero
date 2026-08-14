@@ -1,76 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T10:47:46.376368+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "627459691208",
-        "ticker": "ELONCOIN",
-        "mint": "DCjuEdUAaCWD7ZNHqMNjaN2dE2EsAQtpP5Pswjappump",
-        "mc": 170179.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:48.798037+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "20083df6e682",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 26755.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:52.161623+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "f36c40434b89",
-        "ticker": "CYCLOSPORA",
-        "mint": "9TnTx8Gx1t8aT7pMGbjwAEsrRjXPrMbFx2PKK2Etpump",
-        "mc": 16021.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:47:54.058812+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "65ce7e1228c0",
-        "ticker": "Luna Bear",
-        "mint": "DrPfiBKsHjxCK1Un8SQxf65V7v5vXTcuodrjg98Zpump",
-        "mc": 142080.0
-      }
-    },
-    {
-      "ts": "2026-07-19T11:46:09.068347+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fda4ec67a456",
-        "score": 80,
-        "category": "Política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMPFEUD",
-          "CONGRESSCLASH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T11:47:24.236258+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2750ad99210e",
-        "score": 88,
-        "category": "Noticias de crimen y justicia",
-        "title": "Tate brothers arrested in US as further UK charges take total to 59",
-        "candidate_tickers": [
-          "TATEBROTHERS",
-          "ARRESTOSTATE",
-          "VIOLACIÓNTATE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T11:48:04.945803+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27812,6 +27742,94 @@
         "candidate_tickers": [
           "RUSSIA_NO_CEASEFIRE",
           "BLACK_SEA_CONFLICT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:29:13.357888+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política internacional",
+        "title": "U.S. DEFENSE SECRETARY HEGSETH ON IRAN: U.S. CAN HOLD BLOCKADE AS LONG AS NEEDED",
+        "candidate_tickers": [
+          "IRANBLOCK",
+          "HEGSETH",
+          "USBLOCKADE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:29:32.471465+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política internacional",
+        "title": "U.S. SENDS FRESH AIRCRAFT CARRIER TO MIDDLE EAST",
+        "candidate_tickers": [
+          "USNAVAL",
+          "GEORGEW",
+          "LINCOLN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:31:18.286250+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3e0323a29b43",
+        "score": 89,
+        "category": "noticias internacionales",
+        "title": "NATO Jets Shot Down Drone That Entered Latvian Airspace - bloomberg.com",
+        "candidate_tickers": [
+          "NATO",
+          "LETONIA",
+          "DRON",
+          "INJUSTICIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:31:45.377751+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0e7d8ee2b281",
+        "score": 85,
+        "category": "meme sobre tecnología y celebridades",
+        "title": "Kekius Maximus",
+        "candidate_tickers": [
+          "KEKIUS",
+          "MAXIMUS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:32:42.759250+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "585b000657cf",
+        "score": 70,
+        "category": "meme compartido por una figura pública influyente",
+        "title": "Grok Imagine",
+        "candidate_tickers": [
+          "GROK",
+          "GROKIMAGINE",
+          "ELONGROK"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T13:33:10.072392+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f375a5f067de",
+        "score": 83,
+        "category": "humor y sociedad",
+        "title": "Unlike her bro, she doesn't try to hide it",
+        "candidate_tickers": [
+          "BRONOHIDE",
+          "NOHIDEBRO",
+          "WOKENESS"
         ]
       }
     }
