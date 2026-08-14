@@ -1,367 +1,6 @@
 {
   "watches": [
     {
-      "id": "db33cf2e9b97",
-      "fingerprint": "db33cf2e9b97",
-      "narrative_summary": "Elon Musk enfrenta acusaciones de engaño a accionistas de Twitter y enfrenta una multa de $150 millones",
-      "why_memeable": "La narrativa es memeable debido a la figura pública de Elon Musk y la acusación de engaño a accionistas",
-      "category": "Política y Negocios",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "TWITTER",
-        "SEC"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "Twitter",
-        "SEC",
-        "engaño a accionistas"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T10:01:45.105623+00:00",
-      "expires_at": "2026-08-12T10:01:45.105623+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 56912.0,
-        "liquidity_usd": 19645.52,
-        "price_usd": 5.854e-05,
-        "volume_h24": 56382.23,
-        "volume_h1": 4571.47,
-        "volume_m5": 930.21,
-        "price_change_5m": -8.71,
-        "price_change_1h": -14.59,
-        "price_change_24h": 27.98,
-        "txns_h1_buys": 57,
-        "txns_h1_sells": 46,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "/smg/ - stock market general",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T19:14:13.712090+00:00"
-    },
-    {
-      "id": "c1929a53ceb3",
-      "fingerprint": "c1929a53ceb3",
-      "narrative_summary": "Joe Biden's cancer has spread to his bones, according to his son Hunter.",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un contenido que puede ser compartido fácilmente.",
-      "category": "Politica/Noticias",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BIDENCANCER",
-        "HUNTERBIDEN",
-        "CANCERBIDEN"
-      ],
-      "key_terms_for_dex_search": [
-        "Joe Biden",
-        "cancer",
-        "Hunter Biden",
-        "politica"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 5,
-        "absurdity": 2,
-        "simplicity": 4,
-        "velocity": 6
-      },
-      "started_at": "2026-08-09T10:03:03.082075+00:00",
-      "expires_at": "2026-08-11T10:03:03.082075+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HUNTER",
-        "name": "Hunter Biden 2028",
-        "mint": "9zwhS3b1oYuUEqWNpu2SPkEH24JMVWFEVQvHuYXZpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 34104.0,
-        "liquidity_usd": 20842.98,
-        "price_usd": 3.411e-05,
-        "volume_h24": 106962.62,
-        "volume_h1": 12.07,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -0.16,
-        "price_change_24h": 70.34,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 2,
-        "created_ts": 1780392254000,
-        "pair_created_at": 1780392254000,
-        "url": "https://dexscreener.com/solana/hxmuvcxsvvcnpym86a4xtsjxvegvqqbuxopuswr13s6x",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: HUNTER BIDEN in HUNTER BIDEN 2028",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T19:14:15.520780+00:00"
-    },
-    {
-      "id": "0113d042cd5a",
-      "fingerprint": "0113d042cd5a",
-      "narrative_summary": "Joe Biden's cancer has spread to his bones, according to his son Hunter.",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y una frase clave que se puede capturar fácilmente.",
-      "category": "Política y Salud",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "BIDENCANCER",
-        "HUNTERBIDEN",
-        "JOEBIDEN"
-      ],
-      "key_terms_for_dex_search": [
-        "JoeBiden",
-        "cancer",
-        "HunterBiden"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T10:50:37.775235+00:00",
-      "expires_at": "2026-08-11T10:50:37.775235+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-11T11:10:11.999968+00:00"
-    },
-    {
-      "id": "d61f941abe80",
-      "fingerprint": "d61f941abe80",
-      "narrative_summary": "Celebridad y escándalos de infidelidad, junto con un comentario de Elon Musk sobre hacer realidad lo que se imagina, generan una mezcla de emociones y reflexión.",
-      "why_memeable": "La combinación de un título impactante y el comentario simple pero profundo de Elon Musk ofrece una mezcla de shock, reflexión y humor absurdo.",
-      "category": "Celebridad y Escándalo",
-      "matched_archetype": "unexpected_celebrity_drama",
-      "candidate_tickers": [
-        "LIT",
-        "BURN",
-        "FAITHLOST",
-        "MUSKREAL"
-      ],
-      "key_terms_for_dex_search": [
-        "celebridad",
-        "escándalo",
-        "infidelidad",
-        "Elon Musk",
-        "realidad"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T10:50:39.691015+00:00",
-      "expires_at": "2026-08-12T10:50:39.691015+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "LIT",
-        "name": "Lighter",
-        "mint": "EicWvteVi2fWepEzS3FYWsnuPoP6caZfjnKqNvydLjCH",
-        "chain": "solana",
-        "dex": "orca",
-        "market_cap_usd": 328350.0,
-        "liquidity_usd": 8522.3,
-        "price_usd": 2.32,
-        "volume_h24": 9293.41,
-        "volume_h1": 1921.91,
-        "volume_m5": 132.02,
-        "price_change_5m": 0.37,
-        "price_change_1h": -0.24,
-        "price_change_24h": 2.1,
-        "txns_h1_buys": 34,
-        "txns_h1_sells": 10,
-        "created_ts": 1781709181000,
-        "pair_created_at": 1781709181000,
-        "url": "https://dexscreener.com/solana/7mdv3xcsz7ehk7zf4ugw65rpe5mov1qvrpxpdpyfypsx",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: LIT==LIT",
-        "safety_score": 62203,
-        "safety_risks": [
-          {
-            "name": "Mint Authority still enabled",
-            "level": "danger",
-            "description": "More tokens can be minted by the owner"
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          },
-          {
-            "name": "Mutable metadata",
-            "level": "warn",
-            "description": "Token metadata can be changed by the owner"
-          }
-        ]
-      },
-      "cluster_top_title": "Literally",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-09T19:14:17.597114+00:00"
-    },
-    {
-      "id": "1cb8a1af687e",
-      "fingerprint": "1cb8a1af687e",
-      "narrative_summary": "Elon Musk se enfrenta a una demanda de la SEC y se enfrenta a una multa de $1.5 millones en lugar de $150 millones",
-      "why_memeable": "La narrativa es memeable porque involucra a una figura pública (Elon Musk) y una demanda legal que genera interés",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "MUSK",
-        "SEC",
-        "TRILLIONAIRE"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "SEC",
-        "demanda",
-        "multa",
-        "Twitter"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-08-09T12:07:29.043072+00:00",
-      "expires_at": "2026-08-11T12:07:29.043072+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 60389.0,
-        "liquidity_usd": 20289.71,
-        "price_usd": 6.211e-05,
-        "volume_h24": 58108.63,
-        "volume_h1": 765.87,
-        "volume_m5": 53.25,
-        "price_change_5m": -0.45,
-        "price_change_1h": -5.91,
-        "price_change_24h": -10.66,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 20,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Try version of Grok image editing",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:45:35.017463+00:00"
-    },
-    {
       "id": "faa7c0b2e375",
       "fingerprint": "faa7c0b2e375",
       "narrative_summary": "Elon Musk enfrenta demandas y acuerdos relacionados con Twitter y la SEC, generando interés y controversia en línea.",
@@ -4437,7 +4076,7 @@
       "started_at": "2026-08-11T02:56:38.845668+00:00",
       "expires_at": "2026-08-14T02:56:38.845668+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Hitler’s socialism wasn’t just an internal economic policy – it was the cause of the war.",
       "cluster_sources": [
@@ -4446,7 +4085,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 10,
+      "expired_at": "2026-08-14T04:26:32.247564+00:00"
     },
     {
       "id": "4adde1ead766",
@@ -7738,13 +7378,14 @@
       "started_at": "2026-08-12T02:32:38.918046+00:00",
       "expires_at": "2026-08-14T02:32:38.918046+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "lmao",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-14T04:26:32.247586+00:00"
     },
     {
       "id": "c999011ae6b5",
@@ -7830,14 +7471,15 @@
       "started_at": "2026-08-12T04:26:31.497296+00:00",
       "expires_at": "2026-08-14T04:26:31.497296+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-14T04:26:32.247590+00:00"
     },
     {
       "id": "e89691289800",
@@ -10914,7 +10556,241 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e4f63e5d233f",
+      "fingerprint": "e4f63e5d233f",
+      "narrative_summary": "Donald Trump y Elon Musk se reencuentran para cenar en Mar-a-Lago, generando especulaciones sobre su relación",
+      "why_memeable": "La reunión entre Trump y Musk es un evento inesperado que genera interés y especulación, lo que lo hace memeable",
+      "category": "Política y celebridades",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "TRUMUSK",
+        "MUSKTRUMP",
+        "MARALAGO",
+        "TRUMPDINNER"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Mar-a-Lago",
+        "Dinner",
+        "Reunión"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 7,
+        "velocity": 8
+      },
+      "started_at": "2026-08-14T04:26:33.538548+00:00",
+      "expires_at": "2026-08-17T04:26:33.538548+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok 4.6",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "781ff5cebfe5",
+      "fingerprint": "781ff5cebfe5",
+      "narrative_summary": "Condiciones en portaaviones de EE. UU. en el mar durante más de 250 días generan alarmas",
+      "why_memeable": "La combinación de la duración extrema de la estadía en el mar, las condiciones de vida precarias y la reacción de los marineros crea un escenario con alto potencial para generar memes y discusiones",
+      "category": "noticias políticas y militares",
+      "matched_archetype": "injusticia_with_villain_and_victim",
+      "candidate_tickers": [
+        "USALINCOLN",
+        "CARRIERGATE",
+        "MARINEROSALBORDE",
+        "PORTAAVIONES",
+        "USNAVYFAIL"
+      ],
+      "key_terms_for_dex_search": [
+        "USS Abraham Lincoln",
+        "portaaviones",
+        "condiciones de vida",
+        "marineros",
+        "EE. UU."
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T04:27:19.777403+00:00",
+      "expires_at": "2026-08-17T04:27:19.777403+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2a2de4559f21",
+      "fingerprint": "2a2de4559f21",
+      "narrative_summary": "Elon Musk pide la persecución de Fauci, generando gran controversia y debate en redes sociales.",
+      "why_memeable": "La frase 'Prosecute/Fauci' es corta y fácil de recordar, y el contexto de la petición de Elon Musk la hace especialmente compartible y viral.",
+      "category": "Política y Controversia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PROSECUTEFAUCI",
+        "FAUCI",
+        "ELONMUSKVSFAUCI"
+      ],
+      "key_terms_for_dex_search": [
+        "ProsecuteFauci",
+        "ElonMusk",
+        "Fauci",
+        "Controversia"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-14T04:27:47.118997+00:00",
+      "expires_at": "2026-08-16T04:27:47.118997+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Prosecute/Fauci",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "d8fefefbb6a4",
+      "fingerprint": "d8fefefbb6a4",
+      "narrative_summary": "Una mujer no intenta ocultar su condición física, a diferencia de su hermano.",
+      "why_memeable": "La frase es corta y fácil de recordar, con un núcleo claro de comparación entre la mujer y su hermano.",
+      "category": "humor, ironía",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "WOKENESS",
+        "ENDWOKENESS",
+        "BRO"
+      ],
+      "key_terms_for_dex_search": [
+        "Wokeness",
+        "EndWokeness",
+        "Bro",
+        "ironía",
+        "humor"
+      ],
+      "score": 82,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 8,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T04:28:23.452121+00:00",
+      "expires_at": "2026-08-16T04:28:23.452121+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Unlike her bro, she doesn't try to hide it",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "526bf76c2498",
+      "fingerprint": "526bf76c2498",
+      "narrative_summary": "Nova enseña a Grok a desensamblar binarios en C limpio, empezando con ROMs de GameBoy de 262KB y terminando con la reconstrucción del runtime del ECU de un coche de 1995.",
+      "why_memeable": "La narrativa tiene un núcleo fácil de capturar (Grok y Nova desensamblando binarios) y es fácilmente compartible.",
+      "category": "Desarrollo de software y tecnología",
+      "matched_archetype": "tech_or_product_surprise_or_failure",
+      "candidate_tickers": [
+        "GROK",
+        "NOVA",
+        "BINARIOS",
+        "GAMEBOY",
+        "ECU"
+      ],
+      "key_terms_for_dex_search": [
+        "Grok",
+        "Nova",
+        "binarios",
+        "GameBoy",
+        "ECU",
+        "desensamblar"
+      ],
+      "score": 85,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 2,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T04:28:52.976461+00:00",
+      "expires_at": "2026-08-17T04:28:52.976461+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "1st Place: Nova taught Grok to reverse-engineer binaries into clean C. Started with 262KB GameBoy ROMs, ended up rebuilding a 1995 car’s ECU runtime. @theoc____ @supratikp07 @henryzhangumich",
+      "cluster_sources": [
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T02:34:06.154191+00:00"
+  "last_updated": "2026-08-14T04:28:52.976461+00:00"
 }

@@ -1,82 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T04:00:13.784870+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "5d4f9fadc36b",
-        "score": 80,
-        "category": "Deportes",
-        "title": "My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs.",
-        "candidate_tickers": [
-          "WCUP",
-          "ENGFRA",
-          "GOALFEST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:00:15.476069+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ac0140647bcd",
-        "score": 80,
-        "category": "Celebridad y justicia",
-        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-        "candidate_tickers": [
-          "TATEBROS",
-          "JUSTICETATE",
-          "TATEARREST",
-          "INFLUENCERDOWN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:00:37.218155+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "627459691208",
-        "score": 80,
-        "category": "Política y celebridades",
-        "title": "New EU border system tripling time at passport control, airport boss says",
-        "candidate_tickers": [
-          "MUSKTRUMP",
-          "TRUMPFEUD",
-          "ELONVSDONALD",
-          "MUSKTRUMPWAR"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:01:25.769331+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 58,
-        "category": "Salud y Recalls",
-        "title": "Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business",
-        "candidate_tickers": [
-          "Cyclospora",
-          "lechuga",
-          "recall",
-          "salud"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T04:02:13.055948+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine - Politico",
-        "candidate_tickers": [
-          "TroyJackson",
-          "RalphNorman",
-          "LindseyGraham"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T04:03:17.682918+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27770,6 +27694,86 @@
         "candidate_tickers": [
           "ENDWOKENESS",
           "BRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T04:26:34.052477+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e4f63e5d233f",
+        "score": 80,
+        "category": "Política y celebridades",
+        "title": "Grok 4.6",
+        "candidate_tickers": [
+          "TRUMUSK",
+          "MUSKTRUMP",
+          "MARALAGO",
+          "TRUMPDINNER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T04:27:20.274080+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "781ff5cebfe5",
+        "score": 80,
+        "category": "noticias políticas y militares",
+        "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+        "candidate_tickers": [
+          "USALINCOLN",
+          "CARRIERGATE",
+          "MARINEROSALBORDE",
+          "PORTAAVIONES",
+          "USNAVYFAIL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T04:27:47.620611+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2a2de4559f21",
+        "score": 82,
+        "category": "Política y Controversia",
+        "title": "Prosecute/Fauci",
+        "candidate_tickers": [
+          "PROSECUTEFAUCI",
+          "FAUCI",
+          "ELONMUSKVSFAUCI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T04:28:24.033027+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d8fefefbb6a4",
+        "score": 82,
+        "category": "humor, ironía",
+        "title": "Unlike her bro, she doesn't try to hide it",
+        "candidate_tickers": [
+          "WOKENESS",
+          "ENDWOKENESS",
+          "BRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T04:28:53.479703+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "526bf76c2498",
+        "score": 85,
+        "category": "Desarrollo de software y tecnología",
+        "title": "1st Place: Nova taught Grok to reverse-engineer binaries into clean C. Started with 262KB GameBoy ROMs, ended up rebuilding a 1995 car’s ECU runtime. @theoc____ @supratikp07 @henryzhangumich",
+        "candidate_tickers": [
+          "GROK",
+          "NOVA",
+          "BINARIOS",
+          "GAMEBOY",
+          "ECU"
         ]
       }
     }
