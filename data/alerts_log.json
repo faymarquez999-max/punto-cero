@@ -1,65 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T09:05:11.785320+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ab7615b54745",
-        "score": 80,
-        "category": "Tecnología y Negocios",
-        "title": "Gold rush",
-        "candidate_tickers": [
-          "GOLDRUSH",
-          "ELONGOLD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T09:05:51.858194+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ab0ee8c7f6f0",
-        "ticker": "PATRIOTS",
-        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
-        "mc": 270744.0
-      }
-    },
-    {
-      "ts": "2026-07-19T09:05:56.927241+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "ac0140647bcd",
-        "ticker": "DTV",
-        "mint": "CPLTbYbtDMKZtHBaPqdDmHjxNwESCEB14gm6VuoDpump",
-        "mc": 82269.0
-      }
-    },
-    {
-      "ts": "2026-07-19T09:06:02.821531+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "20083df6e682",
-        "ticker": "ice",
-        "mint": "CgnudNWM6Se7mfkGHFGZ4A1YPqjpYmd8bW3nsAEKpump",
-        "mc": 26758.0
-      }
-    },
-    {
-      "ts": "2026-07-19T10:42:41.868523+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2c2d14128f59",
-        "score": 80,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "TRUMPMASSIE",
-          "WORSTCONGRESS",
-          "TRUMPENDORSE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T10:43:24.000166+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27761,6 +27702,81 @@
           "TrumpCatapults",
           "SteamShipyard",
           "CatapultGate"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T10:15:45.193384+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "6a9f97ec34de",
+        "score": 70,
+        "category": "Celebridades con cáncer",
+        "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+        "candidate_tickers": [
+          "LUCYDAVISCANCER",
+          "ACTRICESCONCANCER",
+          "CANCERENLATELEVISA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T10:16:17.973703+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b6801b0430bc",
+        "score": 88,
+        "category": "conflicto internacional",
+        "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+        "candidate_tickers": [
+          "RUSIAATACA",
+          "UCRANIAFUERZA",
+          "PORTFUEGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T10:16:36.919361+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Cultura y entretenimiento",
+        "title": "Sarajevo Film Festival Boss Jovan Marjanović on Owning Its Powerful Origin Story: “We Connect This Legacy of War… and Build Bridges”",
+        "candidate_tickers": [
+          "Chainlink",
+          "Sarajevo",
+          "Festival de Cine"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T10:17:12.585725+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f08238197b5e",
+        "score": 70,
+        "category": "Política",
+        "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+        "candidate_tickers": [
+          "FARAGEWINS",
+          "BINFACELOSES",
+          "CLACTONBYELECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T10:17:46.245663+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e0feb080e9a9",
+        "score": 80,
+        "category": "Celebridad",
+        "title": "Drake Dating Show 'Goth Baddie' Pinkchyu Reveals Another Celeb Barked in Her DMs - TMZ",
+        "candidate_tickers": [
+          "PINKCHYU",
+          "GOTH BADDIE",
+          "BARKING",
+          "DMS"
         ]
       }
     }
