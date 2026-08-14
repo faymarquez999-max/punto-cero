@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "34cf21eda9dc",
-      "fingerprint": "34cf21eda9dc",
-      "narrative_summary": "12 celebridades acusadas de infidelidad y la respuesta de Elon Musk",
-      "why_memeable": "La narrativa combina celebridades, infidelidad y una respuesta absurda de Elon Musk, lo que la hace fácilmente compartible y recordable",
-      "category": "Celebridades y escándalos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "LITCHEATERS",
-        "CELEBSCANDALS",
-        "ELONMUSKBURNS"
-      ],
-      "key_terms_for_dex_search": [
-        "celebridades",
-        "infidelidad",
-        "ElonMusk",
-        "Buzzfeed"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 8,
-        "polarizing": 6,
-        "absurdity": 9,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T19:10:03.370532+00:00",
-      "expires_at": "2026-08-11T19:10:03.370532+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Literally",
-      "cluster_sources": [
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-11T21:57:58.275364+00:00"
-    },
-    {
       "id": "09d07fab1799",
       "fingerprint": "09d07fab1799",
       "narrative_summary": "Elon Musk comparte un mensaje 'true' en Twitter, generando gran interés y debate en la comunidad de 4chan y Twitter.",
@@ -7637,14 +7591,15 @@
       "started_at": "2026-08-12T20:57:32.153585+00:00",
       "expires_at": "2026-08-14T20:57:32.153585+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "3 people found dead, including child, at a daycare in the Minneapolis area - NBC News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-14T21:00:00.424822+00:00"
     },
     {
       "id": "a1bff6ce1375",
@@ -7728,14 +7683,15 @@
       "started_at": "2026-08-12T20:58:30.352147+00:00",
       "expires_at": "2026-08-14T20:58:30.352147+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 1,
+      "expired_at": "2026-08-14T21:00:00.424837+00:00"
     },
     {
       "id": "54ab9e9d4c28",
@@ -10476,7 +10432,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9acbd46afe1e",
+      "fingerprint": "9acbd46afe1e",
+      "narrative_summary": "Jason Arday, ex-profesor de Cambridge, encontrado muerto en medio de un escándalo de plagio.",
+      "why_memeable": "La narrativa tiene un componente de escándalo y muerte, lo que la hace interesante y compartible.",
+      "category": "política y escándalos",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JASONARDAY",
+        "PLAGIOCAMBRIDGE",
+        "ESCÁNDALOACADÉMICO"
+      ],
+      "key_terms_for_dex_search": [
+        "Jason Arday",
+        "plagio",
+        "Cambridge",
+        "escándalo"
+      ],
+      "score": 78,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 6,
+        "visual": 3,
+        "cultural_resonance": 8,
+        "polarizing": 5,
+        "absurdity": 4,
+        "simplicity": 7,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T21:00:15.886063+00:00",
+      "expires_at": "2026-08-16T21:00:15.886063+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T20:19:02.331116+00:00"
+  "last_updated": "2026-08-14T21:00:15.886063+00:00"
 }

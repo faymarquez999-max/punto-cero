@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T15:32:17.232470+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b98a00d7cf81",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Robot fights are fun 😂",
-        "candidate_tickers": [
-          "ROBOTFIGHTS",
-          "FUNROBOTS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T15:33:07.629235+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "88e482524b41",
-        "score": 85,
-        "category": "Tecnología espacial",
-        "title": "Mass drivers on the mf Moon!!",
-        "candidate_tickers": [
-          "LUNA",
-          "DRIVERS",
-          "MFMOON"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T15:33:51.294539+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27818,6 +27789,35 @@
           "MANGIONEGUILTY",
           "LUIGIMANGIONE",
           "ASESINATOEJECUTIVOSALUD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T21:00:16.446085+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9acbd46afe1e",
+        "score": 78,
+        "category": "política y escándalos",
+        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+        "candidate_tickers": [
+          "JASONARDAY",
+          "PLAGIOCAMBRIDGE",
+          "ESCÁNDALOACADÉMICO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T21:01:42.108108+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "negocios",
+        "title": "U.S.-Iran ceasefire set to expire with talks at a standstill - Politico",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "TESLA"
         ]
       }
     }
