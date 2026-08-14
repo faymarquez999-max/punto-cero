@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T11:48:04.945803+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "34c9fc9a84c0",
-        "score": 90,
-        "category": "Guerra en Ucrania",
-        "title": "Russia pounds Kyiv in major ballistic missile attack - Reuters",
-        "candidate_tickers": [
-          "KYIVUNDERATTACK",
-          "RUSIAATACAUCRANIA",
-          "MISSILESBALISTICOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T11:48:55.827250+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27830,6 +27815,21 @@
           "BRONOHIDE",
           "NOHIDEBRO",
           "WOKENESS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T14:37:27.822437+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8f39154faa34",
+        "score": 80,
+        "category": "política internacional",
+        "title": "U.S. SENDS FRESH AIRCRAFT CARRIER TO MIDDLE EAST",
+        "candidate_tickers": [
+          "USSEND",
+          "PORTAAVIONES",
+          "MIDEAST"
         ]
       }
     }

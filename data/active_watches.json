@@ -1,57 +1,6 @@
 {
   "watches": [
     {
-      "id": "fa9c98933653",
-      "fingerprint": "fa9c98933653",
-      "narrative_summary": "Una mujer y su bebé de 5 meses mueren tras el vuelco de una embarcación cerca de la Estatua de la Libertad en Nueva York.",
-      "why_memeable": "La combinación de una tragedia inesperada, la ubicación icónica y la presencia de un bebé crea una narrativa con alto potencial emocional y cultural.",
-      "category": "noticias_de_ultimo_momento",
-      "matched_archetype": "tragedia_inesperada",
-      "candidate_tickers": [
-        "LIBERTYTRAGEDY",
-        "NYCBOAT",
-        "STATUEOFTRAGEDY",
-        "BABYONTHEWATER",
-        "NYCTRAGEDY"
-      ],
-      "key_terms_for_dex_search": [
-        "Estatua de la Libertad",
-        "tragedia",
-        "bebé",
-        "Nueva York",
-        "embarcación"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T14:56:47.118138+00:00",
-      "expires_at": "2026-08-12T14:56:47.118138+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-12T15:18:05.161446+00:00"
-    },
-    {
       "id": "b65f1b95aed1",
       "fingerprint": "b65f1b95aed1",
       "narrative_summary": "Israel rechaza el plan de 15 puntos de Trump para Gaza, según Netanyahu",
@@ -7579,14 +7528,15 @@
       "started_at": "2026-08-12T14:09:48.619072+00:00",
       "expires_at": "2026-08-14T14:09:48.619072+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FIRE",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-14T14:34:52.106359+00:00"
     },
     {
       "id": "f27a81fdb67d",
@@ -10660,7 +10610,52 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "8f39154faa34",
+      "fingerprint": "8f39154faa34",
+      "narrative_summary": "EE.UU. envía portaaviones fresco al Medio Oriente en medio de tensión con Irán.",
+      "why_memeable": "La frase es corta y fácil de recordar, y el tema de la tensión internacional es siempre relevante.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "USSEND",
+        "PORTAAVIONES",
+        "MIDEAST"
+      ],
+      "key_terms_for_dex_search": [
+        "EE.UU.",
+        "portaaviones",
+        "Medio Oriente",
+        "tensión internacional"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-14T14:37:27.397597+00:00",
+      "expires_at": "2026-08-17T14:37:27.397597+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "U.S. SENDS FRESH AIRCRAFT CARRIER TO MIDDLE EAST",
+      "cluster_sources": [
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T13:33:09.552498+00:00"
+  "last_updated": "2026-08-14T14:37:27.397597+00:00"
 }
