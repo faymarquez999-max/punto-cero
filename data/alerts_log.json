@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T15:30:09.984919+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "meteorología",
-        "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
-        "candidate_tickers": [
-          "CiclónFlorida",
-          "HuracánEEUU",
-          "CiclónCercaDeFlorida"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T15:30:41.017590+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 69,
-        "category": "arrestos y cargos",
-        "title": "Tate brothers arrested in US as further UK charges take total to 59 - BBC",
-        "candidate_tickers": [
-          "TateBrothers",
-          "ViolaciónyTraffico",
-          "ArrestosEEUU"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T15:31:12.869559+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1c13a11593a3",
-        "score": 88,
-        "category": "noticias internacionales",
-        "title": "Russian missile attack on Kyiv kills 1 and exposes holes in air defenses - AP News",
-        "candidate_tickers": [
-          "KYIV",
-          "RUSIA",
-          "ATAQUE DE MISILES",
-          "DEFENSAS AÉREAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T15:31:55.689896+00:00",
       "kind": "shadow",
       "payload": {
@@ -27819,6 +27775,48 @@
         "candidate_tickers": [
           "NIGERKIDNAPPING",
           "MISIONEROLIBERADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T19:42:29.319248+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "32d405d9b01c",
+        "score": 80,
+        "category": "criptomonedas",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "XSG"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T19:43:12.919663+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Noticias",
+        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+        "candidate_tickers": [
+          "WWII_Vandal",
+          "Memorial_Madness",
+          "Vandal_Woman"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T19:43:42.751964+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Deportes",
+        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+        "candidate_tickers": [
+          "FinlayTarling",
+          "VueltaAPortugal",
+          "Ciclismo"
         ]
       }
     }
