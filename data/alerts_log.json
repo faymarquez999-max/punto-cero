@@ -1,102 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T06:41:40.670362+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a3c86ea4295a",
-        "score": 80,
-        "category": "Política y conflicto",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMP22",
-          "CONFLICT",
-          "POLARIZE",
-          "BADREP",
-          "TRUMPVSMASSIE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T06:43:06.023767+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
-        "candidate_tickers": [
-          "OteroAlcantara",
-          "Rubio",
-          "ExiliadoCubano"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T06:43:47.850872+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3b85657e8afc",
-        "score": 90,
-        "category": "Celebridad/Arresto",
-        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera",
-        "candidate_tickers": [
-          "TATE",
-          "TATEBROTHERS",
-          "ARRESTOS",
-          "VIOLACIÓN",
-          "TRÁFICOSEXUAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T06:44:35.120562+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6f599e7883b2",
-        "score": 80,
-        "category": "política y justicia",
-        "title": "US Marshals arrest 'hypermasculine' social media stars Andrew and Tristan Tate, UK seeks extradition - Reuters",
-        "candidate_tickers": [
-          "MUSKTATE",
-          "TATEMUSK",
-          "ELONMUSK",
-          "ANDREWTATE",
-          "TRISTANTATE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T06:45:16.854674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9703dba8cf1d",
-        "score": 79,
-        "category": "Deportes",
-        "title": "Best England team for a long time? That's a fact, says Rice",
-        "candidate_tickers": [
-          "INGLATERRA2022",
-          "RICEDECLAN",
-          "COPADELMUNDO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T06:46:01.525131+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1dae69c476ed",
-        "score": 70,
-        "category": "salud pública",
-        "title": "Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business",
-        "candidate_tickers": [
-          "CYCLOSPORA",
-          "LECHUGA",
-          "RECALL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T06:46:54.251724+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27771,6 +27675,96 @@
           "Mangione",
           "asesinato",
           "plea deal"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:47:22.038394+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "Muertes de celebridades",
+        "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+        "candidate_tickers": [
+          "#CelebridadMuerte",
+          "#BreveEnfermedad",
+          "#MuerteSorpresa"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:47:49.634789+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f9b688c58fd",
+        "score": 90,
+        "category": "política internacional",
+        "title": "Over the years, experience has told me not to believe group forces that could convince you that something is of high val",
+        "candidate_tickers": [
+          "QUSRA",
+          "ASEDIO ISRAELÍ",
+          "PALESTINOS",
+          "CISJORDANIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:49:10.715644+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8b9889c7573c",
+        "score": 88,
+        "category": "política",
+        "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+        "candidate_tickers": [
+          "FARAGEVSBINFACE",
+          "BINFACEWINS",
+          "CLACTONBYELECTION"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:49:40.414550+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4d29366ecde2",
+        "score": 70,
+        "category": "desastres naturales",
+        "title": "'Unprecedented' rains in Japan kill six people",
+        "candidate_tickers": [
+          "JAPAN_RAIN",
+          "TORRENTES_JAPON",
+          "DESESTRES_NATURALES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:50:54.668402+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Celebridad",
+        "title": "Brawl Breaks Out at Fancy Beverly Hills Steakhouse, on Video",
+        "candidate_tickers": [
+          "ELONvsTRUMP",
+          "BeverlyHillsBrawl",
+          "CelebridadAltercado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-14T07:52:02.064294+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e8bfc62daf47",
+        "score": 88,
+        "category": "Deportes",
+        "title": "Josh Kushner acapara reflectores tras sorprendente compra de los Lakers con Bob Iger - Boston Herald",
+        "candidate_tickers": [
+          "LAKERS",
+          "JOSHKUSHNER",
+          "BOBIGER",
+          "LAKERSBUY"
         ]
       }
     }
