@@ -1,51 +1,6 @@
 {
   "watches": [
     {
-      "id": "09d07fab1799",
-      "fingerprint": "09d07fab1799",
-      "narrative_summary": "Elon Musk comparte un mensaje 'true' en Twitter, generando gran interés y debate en la comunidad de 4chan y Twitter.",
-      "why_memeable": "La simplicidad de la frase 'true' y su repetición en diferentes fuentes hacen que sea fácilmente compartible y recordable.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELONMUSK",
-        "BIZ"
-      ],
-      "key_terms_for_dex_search": [
-        "ELONMUSK",
-        "TRUE",
-        "BIZ"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 7,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T19:10:33.219509+00:00",
-      "expires_at": "2026-08-10T19:10:33.219509+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-10T19:45:22.810544+00:00"
-    },
-    {
       "id": "0a2377f7d8da",
       "fingerprint": "0a2377f7d8da",
       "narrative_summary": "Senador Jim Banks sugiere al Representante Max Miller que renuncie a su candidatura a la reelección si las acusaciones son ciertas.",
@@ -5624,7 +5579,7 @@
       "started_at": "2026-08-11T21:57:59.657920+00:00",
       "expires_at": "2026-08-14T21:57:59.657920+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week",
       "cluster_sources": [
@@ -5633,7 +5588,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-14T22:02:34.232770+00:00"
     },
     {
       "id": "172d196d5eb3",
@@ -7729,14 +7685,15 @@
       "started_at": "2026-08-12T21:56:47.498954+00:00",
       "expires_at": "2026-08-14T21:56:47.498954+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Weird files: Arkansas HS athlete practiced with cottonmouth snake nestled inside his helmet - Civic Media",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 2,
+      "expired_at": "2026-08-14T22:02:34.232806+00:00"
     },
     {
       "id": "48f6b0417bb9",
@@ -10612,7 +10569,53 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "81681436d903",
+      "fingerprint": "81681436d903",
+      "narrative_summary": "Trump amenaza con declarar el Estrecho de Ormuz como territorio de los EE. UU. ante la guerra con Irán",
+      "why_memeable": "La narrativa es fácilmente capturable en una frase corta y tiene un alto potencial de compartir.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "HORMUZ",
+        "TRUMP",
+        "IRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "HORMUZ",
+        "TRUMP",
+        "IRAN",
+        "GUERRA"
+      ],
+      "score": 90,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-14T22:03:11.865985+00:00",
+      "expires_at": "2026-08-16T22:03:11.865985+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-14T21:41:03.825705+00:00"
+  "last_updated": "2026-08-14T22:03:11.865985+00:00"
 }
