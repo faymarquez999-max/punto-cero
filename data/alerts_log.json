@@ -1,29 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T21:59:03.558232+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dee14f7655ef",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 133844.0
-      }
-    },
-    {
-      "ts": "2026-07-20T23:07:40.428853+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Deportes",
-        "title": "The next World Cup in 2030 will be played in Uruguay, Argentina, Paraguay, Morocco, Portugal and Spain.",
-        "candidate_tickers": [
-          "MUNDIAL2030",
-          "URUGUAYARGENTINA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T23:12:21.751139+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27794,6 +27771,35 @@
         "ticker": "BP",
         "mint": "JB8rMqyFmypiMqjiJ13bitubssM6aYDdq5ndUF5Wpump",
         "mc": 52548.0
+      }
+    },
+    {
+      "ts": "2026-08-15T12:00:41.583643+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "política",
+        "title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
+        "candidate_tickers": [
+          "Xi",
+          "China",
+          "Desastres",
+          "Prevención"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T12:05:13.413626+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "fútbol, deportes",
+        "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+        "candidate_tickers": [
+          "FERRANTORRES",
+          "PARISTG",
+          "BARCELONA"
+        ]
       }
     }
   ]
