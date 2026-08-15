@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T15:20:41.181968+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "política internacional",
-        "title": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
-        "candidate_tickers": [
-          "Houthis",
-          "Saudi Arabia",
-          "Blockade"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T15:22:08.295525+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cd9008583505",
-        "score": 82,
-        "category": "fútbol",
-        "title": "xcancel.com/i/jf/soccer/league/mat…",
-        "candidate_tickers": [
-          "FUTBOL_AERIO",
-          "ELON_MUSK_FUTBOL",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T17:04:37.234746+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Política y geopolítica",
-        "title": "IRAN SKEPTICAL OF U.S. INTENTIONS",
-        "candidate_tickers": [
-          "TRUMP_IRAN",
-          "IRAN_USA",
-          "GUERRA_IRAN_USA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T17:05:05.625786+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27773,6 +27730,52 @@
         "ticker": "Imagine",
         "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
         "mc": 10292.0
+      }
+    },
+    {
+      "ts": "2026-08-15T07:01:25.861990+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "22f1003a97d9",
+        "score": 80,
+        "category": "Política y Actualidad",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "LINCOLN",
+          "TRUMPNAVY",
+          "USSTROUBLE",
+          "ABEINCRISIS",
+          "TRUMPDENIES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T07:02:53.961339+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a1c416c5d67c",
+        "score": 74,
+        "category": "Música",
+        "title": "6 years ago today, ITZY released ‘Not Shy.’",
+        "candidate_tickers": [
+          "ITZY",
+          "NOTSHY",
+          "6YEARSAGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T07:03:41.965652+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 58,
+        "category": "monedas memes",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MEME",
+          "AI"
+        ]
       }
     }
   ]
