@@ -1,48 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T11:28:04.381241+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a44756f624ed",
-        "score": 74,
-        "category": "política",
-        "title": "KASH PATEL IS PLANNING A TRIP TO RUSSIA",
-        "candidate_tickers": [
-          "KASHRUSSIA",
-          "PATELRUSSIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T11:29:23.511022+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "tecnología, recomendaciones",
-        "title": "Try Grok Build, it’s awesome! X.ai/cli",
-        "candidate_tickers": [
-          "GROK",
-          "XAICLI",
-          "TRYGROK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T11:29:51.433286+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T11:30:34.047882+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27791,6 +27749,42 @@
         "ticker": "Luigi",
         "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
         "mc": 339757.0
+      }
+    },
+    {
+      "ts": "2026-08-15T15:03:14.930156+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2f481d93ef18",
+        "score": 84,
+        "category": "política",
+        "title": "How $600B of Biden’s clean energy funding escaped Trump’s cuts - Politico",
+        "candidate_tickers": [
+          "BIDEN",
+          "TRUMP",
+          "CLEANENERGY",
+          "FUNDING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T15:08:31.667743+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "09798e4a11c0",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214382.0
+      }
+    },
+    {
+      "ts": "2026-08-15T15:08:36.502701+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2869d9d2846e",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214382.0
       }
     }
   ]
