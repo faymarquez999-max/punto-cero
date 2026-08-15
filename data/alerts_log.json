@@ -1,51 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T16:50:15.226553+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Trump administration pauses $1 billion in Medicaid payments to California, Minnesota - Reuters",
-        "candidate_tickers": [
-          "TRUMP_MEDICAID",
-          "MEDICAID_PAUSED",
-          "CALIFORNIA_MEDICAID"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T16:50:46.895642+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "05514a0d4885",
-        "score": 89,
-        "category": "crimen y justicia",
-        "title": "Murdered ex-UK minister Widdecombe was struck on head with hammer 21 times, court told - Reuters",
-        "candidate_tickers": [
-          "WIDDECOMBE",
-          "MARTILLO",
-          "DEVON",
-          "ATAQUE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T16:51:27.806490+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c8c4bc05ba7a",
-        "score": 73,
-        "category": "energía y política",
-        "title": "CPC stops accepting Kazakh oil due to attacks on tankers, sources say - Reuters",
-        "candidate_tickers": [
-          "KAZOIL",
-          "CPCSTOP",
-          "PETROATTACK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T18:05:55.309301+00:00",
       "kind": "shadow",
       "payload": {
@@ -27798,6 +27753,42 @@
           "USSLINCOLN",
           "DIRECONDITIONS"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T21:02:59.891638+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b66b8a892316",
+        "score": 72,
+        "category": "política internacional",
+        "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+        "candidate_tickers": [
+          "EGIPTO",
+          "ERDOGAN",
+          "PACTO DE DEFENSA",
+          "TURQUIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T21:08:15.732746+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "afc0123a03be",
+        "ticker": "Arday",
+        "mint": "8kzojNtviuzBWdb1C6ikc4fdPatTgYnnubBFbrvGpump",
+        "mc": 28983.0
+      }
+    },
+    {
+      "ts": "2026-08-15T21:08:18.934290+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "dcf9a9fb3c04",
+        "ticker": "MemeSeason",
+        "mint": "aUWH9iX3BKKeMHP6aoAf2r2KPjLq8h9Kim2YC48pump",
+        "mc": 125989.0
       }
     }
   ]
