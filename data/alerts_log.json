@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T17:05:05.625786+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e47e79d1ca30",
-        "score": 74,
-        "category": "política",
-        "title": "STARMER STEPS DOWN",
-        "candidate_tickers": [
-          "STARMERDOWN",
-          "BURNHAMUP",
-          "LABOURSHOCK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T17:05:55.040591+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "POLL…",
-        "candidate_tickers": [
-          "TRUMP POLL",
-          "POLL TRUMP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T17:06:09.917084+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMPXCANCEL",
-          "XCancel"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T19:05:36.918216+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27775,6 +27734,49 @@
           "XRP",
           "MEME",
           "AI"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T07:40:28.753494+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c4c89ad0de32",
+        "score": 79,
+        "category": "muerte de un niño en un ataque de un animal",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "GRAHAMATTACK",
+          "NIÑOMUERTO",
+          "ANIMALFEROZ"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T07:41:10.192985+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "404d1548a088",
+        "score": 80,
+        "category": "Entretenimiento",
+        "title": "Anna and Kristoff are getting married in ‘FROZEN 3’.",
+        "candidate_tickers": [
+          "FROZEN3",
+          "ANNAKRISTOFF",
+          "DISNEYWEDDING"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T07:41:50.272619+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "monedas de meme",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MEME"
         ]
       }
     }
