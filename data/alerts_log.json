@@ -1,23 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T07:44:09.754694+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0ba841616101",
-        "score": 80,
-        "category": "Geopolítica y conflicto",
-        "title": "Back then she was a young 55 year old with crazy ideas",
-        "candidate_tickers": [
-          "USIRAN",
-          "TRUMPWAR",
-          "MIDEASTCRISIS",
-          "IRANUS",
-          "GEOPOLITICS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T07:44:55.793174+00:00",
       "kind": "shadow",
       "payload": {
@@ -27822,6 +27805,16 @@
           "ELONYES",
           "MUSKYES"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T05:11:35.968175+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e762c5b1a42a",
+        "ticker": "PATRIOTS",
+        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
+        "mc": 199553.0
       }
     }
   ]
