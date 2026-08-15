@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T11:30:56.929098+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7838dd7433d7",
-        "score": 74,
-        "category": "eventos internacionales",
-        "title": "SIRENS SOUND IN BAHRAIN - INTERIOR MINISTRY",
-        "candidate_tickers": [
-          "BAHRAIN",
-          "SIRENAS",
-          "BAHRAINALERTA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T11:31:24.843885+00:00",
       "kind": "shadow",
       "payload": {
@@ -27786,6 +27771,21 @@
           "CAMBRIDGE",
           "PLAGIO",
           "MUERTE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T16:02:47.772654+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d5bc36719be6",
+        "score": 80,
+        "category": "Cine y entretenimiento",
+        "title": "Anna and Kristoff are getting married in ‘FROZEN 3’.",
+        "candidate_tickers": [
+          "FROZEN3",
+          "ANNA_GETS_MARRIED",
+          "KRISTOPF_WEDDING"
         ]
       }
     }

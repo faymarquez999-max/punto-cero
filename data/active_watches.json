@@ -1,77 +1,6 @@
 {
   "watches": [
     {
-      "id": "0efb1b76b190",
-      "fingerprint": "0efb1b76b190",
-      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable.",
-      "why_memeable": "La frase es corta y fácil de recordar, con un núcleo claro y una conexión directa entre Hitler y los socialistas.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HITLERSOCIALISTA",
-        "ELONMUSKLÓGICA"
-      ],
-      "key_terms_for_dex_search": [
-        "farleft",
-        "hitler",
-        "socialist",
-        "logic",
-        "inescapable"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 8,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T10:52:36.351247+00:00",
-      "expires_at": "2026-08-12T10:52:36.351247+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "WORM",
-        "name": "Elon is Physiologically a Worm",
-        "mint": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 14120.0,
-        "liquidity_usd": 9001.3,
-        "price_usd": 1.464e-05,
-        "volume_h24": 18210.06,
-        "volume_h1": 84.35,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.67,
-        "price_change_24h": 49.09,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 4,
-        "created_ts": 1784966539000,
-        "pair_created_at": 1784966539000,
-        "url": "https://dexscreener.com/solana/6fjsgqdfeqjkp633magrwa7m62s2wawdqvdxdsxi81jk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: LOGIC in ELON IS PHYSIOLOGICALLY A WORM",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Hitler was a far-left socialist",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T05:43:55.521654+00:00"
-    },
-    {
       "id": "6e6c03dc0db2",
       "fingerprint": "6e6c03dc0db2",
       "narrative_summary": "Elon Musk publica un simple 'sí' en Twitter, generando una gran cantidad de interacción",
@@ -10882,7 +10811,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d5bc36719be6",
+      "fingerprint": "d5bc36719be6",
+      "narrative_summary": "Anna y Kristoff se casarán en 'FROZEN 3', pero su boda será interrumpida por un nuevo villano.",
+      "why_memeable": "La noticia de que Anna y Kristoff se casarán es memeable por sí sola, pero la adición de un nuevo villano la hace aún más interesante.",
+      "category": "Cine y entretenimiento",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "FROZEN3",
+        "ANNA_GETS_MARRIED",
+        "KRISTOPF_WEDDING"
+      ],
+      "key_terms_for_dex_search": [
+        "frozen3",
+        "anna",
+        "kristoff",
+        "casamiento"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T16:02:47.261701+00:00",
+      "expires_at": "2026-08-18T16:02:47.261701+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anna and Kristoff are getting married in ‘FROZEN 3’.",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T15:40:06.388047+00:00"
+  "last_updated": "2026-08-15T16:02:47.261701+00:00"
 }
