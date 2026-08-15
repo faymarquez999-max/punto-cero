@@ -1,97 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T12:58:40.679495+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "Massie",
-          "Trump",
-          "PerroMuerto"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T12:59:08.666942+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4c1ec3dafdcc",
-        "score": 80,
-        "category": " política",
-        "title": "HOUTHIS ANNOUNCES 'SEA NAVIGATION BAN' ON SAUDI ARABIA",
-        "candidate_tickers": [
-          "HOUTHIS",
-          "BLOQUEO NAVAL",
-          "ARABIA SAUDITA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T13:01:17.874785+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "410638b377b2",
-        "score": 79,
-        "category": "fútbol",
-        "title": "Spain 1 - 0 Argentina",
-        "candidate_tickers": [
-          "ESPVSARG",
-          "LAROJAGANÓ",
-          "MUNDIAL2023"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T13:03:10.211265+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "06a5a35ba841",
-        "score": 90,
-        "category": "política internacional",
-        "title": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News",
-        "candidate_tickers": [
-          "IRAN",
-          "US",
-          "GULF",
-          "BOMBING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T13:03:54.710292+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Finanzas",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings - Yahoo Finance",
-        "candidate_tickers": [
-          "BIG TECH",
-          "PETRÓLEO",
-          "FUTUROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T15:19:56.174653+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ccfde153f0bc",
-        "score": 80,
-        "category": "Política y controversia",
-        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
-        "candidate_tickers": [
-          "MASSIE",
-          "TRUMPED",
-          "BADREP",
-          "ENDORSEFAIL",
-          "POLARIZE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T15:20:41.181968+00:00",
       "kind": "shadow",
       "payload": {
@@ -27799,6 +27708,71 @@
         "ticker": "Luigi",
         "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
         "mc": 397376.0
+      }
+    },
+    {
+      "ts": "2026-08-15T06:06:13.500237+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4e37c2719f1a",
+        "score": 78,
+        "category": "desastres naturales",
+        "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+        "candidate_tickers": [
+          "INDONESIAQUAKE",
+          "7.7MAGNITUDE",
+          "TERREMOTOINDONESIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T06:10:10.151829+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e4f63e5d233f",
+        "ticker": "MUSK",
+        "mint": "FA8EEZ3ye1xNXrMPW88UovKF2wZ115cryNKw1ka55N7b",
+        "mc": 261163.0
+      }
+    },
+    {
+      "ts": "2026-08-15T06:10:17.500002+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "526bf76c2498",
+        "ticker": "NOVA",
+        "mint": "FXFmeTMRGN7wUyMQotZHEW9K6Gn4uR1cMZFHmb7Vpump",
+        "mc": 10569.0
+      }
+    },
+    {
+      "ts": "2026-08-15T06:10:22.070453+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3e0323a29b43",
+        "ticker": "KIRKINATOR",
+        "mint": "2YGDVkt2NFtb9xZmgndZaDPsMgFwNLdTwsV5QiGUPhmc",
+        "mc": 37472.0
+      }
+    },
+    {
+      "ts": "2026-08-15T06:10:23.351651+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "0e7d8ee2b281",
+        "ticker": "MEME",
+        "mint": "2UhgCt25pWc6xgPrS2yFXVCVRfZhdVeqsF5nrH3Ppump",
+        "mc": 13167.0
+      }
+    },
+    {
+      "ts": "2026-08-15T06:10:24.615971+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "585b000657cf",
+        "ticker": "Imagine",
+        "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
+        "mc": 10292.0
       }
     }
   ]
