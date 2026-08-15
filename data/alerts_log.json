@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T21:58:57.196196+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "53f4f3ccd498",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 133844.0
-      }
-    },
-    {
-      "ts": "2026-07-20T21:58:59.611370+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "751a1efcdb5a",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 133844.0
-      }
-    },
-    {
       "ts": "2026-07-20T21:59:03.558232+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27787,6 +27767,33 @@
           "ISRAEL",
           "ESTRECHO DE HORMUZ"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T11:33:02.562449+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "06d55bd12ffb",
+        "score": 94,
+        "category": "política y criptomonedas",
+        "title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico",
+        "candidate_tickers": [
+          "TRUMP",
+          "CRYPTO",
+          "LICENCIA BANCARIA",
+          "REGULADOR",
+          "TRUMP-LINKED"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T11:37:24.348560+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9d7631b6e181",
+        "ticker": "BP",
+        "mint": "JB8rMqyFmypiMqjiJ13bitubssM6aYDdq5ndUF5Wpump",
+        "mc": 52548.0
       }
     }
   ]

@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "6bfdac171e2c",
-      "fingerprint": "6bfdac171e2c",
-      "narrative_summary": "China evacua a un millón de personas debido a una tormenta masiva",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'pérdida' con la evacuación de un millón de personas",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "DOLPHINSTORM",
-        "CHINAEVAC",
-        "TORMENTADOLPHIN"
-      ],
-      "key_terms_for_dex_search": [
-        "China",
-        "tormenta",
-        "evacuación",
-        "Dolphin"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 4,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 4,
-        "simplicity": 6,
-        "velocity": 8
-      },
-      "started_at": "2026-08-10T07:57:50.309966+00:00",
-      "expires_at": "2026-08-12T07:57:50.309966+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Fraggle",
-        "name": "The Grieving Dolphin",
-        "mint": "Agmu8Xgn7rU4zFv4DMPrEBhYDdPsmiEG5hCiYyvSpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 27181.0,
-        "liquidity_usd": 15644.96,
-        "price_usd": 2.809e-05,
-        "volume_h24": 72804.74,
-        "volume_h1": 1334.11,
-        "volume_m5": 480.68,
-        "price_change_5m": -3.37,
-        "price_change_1h": 2.96,
-        "price_change_24h": -37.69,
-        "txns_h1_buys": 16,
-        "txns_h1_sells": 20,
-        "created_ts": 1785436865000,
-        "pair_created_at": 1785436865000,
-        "url": "https://dexscreener.com/solana/bdkaa5crbqk2urcwp1erpx6aj5dawwqrtctzdv7v2wyh",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: DOLPHIN in THE GRIEVING DOLPHIN",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "China evacuates one million from homes as massive storm arrives",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-11T23:56:18.298302+00:00"
-    },
-    {
       "id": "c428b22cd2fc",
       "fingerprint": "c428b22cd2fc",
       "narrative_summary": "Dos aviones violan el espacio aéreo cerca del club de golf de Nueva Jersey donde estaba Trump",
@@ -6044,7 +5972,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "df3b6b0db3fa",
@@ -6089,7 +6017,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "1a42a90b2e94",
@@ -6184,7 +6112,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "dd309c83d7cc",
@@ -6325,7 +6253,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5264ac5763c6",
@@ -6368,7 +6296,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "883e51f5cb1c",
@@ -6464,7 +6392,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4bf094c80c35",
@@ -6508,7 +6436,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5b6d724e1811",
@@ -6696,7 +6624,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8ab05547964f",
@@ -6835,7 +6763,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "9d7631b6e181",
@@ -6873,14 +6801,46 @@
       "started_at": "2026-08-12T23:53:18.188291+00:00",
       "expires_at": "2026-08-15T23:53:18.188291+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "BP",
+        "name": "Barking Puppy - kg",
+        "mint": "JB8rMqyFmypiMqjiJ13bitubssM6aYDdq5ndUF5Wpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 52548.0,
+        "liquidity_usd": 20438.71,
+        "price_usd": 5.58e-05,
+        "volume_h24": 35154.06,
+        "volume_h1": 213.57,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.84,
+        "price_change_24h": -15.72,
+        "txns_h1_buys": 4,
+        "txns_h1_sells": 14,
+        "created_ts": 1777498387000,
+        "pair_created_at": 1777498387000,
+        "url": "https://dexscreener.com/solana/ehjys3zxtujopbszqgycg783gzcx8mkuggfvkzxgaxyf",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: PUPPY in BARKING PUPPY - KG",
+        "safety_score": 2001,
+        "safety_risks": [
+          {
+            "name": "Copycat token",
+            "level": "warn",
+            "description": "This token is using a verified tokens symbol"
+          }
+        ]
+      },
       "cluster_top_title": "West Bend dog groomer won't face charges after viral video showed her appearing to strike a dog - TMJ4 News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5,
+      "matched_at": "2026-08-15T11:37:24.331327+00:00"
     },
     {
       "id": "d0fb912400bd",
@@ -6929,7 +6889,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4ea4cc614b84",
@@ -7477,7 +7437,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b5eebea76a32",
@@ -7527,7 +7487,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5565aae534f2",
@@ -7570,7 +7530,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f0792e1b31e7",
@@ -7616,7 +7576,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "de9c791c78fc",
@@ -7668,7 +7628,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b7a9bf44df9c",
@@ -7713,7 +7673,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "89b0b535e51f",
@@ -7754,7 +7714,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "3dcfccd0303d",
@@ -7796,7 +7756,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e762c5b1a42a",
@@ -7919,7 +7879,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "aa73792e408c",
@@ -7965,7 +7925,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "17e20c54523f",
@@ -8011,7 +7971,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2a1e7af16810",
@@ -8053,7 +8013,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "adf8a818240d",
@@ -8101,7 +8061,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7a66a537e4e6",
@@ -8146,7 +8106,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "787f54db1ad0",
@@ -8189,7 +8149,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d283f5b9c187",
@@ -8231,7 +8191,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "891d13868a2b",
@@ -8277,7 +8237,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "f6b3c06ec5df",
@@ -8322,7 +8282,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d0bdc04cff81",
@@ -8366,7 +8326,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "c56625af0c6b",
@@ -8415,7 +8375,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "5a8b883918c3",
@@ -8461,7 +8421,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "b482007e4669",
@@ -8511,7 +8471,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "4a218f9556cd",
@@ -8632,7 +8592,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d758b429b51b",
@@ -8679,7 +8639,7 @@
         "4chan",
         "breaking_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "113cff534d13",
@@ -8766,7 +8726,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e4f63e5d233f",
@@ -8915,7 +8875,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "2a2de4559f21",
@@ -8959,7 +8919,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d8fefefbb6a4",
@@ -9004,7 +8964,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "526bf76c2498",
@@ -9132,7 +9092,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "7d3d743adbdc",
@@ -9179,7 +9139,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "3e0323a29b43",
@@ -9451,7 +9411,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8f39154faa34",
@@ -9496,7 +9456,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "54dac16b20ff",
@@ -9541,7 +9501,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1f6b3cab2a95",
@@ -9585,7 +9545,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3ab823b5593f",
@@ -9629,7 +9589,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "1796a5eae009",
@@ -9673,7 +9633,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "ebc6435b0278",
@@ -9719,7 +9679,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "46549258a9c7",
@@ -9763,7 +9723,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "32d405d9b01c",
@@ -9809,7 +9769,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f9dd3973dbb2",
@@ -10682,7 +10642,55 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "06d55bd12ffb",
+      "fingerprint": "06d55bd12ffb",
+      "narrative_summary": "Trump designa regulador que aprueba licencia bancaria para empresa de criptomonedas vinculada a Trump",
+      "why_memeable": "La narrativa es memeable porque combina a Trump con una empresa de criptomonedas, lo que puede generar interés y controversia",
+      "category": "política y criptomonedas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "CRYPTO",
+        "LICENCIA BANCARIA",
+        "REGULADOR",
+        "TRUMP-LINKED"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "criptomonedas",
+        "licencia bancaria",
+        "regulador",
+        "empresas vinculadas"
+      ],
+      "score": 94,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T11:33:02.159053+00:00",
+      "expires_at": "2026-08-17T11:33:02.159053+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T10:38:08.073800+00:00"
+  "last_updated": "2026-08-15T11:37:24.331345+00:00"
 }
