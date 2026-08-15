@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T21:56:34.854261+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Deportes",
-        "title": "🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸",
-        "candidate_tickers": [
-          "SPAIN",
-          "FUTBOL",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T21:58:57.196196+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27784,6 +27770,22 @@
           "GRAHAMATTACK",
           "NIÑOMUERTO",
           "ATAQUEANIMAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T11:04:51.015282+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a055ce171a38",
+        "score": 91,
+        "category": "conflicto en Oriente Medio",
+        "title": "At scene of deadly Israeli strike on Lebanon home",
+        "candidate_tickers": [
+          "HORMUZ",
+          "LÍBANO",
+          "ISRAEL",
+          "ESTRECHO DE HORMUZ"
         ]
       }
     }
