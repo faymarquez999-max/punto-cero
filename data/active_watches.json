@@ -1,80 +1,6 @@
 {
   "watches": [
     {
-      "id": "17f1c4c77acd",
-      "fingerprint": "17f1c4c77acd",
-      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso de la Tierra, y será estéticamente hermoso.",
-      "why_memeable": "La combinación de la ambición de Musk, la escala del proyecto y la promesa de belleza estética lo hacen atractivo y fácil de compartir.",
-      "category": "Innovación tecnológica",
-      "matched_archetype": "tech_or_product_surprise_or_failure",
-      "candidate_tickers": [
-        "TERAFAB",
-        "MUSKTX",
-        "EARTHMAX",
-        "TESLATX",
-        "FABTX"
-      ],
-      "key_terms_for_dex_search": [
-        "Terafab",
-        "Texas",
-        "Elon Musk",
-        "edificio más grande",
-        "valioso"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 5,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T23:56:47.472249+00:00",
-      "expires_at": "2026-08-12T23:56:47.472249+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 50233.0,
-        "liquidity_usd": 25627.16,
-        "price_usd": 5.024e-05,
-        "volume_h24": 7301.1,
-        "volume_h1": 185.06,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": -3.09,
-        "price_change_24h": -25.62,
-        "txns_h1_buys": 7,
-        "txns_h1_sells": 5,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:46:18.824698+00:00"
-    },
-    {
       "id": "d9e4db6153c7",
       "fingerprint": "d9e4db6153c7",
       "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable y despierta una gran reacción en la comunidad.",
@@ -6228,14 +6154,15 @@
       "started_at": "2026-08-12T07:49:29.085852+00:00",
       "expires_at": "2026-08-15T07:49:29.085852+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-15T08:02:51.199824+00:00"
     },
     {
       "id": "80bd8795a49d",
@@ -10794,7 +10721,51 @@
         "nitter"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d73c0fae9ece",
+      "fingerprint": "d73c0fae9ece",
+      "narrative_summary": "Un terremoto de magnitud 7.7 ha causado al menos dos muertes en Indonesia.",
+      "why_memeable": "La narrativa tiene un impacto emocional fuerte, es fácil de compartir y tiene un claro enfoque en la tragedia.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "INDO",
+        "TERREMOTO",
+        "INDONESIA"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "indonesia",
+        "muertes"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T08:04:43.953707+00:00",
+      "expires_at": "2026-08-17T08:04:43.953707+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "At least two killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T07:41:09.572717+00:00"
+  "last_updated": "2026-08-15T08:04:43.953707+00:00"
 }

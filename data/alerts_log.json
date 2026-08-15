@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T19:05:36.918216+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a520df387c9c",
-        "score": 80,
-        "category": "Cine y entretenimiento",
-        "title": "First look at Loki in ‘AVENGERS: DOOMSDAY.’",
-        "candidate_tickers": [
-          "LOKI",
-          "AVENGERS: DOOMSDAY",
-          "ROBERT DOWNEY JR.",
-          "DOCTOR DOOM"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T19:07:49.221070+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Deportes",
-        "title": "Spain’s World Cup champions return home for royal welcome and parade through Madrid - AP News",
-        "candidate_tickers": [
-          "ESPANA_WINS",
-          "FUTBOL_VICTORIA",
-          "COPA_DEL_MUNDO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T19:08:36.660072+00:00",
       "kind": "shadow",
       "payload": {
@@ -27777,6 +27747,35 @@
         "candidate_tickers": [
           "XRP",
           "MEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T08:03:06.259428+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "noticias de animales",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "ANIMALS",
+          "MORTALES",
+          "DEATH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T08:04:44.297931+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d73c0fae9ece",
+        "score": 88,
+        "category": "desastres naturales",
+        "title": "At least two killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
+        "candidate_tickers": [
+          "INDO",
+          "TERREMOTO",
+          "INDONESIA"
         ]
       }
     }
