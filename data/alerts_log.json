@@ -1,58 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T13:01:03.590346+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a27dd505f34c",
-        "score": 84,
-        "category": "tech",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSKYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T13:02:13.551924+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "meme de Elon Musk",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T13:02:34.484226+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 63,
-        "category": "política",
-        "title": "SIRENS SOUND IN BAHRAIN - INTERIOR MINISTRY",
-        "candidate_tickers": [
-          "BAHRAIN",
-          "SIRENAS",
-          "MINISTERIO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T13:04:21.870598+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b806554fb285",
-        "ticker": "Kirkslop",
-        "mint": "8m5hzX9hprtWwPuVZL4daCZfggWYKc6fhSJDDpiqpump",
-        "mc": 62910.0
-      }
-    },
-    {
       "ts": "2026-07-21T13:04:23.469458+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27789,6 +27737,51 @@
           "Portland",
           "homeless"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T17:39:01.582577+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política y sociedad",
+        "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
+        "candidate_tickers": [
+          "LIECH",
+          "THRONE",
+          "WOMENINPOWER",
+          "PRINCIPLIECH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T17:44:08.429420+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d73c0fae9ece",
+        "ticker": "traindog",
+        "mint": "2kcdBw85q4qMVCjUkEynTnZ3bGbBeCqZRDRNLpeWpump",
+        "mc": 295139.0
+      }
+    },
+    {
+      "ts": "2026-08-15T17:44:10.010810+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "2057df08d990",
+        "ticker": "John",
+        "mint": "5urBgM9GDx2WKrQppk7sMmzrGZFftsRyxVgzxFTbpump",
+        "mc": 15136.0
+      }
+    },
+    {
+      "ts": "2026-08-15T17:44:11.658184+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "a4aeccf9a84c",
+        "ticker": "GUNS",
+        "mint": "5mPVUc7pDVZnJx28vrZFwYQcsMqqWsoW3QWdNTmZpump",
+        "mc": 29560.0
       }
     }
   ]
