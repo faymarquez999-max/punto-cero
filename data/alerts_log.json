@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T15:17:14.506508+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "meme de Elon Musk",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE",
-          "GROKIMAGINE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T15:17:42.129000+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27789,6 +27775,21 @@
           "TRONO",
           "MUJERES",
           "HERENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T20:01:26.831913+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e1f518590af6",
+        "score": 74,
+        "category": "Noticias internacionales",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "candidate_tickers": [
+          "LIECHTENSTEIN",
+          "SUCESIÓN",
+          "MUJERES EN EL TRONO"
         ]
       }
     }

@@ -1,57 +1,6 @@
 {
   "watches": [
     {
-      "id": "7010dca5a1b5",
-      "fingerprint": "7010dca5a1b5",
-      "narrative_summary": "UEFA, AFC y CONCACAF critican a Infantino por la venta de acciones del Mundial de la FIFA",
-      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta, como 'Infantino vende acciones del Mundial'",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "INFANTINO",
-        "MUNDIAL",
-        "FIFA",
-        "UEFA",
-        "AFC",
-        "CONCACAF"
-      ],
-      "key_terms_for_dex_search": [
-        "Infantino",
-        "Mundial",
-        "FIFA",
-        "UEFA",
-        "AFC",
-        "CONCACAF"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-10T13:26:15.764961+00:00",
-      "expires_at": "2026-08-12T13:26:15.764961+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-12T14:09:33.430041+00:00"
-    },
-    {
       "id": "8c97b38726f2",
       "fingerprint": "8c97b38726f2",
       "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable y polariza a la gente.",
@@ -5817,14 +5766,15 @@
       "started_at": "2026-08-12T19:51:35.410900+00:00",
       "expires_at": "2026-08-15T19:51:35.410900+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "FIRE",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 12,
+      "expired_at": "2026-08-15T20:00:35.597786+00:00"
     },
     {
       "id": "5b6d724e1811",
@@ -7628,14 +7578,15 @@
       "started_at": "2026-08-13T19:49:39.340596+00:00",
       "expires_at": "2026-08-15T19:49:39.340596+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Israeli settlers’ siege of Palestinian homes draws a sharp US rebuke - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-08-15T20:00:35.597804+00:00"
     },
     {
       "id": "f6b3c06ec5df",
@@ -7673,14 +7624,15 @@
       "started_at": "2026-08-13T19:50:18.020654+00:00",
       "expires_at": "2026-08-15T19:50:18.020654+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Selena Gomez Accused of Fraud by Mental-Health Startup Investors - Bloomberg.com",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-08-15T20:00:35.597808+00:00"
     },
     {
       "id": "d0bdc04cff81",
@@ -7718,13 +7670,14 @@
       "started_at": "2026-08-13T19:52:40.619044+00:00",
       "expires_at": "2026-08-15T19:52:40.619044+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "It really is.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 11,
+      "expired_at": "2026-08-15T20:00:35.597811+00:00"
     },
     {
       "id": "c56625af0c6b",
@@ -10839,7 +10792,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e1f518590af6",
+      "fingerprint": "e1f518590af6",
+      "narrative_summary": "Liechtenstein cambia reglas de sucesión para permitir que las mujeres asciendan al trono.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase, y se puede visualizar fácilmente.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LIECHTENSTEIN",
+        "SUCESIÓN",
+        "MUJERES EN EL TRONO"
+      ],
+      "key_terms_for_dex_search": [
+        "Liechtenstein",
+        "sucesión",
+        "mujeres",
+        "trono"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 3,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T20:01:26.109954+00:00",
+      "expires_at": "2026-08-17T20:01:26.109954+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T18:47:51.785820+00:00"
+  "last_updated": "2026-08-15T20:01:26.109954+00:00"
 }
