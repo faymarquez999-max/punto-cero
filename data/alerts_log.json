@@ -1,107 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T07:44:55.793174+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "Finanzas",
-        "title": "Gold Falls as US-Iran Hostilities Keep Rate Hike Bets on Table - Bloomberg.com",
-        "candidate_tickers": [
-          "IRAN",
-          "USIRAN",
-          "GOLD",
-          "RATEHIKE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T07:45:33.617663+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3768c04d3eb2",
-        "score": 89,
-        "category": "Noticias de conflicto",
-        "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone - Al Jazeera",
-        "candidate_tickers": [
-          "IRANDRONE",
-          "SOLDADOASESINADO",
-          "GUERRACONIRAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T07:46:15.320411+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c39dd9b77d6d",
-        "score": 78,
-        "category": "política",
-        "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised - Reuters",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "PETROLERO",
-          "ESTRECHO_DE_HORMUZ"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T07:48:05.762163+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "cac3801c7b2e",
-        "score": 85,
-        "category": "fútbol, Elon Musk, absurdo",
-        "title": "xcancel.com/i/jf/soccer/league/mat…",
-        "candidate_tickers": [
-          "FÚTBOLFIASCO",
-          "ELONMUSKMEME"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T10:35:58.988409+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "finanzas, riesgo, bolsa de valores",
-        "title": "'I couldn't breathe': South Korea's frenzied stock trading exposes margin loan risks - Reuters",
-        "candidate_tickers": [
-          "FUTRONIC",
-          "BKST",
-          "KRX"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T10:37:07.442115+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "da0087983212",
-        "score": 86,
-        "category": "Celebridad y contenido viral",
-        "title": "xcancel.com/i/jf/soccer/league/mat…",
-        "candidate_tickers": [
-          "XCANCEL",
-          "ELONMUSKSOCCER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T10:37:49.751579+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología y redes sociales",
-        "title": "Try Grok 4.5!",
-        "candidate_tickers": [
-          "GROK",
-          "TRYGROK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T12:58:40.679495+00:00",
       "kind": "shadow",
       "payload": {
@@ -27815,6 +27714,91 @@
         "ticker": "PATRIOTS",
         "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
         "mc": 199553.0
+      }
+    },
+    {
+      "ts": "2026-08-15T05:45:14.222757+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "38d1d398b0ec",
+        "score": 80,
+        "category": "Política y crisis",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "TRUMPABE",
+          "LINCOLNCRISIS",
+          "USNAVYFAIL",
+          "TRUMPDISMISS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T05:46:09.352510+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2869d9d2846e",
+        "score": 88,
+        "category": "memecoins",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MEMETORO",
+          "DOGECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T05:46:47.716970+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 64,
+        "category": "política y religión",
+        "title": "AP Exclusive: US military base schools put new emphasis on Western civilization and Christianity - Dallas News",
+        "candidate_tickers": [
+          "WesternCivilization",
+          "ChristianityInMilitary",
+          "SecularVsReligious"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T05:50:07.890312+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "920b4d2d3160",
+        "ticker": "MUSK",
+        "mint": "FA8EEZ3ye1xNXrMPW88UovKF2wZ115cryNKw1ka55N7b",
+        "mc": 271466.0
+      }
+    },
+    {
+      "ts": "2026-08-15T05:50:10.729133+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "80bd8795a49d",
+        "ticker": "MUSK",
+        "mint": "FA8EEZ3ye1xNXrMPW88UovKF2wZ115cryNKw1ka55N7b",
+        "mc": 271466.0
+      }
+    },
+    {
+      "ts": "2026-08-15T05:50:33.948414+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e762c5b1a42a",
+        "ticker": "PATRIOTS",
+        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
+        "mc": 199553.0
+      }
+    },
+    {
+      "ts": "2026-08-15T05:50:46.386112+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4a218f9556cd",
+        "ticker": "Luigi",
+        "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+        "mc": 397376.0
       }
     }
   ]

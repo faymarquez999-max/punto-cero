@@ -1,124 +1,6 @@
 {
   "watches": [
     {
-      "id": "509218e00028",
-      "fingerprint": "509218e00028",
-      "narrative_summary": "Elon Musk comparte un enlace sin contexto, generando especulación sobre su contenido.",
-      "why_memeable": "La frase 'True' es corta y fácil de compartir, y la falta de contexto de Elon Musk crea especulación y polarización.",
-      "category": "tech",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "MUSK",
-        "XCANCEL"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "xcancel",
-        "true"
-      ],
-      "score": 80,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 7,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T21:19:08.649166+00:00",
-      "expires_at": "2026-08-11T21:19:08.649166+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 60389.0,
-        "liquidity_usd": 20289.71,
-        "price_usd": 6.211e-05,
-        "volume_h24": 58108.63,
-        "volume_h1": 765.87,
-        "volume_m5": 53.25,
-        "price_change_5m": -0.45,
-        "price_change_1h": -5.91,
-        "price_change_24h": -10.66,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 20,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-10T14:46:09.568741+00:00"
-    },
-    {
-      "id": "9fdafc14205d",
-      "fingerprint": "9fdafc14205d",
-      "narrative_summary": "Iran toma control de la estrecha de Hormuz y no hay retorno a las condiciones preguerra.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y un claro 'villano' (Iran).",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HORMUZ",
-        "IRAN",
-        "ESTRATEGIA"
-      ],
-      "key_terms_for_dex_search": [
-        "estrategia",
-        "Hormuz",
-        "Iran",
-        "política internacional"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T21:56:16.926255+00:00",
-      "expires_at": "2026-08-11T21:56:16.926255+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "IRAN INTERNATIONAL REPORTS THAT IRAN'S ARMED FORCES HAVE TAKEN CONTROL OF THE STRAIT OF HORMUZ AND A RETURN TO ITS PRE-WAR CONDITIONS IS NOT POSSIBLE, LAWMAKER ALI KHEZRIAN SAID SUNDAY.",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-11T21:57:58.275369+00:00"
-    },
-    {
       "id": "166e0266a68c",
       "fingerprint": "166e0266a68c",
       "narrative_summary": "El jefe de cartel Daniel Kinahan es extraditado a Irlanda y aparece en un tribunal en Dublín",
@@ -6279,8 +6161,59 @@
       "started_at": "2026-08-12T06:00:55.638924+00:00",
       "expires_at": "2026-08-15T06:00:55.638924+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "Musk Factory",
+        "mint": "FA8EEZ3ye1xNXrMPW88UovKF2wZ115cryNKw1ka55N7b",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 271466.0,
+        "liquidity_usd": 7079.43,
+        "price_usd": 0.0002714,
+        "volume_h24": 26309.48,
+        "volume_h1": 9798.91,
+        "volume_m5": 732.8,
+        "price_change_5m": -0.31,
+        "price_change_1h": 0.48,
+        "price_change_24h": 606.0,
+        "txns_h1_buys": 131,
+        "txns_h1_sells": 136,
+        "created_ts": 1786763785000,
+        "pair_created_at": 1786763785000,
+        "url": "https://dexscreener.com/solana/41q3pryf6lj2barjeerkxcx5cnh232r5iqemzedfpdnk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MUSK in MUSK FACTORY",
+        "safety_score": 32618,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
       "cluster_sources": [
         "4chan",
@@ -6288,7 +6221,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-08-15T05:50:07.880360+00:00"
     },
     {
       "id": "98ab70dc4131",
@@ -6478,7 +6412,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "80bd8795a49d",
@@ -6518,8 +6452,59 @@
       "started_at": "2026-08-12T09:19:38.717012+00:00",
       "expires_at": "2026-08-15T09:19:38.717012+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "MUSK",
+        "name": "Musk Factory",
+        "mint": "FA8EEZ3ye1xNXrMPW88UovKF2wZ115cryNKw1ka55N7b",
+        "chain": "solana",
+        "dex": "meteora",
+        "market_cap_usd": 271466.0,
+        "liquidity_usd": 7079.43,
+        "price_usd": 0.0002714,
+        "volume_h24": 26309.48,
+        "volume_h1": 9798.91,
+        "volume_m5": 732.8,
+        "price_change_5m": -0.31,
+        "price_change_1h": 0.48,
+        "price_change_24h": 606.0,
+        "txns_h1_buys": 131,
+        "txns_h1_sells": 136,
+        "created_ts": 1786763785000,
+        "pair_created_at": 1786763785000,
+        "url": "https://dexscreener.com/solana/41q3pryf6lj2barjeerkxcx5cnh232r5iqemzedfpdnk",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: MUSK in MUSK FACTORY",
+        "safety_score": 32618,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Top 10 holders high ownership",
+            "level": "danger",
+            "description": "The top 10 users hold more than 70% token supply"
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "danger",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "High ownership",
+            "level": "danger",
+            "description": "The top users hold more than 80% token supply"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
       "cluster_sources": [
         "4chan",
@@ -6527,7 +6512,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4,
+      "matched_at": "2026-08-15T05:50:10.716514+00:00"
     },
     {
       "id": "194c7478dac8",
@@ -6714,7 +6700,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "df3b6b0db3fa",
@@ -6759,7 +6745,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1a42a90b2e94",
@@ -6854,7 +6840,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "dd309c83d7cc",
@@ -6995,7 +6981,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5264ac5763c6",
@@ -7038,7 +7024,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "883e51f5cb1c",
@@ -7134,7 +7120,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "4bf094c80c35",
@@ -7178,7 +7164,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "5b6d724e1811",
@@ -7366,7 +7352,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "8ab05547964f",
@@ -7505,7 +7491,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "9d7631b6e181",
@@ -7550,7 +7536,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d0fb912400bd",
@@ -7599,7 +7585,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "4ea4cc614b84",
@@ -7912,7 +7898,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "6ffe84d8750e",
@@ -8027,7 +8013,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "50782478ebb0",
@@ -8145,7 +8131,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b5eebea76a32",
@@ -8195,7 +8181,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5565aae534f2",
@@ -8238,7 +8224,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f0792e1b31e7",
@@ -8284,7 +8270,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "de9c791c78fc",
@@ -8336,7 +8322,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "b7a9bf44df9c",
@@ -8381,7 +8367,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "89b0b535e51f",
@@ -8422,7 +8408,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "3dcfccd0303d",
@@ -8464,7 +8450,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e762c5b1a42a",
@@ -8505,8 +8491,34 @@
       "started_at": "2026-08-13T15:18:58.335702+00:00",
       "expires_at": "2026-08-16T15:18:58.335702+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PATRIOTS",
+        "name": "The Patriots",
+        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 199553.0,
+        "liquidity_usd": 34869.08,
+        "price_usd": 0.0001995,
+        "volume_h24": 5118.53,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -5.61,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1782771659000,
+        "pair_created_at": 1782771659000,
+        "url": "https://dexscreener.com/solana/2gsskamszbf5zefajwfd26t8ekgpyax1axxqipprwnhv",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: PATRIOT in THE PATRIOTS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which",
       "cluster_sources": [
         "4chan",
@@ -8514,7 +8526,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2,
+      "matched_at": "2026-08-15T05:50:33.937674+00:00"
     },
     {
       "id": "943f98cd1f3e",
@@ -8560,7 +8573,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "aa73792e408c",
@@ -8606,7 +8619,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "17e20c54523f",
@@ -8652,7 +8665,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "2a1e7af16810",
@@ -8694,7 +8707,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "adf8a818240d",
@@ -8742,7 +8755,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "7a66a537e4e6",
@@ -8787,7 +8800,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "787f54db1ad0",
@@ -8830,7 +8843,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d283f5b9c187",
@@ -8872,7 +8885,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "891d13868a2b",
@@ -8918,7 +8931,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "f6b3c06ec5df",
@@ -8963,7 +8976,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "d0bdc04cff81",
@@ -9007,7 +9020,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c56625af0c6b",
@@ -9056,7 +9069,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "5a8b883918c3",
@@ -9102,7 +9115,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b482007e4669",
@@ -9152,7 +9165,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "4a218f9556cd",
@@ -9193,15 +9206,42 @@
       "started_at": "2026-08-14T02:31:49.533628+00:00",
       "expires_at": "2026-08-17T02:31:49.533628+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Luigi",
+        "name": "Luigi Mangione",
+        "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 397376.0,
+        "liquidity_usd": 141205.43,
+        "price_usd": 0.0003973,
+        "volume_h24": 916501.07,
+        "volume_h1": 2307.2,
+        "volume_m5": 450.1,
+        "price_change_5m": -0.99,
+        "price_change_1h": -2.05,
+        "price_change_24h": -63.6,
+        "txns_h1_buys": 15,
+        "txns_h1_sells": 16,
+        "created_ts": 1733768682000,
+        "pair_created_at": 1733768682000,
+        "url": "https://dexscreener.com/solana/awcxgpmbgvhyzgwe4refstfodghhrha12fhyjqbvqeul",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: LUIGI==LUIGI",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners.",
       "cluster_sources": [
         "4chan",
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-15T05:50:46.375705+00:00"
     },
     {
       "id": "5da094ca2ac4",
@@ -9246,7 +9286,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d758b429b51b",
@@ -9293,7 +9333,7 @@
         "4chan",
         "breaking_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "113cff534d13",
@@ -9380,7 +9420,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "e4f63e5d233f",
@@ -9429,7 +9469,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "781ff5cebfe5",
@@ -9477,7 +9517,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "2a2de4559f21",
@@ -9521,7 +9561,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "d8fefefbb6a4",
@@ -9566,7 +9606,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "526bf76c2498",
@@ -9614,7 +9654,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "825d6f0c4527",
@@ -9662,7 +9702,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "7d3d743adbdc",
@@ -9709,7 +9749,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3e0323a29b43",
@@ -10516,7 +10556,102 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "38d1d398b0ec",
+      "fingerprint": "38d1d398b0ec",
+      "narrative_summary": "El presidente Trump descarta informes sobre condiciones difíciles a bordo del USS Abraham Lincoln",
+      "why_memeable": "La combinación de un tema político controvertido con un elemento de crisis a bordo de un portaaviones crea un caldo de cultivo para la viralidad",
+      "category": "Política y crisis",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPABE",
+        "LINCOLNCRISIS",
+        "USNAVYFAIL",
+        "TRUMPDISMISS"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "USS Abraham Lincoln",
+        "crisis",
+        "navy",
+        "dismiss"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 5,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T05:45:13.807227+00:00",
+      "expires_at": "2026-08-18T05:45:13.807227+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "It is an honor to have such a great team join @SpaceX",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "2869d9d2846e",
+      "fingerprint": "2869d9d2846e",
+      "narrative_summary": "Artículos de noticias sobre los mejores memecoins para invertir en agosto de 2026",
+      "why_memeable": "La narrativa es memeable debido a la discusión sobre los mejores memecoins y su potencial para el crecimiento en el mercado.",
+      "category": "memecoins",
+      "matched_archetype": "generational_or_nostalgic_trigger",
+      "candidate_tickers": [
+        "XRP",
+        "MEMETORO",
+        "DOGECOIN"
+      ],
+      "key_terms_for_dex_search": [
+        "memecoins",
+        "XRP",
+        "MemeToro",
+        "Dogecoin",
+        "agosto 2026"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T05:46:08.998399+00:00",
+      "expires_at": "2026-08-17T05:46:08.998399+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2555",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T03:51:54.234678+00:00"
+  "last_updated": "2026-08-15T05:50:46.375725+00:00"
 }
