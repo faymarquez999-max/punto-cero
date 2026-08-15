@@ -1,49 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T19:08:36.660072+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Política y tecnología",
-        "title": "Pennsylvania’s 2020 election was 'absolutely secure,' Fetterman says - Politico",
-        "candidate_tickers": [
-          "MUSKTWEET",
-          "TWITTERFEUD",
-          "ELONVS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T19:09:40.717399+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Política",
-        "title": "French lawmakers race to introduce an under-15 social media ban before the new school year - AP News",
-        "candidate_tickers": [
-          "FRANCE_BAN",
-          "SOCIAL_MEDIA_BAN",
-          "UNDER_15_BAN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T19:10:05.711688+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32659360213a",
-        "score": 70,
-        "category": "Deportes, Fútbol, Muerte",
-        "title": "Kevin Keegan, Liverpool footballer who managed England and Newcastle United, dies aged 75",
-        "candidate_tickers": [
-          "KEEGAN75",
-          "FÚTBOLFALLECE",
-          "CÁNCERFÚTBOL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T20:45:55.050546+00:00",
       "kind": "shadow",
       "payload": {
@@ -27776,6 +27733,54 @@
           "INDO",
           "TERREMOTO",
           "INDONESIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T08:49:32.326966+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2057df08d990",
+        "score": 80,
+        "category": "Política y crisis",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "TRUMPNAVY",
+          "LINCOLNCRISIS",
+          "USSMEME",
+          "TRUMPATSEA",
+          "NAVYGATE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T08:50:14.440954+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "a4aeccf9a84c",
+        "score": 78,
+        "category": "noticias de crimen",
+        "title": "Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly",
+        "candidate_tickers": [
+          "TESLA",
+          "ANIMAL",
+          "CRIMEN",
+          "NIÑO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T08:50:55.295849+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7d76c156b566",
+        "score": 89,
+        "category": "Desastres naturales",
+        "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia - Al Jazeera",
+        "candidate_tickers": [
+          "INDOQUAKE",
+          "INDONESIATERREMOTO",
+          "TERREMOTOS"
         ]
       }
     }
