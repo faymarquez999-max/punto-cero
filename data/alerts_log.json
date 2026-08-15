@@ -1,38 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T23:15:46.595797+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "42f842ccd78f",
-        "score": 80,
-        "category": "noticias de animales",
-        "title": "Twin earthquakes strike Peru killing at least five",
-        "candidate_tickers": [
-          "DOGS",
-          "ANIMALS",
-          "CALI",
-          "REFUGIO",
-          "PERROS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-19T23:17:02.030986+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6e3bfb507f49",
-        "score": 91,
-        "category": "celebridad",
-        "title": "Andrew and Tristan Tate arrested on rape, trafficking charges. What to know. - The Washington Post",
-        "candidate_tickers": [
-          "TATEBROTHERS",
-          "INFLUENCERSENPROBLEMA",
-          "VIOLACIÓNENMIAMI"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-19T23:20:33.876919+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27821,6 +27789,36 @@
           "MUSK",
           "TWITTER",
           "ELON"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:00:56.946974+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "09798e4a11c0",
+        "score": 70,
+        "category": "Cryptomoneda",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "DOGE",
+          "RBNH"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:01:34.246802+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "51bb21b5c94a",
+        "score": 78,
+        "category": "Desastres naturales",
+        "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two - The Guardian",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "INDONESIA",
+          "SISMICO"
         ]
       }
     }
