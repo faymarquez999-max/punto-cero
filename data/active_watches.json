@@ -1,176 +1,6 @@
 {
   "watches": [
     {
-      "id": "efe7fe830146",
-      "fingerprint": "efe7fe830146",
-      "narrative_summary": "Múltiples casos de crueldad animal reportados en diferentes partes de Estados Unidos, incluyendo el asesinato de gatitos y la negligencia hacia perros y cabras.",
-      "why_memeable": "La combinación de la crueldad animal con la cobertura mediática y la reacción del público puede generar un meme viral, especialmente si se asocia con una imagen impactante o una frase memorable.",
-      "category": "Noticias de actualidad",
-      "matched_archetype": "injusticia_con_villano_y_victima",
-      "candidate_tickers": [
-        "ANIMALCRUELTY",
-        "JUSTICIAANIMAL",
-        "CRUELDADANIMAL"
-      ],
-      "key_terms_for_dex_search": [
-        "crueldad animal",
-        "negligencia animal",
-        "justicia animal"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 5,
-        "velocity": 8
-      },
-      "started_at": "2026-08-10T07:55:05.652097+00:00",
-      "expires_at": "2026-08-13T07:55:05.652097+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-13T07:57:34.366229+00:00"
-    },
-    {
-      "id": "a566a809993c",
-      "fingerprint": "a566a809993c",
-      "narrative_summary": "Elon Musk afirma algo verdadero, pero ¿es cierto?",
-      "why_memeable": "Frase corta y memorable, con una pregunta que genera interés",
-      "category": "Tecnología/Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUEBROS",
-        "ELONSAYS",
-        "BIZBROS"
-      ],
-      "key_terms_for_dex_search": [
-        "Elon Musk",
-        "verdadero",
-        "biz",
-        "bros"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 6
-      },
-      "started_at": "2026-08-10T07:55:32.628102+00:00",
-      "expires_at": "2026-08-12T07:55:32.628102+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "bizor",
-        "name": "bizor",
-        "mint": "3XjC2tkqEauvoVL9Xf7pgQF3PW5UNqQXt5M21z2ppump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 27729.0,
-        "liquidity_usd": 10947.68,
-        "price_usd": 2.772e-05,
-        "volume_h24": 99078.29,
-        "volume_h1": 73932.24,
-        "volume_m5": 564.92,
-        "price_change_5m": 10.12,
-        "price_change_1h": -14.85,
-        "price_change_24h": -12.62,
-        "txns_h1_buys": 663,
-        "txns_h1_sells": 489,
-        "created_ts": 1786488798000,
-        "pair_created_at": 1786488798000,
-        "url": "https://dexscreener.com/solana/gjpg1z7oewswrmvdh7eiykwmbevxk8bd6xrkmpq9pqce",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: BIZ in BIZOR",
-        "safety_score": 112801,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          }
-        ]
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "matched_at": "2026-08-11T23:56:15.490323+00:00"
-    },
-    {
-      "id": "74238fb599cd",
-      "fingerprint": "74238fb599cd",
-      "narrative_summary": "Don Nelson, Hall of Fame basketball coach y jugador de la NBA, muere a los 86 años",
-      "why_memeable": "La narrativa tiene un título claro y un nombre de persona fácil de recordar, lo que la hace fácil de compartir y repetir",
-      "category": "Deportes",
-      "matched_archetype": "public_figure_in_unusual_state",
-      "candidate_tickers": [
-        "DONNELSON",
-        "NBA",
-        "BOSTONCELTICS"
-      ],
-      "key_terms_for_dex_search": [
-        "DonNelson",
-        "NBA",
-        "BostonCeltics",
-        "fallecimiento"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 2
-      },
-      "started_at": "2026-08-10T07:56:39.533236+00:00",
-      "expires_at": "2026-08-12T07:56:39.533236+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-12T09:19:37.430291+00:00"
-    },
-    {
       "id": "6bfdac171e2c",
       "fingerprint": "6bfdac171e2c",
       "narrative_summary": "China evacua a un millón de personas debido a una tormenta masiva",
@@ -10716,7 +10546,143 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e4a2ff832353",
+      "fingerprint": "e4a2ff832353",
+      "narrative_summary": "Anna y Kristoff se casarán en 'FROZEN 3', una nueva entrega de la franquicia que incluirá a los personajes principales y un nuevo villano.",
+      "why_memeable": "La noticia de la boda entre Anna y Kristoff es un giro inesperado en la franquicia de FROZEN, lo que puede generar interés y memes.",
+      "category": "Entretenimiento",
+      "matched_archetype": "generational_or_nostalgic_trigger",
+      "candidate_tickers": [
+        "FROZEN3",
+        "ANNAKRISTOFF",
+        "DISNEYWEDDING"
+      ],
+      "key_terms_for_dex_search": [
+        "FROZEN 3",
+        "Anna y Kristoff",
+        "boda",
+        "Disney"
+      ],
+      "score": 84,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T10:36:13.492854+00:00",
+      "expires_at": "2026-08-18T10:36:13.492854+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Anna and Kristoff are getting married in ‘FROZEN 3’.",
+      "cluster_sources": [
+        "breaking_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "82843e5ffa4c",
+      "fingerprint": "82843e5ffa4c",
+      "narrative_summary": "Trump-appointed regulator aprueba licencia bancaria para empresa de criptomonedas vinculada a Trump.",
+      "why_memeable": "La narrativa tiene un núcleo claro y una frase memorable, y el conflicto entre Trump y el regulador es altamente polarizante.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP",
+        "CRYPTO",
+        "OLLIA"
+      ],
+      "key_terms_for_dex_search": [
+        "TRUMP",
+        "CRYPTO",
+        "OLLIA",
+        "LICENCIA",
+        "BANCARIA"
+      ],
+      "score": 94,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 8,
+        "absurdity": 7,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T10:36:27.233477+00:00",
+      "expires_at": "2026-08-17T10:36:27.233477+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "c2ed8c622c3b",
+      "fingerprint": "c2ed8c622c3b",
+      "narrative_summary": "Muerte de un niño de 5 años en un ataque animal en Graham, Washington.",
+      "why_memeable": "La combinación de un evento trágico y un animal involucrado en la muerte de un niño de 5 años hace que la narrativa sea altamente memeable.",
+      "category": "Muerte de un niño en un ataque animal",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "GRAHAMATTACK",
+        "NIÑOMUERTO",
+        "ATAQUEANIMAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Graham",
+        "ataque animal",
+        "muerte de un niño"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 8,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T10:38:08.073800+00:00",
+      "expires_at": "2026-08-18T10:38:08.073800+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "If you want to learn how to run one: somethingbig.ai/gauntlet-loo… Grok Build harness is likely best but you can also run this in Grok Bot!",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T09:36:56.024575+00:00"
+  "last_updated": "2026-08-15T10:38:08.073800+00:00"
 }
