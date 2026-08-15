@@ -1,60 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T13:04:23.469458+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a27dd505f34c",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 271416.0
-      }
-    },
-    {
-      "ts": "2026-07-21T15:14:06.366331+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "31a6a4e3c259",
-        "score": 78,
-        "category": "animal_cruelty",
-        "title": "Agency Proposes Beefing Up Disclosure for Patent Challengers - Bloomberg Law News",
-        "candidate_tickers": [
-          "ANIMALCRUELTY",
-          "CADÁVERESDEANIMALES",
-          "INJUSTICIACONANIMALES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T15:15:56.343073+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "negocios",
-        "title": "EXCLUSIVE Boeing asks US to intervene over record EU loan to Airbus - Reuters",
-        "candidate_tickers": [
-          "BOEINGvsAIRBUS",
-          "EUloan",
-          "AIRBUSvsBOEING"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T15:16:27.877588+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9761337d37af",
-        "score": 74,
-        "category": "Celebridad",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "MUSK"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T15:17:14.506508+00:00",
       "kind": "shadow",
       "payload": {
@@ -27782,6 +27728,68 @@
         "ticker": "GUNS",
         "mint": "5mPVUc7pDVZnJx28vrZFwYQcsMqqWsoW3QWdNTmZpump",
         "mc": 29560.0
+      }
+    },
+    {
+      "ts": "2026-08-15T18:43:44.911096+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5139f09b9695",
+        "score": 80,
+        "category": "Noticias de animales",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "HOTDOG",
+          "CARDEATH",
+          "PETOWNER",
+          "ANIMALABUSE",
+          "NEGLIGENCE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T18:44:24.685500+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "dcf9a9fb3c04",
+        "score": 74,
+        "category": "monedas memes",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "DOGE",
+          "MEME"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T18:45:11.636673+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2b5c16858a30",
+        "score": 80,
+        "category": "Muertes de celebridades",
+        "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+        "candidate_tickers": [
+          "CELEBRIDADMUERTE",
+          "MUERTEENUNCORTOTIEMPO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T18:47:52.285974+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d368bf279524",
+        "score": 79,
+        "category": "política",
+        "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
+        "candidate_tickers": [
+          "LIECHTENSTEIN",
+          "TRONO",
+          "MUJERES",
+          "HERENCIA"
+        ]
       }
     }
   ]
