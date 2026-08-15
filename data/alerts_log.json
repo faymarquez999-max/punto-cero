@@ -1,70 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-19T23:20:33.876919+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d94ea6751c33",
-        "ticker": "CINEMA",
-        "mint": "FL4eKdJrVZ1dVu1RoekeQRnuPxavzD4oCcR5HTcspump",
-        "mc": 74723.0
-      }
-    },
-    {
-      "ts": "2026-07-19T23:20:46.130878+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1d94bafdf531",
-        "ticker": "TATE",
-        "mint": "6ke1Spo4n6H2j3FRjAkusngLv6ovm9mibgPa9wHSpump",
-        "mc": 26654.0
-      }
-    },
-    {
-      "ts": "2026-07-20T00:18:05.153503+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "2110597bbbed",
-        "score": 88,
-        "category": "Guerra y política",
-        "title": "Back then she was a young 55 year old with crazy ideas",
-        "candidate_tickers": [
-          "IRANWAR",
-          "USMILITARY",
-          "WARCASUALTIES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T00:20:23.814940+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4734835735f7",
-        "score": 85,
-        "category": "Tecnología",
-        "title": "Wow",
-        "candidate_tickers": [
-          "WOWELON",
-          "ELONWOW"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T00:21:26.362825+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f3b5b57607cc",
-        "score": 85,
-        "category": "Deportes/Viral",
-        "title": "xcancel.com/i/jf/soccer/league/mat…",
-        "candidate_tickers": [
-          "XCANCEL",
-          "MATLEAGUE",
-          "ELONSOCCER"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T04:28:12.274045+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27820,6 +27756,70 @@
           "INDONESIA",
           "SISMICO"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:50:33.085836+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "‘THE PRINCESS DIARIES 3’ is now being showcased at D23.",
+        "candidate_tickers": [
+          "TRUMP",
+          "LINCOLN",
+          "USS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:51:16.928955+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muerte de un académico en medio de un escándalo de plagio",
+        "title": "Anne Hathaway is now on stage at D23.",
+        "candidate_tickers": [
+          "Plagio",
+          "Academia",
+          "Muerte",
+          "Jason Arday"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:51:54.916477+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ace50eb21185",
+        "score": 70,
+        "category": "Desastres naturales",
+        "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
+        "candidate_tickers": [
+          "INDOQUAKE",
+          "TREMORINDO",
+          "INDONESIADESTRUIDO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T03:54:57.673263+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e762c5b1a42a",
+        "ticker": "PATRIOTS",
+        "mint": "27b3yPhPVJQzCSDtML8XTNVYQcNa2urnMZXgzGhfpump",
+        "mc": 197966.0
+      }
+    },
+    {
+      "ts": "2026-08-15T03:55:17.302418+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "4a218f9556cd",
+        "ticker": "Luigi",
+        "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+        "mc": 404769.0
       }
     }
   ]

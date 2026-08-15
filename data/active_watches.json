@@ -1,56 +1,6 @@
 {
   "watches": [
     {
-      "id": "affde7cc3da7",
-      "fingerprint": "affde7cc3da7",
-      "narrative_summary": "Iran's President Pezeshkian meets with Supreme Leader Khamenei to discuss economic and military affairs, amidst tensions over the Strait of Hormuz.",
-      "why_memeable": "La narrativa tiene un núcleo claro y un título memorable, lo que la hace fácilmente compartible y repetible.",
-      "category": "política internacional",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "IRAN",
-        "HORMUZ",
-        "PEZESHKIAN",
-        "KHAMENEI"
-      ],
-      "key_terms_for_dex_search": [
-        "IRAN",
-        "HORMUZ",
-        "PEZESHKIAN",
-        "KHAMENEI",
-        "TENSIONES",
-        "POLÍTICA INTERNACIONAL"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 4,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-09T20:44:57.462171+00:00",
-      "expires_at": "2026-08-11T20:44:57.462171+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "IRAN'S PRESIDENT PEZESHKIAN RECENTLY MET WITH SUPREME LEADER MOJTABA KHAMENEI TO DISCUSS ECONOMIC AND MILITARY AFFAIRS - STATE MEDIA",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 3,
-      "expired_at": "2026-08-11T21:57:58.275366+00:00"
-    },
-    {
       "id": "509218e00028",
       "fingerprint": "509218e00028",
       "narrative_summary": "Elon Musk comparte un enlace sin contexto, generando especulación sobre su contenido.",
@@ -10520,7 +10470,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "ace50eb21185",
+      "fingerprint": "ace50eb21185",
+      "narrative_summary": "Un terremoto de 7.7 grados sacude Indonesia, dejando un muerto y dañando edificios.",
+      "why_memeable": "La narrativa cuenta con un evento natural dramático y dañino que afecta a una región.",
+      "category": "Desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "INDOQUAKE",
+        "TREMORINDO",
+        "INDONESIADESTRUIDO"
+      ],
+      "key_terms_for_dex_search": [
+        "terremoto",
+        "Indonesia",
+        "daño",
+        "muerto"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 7,
+        "velocity": 6
+      },
+      "started_at": "2026-08-15T03:51:54.234678+00:00",
+      "expires_at": "2026-08-17T03:51:54.234678+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T03:01:33.830589+00:00"
+  "last_updated": "2026-08-15T03:51:54.234678+00:00"
 }
