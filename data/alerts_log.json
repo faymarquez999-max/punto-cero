@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T04:28:12.274045+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "04d50969c6dd",
-        "score": 89,
-        "category": "noticias internacionales",
-        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-        "candidate_tickers": [
-          "UCRANIA",
-          "SOLDADOS",
-          "VIOLENCIA",
-          "RECLUTAMIENTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T04:28:53.751720+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "política",
-        "title": "Troy Jackson on Track to Replace Platner as Maine Senate Nominee - Bloomberg.com",
-        "candidate_tickers": [
-          "TroyJackson",
-          "MaineSenate",
-          "Platner"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-20T04:29:09.119092+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a6b6467aaec1",
-        "score": 84,
-        "category": "fútbol, Elon Musk",
-        "title": "xcancel.com/i/jf/soccer/league/mat…",
-        "candidate_tickers": [
-          "ELONSOCCER",
-          "FÚTBOLXC"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T07:44:09.754694+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27820,6 +27776,52 @@
         "ticker": "Luigi",
         "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
         "mc": 404769.0
+      }
+    },
+    {
+      "ts": "2026-08-15T04:41:25.060850+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ff1e57bf6ec1",
+        "score": 80,
+        "category": "crimen y justicia",
+        "title": "Inde Navarrette has been cast as Rogue in Marvel Studios’ ‘X-MEN’.",
+        "candidate_tickers": [
+          "MANGIONE",
+          "THOMPSON",
+          "HEALTHCAREKILL",
+          "CEOJUSTICE",
+          "GUILTYPLEA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T04:42:15.444675+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 69,
+        "category": "Muerte y controversia",
+        "title": "The Papers: 'Row professor found dead' and 'barbecue ban'",
+        "candidate_tickers": [
+          "PlagioProfesor",
+          "BarbacoasProhibidas",
+          "MuerteAcadémico"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T04:43:06.974664+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "94247a682a9e",
+        "score": 85,
+        "category": "Tecnología",
+        "title": "Yes",
+        "candidate_tickers": [
+          "YESMUSK",
+          "ELONYES",
+          "MUSKYES"
+        ]
       }
     }
   ]
