@@ -1,33 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T23:12:28.177228+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "dee14f7655ef",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 132533.0
-      }
-    },
-    {
-      "ts": "2026-07-21T03:53:12.560000+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3069029a4bbc",
-        "score": 88,
-        "category": "Política",
-        "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests - AP News",
-        "candidate_tickers": [
-          "UCRANIA",
-          "DRONES",
-          "MOSCÚ",
-          "ZELENSKYY",
-          "PROTESTAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T03:54:30.297939+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27809,6 +27782,35 @@
           "XRP",
           "MemeToro",
           "Solana"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T13:38:44.498638+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Tecnología y futurismo",
+        "title": "Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land",
+        "candidate_tickers": [
+          "OrbitalAI",
+          "AI2029",
+          "ComputaciónOrbital"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T13:39:11.360040+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a4ab9f6558c",
+        "score": 80,
+        "category": "Entretenimiento",
+        "title": "Anna and Kristoff are getting married in ‘FROZEN 3’.",
+        "candidate_tickers": [
+          "FROZEN3",
+          "ANNAKRISTOFF",
+          "DISNEYWEDDING"
         ]
       }
     }
