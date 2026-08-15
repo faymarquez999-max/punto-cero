@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "8c97b38726f2",
-      "fingerprint": "8c97b38726f2",
-      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable y polariza a la gente.",
-      "why_memeable": "La frase es corta, fácil de recordar y tiene un impacto emocional. También tiene un componente de lógica que puede ser interpretado de varias maneras.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HITLER",
-        "SOCIALISTA",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Hitler",
-        "socialista",
-        "ElonMusk",
-        "lógica",
-        "inescapable"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 7,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 8,
-        "simplicity": 8,
-        "velocity": 6
-      },
-      "started_at": "2026-08-10T13:26:45.257552+00:00",
-      "expires_at": "2026-08-12T13:26:45.257552+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HITLER",
-        "name": "Adolf Hitler Official",
-        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20647.0,
-        "liquidity_usd": 10540.41,
-        "price_usd": 2.065e-05,
-        "volume_h24": 12782.77,
-        "volume_h1": 110.34,
-        "volume_m5": 90.64,
-        "price_change_5m": -3.77,
-        "price_change_1h": -5.51,
-        "price_change_24h": 2.38,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 5,
-        "created_ts": 1779235133000,
-        "pair_created_at": 1779235133000,
-        "url": "https://dexscreener.com/solana/2chpmbhguf1eqxsrksigfxdpydwyx76vid4antsyfp2w",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: HITLER==HITLER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Hitler was a far-left socialist",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T05:44:04.493239+00:00"
-    },
-    {
       "id": "345e99d994c4",
       "fingerprint": "345e99d994c4",
       "narrative_summary": "Un terremoto de magnitud 7.1 golpea la región de Colombia.",
@@ -10837,7 +10765,53 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "86827557f985",
+      "fingerprint": "86827557f985",
+      "narrative_summary": "US aircraft carrier USS Washington to relieve USS Lincoln in Middle East amid reports of dire conditions on board.",
+      "why_memeable": "Dire conditions on USS Lincoln, contrast between US aircraft carriers, and criticism from families of crew members.",
+      "category": "Military/Politics",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LINCOLNRELIEF",
+        "USSLINCOLN",
+        "DIRECONDITIONS"
+      ],
+      "key_terms_for_dex_search": [
+        "USS Lincoln",
+        "USS Washington",
+        "dire conditions",
+        "Middle East",
+        "Iran war"
+      ],
+      "score": 79,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 6,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T20:39:44.166218+00:00",
+      "expires_at": "2026-08-17T20:39:44.166218+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T20:01:26.109954+00:00"
+  "last_updated": "2026-08-15T20:39:44.166218+00:00"
 }

@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T15:17:42.129000+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "9761337d37af",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 273156.0
-      }
-    },
-    {
-      "ts": "2026-07-21T16:48:52.172792+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "10f3a16a2cbd",
-        "score": 89,
-        "category": "Muerte de actriz joven en accidente de coche",
-        "title": "Kaylee Hottle has passed away in a car accident at age 18.",
-        "candidate_tickers": [
-          "KAYLEEHOTTLE",
-          "JIAGODZILLA",
-          "GODZILLAVSKONG"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T16:49:37.878363+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c58b7abfd540",
-        "score": 82,
-        "category": "Política y Negocios",
-        "title": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
-        "candidate_tickers": [
-          "TRUMPVSMUSK",
-          "TRUMPVSELON",
-          "MUSKVSTRUMP"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T16:50:15.226553+00:00",
       "kind": "shadow",
       "payload": {
@@ -27790,6 +27750,53 @@
           "LIECHTENSTEIN",
           "SUCESIÓN",
           "MUJERES EN EL TRONO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T20:35:12.065896+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política internacional",
+        "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+        "candidate_tickers": [
+          "ERDOGAN",
+          "TURKIYE",
+          "EGYPT",
+          "SAUDI",
+          "PAKISTAN",
+          "DEFENCE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T20:35:26.091617+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Política",
+        "title": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed ",
+        "candidate_tickers": [
+          "Massie",
+          "Trump",
+          "Congreso",
+          "Peor congresista"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T20:39:44.657380+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "86827557f985",
+        "score": 79,
+        "category": "Military/Politics",
+        "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+        "candidate_tickers": [
+          "LINCOLNRELIEF",
+          "USSLINCOLN",
+          "DIRECONDITIONS"
         ]
       }
     }
