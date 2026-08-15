@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T21:23:59.985125+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "f74493024839",
-        "score": 83,
-        "category": "Tecnología",
-        "title": "And Miami",
-        "candidate_tickers": [
-          "ANDMIAMI",
-          "ELONMUSKMIAMI"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T22:33:37.751857+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "233a8aef2051",
-        "score": 79,
-        "category": "maltrato animal",
-        "title": "Ithaca man arrested after breaking into apartment in Lansing - New York State Police (.gov)",
-        "candidate_tickers": [
-          "ITHACAMAN",
-          "MALTRATOANIMAL",
-          "ARRESTADOPORMALTRATO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T22:34:11.683358+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "32ebf9599f79",
-        "score": 89,
-        "category": "Celebridad",
-        "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP - AP News",
-        "candidate_tickers": [
-          "TATE",
-          "INFLUENCERSARRESTADOS",
-          "MIAMI"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T23:41:02.144525+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27794,6 +27750,49 @@
           "SUCESIÓN",
           "MUJERES",
           "TRONO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T22:34:56.608322+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "c517e73e66ae",
+        "score": 88,
+        "category": "política",
+        "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+        "candidate_tickers": [
+          "CAROLINA",
+          "PRIMARIES2028",
+          "DEMOCRATS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T22:35:27.358595+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "3816e2eb768d",
+        "score": 88,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "DOGE",
+          "MEMECOIN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T22:35:47.431327+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "eventos climáticos",
+        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "candidate_tickers": [
+          "HAWAIIVSSTORM",
+          "HURACANLALA"
         ]
       }
     }

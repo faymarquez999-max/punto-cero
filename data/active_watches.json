@@ -1,98 +1,6 @@
 {
   "watches": [
     {
-      "id": "794b495eb695",
-      "fingerprint": "794b495eb695",
-      "narrative_summary": "Un terremoto de magnitud 7.1 golpea la región de Colombia",
-      "why_memeable": "La narrativa cuenta con un evento dramático y una ubicación geográfica específica, lo que la hace fácilmente compartible y recordable",
-      "category": "desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "COL",
-        "TERREMOTO",
-        "COLTER"
-      ],
-      "key_terms_for_dex_search": [
-        "colombia",
-        "terremoto",
-        "desastre natural"
-      ],
-      "score": 90,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 0,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T14:41:05.544996+00:00",
-      "expires_at": "2026-08-13T14:41:05.544996+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "MAGNITUDE 7.1 EARTHQUAKE STRIKES COLOMBIA REGION - EMSC",
-      "cluster_sources": [
-        "breaking_news",
-        "nitter"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-13T15:18:56.812838+00:00"
-    },
-    {
-      "id": "4e6acae66b6c",
-      "fingerprint": "4e6acae66b6c",
-      "narrative_summary": "Un ataque de dron ucraniano en Rusia mata a 13 personas y causa miedo y pérdidas",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia' y 'villano' (Rusia) y 'víctima' (Ucrania)",
-      "category": "Noticias internacionales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "RUSIAATACA",
-        "DRONUCRANIANO",
-        "ATAQUERUSIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Rusia",
-        "Ucrania",
-        "ataque",
-        "dron",
-        "muertes"
-      ],
-      "score": 88,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 4,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T14:41:37.007389+00:00",
-      "expires_at": "2026-08-12T14:41:37.007389+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 8,
-      "expired_at": "2026-08-12T15:18:05.161468+00:00"
-    },
-    {
       "id": "cedf7d69da0f",
       "fingerprint": "cedf7d69da0f",
       "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable que relaciona a los socialistas con Hitler.",
@@ -10879,7 +10787,97 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "c517e73e66ae",
+      "fingerprint": "c517e73e66ae",
+      "narrative_summary": "Los demócratas de EE. UU. han finalizado un gran cambio en el calendario de primarias presidenciales de 2028, colocando a Carolina del Sur en primer lugar.",
+      "why_memeable": "La narrativa es fácil de entender y se puede capturar en una frase corta. La idea de que Carolina del Sur se convierta en el primer estado en votar en las primarias presidenciales es interesante y puede generar debate.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "CAROLINA",
+        "PRIMARIES2028",
+        "DEMOCRATS"
+      ],
+      "key_terms_for_dex_search": [
+        "democratas",
+        "primarias",
+        "2028",
+        "carolina",
+        "EE.UU."
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T22:34:56.025722+00:00",
+      "expires_at": "2026-08-17T22:34:56.025722+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "3816e2eb768d",
+      "fingerprint": "3816e2eb768d",
+      "narrative_summary": "Listado de las mejores monedas meméticas para invertir en agosto de 2026, según diferentes fuentes.",
+      "why_memeable": "La narrativa es memeable porque se trata de un listado de monedas meméticas, lo que permite a los usuarios compartir y discutir sobre las mismas.",
+      "category": "monedas meméticas",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XRP",
+        "DOGE",
+        "MEMECOIN"
+      ],
+      "key_terms_for_dex_search": [
+        "monedas meméticas",
+        "invertir",
+        "agosto 2026"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T22:35:26.866609+00:00",
+      "expires_at": "2026-08-18T22:35:26.866609+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2555",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T21:40:37.510481+00:00"
+  "last_updated": "2026-08-15T22:35:26.866609+00:00"
 }
