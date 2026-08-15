@@ -1,102 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T06:41:37.385122+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Deportes",
-        "title": "Messi says Argentina's defeat by Spain left immense pain - Reuters",
-        "candidate_tickers": [
-          "MessiPain",
-          "ArgentinaDerrota",
-          "DolorDeMessi"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T06:42:22.157020+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4b3d25613f93",
-        "score": 80,
-        "category": "Tecnología",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YES",
-          "ELON",
-          "TWITTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T09:19:42.669633+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "monedas meméticas",
-        "title": "/XSG/ XRP Schizo General #2553",
-        "candidate_tickers": [
-          "XRP",
-          "SOL",
-          "MEMECOIN"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T09:20:04.454489+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ae872f695648",
-        "score": 80,
-        "category": "violencia y conflicto",
-        "title": "Man stabs tourists near the Acropolis in Athens, Greece - AP News",
-        "candidate_tickers": [
-          "ACROPOLISATTACK",
-          "ATENASATACA",
-          "TURISTASATACADOS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T09:20:19.029108+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4dedfdd02ad6",
-        "score": 74,
-        "category": "Tecnología/Política",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "MUSKYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T09:21:15.821398+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c072a923f827",
-        "score": 70,
-        "category": "meme de Elon Musk",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T09:24:05.268684+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "4b3d25613f93",
-        "ticker": "ELON",
-        "mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
-        "mc": 278119.0
-      }
-    },
-    {
       "ts": "2026-07-21T11:28:04.381241+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27801,6 +27705,92 @@
         "ticker": "QUEENB",
         "mint": "2wfBYQRZivKm9qaeKVrtr5WDjTy3DaaGB5v1PKocpump",
         "mc": 96405.0
+      }
+    },
+    {
+      "ts": "2026-08-15T14:43:31.903564+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d367b8bc6696",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Tua Tagovailoa sparks viral NFL meme after brutal Falcons debut - Yahoo Sports",
+        "candidate_tickers": [
+          "TUA",
+          "FALCONS",
+          "NFL",
+          "TAGO",
+          "DEBUT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:43:51.058079+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Política",
+        "title": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+        "candidate_tickers": [
+          "Taliban",
+          "Afganistán",
+          "Crisis",
+          "Ayuda"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:44:31.476630+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8f6f83e40baf",
+        "score": 74,
+        "category": "Deportes",
+        "title": "Jeff Bezos adquiere una participación minoritaria en el Liverpool en la sorprendente nueva inversión de FSG - Goal.com",
+        "candidate_tickers": [
+          "BEZOSLIVERPOOL",
+          "LIVERPOOLBEZOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:47:49.809234+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "df3b6b0db3fa",
+        "ticker": "CANCER",
+        "mint": "CmomKM8iPKRSMN7y1jqyW1QKj5bGoZmbvNZXWBJSUdnZ",
+        "mc": 68188.0
+      }
+    },
+    {
+      "ts": "2026-08-15T14:48:28.745565+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "1796a5eae009",
+        "ticker": "Imagine",
+        "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
+        "mc": 16344.0
+      }
+    },
+    {
+      "ts": "2026-08-15T14:48:31.917504+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "32d405d9b01c",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214382.0
+      }
+    },
+    {
+      "ts": "2026-08-15T14:48:33.668082+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "f9dd3973dbb2",
+        "ticker": "Luigi",
+        "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+        "mc": 339757.0
       }
     }
   ]

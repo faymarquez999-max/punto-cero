@@ -1,98 +1,6 @@
 {
   "watches": [
     {
-      "id": "5342322d0db9",
-      "fingerprint": "5342322d0db9",
-      "narrative_summary": "Alexandria Ocasio-Cortez anuncia que congelará sus óvulos, buscando normalizar las conversaciones sobre el proceso.",
-      "why_memeable": "La noticia tiene un componente personal y político, lo que la hace más compartible y recordable.",
-      "category": " política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AOC",
-        "OCASIOCORTEZ",
-        "CONGELAROVULOS"
-      ],
-      "key_terms_for_dex_search": [
-        "AOC",
-        "OcasioCortez",
-        "CongelarOvulos",
-        "NormalizarConversaciones"
-      ],
-      "score": 78,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 4,
-        "memeable": 7,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 3,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 5
-      },
-      "started_at": "2026-08-10T09:42:48.599380+00:00",
-      "expires_at": "2026-08-12T09:42:48.599380+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-12T10:38:34.419517+00:00"
-    },
-    {
-      "id": "da12f84f083d",
-      "fingerprint": "da12f84f083d",
-      "narrative_summary": "Un hombre dispara dentro de un edificio del gobierno tailandés mientras el país se recupera de un tiroteo escolar.",
-      "why_memeable": "La narrativa tiene un claro arquetipo de 'injusticia con villano y víctima' y una frase memeable 'Gunman fires inside Thai government office'.",
-      "category": "Noticias de actualidad",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "GUNMAN",
-        "THAISHOOTING",
-        "GOBIERNOTAILANDÉS"
-      ],
-      "key_terms_for_dex_search": [
-        "Gunman",
-        "ThaiShooting",
-        "GobiernoTailandés",
-        "Tiroteo escolar"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 8,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T09:44:09.040601+00:00",
-      "expires_at": "2026-08-12T09:44:09.040601+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Gunman fires inside Thai government office as country reels from school shooting - Reuters",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-12T10:38:34.419533+00:00"
-    },
-    {
       "id": "64313cb69480",
       "fingerprint": "64313cb69480",
       "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, generando una reacción en cadena de memes y debate.",
@@ -5926,7 +5834,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "df3b6b0db3fa",
@@ -5964,14 +5872,41 @@
       "started_at": "2026-08-12T15:21:13.370104+00:00",
       "expires_at": "2026-08-15T15:21:13.370104+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "CANCER",
+        "name": "Cancer",
+        "mint": "CmomKM8iPKRSMN7y1jqyW1QKj5bGoZmbvNZXWBJSUdnZ",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 68188.0,
+        "liquidity_usd": 12981.83,
+        "price_usd": 6.819e-05,
+        "volume_h24": 7384.94,
+        "volume_h1": 2575.88,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": -23.16,
+        "price_change_24h": 33.55,
+        "txns_h1_buys": 45,
+        "txns_h1_sells": 36,
+        "created_ts": 1720206222000,
+        "pair_created_at": 1720206222000,
+        "url": "https://dexscreener.com/solana/datech6da4i1evzu37f9ibqiryxhlkzpkdzdno346nsw",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: CANCER in CANCER",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Lucy Davis urges women to check their breasts for cancer - here's how",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8,
+      "matched_at": "2026-08-15T14:47:49.796479+00:00"
     },
     {
       "id": "1a42a90b2e94",
@@ -6066,7 +6001,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "dd309c83d7cc",
@@ -6207,7 +6142,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "5264ac5763c6",
@@ -6250,7 +6185,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "883e51f5cb1c",
@@ -6346,7 +6281,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "4bf094c80c35",
@@ -6390,7 +6325,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "5b6d724e1811",
@@ -6578,7 +6513,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "8ab05547964f",
@@ -6717,7 +6652,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "9d7631b6e181",
@@ -6843,7 +6778,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "4ea4cc614b84",
@@ -7391,7 +7326,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "b5eebea76a32",
@@ -7441,7 +7376,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5565aae534f2",
@@ -7484,7 +7419,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f0792e1b31e7",
@@ -7530,7 +7465,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "de9c791c78fc",
@@ -7575,14 +7510,15 @@
       "started_at": "2026-08-13T14:13:02.520924+00:00",
       "expires_at": "2026-08-15T14:13:02.520924+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-15T14:43:11.728014+00:00"
     },
     {
       "id": "b7a9bf44df9c",
@@ -7620,14 +7556,15 @@
       "started_at": "2026-08-13T14:13:49.170843+00:00",
       "expires_at": "2026-08-15T14:13:49.170843+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Rubio and Bessent stayed on decoy flight from Turkey as Trump switched planes, official says - AP News",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-15T14:43:11.728026+00:00"
     },
     {
       "id": "89b0b535e51f",
@@ -7662,13 +7599,14 @@
       "started_at": "2026-08-13T14:14:57.201863+00:00",
       "expires_at": "2026-08-15T14:14:57.201863+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "I’m not sure who made this.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-15T14:43:11.728030+00:00"
     },
     {
       "id": "3dcfccd0303d",
@@ -7704,13 +7642,14 @@
       "started_at": "2026-08-13T14:16:14.762089+00:00",
       "expires_at": "2026-08-15T14:16:14.762089+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "one step closer to moon cannon and party.",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 5,
+      "expired_at": "2026-08-15T14:43:11.728032+00:00"
     },
     {
       "id": "e762c5b1a42a",
@@ -7833,7 +7772,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "aa73792e408c",
@@ -7879,7 +7818,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "17e20c54523f",
@@ -7925,7 +7864,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "2a1e7af16810",
@@ -7967,7 +7906,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "adf8a818240d",
@@ -8015,7 +7954,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "7a66a537e4e6",
@@ -8060,7 +7999,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "787f54db1ad0",
@@ -8103,7 +8042,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d283f5b9c187",
@@ -8145,7 +8084,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "891d13868a2b",
@@ -8191,7 +8130,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "f6b3c06ec5df",
@@ -8236,7 +8175,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d0bdc04cff81",
@@ -8280,7 +8219,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "c56625af0c6b",
@@ -8329,7 +8268,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5a8b883918c3",
@@ -8375,7 +8314,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "b482007e4669",
@@ -8425,7 +8364,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "4a218f9556cd",
@@ -8546,7 +8485,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d758b429b51b",
@@ -8593,7 +8532,7 @@
         "4chan",
         "breaking_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "113cff534d13",
@@ -8680,7 +8619,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "e4f63e5d233f",
@@ -8829,7 +8768,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "2a2de4559f21",
@@ -8873,7 +8812,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "d8fefefbb6a4",
@@ -8918,7 +8857,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "526bf76c2498",
@@ -9046,7 +8985,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "7d3d743adbdc",
@@ -9093,7 +9032,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "3e0323a29b43",
@@ -9365,7 +9304,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8f39154faa34",
@@ -9410,7 +9349,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "54dac16b20ff",
@@ -9455,7 +9394,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "1f6b3cab2a95",
@@ -9499,7 +9438,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "3ab823b5593f",
@@ -9543,7 +9482,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "1796a5eae009",
@@ -9581,13 +9520,40 @@
       "started_at": "2026-08-14T17:45:25.980526+00:00",
       "expires_at": "2026-08-16T17:45:25.980526+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Imagine",
+        "name": "Imagine Game Studio",
+        "mint": "EpFTb2XcGiMyGLykZ9VYmyPWz2AHEwAggqSbwJpypump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 16344.0,
+        "liquidity_usd": 8361.17,
+        "price_usd": 1.724e-05,
+        "volume_h24": 157168.03,
+        "volume_h1": 648.23,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 1.62,
+        "price_change_24h": -44.05,
+        "txns_h1_buys": 11,
+        "txns_h1_sells": 27,
+        "created_ts": 1786733722000,
+        "pair_created_at": 1786733722000,
+        "url": "https://dexscreener.com/solana/4uuzpgttnksnd8cwad3wxsxpcppxckvoywykhldfmon1",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: IMAGINE==IMAGINE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Grok Imagine",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-15T14:48:28.735869+00:00"
     },
     {
       "id": "ebc6435b0278",
@@ -9633,7 +9599,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "46549258a9c7",
@@ -9677,7 +9643,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "32d405d9b01c",
@@ -9716,14 +9682,66 @@
       "started_at": "2026-08-14T19:42:28.869371+00:00",
       "expires_at": "2026-08-16T19:42:28.869371+00:00",
       "duration_hours": 48,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "XRP",
+        "name": "Ripple",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 214382.0,
+        "liquidity_usd": 134020.5,
+        "price_usd": 1.33,
+        "volume_h24": 36198.19,
+        "volume_h1": 0.0,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 0.0,
+        "price_change_24h": -4.47,
+        "txns_h1_buys": 0,
+        "txns_h1_sells": 0,
+        "created_ts": 1775819898000,
+        "pair_created_at": 1775819898000,
+        "url": "https://dexscreener.com/solana/eecpjmaou3ke6pnummaj9jqhyysr14zw1rqwa6efmru9",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "ticker exact: XRP==XRP",
+        "safety_score": 18272,
+        "safety_risks": [
+          {
+            "name": "Large Amount of LP Unlocked",
+            "level": "danger",
+            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
+          },
+          {
+            "name": "Single holder ownership",
+            "level": "warn",
+            "description": "One user holds a large amount of the token supply"
+          },
+          {
+            "name": "Low Liquidity",
+            "level": "danger",
+            "description": "Low amount of liquidity in the token pool"
+          },
+          {
+            "name": "Missing file metadata",
+            "level": "warn",
+            "description": "No file metadata found associated to this token"
+          },
+          {
+            "name": "Low amount of LP Providers",
+            "level": "warn",
+            "description": "Only a few users are providing liquidity"
+          }
+        ]
+      },
       "cluster_top_title": "/XSG/ XRP Schizo General #2555",
       "cluster_sources": [
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3,
+      "matched_at": "2026-08-15T14:48:31.906943+00:00"
     },
     {
       "id": "f9dd3973dbb2",
@@ -9762,15 +9780,42 @@
       "started_at": "2026-08-14T20:19:02.331116+00:00",
       "expires_at": "2026-08-17T20:19:02.331116+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "Luigi",
+        "name": "Luigi Mangione",
+        "mint": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+        "chain": "solana",
+        "dex": "raydium",
+        "market_cap_usd": 339757.0,
+        "liquidity_usd": 130705.26,
+        "price_usd": 0.0003397,
+        "volume_h24": 842867.62,
+        "volume_h1": 788.85,
+        "volume_m5": 539.26,
+        "price_change_5m": -1.16,
+        "price_change_1h": -2.02,
+        "price_change_24h": -62.39,
+        "txns_h1_buys": 5,
+        "txns_h1_sells": 6,
+        "created_ts": 1733768682000,
+        "pair_created_at": 1733768682000,
+        "url": "https://dexscreener.com/solana/awcxgpmbgvhyzgwe4refstfodghhrha12fhyjqbvqeul",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: LUIGI MANGIONE in LUIGI MANGIONE",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Paramount Says It Has Secured All Global Clearances  to Close WBD Deal … Except for That Pesky Lawsuit",
       "cluster_sources": [
         "4chan",
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-15T14:48:33.658178+00:00"
     },
     {
       "id": "9acbd46afe1e",
@@ -9815,7 +9860,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "81681436d903",
@@ -9861,7 +9906,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "09798e4a11c0",
@@ -9906,7 +9951,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "51bb21b5c94a",
@@ -9950,7 +9995,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "ace50eb21185",
@@ -10689,7 +10734,99 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d367b8bc6696",
+      "fingerprint": "d367b8bc6696",
+      "narrative_summary": "Tua Tagovailoa debut brutal con los Falcons desencadena meme viral en la NFL",
+      "why_memeable": "La combinación de un debut decepcionante de un jugador destacado y la reacción viral en las redes sociales crea un contenido memeable",
+      "category": "Deportes",
+      "matched_archetype": "bizarre_accident_or_coincidence",
+      "candidate_tickers": [
+        "TUA",
+        "FALCONS",
+        "NFL",
+        "TAGO",
+        "DEBUT"
+      ],
+      "key_terms_for_dex_search": [
+        "Tua Tagovailoa",
+        "NFL",
+        "Falcons",
+        "meme",
+        "debut"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T14:43:31.418125+00:00",
+      "expires_at": "2026-08-18T14:43:31.418125+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tua Tagovailoa sparks viral NFL meme after brutal Falcons debut - Yahoo Sports",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "8f6f83e40baf",
+      "fingerprint": "8f6f83e40baf",
+      "narrative_summary": "Jeff Bezos adquiere una participación minoritaria en el Liverpool FC",
+      "why_memeable": "La noticia es sorprendente y fácil de capturar en una frase",
+      "category": "Deportes",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "BEZOSLIVERPOOL",
+        "LIVERPOOLBEZOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Bezos",
+        "Liverpool",
+        "inversión",
+        "fútbol"
+      ],
+      "score": 74,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-15T14:44:31.092182+00:00",
+      "expires_at": "2026-08-17T14:44:31.092182+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Jeff Bezos adquiere una participación minoritaria en el Liverpool en la sorprendente nueva inversión de FSG - Goal.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T14:06:38.360641+00:00"
+  "last_updated": "2026-08-15T14:48:33.658195+00:00"
 }
