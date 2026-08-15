@@ -1,47 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T18:05:55.309301+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "política",
-        "title": "JUST IN - Trump declares that Netanyahu will not be arrested in the U.S. for any reason.",
-        "candidate_tickers": [
-          "TRUMPNETANYAHU",
-          "TRUMPDECLARA",
-          "NETANYAHUARRESTO"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T18:08:33.080613+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "meme de Twitter",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T20:01:10.382040+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3a1fa77e216f",
-        "score": 70,
-        "category": "meme compartido por una figura influyente",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T21:23:59.985125+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27789,6 +27748,53 @@
         "ticker": "MemeSeason",
         "mint": "aUWH9iX3BKKeMHP6aoAf2r2KPjLq8h9Kim2YC48pump",
         "mc": 125989.0
+      }
+    },
+    {
+      "ts": "2026-08-15T21:39:10.910076+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Deportes y Entretenimiento",
+        "title": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
+        "candidate_tickers": [
+          "KINGJAMESGOLF",
+          "LBJPAR",
+          "GOLFCLE",
+          "LEBRONGOLF",
+          "CavsGolf"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T21:39:24.256946+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "salud",
+        "title": "Government-owned airports cannot favor one religion over all others.",
+        "candidate_tickers": [
+          "Ebola",
+          "DRC",
+          "salud",
+          "pandemia"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T21:40:37.870689+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "48758737de64",
+        "score": 80,
+        "category": "política",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "candidate_tickers": [
+          "LIECHTENSTEIN",
+          "SUCESIÓN",
+          "MUJERES",
+          "TRONO"
+        ]
       }
     }
   ]
