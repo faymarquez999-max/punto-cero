@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T23:12:21.751139+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "53f4f3ccd498",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 132533.0
-      }
-    },
-    {
-      "ts": "2026-07-20T23:12:24.802113+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "751a1efcdb5a",
-        "ticker": "Tate",
-        "mint": "LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
-        "mc": 132533.0
-      }
-    },
-    {
       "ts": "2026-07-20T23:12:28.177228+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27799,6 +27779,36 @@
           "FERRANTORRES",
           "PARISTG",
           "BARCELONA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T12:55:48.369184+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "noticias internacionales",
+        "title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
+        "candidate_tickers": [
+          "FLOODS",
+          "XI",
+          "CHINA",
+          "DISASTER",
+          "LANDSLIDES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T12:57:25.934799+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "monedas memes",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MemeToro",
+          "Solana"
         ]
       }
     }
