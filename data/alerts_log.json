@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T12:59:36.985529+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bece76f87480",
-        "score": 70,
-        "category": "Negocios y Finanzas",
-        "title": "Novo Nordisk sues Eli Lilly, accusing it of false advertising - Reuters",
-        "candidate_tickers": [
-          "NORDISKVSLLY",
-          "ELIVSNORDISK",
-          "FALSEADS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T13:00:36.783138+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b806554fb285",
-        "score": 72,
-        "category": "política",
-        "title": "Charlie Kirk conspiracy theories are devoid of fact: Radio host | Katie Pavlich Tonight - NewsNation",
-        "candidate_tickers": [
-          "KIRK",
-          "CONSPIRACIÓN",
-          "NEWSNATION"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T13:01:03.590346+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27788,6 +27758,37 @@
         "ticker": "Oliver",
         "mint": "4q4ym2MkpaXkXcyuKLS5bW9UYcAE9FHqBtha1yfhEJ5A",
         "mc": 27196.0
+      }
+    },
+    {
+      "ts": "2026-08-15T17:04:35.953699+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "ea8c6425c31e",
+        "score": 83,
+        "category": "Noticias Internacionales",
+        "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
+        "candidate_tickers": [
+          "LIECHTENSTEIN",
+          "TRONO",
+          "MUJERES",
+          "HERENCIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T17:05:01.569050+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Noticias",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "$10M",
+          "Grok",
+          "Portland",
+          "homeless"
+        ]
       }
     }
   ]
