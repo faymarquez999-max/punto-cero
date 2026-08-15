@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "19f9f223ecac",
-      "fingerprint": "19f9f223ecac",
-      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, generando una gran controversia.",
-      "why_memeable": "La frase es breve y fácil de recordar, y el uso de la lógica inescapable y la ironía (😂) la hace muy compartible.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HITLER",
-        "SOCIALISTA",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Hitler",
-        "socialista",
-        "ElonMusk",
-        "lógica",
-        "inescapable"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T04:21:30.918883+00:00",
-      "expires_at": "2026-08-11T04:21:30.918883+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Hitler was a far-left socialist",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 0,
-      "expired_at": "2026-08-11T05:38:59.085322+00:00"
-    },
-    {
       "id": "efe7fe830146",
       "fingerprint": "efe7fe830146",
       "narrative_summary": "Múltiples casos de crueldad animal reportados en diferentes partes de Estados Unidos, incluyendo el asesinato de gatitos y la negligencia hacia perros y cabras.",
@@ -10717,7 +10671,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "25e0758db2a3",
+      "fingerprint": "25e0758db2a3",
+      "narrative_summary": "Trump anuncia que declarará el estrecho de Hormuz como territorio de EE. UU. 'pronto'",
+      "why_memeable": "La declaración de Trump es inesperada y genera controversia, lo que la hace memeable",
+      "category": "política",
+      "matched_archetype": "injusticia_con_villano_y_victima",
+      "candidate_tickers": [
+        "TRUMPSTRAIT",
+        "HORMUZUS",
+        "TRUMPDECLARES"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Hormuz",
+        "US territory",
+        "declare"
+      ],
+      "score": 80,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 9,
+        "absurdity": 8,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T09:36:56.024575+00:00",
+      "expires_at": "2026-08-18T09:36:56.024575+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T08:50:54.804909+00:00"
+  "last_updated": "2026-08-15T09:36:56.024575+00:00"
 }

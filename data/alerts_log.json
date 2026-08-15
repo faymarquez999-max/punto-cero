@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T20:45:55.050546+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "política",
-        "title": "Who's in the cabinet?",
-        "candidate_tickers": [
-          "AndyBurnham",
-          "ReinoUnido",
-          "nuevo primer ministro"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T20:47:57.741599+00:00",
       "kind": "shadow",
       "payload": {
@@ -27781,6 +27767,21 @@
           "INDOQUAKE",
           "INDONESIATERREMOTO",
           "TERREMOTOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T09:36:56.567262+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "25e0758db2a3",
+        "score": 80,
+        "category": "política",
+        "title": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
+        "candidate_tickers": [
+          "TRUMPSTRAIT",
+          "HORMUZUS",
+          "TRUMPDECLARES"
         ]
       }
     }
