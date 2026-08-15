@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T11:30:34.047882+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "08a70a4f75a3",
-        "score": 82,
-        "category": "meme de Elon Musk",
-        "title": "Grok Imagine ❣️",
-        "candidate_tickers": [
-          "GROK",
-          "IMAGINE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T11:30:56.929098+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27785,6 +27771,22 @@
         "ticker": "XRP",
         "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
         "mc": 214382.0
+      }
+    },
+    {
+      "ts": "2026-08-15T15:40:06.824234+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "afc0123a03be",
+        "score": 88,
+        "category": "Muerte de un profesor de Cambridge acusado de plagio",
+        "title": "How do people wageslave AND have kids? I'm literally too stressed and emotionally exhausted by the end of most work days",
+        "candidate_tickers": [
+          "ARDAY",
+          "CAMBRIDGE",
+          "PLAGIO",
+          "MUERTE"
+        ]
       }
     }
   ]
