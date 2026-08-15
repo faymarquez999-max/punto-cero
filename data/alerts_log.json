@@ -1,29 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T11:31:24.843885+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "política internacional",
-        "title": "TURKEY HOLDS UP NATO’S €27B FUEL PIPELINE REVAMP DEAL - POLITICO",
-        "candidate_tickers": [
-          "TURKEYBLOCKS",
-          "NATOPIPELINE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T11:32:09.378773+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "08a70a4f75a3",
-        "ticker": "YUKI",
-        "mint": "3v2ekTxcn6voD4RDzhwaf5z1VXFxGBxoUKEWZRfBpump",
-        "mc": 80302.0
-      }
-    },
-    {
       "ts": "2026-07-21T12:59:36.985529+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27787,6 +27764,30 @@
           "ANNA_GETS_MARRIED",
           "KRISTOPF_WEDDING"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T16:38:10.296325+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "noticias políticas",
+        "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
+        "candidate_tickers": [
+          "LIECH",
+          "WOMENTHRONE",
+          "PRINCELY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T16:43:17.553059+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5da094ca2ac4",
+        "ticker": "Oliver",
+        "mint": "4q4ym2MkpaXkXcyuKLS5bW9UYcAE9FHqBtha1yfhEJ5A",
+        "mc": 27196.0
       }
     }
   ]
