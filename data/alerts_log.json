@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-20T20:47:57.741599+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "Sen. Darline Graham will run for full term to replace brother Lindsey - Politico",
-        "candidate_tickers": [
-          "DarlineGraham",
-          "LindseyGraham",
-          "MainePolitics"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-20T20:48:54.641584+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27782,6 +27768,20 @@
           "TRUMPSTRAIT",
           "HORMUZUS",
           "TRUMPDECLARES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T10:02:58.235405+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "política",
+        "title": "It is an honor to have such a great team join @SpaceX",
+        "candidate_tickers": [
+          "TRUMP",
+          "USS LINCOLN",
+          "CRISIS"
         ]
       }
     }
