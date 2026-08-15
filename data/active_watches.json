@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "c428b22cd2fc",
-      "fingerprint": "c428b22cd2fc",
-      "narrative_summary": "Dos aviones violan el espacio aéreo cerca del club de golf de Nueva Jersey donde estaba Trump",
-      "why_memeable": "La narrativa tiene un núcleo claro (dos aviones violan el espacio aéreo cerca del club de golf de Trump) y es fácil de compartir",
-      "category": "aviación",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMP_AVIACIÓN",
-        "AVIÓNES_VIOLAN",
-        "ESPACIO_AÉREO"
-      ],
-      "key_terms_for_dex_search": [
-        "aviación",
-        "Trump",
-        "espacio aéreo",
-        "Nueva Jersey"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T07:59:12.651768+00:00",
-      "expires_at": "2026-08-12T07:59:12.651768+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Interceptan dos aviones tras violar el espacio aéreo cerca del club de golf de Nueva Jersey donde estaba Trump - lasexta.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "expired_at": "2026-08-12T09:19:37.430294+00:00"
-    },
-    {
       "id": "5342322d0db9",
       "fingerprint": "5342322d0db9",
       "narrative_summary": "Alexandria Ocasio-Cortez anuncia que congelará sus óvulos, buscando normalizar las conversaciones sobre el proceso.",
@@ -10690,7 +10644,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "5ac9a17e5c89",
+      "fingerprint": "5ac9a17e5c89",
+      "narrative_summary": "Shooting at Virginia State University, multiple suspects and victims",
+      "why_memeable": "Multiple shooters and victims, with a clear event and location",
+      "category": "Crime/Tragedy",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VSUSHOOTING",
+        "VIRGINIASTATESHOOTING",
+        "MULTIPLESHOOTERS"
+      ],
+      "key_terms_for_dex_search": [
+        "Virginia State University",
+        "shooting",
+        "multiple suspects",
+        "gunshot victims"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-15T14:06:38.360641+00:00",
+      "expires_at": "2026-08-17T14:06:38.360641+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Five wounded in shooting at Virginia State University, multiple suspects",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T11:37:24.331345+00:00"
+  "last_updated": "2026-08-15T14:06:38.360641+00:00"
 }

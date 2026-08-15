@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T03:54:30.297939+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0ccdd75b442e",
-        "score": 74,
-        "category": "Tecnología",
-        "title": "Grok",
-        "candidate_tickers": [
-          "GROK",
-          "GROK4.5"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T06:37:25.219994+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "19f5c4b83369",
-        "score": 80,
-        "category": "política",
-        "title": "X is where all the real voices matter. You could never do this on Instagram.",
-        "candidate_tickers": [
-          "ANDYBURNHAM",
-          "SÉPTIMOPM",
-          "RENUNCIASTARMER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T06:39:14.630651+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4d732659dcdd",
-        "score": 80,
-        "category": "Noticias de animales",
-        "title": "As many as 3 dogs found dead in car in downtown San Antonio parking lot, officials say - kens5.com",
-        "candidate_tickers": [
-          "PERROSMUERTOS",
-          "DOGSINCAR",
-          "ACCIDENTEANIMAL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-21T06:41:02.381389+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 67,
-        "category": "política internacional",
-        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
-        "candidate_tickers": [
-          "Houthis",
-          "Yemen",
-          "Irán",
-          "Saudi Arabia",
-          "Blockade"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-21T06:41:37.385122+00:00",
       "kind": "shadow",
       "payload": {
@@ -27812,6 +27752,55 @@
           "ANNAKRISTOFF",
           "DISNEYWEDDING"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:03:05.260513+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "desastres naturales",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "INDONESIA",
+          "DESESTRES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:06:38.955088+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "5ac9a17e5c89",
+        "score": 74,
+        "category": "Crime/Tragedy",
+        "title": "Five wounded in shooting at Virginia State University, multiple suspects",
+        "candidate_tickers": [
+          "VSUSHOOTING",
+          "VIRGINIASTATESHOOTING",
+          "MULTIPLESHOOTERS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-15T14:07:55.336014+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "df3b6b0db3fa",
+        "ticker": "CANCER",
+        "mint": "CmomKM8iPKRSMN7y1jqyW1QKj5bGoZmbvNZXWBJSUdnZ",
+        "mc": 71949.0
+      }
+    },
+    {
+      "ts": "2026-08-15T14:08:09.237683+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "d0fb912400bd",
+        "ticker": "QUEENB",
+        "mint": "2wfBYQRZivKm9qaeKVrtr5WDjTy3DaaGB5v1PKocpump",
+        "mc": 96405.0
       }
     }
   ]
