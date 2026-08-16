@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T05:00:33.545050+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a9571c488a6b",
-        "score": 88,
-        "category": "política y redes sociales",
-        "title": "French lawmakers approve a sweeping social media ban for children under 15 - AP News",
-        "candidate_tickers": [
-          "FRENCHBAN",
-          "ELONVSCONGRESS",
-          "SOCIALMEDIABAN"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T05:01:06.354422+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27803,6 +27788,16 @@
           "Elon hopes",
           "AI amable"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-16T19:11:20.540338+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "9c0f27a993f1",
+        "ticker": "MUSK",
+        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
+        "mc": 44628.0
       }
     }
   ]
