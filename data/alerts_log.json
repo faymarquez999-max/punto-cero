@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T07:41:00.570117+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "accidentes y emergencias",
-        "title": "Louvre reopens Apollo Gallery after a brazen heist, but no jewels are on display - AP News",
-        "candidate_tickers": [
-          "DALLASLEAK",
-          "GASLEAKDALLAS",
-          "EVACUACION"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T07:42:21.491464+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27795,6 +27781,20 @@
           "PUNCHBOWL",
           "AIFUELED",
           "MARKETPARTY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T21:34:25.620962+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "77903b2ea1de",
+        "score": 87,
+        "category": "política internacional",
+        "title": "TRUMP ON IRAN: PRETTY SOON I'LL BE DECLARING HORMUZ STRAIT A TERRITORY OF THE UNITED STATES",
+        "candidate_tickers": [
+          "TRUMP_HORMUZ",
+          "HORMUZ_WAR"
         ]
       }
     }
