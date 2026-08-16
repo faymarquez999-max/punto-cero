@@ -1,76 +1,6 @@
 {
   "watches": [
     {
-      "id": "8dffcad0eb46",
-      "fingerprint": "8dffcad0eb46",
-      "narrative_summary": "Elon Musk compara a los socialistas con Hitler, generando un gran impacto en las redes sociales.",
-      "why_memeable": "La frase 'Socialistas son Hitler' es corta, fácil de recordar y genera una fuerte reacción emocional.",
-      "category": "Política y Controversia",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HITLER",
-        "SOCIALIST",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "socialistas",
-        "hitler"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 9,
-        "memeable": 8,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T17:42:47.009231+00:00",
-      "expires_at": "2026-08-12T17:42:47.009231+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HITLER",
-        "name": "Adolf Hitler Official",
-        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 17797.0,
-        "liquidity_usd": 9798.84,
-        "price_usd": 1.78e-05,
-        "volume_h24": 12548.04,
-        "volume_h1": 55.42,
-        "volume_m5": 46.57,
-        "price_change_5m": -1.13,
-        "price_change_1h": -1.93,
-        "price_change_24h": -26.6,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 2,
-        "created_ts": 1779235133000,
-        "pair_created_at": 1779235133000,
-        "url": "https://dexscreener.com/solana/2chpmbhguf1eqxsrksigfxdpydwyx76vid4antsyfp2w",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: HITLER==HITLER",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "💯",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:18.388623+00:00"
-    },
-    {
       "id": "42e101d83df7",
       "fingerprint": "42e101d83df7",
       "narrative_summary": "La palabra 'True' se ha vuelto viral después de ser compartida por Elon Musk y discutida en 4chan.",
@@ -4970,7 +4900,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "883e51f5cb1c",
@@ -6116,7 +6046,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "b5eebea76a32",
@@ -6166,7 +6096,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "5565aae534f2",
@@ -6209,7 +6139,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "f0792e1b31e7",
@@ -6255,7 +6185,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "de9c791c78fc",
@@ -6748,7 +6678,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "7a66a537e4e6",
@@ -6793,7 +6723,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "787f54db1ad0",
@@ -7165,7 +7095,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "4a218f9556cd",
@@ -7286,7 +7216,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "d758b429b51b",
@@ -7571,7 +7501,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "2a2de4559f21",
@@ -7609,13 +7539,14 @@
       "started_at": "2026-08-14T04:27:47.118997+00:00",
       "expires_at": "2026-08-16T04:27:47.118997+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Prosecute/Fauci",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-08-16T04:43:28.098849+00:00"
     },
     {
       "id": "d8fefefbb6a4",
@@ -7654,13 +7585,14 @@
       "started_at": "2026-08-14T04:28:23.452121+00:00",
       "expires_at": "2026-08-16T04:28:23.452121+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Unlike her bro, she doesn't try to hide it",
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 13,
+      "expired_at": "2026-08-16T04:43:28.098863+00:00"
     },
     {
       "id": "526bf76c2498",
@@ -7788,7 +7720,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "7d3d743adbdc",
@@ -7835,7 +7767,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "3e0323a29b43",
@@ -8107,7 +8039,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "8f39154faa34",
@@ -8152,7 +8084,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "54dac16b20ff",
@@ -8197,7 +8129,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "1f6b3cab2a95",
@@ -8241,7 +8173,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "3ab823b5593f",
@@ -8285,7 +8217,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "1796a5eae009",
@@ -8402,7 +8334,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "46549258a9c7",
@@ -8446,7 +8378,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "32d405d9b01c",
@@ -8663,7 +8595,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "81681436d903",
@@ -8709,7 +8641,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "09798e4a11c0",
@@ -8850,7 +8782,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "ace50eb21185",
@@ -8895,7 +8827,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "38d1d398b0ec",
@@ -8944,7 +8876,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "2869d9d2846e",
@@ -9088,7 +9020,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "c4c89ad0de32",
@@ -9135,7 +9067,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "404d1548a088",
@@ -9180,7 +9112,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "d73c0fae9ece",
@@ -9447,7 +9379,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "25e0758db2a3",
@@ -9492,7 +9424,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "e4a2ff832353",
@@ -9537,7 +9469,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "82843e5ffa4c",
@@ -9583,7 +9515,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "c2ed8c622c3b",
@@ -9628,7 +9560,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "06d55bd12ffb",
@@ -9676,7 +9608,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "5ac9a17e5c89",
@@ -9721,7 +9653,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "d367b8bc6696",
@@ -9769,7 +9701,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "8f6f83e40baf",
@@ -9813,7 +9745,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "2f481d93ef18",
@@ -9859,7 +9791,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "afc0123a03be",
@@ -9978,7 +9910,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "5139f09b9695",
@@ -10028,7 +9960,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "dcf9a9fb3c04",
@@ -10149,7 +10081,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "d368bf279524",
@@ -10195,7 +10127,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "e1f518590af6",
@@ -10240,7 +10172,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "86827557f985",
@@ -10286,7 +10218,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "b66b8a892316",
@@ -10334,7 +10266,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 2
+      "scan_attempts": 3
     },
     {
       "id": "48758737de64",
@@ -10380,7 +10312,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "c517e73e66ae",
@@ -10426,7 +10358,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "3816e2eb768d",
@@ -10470,7 +10402,7 @@
         "4chan",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "46964340e65f",
@@ -10521,7 +10453,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "09a2fc638863",
@@ -10567,7 +10499,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "b0dcfd73ac5f",
@@ -10613,7 +10545,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "71597dba1644",
@@ -10749,7 +10681,52 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "e3187ed0d0a9",
+      "fingerprint": "e3187ed0d0a9",
+      "narrative_summary": "Listados de mejores monedas meméticas para comprar en diferentes meses de 2026",
+      "why_memeable": "La narrativa es sobre listados de monedas meméticas, lo que la hace fácilmente compartible y recordable.",
+      "category": "monedas meméticas",
+      "matched_archetype": "viral_phrase_or_quote",
+      "candidate_tickers": [
+        "XRP",
+        "MEME",
+        "RIPPLE"
+      ],
+      "key_terms_for_dex_search": [
+        "monedas meméticas",
+        "2026",
+        "XRP",
+        "RIPPLE"
+      ],
+      "score": 88,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 8,
+        "visual": 2,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-16T04:44:46.060701+00:00",
+      "expires_at": "2026-08-19T04:44:46.060701+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/XSG/ XRP Schizo General #2555",
+      "cluster_sources": [
+        "4chan",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T03:58:33.719975+00:00"
+  "last_updated": "2026-08-16T04:44:46.060701+00:00"
 }

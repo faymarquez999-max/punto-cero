@@ -1,58 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T07:30:55.303830+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0130c9f5847d",
-        "score": 74,
-        "category": "política y cultura popular",
-        "title": "NEW: Rep. Brandon Gill completely stumps Smithsonian Museum of American History director Anthea Hartig before asking her if Mickey Mouse is racist.",
-        "candidate_tickers": [
-          "MAAM",
-          "MICKEYMOUSE"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T07:31:46.019189+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0130c9f5847d",
-        "ticker": "Mouse",
-        "mint": "3wwU3njdLCT3ebRUrTFeHwKG6zamiiCKwmpShSK2pump",
-        "mc": 37432.0
-      }
-    },
-    {
-      "ts": "2026-07-22T10:05:20.560664+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "política",
-        "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District - Politico",
-        "candidate_tickers": [
-          "TrumpWins",
-          "FeelyWins",
-          "ArizonaGOP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T10:06:15.446694+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "Celebridades y noticias de crueldad animal",
-        "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-        "candidate_tickers": [
-          "RebelWilson",
-          "CrueldadAnimal",
-          "Absuelto"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T10:06:49.437737+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27806,6 +27754,63 @@
           "JASONARDAY",
           "CAMBRIDGEACADEMIA",
           "PLAGIOACUSADO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T04:44:07.081793+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "meteorología",
+        "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds - AP News",
+        "candidate_tickers": [
+          "Lala",
+          "HuracánLala",
+          "HawaiiHuracán"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T04:44:46.475924+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e3187ed0d0a9",
+        "score": 88,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "MEME",
+          "RIPPLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T04:45:21.903821+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "finanzas",
+        "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com",
+        "candidate_tickers": [
+          "AIshadow",
+          "BondTraders",
+          "CreditBackstops"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T04:45:22.879687+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "muerte de un personaje público",
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
+        "candidate_tickers": [
+          "ARDAY",
+          "PLAGIO",
+          "CAMBRIDGE"
         ]
       }
     }
