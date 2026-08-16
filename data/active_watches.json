@@ -1,102 +1,6 @@
 {
   "watches": [
     {
-      "id": "d9d9e8b60664",
-      "fingerprint": "d9d9e8b60664",
-      "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando gran interés y debate.",
-      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácilmente compartible y recordable.",
-      "category": "Tecnología/Noticias",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK",
-        "YESMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "yes",
-        "twitter"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 4,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T19:47:51.821863+00:00",
-      "expires_at": "2026-08-11T19:47:51.821863+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "YES",
-        "name": "Will This Coin Go Up?",
-        "mint": "9GyRGm8GGmRZyyQ2hEnazDvCSV8mXiMAHmjKwVHMvVpo",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 31672.0,
-        "liquidity_usd": 22997.78,
-        "price_usd": 3.167e-05,
-        "volume_h24": 35678.68,
-        "volume_h1": 187.77,
-        "volume_m5": 5.8,
-        "price_change_5m": -0.67,
-        "price_change_1h": -2.91,
-        "price_change_24h": 22.25,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 3,
-        "created_ts": 1785803375000,
-        "pair_created_at": 1785803375000,
-        "url": "https://dexscreener.com/solana/g13wvpxfygkwfngc7e6dkdztxc3d3hh13zbgdv2bms4p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: YES==YES",
-        "safety_score": 134149,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:20.748001+00:00"
-    },
-    {
       "id": "09d6f4ae8bc1",
       "fingerprint": "09d6f4ae8bc1",
       "narrative_summary": "Elon Musk publica un 'Wow' en Twitter con gran cantidad de engagement",
@@ -7706,7 +7610,7 @@
       "started_at": "2026-08-14T12:01:45.330316+00:00",
       "expires_at": "2026-08-16T12:01:45.330316+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Happy 28th birthday to the talented Doechii.",
       "cluster_sources": [
@@ -7714,7 +7618,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 16,
+      "expired_at": "2026-08-16T12:58:35.046801+00:00"
     },
     {
       "id": "3e0323a29b43",
@@ -10819,7 +10724,54 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "9c0f27a993f1",
+      "fingerprint": "9c0f27a993f1",
+      "narrative_summary": "Elon Musk enfrenta problemas legales y financieros debido a su comportamiento en Twitter.",
+      "why_memeable": "La narrativa tiene un tema de conflicto entre una figura pública (Elon Musk) y la ley, lo que lo hace interesante y compartible.",
+      "category": "Política y finanzas",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MUSK",
+        "TWITTER",
+        "GAMESTOP"
+      ],
+      "key_terms_for_dex_search": [
+        "Elon Musk",
+        "Twitter",
+        "GameStop",
+        "leyes",
+        "finanzas"
+      ],
+      "score": 76,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-16T12:58:49.163373+00:00",
+      "expires_at": "2026-08-18T12:58:49.163373+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "/BBBYQ/ - /GameStop CEO is a creditor and co-debtor edition/",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T10:45:13.859885+00:00"
+  "last_updated": "2026-08-16T12:58:49.163373+00:00"
 }

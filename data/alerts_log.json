@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:11:36.093674+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3668a9abcbed",
-        "score": 89,
-        "category": "Tecnología",
-        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-        "candidate_tickers": [
-          "AI_ROGUE",
-          "CYBERATTACK",
-          "OPENAI"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:12:14.177807+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27792,6 +27777,21 @@
           "JDV",
           "TRUMPTERRA",
           "IRÁNENFUEGO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T12:58:49.759105+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9c0f27a993f1",
+        "score": 76,
+        "category": "Política y finanzas",
+        "title": "/BBBYQ/ - /GameStop CEO is a creditor and co-debtor edition/",
+        "candidate_tickers": [
+          "MUSK",
+          "TWITTER",
+          "GAMESTOP"
         ]
       }
     }
