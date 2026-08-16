@@ -1,53 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T10:06:49.437737+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "df86e9fdd969",
-        "score": 90,
-        "category": "política internacional",
-        "title": "US attacks Iran for 11th consecutive night - Al Jazeera",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "ATAQUE",
-          "ALJAZEERA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T10:07:59.840690+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "7a470f4c87cb",
-        "score": 73,
-        "category": "política",
-        "title": "Ukraine’s Zelenskyy fires his military chief after protests and names a replacement - AP News",
-        "candidate_tickers": [
-          "ZELENSKYY",
-          "UCRANIA",
-          "MILITAR",
-          "PROTESTAS"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T10:08:28.434414+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "94f4c95d179c",
-        "score": 91,
-        "category": "Celebridad",
-        "title": "Godzilla vs Kong actress Kaylee Hottle dies in crash at 18",
-        "candidate_tickers": [
-          "KAYLEEHOTTLE",
-          "GODZILLAVSKONG",
-          "ACTRIZFALLECE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:07:19.727024+00:00",
       "kind": "shadow",
       "payload": {
@@ -27812,6 +27765,42 @@
           "PLAGIO",
           "CAMBRIDGE"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-16T05:15:12.456284+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "846014dbc0c2",
+        "score": 83,
+        "category": "Política japonesa",
+        "title": "Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico",
+        "candidate_tickers": [
+          "TAKAICHI",
+          "SHRINE",
+          "CONTROVERSY",
+          "JAPAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T05:20:33.380129+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c517e73e66ae",
+        "ticker": "TRUMP2028",
+        "mint": "2d2GZdehy2YGrj1MJ3y3yhXjficMa2J3GtncxkTQpump",
+        "mc": 74608.0
+      }
+    },
+    {
+      "ts": "2026-08-16T05:20:34.724681+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "3816e2eb768d",
+        "ticker": "memecoin",
+        "mint": "5HV956n7UQT1XdJzv43fHPocest5YAmi9ipsuiJx7zt7",
+        "mc": 46324.0
       }
     }
   ]
