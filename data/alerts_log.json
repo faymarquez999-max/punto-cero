@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T07:42:21.491464+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "019806b6c67f",
-        "score": 80,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMP",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T07:43:03.952419+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27795,6 +27781,21 @@
         "candidate_tickers": [
           "TRUMP_HORMUZ",
           "HORMUZ_WAR"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T22:30:43.193387+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4f707ee1cf39",
+        "score": 90,
+        "category": "política",
+        "title": "After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X .  The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We su",
+        "candidate_tickers": [
+          "ELONVSADVERTS",
+          "MUSKBOICOT",
+          "XBOICOT"
         ]
       }
     }
