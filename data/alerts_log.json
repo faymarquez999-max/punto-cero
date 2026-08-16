@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T05:01:06.354422+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "4acf1d4ef07e",
-        "score": 73,
-        "category": "Tecnología",
-        "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
-        "candidate_tickers": [
-          "OPENAI",
-          "IA",
-          "HACKING"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T05:02:31.888278+00:00",
       "kind": "shadow",
       "payload": {
@@ -27798,6 +27783,20 @@
         "ticker": "MUSK",
         "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
         "mc": 44628.0
+      }
+    },
+    {
+      "ts": "2026-08-16T19:42:07.541774+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 67,
+        "category": "rescate",
+        "title": "La impactante historia de Ana María, la trilliza sobreviviente al terremoto en Cali - MARCA",
+        "candidate_tickers": [
+          "AnaMaria",
+          "Trilliza",
+          "TerremotoCali"
+        ]
       }
     }
   ]
