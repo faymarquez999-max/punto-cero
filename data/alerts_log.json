@@ -1,50 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T04:58:19.987795+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "Tecnología",
-        "title": "EXCLUSIVE: Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say - Reuters",
-        "candidate_tickers": [
-          "INTL",
-          "AMD",
-          "CPU",
-          "CHINA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T04:59:09.148135+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b75b527aeb69",
-        "score": 80,
-        "category": "política",
-        "title": "Amish Shah wins Dem primary in battleground Arizona House race - Politico",
-        "candidate_tickers": [
-          "AMISHSHAH",
-          "ARIZONAPRIMARIA",
-          "ESCÁNDALODEINFIDELIDAD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T04:59:46.523621+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 54,
-        "category": "Tecnología y Política",
-        "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
-        "candidate_tickers": [
-          "MuskPirate",
-          "ClaudeGate",
-          "ElonMuskPirate"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T05:00:33.545050+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27804,6 +27760,48 @@
           "CR7RETIRES",
           "RONALDOFINALSEASON",
           "CR7RETIREMENT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T18:42:51.790631+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "economía y finanzas",
+        "title": "Stock-Market Calm Masks Fast Shifting Investor Sentiment - Bloomberg.com",
+        "candidate_tickers": [
+          "CALM",
+          "SHIFT",
+          "MARKETMOOD"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T18:44:14.652712+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "politica",
+        "title": "Blanche says he's not Trump's personal servant - Politico",
+        "candidate_tickers": [
+          "Blanche",
+          "Trump",
+          "Servant"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T18:45:42.901343+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 56,
+        "category": "Tecnología",
+        "title": "I hope AI is nice to us",
+        "candidate_tickers": [
+          "AI nice",
+          "Elon hopes",
+          "AI amable"
         ]
       }
     }
