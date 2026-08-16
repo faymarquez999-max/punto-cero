@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:07:19.727024+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "Noticias de tecnología y política",
-        "title": "From MAGA Inc. building a huge cash stockpile for the US midterms to Citadel Securities' big investment in Crypto.com , here are the top crypto stories of the week reut.rs/45i4dpM",
-        "candidate_tickers": [
-          "MUSK",
-          "SEC",
-          "TWITTER"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T12:08:05.707670+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c84e954bd61d",
-        "score": 78,
-        "category": "crimen y justicia",
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "candidate_tickers": [
-          "EPSTEINSCOUT",
-          "MUERTEENPARÍS",
-          "SCOUTINGGATE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:08:45.644457+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27801,6 +27772,36 @@
         "ticker": "memecoin",
         "mint": "5HV956n7UQT1XdJzv43fHPocest5YAmi9ipsuiJx7zt7",
         "mc": 46324.0
+      }
+    },
+    {
+      "ts": "2026-08-16T06:55:44.892961+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "4189ef740fbe",
+        "score": 80,
+        "category": "monedas meméticas",
+        "title": "/XSG/ XRP Schizo General #2555",
+        "candidate_tickers": [
+          "XRP",
+          "DOGE",
+          "MEME",
+          "RIPPLE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T06:56:15.192326+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Deportes",
+        "title": "Breaking down Christian Encarnacion-Strand's home run - MLB.com",
+        "candidate_tickers": [
+          "CES",
+          "EncarnacionStrand",
+          "MLB"
+        ]
       }
     }
   ]
