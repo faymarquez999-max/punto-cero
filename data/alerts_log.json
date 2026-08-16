@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T22:46:02.399461+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "aaac56b4404e",
-        "score": 91,
-        "category": "política internacional",
-        "title": "Dear @ZohranKMamdani , thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity.  Th",
-        "candidate_tickers": [
-          "TRUMP_SAUDI",
-          "SAUDI_NUCLEAR",
-          "TRUMP_CONTROVERSY"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T23:48:24.760321+00:00",
       "kind": "shadow",
       "payload": {
@@ -27798,6 +27783,21 @@
           "DRONES822",
           "UCRANIAATACARUSIA",
           "822DERRIBADOS"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T17:04:20.983758+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Desastres naturales y conflictos geopolíticos",
+        "title": "Worth trying Grok 4.6. Fable 5 is smarter overall, but Grok is much faster and lower cost.",
+        "candidate_tickers": [
+          "Lala",
+          "Hawái",
+          "Israel",
+          "Líbano"
         ]
       }
     }
