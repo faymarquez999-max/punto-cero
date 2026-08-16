@@ -1,49 +1,6 @@
 {
   "watches": [
     {
-      "id": "09d6f4ae8bc1",
-      "fingerprint": "09d6f4ae8bc1",
-      "narrative_summary": "Elon Musk publica un 'Wow' en Twitter con gran cantidad de engagement",
-      "why_memeable": "La simplicidad y la brevedad de la publicación hacen que sea fácilmente compartible y recordable",
-      "category": "Celebridad",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "WOW",
-        "ELON"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "wow",
-        "twitter"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": "4-12",
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 8,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T19:50:06.193930+00:00",
-      "expires_at": "2026-08-11T19:50:06.193930+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Wow",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-11T21:57:58.275377+00:00"
-    },
-    {
       "id": "fef6e1270ecd",
       "fingerprint": "fef6e1270ecd",
       "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
@@ -10852,7 +10809,53 @@
         "google_news"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "e230bf1b4182",
+      "fingerprint": "e230bf1b4182",
+      "narrative_summary": "Ucrania lanza ataque de drones más grande sobre Rusia, Moscú dice que se han derribado 822 drones",
+      "why_memeable": "El número de drones derribados (822) y la magnitud del ataque son factores clave para la memeabilidad",
+      "category": "conflicto",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "DRONES822",
+        "UCRANIAATACARUSIA",
+        "822DERRIBADOS"
+      ],
+      "key_terms_for_dex_search": [
+        "Ucrania",
+        "Rusia",
+        "drones",
+        "ataque",
+        "822"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 9,
+        "velocity": 9
+      },
+      "started_at": "2026-08-16T16:41:04.567765+00:00",
+      "expires_at": "2026-08-19T16:41:04.567765+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T14:08:36.134309+00:00"
+  "last_updated": "2026-08-16T16:41:04.567765+00:00"
 }

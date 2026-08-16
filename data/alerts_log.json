@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T18:53:38.021347+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "0052d7ca4cfc",
-        "score": 80,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMP_XCANCEL",
-          "XCANCEL_GATE"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T22:46:02.399461+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27797,6 +27783,21 @@
           "NICKREINER",
           "LEYDELASESINO",
           "FONDOCONFIANZA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T16:41:04.963970+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e230bf1b4182",
+        "score": 80,
+        "category": "conflicto",
+        "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+        "candidate_tickers": [
+          "DRONES822",
+          "UCRANIAATACARUSIA",
+          "822DERRIBADOS"
         ]
       }
     }
