@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T07:40:26.097828+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3c951ba89491",
-        "score": 88,
-        "category": "Política",
-        "title": "Dismissal of Ukraine’s defense minister started a sudden transformation of the military - AP News",
-        "candidate_tickers": [
-          "UCRANIA",
-          "EJÉRCITO",
-          "MINISTRO DE DEFENSA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T07:41:00.570117+00:00",
       "kind": "shadow",
       "payload": {
@@ -27796,6 +27781,20 @@
           "AI_Fueled",
           "Market_Party",
           "Rates_Punch_Bowl"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T21:01:43.351786+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "economía y finanzas",
+        "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl - Bloomberg.com",
+        "candidate_tickers": [
+          "PUNCHBOWL",
+          "AIFUELED",
+          "MARKETPARTY"
         ]
       }
     }
