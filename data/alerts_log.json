@@ -1,37 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:09:20.889999+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 50,
-        "category": "negocios",
-        "title": "Samsung in talks to invest in Mistral at 20 billion euro valuation, FT reports reut.rs/4fyQbVL reut.rs/4fyQbVL",
-        "candidate_tickers": [
-          "MISTRAL",
-          "SAMSUNG",
-          "INVEST"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T12:10:05.406522+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "847715c13d71",
-        "score": 89,
-        "category": "Guerra y conflicto",
-        "title": "Ukraine recaptured 700 sq km of territory this year, outgoing top general says reut.rs/3T95Kff reut.rs/3T95Kff",
-        "candidate_tickers": [
-          "WILDBERRIES",
-          "UCRANIA",
-          "RUSIA",
-          "DRONES",
-          "KRASNODAR"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:10:31.275929+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27801,6 +27770,29 @@
           "MUSKTRUMP",
           "TRUMPFEUD"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-16T08:51:31.005033+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 62,
+        "category": "Muertes de celebridades",
+        "title": "Bangladesh thrash Australia for historic win",
+        "candidate_tickers": [
+          "CelebridadMuerte",
+          "MuertesEnSeries"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T08:55:11.840467+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "5565aae534f2",
+        "ticker": "ROCKSTAR",
+        "mint": "GFNCupBe1LtDj5ZEbokShAeMz1NkSG6oQoTPhg4XUa3R",
+        "mc": 30073.0
       }
     }
   ]
