@@ -1,19 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T05:02:31.888278+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 68,
-        "category": "Tecnología",
-        "title": "Zero stories is a low number …",
-        "candidate_tickers": [
-          "ZeroStories",
-          "LowStories"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T07:39:51.094832+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27796,6 +27783,21 @@
           "AnaMaria",
           "Trilliza",
           "TerremotoCali"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T20:03:00.603149+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "771eb1f99269",
+        "score": 74,
+        "category": "política",
+        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+        "candidate_tickers": [
+          "ARDAY",
+          "CAZABRUJAS",
+          "INQUIRIPUBLICA"
         ]
       }
     }

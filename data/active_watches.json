@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "fdca1a1c83ca",
-      "fingerprint": "fdca1a1c83ca",
-      "narrative_summary": "La británica Amy Hunt gana el oro en los 100m en los Campeonatos Europeos de Atletismo de Birmingham.",
-      "why_memeable": "La frase es corta y fácil de recordar, y la noticia es emocionante para los fanáticos del atletismo.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AMYHUNT",
-        "GBGOLD",
-        "100MGLORY"
-      ],
-      "key_terms_for_dex_search": [
-        "AmyHunt",
-        "GBGold",
-        "100m",
-        "EuropeanChampionships"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 2,
-        "absurdity": 1,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T23:00:46.437807+00:00",
-      "expires_at": "2026-08-12T23:00:46.437807+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "GB's Amy Hunt wins European 100m gold",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-12T23:51:30.221829+00:00"
-    },
-    {
       "id": "7b3b557cb1a3",
       "fingerprint": "7b3b557cb1a3",
       "narrative_summary": "Ebola virus outbreak en la República Democrática del Congo y Uganda, con más de 1.000 muertes.",
@@ -10861,7 +10815,51 @@
         "google_news"
       ],
       "scan_attempts": 2
+    },
+    {
+      "id": "771eb1f99269",
+      "fingerprint": "771eb1f99269",
+      "narrative_summary": "Se pide una investigación pública sobre la supuesta 'caza brujas' de Jason Arday, según la BBC.",
+      "why_memeable": "La narrativa tiene un claro antagonista (Jason Arday) y un llamado a la acción (investigación pública), lo que la hace fácilmente compartible y recordable.",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "ARDAY",
+        "CAZABRUJAS",
+        "INQUIRIPUBLICA"
+      ],
+      "key_terms_for_dex_search": [
+        "Arday",
+        "caza brujas",
+        "investigación pública"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-16T20:03:00.005536+00:00",
+      "expires_at": "2026-08-18T20:03:00.005536+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T19:11:20.523972+00:00"
+  "last_updated": "2026-08-16T20:03:00.005536+00:00"
 }
