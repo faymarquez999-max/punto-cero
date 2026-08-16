@@ -8333,7 +8333,7 @@
       "started_at": "2026-08-14T22:03:11.865985+00:00",
       "expires_at": "2026-08-16T22:03:11.865985+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
       "cluster_sources": [
@@ -8341,7 +8341,8 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-08-16T22:53:22.035946+00:00"
     },
     {
       "id": "09798e4a11c0",
