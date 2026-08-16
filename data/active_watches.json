@@ -1,52 +1,6 @@
 {
   "watches": [
     {
-      "id": "4a882bea9a75",
-      "fingerprint": "4a882bea9a75",
-      "narrative_summary": "Elon Musk confirma algo 'verdadero' en Twitter, generando debate en 4chan.",
-      "why_memeable": "La narrativa es fácilmente capturable en una frase y tiene un claro tono de debate y controversia.",
-      "category": "política",
-      "matched_archetype": "online_drama_between_two_figures",
-      "candidate_tickers": [
-        "TRUE",
-        "BIZBROS"
-      ],
-      "key_terms_for_dex_search": [
-        "elonmusk",
-        "true",
-        "biz",
-        "4chan",
-        "nitter"
-      ],
-      "score": 82,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 4,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 4,
-        "polarizing": 9,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T19:45:37.622969+00:00",
-      "expires_at": "2026-08-11T19:45:37.622969+00:00",
-      "duration_hours": 24,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "expired_at": "2026-08-11T21:57:58.275375+00:00"
-    },
-    {
       "id": "d9d9e8b60664",
       "fingerprint": "d9d9e8b60664",
       "narrative_summary": "Elon Musk publica 'Yes' en Twitter, generando gran interés y debate.",
@@ -6042,7 +5996,7 @@
       "started_at": "2026-08-13T10:40:49.090215+00:00",
       "expires_at": "2026-08-16T10:40:49.090215+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Try out Grok @Bot",
       "cluster_sources": [
@@ -6051,7 +6005,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 17,
+      "expired_at": "2026-08-16T10:44:35.605701+00:00"
     },
     {
       "id": "5565aae534f2",
@@ -10818,7 +10773,53 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "aba5364c799b",
+      "fingerprint": "aba5364c799b",
+      "narrative_summary": "JD Vance y el equipo de Trump cambian constantemente los objetivos sobre Irán, causando confusión y debate.",
+      "why_memeable": "La narrativa tiene un núcleo claro de conflicto y confusión, lo que la hace fácil de capturar en una frase o imagen.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "JDV",
+        "TRUMPTERRA",
+        "IRÁNENFUEGO"
+      ],
+      "key_terms_for_dex_search": [
+        "JD Vance",
+        "Trump",
+        "Irán",
+        "confusión",
+        "debate"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-16T10:45:13.859885+00:00",
+      "expires_at": "2026-08-18T10:45:13.859885+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T08:55:11.832103+00:00"
+  "last_updated": "2026-08-16T10:45:13.859885+00:00"
 }

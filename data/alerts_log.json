@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:10:31.275929+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "3316a3ad96d2",
-        "score": 88,
-        "category": "Tecnología y defensa",
-        "title": "Companies race to deliver autonomous uncrewed fighter jets reut.rs/4vTks7S reut.rs/4vTks7S",
-        "candidate_tickers": [
-          "AUTONOMOUSFIGHTER",
-          "BAEBRONTANAX",
-          "FIGHTERJETRACING"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:11:36.093674+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27793,6 +27778,21 @@
         "ticker": "ROCKSTAR",
         "mint": "GFNCupBe1LtDj5ZEbokShAeMz1NkSG6oQoTPhg4XUa3R",
         "mc": 30073.0
+      }
+    },
+    {
+      "ts": "2026-08-16T10:45:14.465298+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "aba5364c799b",
+        "score": 73,
+        "category": "política internacional",
+        "title": "JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore",
+        "candidate_tickers": [
+          "JDV",
+          "TRUMPTERRA",
+          "IRÁNENFUEGO"
+        ]
       }
     }
   ]
