@@ -1,22 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T07:39:51.094832+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "064ebdf33674",
-        "score": 91,
-        "category": "animal",
-        "title": "Cool",
-        "candidate_tickers": [
-          "RINOCERONTE",
-          "CANGURO",
-          "FLORIDA",
-          "ESCAPADOS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T07:40:26.097828+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27798,6 +27782,20 @@
           "ARDAY",
           "CAZABRUJAS",
           "INQUIRIPUBLICA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T20:34:23.858244+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "Finanzas y tecnología",
+        "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl - Bloomberg.com",
+        "candidate_tickers": [
+          "AI_Fueled",
+          "Market_Party",
+          "Rates_Punch_Bowl"
         ]
       }
     }
