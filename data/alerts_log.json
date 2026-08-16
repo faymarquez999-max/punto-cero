@@ -1,20 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T01:22:37.141548+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 56,
-        "category": "Tecnología",
-        "title": "Zero stories is a low number …",
-        "candidate_tickers": [
-          "XZERO",
-          "ELONMUSK",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T04:58:19.987795+00:00",
       "kind": "shadow",
       "payload": {
@@ -27803,6 +27789,21 @@
           "KAIAGERBEREXORCISMO",
           "GERBERPOSEIDA",
           "EXORCISMOCELEB"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T18:03:30.395588+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "53e0dce9ee0e",
+        "score": 80,
+        "category": "Deportes",
+        "title": "Cristiano Ronaldo hints at retirement at end of season",
+        "candidate_tickers": [
+          "CR7RETIRES",
+          "RONALDOFINALSEASON",
+          "CR7RETIREMENT"
         ]
       }
     }
