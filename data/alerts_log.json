@@ -1,38 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:12:14.177807+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "9ee14544b3d5",
-        "score": 89,
-        "category": "política internacional",
-        "title": "US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming - AP News",
-        "candidate_tickers": [
-          "IRAN",
-          "EEUU",
-          "GUERRA",
-          "DIPLOMACIA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T14:31:42.710111+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "b3e0a4a058e7",
-        "score": 82,
-        "category": "política internacional",
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-        "candidate_tickers": [
-          "SAUDI",
-          "NUCLEAR",
-          "DEAL",
-          "USA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T14:32:05.970447+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27792,6 +27760,36 @@
           "MUSK",
           "TWITTER",
           "GAMESTOP"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T13:39:39.937018+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "9021ddc1cbab",
+        "score": 89,
+        "category": "Noticias de crímenes y accidentes",
+        "title": "Murder inquiry after man bitten by dog dies",
+        "candidate_tickers": [
+          "PERROMORDIDO",
+          "HOMICIDIOPERRO",
+          "MUERTEPERRO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T13:40:53.259819+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 52,
+        "category": "política y tecnología",
+        "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
+        "candidate_tickers": [
+          "Musk",
+          "Twitter",
+          "Ley",
+          "Accionistas"
         ]
       }
     }
