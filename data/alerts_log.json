@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T12:08:45.644457+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "fcdfd7ccfdf3",
-        "score": 78,
-        "category": "política",
-        "title": "What's behind India's 'cockroach' youth protests? reut.rs/3RSrTOt reut.rs/3RSrTOt",
-        "candidate_tickers": [
-          "COCKROACHINDIA",
-          "MODIPROTESTAS",
-          "INDIAPROTESTAS"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T12:09:20.889999+00:00",
       "kind": "shadow",
       "payload": {
@@ -27801,6 +27786,20 @@
           "CES",
           "EncarnacionStrand",
           "MLB"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T07:38:59.370893+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política y celebridades",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "TRUMPvsELON",
+          "MUSKTRUMP",
+          "TRUMPFEUD"
         ]
       }
     }
