@@ -6027,7 +6027,7 @@
       "started_at": "2026-08-13T14:11:46.210509+00:00",
       "expires_at": "2026-08-16T14:11:46.210509+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Try out Grok @Bot",
       "cluster_sources": [
@@ -6036,7 +6036,8 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 18,
+      "expired_at": "2026-08-16T15:03:30.511033+00:00"
     },
     {
       "id": "de9c791c78fc",
