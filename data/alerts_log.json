@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T16:06:50.173792+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1fb099c49b99",
-        "score": 85,
-        "category": "Tecnología y Negocios",
-        "title": "Yes",
-        "candidate_tickers": [
-          "YESMUSK",
-          "ELONYES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T16:07:17.534861+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "163042539924",
-        "score": 70,
-        "category": "tech",
-        "title": "Exactly",
-        "candidate_tickers": [
-          "EXACTLY",
-          "ELONMUSK",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T16:09:40.228329+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27790,6 +27761,38 @@
         "ticker": "XRP",
         "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
         "mc": 214382.0
+      }
+    },
+    {
+      "ts": "2026-08-16T14:45:49.365071+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f8029772bb6c",
+        "score": 80,
+        "category": "Noticias de desastres",
+        "title": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
+        "candidate_tickers": [
+          "DISASTER",
+          "QUAKE",
+          "STORM",
+          "RESCUE",
+          "TRAGEDY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T14:47:24.197207+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "62a2576876c6",
+        "score": 84,
+        "category": "Política y tecnología",
+        "title": "After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X .  The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We su",
+        "candidate_tickers": [
+          "XCANCEL",
+          "ADBOYCOTT",
+          "MUSKVSADVERTISERS"
+        ]
       }
     }
   ]
