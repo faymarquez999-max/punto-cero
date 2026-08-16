@@ -1,78 +1,6 @@
 {
   "watches": [
     {
-      "id": "fef6e1270ecd",
-      "fingerprint": "fef6e1270ecd",
-      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
-      "why_memeable": "La frase es breve y fácil de recordar, y la noticia de Elon Musk es siempre viral.",
-      "category": "Tecnología y Negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TERAFAB",
-        "TX",
-        "ELONMUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "Terafab",
-        "ElonMusk",
-        "TX",
-        "edificio más grande",
-        "valioso"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T22:15:21.366054+00:00",
-      "expires_at": "2026-08-12T22:15:21.366054+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 59579.0,
-        "liquidity_usd": 27846.7,
-        "price_usd": 5.959e-05,
-        "volume_h24": 5657.53,
-        "volume_h1": 2126.01,
-        "volume_m5": 25.72,
-        "price_change_5m": 0.14,
-        "price_change_1h": 12.24,
-        "price_change_24h": 8.34,
-        "txns_h1_buys": 89,
-        "txns_h1_sells": 26,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:22.255433+00:00"
-    },
-    {
       "id": "fdca1a1c83ca",
       "fingerprint": "fdca1a1c83ca",
       "narrative_summary": "La británica Amy Hunt gana el oro en los 100m en los Campeonatos Europeos de Atletismo de Birmingham.",
@@ -6480,14 +6408,15 @@
       "started_at": "2026-08-13T17:36:51.346682+00:00",
       "expires_at": "2026-08-16T17:36:51.346682+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-08-16T17:37:50.540120+00:00"
     },
     {
       "id": "7a66a537e4e6",
@@ -10855,7 +10784,53 @@
         "google_news"
       ],
       "scan_attempts": 1
+    },
+    {
+      "id": "94af482b502e",
+      "fingerprint": "94af482b502e",
+      "narrative_summary": "Kaia Gerber revela una 'exorcismo' extraña después de ser informada de que estaba 'poseída'",
+      "why_memeable": "La narrativa tiene un componente de 'exorcismo' extraño y una figura pública (Kaia Gerber) involucrada, lo que la hace fácilmente compartible y recordable",
+      "category": "Celebridad",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "KAIAGERBEREXORCISMO",
+        "GERBERPOSEIDA",
+        "EXORCISMOCELEB"
+      ],
+      "key_terms_for_dex_search": [
+        "Kaia Gerber",
+        "exorcismo",
+        "poseída",
+        "celebridad",
+        "noticias"
+      ],
+      "score": 88,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 4,
+        "cultural_resonance": 5,
+        "polarizing": 6,
+        "absurdity": 9,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-16T17:40:33.650998+00:00",
+      "expires_at": "2026-08-18T17:40:33.650998+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Kaia Gerber reveals bizarre ‘exorcism’ after being told she was ‘possessed’ - Yahoo News UK",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T16:41:04.567765+00:00"
+  "last_updated": "2026-08-16T17:40:33.650998+00:00"
 }
