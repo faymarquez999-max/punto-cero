@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T14:32:05.970447+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a52757254546",
-        "ticker": "HF",
-        "mint": "3rj59CcavzZ3i1AKf5yW3b4s9UCobvQdfgSrtgxapump",
-        "mc": 19734.0
-      }
-    },
-    {
-      "ts": "2026-07-22T14:32:14.712289+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "b3e0a4a058e7",
-        "ticker": "AORP",
-        "mint": "4e4ALfasM5PJkYvHBKbyTLPDcCUpLrTWNbN5n7Ub1vFM",
-        "mc": 26516.0
-      }
-    },
-    {
-      "ts": "2026-07-22T16:05:24.978101+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bae6e41e825d",
-        "score": 80,
-        "category": "Tecnología y seguridad",
-        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-        "candidate_tickers": [
-          "ROGUEAI",
-          "OPENATTACK",
-          "AIRENEGA",
-          "CYBERODD"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T16:06:50.173792+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27791,6 +27755,41 @@
           "Ley",
           "Accionistas"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-16T14:05:21.864599+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "conflicto y violencia",
+        "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+        "candidate_tickers": [
+          "YEMEN",
+          "HOUTHI",
+          "ALMAKHA",
+          "MARIB"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T14:08:34.455482+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "c5ad73214a69",
+        "ticker": "memecoin",
+        "mint": "5HV956n7UQT1XdJzv43fHPocest5YAmi9ipsuiJx7zt7",
+        "mc": 45467.0
+      }
+    },
+    {
+      "ts": "2026-08-16T14:08:36.144317+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "e3187ed0d0a9",
+        "ticker": "XRP",
+        "mint": "iuLKBM29okJbq5cZ7v2NCAb4qigjchLbTvY2aSxC3Kq",
+        "mc": 214382.0
       }
     }
   ]
