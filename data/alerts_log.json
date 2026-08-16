@@ -1,67 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-22T04:39:05.420187+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "c4896be56301",
-        "score": 90,
-        "category": "política",
-        "title": "The Governor of New Jersey just admitted that 6,600 non-citizens were registered to vote due to a “software error”.",
-        "candidate_tickers": [
-          "NJERROR",
-          "VOTOFALSO",
-          "GOBERNADORDECEPCIONA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T04:39:51.656245+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "00bea8c1c9b9",
-        "score": 70,
-        "category": "política",
-        "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District - Politico",
-        "candidate_tickers": [
-          "TRUMPWINS",
-          "FEELYWINS",
-          "ARIZONAGOP"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T04:41:55.408732+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "ddba5c0053c7",
-        "score": 78,
-        "category": "política internacional",
-        "title": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division - AP News",
-        "candidate_tickers": [
-          "GAZAMURO",
-          "MURODETIERRA",
-          "ISRAELVSGAZA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T04:42:29.447127+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "6b5cc0e0d19c",
-        "score": 91,
-        "category": "política",
-        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-        "candidate_tickers": [
-          "ZELENSKY",
-          "UCRANIA",
-          "FEDOROV",
-          "SYRSKYI"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T07:27:23.898709+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27808,6 +27747,65 @@
         "candidate_tickers": [
           "XELON",
           "INTERCHANGE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T02:51:07.871184+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Noticias de última hora",
+        "title": "Worth trying Grok 4.6. Fable 5 is smarter overall, but Grok is much faster and lower cost.",
+        "candidate_tickers": [
+          "TRUMPVS",
+          "MUSKVSGROK",
+          "GROK4.6"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T02:51:09.785327+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "7a5fcc280753",
+        "score": 80,
+        "category": "tecnología y política",
+        "title": "After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X .  The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We su",
+        "candidate_tickers": [
+          "MUSKBOYCOTT",
+          "TWITTERGATE",
+          "ADVERTISERSCAM",
+          "ELONJUSTICE",
+          "BOYCOTTX"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T02:51:42.952635+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "Celebridades",
+        "title": "Coco Jones and Donovan Mitchell are now married.",
+        "candidate_tickers": [
+          "CocoJonesDonovanMitchell",
+          "CocoJonesCasada",
+          "DonovanMitchellCasado"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T02:54:28.076780+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "Muertes y ataques",
+        "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "candidate_tickers": [
+          "CelebridadMuerte",
+          "AtaqueAnimal",
+          "GrahamAttack"
         ]
       }
     }
