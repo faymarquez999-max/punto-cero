@@ -1,245 +1,6 @@
 {
   "watches": [
     {
-      "id": "cedf7d69da0f",
-      "fingerprint": "cedf7d69da0f",
-      "narrative_summary": "Elon Musk afirma que Hitler era un socialista de izquierda, lo que genera una lógica inescapable que relaciona a los socialistas con Hitler.",
-      "why_memeable": "La frase 'Hitler era un socialista de izquierda' es fácil de recordar y se puede capturar en una imagen o una frase. La relación entre socialistas y Hitler es una idea controvertida que genera polarización.",
-      "category": "Política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "HITLERSOCIALISTA",
-        "SOCIALISMOINESCAPABLE",
-        "ELONMUSKLOGICA"
-      ],
-      "key_terms_for_dex_search": [
-        "Hitler",
-        "socialista",
-        "ElonMusk",
-        "lógica",
-        "inescapable"
-      ],
-      "score": 85,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 8,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T14:43:07.880294+00:00",
-      "expires_at": "2026-08-12T14:43:07.880294+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "HITLER",
-        "name": "Adolf Hitler Official",
-        "mint": "DG4kNDDBNtGvRPq4VrL4sgQ8yYhyHafL8WAMY7vhpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 20647.0,
-        "liquidity_usd": 10540.41,
-        "price_usd": 2.065e-05,
-        "volume_h24": 12782.77,
-        "volume_h1": 110.34,
-        "volume_m5": 90.64,
-        "price_change_5m": -3.77,
-        "price_change_1h": -5.51,
-        "price_change_24h": 2.38,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 5,
-        "created_ts": 1779235133000,
-        "pair_created_at": 1779235133000,
-        "url": "https://dexscreener.com/solana/2chpmbhguf1eqxsrksigfxdpydwyx76vid4antsyfp2w",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "name match: HITLER in ADOLF HITLER OFFICIAL",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Hitler was a far-left socialist",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T05:44:10.425205+00:00"
-    },
-    {
-      "id": "9fd2e7df1f7d",
-      "fingerprint": "9fd2e7df1f7d",
-      "narrative_summary": "Elon Musk publica 'Yes' en su cuenta de Twitter, generando gran atención y debate.",
-      "why_memeable": "La simplicidad y la claridad de la frase 'Yes' la hacen fácilmente compartible y repetible.",
-      "category": "Tecnología, Política",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "yes",
-        "twitter"
-      ],
-      "score": 85,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 2,
-        "cultural_resonance": 6,
-        "polarizing": 8,
-        "absurdity": 9,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-10T14:43:49.054572+00:00",
-      "expires_at": "2026-08-12T14:43:49.054572+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "YES",
-        "name": "will this coin go up?",
-        "mint": "69sKunujvUtmzLmQ2L5TYPTULmZQrY41KC8ZHA38a5ku",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 13868.0,
-        "liquidity_usd": 11152.32,
-        "price_usd": 1.386e-05,
-        "volume_h24": 27585.05,
-        "volume_h1": 0.0,
-        "volume_m5": 0.0,
-        "price_change_5m": 0.0,
-        "price_change_1h": 0.0,
-        "price_change_24h": 154.0,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 0,
-        "created_ts": 1786393477000,
-        "pair_created_at": 1786393477000,
-        "url": "https://dexscreener.com/solana/2ysf9lsuk5qrvnfg2wimdkswhfvii9qguqa3wcct2x8g",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: YES==YES",
-        "safety_score": 145349,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Top 10 holders high ownership",
-            "level": "danger",
-            "description": "The top 10 users hold more than 70% token supply"
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T05:44:12.295641+00:00"
-    },
-    {
-      "id": "16549030e869",
-      "fingerprint": "16549030e869",
-      "narrative_summary": "Elon Musk afirma algo que genera debate y curiosidad en la comunidad de negocios y tecnología.",
-      "why_memeable": "La frase 'True' es corta y fácil de recordar, lo que la hace memeable. La controversia y la incertidumbre generadas por la afirmación de Elon Musk también contribuyen a su memeabilidad.",
-      "category": "Tecnología y negocios",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TRUE",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon musk",
-        "true",
-        "biz",
-        "bros"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-10T15:43:09.843128+00:00",
-      "expires_at": "2026-08-12T15:43:09.843128+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "MUSK",
-        "name": "The Untold Story",
-        "mint": "EpkUue8SvNBiYW1XKPPBPKm5tPAL1mqwKqab9KwApump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 58987.0,
-        "liquidity_usd": 19989.09,
-        "price_usd": 6.067e-05,
-        "volume_h24": 34837.18,
-        "volume_h1": 896.42,
-        "volume_m5": 53.65,
-        "price_change_5m": 0.11,
-        "price_change_1h": -0.37,
-        "price_change_24h": -6.33,
-        "txns_h1_buys": 11,
-        "txns_h1_sells": 10,
-        "created_ts": 1785941923000,
-        "pair_created_at": 1785941923000,
-        "url": "https://dexscreener.com/solana/6tycjbh1eyd5nzeuooxpek9rexyjmlxcfwgaj2vtocrw",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: MUSK==MUSK",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "True",
-      "cluster_sources": [
-        "4chan",
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T05:44:13.561677+00:00"
-    },
-    {
       "id": "50807023860d",
       "fingerprint": "50807023860d",
       "narrative_summary": "Un terremoto fuerte sacude Colombia y Ecuador, obligando a la gente a evacuar sus hogares y edificios.",
@@ -5969,14 +5730,15 @@
       "started_at": "2026-08-12T23:53:50.257622+00:00",
       "expires_at": "2026-08-15T23:53:50.257622+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "J.J. McCarthy wants to stay with Vikings after losing QB job - ESPN",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 14,
+      "expired_at": "2026-08-16T01:47:16.856126+00:00"
     },
     {
       "id": "4ea4cc614b84",
@@ -10877,7 +10639,150 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "46964340e65f",
+      "fingerprint": "46964340e65f",
+      "narrative_summary": "Trump declara que podría declarar el estrecho de Ormuz como territorio de EE. UU. después de derrotar a Irán, generando reacciones de Irán y otros países.",
+      "why_memeable": "La declaración de Trump es absurda y genera una gran reacción en la comunidad internacional, lo que la hace memeable.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMPORMUZ",
+        "IRANVSUSA",
+        "TRUMPDECLARESWAR",
+        "ORMUZGATE",
+        "TRUMPVSIRAN"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Ormuz",
+        "Irán",
+        "EE. UU.",
+        "Declaración",
+        "Guerra"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 8,
+        "absurdity": 5,
+        "simplicity": 5,
+        "velocity": 9
+      },
+      "started_at": "2026-08-16T01:47:18.166095+00:00",
+      "expires_at": "2026-08-19T01:47:18.166095+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "09a2fc638863",
+      "fingerprint": "09a2fc638863",
+      "narrative_summary": "Un tiroteo en VSU deja heridos 5 horas después de un evento de bienvenida para los nuevos estudiantes.",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica (el tiroteo), y se puede capturar en una frase corta.",
+      "category": "Noticias",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "VSU",
+        "SHOOTING",
+        "TIROTEO",
+        "ESTUDIANTES"
+      ],
+      "key_terms_for_dex_search": [
+        "VSU",
+        "Tiroteo",
+        "Estudiantes",
+        "Noticias"
+      ],
+      "score": 89,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 7,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-16T01:47:32.863480+00:00",
+      "expires_at": "2026-08-18T01:47:32.863480+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Shooting at VSU injures 5 hours after freshmen welcome event - The Washington Post",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "b0dcfd73ac5f",
+      "fingerprint": "b0dcfd73ac5f",
+      "narrative_summary": "Un chico de 16 años es uno de los seis muertos en una serie de tiroteos en Michigan, mientras una chica sobrevive.",
+      "why_memeable": "La combinación de violencia, muerte y supervivencia de una chica hace que la narrativa sea muy compartible y recordable.",
+      "category": "crímenes y violencia",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "MICHIGANSHOOTINGS",
+        "TIROTEOSENMICHIGAN",
+        "CHICASOBREVIVE"
+      ],
+      "key_terms_for_dex_search": [
+        "Michigan",
+        "tiroteos",
+        "crímenes",
+        "violencia",
+        "sobrevivencia"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 8,
+        "polarizing": 6,
+        "absurdity": 4,
+        "simplicity": 8,
+        "velocity": 8
+      },
+      "started_at": "2026-08-16T01:49:47.396326+00:00",
+      "expires_at": "2026-08-19T01:49:47.396326+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-15T22:35:26.866609+00:00"
+  "last_updated": "2026-08-16T01:49:47.396326+00:00"
 }

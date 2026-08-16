@@ -1,79 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-21T23:41:02.144525+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a6b6467aaec1",
-        "ticker": "ELON",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "mc": 93233.0
-      }
-    },
-    {
-      "ts": "2026-07-21T23:41:18.825753+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "c072a923f827",
-        "ticker": "ELON",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "mc": 93094.0
-      }
-    },
-    {
-      "ts": "2026-07-21T23:41:25.015579+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3a1fa77e216f",
-        "ticker": "ELON",
-        "mint": "DawjfbWktk8URnj8cEUrLnvvZkX6YQtVoWW7senjUnU4",
-        "mc": 93094.0
-      }
-    },
-    {
-      "ts": "2026-07-22T01:11:31.908816+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 51,
-        "category": "política",
-        "title": "It’s been this way for years",
-        "candidate_tickers": [
-          "IRAN",
-          "TRUMP",
-          "GASTOSGUERRA"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T01:13:35.832838+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a52757254546",
-        "score": 90,
-        "category": "Tecnología",
-        "title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
-        "candidate_tickers": [
-          "AI_HACK",
-          "OPENAI_ESCAPE",
-          "HUGGING_FACE_HACK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-22T04:38:24.130302+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 64,
-        "category": "entretenimiento",
-        "title": "It will",
-        "candidate_tickers": [
-          "DisclosureDay",
-          "Spielberg2024",
-          "ItWill"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-22T04:39:05.420187+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27793,6 +27720,94 @@
         "candidate_tickers": [
           "HAWAIIVSSTORM",
           "HURACANLALA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:47:18.774008+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "46964340e65f",
+        "score": 80,
+        "category": "política internacional",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "TRUMPORMUZ",
+          "IRANVSUSA",
+          "TRUMPDECLARESWAR",
+          "ORMUZGATE",
+          "TRUMPVSIRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:47:33.387970+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "09a2fc638863",
+        "score": 89,
+        "category": "Noticias",
+        "title": "Shooting at VSU injures 5 hours after freshmen welcome event - The Washington Post",
+        "candidate_tickers": [
+          "VSU",
+          "SHOOTING",
+          "TIROTEO",
+          "ESTUDIANTES"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:48:40.532502+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "accidente de barco",
+        "title": "Zimbabwean boat accident death toll rises to 68 as more bodies recovered - Reuters",
+        "candidate_tickers": [
+          "ZimBoat",
+          "BarcoZim"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:49:47.942643+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "b0dcfd73ac5f",
+        "score": 80,
+        "category": "crímenes y violencia",
+        "title": "Teen boy among 6 dead including suspect in Michigan shootings; girl survived - AP News",
+        "candidate_tickers": [
+          "MICHIGANSHOOTINGS",
+          "TIROTEOSENMICHIGAN",
+          "CHICASOBREVIVE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:50:07.830010+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 68,
+        "category": "finanzas",
+        "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com",
+        "candidate_tickers": [
+          "BondTraders",
+          "AICompanies",
+          "ShadowCredit"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-16T01:51:25.914960+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 60,
+        "category": "Tecnología y negocios",
+        "title": "Interesting exchange",
+        "candidate_tickers": [
+          "XELON",
+          "INTERCHANGE"
         ]
       }
     }
