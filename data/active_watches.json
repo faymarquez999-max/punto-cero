@@ -1,124 +1,6 @@
 {
   "watches": [
     {
-      "id": "d0d34c5aa95f",
-      "fingerprint": "d0d34c5aa95f",
-      "narrative_summary": "Murió una águila llamada Jackie, que se convirtió en una celebridad en internet.",
-      "why_memeable": "La águila fue una celebridad en internet y su muerte es un evento emocional.",
-      "category": "muerte de una celebridad en internet",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "JACKIE",
-        "ÁGUILA JACKIE",
-        "CELEBRIDAD EN INTERNET MUERE"
-      ],
-      "key_terms_for_dex_search": [
-        "Jackie",
-        "Águila",
-        "Celebridad en internet",
-        "Muerte"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 6,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 8,
-        "velocity": 8
-      },
-      "started_at": "2026-08-11T05:39:54.566443+00:00",
-      "expires_at": "2026-08-14T05:39:54.566443+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Jackie",
-        "name": "The Nietzschean Eagle",
-        "mint": "4zEh89StirBvyHgiphKHNYAi8Fa6FVzVZjNUffcQpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 119922.0,
-        "liquidity_usd": 31666.41,
-        "price_usd": 0.0001199,
-        "volume_h24": 408009.58,
-        "volume_h1": 10555.73,
-        "volume_m5": 1738.74,
-        "price_change_5m": -5.16,
-        "price_change_1h": -16.34,
-        "price_change_24h": -26.69,
-        "txns_h1_buys": 165,
-        "txns_h1_sells": 85,
-        "created_ts": 1784600594000,
-        "pair_created_at": 1784600594000,
-        "url": "https://dexscreener.com/solana/93hwa1tkrxckun3qfgdxgxtadyxxt2vfdz7jxvrnkefk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: JACKIE==JACKIE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T23:56:36.149863+00:00"
-    },
-    {
-      "id": "5473af3af33c",
-      "fingerprint": "5473af3af33c",
-      "narrative_summary": "Un artículo de BuzzFeed sobre celebridades y escándalos de infidelidad que ha generado un gran interés en línea.",
-      "why_memeable": "La narrativa es memeable debido a su enfoque en escándalos de celebridades y la pregunta retórica sobre la independencia financiera.",
-      "category": "Celebridad y escándalos",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "FIRE",
-        "CHEATING",
-        "CELEBRITY"
-      ],
-      "key_terms_for_dex_search": [
-        "celebridad",
-        "escándalo",
-        "independencia financiera",
-        "FIRE"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 7,
-        "absurdity": 6,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-11T05:40:56.593769+00:00",
-      "expires_at": "2026-08-13T05:40:56.593769+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "FIRE",
-      "cluster_sources": [
-        "4chan",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-13T06:03:16.213029+00:00"
-    },
-    {
       "id": "7c9710960c27",
       "fingerprint": "7c9710960c27",
       "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
@@ -4047,7 +3929,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 28
+      "scan_attempts": 29
     },
     {
       "id": "883e51f5cb1c",
@@ -6912,7 +6794,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 25
+      "scan_attempts": 26
     },
     {
       "id": "7d3d743adbdc",
@@ -7278,7 +7160,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 24
+      "scan_attempts": 25
     },
     {
       "id": "54dac16b20ff",
@@ -7323,7 +7205,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 24
+      "scan_attempts": 25
     },
     {
       "id": "1f6b3cab2a95",
@@ -7367,7 +7249,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 23
+      "scan_attempts": 24
     },
     {
       "id": "3ab823b5593f",
@@ -8077,7 +7959,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "2869d9d2846e",
@@ -8221,7 +8103,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 21
     },
     {
       "id": "c4c89ad0de32",
@@ -8268,7 +8150,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "404d1548a088",
@@ -8313,7 +8195,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "d73c0fae9ece",
@@ -8580,7 +8462,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "25e0758db2a3",
@@ -8625,7 +8507,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "e4a2ff832353",
@@ -8670,7 +8552,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "82843e5ffa4c",
@@ -8716,7 +8598,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "c2ed8c622c3b",
@@ -8761,7 +8643,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "06d55bd12ffb",
@@ -8809,7 +8691,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "5ac9a17e5c89",
@@ -8854,7 +8736,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "d367b8bc6696",
@@ -8902,7 +8784,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "8f6f83e40baf",
@@ -8946,7 +8828,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "2f481d93ef18",
@@ -8992,7 +8874,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "afc0123a03be",
@@ -9111,7 +8993,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "5139f09b9695",
@@ -9161,7 +9043,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "dcf9a9fb3c04",
@@ -9282,7 +9164,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "d368bf279524",
@@ -9328,7 +9210,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "e1f518590af6",
@@ -9373,7 +9255,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 15
+      "scan_attempts": 16
     },
     {
       "id": "86827557f985",
@@ -9419,7 +9301,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "b66b8a892316",
@@ -9467,7 +9349,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "48758737de64",
@@ -9513,7 +9395,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "c517e73e66ae",
@@ -9708,7 +9590,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "09a2fc638863",
@@ -9754,7 +9636,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "b0dcfd73ac5f",
@@ -9800,7 +9682,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "71597dba1644",
@@ -9844,7 +9726,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "c5ad73214a69",
@@ -9962,7 +9844,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 10
+      "scan_attempts": 11
     },
     {
       "id": "e3187ed0d0a9",
@@ -10105,7 +9987,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "aba5364c799b",
@@ -10151,7 +10033,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "9c0f27a993f1",
@@ -10271,7 +10153,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 7
+      "scan_attempts": 8
     },
     {
       "id": "94af482b502e",
@@ -10317,7 +10199,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "771eb1f99269",
@@ -10361,7 +10243,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 4
+      "scan_attempts": 5
     },
     {
       "id": "8c11024fdf44",
@@ -10411,7 +10293,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "70764d1620d8",
@@ -10456,7 +10338,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "926b3027b387",
@@ -10571,7 +10453,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "53d45af49cb0",
@@ -10618,7 +10500,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "54f5b6de5cb0",
@@ -10667,7 +10549,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "0c40db35e7ac",
@@ -10713,7 +10595,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 1
+      "scan_attempts": 2
     },
     {
       "id": "e1b36581344b",
@@ -10760,8 +10642,100 @@
         "breaking_news",
         "google_news"
       ],
+      "scan_attempts": 2
+    },
+    {
+      "id": "2ec2850ed22b",
+      "fingerprint": "2ec2850ed22b",
+      "narrative_summary": "Trump anuncia reducción de ejercicios militares con Corea del Sur después de que se mantuvo al margen de la guerra de Irán",
+      "why_memeable": "La frase 'Trump dice que EE. UU. reducirá ejercicios militares con Corea del Sur' es fácil de recordar y compartir",
+      "category": "política",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "TRUMP_KOREA",
+        "TRUMP_IRAN",
+        "KIM_JONG_UN"
+      ],
+      "key_terms_for_dex_search": [
+        "trump",
+        "corea del sur",
+        "irán",
+        "kim jong un"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-17T05:43:09.532965+00:00",
+      "expires_at": "2026-08-19T05:43:09.532965+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "accb9d53e83b",
+      "fingerprint": "accb9d53e83b",
+      "narrative_summary": "Ucrania ataca a Rusia, matando a seis personas, según el gobernador interino",
+      "why_memeable": "La narrativa tiene un título claro y una imagen potencialmente icónica, lo que la hace fácil de compartir y recordar.",
+      "category": "Noticias internacionales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "RUSIA",
+        "UCRANIA",
+        "INJUSTICIA",
+        "GOLPE"
+      ],
+      "key_terms_for_dex_search": [
+        "Rusia",
+        "Ucrania",
+        "Injusticia",
+        "Golpe"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-17T05:43:45.090074+00:00",
+      "expires_at": "2026-08-19T05:43:45.090074+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
       "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-17T04:58:11.148449+00:00"
+  "last_updated": "2026-08-17T05:43:45.090074+00:00"
 }
