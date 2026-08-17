@@ -1,32 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T18:01:34.498221+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "Tendencias en Twitter",
-        "title": "Yeah",
-        "candidate_tickers": [
-          "YEAH"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T18:02:04.212513+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 62,
-        "category": "noticias internacionales",
-        "title": "EXPLOSION HEARD IN IRAN'S QESHM ISLAND -STATE BROADCASTER IRIB",
-        "candidate_tickers": [
-          "Qeshm",
-          "IRIB",
-          "IranExplosion"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T18:02:53.089473+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27809,6 +27783,34 @@
           "TERREMOTO",
           "RESCATISTAS",
           "INDONESIA"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T07:38:04.494843+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 50,
+        "category": "política",
+        "title": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows - Reuters",
+        "candidate_tickers": [
+          "HORMUZ",
+          "PETRÓLEO",
+          "EEUU_IRÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T07:39:02.461778+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Deporte",
+        "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
+        "candidate_tickers": [
+          "TommyJohn",
+          "Béisbol",
+          "Cirugía de codo"
         ]
       }
     }
