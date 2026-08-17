@@ -1,61 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T07:43:03.952419+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "d27ec4eec27b",
-        "score": 70,
-        "category": "Tecnología y Automoción",
-        "title": "FSD Supervised helps save lives",
-        "candidate_tickers": [
-          "FSD",
-          "TESLA",
-          "ELONMUSK"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T07:44:28.094734+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "a9571c488a6b",
-        "ticker": "Daddy",
-        "mint": "43umuHnRhznVSYVFHDjJJmNL2aKBV9ih7hrWyL8fpump",
-        "mc": 13361.0
-      }
-    },
-    {
-      "ts": "2026-07-23T10:09:34.049344+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bbbda290681b",
-        "score": 89,
-        "category": "animal",
-        "title": "Cool",
-        "candidate_tickers": [
-          "RINOCERONTEESCAPA",
-          "FLORIDAWILD",
-          "CANGUROSLIBRES"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T10:10:44.083557+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "1962d32d87ab",
-        "score": 90,
-        "category": "accidentes absurdos",
-        "title": "Animal lover run over by own car while saving cat on hill",
-        "candidate_tickers": [
-          "GATOSALVADOR",
-          "AUTOMÓVILGATO",
-          "COLINATRÁGICA"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T10:11:30.896629+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27796,6 +27741,67 @@
           "ELONVSADVERTS",
           "MUSKBOICOT",
           "XBOICOT"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T01:44:54.765623+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "8c11024fdf44",
+        "score": 80,
+        "category": "política/celebridad",
+        "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+        "candidate_tickers": [
+          "TRUMPMUSK",
+          "FORTKNOX",
+          "GOLDRUSH",
+          "MUSKTRUMP",
+          "CONSPIRACY"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T01:46:11.956523+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "70764d1620d8",
+        "score": 73,
+        "category": "desastres naturales",
+        "title": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm - Reuters",
+        "candidate_tickers": [
+          "LALA",
+          "HAWÁI",
+          "TORMENTATROPICAL"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T01:46:41.847817+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 66,
+        "category": "Deportes",
+        "title": "Bob Iger Honored With Main Street, U.S.A. Window at Disneyland - WDW News Today",
+        "candidate_tickers": [
+          "LAKERS",
+          "IGER",
+          "KUSHNER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T01:47:35.645510+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "926b3027b387",
+        "score": 87,
+        "category": "salud",
+        "title": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
+        "candidate_tickers": [
+          "EBOLA",
+          "CONGO",
+          "EBOLAVIRUS"
         ]
       }
     }

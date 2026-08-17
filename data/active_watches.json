@@ -1,202 +1,6 @@
 {
   "watches": [
     {
-      "id": "7b3b557cb1a3",
-      "fingerprint": "7b3b557cb1a3",
-      "narrative_summary": "Ebola virus outbreak en la República Democrática del Congo y Uganda, con más de 1.000 muertes.",
-      "why_memeable": "La narrativa es memeable debido a la gravedad y la urgencia de la situación, así como la facilidad para capturarla en una frase corta.",
-      "category": "salud pública",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "EBOLA",
-        "VIRUELA",
-        "PANDEMIA"
-      ],
-      "key_terms_for_dex_search": [
-        "Ebola",
-        "Viruela",
-        "Pandemia",
-        "salud pública",
-        "República Democrática del Congo",
-        "Uganda"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 7,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 10
-      },
-      "started_at": "2026-08-11T00:41:34.078099+00:00",
-      "expires_at": "2026-08-14T00:41:34.078099+00:00",
-      "duration_hours": 72,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Ebola",
-        "name": "EbolaVirus",
-        "mint": "5vicJEyYTDBqMsKe74vWQeDVMe5cmeA3vr1AT8RXb9t1",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 74159.0,
-        "liquidity_usd": 29372.65,
-        "price_usd": 7.42e-05,
-        "volume_h24": 48773.14,
-        "volume_h1": 1683.57,
-        "volume_m5": 1338.76,
-        "price_change_5m": -8.23,
-        "price_change_1h": -10.52,
-        "price_change_24h": 45.39,
-        "txns_h1_buys": 22,
-        "txns_h1_sells": 6,
-        "created_ts": 1778831535000,
-        "pair_created_at": 1778831535000,
-        "url": "https://dexscreener.com/solana/dt1carjxp7pzwhmabaypvpgw1nkm76vzwhjbbjdpkpqc",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: EBOLA==EBOLA",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 6,
-      "matched_at": "2026-08-12T12:40:46.774777+00:00"
-    },
-    {
-      "id": "8730af826dfa",
-      "fingerprint": "8730af826dfa",
-      "narrative_summary": "Trump y Musk cuestionan la existencia de oro en Fort Knox, generando especulación y controversia.",
-      "why_memeable": "La combinación de figuras políticas y empresariales influyentes con una teoría de la conspiración sobre el oro en Fort Knox crea un escenario absurdo y polarizador.",
-      "category": "política y economía",
-      "matched_archetype": "conspiración/leak",
-      "candidate_tickers": [
-        "TRUMPFEUD",
-        "MUSKGOLD",
-        "FORTKNOX",
-        "GOLDRUSH",
-        "TRUMPVSFACTS"
-      ],
-      "key_terms_for_dex_search": [
-        "Trump",
-        "Musk",
-        "Fort Knox",
-        "oro",
-        "conspiración"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 7,
-        "polarizing": 5,
-        "absurdity": 8,
-        "simplicity": 6,
-        "velocity": 9
-      },
-      "started_at": "2026-08-11T02:56:38.845668+00:00",
-      "expires_at": "2026-08-14T02:56:38.845668+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Hitler’s socialism wasn’t just an internal economic policy – it was the cause of the war.",
-      "cluster_sources": [
-        "4chan",
-        "breaking_news",
-        "google_news",
-        "nitter"
-      ],
-      "scan_attempts": 10,
-      "expired_at": "2026-08-14T04:26:32.247564+00:00"
-    },
-    {
-      "id": "4adde1ead766",
-      "fingerprint": "4adde1ead766",
-      "narrative_summary": "La águila balbada Jackie, famosa en internet, ha fallecido después de una prolongada enfermedad.",
-      "why_memeable": "La narrativa es memeable porque cuenta la historia de una águila famosa que ha fallecido, lo que puede generar emoción y compasión en los lectores.",
-      "category": "Noticias de animales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "JACKIE",
-        "ÁGUILA BALBADA",
-        "FALLECIMIENTO DE JACKIE"
-      ],
-      "key_terms_for_dex_search": [
-        "Jackie",
-        "Águila balbada",
-        "Fallecimiento"
-      ],
-      "score": 89,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 6,
-        "cultural_resonance": 8,
-        "polarizing": 4,
-        "absurdity": 2,
-        "simplicity": 9,
-        "velocity": 8
-      },
-      "started_at": "2026-08-11T02:58:17.406813+00:00",
-      "expires_at": "2026-08-13T02:58:17.406813+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "Jackie",
-        "name": "The Nietzschean Eagle",
-        "mint": "4zEh89StirBvyHgiphKHNYAi8Fa6FVzVZjNUffcQpump",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 232960.0,
-        "liquidity_usd": 43635.23,
-        "price_usd": 0.000233,
-        "volume_h24": 784699.69,
-        "volume_h1": 10528.54,
-        "volume_m5": 201.67,
-        "price_change_5m": -1.1,
-        "price_change_1h": 18.06,
-        "price_change_24h": 132.0,
-        "txns_h1_buys": 54,
-        "txns_h1_sells": 81,
-        "created_ts": 1784600594000,
-        "pair_created_at": 1784600594000,
-        "url": "https://dexscreener.com/solana/93hwa1tkrxckun3qfgdxgxtadyxxt2vfdz7jxvrnkefk",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: JACKIE==JACKIE",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Beloved Big Bear eagle Jackie dies after prolonged illness, wildlife officials say - ABC11 News",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:28.256291+00:00"
-    },
-    {
       "id": "0c2585e7dae5",
       "fingerprint": "0c2585e7dae5",
       "narrative_summary": "Trump toma un vuelo secreto de Turquía debido a la amenaza iraní, según The Washington Post",
@@ -10862,7 +10666,146 @@
         "google_news"
       ],
       "scan_attempts": 3
+    },
+    {
+      "id": "8c11024fdf44",
+      "fingerprint": "8c11024fdf44",
+      "narrative_summary": "Trump y Musk cuestionan la existencia de oro en Fort Knox, generando especulación y debate en las redes sociales",
+      "why_memeable": "La combinación de dos figuras polarizantes como Trump y Musk, junto con la idea absurda de que el oro de Fort Knox podría haber sido robado, crea un escenario memeable",
+      "category": "política/celebridad",
+      "matched_archetype": "conspiración/leak",
+      "candidate_tickers": [
+        "TRUMPMUSK",
+        "FORTKNOX",
+        "GOLDRUSH",
+        "MUSKTRUMP",
+        "CONSPIRACY"
+      ],
+      "key_terms_for_dex_search": [
+        "Trump",
+        "Musk",
+        "Fort Knox",
+        "oro",
+        "conspiración"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 4,
+        "cultural_resonance": 7,
+        "polarizing": 5,
+        "absurdity": 6,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-17T01:44:54.220701+00:00",
+      "expires_at": "2026-08-20T01:44:54.220701+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. Grok.com/build",
+      "cluster_sources": [
+        "4chan",
+        "breaking_news",
+        "google_news",
+        "nitter"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "70764d1620d8",
+      "fingerprint": "70764d1620d8",
+      "narrative_summary": "Lala se convierte en tormenta tropical en Hawái, causando pérdida de energía y daños en más de 200.000 hogares.",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica (tormenta tropical) que puede ser compartida fácilmente.",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LALA",
+        "HAWÁI",
+        "TORMENTATROPICAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Lala",
+        "Hawái",
+        "TormentaTropical",
+        "desastres naturales"
+      ],
+      "score": 73,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-17T01:46:11.255259+00:00",
+      "expires_at": "2026-08-20T01:46:11.255259+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "926b3027b387",
+      "fingerprint": "926b3027b387",
+      "narrative_summary": "Ebola outbreak en la República Democrática del Congo se propaga a un sexto provincia, con más de 2.100 muertes.",
+      "why_memeable": "La narrativa es memeable debido a la gravedad de la situación y la propagación del virus en un nuevo área.",
+      "category": "salud",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EBOLA",
+        "CONGO",
+        "EBOLAVIRUS"
+      ],
+      "key_terms_for_dex_search": [
+        "ebola",
+        "congo",
+        "salud",
+        "virus"
+      ],
+      "score": 87,
+      "confidence": "high",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 9,
+        "polarizing": 7,
+        "absurdity": 5,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-17T01:47:35.079795+00:00",
+      "expires_at": "2026-08-20T01:47:35.079795+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
+      "cluster_sources": [
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-16T20:03:00.005536+00:00"
+  "last_updated": "2026-08-17T01:47:35.079795+00:00"
 }
