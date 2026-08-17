@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T18:03:37.498949+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "bf97abcb8b87",
-        "ticker": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "mc": 21652.0
-      }
-    },
-    {
       "ts": "2026-07-23T19:40:26.523335+00:00",
       "kind": "shadow",
       "payload": {
@@ -27834,6 +27824,16 @@
           "DONATIONSCANDAL",
           "BINANCELEAK"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-17T09:13:59.063756+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "54f5b6de5cb0",
+        "ticker": "P4C",
+        "mint": "8JL7pBGTgNgb7U9PgrfCMmcA1VCbQgJC93dJZBGcGray",
+        "mc": 408450.0
       }
     }
   ]
