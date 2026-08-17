@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T18:02:53.089473+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "3761040bc999",
-        "ticker": "𝕏",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "mc": 95184.0
-      }
-    },
-    {
-      "ts": "2026-07-23T18:02:57.211624+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "0ccdd75b442e",
-        "ticker": "𝕏",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "mc": 95184.0
-      }
-    },
-    {
-      "ts": "2026-07-23T18:03:14.536307+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "1fb099c49b99",
-        "ticker": "𝕏",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "mc": 95184.0
-      }
-    },
-    {
-      "ts": "2026-07-23T18:03:16.666401+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "163042539924",
-        "ticker": "𝕏",
-        "mint": "7x81Erf2W5PMzCFrVumcVjcUXQmVVSadZQBamvQPSh13",
-        "mc": 95184.0
-      }
-    },
-    {
       "ts": "2026-07-23T18:03:37.498949+00:00",
       "kind": "coin_matched",
       "payload": {
@@ -27811,6 +27771,68 @@
           "TommyJohn",
           "Béisbol",
           "Cirugía de codo"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T08:28:24.146967+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 51,
+        "category": "Muerte de una figura pública",
+        "title": "This PERFECTLY explains why ‘The Left’ is obsessed with being morally superior",
+        "candidate_tickers": [
+          "HaydenPanettiere",
+          "HaydenPanettiereMuerte",
+          "PanettiereMuerte"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T08:29:09.821710+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "f7b43f15738b",
+        "score": 88,
+        "category": "noticias internacionales",
+        "title": "UKRAINIAN DRONES ATTACK INDUSTRIAL FACILITY IN RUSSIA'S ASTRAKHAN REGION - IFX CITES GOVERNOR",
+        "candidate_tickers": [
+          "ASTRAKÁN",
+          "UCRANIA",
+          "RUSIA",
+          "ATAQUE AÉREO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T08:29:48.870983+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "27072dfe3a7d",
+        "score": 90,
+        "category": "política internacional",
+        "title": "STRAIT OF HORMUZ SHIPPING GRINDS TO A HALT AHEAD OF U.S.-IRAN CEASEFIRE EXPIRY",
+        "candidate_tickers": [
+          "HORMUZ",
+          "CESEFIRE",
+          "US_IRAN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T08:30:39.812621+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "2689a297e433",
+        "score": 80,
+        "category": "Política y Finanzas",
+        "title": "EXCLUSIVE: Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show - Reuters",
+        "candidate_tickers": [
+          "BINUKR",
+          "MOSCOWGATE",
+          "UKRBIN",
+          "DONATIONSCANDAL",
+          "BINANCELEAK"
         ]
       }
     }
