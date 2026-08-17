@@ -1,21 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T18:00:29.514441+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "bf97abcb8b87",
-        "score": 84,
-        "category": "Tecnología y Automoción",
-        "title": "FSD Supervised helps save lives",
-        "candidate_tickers": [
-          "FSD",
-          "FSDSUPERVISED",
-          "TESLASAVES"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T18:01:34.498221+00:00",
       "kind": "shadow",
       "payload": {
@@ -27810,6 +27795,20 @@
           "UCRANIA",
           "INJUSTICIA",
           "GOLPE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T06:23:11.160472+00:00",
+      "kind": "shadow",
+      "payload": {
+        "score": 54,
+        "category": "Desastres naturales",
+        "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
+        "candidate_tickers": [
+          "TERREMOTO",
+          "RESCATISTAS",
+          "INDONESIA"
         ]
       }
     }
