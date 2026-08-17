@@ -1,100 +1,6 @@
 {
   "watches": [
     {
-      "id": "0c2585e7dae5",
-      "fingerprint": "0c2585e7dae5",
-      "narrative_summary": "Trump toma un vuelo secreto de Turquía debido a la amenaza iraní, según The Washington Post",
-      "why_memeable": "La frase 'Trump took secret flight out of Turkey' es corta y fácil de recordar, y la noticia es impactante y controvertida.",
-      "category": "política",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "TRUMPFLIGHT",
-        "IRANTHREAT",
-        "TRUMPSECRETFLIGHT"
-      ],
-      "key_terms_for_dex_search": [
-        "TRUMP",
-        "IRAN",
-        "VUELOR",
-        "SECRET",
-        "TURQUÍA"
-      ],
-      "score": 88,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 7,
-        "cultural_resonance": 9,
-        "polarizing": 6,
-        "absurdity": 8,
-        "simplicity": 9,
-        "velocity": 9
-      },
-      "started_at": "2026-08-11T03:00:06.158227+00:00",
-      "expires_at": "2026-08-13T03:00:06.158227+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports - reuters.com",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-13T04:29:46.414721+00:00"
-    },
-    {
-      "id": "cc551846df49",
-      "fingerprint": "cc551846df49",
-      "narrative_summary": "La atleta británica Amy Hunt gana el oro en los 100m en los Campeonatos Europeos de Atletismo en Birmingham.",
-      "why_memeable": "La narrativa tiene un momento de triunfo emocionante y un título fácilmente recordable.",
-      "category": "Deportes",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "AMYHUNT",
-        "GBGOLD",
-        "BIRMINGHAMBLAST"
-      ],
-      "key_terms_for_dex_search": [
-        "AmyHunt",
-        "GBGold",
-        "BirminghamBlast",
-        "EuropeanChampionships",
-        "100m"
-      ],
-      "score": 74,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 5,
-        "cultural_resonance": 7,
-        "polarizing": 4,
-        "absurdity": 3,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-11T03:01:10.212662+00:00",
-      "expires_at": "2026-08-13T03:01:10.212662+00:00",
-      "duration_hours": 48,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "GB's Amy Hunt wins European 100m gold",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 7,
-      "expired_at": "2026-08-13T04:29:46.414736+00:00"
-    },
-    {
       "id": "9f886d298857",
       "fingerprint": "9f886d298857",
       "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
@@ -6707,14 +6613,15 @@
       "started_at": "2026-08-14T02:31:52.468774+00:00",
       "expires_at": "2026-08-17T02:31:52.468774+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "US Sending Fresh Carrier To Relieve Over-Extended USS Lincoln Amid Reports Of Sailor Burn-Out - Zerohedge",
       "cluster_sources": [
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 24
+      "scan_attempts": 24,
+      "expired_at": "2026-08-17T03:57:12.097659+00:00"
     },
     {
       "id": "d758b429b51b",
@@ -8280,14 +8187,15 @@
       "started_at": "2026-08-15T03:01:33.830589+00:00",
       "expires_at": "2026-08-17T03:01:33.830589+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two - The Guardian",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 20
+      "scan_attempts": 20,
+      "expired_at": "2026-08-17T03:57:12.097677+00:00"
     },
     {
       "id": "ace50eb21185",
@@ -8325,14 +8233,15 @@
       "started_at": "2026-08-15T03:51:54.234678+00:00",
       "expires_at": "2026-08-17T03:51:54.234678+00:00",
       "duration_hours": 48,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 19,
+      "expired_at": "2026-08-17T03:57:12.097680+00:00"
     },
     {
       "id": "38d1d398b0ec",
@@ -10805,7 +10714,98 @@
         "google_news"
       ],
       "scan_attempts": 0
+    },
+    {
+      "id": "d24275197c68",
+      "fingerprint": "d24275197c68",
+      "narrative_summary": "Tropical Storm Lala causa daños en Hawái sin tocar tierra.",
+      "why_memeable": "La narrativa tiene un título claro y una imagen icónica (el huracán Lala).",
+      "category": "desastres naturales",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LALA",
+        "HAWAII",
+        "HURACÁN"
+      ],
+      "key_terms_for_dex_search": [
+        "Lala",
+        "Hawaii",
+        "Huracán"
+      ],
+      "score": 80,
+      "confidence": "medium",
+      "recommendation": "WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 48,
+      "memetic_dimensions": {
+        "emotional": 8,
+        "memeable": 9,
+        "visual": 6,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 9,
+        "velocity": 8
+      },
+      "started_at": "2026-08-17T03:59:12.494315+00:00",
+      "expires_at": "2026-08-20T03:59:12.494315+00:00",
+      "duration_hours": 72,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
+    },
+    {
+      "id": "53d45af49cb0",
+      "fingerprint": "53d45af49cb0",
+      "narrative_summary": "Josh Kushner y Bob Iger acuerdan comprar los Lakers por $12.5B",
+      "why_memeable": "El acuerdo sorprendente entre Josh Kushner y Bob Iger para comprar los Lakers es un tema emocionante y controvertido que puede generar un gran debate y discusión.",
+      "category": "Deportes",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "LAKERS",
+        "KUSHNER",
+        "IGER",
+        "DEAL"
+      ],
+      "key_terms_for_dex_search": [
+        "Lakers",
+        "Kushner",
+        "Iger",
+        "Deal",
+        "NBA"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 7,
+        "visual": 5,
+        "cultural_resonance": 8,
+        "polarizing": 3,
+        "absurdity": 9,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-17T03:59:49.188428+00:00",
+      "expires_at": "2026-08-19T03:59:49.188428+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "A blockbuster $12.5B deal as Josh Kushner and Bob Iger agree to buy the Lakers, AP source says - AP News",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 0
     }
   ],
-  "last_updated": "2026-08-17T01:47:35.079795+00:00"
+  "last_updated": "2026-08-17T03:59:49.188428+00:00"
 }

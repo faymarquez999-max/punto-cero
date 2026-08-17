@@ -1,35 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T14:37:10.615715+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "a41c9590c508",
-        "score": 92,
-        "category": "animal_injustice",
-        "title": "Cool",
-        "candidate_tickers": [
-          "RINOCERONTEFUGA",
-          "CANGUROSLIBRES",
-          "FLORIDAWILD"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T14:37:32.226479+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 66,
-        "category": "memecoins",
-        "title": "/XSG/ XRP Schizo General #2553",
-        "candidate_tickers": [
-          "MEME",
-          "MEME2026",
-          "MEMETORO"
-        ]
-      }
-    },
-    {
       "ts": "2026-07-23T14:40:05.607239+00:00",
       "kind": "shadow",
       "payload": {
@@ -27798,6 +27769,37 @@
           "HORMUZ",
           "IRAN",
           "PETRÓLEO"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T03:59:13.039955+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "d24275197c68",
+        "score": 80,
+        "category": "desastres naturales",
+        "title": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall - AP News",
+        "candidate_tickers": [
+          "LALA",
+          "HAWAII",
+          "HURACÁN"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T03:59:49.693252+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "53d45af49cb0",
+        "score": 74,
+        "category": "Deportes",
+        "title": "A blockbuster $12.5B deal as Josh Kushner and Bob Iger agree to buy the Lakers, AP source says - AP News",
+        "candidate_tickers": [
+          "LAKERS",
+          "KUSHNER",
+          "IGER",
+          "DEAL"
         ]
       }
     }
