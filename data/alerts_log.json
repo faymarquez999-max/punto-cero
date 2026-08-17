@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "ts": "2026-07-23T14:40:05.607239+00:00",
-      "kind": "shadow",
-      "payload": {
-        "score": 60,
-        "category": "política",
-        "title": "xcancel.com/i/broadcasts/1yxBeeAql…",
-        "candidate_tickers": [
-          "TRUMPXCANCEL",
-          "XCANCEL"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T14:41:20.182534+00:00",
-      "kind": "potential_narrative",
-      "payload": {
-        "watch_id": "e5a819886928",
-        "score": 72,
-        "category": "Tecnología",
-        "title": "FSD Supervised helps save lives",
-        "candidate_tickers": [
-          "FSD",
-          "TESLA",
-          "SUPERVISED"
-        ]
-      }
-    },
-    {
-      "ts": "2026-07-23T14:41:47.546006+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "d27ec4eec27b",
-        "ticker": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "mc": 11677.0
-      }
-    },
-    {
-      "ts": "2026-07-23T14:41:54.063620+00:00",
-      "kind": "coin_matched",
-      "payload": {
-        "watch_id": "e5a819886928",
-        "ticker": "Tesla",
-        "mint": "69hVyyRU6YPvpkbWdguSHfJXJdoARk4fFeQGuZpEDhLZ",
-        "mc": 11677.0
-      }
-    },
-    {
       "ts": "2026-07-23T16:18:15.954530+00:00",
       "kind": "potential_narrative",
       "payload": {
@@ -27801,6 +27753,63 @@
           "IGER",
           "DEAL"
         ]
+      }
+    },
+    {
+      "ts": "2026-08-17T04:53:34.150681+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "54f5b6de5cb0",
+        "score": 70,
+        "category": "política internacional",
+        "title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+        "candidate_tickers": [
+          "PETRO",
+          "HORMUZ",
+          "IRAN",
+          "EEUU",
+          "PEACE"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T04:54:06.520163+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "0c40db35e7ac",
+        "score": 74,
+        "category": "política internacional",
+        "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - Reuters",
+        "candidate_tickers": [
+          "EUVSRUSSIA",
+          "SANCTIONSPACKAGE",
+          "RUSIAEU"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T04:54:51.368617+00:00",
+      "kind": "potential_narrative",
+      "payload": {
+        "watch_id": "e1b36581344b",
+        "score": 79,
+        "category": "Deportes",
+        "title": "Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D’Amaro at D23 Disney Legends Ceremony - Variety",
+        "candidate_tickers": [
+          "LAKERS",
+          "BOBIGER",
+          "JOSHKUSHNER"
+        ]
+      }
+    },
+    {
+      "ts": "2026-08-17T04:58:11.160891+00:00",
+      "kind": "coin_matched",
+      "payload": {
+        "watch_id": "926b3027b387",
+        "ticker": "PMV",
+        "mint": "DhaLZtprNqwpUYqhrTrtnCGSuxsdnk489UqSrZj3pump",
+        "mc": 136736.0
       }
     }
   ]

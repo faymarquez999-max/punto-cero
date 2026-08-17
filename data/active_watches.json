@@ -1,220 +1,6 @@
 {
   "watches": [
     {
-      "id": "9f886d298857",
-      "fingerprint": "9f886d298857",
-      "narrative_summary": "Elon Musk anuncia que Terafab Texas será el edificio más grande y valioso del planeta.",
-      "why_memeable": "La frase es corta y fácil de recordar, con un elemento de sorpresa y un nombre icónico (Terafab).",
-      "category": "Arquitectura y tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "TERAFAB",
-        "TEXASTOWER",
-        "ELONMUSKBUILD"
-      ],
-      "key_terms_for_dex_search": [
-        "Terafab",
-        "Texas",
-        "ElonMusk",
-        "edificio",
-        "arquitectura"
-      ],
-      "score": 70,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 24,
-      "memetic_dimensions": {
-        "emotional": 6,
-        "memeable": 8,
-        "visual": 4,
-        "cultural_resonance": 6,
-        "polarizing": 5,
-        "absurdity": 3,
-        "simplicity": 9,
-        "velocity": 10
-      },
-      "started_at": "2026-08-11T03:01:32.667280+00:00",
-      "expires_at": "2026-08-13T03:01:32.667280+00:00",
-      "duration_hours": 48,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "TERAFAB",
-        "name": "Terafab",
-        "mint": "EncFm8nRh1VBwcRmGugTUzoGsC1n2srWesKDkiMAYWLt",
-        "chain": "solana",
-        "dex": "pumpswap",
-        "market_cap_usd": 59579.0,
-        "liquidity_usd": 27846.7,
-        "price_usd": 5.959e-05,
-        "volume_h24": 5657.53,
-        "volume_h1": 2126.01,
-        "volume_m5": 18.84,
-        "price_change_5m": 0.08,
-        "price_change_1h": 12.24,
-        "price_change_24h": 8.34,
-        "txns_h1_buys": 89,
-        "txns_h1_sells": 26,
-        "created_ts": 1773495773000,
-        "pair_created_at": 1773495773000,
-        "url": "https://dexscreener.com/solana/dplwclqh24ieryfhzpacljzjm4bobisucg3msqviafnj",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: TERAFAB==TERAFAB",
-        "safety_score": 1,
-        "safety_risks": [],
-        "safety_warning": true
-      },
-      "cluster_top_title": "Terafab Texas will be the largest and most valuable building on Earth by far.",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:31.584634+00:00"
-    },
-    {
-      "id": "d200527a43f2",
-      "fingerprint": "d200527a43f2",
-      "narrative_summary": "Elon Musk compartió un 'sí' en Twitter, generando una gran cantidad de interacción.",
-      "why_memeable": "La simplicidad y la brevedad de la respuesta de Elon Musk hacen que sea fácilmente compartible y reproducible.",
-      "category": "Tecnología",
-      "matched_archetype": "viral_phrase_or_quote",
-      "candidate_tickers": [
-        "YES",
-        "ELON",
-        "MUSK"
-      ],
-      "key_terms_for_dex_search": [
-        "elon",
-        "musk",
-        "yes"
-      ],
-      "score": 82,
-      "confidence": "high",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "high",
-      "time_window_hours": 12,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 9,
-        "visual": 0,
-        "cultural_resonance": 6,
-        "polarizing": 7,
-        "absurdity": 3,
-        "simplicity": 10,
-        "velocity": 10
-      },
-      "started_at": "2026-08-11T03:01:53.687382+00:00",
-      "expires_at": "2026-08-12T03:01:53.687382+00:00",
-      "duration_hours": 24,
-      "status": "coin_matched",
-      "matched_coin": {
-        "ticker": "YES",
-        "name": "Will This Coin Go Up?",
-        "mint": "9GyRGm8GGmRZyyQ2hEnazDvCSV8mXiMAHmjKwVHMvVpo",
-        "chain": "solana",
-        "dex": "raydium",
-        "market_cap_usd": 31672.0,
-        "liquidity_usd": 22997.78,
-        "price_usd": 3.167e-05,
-        "volume_h24": 35678.68,
-        "volume_h1": 187.77,
-        "volume_m5": 5.8,
-        "price_change_5m": -0.67,
-        "price_change_1h": -2.91,
-        "price_change_24h": 22.25,
-        "txns_h1_buys": 0,
-        "txns_h1_sells": 3,
-        "created_ts": 1785803375000,
-        "pair_created_at": 1785803375000,
-        "url": "https://dexscreener.com/solana/g13wvpxfygkwfngc7e6dkdztxc3d3hh13zbgdv2bms4p",
-        "source": "dexscreener",
-        "match_score": 100.0,
-        "match_reason": "ticker exact: YES==YES",
-        "safety_score": 134149,
-        "safety_risks": [
-          {
-            "name": "Creator history of rugged tokens",
-            "level": "danger",
-            "description": "Creator has a history of rugging tokens."
-          },
-          {
-            "name": "Large Amount of LP Unlocked",
-            "level": "danger",
-            "description": "A large amount of LP tokens are unlocked, allowing the owner to remove liquidity at any point."
-          },
-          {
-            "name": "Single holder ownership",
-            "level": "danger",
-            "description": "One user holds a large amount of the token supply"
-          },
-          {
-            "name": "Low Liquidity",
-            "level": "danger",
-            "description": "Low amount of liquidity in the token pool"
-          },
-          {
-            "name": "High holder concentration",
-            "level": "warn",
-            "description": "The top 10 users hold more than 50% token supply"
-          }
-        ]
-      },
-      "cluster_top_title": "Yes",
-      "cluster_sources": [
-        "nitter"
-      ],
-      "scan_attempts": 1,
-      "matched_at": "2026-08-11T12:06:32.487859+00:00"
-    },
-    {
-      "id": "40287e0059a4",
-      "fingerprint": "40287e0059a4",
-      "narrative_summary": "Un terremoto de 7,4 en Colombia ha dejado al menos 132 muertos y 570 heridos.",
-      "why_memeable": "La narrativa tiene un impacto emocional fuerte y un núcleo fácil de capturar en una frase.",
-      "category": "Desastres naturales",
-      "matched_archetype": "injustice_with_villain_and_victim",
-      "candidate_tickers": [
-        "COLOMBIA",
-        "TERREMOTO",
-        "DESGASTE"
-      ],
-      "key_terms_for_dex_search": [
-        "colombia",
-        "terremoto",
-        "desastre",
-        "muertos",
-        "heridos"
-      ],
-      "score": 80,
-      "confidence": "medium",
-      "recommendation": "STRONG_WATCH",
-      "coin_emergence_probability_24h": "medium",
-      "time_window_hours": 48,
-      "memetic_dimensions": {
-        "emotional": 8,
-        "memeable": 7,
-        "visual": 6,
-        "cultural_resonance": 9,
-        "polarizing": 4,
-        "absurdity": 5,
-        "simplicity": 8,
-        "velocity": 9
-      },
-      "started_at": "2026-08-11T05:39:14.367287+00:00",
-      "expires_at": "2026-08-14T05:39:14.367287+00:00",
-      "duration_hours": 72,
-      "status": "expired",
-      "matched_coin": null,
-      "cluster_top_title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "cluster_sources": [
-        "breaking_news",
-        "google_news"
-      ],
-      "scan_attempts": 9,
-      "expired_at": "2026-08-14T12:00:54.601976+00:00"
-    },
-    {
       "id": "d0d34c5aa95f",
       "fingerprint": "d0d34c5aa95f",
       "narrative_summary": "Murió una águila llamada Jackie, que se convirtió en una celebridad en internet.",
@@ -4261,7 +4047,7 @@
       "cluster_sources": [
         "nitter"
       ],
-      "scan_attempts": 27
+      "scan_attempts": 28
     },
     {
       "id": "883e51f5cb1c",
@@ -6899,14 +6685,15 @@
       "started_at": "2026-08-14T04:27:19.777403+00:00",
       "expires_at": "2026-08-17T04:27:19.777403+00:00",
       "duration_hours": 72,
-      "status": "active",
+      "status": "expired",
       "matched_coin": null,
       "cluster_top_title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "cluster_sources": [
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 24
+      "scan_attempts": 24,
+      "expired_at": "2026-08-17T04:52:47.938532+00:00"
     },
     {
       "id": "2a2de4559f21",
@@ -7125,7 +6912,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 24
+      "scan_attempts": 25
     },
     {
       "id": "7d3d743adbdc",
@@ -7491,7 +7278,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 23
+      "scan_attempts": 24
     },
     {
       "id": "54dac16b20ff",
@@ -7536,7 +7323,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 23
+      "scan_attempts": 24
     },
     {
       "id": "1f6b3cab2a95",
@@ -7580,7 +7367,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 22
+      "scan_attempts": 23
     },
     {
       "id": "3ab823b5593f",
@@ -8290,7 +8077,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "2869d9d2846e",
@@ -8434,7 +8221,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 19
+      "scan_attempts": 20
     },
     {
       "id": "c4c89ad0de32",
@@ -8481,7 +8268,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "404d1548a088",
@@ -8526,7 +8313,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "d73c0fae9ece",
@@ -8793,7 +8580,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 18
+      "scan_attempts": 19
     },
     {
       "id": "25e0758db2a3",
@@ -8838,7 +8625,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "e4a2ff832353",
@@ -8883,7 +8670,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "82843e5ffa4c",
@@ -8929,7 +8716,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 17
+      "scan_attempts": 18
     },
     {
       "id": "c2ed8c622c3b",
@@ -8974,7 +8761,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "06d55bd12ffb",
@@ -9022,7 +8809,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "5ac9a17e5c89",
@@ -9067,7 +8854,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "d367b8bc6696",
@@ -9115,7 +8902,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "8f6f83e40baf",
@@ -9159,7 +8946,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "2f481d93ef18",
@@ -9205,7 +8992,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 16
+      "scan_attempts": 17
     },
     {
       "id": "afc0123a03be",
@@ -9324,7 +9111,7 @@
         "breaking_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "5139f09b9695",
@@ -9374,7 +9161,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "dcf9a9fb3c04",
@@ -9495,7 +9282,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "d368bf279524",
@@ -9541,7 +9328,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "e1f518590af6",
@@ -9586,7 +9373,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 14
+      "scan_attempts": 15
     },
     {
       "id": "86827557f985",
@@ -9632,7 +9419,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "b66b8a892316",
@@ -9680,7 +9467,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 13
+      "scan_attempts": 14
     },
     {
       "id": "48758737de64",
@@ -9726,7 +9513,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 12
+      "scan_attempts": 13
     },
     {
       "id": "c517e73e66ae",
@@ -9921,7 +9708,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "09a2fc638863",
@@ -9967,7 +9754,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "b0dcfd73ac5f",
@@ -10013,7 +9800,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 11
+      "scan_attempts": 12
     },
     {
       "id": "71597dba1644",
@@ -10057,7 +9844,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "c5ad73214a69",
@@ -10175,7 +9962,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 9
+      "scan_attempts": 10
     },
     {
       "id": "e3187ed0d0a9",
@@ -10318,7 +10105,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "aba5364c799b",
@@ -10364,7 +10151,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 8
+      "scan_attempts": 9
     },
     {
       "id": "9c0f27a993f1",
@@ -10484,7 +10271,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 6
+      "scan_attempts": 7
     },
     {
       "id": "94af482b502e",
@@ -10530,7 +10317,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 5
+      "scan_attempts": 6
     },
     {
       "id": "771eb1f99269",
@@ -10574,7 +10361,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 3
+      "scan_attempts": 4
     },
     {
       "id": "8c11024fdf44",
@@ -10624,7 +10411,7 @@
         "google_news",
         "nitter"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "70764d1620d8",
@@ -10669,7 +10456,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "926b3027b387",
@@ -10707,13 +10494,40 @@
       "started_at": "2026-08-17T01:47:35.079795+00:00",
       "expires_at": "2026-08-20T01:47:35.079795+00:00",
       "duration_hours": 72,
-      "status": "active",
-      "matched_coin": null,
+      "status": "coin_matched",
+      "matched_coin": {
+        "ticker": "PMV",
+        "name": "PumpMindVirus",
+        "mint": "DhaLZtprNqwpUYqhrTrtnCGSuxsdnk489UqSrZj3pump",
+        "chain": "solana",
+        "dex": "pumpswap",
+        "market_cap_usd": 136736.0,
+        "liquidity_usd": 27663.41,
+        "price_usd": 0.0001368,
+        "volume_h24": 24565.89,
+        "volume_h1": 332.71,
+        "volume_m5": 0.0,
+        "price_change_5m": 0.0,
+        "price_change_1h": 4.75,
+        "price_change_24h": -43.46,
+        "txns_h1_buys": 25,
+        "txns_h1_sells": 1,
+        "created_ts": 1761697659000,
+        "pair_created_at": 1761697659000,
+        "url": "https://dexscreener.com/solana/whamnmp7e8uozuv4ebcpugsfenm34wzvxjezjh8on47",
+        "source": "dexscreener",
+        "match_score": 100.0,
+        "match_reason": "name match: VIRUS in PUMPMINDVIRUS",
+        "safety_score": 1,
+        "safety_risks": [],
+        "safety_warning": true
+      },
       "cluster_top_title": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
       "cluster_sources": [
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1,
+      "matched_at": "2026-08-17T04:58:11.148432+00:00"
     },
     {
       "id": "d24275197c68",
@@ -10757,7 +10571,7 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
     },
     {
       "id": "53d45af49cb0",
@@ -10804,8 +10618,150 @@
         "breaking_news",
         "google_news"
       ],
-      "scan_attempts": 0
+      "scan_attempts": 1
+    },
+    {
+      "id": "54f5b6de5cb0",
+      "fingerprint": "54f5b6de5cb0",
+      "narrative_summary": "La tensión entre EE.UU. e Irán provoca un aumento en el precio del petróleo y un retraso en la navegación por el Estrecho de Ormuz.",
+      "why_memeable": "La narrativa tiene un núcleo claro y fácil de capturar en una frase: 'La tensión entre EE.UU. e Irán provoca un aumento en el precio del petróleo y un retraso en la navegación por el Estrecho de Ormuz'.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "PETRO",
+        "HORMUZ",
+        "IRAN",
+        "EEUU",
+        "PEACE"
+      ],
+      "key_terms_for_dex_search": [
+        "petróleo",
+        "EE.UU.",
+        "Irán",
+        "Estrecho de Ormuz",
+        "tensión",
+        "navigación"
+      ],
+      "score": 70,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "medium",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 6,
+        "visual": 4,
+        "cultural_resonance": 6,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 6,
+        "velocity": 8
+      },
+      "started_at": "2026-08-17T04:53:33.778145+00:00",
+      "expires_at": "2026-08-19T04:53:33.778145+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "0c40db35e7ac",
+      "fingerprint": "0c40db35e7ac",
+      "narrative_summary": "La Unión Europea planea el paquete de sanciones más ambicioso contra Rusia en otoño, según un jefe extranjero.",
+      "why_memeable": "La frase 'paquete de sanciones más ambicioso' es fácil de recordar y compartir.",
+      "category": "política internacional",
+      "matched_archetype": "injustice_with_villain_and_victim",
+      "candidate_tickers": [
+        "EUVSRUSSIA",
+        "SANCTIONSPACKAGE",
+        "RUSIAEU"
+      ],
+      "key_terms_for_dex_search": [
+        "EU",
+        "Rusia",
+        "sanciones",
+        "otono",
+        "paquete"
+      ],
+      "score": 74,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 4,
+        "memeable": 6,
+        "visual": 2,
+        "cultural_resonance": 8,
+        "polarizing": 4,
+        "absurdity": 2,
+        "simplicity": 8,
+        "velocity": 9
+      },
+      "started_at": "2026-08-17T04:54:06.204485+00:00",
+      "expires_at": "2026-08-19T04:54:06.204485+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - Reuters",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
+    },
+    {
+      "id": "e1b36581344b",
+      "fingerprint": "e1b36581344b",
+      "narrative_summary": "Bob Iger y Josh Kushner compran los Lakers en un acuerdo de $12.5B",
+      "why_memeable": "La sorpresa de la compra y la implicación de figuras como Bob Iger y Josh Kushner hacen que la noticia sea fácilmente compartible y recordable",
+      "category": "Deportes",
+      "matched_archetype": "unexpected_celebrity_drama",
+      "candidate_tickers": [
+        "LAKERS",
+        "BOBIGER",
+        "JOSHKUSHNER"
+      ],
+      "key_terms_for_dex_search": [
+        "Lakers",
+        "BobIger",
+        "JoshKushner",
+        "compra",
+        "acuerdo",
+        "fútbol"
+      ],
+      "score": 79,
+      "confidence": "medium",
+      "recommendation": "STRONG_WATCH",
+      "coin_emergence_probability_24h": "high",
+      "time_window_hours": 24,
+      "memetic_dimensions": {
+        "emotional": 6,
+        "memeable": 8,
+        "visual": 5,
+        "cultural_resonance": 7,
+        "polarizing": 4,
+        "absurdity": 3,
+        "simplicity": 6,
+        "velocity": 5
+      },
+      "started_at": "2026-08-17T04:54:50.940364+00:00",
+      "expires_at": "2026-08-19T04:54:50.940364+00:00",
+      "duration_hours": 48,
+      "status": "active",
+      "matched_coin": null,
+      "cluster_top_title": "Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D’Amaro at D23 Disney Legends Ceremony - Variety",
+      "cluster_sources": [
+        "breaking_news",
+        "google_news"
+      ],
+      "scan_attempts": 1
     }
   ],
-  "last_updated": "2026-08-17T03:59:49.188428+00:00"
+  "last_updated": "2026-08-17T04:58:11.148449+00:00"
 }
